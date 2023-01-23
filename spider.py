@@ -215,7 +215,7 @@ if __name__ == "__main__":
         soup=BeautifulSoup(resp.text, 'lxml')
         print("生成第",i,"个电影数据……")
         update_data(soup)
-        time.sleep(random.randint(1,1000)/1000)
+        time.sleep(random.random()*3)
 
     data=pandas.DataFrame({"name":name,"post_link":post_link,"year":year,"rating":rating,"rating_people":rating_people,"short_rating_num":short_rating_num,"review_num":review_num,"movie_length":movie_length,"release_date":release_date,"director":director,"actors":actors,"playwright":playwright,"genre":genre,"country":country})
     print("正在导入csv……")
