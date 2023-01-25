@@ -93,11 +93,18 @@ soup = BeautifulSoup(resp,'lxml')
 
 # 解析
 # 上映日期
-year.append(re.findall(r"\d+\.?\d*",str(soup.find('span',class_='year')))[0])
+tmp = re.findall(r"\d+\.?\d*",str(soup.find('span',class_='year')))
+if tmp == []:
+	year.append("unknown")
+else:
+	year.append(tmp[0])
 # 电影名称
 name.append(soup.findAll(property="v:itemreviewed")[0].text)
 # 海报链接
-post_link.append(soup.find(rel="v:image").get('src').replace("s_ratio_poster","raw").replace("webp","jpg"))
+if(soup.find(rel="v:image")!=[]):
+	post_link.append(soup.find(rel="v:image").get('src').replace("s_ratio_poster","raw").replace("webp","jpg"))
+else:
+	year.append("None")
 # 豆瓣评分
 if(soup.findAll(property="v:average")[0].text!=''):
 	rating.append(soup.findAll(property="v:average")[0].text)
@@ -116,7 +123,7 @@ review_num.append(re.findall(r"\d+\.?\d*",soup.find(href="reviews").text)[0])
 if(soup.findAll(property="v:runtime")!=[]):
 	movie_length.append(soup.findAll(property="v:runtime")[0].text)
 else:
-	movie_length.append('None')
+	movie_length.append('unknown')
 # 上映日期
 if(soup.findAll(property="v:initialReleaseDate")!=[]):
 	release_date.append(soup.findAll(property="v:initialReleaseDate")[0].text)

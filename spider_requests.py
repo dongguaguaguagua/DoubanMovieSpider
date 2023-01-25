@@ -40,12 +40,18 @@ country=[]
 
 def update_data(soup):
     # 解析
-    # 上映日期
-    year.append(re.findall(r"\d+\.?\d*",str(soup.find('span',class_='year')))[0])
+    tmp = re.findall(r"\d+\.?\d*",str(soup.find('span',class_='year')))
+    if tmp == []:
+        year.append("unknown")
+    else:
+        year.append(tmp[0])
     # 电影名称
     name.append(soup.findAll(property="v:itemreviewed")[0].text)
     # 海报链接
-    post_link.append(soup.find(rel="v:image").get('src').replace("s_ratio_poster","raw").replace("webp","jpg"))
+    if(soup.find(rel="v:image")!=[]):
+        post_link.append(soup.find(rel="v:image").get('src').replace("s_ratio_poster","raw").replace("webp","jpg"))
+    else:
+        year.append("None")
     # 豆瓣评分
     if(soup.findAll(property="v:average")[0].text!=''):
         rating.append(soup.findAll(property="v:average")[0].text)
@@ -64,7 +70,7 @@ def update_data(soup):
     if(soup.findAll(property="v:runtime")!=[]):
         movie_length.append(soup.findAll(property="v:runtime")[0].text)
     else:
-        movie_length.append('None')
+        movie_length.append('unknown')
     # 上映日期
     if(soup.findAll(property="v:initialReleaseDate")!=[]):
         release_date.append(soup.findAll(property="v:initialReleaseDate")[0].text)
@@ -155,6 +161,7 @@ def get_proxy(choice='http'):
         "https"  : proxyMeta
     }
     print("选择ip成功")
+    print(proxies)
     return proxies
 
 
@@ -169,6 +176,9 @@ if __name__ == "__main__":
         #     proxies=get_proxy()
         #     headers = {'User-Agent': get_user_agent()}
         resp = requests.get("http://www.douban.com/subject/"+str(data[str(i)]), proxies=proxies,headers=headers)
+        if resp.status_code != 200:
+            print("status_code : ",resp.status_code)
+            continue
         soup=BeautifulSoup(resp.text, 'lxml')
         print("生成第",i,"个电影数据……")
         update_data(soup)
