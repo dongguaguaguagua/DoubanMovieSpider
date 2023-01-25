@@ -53,12 +53,13 @@ def update_data(soup):
     except:
         print(soup)
     # 海报链接
-    if(soup.find(rel="v:image")!=[]):
+    if(soup.find(rel="v:image")!=None):
         post_link.append(soup.find(rel="v:image").get('src').replace("s_ratio_poster","raw").replace("webp","jpg"))
     else:
-        year.append("None")
+        post_link.append("None")
+
     # 豆瓣评分
-    if(soup.findAll(property="v:average")[0].text!=''):
+    if(soup.findAll(property="v:average")!=[]):
         rating.append(soup.findAll(property="v:average")[0].text)
     else:
         rating.append('0')
@@ -68,9 +69,16 @@ def update_data(soup):
     else:
         rating_people.append('0')
     # 短评数
-    short_rating_num.append(re.findall(r"\d+\.?\d*",soup.find('div',class_="mod-hd").find_all("a")[1].text)[0])
+
+    if(soup.find('div',class_="mod-hd")!=None):
+        short_rating_num.append(re.findall(r"\d+\.?\d*",soup.find('div',class_="mod-hd").find_all("a")[1].text)[0])
+    else:
+        short_rating_num.append("0")
     # 影评数
-    review_num.append(re.findall(r"\d+\.?\d*",soup.find(href="reviews").text)[0])
+    if(soup.find(href="reviews")!=None):
+        review_num.append(re.findall(r"\d+\.?\d*",soup.find(href="reviews").text)[0])
+    else:
+        review_num.append("0")
     # 电影时长
     if(soup.findAll(property="v:runtime")!=[]):
         movie_length.append(soup.findAll(property="v:runtime")[0].text)
@@ -155,7 +163,7 @@ def get_proxy(choice='http'):
                 excellent_ip_port=new_data['data'][geshu2]['port']
 
     else:
-        print("获取ip失败hhhhh");
+        print("获取ip失败");
         return {"status":"获取ip失败"}
 
     proxyMeta = "http://%(host)s:%(port)s" % {
@@ -213,9 +221,21 @@ if __name__ == "__main__":
             # 设置请求头
             opener.addheaders = headers
             print("更新proxy完成")
+            continue
         soup = BeautifulSoup(resp.read().decode("utf8",'ignore'), 'lxml')
-        if resp.getcode() != 200:
+        if(resp.getcode() != 200):
             print("status_code : ",resp.status_code)
+            # 更新proxy
+            proxies = get_proxy()
+            # 传递proxy
+            proxy_handler = urllib.request.ProxyHandler(proxies)
+            opener = urllib.request.build_opener(proxy_handler)
+            # 设置请求头
+            opener.addheaders = headers
+            print("更新proxy完成")
+            continue
+        elif(soup == ""):
+            print("soup为空，尝试更新proxy")
             # 更新proxy
             proxies = get_proxy()
             # 传递proxy

@@ -47,14 +47,18 @@ def update_data(soup):
     else:
         year.append(tmp[0])
     # 电影名称
-    name.append(soup.findAll(property="v:itemreviewed")[0].text)
+    try:
+        name.append(soup.findAll(property="v:itemreviewed")[0].text)
+    except:
+        print(soup)
     # 海报链接
-    if(soup.find(rel="v:image")!=[]):
+    if(soup.find(rel="v:image")!=None):
         post_link.append(soup.find(rel="v:image").get('src').replace("s_ratio_poster","raw").replace("webp","jpg"))
     else:
-        year.append("None")
+        post_link.append("None")
+
     # 豆瓣评分
-    if(soup.findAll(property="v:average")[0].text!=''):
+    if(soup.findAll(property="v:average")!=[]):
         rating.append(soup.findAll(property="v:average")[0].text)
     else:
         rating.append('0')
@@ -64,9 +68,16 @@ def update_data(soup):
     else:
         rating_people.append('0')
     # 短评数
-    short_rating_num.append(re.findall(r"\d+\.?\d*",soup.find('div',class_="mod-hd").find_all("a")[1].text)[0])
+
+    if(soup.find('div',class_="mod-hd")!=None):
+        short_rating_num.append(re.findall(r"\d+\.?\d*",soup.find('div',class_="mod-hd").find_all("a")[1].text)[0])
+    else:
+        short_rating_num.append("0")
     # 影评数
-    review_num.append(re.findall(r"\d+\.?\d*",soup.find(href="reviews").text)[0])
+    if(soup.find(href="reviews")!=None):
+        review_num.append(re.findall(r"\d+\.?\d*",soup.find(href="reviews").text)[0])
+    else:
+        review_num.append("0")
     # 电影时长
     if(soup.findAll(property="v:runtime")!=[]):
         movie_length.append(soup.findAll(property="v:runtime")[0].text)
@@ -189,13 +200,19 @@ if __name__ == "__main__":
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")
             continue
-        if resp.status_code != 200:
+        if(resp.status_code != 200):
             print("status_code : ",resp.status_code)
             proxies = get_proxy()
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")
             continue
-        soup=BeautifulSoup(resp.text, 'lxml')
+        elif(soup == ""):
+            print("soup为空，尝试更新proxy")
+            proxies = get_proxy()
+            headers = {'User-Agent': ua.random}
+            print("更新proxy成功")
+            continue
+        soup = BeautifulSoup(resp.text, 'lxml')
         print("生成第",i,"个电影数据……",resp.status_code)
         update_data(soup)
         time.sleep(random.random()*3)
