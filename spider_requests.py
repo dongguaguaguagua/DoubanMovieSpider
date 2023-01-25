@@ -5,6 +5,7 @@ import random
 import datetime
 from bs4 import BeautifulSoup
 import re
+import sys
 import pandas
 import time
 from fake_useragent import UserAgent
@@ -106,7 +107,8 @@ def update_data(soup):
 def get_proxy(choice='http'):
     #芝麻ip时间选优算法
     # 获取芝麻代理ip
-    url = "http://webapi.http.zhimacangku.com/getip?num=10&type=2&pro=&city=0&yys=0&port=1&pack=290010&ts=1&ys=0&cs=1&lb=1&sb=0&pb=4&mr=1&regions="
+    with open("proxy_api.txt","r") as file:
+        url=file.read().strip()
     # url选择json
     body = {}
     headers = {}
@@ -123,9 +125,9 @@ def get_proxy(choice='http'):
         date1 = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         d1 = datetime.datetime.strptime(date1, '%Y-%m-%d %H:%M:%S')
         for geshu, val1 in enumerate(ip_data['data']):
-            #获得ip个数geshu
+            # 获得ip个数geshu
             # print(new_data['data'][geshu])
-           # 将每个时间转换为时间戳加入新数组
+            # 将每个时间转换为时间戳加入新数组
             new_time=new_data['data'][geshu]['expire_time']
             d2 =datetime.datetime.strptime(new_time, '%Y-%m-%d %H:%M:%S')
             d = d2-d1
@@ -147,10 +149,10 @@ def get_proxy(choice='http'):
             if(sec==member[0]):
                 excellent_ip=new_data['data'][geshu2]['ip']
                 excellent_ip_port=new_data['data'][geshu2]['port']
-                # TODO: write code...
-        # TODO: write code...
+
     else:
         print("获取ip失败");
+        return "获取ip失败"
 
     proxyMeta = "http://%(host)s:%(port)s" % {
         "host" : excellent_ip,
@@ -166,23 +168,38 @@ def get_proxy(choice='http'):
 
 
 if __name__ == "__main__":
+    i=0
     with open("dic1.json","r") as file:
         data=json.load(file)
-    proxies=get_proxy()
-    ua=UserAgent()
+    proxies = get_proxy()
+    if(proxies == "获取ip失败"):
+        sys.exit(1)
+    ua = UserAgent()
     headers = {'User-Agent': ua.random}
-    for i in range(10):
-        # if(i%20==1):
-        #     proxies=get_proxy()
-        #     headers = {'User-Agent': get_user_agent()}
-        resp = requests.get("http://www.douban.com/subject/"+str(data[str(i)]), proxies=proxies,headers=headers)
+    while(i<100):
+        if(i%20==19):
+            proxies = get_proxy()
+            headers = {'User-Agent': ua.random}
+            print("更新proxy成功")
+        try:
+            resp = requests.get("http://www.douban.com/subject/"+str(data[str(i)]), proxies = proxies, headers = headers)
+        except:
+            print("请求超时，尝试更新proxy")
+            proxies = get_proxy()
+            headers = {'User-Agent': ua.random}
+            print("更新proxy成功")
+            continue
         if resp.status_code != 200:
             print("status_code : ",resp.status_code)
+            proxies = get_proxy()
+            headers = {'User-Agent': ua.random}
+            print("更新proxy成功")
             continue
         soup=BeautifulSoup(resp.text, 'lxml')
-        print("生成第",i,"个电影数据……")
+        print("生成第",i,"个电影数据……",resp.status_code)
         update_data(soup)
         time.sleep(random.random()*3)
+        i+=1
 
     data=pandas.DataFrame({"name":name,"post_link":post_link,"year":year,"rating":rating,"rating_people":rating_people,"short_rating_num":short_rating_num,"review_num":review_num,"movie_length":movie_length,"release_date":release_date,"director":director,"actors":actors,"playwright":playwright,"genre":genre,"country":country})
     print("正在导入csv……")
