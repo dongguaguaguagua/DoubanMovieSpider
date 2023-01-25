@@ -82,9 +82,9 @@ genre=[]
 # 国家
 country=[]
 
-with open("/Users/huzongyu/大学/数据世界探秘/moviedata/example.html","r") as file:
+with open("example.html","r") as file:
 	resp=file.read()
-with open("/Users/huzongyu/大学/数据世界探秘/moviedata/dic1.json","r") as file:
+with open("dic1.json","r") as file:
 	data=json.load(file)
 
 headers = {'User-Agent':"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.20 (KHTML, like Gecko) Chrome/19.0.1036.7 Safari/535.20",}
