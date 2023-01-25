@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 import re
 import pandas
 import time
+import sys
 from fake_useragent import UserAgent
 import urllib.request
 
@@ -47,7 +48,10 @@ def update_data(soup):
     else:
         year.append(tmp[0])
     # 电影名称
-    name.append(soup.findAll(property="v:itemreviewed")[0].text)
+    try:
+        name.append(soup.findAll(property="v:itemreviewed")[0].text)
+    except:
+        print(soup)
     # 海报链接
     if(soup.find(rel="v:image")!=[]):
         post_link.append(soup.find(rel="v:image").get('src').replace("s_ratio_poster","raw").replace("webp","jpg"))
@@ -107,7 +111,8 @@ def update_data(soup):
 def get_proxy(choice='http'):
     #芝麻ip时间选优算法
     # 获取芝麻代理ip
-    url = "http://webapi.http.zhimacangku.com/getip?num=10&type=2&pro=&city=0&yys=0&port=1&time=1&ts=1&ys=0&cs=1&lb=1&sb=0&pb=4&mr=1&regions="
+    with open("proxy_api.txt","r") as file:
+        url=file.read().strip()
     # url选择json
     body = {}
     headers = {}
@@ -150,7 +155,8 @@ def get_proxy(choice='http'):
                 excellent_ip_port=new_data['data'][geshu2]['port']
 
     else:
-        print("获取ip失败");
+        print("获取ip失败hhhhh");
+        return {"status":"获取ip失败"}
 
     proxyMeta = "http://%(host)s:%(port)s" % {
         "host" : excellent_ip,
@@ -166,35 +172,63 @@ def get_proxy(choice='http'):
 
 
 if __name__ == "__main__":
+    i=0
     with open("dic1.json","r") as file:
         data=json.load(file)
-    proxies=get_proxy()
-    print("获取代理成功")
+
     ua=UserAgent()
+
     headers = [('User-Agent', ua.random),('Referer',"https://movie.douban.com"),('Cennection','keep-alive')]
 
-    for i in range(100):
-        if(i%20==1):
+    proxies = get_proxy()
+    if(proxies == "获取ip失败"):
+        sys.exit(1)
+
+    # 传递proxy
+    proxy_handler = urllib.request.ProxyHandler(proxies)
+    opener = urllib.request.build_opener(proxy_handler)
+    # 设置请求头
+    opener.addheaders = headers
+
+    while(i<100):
+        if(i%20==19):
             # 更新proxy
             proxies = get_proxy()
+            # 传递proxy
+            proxy_handler = urllib.request.ProxyHandler(proxies)
+            opener = urllib.request.build_opener(proxy_handler)
+            # 设置请求头
+            opener.addheaders = headers
             print("更新proxy完成")
 
-        # 传递proxy
-        proxy_handler = urllib.request.ProxyHandler(proxies)
-        opener = urllib.request.build_opener(proxy_handler)
-
-        # 设置请求头
-        print("正在请求……")
-        opener.addheaders = headers
-        resp = opener.open("https://www.douban.com/subject/"+str(data[str(i)]))
-        print("请求成功")
+        try:
+            resp = opener.open("https://www.douban.com/subject/"+str(data[str(i)]))
+        except:
+            print("请求超时，尝试更新proxy")
+            # 更新proxy
+            proxies = get_proxy()
+            # 传递proxy
+            proxy_handler = urllib.request.ProxyHandler(proxies)
+            opener = urllib.request.build_opener(proxy_handler)
+            # 设置请求头
+            opener.addheaders = headers
+            print("更新proxy完成")
         soup = BeautifulSoup(resp.read().decode("utf8",'ignore'), 'lxml')
-        # if resp.status_code != 200:
-        #     print("status_code : ",resp.status_code)
-        #     continue
-        print("生成第",i,"个电影数据……")
+        if resp.getcode() != 200:
+            print("status_code : ",resp.status_code)
+            # 更新proxy
+            proxies = get_proxy()
+            # 传递proxy
+            proxy_handler = urllib.request.ProxyHandler(proxies)
+            opener = urllib.request.build_opener(proxy_handler)
+            # 设置请求头
+            opener.addheaders = headers
+            print("更新proxy完成")
+            continue
+        print("生成第",i,"个电影数据……",resp.getcode())
         update_data(soup)
         time.sleep(random.random()*3)
+        i+=1
 
     data=pandas.DataFrame({"name":name,"post_link":post_link,"year":year,"rating":rating,"rating_people":rating_people,"short_rating_num":short_rating_num,"review_num":review_num,"movie_length":movie_length,"release_date":release_date,"director":director,"actors":actors,"playwright":playwright,"genre":genre,"country":country})
     print("正在导入csv……")
