@@ -41,12 +41,18 @@ country=[]
 
 def update_data(soup):
     # 解析
-    # 上映日期
-    year.append(re.findall(r"\d+\.?\d*",str(soup.find('span',class_='year')))[0])
+    tmp = re.findall(r"\d+\.?\d*",str(soup.find('span',class_='year')))
+    if tmp == []:
+        year.append("unknown")
+    else:
+        year.append(tmp[0])
     # 电影名称
     name.append(soup.findAll(property="v:itemreviewed")[0].text)
     # 海报链接
-    post_link.append(soup.find(rel="v:image").get('src').replace("s_ratio_poster","raw").replace("webp","jpg"))
+    if(soup.find(rel="v:image")!=[]):
+        post_link.append(soup.find(rel="v:image").get('src').replace("s_ratio_poster","raw").replace("webp","jpg"))
+    else:
+        year.append("None")
     # 豆瓣评分
     if(soup.findAll(property="v:average")[0].text!=''):
         rating.append(soup.findAll(property="v:average")[0].text)
@@ -65,7 +71,7 @@ def update_data(soup):
     if(soup.findAll(property="v:runtime")!=[]):
         movie_length.append(soup.findAll(property="v:runtime")[0].text)
     else:
-        movie_length.append('None')
+        movie_length.append('unknown')
     # 上映日期
     if(soup.findAll(property="v:initialReleaseDate")!=[]):
         release_date.append(soup.findAll(property="v:initialReleaseDate")[0].text)
@@ -165,7 +171,7 @@ if __name__ == "__main__":
     proxies=get_proxy()
     print("获取代理成功")
     ua=UserAgent()
-    headers = ("User-Agent", ua.random)
+    headers = [('User-Agent', ua.random),('Referer',"https://movie.douban.com"),('Cennection','keep-alive')]
 
     for i in range(100):
         if(i%20==1):
@@ -179,11 +185,13 @@ if __name__ == "__main__":
 
         # 设置请求头
         print("正在请求……")
-        request = urllib.request.Request(url="https://www.douban.com/subject/"+str(data[str(i)]),headers={"User-Agent": ua.random})
-        response = opener.open(request)
+        opener.addheaders = headers
+        resp = opener.open("https://www.douban.com/subject/"+str(data[str(i)]))
         print("请求成功")
-
-        soup=BeautifulSoup(response.read().decode("utf-8",'ignore'), 'lxml')
+        soup = BeautifulSoup(resp.read().decode("utf8",'ignore'), 'lxml')
+        # if resp.status_code != 200:
+        #     print("status_code : ",resp.status_code)
+        #     continue
         print("生成第",i,"个电影数据……")
         update_data(soup)
         time.sleep(random.random()*3)
