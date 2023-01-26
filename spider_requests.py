@@ -4,7 +4,6 @@ import json
 import random
 from bs4 import BeautifulSoup
 import sys
-import pandas
 import time
 from fake_useragent import UserAgent
 from update import *
@@ -23,8 +22,15 @@ if __name__ == "__main__":
             proxies = get_proxy()
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")
-
-        resp = requests.get("http://www.douban.com/subject/"+str(data[str(i)]), proxies = proxies, headers = headers)
+        try:
+            resp = requests.get("http://www.douban.com/subject/"+str(data[str(i)]), proxies = proxies, headers = headers)
+        except:
+            print("请求超时，尝试更新proxy")
+            time.sleep(3)
+            proxies = get_proxy()
+            headers = {'User-Agent': ua.random}
+            print("更新proxy成功")
+            continue
 
         if(resp.status_code != 200):
             if(resp.status_code == 404):
@@ -47,7 +53,8 @@ if __name__ == "__main__":
             continue
         print("生成第",i,"个电影数据……",resp.status_code)
         dataLine = update_data(soup)
-        os.system("echo "+dataLine+" >> MovieData.csv")
+        # 生成数据
+        os.system("echo "+str(i)+","+str(data[str(i)])+","+dataLine+" >> MovieData.csv")
         time.sleep(random.random()*3)
         i+=1
 
