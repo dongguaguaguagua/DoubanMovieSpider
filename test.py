@@ -14,6 +14,7 @@ with open("example.html","r") as file:
 	resp=file.read()
 
 soup = BeautifulSoup(resp,'lxml')
+
 update_data(soup)
 
 
