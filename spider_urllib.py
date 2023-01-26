@@ -2,15 +2,15 @@
 import requests
 import json
 import random
-import datetime
 from bs4 import BeautifulSoup
-import re
+import json
 import pandas
 import time
 import sys
 from fake_useragent import UserAgent
 import urllib.request
 from update import *
+
 
 
 if __name__ == "__main__":
@@ -23,9 +23,11 @@ if __name__ == "__main__":
     headers = [('User-Agent', ua.random),('Referer',"https://movie.douban.com"),('Cennection','keep-alive')]
 
     proxies = get_proxy()
-    if(proxies == "获取ip失败"):
+
+    if(proxies=={"status":0}):
         sys.exit(1)
 
+    time.sleep(100000)
     # 传递proxy
     proxy_handler = urllib.request.ProxyHandler(proxies)
     opener = urllib.request.build_opener(proxy_handler)
