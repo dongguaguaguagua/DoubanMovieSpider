@@ -18,20 +18,14 @@ if __name__ == "__main__":
         sys.exit(1)
     ua = UserAgent()
     headers = {'User-Agent': ua.random}
-    while(i<200):
+    while(i<2):
         if(i%20==19):
             proxies = get_proxy()
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")
-        try:
-            resp = requests.get("http://www.douban.com/subject/"+str(data[str(i)]), proxies = proxies, headers = headers)
-        except:
-            print("请求超时，尝试更新proxy")
-            time.sleep(3)
-            proxies = get_proxy()
-            headers = {'User-Agent': ua.random}
-            print("更新proxy成功")
-            continue
+
+        resp = requests.get("http://www.douban.com/subject/"+str(data[str(i)]), proxies = proxies, headers = headers)
+
         if(resp.status_code != 200):
             if(resp.status_code == 404):
                 print("subject=",data[str(i)],"的页面找不到，执行下一个")
@@ -52,12 +46,9 @@ if __name__ == "__main__":
             print("更新proxy成功")
             continue
         print("生成第",i,"个电影数据……",resp.status_code)
-        update_data(soup)
+        dataLine = update_data(soup)
+        os.system("echo "+dataLine+" >> MovieData.csv")
         time.sleep(random.random()*3)
         i+=1
 
-    data=pandas.DataFrame({"name":name,"post_link":post_link,"year":year,"rating":rating,"rating_people":rating_people,"short_rating_num":short_rating_num,"review_num":review_num,"movie_length":movie_length,"release_date":release_date,"director":director,"actors":actors,"playwright":playwright,"genre":genre,"country":country})
-    print("正在导入csv……")
-    data.to_csv("MyMovieData.csv",index=False,sep=',',encoding='utf8')
-    print("csv文件生成成功")
 

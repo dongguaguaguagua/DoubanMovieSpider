@@ -3,7 +3,6 @@ import json
 import random
 from bs4 import BeautifulSoup
 import json
-import pandas
 import time
 import sys
 from fake_useragent import UserAgent
@@ -47,6 +46,10 @@ if __name__ == "__main__":
 
         soup = BeautifulSoup(resp.read().decode("utf8",'ignore'), 'lxml')
         if(resp.getcode() != 200):
+            if(resp.getcode() == 404):
+                print("subject=",data[str(i)],"的页面找不到，执行下一个")
+                i+=1
+                continue
             print("status_code : ",resp.status_code)
             # 更新proxy
             proxies = get_proxy()
@@ -69,12 +72,10 @@ if __name__ == "__main__":
             print("更新proxy完成")
             continue
         print("生成第",i,"个电影数据……",resp.getcode())
-        update_data(soup)
+        dataLine = update_data(soup)
+        os.system("echo "+dataLine+" >> MovieData.csv")
         time.sleep(random.random()*3)
         i+=1
 
-    data=pandas.DataFrame({"name":name,"post_link":post_link,"year":year,"rating":rating,"rating_people":rating_people,"short_rating_num":short_rating_num,"review_num":review_num,"movie_length":movie_length,"release_date":release_date,"director":director,"actors":actors,"playwright":playwright,"genre":genre,"country":country})
-    print("正在导入csv……")
-    data.to_csv("MyMovieData.csv",index=False,sep=',',encoding='utf8')
-    print("csv文件生成成功")
+
 
