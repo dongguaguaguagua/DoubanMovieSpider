@@ -14,7 +14,7 @@ if __name__ == "__main__":
     with open("dic1.json","r") as file:
         data=json.load(file)
     proxies = get_proxy()
-    if(proxies == "获取ip失败"):
+    if(proxies == {"status":0}):
         sys.exit(1)
     ua = UserAgent()
     headers = {'User-Agent': ua.random}

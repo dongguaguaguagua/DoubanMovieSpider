@@ -122,6 +122,7 @@ def get_proxy(choice='http'):
     headers = {}
     response = requests.post(url, json=body, headers=headers)
     ip_data = response.json()
+
     if(ip_data['code']==0):
         print("获取ip成功")
         #每次读取10条记录对比，芝麻ip每日免费20个
@@ -158,10 +159,12 @@ def get_proxy(choice='http'):
                 excellent_ip=new_data['data'][geshu2]['ip']
                 excellent_ip_port=new_data['data'][geshu2]['port']
 
-    else:
-        print("获取ip失败");
-        return {"status":"获取ip失败"}
-
+    elif(ip_data['code']==116):
+        print("获取ip失败,今日套餐已用完");
+        return {"status":0}
+    elif(ip_data['code']==111):
+        print("获取ip失败,请求过快");
+        return {"status":0}
     proxyMeta = "http://%(host)s:%(port)s" % {
         "host" : excellent_ip,
         "port" : excellent_ip_port,
@@ -173,3 +176,5 @@ def get_proxy(choice='http'):
     print(proxies)
     print("选择ip成功")
     return proxies
+
+
