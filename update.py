@@ -1,5 +1,6 @@
 import json
 import os
+from time import sleep
 from bs4 import BeautifulSoup, NavigableString, Comment
 import requests
 import re
@@ -105,6 +106,35 @@ def update_data(soup):
         country='unknown'
     return name+","+post_link+","+year+","+rating+","+rating_people+","+short_rating_num+","+review_num+","+movie_length+","+release_date+","+director+","+playwright+","+actors+","+genre+","+country
 
+def get_qg_proxy(choice='http'):
+    with open("proxy_api.txt","r") as file:
+        url=file.read().strip()
+    response = requests.post(url, headers={})
+    ip_data = response.json()
+    print(ip_data)
+    if(ip_data['Code']==0):
+        print("获取ip成功")
+        proxyAddr=ip_data['Data'][0]['host']
+        Authkey="CEBC9918"
+        Authpwd="B24AE2729C9B"
+
+        proxyMeta = "http://%(user)s:%(password)s@%(server)s" % {
+            "user" : Authkey,
+            "password" : Authpwd,
+            "server" : proxyAddr
+        }
+        proxies = {
+            "http"  : proxyMeta,
+            "https"  : proxyMeta
+        }
+        return proxies
+    elif(ip_data['code']==-11):
+        print("获取ip失败,计划不存在或已过期");
+        return {"status":0}
+    elif(ip_data['code']==-11):
+        print("获取ip失败,请求过快");
+        return {"status":0}
+
 
 def get_proxy(choice='http'):
     #芝麻ip时间选优算法
@@ -112,11 +142,17 @@ def get_proxy(choice='http'):
     with open("proxy_api.txt","r") as file:
         url=file.read().strip()
     # url选择json
-    body = {}
     headers = {}
-    response = requests.post(url, json=body, headers=headers)
+    json={}
+    response = requests.post(url, json=json,headers=headers)
     ip_data = response.json()
+    if(ip_data['code']==0):
+        print("获取ip成功")
 
+    # url选择json
+    headers = {}
+    response = requests.post(url, headers=headers)
+    ip_data = response.json()
     if(ip_data['code']==0):
         print("获取ip成功")
         #每次读取10条记录对比，芝麻ip每日免费20个
@@ -161,14 +197,14 @@ def get_proxy(choice='http'):
         return {"status":0}
     proxyMeta = "http://%(host)s:%(port)s" % {
         "host" : excellent_ip,
-        "port" : excellent_ip_port,
+        "port" : excellent_ip,
     }
     proxies = {
         "http"  : proxyMeta,
         "https"  : proxyMeta
     }
+    print(excellent_ip,excellent_ip)
     print(proxies)
-    print("选择ip成功")
     return proxies
 
 
