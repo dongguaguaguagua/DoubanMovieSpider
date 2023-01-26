@@ -6,39 +6,26 @@ import re
 import datetime
 
 '''
-    查看IP：
-    http://icanhazip.com/
+查看IP：
+http://icanhazip.com/
 '''
 
-# # 电影名称
-# name=[]
-# # 海报链接
-# post_link=[]
-# # 上映年份
-# year=[]
-# # 豆瓣评分
-# rating=[]
-# # 评分个数
-# rating_people=[]
-# # 短评数
-# short_rating_num=[]
-# # 影评数
-# review_num=[]
-# # 电影时长
-# movie_length=[]
-# # 上映日期
-# release_date=[]
-# # 导演
-# director=[]
-# # 演员
-# actors=[]
-# # 编剧
-# playwright=[]
-# # 体裁
-# genre=[]
-# # 国家
-# country=[]
-
+'''
+电影名称: name
+海报链接: post_link
+上映年份: year
+豆瓣评分: rating
+评分个数: rating_people
+短评数: short_rating_num
+影评数: review_num
+电影时长: movie_length
+上映日期: release_date
+导演: director
+演员: actors
+编剧: playwright
+体裁: genre
+国家: country
+'''
 # 解析
 def update_data(soup):
     tmp = re.findall(r"\d+\.?\d*",str(soup.find('span',class_='year')))

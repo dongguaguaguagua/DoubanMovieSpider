@@ -73,7 +73,7 @@ if __name__ == "__main__":
             continue
         print("生成第",i,"个电影数据……",resp.getcode())
         dataLine = update_data(soup)
-        os.system("echo "+dataLine+" >> MovieData.csv")
+        os.system("echo "+str(i)+","+str(data[str(i)])+","+dataLine+" >> MovieData.csv")
         time.sleep(random.random()*3)
         i+=1
 
