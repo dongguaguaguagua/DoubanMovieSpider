@@ -18,7 +18,7 @@ if __name__ == "__main__":
         sys.exit(1)
     ua = UserAgent()
     headers = {'User-Agent': ua.random}
-    while(i<2):
+    while(i<200):
         if(i%20==19):
             proxies = get_proxy()
             headers = {'User-Agent': ua.random}
@@ -27,12 +27,14 @@ if __name__ == "__main__":
             resp = requests.get("http://www.douban.com/subject/"+str(data[str(i)]), proxies = proxies, headers = headers)
         except:
             print("请求超时，尝试更新proxy")
+            time.sleep(3)
             proxies = get_proxy()
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")
             continue
         if(resp.status_code != 200):
-            print("status_code : ",resp.status_code)
+            print("错误码 : ",resp.status_code,"尝试更新proxy")
+            time.sleep(3)
             proxies = get_proxy()
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")

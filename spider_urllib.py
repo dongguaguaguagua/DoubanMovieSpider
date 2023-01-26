@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import requests
 import json
 import random
 from bs4 import BeautifulSoup
@@ -27,7 +26,6 @@ if __name__ == "__main__":
     if(proxies=={"status":0}):
         sys.exit(1)
 
-    time.sleep(100000)
     # 传递proxy
     proxy_handler = urllib.request.ProxyHandler(proxies)
     opener = urllib.request.build_opener(proxy_handler)
@@ -45,19 +43,8 @@ if __name__ == "__main__":
             opener.addheaders = headers
             print("更新proxy完成")
 
-        try:
-            resp = opener.open("https://www.douban.com/subject/"+str(data[str(i)]))
-        except:
-            print("请求超时，尝试更新proxy")
-            # 更新proxy
-            proxies = get_proxy()
-            # 传递proxy
-            proxy_handler = urllib.request.ProxyHandler(proxies)
-            opener = urllib.request.build_opener(proxy_handler)
-            # 设置请求头
-            opener.addheaders = headers
-            print("更新proxy完成")
-            continue
+        resp = opener.open("https://www.douban.com/subject/"+str(data[str(i)]))
+
         soup = BeautifulSoup(resp.read().decode("utf8",'ignore'), 'lxml')
         if(resp.getcode() != 200):
             print("status_code : ",resp.status_code)
