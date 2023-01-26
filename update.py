@@ -5,8 +5,6 @@ import requests
 import re
 import datetime
 
-# print(dic)
-a=[]
 # 电影名称
 name=[]
 # 海报链接
