@@ -23,7 +23,7 @@ if __name__ == "__main__":
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")
         try:
-            resp = requests.get("http://www.douban.com/subject/"+str(data[str(i)]), proxies = proxies, headers = headers)
+            resp = requests.get("http://www.douban.com/subject/"+str(data[str(i)]), headers = headers)
         except:
             print("请求超时，尝试更新proxy")
             time.sleep(3)
