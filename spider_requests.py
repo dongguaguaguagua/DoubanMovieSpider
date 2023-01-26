@@ -33,6 +33,10 @@ if __name__ == "__main__":
             print("更新proxy成功")
             continue
         if(resp.status_code != 200):
+            if(resp.status_code == 404):
+                print("subject=",data[str(i)],"的页面找不到，执行下一个")
+                i+=1
+                continue
             print("错误码 : ",resp.status_code,"尝试更新proxy")
             time.sleep(3)
             proxies = get_proxy()
