@@ -5,10 +5,12 @@ from bs4 import BeautifulSoup, NavigableString, Comment
 import requests
 import re
 import datetime
-
+import sys
 '''
 查看IP：
 http://icanhazip.com/
+查看是否高匿：
+http://httpbin.org/get
 '''
 
 '''
@@ -106,6 +108,7 @@ def update_data(soup):
         country='unknown'
     return name+","+post_link+","+year+","+rating+","+rating_people+","+short_rating_num+","+review_num+","+movie_length+","+release_date+","+director+","+playwright+","+actors+","+genre+","+country
 
+# 青果代理
 def get_qg_proxy(choice='http'):
     with open("proxy_api.txt","r") as file:
         url=file.read().strip()
@@ -130,13 +133,18 @@ def get_qg_proxy(choice='http'):
         return proxies
     elif(ip_data['code']==-11):
         print("获取ip失败,计划不存在或已过期");
-        return {"status":0}
-    elif(ip_data['code']==-11):
-        print("获取ip失败,请求过快");
-        return {"status":0}
+        sys.exit(1)
 
+    elif(ip_data['code']==-103):
+        print("获取ip失败,资源不足");
+        sys.exit(1)
 
-def get_proxy(choice='http'):
+    # elif(ip_data['code']==-11):
+    #     print("获取ip失败,请求过快");
+    #     return {"status":0}
+
+# 芝麻代理
+def get_zm_proxy(choice='http'):
     #芝麻ip时间选优算法
     # 获取芝麻代理ip
     with open("proxy_api.txt","r") as file:
@@ -189,22 +197,26 @@ def get_proxy(choice='http'):
                 excellent_ip=new_data['data'][geshu2]['ip']
                 excellent_ip_port=new_data['data'][geshu2]['port']
 
+        proxyMeta = "http://%(host)s:%(port)s" % {
+            "host" : excellent_ip,
+            "port" : excellent_ip,
+        }
+        proxies = {
+            "http"  : proxyMeta,
+            "https"  : proxyMeta
+        }
+        print(excellent_ip,excellent_ip)
+        print(proxies)
+        return proxies
+
     elif(ip_data['code']==116):
         print("获取ip失败,今日套餐已用完");
-        return {"status":0}
-    elif(ip_data['code']==111):
-        print("获取ip失败,请求过快");
-        return {"status":0}
-    proxyMeta = "http://%(host)s:%(port)s" % {
-        "host" : excellent_ip,
-        "port" : excellent_ip,
-    }
-    proxies = {
-        "http"  : proxyMeta,
-        "https"  : proxyMeta
-    }
-    print(excellent_ip,excellent_ip)
-    print(proxies)
-    return proxies
+        sys.exit(1)
+
+    # elif(ip_data['code']==111):
+    #     print("获取ip失败,请求过快");
+    #     sys.exit(1)
+
+
 
 

@@ -20,7 +20,7 @@ if __name__ == "__main__":
 
     headers = [('User-Agent', ua.random),('Referer',"https://movie.douban.com"),('Cennection','keep-alive')]
 
-    proxies = get_proxy()
+    proxies = get_zm_proxy()
 
     if(proxies=={"status":0}):
         sys.exit(1)
@@ -34,7 +34,7 @@ if __name__ == "__main__":
     while(i<100):
         if(i%20==19):
             # 更新proxy
-            proxies = get_proxy()
+            proxies = get_zm_proxy()
             # 传递proxy
             proxy_handler = urllib.request.ProxyHandler(proxies)
             opener = urllib.request.build_opener(proxy_handler)
@@ -52,7 +52,7 @@ if __name__ == "__main__":
                 continue
             print("status_code : ",resp.status_code)
             # 更新proxy
-            proxies = get_proxy()
+            proxies = get_zm_proxy()
             # 传递proxy
             proxy_handler = urllib.request.ProxyHandler(proxies)
             opener = urllib.request.build_opener(proxy_handler)
@@ -63,7 +63,7 @@ if __name__ == "__main__":
         elif(soup == ""):
             print("soup为空，尝试更新proxy")
             # 更新proxy
-            proxies = get_proxy()
+            proxies = get_zm_proxy()
             # 传递proxy
             proxy_handler = urllib.request.ProxyHandler(proxies)
             opener = urllib.request.build_opener(proxy_handler)
