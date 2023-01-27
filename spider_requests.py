@@ -18,7 +18,7 @@ if __name__ == "__main__":
         sys.exit(1)
     ua = UserAgent()
     headers = {'User-Agent': ua.random,'Referer':"https://movie.douban.com",'Cennection':'keep-alive'}
-    while(i<1):
+    while(i<10000):
         if(i%20==19):
             proxies = get_qg_proxy()
             headers = {'User-Agent': ua.random}
