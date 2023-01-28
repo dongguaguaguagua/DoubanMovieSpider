@@ -40,7 +40,7 @@ def update_data(soup):
     info=soup.find(id="info")
     # 电影名称
     if(soup.findAll(property="v:itemreviewed")!=[]):
-        name=soup.findAll(property="v:itemreviewed")[0].text
+        name=soup.findAll(property="v:itemreviewed")[0].text.replace(",",";")
     else:
         name="unknown"
     # 海报链接

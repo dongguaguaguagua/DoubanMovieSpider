@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "行尸走肉电影版 The Walking Dead",
+  "url": "/subject/30372307/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2563141590.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1128804/",
+      "name": "格里高利·尼克特洛 Gregory Nicotero"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333841/",
+      "name": "斯科特·M·金普勒 Scott M. Gimple"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049600/",
+      "name": "安德鲁·林肯 Andrew Lincoln"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192182/",
+      "name": "宝拉雅娜·麦金托什 Pollyanna McIntosh"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "《行尸走肉》中饰演瑞克的安德鲁·林肯确认第9季是他的谢幕季，然而他不会离开“行尸走肉宇宙”。据外媒消息，安德鲁·林肯已经正式签约，出演《行尸走肉》电影版。
+AMC正在开发多个基于《行尸走肉》的原创电影...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

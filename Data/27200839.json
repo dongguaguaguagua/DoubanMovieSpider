@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "分身人 Multiple Man",
+  "url": "/subject/27200839/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2537632164.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338199/",
+      "name": "艾伦·海因伯格 Allan Heinberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038214/",
+      "name": "克里斯·克雷蒙 Chris Claremont"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019787/",
+      "name": "莱恩·韦恩 Len Wein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1205234/",
+      "name": "约翰·布西马 John Buscema"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019001/",
+      "name": "詹姆斯·弗兰科 James Franco"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "据外媒报道，詹姆斯·弗兰科将加盟X战警电影宇宙，饰演分身人(Multiple Man)。福斯正在制作分身人单行电影，将由西蒙·金伯格执导，詹姆斯·弗兰科同时也会担任这部影片的制片。截至目前，已经在计划...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

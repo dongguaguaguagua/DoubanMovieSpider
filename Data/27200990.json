@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Sunny",
+  "url": "/subject/27200990/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307645/",
+      "name": "埃娃·瑟尔海于格 Eva Sørhaug"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307645/",
+      "name": "埃娃·瑟尔海于格 Eva Sørhaug"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031822/",
+      "name": "莎朗·斯通 Sharon Stone"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "Wealthy and glamorous Sunny radiates polished perfection, but beneath her sparkling society smile, S...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

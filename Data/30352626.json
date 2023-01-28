@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "音轨上的血 Untitled Blood on the Tracks Project",
+  "url": "/subject/30352626/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285579/",
+      "name": "卢卡·瓜达尼诺 Luca Guadagnino"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018072/",
+      "name": "鲍勃·迪伦 Bob Dylan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040863/",
+      "name": "理查德·拉·格拉文斯 Richard LaGravenese"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018981/",
+      "name": "科洛·莫瑞兹 Chloë Grace Moretz"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "A feature film based on Bob Dylan&#39;s 1975 album, &#34;Blood on the Tracks&#34;.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

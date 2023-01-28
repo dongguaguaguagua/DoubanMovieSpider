@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Troll Hunter",
+  "url": "/subject/10536603/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2515665937.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018056/",
+      "name": "尼尔·马歇尔 Neil Marshall"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037904/",
+      "name": "马克·海姆斯 Marc Haimes"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "A remake of the 2010 Norwegian film about a group of students trying to solve a series of mysterious...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

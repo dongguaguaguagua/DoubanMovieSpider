@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心症 심증",
+  "url": "/subject/27138584/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399055/",
+      "name": "金泰俊 Tae Joon Kim(导演)"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1205984/",
+      "name": "曹汝贞 Yeo-Jeong Jo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337233/",
+      "name": "徐睿知 Ye-ji Seo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "该片由金泰俊执导，讲述被家人困在精神病院的女人目击了在同一个病房里发生的杀人案而引起的心理惊悚片，电影在选角结束后将于下半年正式开拍。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

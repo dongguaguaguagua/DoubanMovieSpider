@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯狂突袭 벅스 어택",
+  "url": "/subject/26803994/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317274/",
+      "name": "黄东赫 Dong-hyuk Hwang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315769/",
+      "name": "沈恩京 Eun-kyung Shim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316208/",
+      "name": "成东日 Dong-il Sung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339503/",
+      "name": "韩胜妍 Seung-yeon Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321512/",
+      "name": "郑振永 Jung Jin-young"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "以昆虫为素材由10个短篇构成。摄制组表示继沈恩京出演的1篇‘蚊子’后2篇‘蟑螂’篇正在准备中。以后的短篇因为还在构思中没有能透露的具体内容。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "酱园弄杀夫案 The Murderer",
+  "url": "/subject/26749938/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2881651653.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274300/",
+      "name": "陈可辛 Peter Chan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363954/",
+      "name": "蒋峰 Feng Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462211/",
+      "name": "史零 Ling Shi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041014/",
+      "name": "章子怡 Ziyi Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "该剧改编自真实事件。1944年的深夜，居住在上海新昌路酱园内的詹周氏持刀杀死多年虐待自己的丈夫詹云影。此后，层出不穷的嫌犯和证人陆续揭开詹周氏苦难的人生，却使案情陷入层层迷雾。詹周氏的命运也被时局的变...",
+  "@type": "TVSeries",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

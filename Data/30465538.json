@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "法兰西 France",
+  "url": "/subject/30465538/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2870562827.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275128/",
+      "name": "布鲁诺·杜蒙 Bruno Dumont"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275128/",
+      "name": "布鲁诺·杜蒙 Bruno Dumont"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009295/",
+      "name": "蕾雅·赛杜 Léa Seydoux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392878/",
+      "name": "布朗什·加丁 Blanche Gardin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005370/",
+      "name": "班哲明·比欧雷 Benjamin Biolay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473061/",
+      "name": "伊曼纽尔·阿里奥利 Emanuele Arioli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022949/",
+      "name": "茱莉安·柯勒 Juliane Köhler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473091/",
+      "name": " Marc Bettinelli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473092/",
+      "name": " Lucile Roche"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389652/",
+      "name": "埃马纽埃尔·马克龙 Emmanuel Macron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045113/",
+      "name": "伯努瓦·马吉梅尔 Benoît Magimel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437285/",
+      "name": "Justine Herbez Justine Herbez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437284/",
+      "name": "Annick Lavieville Annick Lavieville"
+    }
+  ]
+,
+  "datePublished": "2021-07-15",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT2H14M",
+  "description": "法国第一女主播法兰西强悍娇艳，记者会上向总统犀利提问，转眼又眉来眼去频送秋波；坐镇主持政论节目，以完美妆容力战来宾；亲身前往远方战地“演绎”实况，还不忘忙碌奔波照顾家庭。她原是法国人心头上的一颗硃砂痣...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "11406",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

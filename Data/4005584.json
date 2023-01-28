@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "温夫人的扇子（阿根廷电影版） Historia de una mala mujer",
+  "url": "/subject/4005584/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2567987142.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048652/",
+      "name": "Luis Saslavsky Luis Saslavsky"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027987/",
+      "name": "奥斯卡·王尔德 Oscar Wilde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048652/",
+      "name": "Luis Saslavsky Luis Saslavsky"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1130840/",
+      "name": "Bertha Moss Bertha Moss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080297/",
+      "name": "阿尔维托·德·门多萨 Alberto de Mendoza"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1077004/",
+      "name": "Homero Cárpena Homero Cárpena"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076854/",
+      "name": "Ricardo Castro Ríos Ricardo Castro Ríos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1067336/",
+      "name": "Roberto Bordoni Roberto Bordoni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066399/",
+      "name": "Amalia Bernabé Amalia Bernabé"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028967/",
+      "name": "阿尔维托·克洛萨斯 Alberto Closas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025351/",
+      "name": "朵乐丝·德里奥 Dolores del Rio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014104/",
+      "name": "费尔南多·拉马斯 Fernando Lamas"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "Oscar Wilde might have been amused to learn that his epigrammatic stage comedy-drama Lady Windemere&#39;...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

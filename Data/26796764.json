@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "哥谭魅影 Gotham City Sirens",
+  "url": "/subject/26796764/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2514868333.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319045/",
+      "name": "大卫·阿耶 David Ayer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364682/",
+      "name": "克里斯蒂娜·霍德森 Christina Hodson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023174/",
+      "name": "保罗·迪尼 Paul Dini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005116/",
+      "name": "布鲁斯·提姆 Bruce W. Timm"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272303/",
+      "name": "玛格特·罗比 Margot Robbie"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "华纳DC将为《犯罪敢死队》里的“奸雄”小丑女（Harley Quinn）制作一部独立的电影。
+目前这部影片正在筹备之中，澳洲女星玛戈·罗比（Margot Robbie）会继续担任主演。不过这部影片不仅...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

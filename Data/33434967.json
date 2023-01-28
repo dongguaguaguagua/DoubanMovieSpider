@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "只有形式的罗曼史 장르만 로맨스",
+  "url": "/subject/33434967/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2714854806.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006294/",
+      "name": "曹恩智 Eun-ji Jo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477885/",
+      "name": "金娜德 Kim Na-deul"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439463/",
+      "name": "柳甲烈 Kab-yeol Yu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316165/",
+      "name": "柳承龙 Seung-ryong Ryu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376103/",
+      "name": "吴娜拉 Na-ra Oh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321571/",
+      "name": "金熙元 Hae-won Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342770/",
+      "name": "李裕英 You-young Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384047/",
+      "name": "成侑彬 Yoo-bin Sung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409901/",
+      "name": "武镇圣 Jin-seong Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478009/",
+      "name": "郑允荷 Jung Yun-Ha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472422/",
+      "name": "裴琉璃 Bae Yuri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1480809/",
+      "name": "吴友利 Oh Woori"
+    }
+  ]
+,
+  "datePublished": "2021-11-17",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H53M",
+  "description": "柳承龙、吴娜拉、金熙元、成侑彬及以200：1竞争率获胜的武振成最终加盟电影《嘴巴不可以》，该片讲述陷入已经是第七年低迷期的畅销作家“贤”面前天才作家志愿生“柳振”出现之后发生的喜剧故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "628",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

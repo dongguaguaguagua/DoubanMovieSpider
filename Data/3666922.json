@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海盗地带 Pirate Latitudes",
+  "url": "/subject/3666922/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027340/",
+      "name": "迈克尔·克莱顿 Michael Crichton"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "",
+  "description": "影片描述一名叫做杭特的海盗，与牙买加总督计划袭击一艘西班牙宝藏船的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}
