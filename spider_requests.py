@@ -11,7 +11,7 @@ from update import *
 
 
 if __name__ == "__main__":
-    i=0
+    i=1000
     with open("dic1.json","r") as file:
         data=json.load(file)
     with open("dic2_full.json","r") as file:
@@ -19,20 +19,14 @@ if __name__ == "__main__":
     proxies = get_zm_proxy()
     ua = UserAgent()
     headers = {'User-Agent': ua.random,'Referer':"https://movie.douban.com",'Cennection':'keep-alive'}
-    while(i<1000):
+    while(i<2000):
         if(i%40==19):
             proxies = get_zm_proxy()
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")
-        try:
-            resp = requests.get("http://www.douban.com/subject/"+str(data[str(i)]), proxies = proxies, headers = headers, timeout=3)
-        except:
-            print("请求超时，尝试更新proxy")
-            time.sleep(3)
-            proxies = get_zm_proxy()
-            headers = {'User-Agent': ua.random}
-            print("更新proxy成功")
-            continue
+
+        resp = requests.get("http://www.douban.com/subject/"+str(data[str(i)]), proxies = proxies, headers = headers, timeout=3)
+
 
         if(resp.status_code != 200):
             if(resp.status_code == 404):
