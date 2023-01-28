@@ -36,6 +36,8 @@ def update_data(soup):
         year="unknown"
     else:
         year=tmp[0]
+
+    info=soup.find(id="info")
     # 电影名称
     if(soup.findAll(property="v:itemreviewed")!=[]):
         name=soup.findAll(property="v:itemreviewed")[0].text
@@ -72,38 +74,39 @@ def update_data(soup):
     else:
         review_num="0"
     # 电影时长
-    if(soup.findAll(property="v:runtime")!=[]):
-        movie_length=soup.findAll(property="v:runtime")[0].text
+    if(info.findAll(property="v:runtime")!=[]):
+        movie_length=info.findAll(property="v:runtime")[0].text
     else:
         movie_length='unknown'
     # 上映日期
-    if(soup.findAll(property="v:initialReleaseDate")!=[]):
-        release_date=soup.findAll(property="v:initialReleaseDate")[0].text
+    if(info.findAll(property="v:initialReleaseDate")!=[]):
+        release_date=info.findAll(property="v:initialReleaseDate")[0].text
     else:
         release_date='unknown'
     # 导演
-    if(soup.findAll(text="导演")!=[]):
-        director=soup.findAll(text="导演")[0].next.next.text
+    if(info.findAll(text="导演")!=[]):
+        director=info.findAll(text="导演")[0].next.next.text
     else:
         director='unknown'
     # 编剧
-    if(soup.findAll(text="编剧")!=[]):
-        playwright=soup.findAll(text="编剧")[0].next.next.text
+    if(info.findAll(text="编剧")!=[]):
+        playwright=info.findAll(text="编剧")[0].next.next.text
     else:
         playwright='unknown'
     # 演员
-    if(soup.findAll('span',class_="actor")!=[]):
-        actors=soup.findAll('span',class_="actor")[0].text.replace("主演: ","")
+    if(info.findAll('span',class_="actor")!=[]):
+        actors=info.findAll('span',class_="actor")[0].text.replace("主演: ","")
     else:
         actors='unknown'
+
     # 体裁
-    if(soup.find_all(property="v:genre")!=[]):
-        genre=BeautifulSoup(' / '.join(str(soup.find_all(property="v:genre")).split('</span>, <span property="v:genre">')),'lxml').findAll('span')[0].text
+    if(info.find_all(property="v:genre")!=[]):
+        genre=BeautifulSoup(' / '.join(str(info.find_all(property="v:genre")).split('</span>, <span property="v:genre">')),'lxml').findAll('span')[0].text
     else:
         genre='unknown'
     # 国家
-    if(soup.findAll(text="制片国家/地区:")!=[]):
-        country=soup.findAll(text="制片国家/地区:")[0].next.strip()
+    if(info.findAll(text="制片国家/地区:")!=[]):
+        country=info.findAll(text="制片国家/地区:")[0].next.strip()
     else:
         country='unknown'
     return name+","+post_link+","+year+","+rating+","+rating_people+","+short_rating_num+","+review_num+","+movie_length+","+release_date+","+director+","+playwright+","+actors+","+genre+","+country
