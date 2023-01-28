@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "球状闪电",
+  "url": "/subject/26733707/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561439915.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317950/",
+      "name": "张小北 Xiaobei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326565/",
+      "name": "刘慈欣 Cixin Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336305/",
+      "name": "刘昊然 Haoran Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314124/",
+      "name": "杨紫 Andy Yang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "继《三体》开拍电影后，著名科幻作家刘慈欣的又一部科幻小说《球状闪电》也要拍电影。据悉，电影《球状闪电》已于近日备案立项，讲述主人公刘祠目睹父母死于球状闪电发誓破解谜团，随后与恐怖分子斗争，解开球状闪电...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

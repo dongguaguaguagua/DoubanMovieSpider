@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Love Is a Gun",
+  "url": "/subject/30366445/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2574732461.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019743/",
+      "name": "凯克·麦罗 Kike Maíllo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332597/",
+      "name": "大卫·奥伯恩 David Auburn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274269/",
+      "name": "谢尔顿·特纳 Sheldon Turner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468574/",
+      "name": "杰夫·吉恩 Jeff Guinn"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018981/",
+      "name": "科洛·莫瑞兹 Chloë Grace Moretz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022761/",
+      "name": "杰克·奥康奈尔 Jack O&#39;Connell"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "An alternate take on the story of the bank-robbing duo.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

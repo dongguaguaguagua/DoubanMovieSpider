@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "毒贩大妈 La Daronne",
+  "url": "/subject/30386253/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2581106604.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296533/",
+      "name": "让-保尔·萨罗米 Jean-Paul Salomé"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296533/",
+      "name": "让-保尔·萨罗米 Jean-Paul Salomé"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054515/",
+      "name": "伊莎贝尔·于佩尔 Isabelle Huppert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028158/",
+      "name": "伊波利特·吉拉尔多 Hippolyte Girardot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415017/",
+      "name": "莉莲娜·罗维埃 Liliane Rovère"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387959/",
+      "name": "伊里斯·布里 Iris Bry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420864/",
+      "name": "卡梅尔·古恩福 Kamel Guenfoud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365044/",
+      "name": "亚辛·侯伊卡 Yasin Houicha"
+    }
+  ]
+,
+  "datePublished": "2020-01-16",
+  "genre": ["\u559c\u5267", "\u72af\u7f6a"],
+  "duration": "PT1H44M",
+  "description": "故事讲述于佩尔饰演一名为巴黎禁毒小组工作的法语-阿拉伯语翻译。一天她被派遣帮助一个女人陷入困境的儿子，却因此卷入了一场失败的毒品交易，获得了一堆大麻。在坚持与禁毒小队工作的同时，这名翻译悄然走向另一方...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3154",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

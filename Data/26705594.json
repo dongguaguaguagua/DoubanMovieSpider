@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寻龙诀2",
+  "url": "/subject/26705594/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2869345646.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322271/",
+      "name": "田里 Li Tian"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322145/",
+      "name": "汪启楠 Qinan Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "寻龙诀将筹拍第二部黄金帝国 导演未知",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

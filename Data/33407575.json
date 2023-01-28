@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "逐梦拍档 Isi &amp; Ossi",
+  "url": "/subject/33407575/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2584310323.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385421/",
+      "name": "丽莎·维卡里 Lisa Vicari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209168/",
+      "name": "黛西·罗斯·布莱内斯 Darcy Rose Byrnes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417070/",
+      "name": "丹尼斯·莫因 Dennis Mojen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394779/",
+      "name": "佩嘉·费多尼 Pegah Ferydoni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327344/",
+      "name": "恩斯特·施托兹 Ernst Stötzner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410729/",
+      "name": "丽莎·哈格迈斯特 Lisa Hagmeister"
+    }
+  ]
+,
+  "datePublished": "2020-02-14",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H53M",
+  "description": "一位亿万富翁的女儿假装与一位经济拮据的拳击手相爱，以逼迫父母允许她追求烹饪梦想。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "801",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

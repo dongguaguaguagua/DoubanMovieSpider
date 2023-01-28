@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "哈利路亚！ Hallelujah!",
+  "url": "/subject/30206878/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320132/",
+      "name": "克里斯·艾迪生 Chris Addison"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346044/",
+      "name": "乔恩·克罗克 Jon Croker"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006956/",
+      "name": "拉尔夫·费因斯 Ralph Fiennes"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "拉尔夫·费因斯将加盟克里斯·艾迪生(《副总统》)执导的复古喜剧[哈利路亚！](Hallelujah!，暂译)，饰演作曲家格奥尔格·弗里德里希·亨德尔。影片表述方式将类似[莎翁情史]，展现亨德尔经典作品...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

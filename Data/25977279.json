@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "讲故事的人 Storyteller",
+  "url": "/subject/25977279/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350938/",
+      "name": "杨涵博 Terence W. Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350938/",
+      "name": "杨涵博 Terence W. Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350938/",
+      "name": "杨涵博 Terence W. Yang"
+    }
+  ]
+,
+  "datePublished": "2020-12-31",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "TERENCE W. YANG构思3年的野心长片计划，现已无限期搁置。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

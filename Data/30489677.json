@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地球重构日",
+  "url": "/subject/30489677/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450033/",
+      "name": "杨文森 Wensen Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371764/",
+      "name": "李学政 Xuezheng Li"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "2028年，企图“创世界”的科学狂人但丁古尔斯利用“聚合能量”和地球重构的谎言准备毁灭世界，中国退役上校彭传贵奉命打入但丁古尔斯内部，于千钧一发之际拯救了整个人类。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

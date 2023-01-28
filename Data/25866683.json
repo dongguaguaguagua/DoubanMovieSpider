@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "十三号星期五 Friday the 13th",
+  "url": "/subject/25866683/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014076/",
+      "name": "布瑞克·埃斯纳尔 Breck Eisner"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335435/",
+      "name": "亚伦·格兹考斯基 Aaron Guzikowski"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "《杀出狂人镇》《最后的巫师猎人》导演布瑞克·埃斯纳尔有望接过大旗。布瑞克的父亲迈克尔·埃斯纳尔正是影片发行商派拉蒙影业1976年-1984年期间的CEO。影片曾延期三次，从15年3月推迟到11月，又推...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

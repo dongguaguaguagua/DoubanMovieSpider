@@ -1,0 +1,130 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "占有者 Possessor",
+  "url": "/subject/30220880/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2614169211.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319606/",
+      "name": "布兰登·柯南伯格 Brandon Cronenberg"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319606/",
+      "name": "布兰登·柯南伯格 Brandon Cronenberg"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002683/",
+      "name": "肖恩·宾 Sean Bean"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427521/",
+      "name": "汉娜克·塔波特 Hanneke Talbot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004588/",
+      "name": "詹妮弗·杰森·李 Jennifer Jason Leigh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040815/",
+      "name": "安德丽娅·赖斯伯勒 Andrea Riseborough"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276636/",
+      "name": "瑞秋·克劳福德 Rachael Crawford"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1265872/",
+      "name": "塔彭丝·米德尔顿 Tuppence Middleton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027464/",
+      "name": "罗西弗·萨瑟兰 Rossif Sutherland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396480/",
+      "name": "盖奇·格雷厄姆·阿布斯诺特 Gage Graham-Arbuthnot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390714/",
+      "name": "丹尼·沃 Danny Waugh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327710/",
+      "name": "克里斯托弗·阿波特 Christopher Abbott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019251/",
+      "name": "雷欧·巴奈扎 Raoul Bhaneja"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009568/",
+      "name": "克里斯托弗·贾科特 Christopher Jacot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328818/",
+      "name": "卡内赫迪奥·霍恩 Kaniehtiio Horn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339272/",
+      "name": "黛拉格·坎贝尔 Deragh Campbell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118730/",
+      "name": "道格·麦克劳德 Doug MacLeod"
+    }
+  ]
+,
+  "datePublished": "2020-01-25",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H43M",
+  "description": "讲述一个秘密组织的特工Tasya Vos利用大脑植入技术来“栖息”在他人的身体里，驱使他们为某些高薪客户执行暗杀任务。然而一次例行工作出了差错，她很快发现自己陷入了一个不知情的嫌疑犯的思想中，其对暴力...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3906",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

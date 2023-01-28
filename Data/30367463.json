@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心脏 Visceral",
+  "url": "/subject/30367463/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021207/",
+      "name": "弗雷德里克·雅尔丹 Frédéric Jardin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362218/",
+      "name": "乔治娜·坎贝尔 Georgina Campbell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013857/",
+      "name": "费·唐纳薇 Faye Dunaway"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "",
+  "description": "乔治娜·坎贝尔(《黑镜》)、费·唐纳薇加盟动作惊悚片[心脏](Visceral，暂译)，法国导演弗雷德里克·雅尔丹([不眠夜])首执英语片导筒。故事讲述年轻的心脏外科医生朱莉原本准备为一个男孩做换心脏...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

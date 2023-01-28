@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "隔山有眼3：起源 The Hills Have Eyes: The Beginning",
+  "url": "/subject/11599143/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013854/",
+      "name": "罗布·赞比 Rob Zombie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025221/",
+      "name": "韦斯·克雷文 Wes Craven"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

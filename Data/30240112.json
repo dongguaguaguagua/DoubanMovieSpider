@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美丽梦魇 Beautiful Nightmare",
+  "url": "/subject/30240112/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2601995598.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163253/",
+      "name": "托马斯·丘吉尔 Thomas J. Churchill"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163253/",
+      "name": "托马斯·丘吉尔 Thomas J. Churchill"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

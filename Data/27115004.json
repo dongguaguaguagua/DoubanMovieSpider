@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "帕丁顿熊3 Paddington in Peru",
+  "url": "/subject/27115004/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2632052837.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473229/",
+      "name": "道格尔·威尔森 Dougal Wilson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279705/",
+      "name": "马克·伯顿 Mark Burton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473231/",
+      "name": "乔·福斯特 Jon Foster"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473230/",
+      "name": "詹姆斯·拉蒙特 James Lamont"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313689/",
+      "name": "保罗·金 Paul King"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1220668/",
+      "name": "迈克尔·邦德 Michael Bond"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025149/",
+      "name": "本·卫肖 Ben Whishaw"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u60ac\u7591", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "道格尔·威尔森将执导《帕丁顿熊3》，本·卫肖回归继续为帕丁顿熊配音。道格尔·威尔森从事MV和广告工作，这是他首次担任电影长片导演，影片将于2023年在伦敦和秘鲁拍摄。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

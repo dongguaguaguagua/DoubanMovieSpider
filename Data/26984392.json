@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜翼 Nightwing",
+  "url": "/subject/26984392/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2521051871.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276297/",
+      "name": "克里斯·麦凯 Chris McKay"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343914/",
+      "name": "比尔·迪比克 Bill Dubuque"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006536/",
+      "name": "比尔·芬格 Bill Finger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041392/",
+      "name": "鲍勃·凯恩 Bob Kane"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "华纳兄弟正在筹备《蝙蝠侠》系列衍生角色“夜翼”的真人独立电影，改编自DC漫画，《乐高蝙蝠侠大电影》导演克里斯·麦凯有望执导。
+“夜翼”这一角色首先出现在1963年的DC漫画中，当时他还是超人的化名，故...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血量子 Blood Quantum",
+  "url": "/subject/33432158/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2589602288.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337393/",
+      "name": "杰夫·巴纳比 Jeff Barnaby"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337393/",
+      "name": "杰夫·巴纳比 Jeff Barnaby"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018299/",
+      "name": "麦克尔·格雷耶斯 Michael Greyeyes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354169/",
+      "name": "福勒斯特·古德勒克 Forrest Goodluck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000099/",
+      "name": "凯欧瓦·高登 Kiowa Gordon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339479/",
+      "name": "奥利维亚·斯克里文 Olivia Scriven"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377085/",
+      "name": "威廉·贝勒 William Belleau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338805/",
+      "name": "德芙丽·雅各布斯 Devery Jacobs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019171/",
+      "name": "加利·法梅尔 Gary Farmer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381746/",
+      "name": "费利西亚·舒尔曼 Felicia Shulman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316275/",
+      "name": "特洛文·海斯 Trevor Hayes"
+    }
+  ]
+,
+  "datePublished": "2019-09-05",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H36M",
+  "description": "The dead are coming back to life outside the isolated Mi&#39;gMaq reserve of Red Crow, except for its In...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "305",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

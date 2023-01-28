@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Compound 9",
+  "url": "/subject/33962473/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2558831960.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333757/",
+      "name": "罗德里戈·H·比拉 Rodrigo H. Vila"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014274/",
+      "name": "威廉·皮特·布拉蒂 William Peter Blatty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333757/",
+      "name": "罗德里戈·H·比拉 Rodrigo H. Vila"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378644/",
+      "name": "安迪·韦斯 Andy Weiss"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "Suddenly, a group of USMC veterans who were decorated for valor experimented serious mental disorder...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

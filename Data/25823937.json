@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天赋异禀 Brilliance",
+  "url": "/subject/25823937/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009507/",
+      "name": "阿齐瓦·高斯曼 Akiva Goldsman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019071/",
+      "name": "大卫·凯普 David Koepp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348594/",
+      "name": "马库斯·萨基 Marcus Sakey"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027138/",
+      "name": "威尔·史密斯 Will Smith"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "",
+  "description": "威尔·史密斯将主演派拉蒙新片[异能时代](Brilliance，暂译)。阿齐瓦·高斯曼([美丽心灵])操刀剧本。影片改编自马库斯·萨基创作的同名小说，讲述20世纪80年代，美国各地开始出现拥有罕见天赋...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}
