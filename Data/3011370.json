@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "康斯坦丁2 Constantine 2",
+  "url": "/subject/3011370/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2751749231.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000242/",
+      "name": "弗朗西斯·劳伦斯 Francis Lawrence"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009507/",
+      "name": "阿齐瓦·高斯曼 Akiva Goldsman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1198058/",
+      "name": "史提夫·比塞特 Steve Bissette"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454211/",
+      "name": "杰米·德拉诺 Jamie Delano"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008070/",
+      "name": "基努·里维斯 Keanu Reeves"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "《康斯坦丁2》运作中，主演基努·里维斯和导演弗朗西斯·劳伦斯回归。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "比如父子",
+  "url": "/subject/30305568/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2536482986.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356127/",
+      "name": "仇晟 Sheng Qiu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356127/",
+      "name": "仇晟 Sheng Qiu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

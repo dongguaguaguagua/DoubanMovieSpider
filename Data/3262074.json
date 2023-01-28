@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暴力信条 The Creed of Violence",
+  "url": "/subject/3262074/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032123/",
+      "name": "托德·菲尔德 Todd Field"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032123/",
+      "name": "托德·菲尔德 Todd Field"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025175/",
+      "name": "丹尼尔·克雷格 Daniel Craig"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "故事发生在1910年墨西哥大革命期间，Rawbone是个脾气暴躁行事张扬的职业杀手，在一次武器走私的买卖途中，他不幸被警方拘捕。为此，他的律师提出一项解决方案，只要Rawbone同意与联邦调查局合作，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

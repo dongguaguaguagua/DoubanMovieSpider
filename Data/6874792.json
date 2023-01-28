@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "凤凰",
+  "url": "/subject/6874792/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2503742081.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343478/",
+      "name": "毛启超 Qichao Mao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u753b"],
+  "duration": "",
+  "description": "《凤凰》的故事主角是一个生活在西南边境的小女孩，全片讲述她寻找母亲、破解身世之谜的传奇故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

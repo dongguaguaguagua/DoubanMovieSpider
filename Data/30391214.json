@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "使命召唤2 Call of Duty 2",
+  "url": "/subject/30391214/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2541324245.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046134/",
+      "name": "斯特法诺·索利马 Stefano Sollima"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389011/",
+      "name": "乔·罗伯特·科尔 Joe Robert Cole"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u6218\u4e89"],
+  "duration": "",
+  "description": "《使命召唤》真人电影虽然还在开发中，但动视暴雪已经在计划续集了，目前聘请了乔·罗伯特·科尔(《黑豹》《美国犯罪故事》)为系列第二部编写剧本。该公司今年初聘请斯特法诺·索利马(《边境杀手2》《格莫拉》《...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

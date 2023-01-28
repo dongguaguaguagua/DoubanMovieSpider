@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玩偶",
+  "url": "/subject/2988974/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2226783466.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353365/",
+      "name": "陆培 Pei Lu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309561/",
+      "name": "袁大举 Daju Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353365/",
+      "name": "陆培 Pei Lu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u9ed1\u8272\u7535\u5f71"],
+  "duration": "",
+  "description": "《玩偶》剧本通过国家电影局的立项审查后，经过近两年的精心策划和筹备，于2007年12月26日在北京开机。制作团队云集了电影界各行高手，有张艺谋的御用摄影师、掌机《满城尽带黄金甲》、《圆明园》等多部大片...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

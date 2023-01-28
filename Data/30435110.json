@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑暗的心 Heart of Darkness",
+  "url": "/subject/30435110/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877544638.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004566/",
+      "name": "麦克·辛 Michael Sheen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040614/",
+      "name": "马修·瑞斯 Matthew Rhys"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274365/",
+      "name": "安德鲁·斯科特 Andrew Scott"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H20M",
+  "description": "麦克·辛、马修·瑞斯、安德鲁·斯科特将担任根据约瑟夫·康拉德著作《黑暗的心》改编动画影片配音。马克·杰金斯、玛丽·卡特·欧-弗兰纳根操刀剧本。《黑暗的心》故事围绕海员马洛早年在非洲刚果河流域行船时的一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

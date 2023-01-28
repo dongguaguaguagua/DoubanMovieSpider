@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乔瑟夫·巴林米的左臂 Le bras gauche de Joseph Bahrami",
+  "url": "/subject/27089207/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382660/",
+      "name": "吉约姆·布哈克 Guillaume Brac"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382660/",
+      "name": "吉约姆·布哈克 Guillaume Brac"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

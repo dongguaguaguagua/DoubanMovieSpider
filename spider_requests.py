@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+from fake_useragent.fake import update
 import requests
 import json
 import random
@@ -10,14 +11,14 @@ from update import *
 
 
 if __name__ == "__main__":
-    i=570
+    i=0
     with open("dic1.json","r") as file:
         data=json.load(file)
     proxies = get_zm_proxy()
     ua = UserAgent()
     headers = {'User-Agent': ua.random,'Referer':"https://movie.douban.com",'Cennection':'keep-alive'}
     while(i<1000):
-        if(i%20==19):
+        if(i%40==19):
             proxies = get_zm_proxy()
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")
@@ -51,10 +52,11 @@ if __name__ == "__main__":
             print("更新proxy成功")
             continue
         print("生成第",i,"个电影数据……",resp.status_code)
-        dataLine = update_data(soup)
+        # dataLine = update_data(soup)
         # 生成数据
-        os.system("echo \""+str(i)+","+str(data[str(i)])+","+dataLine+"\" >> MovieData.csv")
-
+        # os.system("echo \""+str(i)+","+str(data[str(i)])+","+dataLine+"\" >> MovieData.csv")
+        with open("Data/"+str(data[str(i)])+".json","w") as file:
+            file.write(update_json(soup))
         time.sleep(random.random()*3)
         i+=1
 

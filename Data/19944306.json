@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地心历险记3 Journey 3: From the Earth to the Moon",
+  "url": "/subject/19944306/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2657501089.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317388/",
+      "name": "布拉德·佩顿 Brad Peyton"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317744/",
+      "name": "马克·戈恩 Mark Gunn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317743/",
+      "name": "布莱恩·戈恩 Brian Gunn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045668/",
+      "name": "凯利·海斯 Carey Hayes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045579/",
+      "name": "查德·海斯 Chad Hayes"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044707/",
+      "name": "道恩·强森 Dwayne Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053556/",
+      "name": "乔什·哈切森 Josh Hutcherson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337530/",
+      "name": "安娜·科尔韦尔 Anna Colwell"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "Sean and Hank go on their biggest adventure yet, to the moon.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -220,6 +220,8 @@ def get_zm_proxy(choice='http'):
     #     print("获取ip失败,请求过快");
     #     sys.exit(1)
 
-
+def update_json(soup):
+    json=soup.find(type="application/ld+json").text
+    return json
 
 

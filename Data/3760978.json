@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不明飞行物 U.F.O.",
+  "url": "/subject/3760978/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2263374841.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285331/",
+      "name": "马修·格拉茨纳 Matthew Gratzner"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000719/",
+      "name": "盖瑞·安德森 Gerry Anderson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018978/",
+      "name": "艾丽·拉特 Ali Larter"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "Based in the near future - where a super secret military organization SHADO (Supreme Headquarters Al...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

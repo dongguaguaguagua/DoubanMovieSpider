@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "千里迢迢 The Thousand Miles",
+  "url": "/subject/25908267/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540658800.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040620/",
+      "name": "希尔万·肖默 Sylvain Chomet"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040620/",
+      "name": "希尔万·肖默 Sylvain Chomet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054413/",
+      "name": "费德里科·费里尼 Federico Fellini"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "在20世纪50年代的意大利，两个中年兄弟以77mi.cc的身份进行了一场神奇的奥德赛。他们参加了世界上最美丽的汽车比赛:Mille Miglia。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

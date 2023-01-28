@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "老虎的学徒 Tiger&#39;s Apprentice",
+  "url": "/subject/33385049/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2867664687.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443675/",
+      "name": "永杜俊 Yong Duk Jhun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304143/",
+      "name": "卡洛斯·巴埃纳 Carlos Baena"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281489/",
+      "name": "哈里·克里普斯 Harry Cripps"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305980/",
+      "name": "大卫·麦基 David Magee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022664/",
+      "name": "杨紫琼 Michelle Yeoh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392013/",
+      "name": "亨利·戈尔丁 Henry Golding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010565/",
+      "name": "吴珊卓 Sandra Oh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1256835/",
+      "name": "莉娅·刘易斯 Leah Lewis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424698/",
+      "name": "杨伯文 Bowen Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040758/",
+      "name": "布兰登·司徒 Brandon Soo Hoo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071592/",
+      "name": "德博拉·S·克雷格 Deborah S. Craig"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338131/",
+      "name": "朱利安·亚奥·焦耶洛 Giullian Yao Gioiello"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1157891/",
+      "name": "陈琼华 Kheng Hua Tan"
+    }
+  ]
+,
+  "datePublished": "2023-02-10",
+  "genre": ["\u52a8\u4f5c", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "",
+  "description": "亨利·戈尔丁将为派拉蒙动画影片[老虎的学徒](The Tiger’s Apprentice，暂译)献声。该片由卡洛斯·巴埃纳([恐怖摩天轮])执导，大卫·麦基([少年派的奇幻漂流])、哈里·克里普斯、...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暴雨将至",
+  "url": "/subject/30473278/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549358824.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389080/",
+      "name": "何荣欣 Brack Xin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389080/",
+      "name": "何荣欣 Brack Xin"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT2H0M",
+  "description": "本片根据“深圳龙岗女模碎尸案”改编。故事讲述灯红酒緑的国际都市，某个炎炎夏日的清晨，拾荒老人在城市边缘的小溪里发现一个旅行箱，里面装着一具被剁碎的女尸，死者是当任市局队长何志平的未婚妻，由于线索中断，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

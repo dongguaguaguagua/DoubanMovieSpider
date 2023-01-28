@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杰特·戴 Jett Day",
+  "url": "/subject/30488999/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045234/",
+      "name": "大卫·马肯兹 David Mackenzie"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343914/",
+      "name": "比尔·迪比克 Bill Dubuque"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "",
+  "description": "援引That Hashtag Show消息，华纳将打造美版詹姆斯·邦德影片。华纳正在积极开发新的动作冒险影片项目[杰特·戴](Jett Day，暂译)。比尔·迪比克(《黑钱胜地》)操刀剧本，故事讲述一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

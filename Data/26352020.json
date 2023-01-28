@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "危机营救 Narco Sub",
+  "url": "/subject/26352020/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013907/",
+      "name": "安托万·福奎阿 Antoine Fuqua"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324769/",
+      "name": "大卫·古根海姆 David Guggenheim"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031220/",
+      "name": "连姆·尼森 Liam Neeson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "",
+  "description": "Various U.S. agencies take on the dangerous task of recovering nuclear activities.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

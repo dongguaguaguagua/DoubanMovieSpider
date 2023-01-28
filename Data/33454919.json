@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "旅程 The Journey",
+  "url": "/subject/33454919/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2639182880.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335491/",
+      "name": "静野孔文 Kobun Shizuno"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312900/",
+      "name": "富冈淳广 Atsuhiro Tomioka"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025560/",
+      "name": "古谷彻 Tôru Furuya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274377/",
+      "name": "神谷浩史 Hiroshi Kamiya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037337/",
+      "name": "中井和哉 Kazuya Nakai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037583/",
+      "name": "三石琴乃 Kotono Mitsuishi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1197854/",
+      "name": "黑田崇矢 Takaya Kuroda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274454/",
+      "name": "中村悠一 Yuuichi Nakamura"
+    }
+  ]
+,
+  "datePublished": "2021-06-25",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H50M",
+  "description": "日本东映动画将与沙特动画工作室Manga Productions打造合拍动画片[旅程](The Journey，暂译)。影片成本估计在1000万美元到1500万美元之间。这部基于古代阿拉伯历史和文化的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "排球甜心",
+  "url": "/subject/25920008/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2189954512.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349107/",
+      "name": "欧阳妮妮 Nini Ouyang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322005/",
+      "name": "林佳陵 Lena Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383284/",
+      "name": "刘奕儿 Eugenie Liu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u8fd0\u52a8"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

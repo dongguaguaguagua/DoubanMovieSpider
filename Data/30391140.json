@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "致埃文·汉森 Dear Evan Hansen",
+  "url": "/subject/30391140/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2677200573.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070754/",
+      "name": "斯蒂芬·卓博斯基 Stephen Chbosky"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414703/",
+      "name": "史蒂文·莱文森 Steven Levenson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369629/",
+      "name": "本吉·帕塞克 Benj Pasek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369630/",
+      "name": "贾斯汀·保罗 Justin Paul"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328012/",
+      "name": "本·普拉特 Ben Platt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054519/",
+      "name": "朱丽安·摩尔 Julianne Moore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317629/",
+      "name": "凯特琳·德弗 Kaitlyn Dever"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022563/",
+      "name": "艾米·亚当斯 Amy Adams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163769/",
+      "name": "丹尼·皮诺 Danny Pino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440688/",
+      "name": "科尔顿·瑞安 Colton Ryan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320554/",
+      "name": "阿曼德拉·斯坦伯格  Amandla Stenberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354157/",
+      "name": "尼克·多达尼 Nik Dodani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443319/",
+      "name": "艾萨克·鲍威尔 Isaac Powell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454549/",
+      "name": "金·罗森 Kim Rosen"
+    }
+  ]
+,
+  "datePublished": "2021-09-09",
+  "genre": ["\u5267\u60c5", "\u6b4c\u821e"],
+  "duration": "PT2H17M",
+  "description": "聚焦青少年自杀、心理疾病等问题，讲述一个深受社交恐惧折磨的高中生编造故事，试图接近一个已自杀的同学的家庭。对“局外人”、心理创伤和人性的探讨细腻、私人，触动心灵。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3393",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

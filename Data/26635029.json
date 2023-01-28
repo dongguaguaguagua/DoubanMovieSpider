@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯狂的麦克斯6 Mad Max 6",
+  "url": "/subject/26635029/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1056046/",
+      "name": "乔治·米勒 George Miller"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1056046/",
+      "name": "乔治·米勒 George Miller"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "乔治·米勒也在最近的采访中确认：华纳正在计划拍摄《疯狂的麦克斯》两部续集。而在拍摄《狂暴之路》的过程中，两部续集的剧本已经完成了。乔治·米勒可能都不会成为这两部续集电影的导演了。就在近日他曾明确表示希...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

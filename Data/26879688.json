@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "沃霍尔 Warhol",
+  "url": "/subject/26879688/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323478/",
+      "name": "特伦斯·温特 Terence Winter"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013764/",
+      "name": "杰瑞德·莱托 Jared Leto"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "“小丑”杰瑞德·莱托将出演讲述安迪·沃霍尔的自传片《沃霍尔》，他还将担任新片制片。特伦斯·温特操刀剧本。沃霍尔的作品自上世纪50年代开始展出，他被誉为20世纪最知名的艺术家之一，是波普艺术的倡导者和领...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

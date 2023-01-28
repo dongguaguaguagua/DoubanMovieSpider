@@ -100,7 +100,9 @@ with open("example.html","r") as html:
     data=html.read()
 
 soup=BeautifulSoup(data,"lxml")
-print(update_data(soup))
+
+with open("Data/"+"aaaa"+".json","w") as file:
+    file.write(update_json(soup))
 
 # proxxxy=get_qg_proxy()
 # headers = {'User-Agent': UserAgent().random}

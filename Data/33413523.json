@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Casandra",
+  "url": "/subject/33413523/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1299489/",
+      "name": "Alejandro Trejo Alejandro Trejo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337705/",
+      "name": "Teresita Reyes Teresita Reyes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417225/",
+      "name": "菲利普·里奥 Felipe Ríos"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

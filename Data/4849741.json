@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小小的暗黑面 Small Dark Look",
+  "url": "/subject/4849741/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356449/",
+      "name": "马丁·赞里维特 Martin Zandvliet"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303916/",
+      "name": "斯蒂文·奈特 Steven Knight"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "杰森·斯坦森正在商谈主演焦点影业犯罪题材新片[小小的暗黑面](Small Dark Look，暂译)。该片原名为[尸体交错](Body Cross)。[地雷区]导演马丁·赞里维特替代已退出的威廉·奥尔...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

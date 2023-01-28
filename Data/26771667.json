@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三重门",
+  "url": "/subject/26771667/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2333112703.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275307/",
+      "name": "韩寒 Han Han"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275307/",
+      "name": "韩寒 Han Han"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "据电影《三重门》的故事梗概显示，“林雨翔在学校里遇到了好友罗天成、女神Susan、亦师亦友的老师马德保，面对学业的压力，成长的困惑、人生的挑战，他倍感迷茫，但是接下来发生的事情，成就了众人的热血与青春...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "创：战纪3 Tron: Ares",
+  "url": "/subject/30246476/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1216851/",
+      "name": "乔阿吉姆·罗恩尼 Joachim Rønning"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045242/",
+      "name": "史蒂文·利斯伯吉尔 Steven Lisberger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313153/",
+      "name": "邦尼·麦克伯德 Bonnie MacBird"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437895/",
+      "name": "大卫·迪吉利奥 David DiGilio"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013764/",
+      "name": "杰瑞德·莱托 Jared Leto"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "杰瑞德·莱托将主演迪士尼[创]系列新片，加斯·戴维斯([雄狮])执导。Jesse Wigutow撰写了最新一版剧本，杰瑞德还将担任该片制作人。目前剧情暂未透露。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

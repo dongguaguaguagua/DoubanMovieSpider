@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "最后的派对 The Last Party",
+  "url": "/subject/24706563/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2632331710.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008136/",
+      "name": "哈维·劳里 Harvey Lowry"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1079591/",
+      "name": "José Esteban Lasala José Esteban Lasala"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025136/",
+      "name": "帕斯·贝加 Paz Vega"
+    }
+  ]
+,
+  "datePublished": "2021-02-05",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "A Spanish swindler by the nickname of Xavier advises to invest in international movies, where they c...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

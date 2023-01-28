@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "群星，我的归宿 The Stars My Destination",
+  "url": "/subject/26335589/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326532/",
+      "name": "乔丹·沃格特-罗伯茨 Jordan Vogt-Roberts"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038270/",
+      "name": "阿尔弗雷德·贝斯特 Alfred Bester"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "《群星，我的归宿》在全球科幻文学界都享有很高的声誉，小说最初是在1956年以《虎！虎！》的名字发表，1957出版单行本更名为《群星，我的归宿》。小说中，贝斯特将大仲马的复仇戏剧搬到了太空，这部作品可谓...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

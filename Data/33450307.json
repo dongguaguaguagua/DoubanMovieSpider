@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "撒旦真实存在 Satan Is Real",
+  "url": "/subject/33450307/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292564/",
+      "name": "菲尔·莫里森 Phil Morrison"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1188887/",
+      "name": "乔恩·雷蒙德 Jon Raymond"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018984/",
+      "name": "伊桑·霍克 Ethan Hawke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009310/",
+      "name": "亚历桑德罗·尼沃拉 Alessandro Nivola"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "伊桑·霍克、亚历桑德罗·尼沃拉([违命])将主演传记影片[撒旦真实存在](Satan Is Real，暂译)，菲尔·莫里森([六月虫])执导，乔恩·雷蒙德(《幻世浮生》)、谢尔比·盖恩斯共同操刀剧本。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

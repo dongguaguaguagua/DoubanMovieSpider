@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑暗中的笑声 Laughter in the Dark",
+  "url": "/subject/25728580/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041311/",
+      "name": "比利·奥古斯特 Bille August"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343077/",
+      "name": "格雷格·拉特 Greg Latter"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Based on Vladimir Nabokov&#39;s novel, set in 1930&#39;s Berlin, Laughter In The Dark centres on a wealthy a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

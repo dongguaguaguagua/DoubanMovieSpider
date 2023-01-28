@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寻子遇仙记：动画冒险 The Kid: An Animated Adventure",
+  "url": "/subject/33433374/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307001/",
+      "name": "克里斯蒂安·福克曼 Christian Volckman"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307001/",
+      "name": "克里斯蒂安·福克曼 Christian Volckman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040843/",
+      "name": "鲁伯特·瓦耶特 Rupert Wyatt"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332866/",
+      "name": "雅各布·特伦布莱 Jacob Tremblay"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u52a8\u753b"],
+  "duration": "",
+  "description": "雅各布·特伦布莱将为查理·卓别林经典电影[寻子遇仙记]的科幻动画版配音。这部名为[寻子遇仙记:动画冒险] (The Kid: An Animated Adventure，暂译)的动画片以未来派的纽约为...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

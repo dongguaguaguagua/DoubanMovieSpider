@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "骷髅岛：金刚之血 Skull Island: Blood of the Kong",
+  "url": "/subject/25936914/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2242407259.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018056/",
+      "name": "尼尔·马歇尔 Neil Marshall"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437780/",
+      "name": "西蒙·厄特利 Simon Uttley"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "金刚死后25年，卡尔·德纳姆之子再次远征骷髅岛去揭开长久以来的迷团。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

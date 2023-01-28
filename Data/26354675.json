@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幻觉之书 The Book of Vision",
+  "url": "/subject/26354675/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614633978.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442618/",
+      "name": "卡罗·辛特曼 Carlo Hintermann"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442618/",
+      "name": "卡罗·辛特曼 Carlo Hintermann"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027299/",
+      "name": "查尔斯·丹斯 Charles Dance"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009738/",
+      "name": "洛特·弗贝克 Lotte Verbeek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050003/",
+      "name": "斯瓦利尔·古德纳松 Sverrir Gudnason"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040734/",
+      "name": "薇拉·菲拉托娃 Vera Filatova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247129/",
+      "name": "伊索尔达·戴查克 Isolda Dychauk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037267/",
+      "name": "菲利波·尼格鲁 Filippo Nigro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300176/",
+      "name": "吉塞尔达·沃洛迪 Giselda Volodi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443082/",
+      "name": "贾斯汀·科罗夫金 Justin Korovkin"
+    }
+  ]
+,
+  "datePublished": "2020-09-02",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "故事讲述弗贝克饰演的年轻医生艾娃，偶然发现一本18世纪的神秘笔记，随着深入研究，她也逐渐发现了笔记中的秘密。影片将采用古今两条故事，发展双线剧情，丹斯将出现在现代部分，饰演一名俄罗斯医生。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "704",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

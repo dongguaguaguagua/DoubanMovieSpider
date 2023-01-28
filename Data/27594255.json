@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "追梦的天空",
+  "url": "/subject/27594255/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506384157.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341569/",
+      "name": "罗翔 Xiang Luo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "影片由罗翔领衔主演，展现一位弱不禁风的上戏支教老师，用自己坚韧不拔的努力，将大山里贫困的孩子送上国际音乐大赛舞台的感人励志故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

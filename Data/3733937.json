@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "喋血双雄 The Killer",
+  "url": "/subject/3733937/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027853/",
+      "name": "吴宇森 John Woo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355642/",
+      "name": "乔什·坎贝尔 Josh Campbell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310081/",
+      "name": "伊兰·克里维 Eran Creevy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355643/",
+      "name": "马修·斯托肯 Matthew Stuecken"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1220507/",
+      "name": "奥玛·希 Omar Sy"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "吴宇森将导演他的经典影片《喋血双雄》的美国版，吴宇森确认美版《喋血双雄》仍在运作中，但由于露皮塔·尼永奥个人项目过多，档期无法协调，尼永奥已退出该项目。吴宇森也坦言，愿意翻拍《喋血双雄》的原因就在于这...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

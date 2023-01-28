@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神秘别克 From a Buick 8",
+  "url": "/subject/1892135/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354248/",
+      "name": "威廉·布伦特·贝尔 William Brent Bell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354248/",
+      "name": "威廉·布伦特·贝尔 William Brent Bell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049547/",
+      "name": "斯蒂芬·金 Stephen King"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031816/",
+      "name": "托马斯·简 Thomas Jane"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u6050\u6016"],
+  "duration": "",
+  "description": "斯蒂芬·金的恐怖小说《神秘别克》将被搬上大银幕。威廉·布伦特·贝尔([灵偶契约])自编自导。小说于2002年出版，故事围绕一辆神秘别克轿车与一桩离奇命案展开，这辆别克似乎被某种诡异神灵所操控。该片主题...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

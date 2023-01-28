@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Power of the Dog",
+  "url": "/subject/22854093/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1171954/",
+      "name": "尼科莱·阿尔赛 Nikolaj Arcel"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1171954/",
+      "name": "尼科莱·阿尔赛 Nikolaj Arcel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303041/",
+      "name": "拉斯莫斯·海斯特贝格 Rasmus Heisterberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037081/",
+      "name": "肖恩·萨莱诺 Shane Salerno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321532/",
+      "name": "唐·温斯洛 Don Winslow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283958/",
+      "name": "丹尼斯·福 Dennis Foon"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

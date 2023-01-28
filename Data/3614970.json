@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "落水鸟 At Swim-Two-Birds",
+  "url": "/subject/3614970/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029194/",
+      "name": "弗兰·奥布瑞恩 Flann O&#39;Brien"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "A playwright&#39;s life begins to mingle with the fictional characters he has created.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

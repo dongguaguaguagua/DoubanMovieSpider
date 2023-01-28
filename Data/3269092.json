@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "树屋 The Treehouse",
+  "url": "/subject/3269092/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022937/",
+      "name": "达米安·哈里斯 Damian Harris"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019482/",
+      "name": "保罗·梅尔斯贝格 Paul Mayersberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166862/",
+      "name": "Eduard von Keyserling Eduard von Keyserling"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "1910 Pommerania - Germany Thomas von Farnow wakes from a menacing, erotic dream. It will stay with h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

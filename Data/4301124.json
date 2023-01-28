@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "未定名乔治·格什温传记电影 Untitled George Gershwin Project",
+  "url": "/subject/4301124/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054440/",
+      "name": "史蒂文·斯皮尔伯格 Steven Spielberg"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301296/",
+      "name": "道格·赖特 Doug Wright"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041010/",
+      "name": "扎克瑞·昆图 Zachary Quinto"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "《星际迷航》（Star Trek）主演扎克瑞·昆图（Zachary Quinto）将在梦工厂拍摄的一部传记片中扮演美国著名作曲家、钢琴演奏家乔治·格什温（George Gershwin）。该片是大导演...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

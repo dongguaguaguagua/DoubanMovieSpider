@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "罪恶 Guilty",
+  "url": "/subject/33416891/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2589473548.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306472/",
+      "name": "Ruchi Narain Ruchi Narain"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306472/",
+      "name": "Ruchi Narain Ruchi Narain"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395715/",
+      "name": "伽罗·阿德瓦尼 Kiara Advani"
+    }
+  ]
+,
+  "datePublished": "2020-03-06",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT2H0M",
+  "description": "Netflix开发印度惊悚电影《Guilty》，将由达拉米奇担任制作人，鲁奇·纳兰执导。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "300",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

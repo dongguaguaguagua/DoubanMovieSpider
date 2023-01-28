@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拳影迷宫 Strapped",
+  "url": "/subject/33441941/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319001/",
+      "name": "艾萨克·佛罗伦汀 Isaac Florentine"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335480/",
+      "name": "马特·韦纳 Matt Venne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017912/",
+      "name": "斯科特·阿金斯 Scott Adkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319001/",
+      "name": "艾萨克·佛罗伦汀 Isaac Florentine"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017912/",
+      "name": "斯科特·阿金斯 Scott Adkins"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "《终极斗士》系列组合艾萨克·佛罗伦汀与斯科特·阿金斯的新电影《拳影迷宫》（暂译）即将上马。故事讲述阿金斯扮演的MMA格斗员在遭受不明人物袭击丢失冠军腰带后，决定重返赛场争回荣誉。可此举不仅让他陷入危险...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}
