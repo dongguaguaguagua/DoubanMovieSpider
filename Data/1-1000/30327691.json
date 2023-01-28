@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我心底的美丽世界",
+  "url": "/subject/30327691/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2534375164.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442035/",
+      "name": "刘大志 Dazhi Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442035/",
+      "name": "刘大志 Dazhi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463990/",
+      "name": "程凡 Fan Cheng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463990/",
+      "name": "程凡 Fan Cheng"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT0H35M",
+  "description": "八年未见的“妹妹”突然造访，林宛之平静的生活被打破，一场关于性侵的往事被逐渐揭开。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

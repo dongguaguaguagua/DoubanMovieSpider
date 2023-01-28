@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "霍元甲",
+  "url": "/subject/34858549/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2571602054.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392312/",
+      "name": "黄建业 Jianye Huang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365554/",
+      "name": "庄秦 Qin Zhuang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373373/",
+      "name": "谭旭 Xu Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1464337/",
+      "name": "谷慧子 Helen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437128/",
+      "name": "林璐瑶 Luyao Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475948/",
+      "name": "程琪 Qi Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452417/",
+      "name": "齐尔洛 Erluo Qi"
+    }
+  ]
+,
+  "datePublished": "2019-10-20",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H32M",
+  "description": "影片主要讲述了少年霍元甲和好友农劲荪一起执行革命党秘密任务，惊险途中，霍元甲屡屡挺身而出，挫败洋人阴谋，誓死守护国宝的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

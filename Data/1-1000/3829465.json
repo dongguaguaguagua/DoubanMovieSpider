@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美国狼人在伦敦 An American Werewolf in London",
+  "url": "/subject/3829465/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2592091909.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023473/",
+      "name": "马克斯·兰迪斯   Max Landis"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023473/",
+      "name": "马克斯·兰迪斯   Max Landis"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "《超能力记事》（Chronicle）编剧麦克斯·兰迪斯（Max Landis）即将自编自导新版《美国狼人在纽约》（American Werewolf in London）。有趣的是，当年正是他的父亲—...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

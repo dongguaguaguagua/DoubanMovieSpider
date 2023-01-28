@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "印囧",
+  "url": "/subject/26389464/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2427877999.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274297/",
+      "name": "徐峥 Zheng Xu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274297/",
+      "name": "徐峥 Zheng Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274297/",
+      "name": "徐峥 Zheng Xu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "徐朗为找到新合伙人，带着律师、会计等四人小团队前往印度。从孟买到新德里，从泰姬陵到清真寺，四人展开一场惊心动魄的取经之路。菩提树下，他们最终收获真经，却发现这是一份关于心灵的礼物。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

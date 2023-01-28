@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "消夏录",
+  "url": "/subject/26892539/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2459228276.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364291/",
+      "name": "丁蕾 Lei Ding"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364291/",
+      "name": "丁蕾 Lei Ding"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364291/",
+      "name": "丁蕾 Lei Ding"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H54M",
+  "description": "关于几位异乡青年，频繁的周末聚会，彻夜的酒局长谈，精力无限，啰嗦，无聊，重复，插科打诨，饮食男女，分分合合，在一座一年三分之二时间都是夏天的城市，夏天没来，感觉一切都未开始，夏天过去，一年的事也发生的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

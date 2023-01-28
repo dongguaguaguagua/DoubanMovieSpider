@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一路惊奇之桃之夭夭",
+  "url": "/subject/30477182/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044912/",
+      "name": "大卫·艾根伯格 David Eigenberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316520/",
+      "name": "冯超 Chao Feng"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317139/",
+      "name": "王迅 Xun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313784/",
+      "name": "娄艺潇 Yixiao Lou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313958/",
+      "name": "张睿 Rui Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "院线电影《一路惊奇》 发行公司：中国电影集团公司、五洲电影发行、影联传媒",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

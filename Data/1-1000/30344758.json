@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无名女孩 Girl With No Name",
+  "url": "/subject/30344758/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2587174907.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023230/",
+      "name": "谭雅·维克斯勒 Tanya Wexler"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304051/",
+      "name": "亚历克斯·兰阿瑞佛罗 Alex Ranarivelo"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u897f\u90e8", "\u5192\u9669"],
+  "duration": "",
+  "description": "《歇斯底里》导演谭雅·维克斯勒将执导一部女性主角的西部/动作片《无名女孩》(Girl With No Name)，Legion M和Co-Op娱乐公司共同制作。设定在1869年的狂野西部，一个女孩5岁...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

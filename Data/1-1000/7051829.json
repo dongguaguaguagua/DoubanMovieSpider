@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Quasimodo",
+  "url": "/subject/7051829/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027961/",
+      "name": "基兰·马尔罗尼 Kieran Mulroney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317500/",
+      "name": "米歇尔·马尔罗尼 Michele Mulroney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032739/",
+      "name": "维克多·雨果 Victor Hugo"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "In 15th century France, a gypsy girl is framed for murder by the infatuated Chief Justice, and only ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

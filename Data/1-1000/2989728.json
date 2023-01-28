@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿基拉 Akira",
+  "url": "/subject/2989728/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2113286655.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076354/",
+      "name": "塔伊加·维迪提 Taika Waititi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164635/",
+      "name": "大友克洋 Katsuhiro Ôtomo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076354/",
+      "name": "塔伊加·维迪提 Taika Waititi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397705/",
+      "name": "迈克尔·戈兰科 Michael Golamco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338180/",
+      "name": "马可·拉米雷兹 Marco Ramirez"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "改编自同名日本漫画电影",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

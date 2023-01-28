@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "繁花",
+  "url": "/subject/26298999/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2615925995.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041024/",
+      "name": "王家卫 Kar Wai Wong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041024/",
+      "name": "王家卫 Kar Wai Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392528/",
+      "name": "金宇澄 Yucheng Jin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274477/",
+      "name": "胡歌 Ge Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274479/",
+      "name": "唐嫣 Yan Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011935/",
+      "name": "马伊琍 Yili Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318720/",
+      "name": "辛芷蕾 Zhilei Xin"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "王家卫的未来计划中有两部作品备受瞩目，一部是改编自南京作家张嘉佳《从你的全世界路过》书中一篇的《摆渡人》，一部是改编自上海作家金宇澄长篇小说的《繁花》，近日王家卫特别澄清，自己只会担纲《摆渡人》一片的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,37 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蔡文姬",
+  "url": "/subject/33379696/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317555/",
+      "name": "陈之辉 Zhihui Chen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u4f20\u8bb0", "\u5386\u53f2", "\u53e4\u88c5"],
+  "duration": "PT1H30M",
+  "description": "东汉末年，曹操统一北方后，积极派人寻找老友蔡邕的女儿——战乱中被南匈奴掳走的才女蔡文姬，并备上厚礼派使臣前往南匈奴不惜一切代价将蔡文姬接回中原。匈奴左贤王经过一番思想斗争后，终于同意文姬归汉。
+文姬虽...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

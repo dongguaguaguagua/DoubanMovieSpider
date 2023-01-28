@@ -1,0 +1,101 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狼群",
+  "url": "/subject/33429617/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2879572474.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318099/",
+      "name": "蒋丛 Michael Chiang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318099/",
+      "name": "蒋丛 Michael Chiang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318005/",
+      "name": "张晋 Max Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274292/",
+      "name": "李治廷 Aarif Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313597/",
+      "name": "蒋璐霞 Luxia Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330552/",
+      "name": "刘智满 Mark Luu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359981/",
+      "name": "叶浏 Liu Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325751/",
+      "name": "张衣 Yi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338423/",
+      "name": "唐国忠 Kuo-chung Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320081/",
+      "name": "高冬平 Dongping Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312914/",
+      "name": "薛佳凝 Jianing Xue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442704/",
+      "name": "杰古 Diego Dati"
+    }
+  ]
+,
+  "datePublished": "2022-09-09",
+  "genre": ["\u52a8\u4f5c", "\u6218\u4e89"],
+  "duration": "PT1H45M",
+  "description": "境外恐怖势力掀起能源危机，7名反恐精英秘密守护“地下长城”！
+老刁（张晋 饰）率领的“狼群小队”长期从事境外安保工作，某次执行任务的过程中，意外发现境外恐怖势力将黑手伸向中国能源命脉！老刁临危受命，率...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "13967",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

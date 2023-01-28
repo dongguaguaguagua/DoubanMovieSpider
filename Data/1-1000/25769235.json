@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拿破仑 Napoleon",
+  "url": "/subject/25769235/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320096/",
+      "name": "鲁伯特·桑德斯 Rupert Sanders"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330571/",
+      "name": "杰瑞米·杜内尔 Jeremy Doner"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u4f20\u8bb0"],
+  "duration": "",
+  "description": "据报道，这部新版本的《拿破仑》将由电视剧《谋杀》的编剧杰瑞米·杜内尔撰写。而影片的故事或许不会有太大的史诗级别的维度，情节很可能会聚焦在拿破仑的个人性格和命运沉浮的方面。影片的主题和风格，会与著名电影...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

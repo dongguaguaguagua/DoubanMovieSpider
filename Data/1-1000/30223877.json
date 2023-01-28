@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "坦诚相待 No Baggage",
+  "url": "/subject/30223877/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022656/",
+      "name": "梅根·帕克 Megan Park"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040526/",
+      "name": "谢琳·伍德蕾 Shailene Woodley"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "演员、编剧梅根·朴(《假面真情》《外星邻居》)将为谢琳·伍德蕾主演新片《坦诚相待》(No Baggage)编写剧本，两人此前合作过剧集《青春密语》。朴编写并执导的短片《Lucy in My Eyes》...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

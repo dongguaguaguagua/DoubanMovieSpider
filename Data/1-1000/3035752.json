@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红圈 The Red Circle",
+  "url": "/subject/3035752/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2185244822.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296510/",
+      "name": "塔里克·萨利赫 Tarik Saleh"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303916/",
+      "name": "斯蒂文·奈特 Steven Knight"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027479/",
+      "name": "让-皮埃尔·梅尔维尔 Jean-Pierre Melville"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370366/",
+      "name": "乔纳森·佩雷拉 Jonathan Perera"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "塔里克·萨利赫(《西部世界》)将执导新版[红圈]。影片翻拍自1970年同名影片，老版导演让-皮埃尔·梅尔维尔，主演阿兰·德龙、布尔维尔、吉安·玛丽亚·沃隆特、伊夫·蒙当，影片围绕一个猫捉老鼠式的惊悚故...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

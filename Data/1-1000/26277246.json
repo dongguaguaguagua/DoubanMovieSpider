@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "叶栅 Cascade",
+  "url": "/subject/26277246/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032422/",
+      "name": "巴塔萨·科马库 Baltasar Kormákur"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344032/",
+      "name": "基兰·菲茨杰拉德 Kieran Fitzgerald"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322185/",
+      "name": "乔治·诺非 George Nolfi"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "这部新片暂定名《Cascade》，由20世纪福斯出品，将由雷德利·斯科特、斯蒂文·泽里安等联合制片，导演人选目前锁定了冰岛导演巴塔萨·科马库，他曾拍摄过《白夜婚礼》、《深渊》等佳作，近年来在好莱坞发展...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "堕落人鱼 Mermaid Down",
+  "url": "/subject/33436805/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570354039.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415880/",
+      "name": "安珀·加斯顿 Amber Gaston"
+    }
+  ]
+,
+  "datePublished": "2019-10-02",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H31M",
+  "description": "一条美人鱼从太平洋上被撕裂，尾巴被切掉，她被扔进了一个精神病院，在那里没有人相信她是美人鱼。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "819",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.5"
+  }
+}

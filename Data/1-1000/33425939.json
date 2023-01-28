@@ -1,0 +1,31 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "她来看我的电影",
+  "url": "/subject/33425939/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2577698327.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "刚回国的贝晴天收到故人任海阔的电影放映邀请，同时也知 道了任海阔离世的消息。满怀痛心与遗憾的贝晴天接受了邀请， 在放映当天，贝晴天却发现，这部电影的女主角，就是自己，而 电影中的故事，正是她与任海阔的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

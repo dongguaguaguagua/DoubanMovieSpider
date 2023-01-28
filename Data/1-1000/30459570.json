@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乐高蝙蝠侠大电影2 The Lego Batman Movie 2",
+  "url": "/subject/30459570/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2877482234.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276297/",
+      "name": "克里斯·麦凯 Chris McKay"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041392/",
+      "name": "鲍勃·凯恩 Bob Kane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006536/",
+      "name": "比尔·芬格 Bill Finger"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044709/",
+      "name": "威尔·阿奈特 Will Arnett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053576/",
+      "name": "迈克尔·塞拉 Michael Cera"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u52a8\u753b", "\u5bb6\u5ead", "\u5192\u9669"],
+  "duration": "",
+  "description": "Plot unknown. This is a sequel to The Lego Batman Movie (2017).",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

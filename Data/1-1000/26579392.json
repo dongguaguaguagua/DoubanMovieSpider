@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "情迷曼哈顿 Manhattan Love Story",
+  "url": "/subject/26579392/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2258840860.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315521/",
+      "name": "安迪·坦纳特 Andy Tennant"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476720/",
+      "name": "商夏周 Xiazhou Shang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002665/",
+      "name": "艾德里安·布洛迪 Adrien Brody"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319858/",
+      "name": "谢依霖 Yilin Sie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317360/",
+      "name": "欧弟 O Ti"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "据外媒消息，倪妮将与奥斯卡影帝、“钢琴家”阿德里安·布洛迪合作主演爱情喜剧《曼哈顿爱情故事》(Manhattan Love Story)，。讲述意大利男子和中国女子相遇在纽约，这对文化背景迥异的男女渐...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

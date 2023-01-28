@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "驼峰 Hump",
+  "url": "/subject/30419041/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2544314406.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322366/",
+      "name": "罗伯·吉布斯 Rob Gibbs"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1259493/",
+      "name": " Matthew Antonelli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033131/",
+      "name": "阿敏·马塔广 Amin Matalqa"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035648/",
+      "name": "西蒙·佩吉 Simon Pegg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360120/",
+      "name": "伽塔·马塔拉佐 Gaten Matarazzo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b", "\u5bb6\u5ead", "\u5192\u9669"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

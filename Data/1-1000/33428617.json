@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "工作与时日 The Works and Days (of Tayoko Shiojiri in the Shiotani Basin)",
+  "url": "/subject/33428617/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2587363337.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432325/",
+      "name": "安德斯·艾德斯特罗姆 Anders Edström"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432326/",
+      "name": "C·W·温特 C.W. Winter"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432326/",
+      "name": "C·W·温特 C.W. Winter"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1191334/",
+      "name": "加濑亮 Ryo Kase"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036923/",
+      "name": "本木雅弘 Masahiro Motoki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432325/",
+      "name": "安德斯·艾德斯特罗姆 Anders Edström"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432326/",
+      "name": "C·W·温特 C.W. Winter"
+    }
+  ]
+,
+  "datePublished": "2020-02-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT8H0M",
+  "description": "影片描寫了十四個月裏，農婦塩尻太太在日本京都府山谷中的日常勞作和非勞作。 一部由五册組成的田園詩。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "675",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

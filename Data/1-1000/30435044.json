@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "钟楼怪人 The Hunchback of Notre Dame",
+  "url": "/subject/30435044/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032739/",
+      "name": "维克多·雨果 Victor Hugo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023407/",
+      "name": "黄哲伦 David Henry Hwang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291745/",
+      "name": "艾琳·梅琪 Irene Mecchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292765/",
+      "name": "泰布·墨菲 Tab Murphy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345134/",
+      "name": "乔纳森·罗伯茨 Jonathan Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1299688/",
+      "name": "鲍勃·祖迪克 Bob Tzudiker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300808/",
+      "name": "诺尼·怀特 Noni White"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u6b4c\u821e", "\u5bb6\u5ead", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "迪士尼将拍摄[钟楼怪人]真人音乐电影。托尼奖得主黄哲伦([蝴蝶君])将为本片操刀剧本。奥斯卡得主艾伦·曼肯([美女与野兽]、[阿拉丁])和斯蒂芬·施瓦茨([埃及王子]、[风中奇缘])将为本片创作音乐，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

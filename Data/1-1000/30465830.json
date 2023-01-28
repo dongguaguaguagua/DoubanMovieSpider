@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "囍门洗笑录",
+  "url": "/subject/30465830/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2604211458.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379516/",
+      "name": "侯国涛 Guotao Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438871/",
+      "name": "陈骁强 Victor Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436230/",
+      "name": "郑重 Zhong Zheng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409301/",
+      "name": "宋恺 Kai Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399328/",
+      "name": "苑乔 Qiao Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388953/",
+      "name": "金迪 Di Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443100/",
+      "name": "梅凌甄 Lingzhen Mei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420079/",
+      "name": "邢文杰 Wenjie Xing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467504/",
+      "name": "郭金豪 Jinhao Guo"
+    }
+  ]
+,
+  "datePublished": "2020-05-28",
+  "genre": ["\u559c\u5267", "\u53e4\u88c5"],
+  "duration": "PT1H15M",
+  "description": "影片讲述了出身媒婆世家的孟灵鼠白天是替人说媒的婵娟师，夜晚则化身行侠仗义的侠客“夜猫”。她因在几起离奇诡异的杀人案件中被陷害为凶手而选择主动出击，联手欢喜冤家麒麟师贺兰鸿尘，一面探寻真相，一面在共患难...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

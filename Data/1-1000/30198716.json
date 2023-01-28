@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑鹰 Blackhawk",
+  "url": "/subject/30198716/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542179042.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054440/",
+      "name": "史蒂文·斯皮尔伯格 Steven Spielberg"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019071/",
+      "name": "大卫·凯普 David Koepp"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "史蒂文·斯皮尔伯格将与DC合作拍摄超级英雄电影，这是斯导第一次涉足超英题材影片。 主角是DC漫画人物“黑鹰”，黑鹰原本属于质量漫画旗下人物，1956年被DC漫画收购，成为了DC漫画的超级英雄角色。在新...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

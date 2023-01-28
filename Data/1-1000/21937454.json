@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "孙悟空之火焰山",
+  "url": "/subject/21937454/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2872185736.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327328/",
+      "name": "速达 Da Su"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275984/",
+      "name": "吴承恩 Cheng&#39;en Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000525/",
+      "name": "吴京 Jing Wu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "曾经打造《大闹天 宫》的上海美术电影制片厂正式宣布，影院 动画《孙悟空之火焰山》将正式启动。
+《孙悟空之火焰山》将是整个“孙悟 空”系列的开始，按照美影厂的计划，在未来8到 10年中将联合国内外优秀团...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

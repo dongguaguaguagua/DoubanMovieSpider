@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "American Commerce",
+  "url": "/subject/26632474/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305712/",
+      "name": "索尔·迪勃 Saul Dibb"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "",
+  "description": "The epic and terrifying true story of Captain Riley and his crew of the American brig, The Commerce,...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

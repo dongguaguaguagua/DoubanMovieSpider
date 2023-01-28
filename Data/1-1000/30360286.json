@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "烈火青春",
+  "url": "/subject/30360286/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2537879724.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427771/",
+      "name": "杨永光 Yongguang Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427771/",
+      "name": "杨永光 Yongguang Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "影片描述三位内地青年远赴加拿大求学，在遥远的异国他乡，面对现实与梦想之间的差距，在迷茫与反叛之间摇摆的故事，是一部聚焦成长之痛的现实主义作品。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

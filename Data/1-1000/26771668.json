@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天空制造",
+  "url": "/subject/26771668/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2333602965.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275307/",
+      "name": "韩寒 Han Han"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275307/",
+      "name": "韩寒 Han Han"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "韩寒：在这里宣布两部由我导演的两部电影作品。2017年秋天，电影《天空制造》。2018年暑期，电影《三重门》。感谢大家。希望#天空制造#与#电影三重门#能更不负朋友们的期待。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

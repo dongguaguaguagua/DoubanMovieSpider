@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "火腿骑士 Spamalot",
+  "url": "/subject/33407573/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1129094/",
+      "name": "凯西·尼科洛 Casey Nicholaw"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002750/",
+      "name": "艾瑞克·爱都 Eric Idle"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u6b4c\u821e", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "20世纪福克斯宣布开发电影《Spamalot》。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

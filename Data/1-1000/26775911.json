@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无可争辩 Undeniable",
+  "url": "/subject/26775911/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045843/",
+      "name": "塞巴斯蒂安·席佩尔 Sebastian Schipper"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045843/",
+      "name": "塞巴斯蒂安·席佩尔 Sebastian Schipper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292475/",
+      "name": "艾比·摩根 Abi Morgan"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "施普尔将拍一部名为《Undeniable》的剧情片，制片人则是近几年不爱导片爱制片的达伦·阿伦诺夫斯基同学。这部将改编美国恐怖事件研究者Jessica Stern的回忆录，她在书中披露了自己与姐姐在1...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

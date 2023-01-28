@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "龙拳小子 The Last Dragon",
+  "url": "/subject/3279111/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014712/",
+      "name": "马里奥·安德烈奇奥 Mario Andreacchio"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "",
+  "description": "为了成为“最后的龙”，一个年轻的武术学生在纽约训练成为一个伟大的战士像李小龙，但首先他必须面对一个卑鄙的，坏家伙称为肖诺夫，幕府的哈林区。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

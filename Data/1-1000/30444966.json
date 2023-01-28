@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大侦探皮卡丘2 Pokémon Detective Pikachu 2",
+  "url": "/subject/30444966/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341155/",
+      "name": "奥伦·尤济尔 Oren Uziel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051550/",
+      "name": "田尻智 Satoshi Tajiri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449911/",
+      "name": "杉森建 Ken Sugimori"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053623/",
+      "name": "瑞安·雷诺兹 Ryan Reynolds"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "",
+  "description": "瑞恩·雷诺兹主演的[大侦探皮卡丘]续集正在开发中！传奇影业已聘请奥伦·尤济尔([龙虎少年队2])撰写剧本。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "傻瓜伊万 Ivan the Fool",
+  "url": "/subject/3150828/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2802966085.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050280/",
+      "name": "列夫·托尔斯泰 Leo Tolstoy"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027154/",
+      "name": "迈克尔·刚本 Michael Gambon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1063623/",
+      "name": "迈克尔·亨博瑞·巴尔兰 Michael Henbury Ballan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b", "\u5bb6\u5ead", "\u5947\u5e7b"],
+  "duration": "PT1H30M",
+  "description": "Ivan finds himself the constant object of ridicule, bullied by all those around him. Though various ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "摩登原始人 The Flintstones",
+  "url": "/subject/25884655/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290070/",
+      "name": "凯文·利玛 Kevin Lima"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002858/",
+      "name": "约瑟夫·巴伯拉 Joseph Barbera"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009244/",
+      "name": "威廉·汉纳 William Hanna"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002800/",
+      "name": "克里斯·亨奇 Chris Henchy"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u753b"],
+  "duration": "",
+  "description": "华纳动画最近确认将把大伙喜爱的动画电视剧《摩登原始人》（The Flintstones）以动画片的形式再度搬上大银幕，喜剧演员威尔·法瑞尔（Will Ferrell）将参与该片的制片。
+《摩登原始人》...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

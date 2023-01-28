@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暗中算计2 The Accountant 2",
+  "url": "/subject/27077476/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293387/",
+      "name": "加文·欧康诺 Gavin O&#39;Connor"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343914/",
+      "name": "比尔·迪比克 Bill Dubuque"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054417/",
+      "name": "本·阿弗莱克 Ben Affleck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049679/",
+      "name": "乔·博恩瑟 Jon Bernthal"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "由加文·欧康诺执导，本·阿弗莱克、安娜·肯德里克等人主演的动作惊悚片《会计刺客》虽然口碑较为平庸，但出色的票房表现还是让片方决定推出续集。目前华纳兄弟正在推动续集的进展，并正在和本·阿弗莱克洽谈中，将...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

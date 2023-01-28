@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "六号关口 Sentinel",
+  "url": "/subject/26830784/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2364611070.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314096/",
+      "name": "塔内尔·托奥姆 Tanel Toom"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004855/",
+      "name": "凯特·波茨沃斯 Kate Bosworth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049595/",
+      "name": "托马斯·克莱舒曼 Thomas Kretschmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361628/",
+      "name": "卢锡安·拉维斯科特 Lucien Laviscount"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009371/",
+      "name": "马丁·麦凯恩 Martin McCann"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "",
+  "description": "After serving two years on a military outpost in the middle of an ocean – four soldiers are waiting ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

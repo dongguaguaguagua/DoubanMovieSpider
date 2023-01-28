@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "丁丁历险记2：太阳的囚徒 The Adventures of Tintin: Prisoners of the Sun",
+  "url": "/subject/2996693/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1344932431.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040524/",
+      "name": "彼得·杰克逊 Peter Jackson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000655/",
+      "name": "安东尼·霍洛维茨 Anthony Horowitz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018727/",
+      "name": "埃尔热 Hergé"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053616/",
+      "name": "杰米·贝尔 Jamie Bell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002708/",
+      "name": "安迪·瑟金斯 Andy Serkis"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b", "\u5192\u9669"],
+  "duration": "",
+  "description": "影片故事来源于《七个水晶球》和《太阳的囚徒》，这是两段连续的冒险故事，发生在南美洲的秘鲁。前者充满悬念和神秘色彩，讲述了一支七人欧洲探险队发现了印加王的坟墓，并把他的木乃伊带了回来，但不久后印加王可怕...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

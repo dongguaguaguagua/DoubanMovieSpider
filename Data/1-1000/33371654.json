@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "于勒之死",
+  "url": "/subject/33371654/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2551444846.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348948/",
+      "name": "王晨曦 Frank Wong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348948/",
+      "name": "王晨曦 Frank Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386412/",
+      "name": "寇晓欢 Kou Little Happy"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ac\u7591", "\u5386\u53f2"],
+  "duration": "",
+  "description": "一个电影青年为去世的导演叔叔拍摄生平纪录片，却意外揭开了尘封的往事和瞒天的阴谋，直到最后亲眼目睹了叔叔的死亡。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

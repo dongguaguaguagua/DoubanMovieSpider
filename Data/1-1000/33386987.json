@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不一样的礼物",
+  "url": "/subject/33386987/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319262/",
+      "name": "侯季然 Chi-jan Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337796/",
+      "name": "何康 Hong Ho"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309385/",
+      "name": "黄修平 Adam Wong Sau Ping"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325302/",
+      "name": "李念修 Nyssa Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280725/",
+      "name": "周燕娴 Yin Han Chow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337796/",
+      "name": "何康 Hong Ho"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

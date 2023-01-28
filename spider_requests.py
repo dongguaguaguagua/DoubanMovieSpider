@@ -14,6 +14,8 @@ if __name__ == "__main__":
     i=0
     with open("dic1.json","r") as file:
         data=json.load(file)
+    with open("dic2_full.json","r") as file:
+        dic2_full=json.load(file)
     proxies = get_zm_proxy()
     ua = UserAgent()
     headers = {'User-Agent': ua.random,'Referer':"https://movie.douban.com",'Cennection':'keep-alive'}
@@ -35,6 +37,7 @@ if __name__ == "__main__":
         if(resp.status_code != 200):
             if(resp.status_code == 404):
                 print("subject=",data[str(i)],"的页面找不到，执行下一个")
+                os.system("echo "+dic2_full[data[str(i)]+" >> 404.txt"])
                 i+=1
                 continue
             print("错误码 : ",resp.status_code,"尝试更新proxy")
@@ -52,9 +55,9 @@ if __name__ == "__main__":
             print("更新proxy成功")
             continue
         print("生成第",i,"个电影数据……",resp.status_code)
-        # dataLine = update_data(soup)
+        dataLine = update_data(soup)
         # 生成数据
-        # os.system("echo \""+str(i)+","+str(data[str(i)])+","+dataLine+"\" >> MovieData.csv")
+        os.system("echo \""+str(i)+","+str(data[str(i)])+","+dataLine+"\" >> MovieData.csv")
         with open("Data/"+str(data[str(i)])+".json","w") as file:
             file.write(update_json(soup))
         time.sleep(random.random()*3)

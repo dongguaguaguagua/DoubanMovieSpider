@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "妙探寻凶 Clue",
+  "url": "/subject/3569919/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278859/",
+      "name": "詹姆斯·博宾 James Bobin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460792/",
+      "name": "德维恩·帕金斯 Dewayne Perkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327382/",
+      "name": "瑞特·里斯 Rhett Reese"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341155/",
+      "name": "奥伦·尤济尔 Oren Uziel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327381/",
+      "name": "保罗·韦尼克 Paul Wernick"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053623/",
+      "name": "瑞安·雷诺兹 Ryan Reynolds"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013760/",
+      "name": "杰森·贝特曼 Jason Bateman"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "一个庄园主人邀请六位客人到家参加晚宴，当主人被谋杀后，所有人都是嫌疑人，他们试图一起找到凶手，而在此过程中，又不断有人被害，真凶到底是谁？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

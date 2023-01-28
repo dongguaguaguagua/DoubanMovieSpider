@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "音乐大师 Maestro",
+  "url": "/subject/26653386/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2878572931.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013757/",
+      "name": "布莱德利·库珀 Bradley Cooper"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013757/",
+      "name": "布莱德利·库珀 Bradley Cooper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331529/",
+      "name": "乔希·辛格 Josh Singer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013757/",
+      "name": "布莱德利·库珀 Bradley Cooper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025144/",
+      "name": "凯瑞·穆里根 Carey Mulligan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025059/",
+      "name": "马特·波莫 Matt Bomer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342766/",
+      "name": "杰瑞米·斯特朗 Jeremy Strong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1202487/",
+      "name": "玛雅·霍克 Maya Hawke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036448/",
+      "name": "萨拉·西尔弗曼 Sarah Silverman"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u97f3\u4e50", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "凯瑞·穆里根加盟布莱德利·库珀新片[音乐大师](Maestro，暂译)。本片原名[伯恩斯坦]，由库珀主演，并自编自导以及出任制片人，影片讲述“桂冠指挥家”、传奇作曲家伦纳德·伯恩斯坦(代表作百老汇音乐...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

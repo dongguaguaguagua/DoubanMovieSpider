@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魔符 The Talisman",
+  "url": "/subject/1889250/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1064965/",
+      "name": "麦克·巴克 Mike Barker"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027468/",
+      "name": "伊伦·克鲁格 Ehren Kruger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1206525/",
+      "name": "约什·布恩 Josh Boone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049547/",
+      "name": "斯蒂芬·金 Stephen King"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033082/",
+      "name": "彼得·史超伯 Peter Straub"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "斯蒂芬·金小说《魔符》(The Talisman)将拍成电影，定下编剧为《星运里的错》、“X战警”系列新片《新变种人》的导演Josh Boone，据称他之后也可能成为该片导演，毕竟项目还处于前期，影片...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

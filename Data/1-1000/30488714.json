@@ -1,0 +1,78 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我本少年",
+  "url": "/subject/30488714/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2879015831.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431957/",
+      "name": "姜晨 Chen Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316392/",
+      "name": "房子斌 Zibin Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437777/",
+      "name": "嘉泽 Claire"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406982/",
+      "name": "徐宏杰 Hongjie Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379229/",
+      "name": "罗鹏 Peng Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275741/",
+      "name": "张光北 Guangbei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376903/",
+      "name": "李小晶 Xiaojing Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362518/",
+      "name": "费伟妮 Weini Fei"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "天才少年吴文考上国内重点大学，在填报志愿时不顾父亲的反对，选择理科物理学专业，但入学后的吴文却经历一系列挫折，直至放弃学业回家。随着父亲向他吐露隐藏许多年的秘密后，吴文终于重返校园，决心重振旗鼓，在老...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

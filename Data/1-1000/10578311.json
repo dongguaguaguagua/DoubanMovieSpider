@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Black and White",
+  "url": "/subject/10578311/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031179/",
+      "name": "尼古拉斯·斯托勒 Nicholas Stoller"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296189/",
+      "name": "罗德尼·罗斯曼 Rodney Rothman"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "Set in the late 1940s jazz scene, a black cop is paired with a white officer for the first time in h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

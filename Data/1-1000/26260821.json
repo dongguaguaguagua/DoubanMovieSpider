@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狼人 The Wolf Man",
+  "url": "/subject/26260821/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014029/",
+      "name": "雷·沃纳尔 Leigh Whannell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357230/",
+      "name": "科瑞·芬莱 Cory Finley"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438917/",
+      "name": "丽贝卡·安吉洛 Rebecca Angelo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438914/",
+      "name": "劳伦·舒克·勃鲁姆 Lauren Schuker Blum"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280800/",
+      "name": "德里克·斯安弗朗斯 Derek Cianfrance"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335435/",
+      "name": "亚伦·格兹考斯基 Aaron Guzikowski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014029/",
+      "name": "雷·沃纳尔 Leigh Whannell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025436/",
+      "name": "科特· 西奥德梅克 Curt Siodmak"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012531/",
+      "name": "瑞恩·高斯林 Ryan Gosling"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A man becomes afflicted by an ancient curse after he is bitten by a werewolf.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

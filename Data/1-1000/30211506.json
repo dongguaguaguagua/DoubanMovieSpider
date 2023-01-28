@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伤口处理员 Cutman",
+  "url": "/subject/30211506/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455496/",
+      "name": "Tiffany Heath Tiffany Heath"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019013/",
+      "name": "李美琪 Maggie Q"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372001/",
+      "name": "伊莎贝拉·瑞思 Isabella Rice"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379234/",
+      "name": "蕾妮·威利特 Renée Willett"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "弗兰克·格里罗和Maggie Q将主演惊悚片《Cutman》，Michael Mailer(《盲》)执导。讲述一名走下坡路的拳击手加入当地一个黑帮，开始做打手，当他遇见有个海洛因成瘾的母亲的小女孩后，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

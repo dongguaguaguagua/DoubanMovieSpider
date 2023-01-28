@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "未定名郎朗传记电影 Untitled Lang Lang Biopic",
+  "url": "/subject/34779806/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2621120848.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031844/",
+      "name": "朗·霍华德 Ron Howard"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027961/",
+      "name": "基兰·马尔罗尼 Kieran Mulroney"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "朗·霍华德将执导著名钢琴家郎朗的未定名传记电影。影片根据郎朗的回忆录《千里之旅》改编，米歇尔·穆罗尼和基兰·穆罗尼担任编剧，AGC工作室将全权投资，计划在中国和美国拍摄，语言包含普通话和英语。
+霍华德...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

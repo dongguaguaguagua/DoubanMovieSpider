@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迷路",
+  "url": "/subject/33385812/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2654771243.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413907/",
+      "name": "洛旦 Loden"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413907/",
+      "name": "洛旦 Loden"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453317/",
+      "name": "更藏吉 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332140/",
+      "name": "索郎尼马 Sonam Nyima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422752/",
+      "name": "旦增多杰 Tenzin Dorje"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431565/",
+      "name": "加华草 Japal Tso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453208/",
+      "name": "娘秀加 Nyangshik Gyal"
+    }
+  ]
+,
+  "datePublished": "2021-04-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "牧民多杰和旦巴两家因为连续的大雪，撤离雪灾而迁徙。他们赶着牛群去往夏季牧场，途中因山路崎岖加上大雪纷飞而迷了路 。在面临野狼袭击，丢失牛群，食物短缺，高寒刺骨的境遇中，为了活命，两家必须尽快赶路，摆脱...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

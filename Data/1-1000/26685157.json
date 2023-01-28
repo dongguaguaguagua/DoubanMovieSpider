@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "失恋旅行团",
+  "url": "/subject/26685157/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2295037966.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336003/",
+      "name": "鸿水 Shui Hong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336003/",
+      "name": "鸿水 Shui Hong"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "由鸿水编剧、导演的治愈系爱情爆笑公路喜剧《失恋旅行团》正式开始筹拍，自认为很“奋青”的导演鸿水刚刚完成了《恐怖爱情故事》的拍摄就马不停蹄地开始了新电影的筹备，并旗帜鲜明地打出了“一场粉身碎骨的爱情，一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

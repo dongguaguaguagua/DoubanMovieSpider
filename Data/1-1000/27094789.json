@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "哈莉·奎茵与小丑 Untitled Joker-Harley Quinn Project",
+  "url": "/subject/27094789/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2506906062.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317347/",
+      "name": "格伦·费卡拉 Glenn Ficarra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317350/",
+      "name": "约翰·里夸 John Requa"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317347/",
+      "name": "格伦·费卡拉 Glenn Ficarra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317350/",
+      "name": "约翰·里夸 John Requa"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272303/",
+      "name": "玛格特·罗比 Margot Robbie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013764/",
+      "name": "杰瑞德·莱托 Jared Leto"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "",
+  "description": "《疯狂愚蠢的爱》导演格伦·费卡拉和约翰·里夸正在与[华纳兄弟]进行最后的谈判，有望担任DC电影《#小丑与哈利·奎因#》的编剧和导演。在《X特遣队》中饰演“丑爷”的杰瑞德·莱托和“小丑女”玛格特·罗比将...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}
