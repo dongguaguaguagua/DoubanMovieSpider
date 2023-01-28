@@ -1,0 +1,130 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的日记",
+  "url": "/subject/30238436/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2566038076.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054531/",
+      "name": "成龙 Jackie Chan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054531/",
+      "name": "成龙 Jackie Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453063/",
+      "name": "孙琳 Lin Sun"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345500/",
+      "name": "诺亚·琴蒂内奥 Noah Centineo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040531/",
+      "name": "凯文·克莱恩 Kevin Kline"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054424/",
+      "name": "刘德华 Andy Lau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045243/",
+      "name": "王力宏 Lee-Hom Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036492/",
+      "name": "房祖名 Jaycee Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454935/",
+      "name": "玛蒂娜·斯托塞尔 Tini Stoessel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314544/",
+      "name": "王凯 Kai Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025476/",
+      "name": "钱嘉乐 Kar Lok Chin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020487/",
+      "name": "蒋雯丽 Wenli Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023424/",
+      "name": "陈奕迅 Eason Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1043330/",
+      "name": "潘虹 Hong Pan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275044/",
+      "name": "张嘉益 Jiayi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017207/",
+      "name": "徐帆 Fan Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1182844/",
+      "name": "寇振海 Zhenhai Kou"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "成龙继《十二生肖》后再次执导筒的歌舞剧情片《我的日记》目前正在上海热拍中，据悉影片将以三十年代的民国为故事背景，拍摄地将横跨中国、匈牙利两地，是成龙首部执导的非动作题材电影。早在宣传《英伦对决》时，成...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

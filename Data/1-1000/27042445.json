@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "沙漠",
+  "url": "/subject/27042445/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339586/",
+      "name": "常标 Biao Chang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339586/",
+      "name": "常标 Biao Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340176/",
+      "name": "吴敏 Min Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340176/",
+      "name": "吴敏 Min Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353580/",
+      "name": "菅浩栋 Haodong Jian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378231/",
+      "name": "董昕傧 Dong Xinbing"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

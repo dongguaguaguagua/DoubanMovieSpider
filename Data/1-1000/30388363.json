@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "尤里卡 Eureka",
+  "url": "/subject/30388363/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2630268568.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302564/",
+      "name": "利桑德罗·阿隆索 Lisandro Alonso"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302564/",
+      "name": "利桑德罗·阿隆索 Lisandro Alonso"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054520/",
+      "name": "维果·莫腾森 Viggo Mortensen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018149/",
+      "name": "齐雅拉·马斯楚安尼 Chiara Mastroianni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025298/",
+      "name": "玛丽亚·德·梅黛洛 Maria de Medeiros"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353410/",
+      "name": "维比约克·莫林·阿格尔 Viilbjørk Malling Agger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294598/",
+      "name": "拉菲·皮特斯 Rafi Pitts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041291/",
+      "name": "何塞·马利亚·亚兹皮克 José María Yazpik"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "维果·莫腾森将与利桑德罗·阿隆索继[安乐乡]后再度携手，主演后者执导的新作[尤里卡]。莫腾森将与齐雅拉·马斯楚安尼、玛丽亚·德·梅黛洛([低俗小说])、维比约克·莫林·阿格尔([安乐乡])、拉菲·皮特...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

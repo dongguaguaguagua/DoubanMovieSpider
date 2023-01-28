@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冠军亚瑟 Arthur the King",
+  "url": "/subject/34768157/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2646309788.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280345/",
+      "name": "西蒙·赛伦·琼斯 Simon Cellan Jones"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027578/",
+      "name": "迈克尔·布拉德特 Michael Brandt"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035674/",
+      "name": "马克·沃尔伯格 Mark Wahlberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369905/",
+      "name": "刘思慕 Simu Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049724/",
+      "name": "迈克尔·兰德斯 Michael Landes"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "根据国外媒体报道，马克·沃尔伯格确定出演派拉蒙动物题材新片《冠军亚瑟》。影片根据小说《亚瑟：穿越丛林寻家狗》中的真实故事改编，讲述沃尔伯格饰演的一位瑞典越野赛车手和队友们，在比赛中穿越厄瓜多尔雨林时，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

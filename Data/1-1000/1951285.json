@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "飞侠哥顿 Flash Gordon",
+  "url": "/subject/1951285/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334258/",
+      "name": "朱利叶斯·艾弗里 Julius Avery"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340200/",
+      "name": "派特里克·麦凯 Patrick McKay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340201/",
+      "name": "约翰·D·佩恩 John D. Payne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050111/",
+      "name": "马克·波托塞维奇 Mark Protosevich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029062/",
+      "name": "亚历克斯·雷蒙德 Alex Raymond"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "朱利叶斯·艾弗里(《霸王行动》《枪之子》)将执导福斯打造的新版《飞侠哥顿》电影，2015年福斯曾与马修·沃恩商谈执导，沃恩现在将担任制片人。
+亚历克斯·雷蒙德于1934年创作了《飞侠哥顿》科幻漫画，最...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

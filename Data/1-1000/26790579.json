@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大奖 Jackpot",
+  "url": "/subject/26790579/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274281/",
+      "name": "威尔·古勒 Will Gluck"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172899/",
+      "name": "尤·奈斯博 Jo Nesbø"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040838/",
+      "name": "戴夫·卡拉汉姆 Dave Callaham"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031807/",
+      "name": "布莱恩·科兰斯顿 Bryan Cranston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003481/",
+      "name": "米拉·库尼斯 Mila Kunis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054512/",
+      "name": "詹妮弗·加纳 Jennifer Garner"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "Four guys win a jackpot over a million dollars, but when it comes to dividing it up, things get bloo...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

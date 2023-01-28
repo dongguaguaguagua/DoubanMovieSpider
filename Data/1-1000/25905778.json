@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马达加斯加4 Madagascar 4",
+  "url": "/subject/25905778/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2640310910.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291597/",
+      "name": "汤姆·麦格拉思 Tom McGrath"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315498/",
+      "name": "埃里克·达尼尔 Eric Darnell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291597/",
+      "name": "汤姆·麦格拉思 Tom McGrath"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291597/",
+      "name": "汤姆·麦格拉思 Tom McGrath"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044959/",
+      "name": "塞德里克·凯尔斯 Cedric the Entertainer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041199/",
+      "name": "安迪·里克特 Andy Richter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313416/",
+      "name": "克里斯·米勒 Chris Miller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328456/",
+      "name": "克里斯多夫·奈茨 Christopher Knights"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

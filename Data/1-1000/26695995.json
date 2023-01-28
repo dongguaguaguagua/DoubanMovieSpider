@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绿毛水怪",
+  "url": "/subject/26695995/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2564131407.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359216/",
+      "name": "梁栋 Dong Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420612/",
+      "name": "吴国墉 Guoyong Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274435/",
+      "name": "王小波 Xiaobo Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "王小波小说《绿毛水怪》将要改编成电影！目前开机时间已定于2016年春天。小说《绿毛水怪》曾是王小波和李银河相识的契机，故事穿梭于历史、现在与未来，反思了权力和乌托邦带给人的伤害。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

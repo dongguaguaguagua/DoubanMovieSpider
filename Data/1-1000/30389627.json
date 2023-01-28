@@ -1,0 +1,154 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "糖果人 Candyman",
+  "url": "/subject/30389627/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2662756946.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373998/",
+      "name": "尼娅·达科斯塔 Nia DaCosta"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032808/",
+      "name": "乔丹·皮尔 Jordan Peele"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408092/",
+      "name": "温·罗森菲尔德 Win Rosenfeld"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373998/",
+      "name": "尼娅·达科斯塔 Nia DaCosta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027915/",
+      "name": "克莱夫·巴克 Clive Barker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023009/",
+      "name": "伯纳德·罗斯 Bernard Rose"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374708/",
+      "name": "叶海亚·阿卜杜勒-迈丁 Yahya Abdul-Mateen II"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342538/",
+      "name": "泰柔娜·派丽丝 Teyonah Parris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314887/",
+      "name": "内森·斯图尔特-贾瑞特 Nathan Stewart-Jarrett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088744/",
+      "name": "科尔曼·多明戈 Colman Domingo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461236/",
+      "name": "凯尔·卡明斯基 Kyle Kaminsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461237/",
+      "name": "瓦妮莎·威廉姆斯 Vanessa Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461238/",
+      "name": "布莱恩·金 Brian King"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461239/",
+      "name": "米里亚姆·莫斯 Miriam Moss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339746/",
+      "name": "瑞贝卡·斯宾塞 Rebecca Spence"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459569/",
+      "name": "卡尔·克莱蒙斯-霍普金斯 Carl Clemons-Hopkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389217/",
+      "name": "马力克·怀特 Malic White"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036498/",
+      "name": "托尼·托德 Tony Todd"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410849/",
+      "name": "纳迪娅·西姆斯 Nadia Simms"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461893/",
+      "name": "Cassie Kramer Cassie Kramer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467186/",
+      "name": "特兰·泰恩 Tien Tran"
+    }
+  ]
+,
+  "datePublished": "2021-08-27",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H31M",
+  "description": "影片改编自恐怖小说大师克里夫·巴克的短篇作品，聚焦“糖果人，传说你对镜子说5次他的名字，他就会在倒影中出现，把你杀死”引发的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "9311",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

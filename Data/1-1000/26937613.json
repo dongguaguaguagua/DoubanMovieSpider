@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恋爱马拉松",
+  "url": "/subject/26937613/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275274/",
+      "name": "杜家毅 Jiayi Du"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383267/",
+      "name": "黎莉莉 Li Lili"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275274/",
+      "name": "杜家毅 Jiayi Du"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314833/",
+      "name": "沈佳妮 Jiani Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313278/",
+      "name": "吕凉 Liang Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326947/",
+      "name": "赵炳锐 Mingyue Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275934/",
+      "name": "王景春 Jingchun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313723/",
+      "name": "严晓频 Xiaopin Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336066/",
+      "name": "胡晴云 Qingyun Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312699/",
+      "name": "朱亚文 Yawen Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350292/",
+      "name": "杨乐 Le Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317520/",
+      "name": "王佳佳 Jiajia Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u8fd0\u52a8"],
+  "duration": "",
+  "description": "独立自强的专业杂志编辑苏莉，面临着都市生活、家庭情感等方面的压力，从而寄情于跑道之上。马拉松跑道上形形色色的风景与人让她暂时忘了自己，超负荷的运动量暂时覆盖住了失意的痛苦。在一场接一场的比赛过程中，她...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "加美拉 ガメラ",
+  "url": "/subject/26637866/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2277311341.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274902/",
+      "name": "石井克人 Katsuhito Ishii"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012784/",
+      "name": "宫藤官九郎 Kankurô Kudô"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

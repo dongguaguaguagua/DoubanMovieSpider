@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "达科塔 Dakota",
+  "url": "/subject/33417091/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2873363667.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286101/",
+      "name": "柯克·哈里斯 Kirk Harris"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044700/",
+      "name": "梅根·福克斯 Megan Fox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010550/",
+      "name": "布莱恩·奥斯汀·格林 Brian Austin Green"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483504/",
+      "name": "卢卡·吉利诺 Luca Ghillino"
+    }
+  ]
+,
+  "datePublished": "2022-04-01",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u5192\u9669"],
+  "duration": "PT1H36M",
+  "description": "夫妻档梅根·福克斯和布莱恩·奥斯汀·格林首次合作电影，两人将主演家庭动作冒险惊悚片《达科塔》，柯克·哈里斯(《海豚伯尼》《军犬》)执导，约翰尼·哈林顿编写剧本。
+讲述凯特在阿富汗战争中失去了丈夫，她在...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "138",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

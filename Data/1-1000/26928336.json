@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱回家",
+  "url": "/subject/26928336/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2578372672.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409998/",
+      "name": "沈江平 Jiangping Shen"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316146/",
+      "name": "黄小蕾 Xiaolei Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371771/",
+      "name": "刘若谷 Ruogu Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428134/",
+      "name": "范安宜 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371228/",
+      "name": "刘滨 Bin Liu"
+    }
+  ]
+,
+  "datePublished": "2019-12-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "作为一部公益电影，它在关注农村留守儿童的同时，第一次把视觉转向那些虽身在城市，物质生活充裕，但较少得到父母关心照顾的儿童，呼吁社会给予关注。
+",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

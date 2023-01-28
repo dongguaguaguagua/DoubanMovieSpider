@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蜘蛛头 Spiderhead",
+  "url": "/subject/30451909/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2873245732.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313149/",
+      "name": "约瑟夫·科辛斯基 Joseph Kosinski"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327382/",
+      "name": "瑞特·里斯 Rhett Reese"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327381/",
+      "name": "保罗·韦尼克 Paul Wernick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037331/",
+      "name": "乔治·桑德斯 George Saunders"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021959/",
+      "name": "克里斯·海姆斯沃斯 Chris Hemsworth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313408/",
+      "name": "迈尔斯·特勒 Miles Teller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027252/",
+      "name": "朱尼·斯莫利特 Jurnee Smollett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022750/",
+      "name": "内森·琼斯 Nathan Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360418/",
+      "name": "泰丝·哈乌布里奇 Tess Haubrich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348421/",
+      "name": "查尔斯·帕内尔 Charles Parnell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454563/",
+      "name": "碧比·贝登科特 BeBe Bettencourt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027469/",
+      "name": "丹尼尔·博克 Daniel Booko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292119/",
+      "name": "安琪·米利肯 Angie Milliken"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384650/",
+      "name": "乔伊·维埃拉 Joey Vieira"
+    }
+  ]
+,
+  "datePublished": "2022-06-17",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H46M",
+  "description": "在一所由才华横溢、富有远见的史蒂夫·艾纳斯蒂（克里斯·海姆斯沃斯饰）管理的先进监狱里，囚犯们佩戴着一种通过外科手术连接的装置，通过该装置注射一定剂量改变心智的药物，以换取减刑。没有酒吧，没有牢房，也没...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4999",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "柏林2：观察者 베를린 2: 옵저버",
+  "url": "/subject/26587403/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1138335/",
+      "name": "柳昇完 Seung-wan Ryoo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1138335/",
+      "name": "柳昇完 Seung-wan Ryoo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032680/",
+      "name": "河正宇 Jung-woo Ha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037285/",
+      "name": "韩石圭 Suk-kyu Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1109907/",
+      "name": "李政宰 Jung-jae Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035649/",
+      "name": "全智贤 Gianna Jun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015294/",
+      "name": "金海淑 Hae-suk Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1203077/",
+      "name": "吴达洙 Dal-su Oh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031220/",
+      "name": "连姆·尼森 Liam Neeson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "",
+  "description": "由河正宇、柳承范、韩石圭、全智贤主演的《柏林》是以阴谋迭起的柏林城为背景，讲述了朝鲜秘密间谍、韩国情报机构为了各自的目的而作战的故事。2013年在韩国上映之后，被称为是韩国谍战动作片的新纪元，并吸引了...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

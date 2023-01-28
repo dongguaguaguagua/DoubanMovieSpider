@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "赏金骇客 Hacker Hunter",
+  "url": "/subject/30291498/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396961/",
+      "name": "杨丹阳 Danyang Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398755/",
+      "name": "徴言 Yan Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437418/",
+      "name": "刘晨 Chen Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H3M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

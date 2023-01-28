@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "木兰特工",
+  "url": "/subject/33458622/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2557495114.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307461/",
+      "name": "王毓雅 Alice Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367887/",
+      "name": "李相林 Lia Hsiang-Lin Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1458432/",
+      "name": "邱子芯 Mia Chiu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "电影《木兰特工》是集动作、爱情、悬疑于一身的大制作电影。故事讲述了五位各怀绝技、出身地下世界的亚裔女孩，受世界安全组织委派组成“木兰特工”小组，凭借高超的智慧与非凡的身手，战胜了以生化武器威胁世界的国...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

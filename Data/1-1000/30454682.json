@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "自由之声 Sound of Freedom",
+  "url": "/subject/30454682/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2810986688.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009643/",
+      "name": "亚历杭德罗·戈麦斯·蒙特维尔德 Alejandro Gomez Monteverde"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009643/",
+      "name": "亚历杭德罗·戈麦斯·蒙特维尔德 Alejandro Gomez Monteverde"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027807/",
+      "name": "吉姆·卡维泽 Jim Caviezel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027822/",
+      "name": "米拉·索维诺 Mira Sorvino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349856/",
+      "name": "比尔·坎普 Bill Camp"
+    }
+  ]
+,
+  "datePublished": "2022-09-08",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "The story of Tim Ballard, a former US government agent who quits his job in order to devote his life...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

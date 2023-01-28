@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣徒 The Saint",
+  "url": "/subject/30380450/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007028/",
+      "name": "德克斯特·弗莱彻 Dexter Fletcher"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045709/",
+      "name": "莱斯利·查特里斯 Leslie Charteris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1097347/",
+      "name": "赛斯·格雷厄姆-史密斯 Seth Grahame-Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369100/",
+      "name": "特拉维斯·赖特 Travis Wright"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352128/",
+      "name": "雷吉-让·佩吉 Regé-Jean Page"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "《火箭人》导演德克斯特·弗莱彻将与派拉蒙合作重启1997年的动作惊悚片《圣徒》，原版电影由方·基默主演，改编自Leslie Charteris在1920年代的系列小说。故事讲述一位伪装大师使用各种圣徒...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

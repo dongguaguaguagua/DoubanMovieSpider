@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "窃听 도청",
+  "url": "/subject/26970865/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307614/",
+      "name": "崔东勋 Dong-hoon Choi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307614/",
+      "name": "崔东勋 Dong-hoon Choi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351065/",
+      "name": "李基哲 Gi-cheol Lee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1109907/",
+      "name": "李政宰 Jung-jae Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316155/",
+      "name": "金宇彬 Woo-bin Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023421/",
+      "name": "廉晶雅 Jung-ah Yum"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325012/",
+      "name": "金义城 Eui-sung Kim"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "《夺宝联盟》《暗杀》的韩国名导崔东勋又有了新动作，据韩国媒体报道，崔东勋日前在参加某电影节时现场透露，他将翻拍香港悬疑犯罪电影《窃听风云》第一部。该片改编剧本由崔东勋本人撰写，目前正在剧本修改阶段，预...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

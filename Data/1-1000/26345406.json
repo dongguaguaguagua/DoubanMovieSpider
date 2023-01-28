@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "重力反转 Inversion",
+  "url": "/subject/26345406/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2394990049.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009536/",
+      "name": "马克·沃特斯 Mark Waters"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277345/",
+      "name": "大卫·阿莱塔 David Arata"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389604/",
+      "name": "李威 Wei Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041775/",
+      "name": "科马克·韦伯利 Cormac Wibberley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018458/",
+      "name": "玛丽安·韦伯利 Marianne Wibberley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358073/",
+      "name": "布拉吉·F·舒特 Bragi F. Schut"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032048/",
+      "name": "保罗·哈吉斯 Paul Haggis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342610/",
+      "name": "迈克尔·芬奇 Michael Finch"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320350/",
+      "name": "杨采钰 Caiyu Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054408/",
+      "name": "塞缪尔·杰克逊 Samuel L. Jackson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u707e\u96be"],
+  "duration": "",
+  "description": "故事讲述一名美国人和一位中国物理学家，共同争分夺秒拯救地球的故事。地球突然失去了重力，突然面对如此灾难，各国的顶尖科学家也为之手足无措，唯一的希望却寄托在一个来自中国物理学家和一个美国人身上。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

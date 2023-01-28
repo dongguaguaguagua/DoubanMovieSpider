@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "公园旁的凶屋2 The House on the Edge of the Park Part II",
+  "url": "/subject/6878129/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1559953245.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048256/",
+      "name": "鲁杰罗·德奥达托 Ruggero Deodato"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050098/",
+      "name": "大卫·赫斯 David Hess"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1117143/",
+      "name": "乔瓦尼·隆巴多·雷迪斯 Giovanni Lombardo Radice"
+    }
+  ]
+,
+  "datePublished": "1988-10-08",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "After thirty years at the mercy of a brutal Warden in Sing Sing prison, Ricky is released and return...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

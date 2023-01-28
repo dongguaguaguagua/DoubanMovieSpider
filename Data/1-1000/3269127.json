@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "洛克中士 Sgt. Rock",
+  "url": "/subject/3269127/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2383556802.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021304/",
+      "name": "罗伯特·坎耐尔 Robert Kanigher"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "洛克中士》的主角是一个美军步兵中士弗兰克·洛克（Sgt. Frank Rock），他带领Easy Company连的弟兄在二战战场上浴血奋战。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

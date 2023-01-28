@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "青蜂侠与加藤 The Green Hornet and Kato",
+  "url": "/subject/26888761/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014029/",
+      "name": "雷·沃纳尔 Leigh Whannell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019071/",
+      "name": "大卫·凯普 David Koepp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010845/",
+      "name": "乔治·W·特伦德尔 George W. Trendle"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "加文·欧康诺接受时光网独家专访时，爆料他将拍摄全新的《青蜂侠》电影。 “前几年电影版的《青蜂侠》拍成了搞笑片，但《青蜂侠》不是搞笑片，所以我取得了这项版权并选择在派拉蒙开发。”",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

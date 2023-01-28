@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "动物世界2",
+  "url": "/subject/30264004/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528401169.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314828/",
+      "name": "韩延 Yan Han"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "据悉，Netflix目前已拿下电影《动物世界》海外数字版权，届时全球190个国家和地区的观众均可欣赏到该片。此前制片人透露《动物世界》将拍摄三部曲。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超能追缉 Mortal",
+  "url": "/subject/26791681/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2602870532.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352843/",
+      "name": "安德烈·艾弗道夫 André Øvredal"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352843/",
+      "name": "安德烈·艾弗道夫 André Øvredal"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1213072/",
+      "name": "纳特·沃尔夫 Nat Wolff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379563/",
+      "name": "亚瑟·哈卡拉赫蒂 Arthur Hakalahti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1057419/",
+      "name": "珀·埃吉尔·埃斯克 Per Egil Aske"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080438/",
+      "name": "Per Frisch Per Frisch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1263670/",
+      "name": " Slawomir Poplawski"
+    }
+  ]
+,
+  "datePublished": "2020-02-28",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H44M",
+  "description": "故事讲述一位挪威裔神秘男子，让碰到自己的少年突然自燃，并被控谋杀罪名。在接受审问之前，一位心理医师惊人发现，他竟然拥有无法控制的超自然能力，而这股力量可能来自于北欧神话，于是她决定帮助这位神秘男子逃狱...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1442",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

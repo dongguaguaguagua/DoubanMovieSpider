@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "流沙 Quicksand",
+  "url": "/subject/3148018/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303082/",
+      "name": "马克·布罗泽 Mark Brozel"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335478/",
+      "name": "史蒂夫·刘易斯 Steve Lewis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335479/",
+      "name": "托尼·欧文 Tony Owen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1131508/",
+      "name": "Tony Owen Tony Owen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013814/",
+      "name": "艾米丽·沃森 Emily Watson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002671/",
+      "name": "大卫·田纳特 David Tennant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010533/",
+      "name": "托比·凯贝尔 Toby Kebbell"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "A British couple, Dan and Sarah, living out their dream in paradisal Spain come to grief when their ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

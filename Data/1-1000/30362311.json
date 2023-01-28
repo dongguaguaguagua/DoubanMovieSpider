@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的英雄学院 My Hero Academia",
+  "url": "/subject/30362311/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296732/",
+      "name": "佐藤信介 Shinsuke Sato"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372718/",
+      "name": "堀越耕平 Kohei Horikoshi"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "传奇影业宣布将日漫《我的英雄学院》改编成真人电影。这是传奇继《精灵宝可梦：大侦探皮卡丘》之后，又一部日漫真人化作品。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

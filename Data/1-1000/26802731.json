@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女巫猎人 Watchfinder General",
+  "url": "/subject/26802731/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286634/",
+      "name": "约翰·希尔寇特 John Hillcoat"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346044/",
+      "name": "乔恩·克罗克 Jon Croker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283958/",
+      "name": "丹尼斯·福 Dennis Foon"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "约翰·希尔寇特([无法无天])将执导重制版[女巫猎人]。本片由乔恩·克罗克([黑衣女人2：死亡天使])撰写剧本，将于今年晚些时候开始选角。尼古拉斯·温丁·雷弗恩等担任制片人。原版影片由文森特·普莱斯、...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

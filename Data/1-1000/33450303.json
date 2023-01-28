@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "西尔维娅 Sylvia",
+  "url": "/subject/33450303/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375086/",
+      "name": "维姬·朱森 Vicky Jewson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375086/",
+      "name": "维姬·朱森 Vicky Jewson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409608/",
+      "name": "鲁珀特·惠特科尔 Rupert Whitaker"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013796/",
+      "name": "劳米·拉佩斯 Noomi Rapace"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "劳米·拉佩斯([龙纹身的女孩])将主演维姬·朱森([贴身女保镖])执导的动作片[西尔维娅](Sylvia，暂译)，维姬与[贴身女保镖]编剧搭档鲁珀特·惠特科尔共同操刀剧本。拉佩斯将饰演南非出生的西尔维...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

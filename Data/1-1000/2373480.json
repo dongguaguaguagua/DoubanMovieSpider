@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "金属人 Metal Men",
+  "url": "/subject/2373480/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2562646342.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001579/",
+      "name": "艾瑞克·钱伯尼拉 Eric Champnella"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021304/",
+      "name": "罗伯特·坎耐尔 Robert Kanigher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384433/",
+      "name": "罗斯·安德鲁 Ross Andru"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002772/",
+      "name": "巴里·索南菲尔德 Barry Sonnenfeld"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360708/",
+      "name": "罗斯·安德鲁 Ross Andru"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "Based on a DC Comics hero created by Robert Kanigher and Ross Andru in 1962, &#34;Metal&#34; revolves around...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

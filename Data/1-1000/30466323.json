@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Snatchers",
+  "url": "/subject/30466323/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2548829224.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1271964/",
+      "name": " John Kingman"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362383/",
+      "name": "乔纳森·弗尔南德斯 Johnathan Fernandez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447643/",
+      "name": "Rachel Grant Rachel Grant"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

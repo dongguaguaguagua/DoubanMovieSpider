@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黄金蝴蝶",
+  "url": "/subject/27087179/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2492537098.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274406/",
+      "name": "园子温 Shion Sono"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274406/",
+      "name": "园子温 Shion Sono"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "以血腥暴力题材著称的日本名导园子温将在中国执导首部电影，名为#黄金蝴蝶#。据电影局公示，该片已正式立项，电影讲述青年昆虫科学家林优与领队祖穗等人一起前往某岛，寻找传说中的黄金蝴蝶“苏微苏微”的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

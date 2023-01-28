@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "加菲猫 Garfield",
+  "url": "/subject/30377311/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282455/",
+      "name": "马克·汀戴尔 Mark Dindal"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1081298/",
+      "name": "吉姆·戴维斯 Jim Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295520/",
+      "name": "大卫·雷诺兹 David Reynolds"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017967/",
+      "name": "克里斯·帕拉特 Chris Pratt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054408/",
+      "name": "塞缪尔·杰克逊 Samuel L. Jackson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036341/",
+      "name": "尼古拉斯·霍尔特 Nicholas Hoult"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316240/",
+      "name": "汉娜·沃丁厄姆 Hannah Waddingham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048129/",
+      "name": "文·瑞姆斯 Ving Rhames"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324201/",
+      "name": "塞西莉·斯特朗 Cecily Strong"
+    }
+  ]
+,
+  "datePublished": "2024-05-24",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "克里斯·帕拉特配音《加菲猫》定档2024年5月24日北美上映。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

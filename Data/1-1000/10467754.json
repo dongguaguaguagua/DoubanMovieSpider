@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "放浪记",
+  "url": "/subject/10467754/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028510/",
+      "name": "关锦鹏 Stanley Kwan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274642/",
+      "name": "李樯 Qiang Li "
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H50M",
+  "description": "戏剧明星韦天怡在她艺术生涯最辉煌的时候，随着一个戏剧天才叫苏洛的年轻漂亮女孩一夜爆红的出现，命运发生了比舞台上的情节更加戏剧性的改变。两个女人之间展开了一场看不见硝烟的战争。最终她们才明白，生活才是艺...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

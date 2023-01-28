@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "电锯惊魂10 Saw 10",
+  "url": "/subject/36116844/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2878973659.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000481/",
+      "name": "凯文·格劳特 Kevin Greutert"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032733/",
+      "name": "乔什·斯托博格 Josh Stolberg"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041218/",
+      "name": "迈克尔·比奇 Michael Beach"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025219/",
+      "name": "托宾·贝尔 Tobin Bell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318894/",
+      "name": "西诺薇·玛考迪·伦德 Synnøve Macody Lund"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009579/",
+      "name": "史蒂文·布兰德 Steven Brand"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449445/",
+      "name": "埃拉·布鲁科莱里 Ella Bruccoleri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327008/",
+      "name": "本·卡特赖特 Ben Cartwright"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482987/",
+      "name": "蕾内塔·瓦卡 Renata Vaca"
+    }
+  ]
+,
+  "datePublished": "2023-10-27",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

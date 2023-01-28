@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阳光码头",
+  "url": "/subject/33414470/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398700/",
+      "name": "殷若昕 Ruoxin Yin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375690/",
+      "name": "韩家女 Jianü Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373529/",
+      "name": "张梦楚 Mengchu Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "青岛女子曾婧和带着两个女儿去香港与丈夫会和，不料等来的是一纸离婚书；母女三人留在香港，婧和为了生计开始在码头摆摊卖水饺，同时也认识了一帮挚友；经过多年艰苦奋斗，婧和成为享誉中外的“水饺皇后”。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

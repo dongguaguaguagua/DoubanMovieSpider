@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我，机器人2 I, Robot 2",
+  "url": "/subject/2266668/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p589731063.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009571/",
+      "name": "罗纳德·D·摩尔 Ronald D. Moore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014250/",
+      "name": "艾萨克·阿西莫夫 Isaac Asimov"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "I, Robot 2",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

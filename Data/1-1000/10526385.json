@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Food of Love",
+  "url": "/subject/10526385/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002804/",
+      "name": "彼得·格林纳威 Peter Greenaway"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002804/",
+      "name": "彼得·格林纳威 Peter Greenaway"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338026/",
+      "name": "帕洛玛·费丝 Paloma Faith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009722/",
+      "name": "菲利波·蒂米 Filippo Timi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50"],
+  "duration": "",
+  "description": "The vulgar gangster Roquey van Smacker extorts and blackmails in order to get what he wants, but whe...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

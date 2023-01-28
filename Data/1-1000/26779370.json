@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黄雀记",
+  "url": "/subject/26779370/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2532436592.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274943/",
+      "name": "高群书 Qunshu Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321658/",
+      "name": "苏童 Tong  Su"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "电影《黄雀记》源自茅盾文学奖获奖同名作品。小说延续了苏童惯常的小人物、小地方的叙事风格和节奏，主要围绕着上世纪80年代发生的一起青少年强奸案展开，并通过三个不同当事人的视觉去描绘故事中的青少年一路的成...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}
