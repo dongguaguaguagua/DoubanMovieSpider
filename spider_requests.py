@@ -10,15 +10,15 @@ from update import *
 
 
 if __name__ == "__main__":
-    i=0
+    i=570
     with open("dic1.json","r") as file:
         data=json.load(file)
-    proxies = get_qg_proxy()
+    proxies = get_zm_proxy()
     ua = UserAgent()
     headers = {'User-Agent': ua.random,'Referer':"https://movie.douban.com",'Cennection':'keep-alive'}
-    while(i<1):
+    while(i<1000):
         if(i%20==19):
-            proxies = get_qg_proxy()
+            proxies = get_zm_proxy()
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")
         try:
@@ -26,7 +26,7 @@ if __name__ == "__main__":
         except:
             print("请求超时，尝试更新proxy")
             time.sleep(3)
-            proxies = get_qg_proxy()
+            proxies = get_zm_proxy()
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")
             continue
@@ -38,7 +38,7 @@ if __name__ == "__main__":
                 continue
             print("错误码 : ",resp.status_code,"尝试更新proxy")
             time.sleep(3)
-            proxies = get_qg_proxy()
+            proxies = get_zm_proxy()
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")
             continue
@@ -46,7 +46,7 @@ if __name__ == "__main__":
         soup = BeautifulSoup(resp.text, 'lxml')
         if(soup == ""):
             print("soup为空，尝试更新proxy")
-            proxies = get_qg_proxy()
+            proxies = get_zm_proxy()
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")
             continue
@@ -58,8 +58,5 @@ if __name__ == "__main__":
         time.sleep(random.random()*3)
         i+=1
 
-
-ime.sleep(random.random()*3)
-        i+=1
 
 

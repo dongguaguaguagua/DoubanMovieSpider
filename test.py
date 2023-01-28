@@ -13,6 +13,7 @@
 # print(update_data(soup))
 
 # -*- coding: utf-8 -*-
+from fake_useragent.fake import update
 import requests
 import json
 import random
@@ -95,12 +96,16 @@ from update import *
 
 #         i+=1
 
+with open("example.html","r") as html:
+    data=html.read()
 
+soup=BeautifulSoup(data,"lxml")
+print(update_data(soup))
 
-proxxxy=get_qg_proxy()
-headers = {'User-Agent': UserAgent().random}
-resp=requests.get("http://httpbin.org/get",headers=headers,proxies=proxxxy)
-print(resp)
+# proxxxy=get_qg_proxy()
+# headers = {'User-Agent': UserAgent().random}
+# resp=requests.get("http://httpbin.org/get",headers=headers,proxies=proxxxy)
+# print(resp)
 
 # a={'Code': 0, 'Data': [{'IP': '180.121.132.37', 'port': '21504', 'deadline': '2023-01-26 21:30:20', 'host': '180.121.132.37:21504'}], 'Num': 1, 'TaskID': '8kZYWw0ScIxqxF2j'}
 # print(a['Data'][0]['port'])
