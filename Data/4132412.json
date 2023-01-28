@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "飓风中的清白者 Zeitoun",
+  "url": "/subject/4132412/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2047568181.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032289/",
+      "name": "戴夫·艾格斯 Dave Eggers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276224/",
+      "name": "丹尼尔·佩尼 Daniel Pyne"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u753b", "\u5386\u53f2"],
+  "duration": "",
+  "description": "In post-Katrina New Orleans, a Syrian-born painting contractor assisting in the rescue efforts finds...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

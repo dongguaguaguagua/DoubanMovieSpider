@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "斧头 The Ax",
+  "url": "/subject/4092781/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2882337990.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1137414/",
+      "name": "朴赞郁 Chan-wook Park"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009878/",
+      "name": "唐纳德·维斯雷克 Donald E. Westlake"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1105108/",
+      "name": "李秉宪 Byung-hun Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025141/",
+      "name": "汤唯 Wei Tang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "朴赞郁透露，下一步将翻拍美国作家唐纳德·维斯雷克的小说《The Ax》(斧头，暂译)，项目还在筹备，李京美担任编剧，目前剧本已经完成。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

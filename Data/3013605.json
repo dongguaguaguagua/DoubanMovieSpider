@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "重金属 Heavy Metal",
+  "url": "/subject/3013605/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022571/",
+      "name": "詹姆斯·卡梅隆 James Cameron"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u52a8\u753b", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "派拉蒙将制作一部由科幻杂志“Heavy Metal”（《重金属》）启发的动画电影，该片类似《黑客帝国动画版》，也是由若干部短片构成的。今天据Film School Rejects报道，有多位名导将加入...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大祭司",
+  "url": "/subject/33428393/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2591689253.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434975/",
+      "name": "韦永垚 Renai Wei"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434975/",
+      "name": "韦永垚 Renai Wei"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H30M",
+  "description": "南方深山，备受灵异事件威胁的村中祭司为了过世母亲灵魂的完整，决定举办一场城里家人都反对的古老葬礼。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

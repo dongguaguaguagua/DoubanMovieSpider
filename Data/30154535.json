@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三天一生 Trois jours et une vie",
+  "url": "/subject/30154535/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2563736607.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019943/",
+      "name": "尼古拉斯·布赫里夫 Nicolas Boukhrief"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383281/",
+      "name": "皮耶尔·勒迈特 Pierre Lemaitre"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473861/",
+      "name": "皮耶尔·勒迈特  Pierre Lemaitre"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432659/",
+      "name": "佩林·玛格林 Perrine Margaine"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048315/",
+      "name": "夏尔·贝尔林 Charles Berling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018278/",
+      "name": "桑德里娜·博内尔 Sandrine Bonnaire"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028374/",
+      "name": "菲利普·托雷顿 Philippe Torreton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460900/",
+      "name": "杰里米·塞内兹 Jeremy Senez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392518/",
+      "name": "巴勃罗·保利 Pablo Pauly"
+    }
+  ]
+,
+  "datePublished": "2019-08-21",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT2H0M",
+  "description": "法国作家#皮埃尔·勒梅特 Pierre Lemaitre# 几日前发推称，继&#34;天上再见&#34;之后，他的第二部小说&#34;Trois jours et une vie&#34;也即将被搬上银幕。影片将于今年秋季开拍，&#34;法...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1761",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

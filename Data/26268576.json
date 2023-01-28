@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Alpha",
+  "url": "/subject/26268576/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034309/",
+      "name": "丹尼尔·H·威尔逊 Daniel H. Wilson"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "据外媒THR报道，狮门影业已计划拍摄一部科幻惊悚电影《Alpha》，故事来自威尔逊的一个创意，布拉德·皮特将于他Plan B公司的合伙人迪·加纳和Jeremy Kleiner一同完成影片的制片工作。电...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

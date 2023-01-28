@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "牧羊少年奇幻之旅 The Alchemist",
+  "url": "/subject/2137271/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022596/",
+      "name": "劳伦斯·菲什伯恩 Laurence Fishburne"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050418/",
+      "name": "保罗·柯艾略 Paulo Coelho"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Paulo Coelho 畅销新世纪(new age)灵魂小说《The Alchemist》(炼金士)将被华纳兄弟(WB)搬上大银幕。该书一经出版受到大量读者好评，号称一部触动灵魂之作。
+sonych...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "70",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.8"
+  }
+}

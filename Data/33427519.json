@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狼图腾2",
+  "url": "/subject/33427519/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284356/",
+      "name": "约翰·福斯克 John Fusco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330598/",
+      "name": "韩景龙 Jinglong Han"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "",
+  "description": "影片讲述额仑草原被农耕之后，成为沙漠。天鹅湖和草场消失，沙尘暴肆虐，人和狼群都面临生存危机。上级又给农牧场下达新的任务，让农场继续北上，开发北方最后一块封闭的草原——成吉思汗黄金家族的封地。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

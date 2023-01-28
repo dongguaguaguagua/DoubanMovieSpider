@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卢克索 Luxor",
+  "url": "/subject/32526138/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2867170774.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441115/",
+      "name": "泽伊娜·杜拉 Zeina Durra"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441115/",
+      "name": "泽伊娜·杜拉 Zeina Durra"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040815/",
+      "name": "安德丽娅·赖斯伯勒 Andrea Riseborough"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049724/",
+      "name": "迈克尔·兰德斯 Michael Landes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392049/",
+      "name": "沙希拉·法赫米 Shahira Fahmy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1144161/",
+      "name": "卡里姆·萨利赫 Karim Saleh"
+    }
+  ]
+,
+  "datePublished": "2020-01-27",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H25M",
+  "description": "英国社工哈娜再次回到埃及古城卢克索的时候，偶遇了她的旧情人苏尔丹。这个浪漫而又有才华的考古学家让故地重游的哈娜情绪跌宕起伏，不断涌现的旧时回忆让哈娜沉醉于过去，却又苦恼于难以预知的未来。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "172",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

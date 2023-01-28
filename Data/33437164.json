@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幸福生活 Happy Life",
+  "url": "/subject/33437164/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359124/",
+      "name": "大卫·斯塔森 David Stassen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359124/",
+      "name": "大卫·斯塔森 David Stassen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021963/",
+      "name": "伊万杰琳·莉莉 Evangeline Lilly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004936/",
+      "name": "伊克·巴里霍尔兹 Ike Barinholtz"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "伊万杰琳·莉莉、伊克·巴里霍尔兹([护航父母])将主演爱情喜剧[幸福生活](Happy Life，暂译)，大卫·斯塔森(《明迪烦事多》)自编自导，故事讲述新手妈妈(莉莉饰)怀疑自己的工作狂丈夫(巴里霍...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

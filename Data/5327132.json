@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卡特打败了魔鬼 Carter Beats the Devil",
+  "url": "/subject/5327132/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290316/",
+      "name": "菲尔·罗德 Phil Lord"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1119399/",
+      "name": "克里斯托弗·米勒 Christopher Miller"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "A story centered around a magician, his rival, and the mysterious death of President Warren G. Hardi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

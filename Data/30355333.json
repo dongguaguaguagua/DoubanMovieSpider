@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "偶像 Idol",
+  "url": "/subject/30355333/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1113487/",
+      "name": "马特·金 Matt King"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312964/",
+      "name": "海莉·斯坦菲尔德 Hailee Steinfeld"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "海莉·斯坦菲尔德将出演Netflix音乐题材影片[偶像](Idol，暂译)并任制片。编剧马特·金，故事讲述了一个女孩从成为歌星的助理到一心成为又一个歌星。马特·里夫斯有望担任制片，其制片公司6th &amp;...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

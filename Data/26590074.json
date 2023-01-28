@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "龙族",
+  "url": "/subject/35170003/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2875330368.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381024/",
+      "name": "王昕 Xin Wang "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350945/",
+      "name": "江南 Zhi Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2022-08-19",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "衰仔高三生路明非，突然收到了一封来自卡塞尔学院的邀请信，这一件天上掉馅饼的大好事砸得他有一些不知所措，经历了一系列事件后，路明非决定面对未知，加入卡塞尔，谁知竟被告知，卡塞尔的学习之旅是为了——屠龙。...",
+  "@type": "TVSeries",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6735",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

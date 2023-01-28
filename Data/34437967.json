@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马尔科 Malko",
+  "url": "/subject/34437967/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323406/",
+      "name": "埃里克·辛格尔 Eric Singer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000010/",
+      "name": "迈克尔·法斯宾德 Michael Fassbender"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "迈克尔·法斯宾德将主演间谍题材动作惊悚片[马尔科](Malko，暂译)。影片根据热拉尔·代·维利尔斯撰写的畅销系列小说“S.A.S”进行改编，埃里克·辛格尔([美国骗局])负责执笔剧本。狮门影业已拿下...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

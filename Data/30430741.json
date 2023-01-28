@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Au Pair",
+  "url": "/subject/30430741/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028271/",
+      "name": "R·L·斯坦 R.L. Stine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328358/",
+      "name": "达娜·史蒂文斯 Dana Stevens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397704/",
+      "name": "杰夫·布勒 Jeff Buhler"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "A young woman takes a summer job as the nanny for a child who hasn&#39;t spoken for months, seemingly ha...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

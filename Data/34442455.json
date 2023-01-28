@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "特斯拉 Tesla",
+  "url": "/subject/34442455/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009570/",
+      "name": "安南德·图克尔 Anand Tucker"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1196338/",
+      "name": "托马斯·科特 Tomasz Kot"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "传奇科学家尼古拉·特斯拉的故事将被搬上大银幕，《冷战》男主角托马斯·科特将主演。安南德·图克尔执笔剧本，讲述特斯拉人生中最后一项重大的实验的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

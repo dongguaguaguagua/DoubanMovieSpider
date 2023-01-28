@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "与神同行4 신과 함께 4",
+  "url": "/subject/27666525/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306647/",
+      "name": "金容华 Yong-hwa Kim"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1109907/",
+      "name": "李政宰 Jung-jae Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041047/",
+      "name": "朱智勋 Ji-hun Ju"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276094/",
+      "name": "金香起 Hyang-ki Kim"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "而有消息指出制作公司除了确定将会拍摄电视剧的版本外，亦打算续拍3、4部曲，成为韩国史上经典的系列电影之一。而身为导演的他亦在采访中坦言也有这个想法，虽然暂时尚未接到提案，但若果确实拍摄也完全没有问题。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

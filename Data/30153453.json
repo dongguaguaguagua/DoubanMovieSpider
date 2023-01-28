@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海滩 The Beach",
+  "url": "/subject/30153453/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284570/",
+      "name": "亚历克斯·加兰 Alex Garland"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ca\u609a", "\u5192\u9669"],
+  "duration": "",
+  "description": "[机械姬]导演亚历克斯·加兰早年是一名小说家，他1996年的第一部小说《海滩》曾在2000年被丹尼·博伊尔搬上大银幕，影片由李昂纳多·迪卡普里奥主演。近日据亚历克斯·加兰透露，该小说将再次被改编。他表...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}
