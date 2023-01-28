@@ -206,14 +206,13 @@ def get_zm_proxy(choice='http'):
 
         proxyMeta = "http://%(host)s:%(port)s" % {
             "host" : excellent_ip,
-            "port" : excellent_ip,
+            "port" : excellent_ip_port,
         }
         proxies = {
             "http"  : proxyMeta,
             "https"  : proxyMeta
         }
-        print(excellent_ip,excellent_ip)
-        print(proxies)
+        print(excellent_ip,excellent_ip_port)
         return proxies
 
     elif(ip_data['code']==116):
