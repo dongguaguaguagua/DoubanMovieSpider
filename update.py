@@ -141,6 +141,10 @@ def get_qg_proxy(choice='http'):
     elif(ip_data['code']==-103):
         print("获取ip失败,资源不足");
         sys.exit(1)
+    else:
+        print(ip_data)
+        sys.exit(1)
+
 
     # elif(ip_data['code']==-11):
     #     print("获取ip失败,请求过快");
@@ -214,6 +218,9 @@ def get_zm_proxy(choice='http'):
 
     elif(ip_data['code']==116):
         print("获取ip失败,今日套餐已用完");
+        sys.exit(1)
+    else:
+        print(ip_data)
         sys.exit(1)
 
     # elif(ip_data['code']==111):
