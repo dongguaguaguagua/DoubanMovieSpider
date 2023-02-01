@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "云霄",
+  "url": "/subject/30404864/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542850084.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338128/",
+      "name": "和子秦 Christopher He"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338128/",
+      "name": "和子秦 Christopher He"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H50M",
+  "description": "关于一个男人与香烟的复仇故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

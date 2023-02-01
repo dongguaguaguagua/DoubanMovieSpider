@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "引人注目 Limelight",
+  "url": "/subject/30194970/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337912/",
+      "name": "阿方索·戈麦斯-雷洪 Alfonso Gomez-Rejon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032455/",
+      "name": "尼古拉斯·派勒吉 Nicholas Pileggi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1030398/",
+      "name": "J.J. Sacha J.J. Sacha"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "阿方索·戈麦斯-雷洪(《电流之战》《我和厄尔以及将死的女孩》)将执导亚马逊新片《引人注目》(Limelight)，尼古拉斯·派勒吉(《好家伙》《美国黑帮》)和J.J. Sacha(《朱莉与朱莉娅》《家...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

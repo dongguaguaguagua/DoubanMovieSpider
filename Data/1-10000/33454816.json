@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我是如何成为超级英雄的 Comment je suis devenu super-héros",
+  "url": "/subject/33454816/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2572641457.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311921/",
+      "name": "皮奥·马麦 Pio Marmaï"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324797/",
+      "name": "斯万·阿劳德 Swann Arlaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1464557/",
+      "name": "路易斯·佩雷斯 Louis Peres"
+    }
+  ]
+,
+  "datePublished": "2020-10-14",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "PT1H37M",
+  "description": "2021 年巴黎。超级英雄完美融入社会。一种可以赋予普通人超能力的神秘毒品在城市中传播。由于这类事件不断增多，莫罗中尉和沙尔茨曼被指派前去调查真相。他们将与两位资深治安会成员蒙特·卡洛和卡莉丝塔联手，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "754",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

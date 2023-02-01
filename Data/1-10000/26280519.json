@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "未来未来",
+  "url": "/subject/26280519/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2489284051.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313751/",
+      "name": "郭敬明 Jingming Guo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313751/",
+      "name": "郭敬明 Jingming Guo"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "科幻电影《未来未来》立项，讲述了两百年后，某神秘公司制造出一批超能力者，并利用神秘技术对其进行操纵。一部分超能力者反抗试图救出所有的同类，寻找最初拥有超能力基因的三位“超能始祖”的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "赤裸的塔克",
+  "url": "/subject/27087884/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2674777616.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380823/",
+      "name": "杨明杰 Mingjie Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380823/",
+      "name": "杨明杰 Mingjie Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417047/",
+      "name": "牛欢 Huan Niu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468384/",
+      "name": "张振东 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315463/",
+      "name": "徐冬冬 Dongdong Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008125/",
+      "name": "梁家仁 Ka-Yan Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274720/",
+      "name": "唐以诺 Yinuo Tang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "《赤裸的塔克》是由浙江宸禾影业有限公司出品，杨明杰导演的集武打、爱情、搞笑于一体的商业影片。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "太空人 Astronaut",
+  "url": "/subject/30386904/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540915626.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1115964/",
+      "name": "谢拉·麦克劳德 Shelagh McLeod"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1115964/",
+      "name": "谢拉·麦克劳德 Shelagh McLeod"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041114/",
+      "name": "理查德·德莱福斯 Richard Dreyfuss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367073/",
+      "name": "雷瑞克·本特 Lyriq Bent"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022706/",
+      "name": "科鲁姆·费奥瑞 Colm Feore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078089/",
+      "name": "克里斯塔·布里吉斯 Krista Bridges"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010733/",
+      "name": "阿特·欣德尔 Art Hindle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055165/",
+      "name": "格雷厄姆·格林 Graham Greene"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478510/",
+      "name": "凯伦·勒布朗 Karen LeBlanc"
+    }
+  ]
+,
+  "datePublished": "2019-07-26",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "A lonely widower battles his family, ill health and time to win a competition for a golden ticket to...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "110",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

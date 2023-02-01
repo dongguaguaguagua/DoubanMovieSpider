@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "丰岛园 映画 としまえん",
+  "url": "/subject/30301179/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2549043240.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411820/",
+      "name": "高桥浩 Hiroshi Takahashi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411820/",
+      "name": "高桥浩 Hiroshi Takahashi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313448/",
+      "name": "北原里英 Rie Kitahara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275483/",
+      "name": "小岛藤子 Kojima Fujiko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351082/",
+      "name": "浅川梨奈 Nana Asakawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351607/",
+      "name": "松田流花 Ruka Matsuda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317206/",
+      "name": "小宫有纱 Arisa Komiya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348585/",
+      "name": "国岛直希 Naoki Kunishima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411819/",
+      "name": "铃木圣奈 Seina Suzuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367639/",
+      "name": "海 YOUNG DAIS"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292897/",
+      "name": "中岛博子 Hiroko Nakajima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035579/",
+      "name": "竹中直人 Naoto Takenaka"
+    }
+  ]
+,
+  "datePublished": "2019-05-10",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H21M",
+  "description": "本片是以东京都老字号游乐园“ととしまりん”中传言的都市传说为基础，在之前的全面协助下拍摄成悬疑恐怖片。故事讲述某一天，大学生辻本早希（北原里英 饰）和高中时期关系不错的女性朋友一起去游乐园游玩。早希她...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "321",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.4"
+  }
+}

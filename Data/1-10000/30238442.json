@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "翡翠原石",
+  "url": "/subject/30238442/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523797667.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394833/",
+      "name": "练明乔 Mingqiao Lian"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394833/",
+      "name": "练明乔 Mingqiao Lian"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H10M",
+  "description": "翡翠原石是练明乔从摄影师转型导演后的第一部作品。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "气球",
+  "url": "/subject/30204413/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2623499790.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316181/",
+      "name": "万玛才旦 Pema Tseden"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316181/",
+      "name": "万玛才旦 Pema Tseden"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400147/",
+      "name": "索朗旺姆 Sonam Wangmo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362878/",
+      "name": "金巴 Jinpa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351583/",
+      "name": "杨秀措 Yangshik Tso"
+    }
+  ]
+,
+  "datePublished": "2019-08-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "《气球》故事发生在藏地，讲述灵魂与现实的紧张关系。
+主人公达杰一家因一只普通的避孕套卷入了一系列尴尬而又难以抉择的事件当中，他们原本宁静的日常生活被彻底打破，生老病死如日月流转，当灵魂遭遇现实的挑战，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "83321",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

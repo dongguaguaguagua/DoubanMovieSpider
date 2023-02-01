@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "祝你生日快乐 Fête de famille",
+  "url": "/subject/30160584/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561434568.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018714/",
+      "name": "塞德里克·康 Cédric Kahn"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423035/",
+      "name": "法妮·布尔迪诺 Fanny Burdino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423036/",
+      "name": "塞缪尔·杜 Samuel Doux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018714/",
+      "name": "塞德里克·康 Cédric Kahn"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054511/",
+      "name": "凯瑟琳·德纳芙 Catherine Deneuve"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041763/",
+      "name": "埃马纽埃尔·贝克特 Emmanuelle Bercot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338359/",
+      "name": "樊尚·马凯涅 Vincent Macaigne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018714/",
+      "name": "塞德里克·康 Cédric Kahn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428889/",
+      "name": "卢安娜·巴杰拉米 Luàna Bajrami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281080/",
+      "name": "拉埃蒂茜亚·科隆巴尼 Laetitia Colombani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407393/",
+      "name": "塞特雅·杜索戈 Satya Dusaugey"
+    }
+  ]
+,
+  "datePublished": "2019-09-04",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H42M",
+  "description": "某个夏日，一家人聚在一起庆祝母亲的七十大寿。在场的人包括：寿星和她的丈夫；他们的两个儿子，其中一个带着妻子和两个孩子，另一个带了新女友同来；以及一个似乎是在这里长大的十八岁女子。一部摄影机将这重要的日...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "680",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

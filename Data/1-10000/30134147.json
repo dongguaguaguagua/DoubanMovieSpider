@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "危险屋 Unsafe House",
+  "url": "/subject/30134147/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328352/",
+      "name": "帕特里克·休斯 Patrick Hughes"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025158/",
+      "name": "Andrew Jacobson Andrew Jacobson"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "《王牌保镖》导演帕特里克·休斯将再次与狮门合作，执导一部动作新片《危险屋》(Unsafe House)，预计年底开拍。剧情讲述3个朋友暑期时租了巴哈马的一栋海滩别墅度假，后意识到这其实是军情六处的一个...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

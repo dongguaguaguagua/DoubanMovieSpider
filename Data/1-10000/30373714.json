@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "追心记",
+  "url": "/subject/30373714/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539769820.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404161/",
+      "name": "郭茗苑 Mingyuan Guo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u53e4\u88c5"],
+  "duration": "",
+  "description": "《追心记》是一部古代小说，描写当代大学生青春励志故事，心在哪里，追向哪里。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Lumina",
+  "url": "/subject/30162642/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360143/",
+      "name": "丹妮拉·拉文朵 Daniela Lavender"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365580/",
+      "name": "基卡·马加良斯 Kika Magalhaes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361971/",
+      "name": "安德里亚·提瓦塔 Andrea Tivadar"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "",
+  "description": "An unplanned trip goes wrong..",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

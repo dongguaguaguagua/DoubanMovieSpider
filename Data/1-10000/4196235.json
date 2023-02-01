@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "未定名迈克·泰森传记片 Untitled Mike Tyson Biopic",
+  "url": "/subject/4196235/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323478/",
+      "name": "特伦斯·温特 Terence Winter"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036329/",
+      "name": "杰米·福克斯 Jamie Foxx"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u8fd0\u52a8"],
+  "duration": "",
+  "description": "奥斯卡影帝杰米·福克斯（Jamie Foxx）又要出演传记片了，不过这次他不需要唱歌，而是要学拳击了，因为他将扮演“拳王”迈克·泰森（Mike Tyson）。
+泰森1966年生于美国纽约市黑人区布鲁克...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

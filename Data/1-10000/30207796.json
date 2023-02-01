@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "相中情书 Photograph",
+  "url": "/subject/30207796/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546398926.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336525/",
+      "name": "赖舒·彼查 Ritesh Batra"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336525/",
+      "name": "赖舒·彼查 Ritesh Batra"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313213/",
+      "name": "纳瓦祖丁·席迪圭 Nawazuddin Siddiqui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372458/",
+      "name": "桑亚·玛荷塔 Sanya Malhotra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395723/",
+      "name": "阿明·阿卜杜勒·奎德 Abdul Quadir Amin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313210/",
+      "name": "法如克·贾法尔 Farrukh Jaffar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365268/",
+      "name": "萨钦·克德卡 Sachin Khedekar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408231/",
+      "name": "格塔姜利·库尔卡尼 Geetanjali Kulkarni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348576/",
+      "name": "丹兹尔·史密斯 Denzil Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442848/",
+      "name": "什里达·杜比 Shreedhar Dubey"
+    }
+  ]
+,
+  "datePublished": "2019-01-27",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H50M",
+  "description": "拉菲（纳瓦祖丁·席迪圭 Nawazuddin Siddiqui 饰）是一名摄影师，靠着在旅游景点帮游客们拍照维持生计。拉菲和祖母之间的关系十分的要好，年迈的祖母希望能在死前看到拉菲成家立业，为了安慰祖...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "290",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "北斗风云",
+  "url": "/subject/27198131/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553912723.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325634/",
+      "name": "马玉辉 Laurence Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401065/",
+      "name": "魏子千 Ziqian Wei"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414017/",
+      "name": "肖力 Li Xiao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1043330/",
+      "name": "潘虹 Hong Pan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401065/",
+      "name": "魏子千 Ziqian Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015186/",
+      "name": "孔琳 Lin Kong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317030/",
+      "name": "邵峰 Feng Shao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358010/",
+      "name": "高志强 Zhiqiang Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367715/",
+      "name": "尚大庆 Daqing Shang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313545/",
+      "name": "张山 Shan Zhang"
+    }
+  ]
+,
+  "datePublished": "2019-04-19",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591", "\u6218\u4e89"],
+  "duration": "PT1H37M",
+  "description": "故事讲述的是1944年，青岛的共产党地下组织“北斗”为了保护一位带着苏联攻打日本关东军的密电的小女孩儿，与日本宪兵队、黑龙会、军统展开了一场激烈的生死对决。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

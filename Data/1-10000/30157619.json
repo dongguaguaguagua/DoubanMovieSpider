@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "脑力坍塌 Mind Fall",
+  "url": "/subject/30157619/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342984/",
+      "name": "塞德里克·吉门内兹 Cédric Jimenez"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341603/",
+      "name": "格拉汉姆·摩尔 Graham Moore"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "塞德里克·吉门内兹([法国缉毒风云])将执导格拉汉姆·摩尔([模仿游戏])编剧的新片[脑力坍塌](Mind Fall，暂译)。该片原名[赤裸是最好的伪装]，故事讲述在未来世界，一项新技术可以使人的记忆...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

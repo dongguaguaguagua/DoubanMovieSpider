@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一日父子",
+  "url": "/subject/34454772/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2567115878.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313368/",
+      "name": "宋宁峰 Ningfeng Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321008/",
+      "name": "吕晓霖 Xiaolin Lü"
+    }
+  ]
+,
+  "datePublished": "2020-10-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "这是一部讲述家庭故事的剧情片。片中吕晓霖所扮演的梅月与宋宁峰所扮演的关山是一对夫妻，二人婚后多年未育子女，内心敏感的梅月把关山当作唯一的情感依赖，从而陷入了患得患失的状态。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

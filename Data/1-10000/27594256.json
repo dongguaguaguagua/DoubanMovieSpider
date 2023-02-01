@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "程功秘籍",
+  "url": "/subject/27594256/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506384308.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341569/",
+      "name": "罗翔 Xiang Luo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "影片由罗翔领衔主演，以一位爱国心极其浓厚的收藏家为主线，依据宋代程氏“理学”之精髓，打造的一部经典励志电影。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

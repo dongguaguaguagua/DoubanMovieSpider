@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "请当面说分手",
+  "url": "/subject/34433977/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418199/",
+      "name": "宋小君 Xiaojun Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460945/",
+      "name": "宋小君 Xiaojun Song"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460945/",
+      "name": "宋小君 Xiaojun Song"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

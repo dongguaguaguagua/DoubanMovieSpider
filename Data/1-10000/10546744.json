@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一片歌手 One Hit Wonders",
+  "url": "/subject/10546744/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275184/",
+      "name": "瑞恩·墨菲 Ryan Murphy"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275184/",
+      "name": "瑞恩·墨菲 Ryan Murphy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314191/",
+      "name": "伊安·布瑞南 Ian Brennan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314190/",
+      "name": "布拉德·法尔查克 Brad Falchuk"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u6b4c\u821e"],
+  "duration": "",
+  "description": "Three fallen pop stars from the &#39;90s form a super group to re-ignite their careers.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

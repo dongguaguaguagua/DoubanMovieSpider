@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "跑调合唱团 De Frivillige",
+  "url": "/subject/30223506/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2880771738.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303835/",
+      "name": "Frederikke Aspöck Frederikke Aspöck"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-06-13",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H29M",
+  "description": "臭名昭著的金融家、明星富豪马库斯锒铛入狱。在他因以前的某些不法交易惨遭一群摩托党毒打后，马库斯自愿提出与监狱最弱的囚犯一起接受单独监禁。在这个牢房里，有一个狱友合唱团，由囚犯尼尔斯自任合唱团指挥。新来...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "周恩来回延安",
+  "url": "/subject/30322432/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553832372.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316547/",
+      "name": "吴卫东 Weidong Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314473/",
+      "name": "刘劲 Jin Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323980/",
+      "name": "王青伟 Qingwei Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414805/",
+      "name": "羊君 Jun Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414801/",
+      "name": "曹谷溪 Guxi Cao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314473/",
+      "name": "刘劲 Jin Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1152771/",
+      "name": "唐国强 Guoqiang Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314435/",
+      "name": "卢奇 Qi Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317413/",
+      "name": "黄薇 Wei Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449887/",
+      "name": "章秘蜜 Mimi Zhang"
+    }
+  ]
+,
+  "datePublished": "2019-05-15",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2"],
+  "duration": "PT1H43M",
+  "description": "影片以1973年6月身患重症的周恩来总理，在特殊历史时期下肩负历史使命和老一辈革命家对老区人民的情怀回到圣地延安的历史事件为叙事中心，电影通过周恩来总理独有的视角回顾了中国革命在延安时期13年的重大历...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2967",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

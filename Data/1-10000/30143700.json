@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "战雄 Action Man",
+  "url": "/subject/30143700/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278859/",
+      "name": "詹姆斯·博宾 James Bobin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327901/",
+      "name": "西蒙·法纳比 Simon Farnaby"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "“孩之宝电影宇宙”又添新成员，派拉蒙将携手孩之宝打造新片[战雄](Action Man，暂译)，詹姆斯·博宾([爱丽丝梦游仙境2：镜中奇遇记])确认执导。编剧西蒙·法纳比([帕丁顿熊2])。“战雄”系...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

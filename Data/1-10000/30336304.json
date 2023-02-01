@@ -1,0 +1,101 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "熊熊乐园3",
+  "url": "/subject/30336304/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2547713169.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336904/",
+      "name": "丁亮 Liang Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440665/",
+      "name": "庄庆才 Qingcai Zhuang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336912/",
+      "name": "张金 Jin Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410984/",
+      "name": "张茗 Ming Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336930/",
+      "name": "谭笑 Xiao Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338297/",
+      "name": "刘沛 Pei Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336939/",
+      "name": "刘思奇 Siqi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345978/",
+      "name": "孟雨田 Yutian Meng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440666/",
+      "name": "缪莹莹 Yingying Miu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407583/",
+      "name": "李鑫 Xin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440667/",
+      "name": "李婉瑶 Wanyao Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448197/",
+      "name": "贾晨露 Chenlu Jia"
+    }
+  ]
+,
+  "datePublished": "2019-10-03",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT0H13M",
+  "description": "《熊熊乐园3》在原有寓教于乐、制作精良的基础上，加入了“毛毛父亲”等一系列新角色，亲子主题贯穿整体故事，进一步满足了粉丝全家其乐融融一起看的需求。",
+  "@type": "TVSeries",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天涯明月刀",
+  "url": "/subject/26757989/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2358461377.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316577/",
+      "name": "徐浩峰 Haofeng Xu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316577/",
+      "name": "徐浩峰 Haofeng Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315799/",
+      "name": "古龙 Lung Ku"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "",
+  "description": "徐浩峰出席发布会并宣布担任《天涯明月刀》导演，徐浩峰称古龙小说里人物最鲜明的特点是“有过激行为的好人和开始思考命运的坏人”，",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

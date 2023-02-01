@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "跟踪月亮 The Stalking Moon",
+  "url": "/subject/24876983/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020356/",
+      "name": "多梅尼科A.加洛罗 Antonio Galloro"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020356/",
+      "name": "多梅尼科A.加洛罗 Antonio Galloro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309077/",
+      "name": "杰里米·胡德 Jeremy Hood"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049595/",
+      "name": "托马斯·克莱舒曼 Thomas Kretschmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337077/",
+      "name": "朱莉·卓雅 Julie Dray"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027994/",
+      "name": "艾尔莎·泽贝斯坦 Elsa Zylberstein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013704/",
+      "name": "洛朗·吕卡 Laurent Lucas"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "A dark discovery of the brutality between two women and how they cope and try to survive in the mids...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

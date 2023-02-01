@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "萌妹特攻队",
+  "url": "/subject/30263928/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2549544731.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355393/",
+      "name": "赵鹤松 Hesong Zhao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453832/",
+      "name": "沈磊 Lei Shen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352512/",
+      "name": "许佳琪 Kiki Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357769/",
+      "name": "谢蕾蕾 Hana Xie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361349/",
+      "name": "李梓 Zi Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361354/",
+      "name": "姜杉 Jiang Shan"
+    }
+  ]
+,
+  "datePublished": "2019-03-09",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H24M",
+  "description": "漫画经纪人赵一成因偶然机会，进入自己的内心世界，唤醒大学时代塑造的五位“学科少女”，再次对自己的梦想进行抉择。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "500",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

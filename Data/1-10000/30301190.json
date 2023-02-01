@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Husk",
+  "url": "/subject/30301190/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1085568/",
+      "name": "霍华德·J·福特 Howard J. Ford"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023984/",
+      "name": "露易丝·温内 Louise Wener"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "",
+  "description": "A crime thriller about the trophy wife of a career criminal, who teams up with her maid, her daughte...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

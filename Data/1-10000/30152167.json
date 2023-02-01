@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "赎罪 Atone",
+  "url": "/subject/30152167/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2549245721.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450697/",
+      "name": "威斯·米勒 Wes Miller"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450697/",
+      "name": "威斯·米勒 Wes Miller"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1081065/",
+      "name": "贾克琳·弗莱明 Jaqueline Fleming"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049574/",
+      "name": "哥伦布·绍特 Columbus Short"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1249852/",
+      "name": "斯科特·埃尔罗德 Scott Elrod"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049908/",
+      "name": "罗伯特·拉斯勒 Robert Rusler"
+    }
+  ]
+,
+  "datePublished": "2019-02-26",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "劳拉•毕索（贾克琳·弗莱明 Jaqueline Fleming 饰）是一名前特种部队士兵。在她的女儿被困在了由抢劫者控制的教堂之后，她必须解决所有的劫持者来解救自己的女儿。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "211",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

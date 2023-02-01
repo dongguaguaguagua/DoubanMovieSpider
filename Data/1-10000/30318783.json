@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱到病除",
+  "url": "/subject/30318783/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2681102069.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365557/",
+      "name": "胡皓翔 Sean Hu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375222/",
+      "name": "滕艺 Yi Teng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341689/",
+      "name": "李欣泽 Xinze Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366000/",
+      "name": "王贺 He Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002051/",
+      "name": "黄志玮 Jerry Huang"
+    }
+  ]
+,
+  "datePublished": "2021-09-08",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H15M",
+  "description": "《男科女医生》中的男主人公季仲轩是一位外表、职业、魅力都无懈可击的男人, 身为律师的他拥有超强的业务能力。但是令人羡慕的精英律师却有一个难以言说的弱点— —不举。在生活的拐点和一系列的巧合之下,他最终...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

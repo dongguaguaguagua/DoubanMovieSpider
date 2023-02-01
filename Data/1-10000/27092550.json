@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "别放手 Don&#39;t Let Go",
+  "url": "/subject/27092550/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2564278562.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050341/",
+      "name": "雅各布·艾伦·埃斯戴斯 Jacob Aaron Estes"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050341/",
+      "name": "雅各布·艾伦·埃斯戴斯 Jacob Aaron Estes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318731/",
+      "name": "德鲁·戴沃特 Drew Daywalt"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000231/",
+      "name": "大卫·奥伊罗 David Oyelowo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372985/",
+      "name": "斯托姆·瑞德 Storm Reid"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031912/",
+      "name": "麦凯尔泰·威廉逊 Mykelti Williamson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314929/",
+      "name": "文峰 Byron Mann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345945/",
+      "name": "奥马尔·莱瓦 Omar Leyva"
+    }
+  ]
+,
+  "datePublished": "2019-01-27",
+  "genre": ["\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H47M",
+  "description": "[时间的皱折]童星斯托姆·瑞德加盟惊悚片[只有你](Only You，暂译)，与大卫·奥伊罗上演对手戏。雅各布·埃斯戴斯(美版[午夜凶铃3]编剧)自编自导，故事讲述一名警察(奥伊罗饰)的家人被杀后，他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "480",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

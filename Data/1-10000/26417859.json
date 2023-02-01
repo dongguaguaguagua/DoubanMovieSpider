@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "时间救援 Time Salvager",
+  "url": "/subject/26417859/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2247923132.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027776/",
+      "name": "迈克尔·贝 Michael Bay"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409123/",
+      "name": "朱恆昱 Wesley Chu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409124/",
+      "name": "扎克·奥尔维奇 Zak Olkewicz"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "虽然迈克尔·贝是否能执导《变形金刚5》还不得而知，但他与派拉蒙的合作还在继续，一部根据同名科幻小说《Time Salvager》（时间救援，暂译）改编的影片进入到双方视野，迈克尔·贝将担任该片导演，《...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

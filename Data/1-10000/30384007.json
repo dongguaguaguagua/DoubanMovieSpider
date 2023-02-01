@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Johnny Z",
+  "url": "/subject/30384007/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540549815.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018902/",
+      "name": "Jonathan Straiton Jonathan Straiton"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018902/",
+      "name": "Jonathan Straiton Jonathan Straiton"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "",
+  "description": "Johnny Z is a horror-action feature film about a half human, half zombie named Johnny who, under the...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

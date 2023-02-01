@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冰峰暴",
+  "url": "/subject/27595272/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2575134653.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385149/",
+      "name": "余非 Fei Yu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385149/",
+      "name": "余非 Fei Yu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016668/",
+      "name": "张静初 Jingchu Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165478/",
+      "name": "役所广司 Kôji Yakusho"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275324/",
+      "name": "林柏宏 Austin Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004741/",
+      "name": "维克多·韦伯斯特 Victor Webster"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1077519/",
+      "name": "诺亚·丹比 Noah Danby"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1175892/",
+      "name": "格拉汉姆·谢尔斯 Graham Shiels"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389391/",
+      "name": "巴巴克·哈利克 Babak Haleky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425075/",
+      "name": "普布次仁 "
+    }
+  ]
+,
+  "datePublished": "2019-11-03",
+  "genre": ["\u52a8\u4f5c", "\u707e\u96be"],
+  "duration": "PT1H50M",
+  "description": "喜马拉雅周边国家为了地区和平召开地区会议，议定《喜马拉雅公约》。会议召开前一架载有机密文件的飞机坠毁在珠峰南部，该文件可能危及喜马拉雅地区得之不易的和平局面。两名自称是印度军方紧急派出的特工，找到喜马...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3764",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超人：钢铁之躯2 Untitled Superman Project",
+  "url": "/subject/26597901/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523309882.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010444/",
+      "name": "乔·舒斯特 Joe Shuster"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028138/",
+      "name": "杰里·西格尔 Jerry Siegel"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044713/",
+      "name": "亨利·卡维尔 Henry Cavill"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "而据外媒The Wrap报道，《超人：钢铁之躯2》目前已经进入了积极筹备开发阶段，据称影片档期排在蝙蝠侠独立电影之后。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

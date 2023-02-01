@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猎头者 Headhunters",
+  "url": "/subject/10485646/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172899/",
+      "name": "尤·奈斯博 Jo Nesbø"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284761/",
+      "name": "萨沙·杰瓦西  Sacha Gervasi"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "An accomplished headhunter risks everything to obtain a valuable painting owned by a former mercenar...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

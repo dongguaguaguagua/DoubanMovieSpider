@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "重要人物 The Heavy",
+  "url": "/subject/30211994/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334258/",
+      "name": "朱利叶斯·艾弗里 Julius Avery"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071251/",
+      "name": "丹·凯西 Daniel Casey"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "J·J·艾布拉姆斯及其公司坏机器人再次与朱利叶斯·艾弗里合作，后者将执导超级英雄主题影片[The Heavy]，剧情尚处在保密阶段，预计下半年开拍。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

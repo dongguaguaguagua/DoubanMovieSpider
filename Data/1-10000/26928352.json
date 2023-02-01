@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天涯歌女",
+  "url": "/subject/26928352/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2530934049.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1138320/",
+      "name": "舒淇 Qi Shu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "张艺谋电影，天涯歌女，监制侯孝贤。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

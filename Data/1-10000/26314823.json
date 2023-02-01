@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "太空堡垒 Robotech",
+  "url": "/subject/26314823/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2536603522.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326370/",
+      "name": "安德斯·穆斯切蒂 Andrés Muschietti"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032466/",
+      "name": "贾森·福克斯 Jason Fuchs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218727/",
+      "name": "迈克尔·高顿 Michael Gordon"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "索尼公司今天宣布他们已经获得了《太空堡垒》（Robotech）的电影版权，将尽快将其拍成真人电影，打造成一套科幻动作史诗系列。此前，《太空堡垒》的电影版权是在华纳的手里，他们从2007年就开始筹划《太...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

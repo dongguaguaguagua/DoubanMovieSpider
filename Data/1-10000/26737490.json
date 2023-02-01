@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "花开总有时",
+  "url": "/subject/26737490/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2368276887.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359956/",
+      "name": "李彬 Arron Lee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359956/",
+      "name": "李彬 Arron Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397452/",
+      "name": "李阳阳 Sunshine Lee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363016/",
+      "name": "王婷 Ting W"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "《花开总有时》是一部青春电影以敢爱，想爱，相爱来诠释青春，讲述年轻时对于爱情的青涩与未知。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

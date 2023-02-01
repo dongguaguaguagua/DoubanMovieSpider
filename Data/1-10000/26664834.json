@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "星星女孩 Stargirl",
+  "url": "/subject/26664834/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2597603729.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355560/",
+      "name": "朱莉·哈特 Julia Hart"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354364/",
+      "name": "克里斯汀·哈恩 Kristin Hahn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369609/",
+      "name": "约旦·霍洛维茨 Jordan Horowitz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048143/",
+      "name": "吉安卡罗·埃斯波西托 Giancarlo Esposito"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210701/",
+      "name": "达比·斯坦奇菲尔德 Darby Stanchfield"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330968/",
+      "name": "卡兰·布拉尔 Karan Brar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381372/",
+      "name": "格雷厄姆·维奇尔 Graham Verchere"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339359/",
+      "name": "马克斯米利亚诺·赫尔南德斯 Maximiliano Hernández"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422263/",
+      "name": "格蕾丝·万德沃尔 Grace VanderWaal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174919/",
+      "name": "达米恩·奥哈尔 Damian O&#39;Hare"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400723/",
+      "name": "胡利奥塞萨尔·查韦斯 Juliocesar Chavez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409741/",
+      "name": "斯蒂芬妮·希尔 Stephanie Hill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1141234/",
+      "name": "J·内森·西蒙斯 J. Nathan Simmons"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437885/",
+      "name": "Artemis Artemis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460419/",
+      "name": "希瑟·坎特 Heather Kantor"
+    }
+  ]
+,
+  "datePublished": "2020-03-13",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H43M",
+  "description": "讲述一个海鸥乔纳森一般无拘无束、有自己信念的“怪女孩”Stargirl(VanderWaal饰演)，她也会弹尤克里里，会在每一个同学生日时自弹自唱为他们献上生日歌。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2805",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

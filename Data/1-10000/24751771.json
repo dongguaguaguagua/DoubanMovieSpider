@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "曼哈顿",
+  "url": "/subject/24751771/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503702539.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054531/",
+      "name": "成龙 Jackie Chan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT2H0M",
+  "description": "穿梭在曼哈顿的黑暗英雄，用爱与仇恨对话",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

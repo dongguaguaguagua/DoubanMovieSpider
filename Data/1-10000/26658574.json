@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我和春天有个约会",
+  "url": "/subject/26658574/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281025/",
+      "name": "高志森 Clifton Ko"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1160170/",
+      "name": "邓萃雯 Sheren Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275431/",
+      "name": "米雪 Michelle Mee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038227/",
+      "name": "唐宁 Leila Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1157914/",
+      "name": "谢君豪 Kwan-Ho Tse"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "改编自90年代的同名舞台剧，1995年同名电视剧《 #我和春天有个约会# 》将拍摄电影版。预计于12月~明年2月跨年拍摄，拍摄地：广州佛山西樵影视基地、港澳、上海、东南亚等。已定演员：邓萃雯（原版姚小...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

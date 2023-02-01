@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "后遗症 Legacy",
+  "url": "/subject/30317620/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2607543763.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028322/",
+      "name": "R·埃利斯·弗雷泽 R. Ellis Frazier"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424044/",
+      "name": "罗伯特·奥尔 Robert Orr"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049820/",
+      "name": "路易·曼迪勒 Louis Mandylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027193/",
+      "name": "鲁克·高斯 Luke Goss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066916/",
+      "name": "埃利亚·巴斯金 Elya Baskin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1206804/",
+      "name": "罗伯托·桑切斯 Roberto &#39;Sanz&#39; Sanchez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428358/",
+      "name": "马克·克雷尼克 Mark Krenik"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316175/",
+      "name": "伊恩·夏普 Ian Sharp"
+    }
+  ]
+,
+  "datePublished": "2020-06-08",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H38M",
+  "description": "While on a hunting trip in the isolated wilderness, a father and his adopted teenage son are turned ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "99",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

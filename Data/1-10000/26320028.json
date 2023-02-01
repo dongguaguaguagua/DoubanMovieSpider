@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "有多少爱可以胡来",
+  "url": "/subject/26320028/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289152/",
+      "name": "关皓月 Cat Kwan"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027577/",
+      "name": "古天乐 Louis Koo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033011/",
+      "name": "杨颖 Angelababy"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "博纳影业集团在庆典上正式公布了2015-2016年度新片计划。
+《有多少爱可以胡来》，关皓月导演。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

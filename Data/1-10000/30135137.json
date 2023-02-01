@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迪克西 未定名威廉·劳夫·迪恩传记片",
+  "url": "/subject/30135137/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375091/",
+      "name": "西蒙·阿布德 Simon Aboud"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010533/",
+      "name": "托比·凯贝尔 Toby Kebbell"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u4f20\u8bb0"],
+  "duration": "",
+  "description": "故事将围绕迪恩的职业生涯展开，涉及他鲜为人知的心理健康问题。迪恩的家人帮他渡过难关，女儿芭芭拉尤其重要。芭芭拉也是这部影片的顾问，她希望此片能够在展现父亲的辉煌生涯的同时，也能探讨心理健康问题，而这一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

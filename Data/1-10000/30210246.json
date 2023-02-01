@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美国人 The American",
+  "url": "/subject/30210246/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342317/",
+      "name": "迈克尔·米特尼克 Michael Mitnick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003613/",
+      "name": "亨普瑞·波顿 Humphrey Burton"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u4f20\u8bb0"],
+  "duration": "",
+  "description": "凯瑞·福永导演的电影新作《美国人》，确定将由杰克·吉伦哈尔出演美国传奇音乐家伦纳德·伯恩斯坦。伯恩斯坦25岁就被任命为纽约爱乐团助理指挥，后来担任交响乐团音乐总监长达11年，同时负责举办了纽约、伦敦、...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

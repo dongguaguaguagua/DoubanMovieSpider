@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "凯特 Kate",
+  "url": "/subject/26274943/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345049/",
+      "name": "克莱尔·比温 Clare Beavan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280981/",
+      "name": "贾菲·柯恩 Jaffe Cohen"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "一部关于凯瑟琳·赫本的传记片将由Four Stars International和Starling Road两个独立公司联合制作，影片改编自威廉·J·曼恩的传记《凯特：成为赫本的女人》，聚焦赫本从好莱...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

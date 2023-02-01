@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Stowaway",
+  "url": "/subject/26389150/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2498781814.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000324/",
+      "name": "马库斯·尼斯佩尔 Marcus Nispel"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000324/",
+      "name": "马库斯·尼斯佩尔 Marcus Nispel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020070/",
+      "name": "Scott Sandler Scott Sandler"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Secrets emerge as a family sets sail on the high seas.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

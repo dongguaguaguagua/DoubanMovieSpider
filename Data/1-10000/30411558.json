@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Le Dindon",
+  "url": "/subject/30411558/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2563527575.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050468/",
+      "name": "加里·勒斯培 Jalil Lespert"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050468/",
+      "name": "加里·勒斯培 Jalil Lespert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1093702/",
+      "name": "圭洛姆·加里尼 Guillaume Gallienne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038448/",
+      "name": "乔治·费多 Georges Feydeau"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009442/",
+      "name": "丹尼·伯恩 Dany Boon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1093702/",
+      "name": "圭洛姆·加里尼 Guillaume Gallienne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118033/",
+      "name": "霍特·麦克卡兰尼 Holt McCallany"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332589/",
+      "name": "爱丽丝·波尔 Alice Pol"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332593/",
+      "name": "劳尔·卡拉米 Laure Calamy"
+    }
+  ]
+,
+  "datePublished": "2019-09-25",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

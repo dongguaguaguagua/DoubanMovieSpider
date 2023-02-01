@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "场边教练 Cornerman",
+  "url": "/subject/30215927/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027178/",
+      "name": "鲁伯特·弗兰德 Rupert Friend"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027178/",
+      "name": "鲁伯特·弗兰德 Rupert Friend"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010509/",
+      "name": "布鲁斯·威利斯 Bruce Willis"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u8fd0\u52a8"],
+  "duration": "",
+  "description": "布鲁斯·威利斯将主演鲁伯特·弗兰德自编自导新片[场边教练](Cornerman，暂译)，饰演迈克·泰森的拳击教练Constantine &#34;Cus&#34; D&#39;Amato。影片将讲述D&#39;Amato发掘了13岁...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

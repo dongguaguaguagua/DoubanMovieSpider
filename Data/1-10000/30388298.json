@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "歌带你回家",
+  "url": "/subject/30388298/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2628992625.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343599/",
+      "name": "谢亮宏 Lianghong Xie"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343600/",
+      "name": "赵江丽 Jiangli Zhao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402633/",
+      "name": "李品夆 Pinfeng Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350815/",
+      "name": "罗湘晋 Xiangjin Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358338/",
+      "name": "陈诗颖 Shih-Ying Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433436/",
+      "name": "谢盈雪 YingXue Xie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409899/",
+      "name": "邬倩 Qian Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396876/",
+      "name": "艾米 Aimee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275893/",
+      "name": "牛犇 Ben Niu"
+    }
+  ]
+,
+  "datePublished": "2021-01-11",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "",
+  "description": "影片讲述音乐老师江波一腔热诚帮助很有歌唱天赋的百灵和她濒临崩溃的家庭。他用实际行动影响着自己的学生同事，还有社会上那些有爱心的人士，一起加入到扶贫帮困打拐这个队伍中来，最终他帮助百灵找到了弟弟百川，帮...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

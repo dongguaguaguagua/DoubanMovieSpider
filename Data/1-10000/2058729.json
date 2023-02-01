@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "群鸟 The Birds",
+  "url": "/subject/2058729/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303212/",
+      "name": "迪埃德里克·范·罗伊詹 Diederik Van Rooijen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341256/",
+      "name": "保罗·哈里斯·博德曼 Paul Harris Boardman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320372/",
+      "name": "斯科特·德瑞克森 Scott Derrickson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282496/",
+      "name": "莱斯利·迪克逊 Leslie Dixon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045383/",
+      "name": "达芙妮·杜穆里埃 Daphne Du Maurier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023456/",
+      "name": "康诺·麦克菲森 Conor McPherson"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016", "\u707e\u96be"],
+  "duration": "",
+  "description": "希区柯克1963年《群鸟》的重拍版。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

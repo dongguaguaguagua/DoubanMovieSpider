@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "傀儡姬",
+  "url": "/subject/30385354/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540663079.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379516/",
+      "name": "侯国涛 Guotao Hou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415883/",
+      "name": "王曼丽 Manli Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323190/",
+      "name": "季晨 Chen Ji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415884/",
+      "name": "鹤男 Nan He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391235/",
+      "name": "王珞嘉 Luojia Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399017/",
+      "name": "张冬 Dong Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376240/",
+      "name": "冯俊杰 Junjie Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415885/",
+      "name": "刘永刚 Yonggang Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339783/",
+      "name": "戴明 Ming Dai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391133/",
+      "name": "脑门额尔德尼 Naomen Eerdeni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364224/",
+      "name": "韩梦武 Mengwu Han"
+    }
+  ]
+,
+  "datePublished": "2019-04-25",
+  "genre": ["\u60ac\u7591", "\u5947\u5e7b"],
+  "duration": "PT1H12M",
+  "description": "师师倾慕师兄飞赫，二人研制“十全傀儡人”时飞赫失踪，傀儡人也消失不见。师师在城主府邂逅一男，肩上有飞赫专属图案，可惜未见其容。携带图案的是飞赫所造的十全傀儡。后被权臣姜相邦利用，代替真城主姬夜辰统治王...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "990",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

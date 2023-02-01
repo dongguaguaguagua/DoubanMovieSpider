@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恶灵 Wretch",
+  "url": "/subject/30317618/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2533262633.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418699/",
+      "name": "布莱恩·坎宁安 Brian Cunningham"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418699/",
+      "name": "布莱恩·坎宁安 Brian Cunningham"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418700/",
+      "name": "梅根·梅西 Megan Massie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418702/",
+      "name": "斯宾塞·科克兹 Spencer Korcz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418701/",
+      "name": "莱克·希尔 Riker Hill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387902/",
+      "name": "凯蒂·斯图尔特 Katie Stewart"
+    }
+  ]
+,
+  "datePublished": "2018-09-13",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H29M",
+  "description": "In an attempt to piece together fractured memories of a drug-fueled night in the woods, three friend...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

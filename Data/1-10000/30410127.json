@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "南毛北马之张九道",
+  "url": "/subject/30410127/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543296029.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008125/",
+      "name": "梁家仁 Ka-Yan Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417168/",
+      "name": "寒丰 Feng Han"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "",
+  "description": "作为讲述奇人异法题材的影片，《南茅北马张九道》主要以天机宗三十六代传人“张九道”的故事为主线，讲述了他为富甲一方的孙半城破除异法时，触发了师兄邬元术的法阵，进而牵扯出师门往事、师兄弟斗法的一系列故事。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

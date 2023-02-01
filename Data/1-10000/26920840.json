@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "硬派风 Hard Boiled",
+  "url": "/subject/26920840/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2634293596.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319055/",
+      "name": "本·维特利  Ben Wheatley"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319055/",
+      "name": "本·维特利  Ben Wheatley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004675/",
+      "name": "弗兰克·米勒 Frank Miller"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "英国导演本·威特利（Ben Wheatley）即将把弗兰克·米勒（Frank Miller）的漫画《Hard Boiled》拍成电影，而锁定主演该片的就是与他合作过《高楼》（High Rise）的英国...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

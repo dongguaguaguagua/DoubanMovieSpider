@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "六月的秘密",
+  "url": "/subject/30216731/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522497098.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407738/",
+      "name": "王暘 Yang Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407738/",
+      "name": "王暘 Yang Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041390/",
+      "name": "郭富城 Aaron Kwok"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366978/",
+      "name": "苗苗 Miao Miao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316060/",
+      "name": "吴建飞 Jianfei Wu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u97f3\u4e50"],
+  "duration": "PT2H0M",
+  "description": "华哥含辛茹苦将王珺养大，为支持女儿的梦想，不惜身兼数份兼职，终于积劳成疾。随着他的病情渐重，一段关于王珺身世的谜团也渐渐浮现。王珺不得不面对痛苦的真相。最终，她用无与伦比的琴声完成了华哥内心的救赎。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

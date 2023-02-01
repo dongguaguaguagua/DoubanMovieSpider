@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我是官兵你是贼",
+  "url": "/subject/30409865/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2544523498.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407404/",
+      "name": "傅保中 Baozhong Fu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407404/",
+      "name": "傅保中 Baozhong Fu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408298/",
+      "name": "张景迪 Jingdi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408299/",
+      "name": "张浩宇 Haoyu Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408300/",
+      "name": "刘倍玲 Beiling Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401400/",
+      "name": "梁月军 Yuejun Liang"
+    }
+  ]
+,
+  "datePublished": "2019-03-08",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H12M",
+  "description": "冯二八为还赌债被迫当贼，偷了一幅“古画”，在卖画过程中误入片场，被好友李五七说服在一部微电影中客串，一个演兵，一个演贼。碰巧联防员到片场检查安全，冯二八“做贼心虚”越演越乱，最终将一部喜剧演成了悲剧。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

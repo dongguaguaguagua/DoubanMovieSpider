@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地球上的居住者 Tellurian",
+  "url": "/subject/30383736/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2540503883.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415858/",
+      "name": "艾伦·库斯伯特 Alan Cuthbert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419484/",
+      "name": "埃莉·里德 Ellie Reid"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "When an Alien invasion destroys the Earth&#39;s government and decimates the population, the remaining p...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

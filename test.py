@@ -96,10 +96,11 @@ from update import *
 
 #         i+=1
 
-with open("example.html","r") as html:
+with open("example2.html","r") as html:
     data=html.read()
 
-soup=BeautifulSoup(data,"lxml")
+
+soup=BeautifulSoup("","lxml")
 
 print(update_data(soup))
 
@@ -107,6 +108,12 @@ print(update_data(soup))
 # headers = {'User-Agent': UserAgent().random}
 # resp=requests.get("http://httpbin.org/get",headers=headers,proxies=proxxxy)
 # print(resp)
+# i=1042
+# with open("dic2_full.json","r") as file:
+#     dic2_full=json.load(file)
+# with open("dic1.json","r") as file:
+#     data=json.load(file)
 
+# os.system("echo " + str(data[str(i)]) + ": " + dic2_full[str(data[str(i)])] +" >> 404.txt")
 # a={'Code': 0, 'Data': [{'IP': '180.121.132.37', 'port': '21504', 'deadline': '2023-01-26 21:30:20', 'host': '180.121.132.37:21504'}], 'Num': 1, 'TaskID': '8kZYWw0ScIxqxF2j'}
 # print(a['Data'][0]['port'])

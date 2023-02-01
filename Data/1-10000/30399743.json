@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "安拉的电话 Hamid",
+  "url": "/subject/30399743/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2569174945.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320893/",
+      "name": "拉塞卡·杜加尔 Rasika Dugal"
+    }
+  ]
+,
+  "datePublished": "2019-03-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H48M",
+  "description": "Hamid’s (8) father has gone missing. His mother Ishrat has turned indifferent towards Hamid and the ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "194",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.1"
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "这个地方静悄悄",
+  "url": "/subject/30140233/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2526326834.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388303/",
+      "name": "赵霖舒 Linshu Zhao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388303/",
+      "name": "赵霖舒 Linshu Zhao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392259/",
+      "name": "李小恬 LIxiaotian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388303/",
+      "name": "赵霖舒 Linshu Zhao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT2H0M",
+  "description": "一位美国老人为了找寻失联多年的儿子来到了中国，苦寻无果，却意外收养了一名中国孩子，桐。为了留在桐身边，老人隐姓埋名，装哑巴多年，带着桐到了山村里，靠木工养大了桐。小时候的桐在老人的西式教育下，独立能干...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "进击的何果果",
+  "url": "/subject/34447517/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2577655898.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340958/",
+      "name": "蒋卓原 Zhuoyuan Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318117/",
+      "name": "周德华 Dehua Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275649/",
+      "name": "王子文 Ava Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353125/",
+      "name": "张傲月 Aoyue Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "四个大龄女人拉开了一场“结婚竞技赛”。四人在家人的催促下，疯狂的相亲，一味比拼谁嫁的更早，更好。在遇到一个又一个的奇葩男人后，四人终于明白：一味建立在物质条件上的婚姻不会拥有幸福，要嫁就嫁给爱情。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

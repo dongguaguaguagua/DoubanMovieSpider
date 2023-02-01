@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣母玛利亚 Mary",
+  "url": "/subject/3236460/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2185841793.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285446/",
+      "name": "阿里斯特·格里尔森 Alister Grierson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014153/",
+      "name": "詹姆斯·弗雷 James Foley"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036243/",
+      "name": "Barbara Nicolosi Barbara Nicolosi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1060992/",
+      "name": "Mary Aloe Mary Aloe"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013855/",
+      "name": "朱莉娅·奥蒙德 Julia Ormond"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134870/",
+      "name": "迪奥戈·莫加多 Diogo Morgado"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025208/",
+      "name": "彼得·奥图尔 Peter O&#39;Toole"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000091/",
+      "name": "杰西卡·兰格 Jessica Lange"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054393/",
+      "name": "本·金斯利 Ben Kingsley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025108/",
+      "name": "卡米拉·贝勒 Camilla Belle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325214/",
+      "name": "奥德娅·拉什 Odeya Rush"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "据国外媒体消息，Aloe娱乐公司将拍影片《圣母玛利亚》（Mary, Mother of Christ），曾在《史前一万年》（10,000 BC）中扮演女主角、并出演即将上映的科幻片《推》（Push）的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

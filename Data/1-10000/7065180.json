@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "残疾狗帮 Flawed Dogs",
+  "url": "/subject/7065180/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049678/",
+      "name": "诺亚·鲍姆巴赫 Noah Baumbach"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019519/",
+      "name": "伯克利·布雷思德 Berkeley Breathed"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "A family&#39;s dachshund is exiled by a jealous show dog.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

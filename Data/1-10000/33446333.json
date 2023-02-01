@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "精武陈真之黎明将至",
+  "url": "/subject/33446333/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2882655913.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1229775/",
+      "name": "陈国坤 Kwok-Kwan Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274267/",
+      "name": "梁小龙 Siu-Lung Leung"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "人鱼江湖",
+  "url": "/subject/30367746/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545585196.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358360/",
+      "name": "陈未衾 C.Y.Chen"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361339/",
+      "name": "朱丽岚 Lilan Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358359/",
+      "name": "叶小开 Xiaokai Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404803/",
+      "name": "何之舟 Zhizhou He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365411/",
+      "name": "潘子剑 Zijian Pan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421617/",
+      "name": "青琳昊 Linhao Qing"
+    }
+  ]
+,
+  "datePublished": "2019-05-09",
+  "genre": ["\u52a8\u4f5c", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H27M",
+  "description": "佛说人生有八苦，生、老、病、死、怨憎会、爱别离、求不得、五阴炽盛….
+相传，蔚蓝的深海里有一群美人鱼，亦正亦邪，时而通过魅惑的歌声引诱岸边的人们向深水走去，时而又会在江海之上救起溺水之人，但究其真假无...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1666",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

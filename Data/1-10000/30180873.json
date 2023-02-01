@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你本应离开 You Should Have Left",
+  "url": "/subject/30180873/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2607467780.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019071/",
+      "name": "大卫·凯普 David Koepp"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019071/",
+      "name": "大卫·凯普 David Koepp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365748/",
+      "name": "丹尼尔·凯尔曼 Daniel Kehlmann"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053586/",
+      "name": "阿曼达·塞弗里德 Amanda Seyfried"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009260/",
+      "name": "凯文·贝肯 Kevin Bacon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061701/",
+      "name": "科林·布鲁门奥 Colin Blumenau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440179/",
+      "name": "艾芙莉·蒂优·埃塞克斯 Avery Tiiu Essex"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440222/",
+      "name": "劳瑞·安·理查德斯 Lowri Ann Richards"
+    }
+  ]
+,
+  "datePublished": "2020-06-18",
+  "genre": ["\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H33M",
+  "description": "影片改编自同名小说，讲述一个电影编剧(贝肯饰)带着老婆(塞弗里德饰)、孩子在阿尔卑斯山附近潜心创作，但一些离奇事件却不断发生。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3805",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

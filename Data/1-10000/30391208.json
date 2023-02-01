@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你是风吹来的方向",
+  "url": "/subject/30391208/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553755503.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406091/",
+      "name": "贾真 Zhen Jia"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406092/",
+      "name": "夏茵丹 Yindan Xia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406091/",
+      "name": "贾真 Zhen Jia"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406089/",
+      "name": "崔笑佳 Xiaojia Cui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406090/",
+      "name": "余乐欣 Lexin Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406654/",
+      "name": "吴迪康 Dikang Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406656/",
+      "name": "王静宇 Jingyu Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406658/",
+      "name": "张一可 Yike Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "20世纪90年代，来自城里的高中生水支（崔笑佳饰）跟随父亲来到乡下渔村，意外结识了父亲合作伙伴的儿子洪山（王静宇饰），隔日两人相约暗恋洪山多年的发小小黛（余乐欣饰）和小川（吴迪康饰）、木子（张一可饰）...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Haxx",
+  "url": "/subject/30234162/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258761/",
+      "name": "崔斯坦·瑞斯克 Tristan Risk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390032/",
+      "name": "娜拉妮·瓦吉塔 Nalani Wakita"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "In the Fall of 1999 college students Lucy and Linda deal with the pitfalls of young love amid buildi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

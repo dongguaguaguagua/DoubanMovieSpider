@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "早熟 Premature",
+  "url": "/subject/30391741/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2585040049.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1232177/",
+      "name": "拉什德·埃内斯托·格林 Rashaad Ernesto Green"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1232177/",
+      "name": "拉什德·埃内斯托·格林 Rashaad Ernesto Green"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406164/",
+      "name": "艾曼尼·刘易斯 Imani Lewis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1214348/",
+      "name": "小吉米·加里 Jimmy Gary Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395935/",
+      "name": "Carter Redwood Carter Redwood"
+    }
+  ]
+,
+  "datePublished": "2019-01-26",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H26M",
+  "description": "詩歌和愛情蔓生在紙頁和旋律中，時如畫外音覆蓋全局，時如一場冗長美好的靜默。哈林區的 17 歲少女阿雅娜，敏感銳利，擅於武裝自己。當她墜入玩音樂的以賽亞編織的綿軟情網裡，卻毫無懼惑，一絲不掛地交出自己。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "180",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

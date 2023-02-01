@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "放龙 The Dragon Unleashed",
+  "url": "/subject/30412513/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2543579391.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400577/",
+      "name": "雷纳·佩雷斯 Rene Perez"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400577/",
+      "name": "雷纳·佩雷斯 Rene Perez"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002734/",
+      "name": "约翰·施奈德 John Schneider"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383042/",
+      "name": "艾米丽·斯威特 Emily Sweet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400824/",
+      "name": "伊娃·哈密尔顿 Eva Hamilton"
+    }
+  ]
+,
+  "datePublished": "2018-12-14",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H17M",
+  "description": "A martial artist, trained by the military to become an assassin, begins to question himself after ki...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

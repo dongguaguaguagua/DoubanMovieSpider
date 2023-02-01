@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "长夜行",
+  "url": "/subject/30388286/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448476/",
+      "name": "侯逍遥 Xiaoyao Hou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320931/",
+      "name": "顾峥 Zheng Gu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423396/",
+      "name": "雷声 Sheng Lei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397759/",
+      "name": "顾峥 Gu Zheng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274576/",
+      "name": "耿乐 Le Geng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405573/",
+      "name": "邱天 Tian Qiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365659/",
+      "name": "邓飞 Fei Deng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372916/",
+      "name": "王超北 Chaobei Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "《不夜之海》，由耿乐、邱天主演的文艺警匪爱情片剧",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

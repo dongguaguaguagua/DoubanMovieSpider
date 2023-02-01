@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱丽丝和弗丽达永远在一起 Alice + Freda Forever",
+  "url": "/subject/26656902/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345480/",
+      "name": "詹妮弗·肯特 Jennifer Kent"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345480/",
+      "name": "詹妮弗·肯特 Jennifer Kent"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u540c\u6027", "\u4f20\u8bb0", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "《鬼书》的导演将执导由真实故事改编的《永远的爱丽丝和弗里达》。
+1892年，19岁的爱丽丝和17岁的弗里达是一对女同性恋人，两人决定私奔并装扮成异性恋伴侣结婚。在弗里达乘船私奔前，她家人发现了她们的关...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

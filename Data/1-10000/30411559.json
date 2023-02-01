@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱丽丝和市长 Alice et le maire",
+  "url": "/subject/30411559/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558839284.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267142/",
+      "name": "尼古拉斯·帕里泽 Nicolas Pariser"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267142/",
+      "name": "尼古拉斯·帕里泽 Nicolas Pariser"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041432/",
+      "name": "法布莱斯·鲁奇尼 Fabrice Luchini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028178/",
+      "name": "阿娜伊斯·德穆斯蒂埃 Anaïs Demoustier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401622/",
+      "name": "诺拉·哈姆扎维 Nora Hamzawi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381960/",
+      "name": "安托万·赖纳茨 Antoine Reinartz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441938/",
+      "name": "Thomas Rortais Thomas Rortais"
+    }
+  ]
+,
+  "datePublished": "2019-05-18",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H43M",
+  "description": "里昂市长保罗感到很不安。在从政三十年后他发觉自己已没有什么新思维，感到非常空虚。他的团队决定聘请爱丽丝，一位才华横溢的哲学家来为他解决这问题。爱丽丝与市长因而展开一连串的对话，这让他们经常接触，并且动...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "947",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯狂山脉 At the Mountains of Madness",
+  "url": "/subject/2363917/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2557101824.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027182/",
+      "name": "吉尔莫·德尔·托罗 Guillermo del Toro"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027182/",
+      "name": "吉尔莫·德尔·托罗 Guillermo del Toro"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "The story is recalled in a first-person perspective by the geologist William Dyer, a professor at Ar...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

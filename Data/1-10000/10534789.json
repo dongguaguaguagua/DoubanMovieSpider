@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "牛仔、忍者、维京海盗 Cowboy Ninja Viking",
+  "url": "/subject/10534789/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2609845862.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321831/",
+      "name": "米歇尔·麦克拉伦 Michelle MacLaren"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340679/",
+      "name": "丹·马泽 Dan Mazeau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006515/",
+      "name": "瑞安·恩格尔 Ryan Engle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000650/",
+      "name": "克雷格·麦辛 Craig Mazin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359122/",
+      "name": "安迪·利伯曼 Andy Lieberman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442255/",
+      "name": "莱利·罗斯莫 Riley Rossmo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017967/",
+      "name": "克里斯·帕拉特 Chris Pratt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010638/",
+      "name": "佩丽冉卡·曹帕拉 Priyanka Chopra"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "",
+  "description": "漫画《牛仔、忍者、维京海盗》由作家A.J. Lieberman和画家Riley Rossmo共同创作，故事的主角是一个患有多重人格失调症的病人邓肯（Duncan），他被一个反间谍项目招募来，受到特训成...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "妇仇者联盟",
+  "url": "/subject/26290360/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2677970594.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461622/",
+      "name": "张策 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325104/",
+      "name": "束焕 Huan Shu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2021-08-18",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT0H25M",
+  "description": "金牌编剧束焕历时两年打磨而成的高质爱情喜剧。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1018",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你玩什么？ Qué te juegas",
+  "url": "/subject/30405073/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568423110.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422962/",
+      "name": "Inés de León "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343542/",
+      "name": "Pablo Alén Pablo Alén"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343541/",
+      "name": "Breixo Corral Breixo Corral"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1250202/",
+      "name": "阿玛雅·萨拉曼卡 Amaia Salamanca"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419452/",
+      "name": "萨拉-萨拉莫 Sara Sálamo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027598/",
+      "name": "拉蒂西亚·多瑞拉 Leticia Dolera"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391259/",
+      "name": "哈维尔·雷伊 Javier Rey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045283/",
+      "name": "乌戈·席尔瓦 Hugo Silva"
+    }
+  ]
+,
+  "datePublished": "2019-01-04",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H42M",
+  "description": "伊莎贝尔（拉蒂西亚·多瑞拉 Leticia Dolera 饰）是一名非常有才华的脱口秀演员，虽然这份工作并不能够给她带来太多的财富，但却给她带来了真正的快乐，伊莎贝尔可以说是真的成为了自己生活的主人。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "396",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

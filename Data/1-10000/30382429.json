@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "国都剧场 국도극장",
+  "url": "/subject/30382429/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558436574.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414046/",
+      "name": "全智熙 Ji-hee Jeon"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353574/",
+      "name": "李东辉 Dong-Hwi Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365338/",
+      "name": "李尚熙 Sang-hee Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316561/",
+      "name": "李汉伟 Han-wi Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452009/",
+      "name": "申锡镐 Seok-ho Shin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453868/",
+      "name": "金河彦 Ha-Eon Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444305/",
+      "name": "林成宰 Sungjae Im"
+    }
+  ]
+,
+  "datePublished": "2020-05-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H46M",
+  "description": "2019年入围全州计划，将在5月的电影节上正式公开。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

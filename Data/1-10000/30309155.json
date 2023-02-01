@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "张三丰2太极天师",
+  "url": "/subject/35064578/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2602553626.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411969/",
+      "name": "郭玉龙 Yulong Guo"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418595/",
+      "name": "刘屹宸 Yichen Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392666/",
+      "name": "许诗晨 Shichen Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404508/",
+      "name": "孙振鹏 Zhenpeng Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320465/",
+      "name": "张德晖 Dehui Zhang"
+    }
+  ]
+,
+  "datePublished": "2020-05-15",
+  "genre": ["\u52a8\u4f5c", "\u53e4\u88c5"],
+  "duration": "PT1H28M",
+  "description": "太极宗师张三丰破译八级玄盒，大破无疆心法神功进而扫除武林败类的故事",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

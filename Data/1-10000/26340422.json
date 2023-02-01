@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜影侠 Shadowman",
+  "url": "/subject/26340422/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2231916080.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037021/",
+      "name": "雷吉纳·哈德林 Reginald Hudlin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009530/",
+      "name": "J·迈克尔·斯特拉辛斯基 J. Michael Straczynski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005659/",
+      "name": "亚当·西蒙 Adam Simon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236581/",
+      "name": "本大卫·格拉宾斯基 BenDavid Grabinski"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "独立漫画公司Valiant Entertainment打造的超级英雄电影[夜影侠]确定由雷吉纳·哈德林([恋上大情圣])执导。《超感猎杀》编剧J·迈克尔·斯特拉辛斯基已写好剧本，该剧本还将由《塞勒姆》...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

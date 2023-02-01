@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "尘音 Dirt Music",
+  "url": "/subject/2090699/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2603919394.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287928/",
+      "name": "格雷格·乔丹 Gregor Jordan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341559/",
+      "name": "杰克·索恩 Jack Thorne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024094/",
+      "name": "蒂姆·温顿 Tim Winton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384640/",
+      "name": "贾斯廷·蒙霍 Justin Monjo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276645/",
+      "name": "皮普·卡梅尔 Pip Karmel"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031922/",
+      "name": "凯莉·麦克唐纳 Kelly Macdonald"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047958/",
+      "name": "加内特·赫德兰 Garrett Hedlund"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049573/",
+      "name": "大卫·文翰 David Wenham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331626/",
+      "name": "丹·威利 Dan Wyllie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037470/",
+      "name": "亚伦·佩德森 Aaron Pedersen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1095824/",
+      "name": "克里斯·海伍德 Chris Haywood"
+    }
+  ]
+,
+  "datePublished": "2019-09-11",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H44M",
+  "description": "改编自Tim Winton的同名小说，讲述在某个人际关系紧密的澳洲小镇，脆弱的女子Georgie(麦克唐纳)遇上神秘的音乐人Lu(赫德兰)，两人相爱。然而Georgie已结了婚，她不爱自己的丈夫Jim...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "85",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

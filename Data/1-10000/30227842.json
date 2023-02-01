@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超级队长",
+  "url": "/subject/30227842/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522725889.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326573/",
+      "name": "刘存明 Cunming Liu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336431/",
+      "name": "张赫宣 Hexuan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342863/",
+      "name": "葛天 Tian Ge"
+    }
+  ]
+,
+  "datePublished": "2019-01-16",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H10M",
+  "description": "次疫苗运输，引发两家物流巨头的暗战，三人线下周旋，公路运输连发四次意外，经历五重波折，幕后主谋却另有其人，七天前的谜团与危机，如何在八小时内化解，敬请期待《超级队长》。
+国内首部卡车人题材影视作品，汇...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

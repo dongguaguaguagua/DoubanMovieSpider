@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Horatio",
+  "url": "/subject/30212177/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543418628.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1119335/",
+      "name": "玛丽娅·路易莎·蒙多卡 Maria Luísa Mendonça"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1087255/",
+      "name": "卢塞·德·索萨 Eucir de Souza"
+    }
+  ]
+,
+  "datePublished": "2018-10-06",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "",
+  "description": "&#34;Horatio&#34; tells the story of a dysfunctional family, in which social norms no longer exist, and wher...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

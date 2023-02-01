@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Bad Water",
+  "url": "/subject/27118093/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2496842782.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402689/",
+      "name": "艾娃·德·多米尼奇 Eva De Dominici"
+    }
+  ]
+,
+  "datePublished": "2019-07-18",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "",
+  "description": "Stillwater, a quaint small town by a lake, is forever changed when a morphing water shape creature s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

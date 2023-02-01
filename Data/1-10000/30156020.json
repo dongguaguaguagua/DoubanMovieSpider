@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雪之华 雪の華",
+  "url": "/subject/30156020/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546893129.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321534/",
+      "name": "桥本光二郎 Kojiro Hashimoto"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317682/",
+      "name": "冈田惠和 Yoshikazu Okada"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340476/",
+      "name": "登坂广臣 Hiroomi Tosaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323792/",
+      "name": "中条彩未 Ayami Nakajo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037678/",
+      "name": "高冈早纪 Saki Takaoka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316095/",
+      "name": "滨野谦太 Kenta Hamano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003627/",
+      "name": "田边诚一 Seiichi Tanabe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398449/",
+      "name": "箭内梦菜 Yumena Yanai"
+    }
+  ]
+,
+  "datePublished": "2019-02-01",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT2H5M",
+  "description": "中岛美嘉经典歌曲《雪花》（又译：雪之华，雪之花）将被改编成爱情电影，由登坂广臣（日本男子组合三代目 J Soul Brothers成员）和中条彩未（《三次元女友》）主演，定于2019年2月日本公映。
+...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1597",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

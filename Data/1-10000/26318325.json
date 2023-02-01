@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "这让我想到了你 Which Brings Me to You",
+  "url": "/subject/26318325/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274281/",
+      "name": "威尔·古勒 Will Gluck"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343822/",
+      "name": "基思·布宁 Keith Bunin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192541/",
+      "name": "Richard Brown Richard Brown"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "Which Brings Me To You is a modern love story between two thirty something romantic burnouts told th...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

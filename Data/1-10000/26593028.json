@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绑定爱情",
+  "url": "/subject/26593028/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1093565/",
+      "name": "黄健中 Jian-zhong Huang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5", "\u9ed1\u8272\u7535\u5f71"],
+  "duration": "",
+  "description": "一位跳肚皮舞者在土耳其参加肚皮舞大赛获得第三名，回国后跟一个新加坡的房地产开发商产生了爱情。恋情发展过程中，在金钱与情感之间如何抉择，考验着这对男女。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

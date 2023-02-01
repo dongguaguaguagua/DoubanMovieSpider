@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Barn Part II",
+  "url": "/subject/33985527/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2811430178.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476486/",
+      "name": "凯莉·威廉姆斯 Kaylee Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482595/",
+      "name": "德鲁·马维克 Drew Marvick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483010/",
+      "name": "Jordan Beltz Jordan Beltz"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Three  years after having survived the events of the first film, Michelle (Lexi Dripps) is now in co...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

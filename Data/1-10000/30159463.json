@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "全世界的国王 El Rey de todo el mundo",
+  "url": "/subject/30159463/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2515130551.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016731/",
+      "name": "卡洛斯·绍拉 Carlos Saura"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016731/",
+      "name": "卡洛斯·绍拉 Carlos Saura"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1249341/",
+      "name": "曼努埃尔·加西亚-鲁尔福 Manuel Garcia-Rulfo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000082/",
+      "name": "安娜·德拉·雷古拉 Ana de la Reguera"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045159/",
+      "name": "马诺洛·卡多纳 Manolo Cardona"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1059768/",
+      "name": "达米安·阿尔卡扎 Damián Alcázar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356713/",
+      "name": "恩里克·阿尔切 Enrique Arce"
+    }
+  ]
+,
+  "datePublished": "2021-10-29",
+  "genre": ["\u6b4c\u821e"],
+  "duration": "PT1H35M",
+  "description": "Manuel, a famous stage director, is preparing his next show, a musical about making a musical show. ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "法兹",
+  "url": "/subject/27067910/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2565318954.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359764/",
+      "name": "张大磊 Dalei Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359764/",
+      "name": "张大磊 Dalei Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371077/",
+      "name": "张宁浩 Ninghao Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427817/",
+      "name": "黄丽丽 Lili Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363030/",
+      "name": "梁凯 Kai Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359764/",
+      "name": "张大磊 Dalei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359769/",
+      "name": "张晨 Chen Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359768/",
+      "name": "孔维一 Weiyi Kong"
+    }
+  ]
+,
+  "datePublished": "2019-08-10",
+  "genre": ["\u5267\u60c5", "\u77ed\u7247"],
+  "duration": "PT0H18M",
+  "description": "演员没有孔维一，我提供那版是按照片尾字幕来的。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "450",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

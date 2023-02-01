@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "密林诡影",
+  "url": "/subject/30391297/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2541302012.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328733/",
+      "name": "苗述 Shu Miao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328733/",
+      "name": "苗述 Shu Miao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357484/",
+      "name": "陈国良 Guoliang Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352361/",
+      "name": "肖红 Hong Xiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405684/",
+      "name": "吴美佳 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405685/",
+      "name": "蔡思宜 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405691/",
+      "name": "张沅玖 "
+    }
+  ]
+,
+  "datePublished": "2019-01-11",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H24M",
+  "description": "陕西秦岭，传闻秦汉之际秦始皇的公子扶苏曾命绝于此。这一日，干导游工作的唐曾带着女友晨曦和朋友汤小唯回家乡游玩。在长途车上，他们邂逅了自称从事环境保护研究的罗平和麦家琪，热情好客的唐曾答应为他们担任导游...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

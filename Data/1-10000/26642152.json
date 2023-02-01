@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新冰山上的来客",
+  "url": "/subject/26642152/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2389159036.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375623/",
+      "name": "吴有音 Youyin Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364844/",
+      "name": "杨苗 Miao Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364844/",
+      "name": "杨苗 Miao Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327592/",
+      "name": "五百 Shubo Guo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275756/",
+      "name": "佟丽娅 Liya Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000525/",
+      "name": "吴京 Jing Wu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5", "\u5192\u9669"],
+  "duration": "",
+  "description": "长影集团携手爱美影视发布经典影片翻拍合作计划。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

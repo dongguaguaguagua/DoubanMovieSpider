@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "非诚勿扰3",
+  "url": "/subject/26769592/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000905/",
+      "name": "葛优 You Ge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1138320/",
+      "name": "舒淇 Qi Shu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051526/",
+      "name": "范伟 Wei Fan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "《非诚勿扰3》是华谊兄弟传媒有限公司出品的爱情喜剧电影，为电影《非诚勿扰2》的续集，由冯小刚执导，葛优，舒淇等人主演。该片延续了第一集的故事，继续讲述了秦奋和梁笑笑的爱情故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

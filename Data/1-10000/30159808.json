@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "刺激2 Kick 2",
+  "url": "/subject/30159808/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017831/",
+      "name": "萨尔曼·汗 Salman Khan"
+    }
+  ]
+,
+  "datePublished": "2019-12-25",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

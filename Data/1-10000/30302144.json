@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "九条命 Nine Lives",
+  "url": "/subject/30302144/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373214/",
+      "name": "汤姆·巴斯登 Tom Basden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028398/",
+      "name": "厄休拉·勒吉恩 Ursula K. Le Guin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041125/",
+      "name": "约翰尼·李·米勒 Jonny Lee Miller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031947/",
+      "name": "科曼 Common"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "美国著名科幻女作家厄休拉·勒吉恩的短篇小说《九条命》将被搬上大银幕。汤姆·巴斯登(《罗马三贱客》)、斯里·罗德斯操刀剧本，斯里·罗德斯执导，制片盖文·汉姆菲尔斯([针垫女孩])。这部科幻黑色喜剧主角是...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

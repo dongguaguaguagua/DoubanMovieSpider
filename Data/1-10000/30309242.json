@@ -1,0 +1,154 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "德语课 Deutschstunde",
+  "url": "/subject/30309242/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2582428953.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310524/",
+      "name": "克里斯蒂安·施沃霍夫 Christian Schwochow"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310640/",
+      "name": "海德·施瓦霍夫 Heide Schwochow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034522/",
+      "name": "西格弗里德·伦茨 Siegfried Lenz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041698/",
+      "name": "乌尔里希·诺登 Ulrich Noethen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010755/",
+      "name": "托比亚斯·莫雷蒂 Tobias Moretti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440768/",
+      "name": "里维·艾森布拉特 Levi Eisenblätter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440769/",
+      "name": "汤姆·格罗瑙 Tom Gronau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032215/",
+      "name": "约翰娜·沃卡莱克 Johanna Wokalek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014600/",
+      "name": "松佳·里奇特 Sonja Richter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311476/",
+      "name": "玛丽亚·德拉格斯 Maria Dragus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260132/",
+      "name": "路易斯·霍夫曼 Louis Hofmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440771/",
+      "name": "阿图斯·玛丽亚·马西森 Artus Maria Matthiessen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048658/",
+      "name": "马克·哈洛夫 Marek Harloff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440770/",
+      "name": "汤姆·扎纳 Tom Zahner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440772/",
+      "name": "彼得·巴德施布纳 Peter Badstübner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163874/",
+      "name": "米夏埃尔·维滕博恩 Michael Wittenborn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132745/",
+      "name": "克劳斯·佩克 Klaus Peeck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1138409/",
+      "name": "约阿希姆·雷杰利安 Joachim Regelien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324998/",
+      "name": "塞巴斯蒂安·鲁道夫 Sebastian Rudolph"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1183560/",
+      "name": "克里斯蒂安·塞里迪诺 Christian Serritiello"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051134/",
+      "name": "达格玛·曼泽尔 Dagmar Manzel"
+    }
+  ]
+,
+  "datePublished": "2019-10-03",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H5M",
+  "description": "由克里斯蒂安·施沃霍夫执导，改编自西格弗里德·伦茨的同名小说《Deutschstunde》。这部二战反思小说是德国文学史上的里程碑杰作，具有重要的意义。时长两小时影片，尽管无法完美呈现原著内容，但也剥...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2290",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

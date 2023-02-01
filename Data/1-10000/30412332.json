@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "午夜迷案",
+  "url": "/subject/30412332/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543567246.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324564/",
+      "name": "方义华 Wenhua Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350834/",
+      "name": "董振业 Zhenye Dong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324564/",
+      "name": "方义华 Wenhua Fang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313359/",
+      "name": "武文佳 Wenjia Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367145/",
+      "name": "高旭阳 Xuyang Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328115/",
+      "name": "郭露文 Luwen Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330223/",
+      "name": "童振军 Zhenjun Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275110/",
+      "name": "王亚楠 Yanan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322627/",
+      "name": "齐志 Zhi Qi"
+    }
+  ]
+,
+  "datePublished": "2019-01-20",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT1H30M",
+  "description": "午夜时分，一个红杏出墙的年轻漂亮女人被人谋杀在出租屋里，凶手是谁？是对她恨之入骨的丈夫？因不能离婚来娶她的情人？隔壁因进她屋盗窃被发现而不得已杀了她？该案迷雾重重，离奇复杂，但公安人员几经周折，终于将...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猫公主苏菲",
+  "url": "/subject/30320371/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554014252.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400827/",
+      "name": "潘智超 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400828/",
+      "name": "郭攀 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400829/",
+      "name": "钟声 Sheng Zhong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415628/",
+      "name": "李布衣 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384858/",
+      "name": "吟良犬 Liyang Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415629/",
+      "name": "张帆 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415630/",
+      "name": "漆凯 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372724/",
+      "name": "绿绮 Qi Lü"
+    }
+  ]
+,
+  "datePublished": "2019-05-01",
+  "genre": ["\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H18M",
+  "description": "在神奇猫咪的世界里，苏菲是法国画家莫奈最疼爱的小猫，后因一幅名画的丢失，苏菲偶遇来自中国的冬冬和淘淘，他们结伴前往中国，开启了一段奇妙的寻画之旅......",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

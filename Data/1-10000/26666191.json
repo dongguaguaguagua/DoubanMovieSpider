@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一味料理",
+  "url": "/subject/26666191/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321927/",
+      "name": "萧荣 Wing Siu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023827/",
+      "name": "薛凯琪 Fiona Sit"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "中国电影集团出品时尚幽默美食爱情电影《一味料理》即将开机拍摄，香港影坛前辈级导演萧荣执导，拟由人气青春小鲜肉@陈晓 、@薛凯琪 领衔主演，阵容包括张丰毅、刘威、王祖蓝、林雪、关德辉等。讲述了天才厨师徐...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

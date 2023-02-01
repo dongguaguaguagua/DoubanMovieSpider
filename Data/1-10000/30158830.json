@@ -1,0 +1,95 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "贞子 貞子",
+  "url": "/subject/30158830/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553047469.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009618/",
+      "name": "中田秀夫 Hideo Nakata"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045626/",
+      "name": "铃木光司 Kôji Suzuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450995/",
+      "name": "杉原宪明 Noriaki Sugihara"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349142/",
+      "name": "池田依来沙 Elaiza Ikeda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041892/",
+      "name": "塚本高史 Takashi Tsukamoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340015/",
+      "name": "清水寻也 Hiroya Shimizu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413272/",
+      "name": "姬岛妃花 Himeka Himejima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274416/",
+      "name": "桐山涟 Renn Kiriyama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029569/",
+      "name": "友坂理惠 Rie Tomosaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1145827/",
+      "name": "佐藤仁美 Hitomi Satô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325736/",
+      "name": "浅见姬香 Himeka Asami"
+    }
+  ]
+,
+  "datePublished": "2019-05-24",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H39M",
+  "description": "心理諮詢師茉優（池田依來沙 飾），負責看診一名由警察保護的少女。失去所有記憶的少女連自己的名字都忘了，而茉優身旁竟然也開始發生許多無法理解的怪事……
+另一方面，在網路行銷公司工作的祐介（塚本高史 飾）...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2066",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

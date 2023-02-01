@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魅影",
+  "url": "/subject/26851590/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356529/",
+      "name": "曹斐然 Feiran Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350386/",
+      "name": "杜乔 Qiao Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344785/",
+      "name": "金铁峰 Tiefeng Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323159/",
+      "name": "傅隽 Jun Fu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275110/",
+      "name": "王亚楠 Yanan Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u60ac\u7591"],
+  "duration": "",
+  "description": "《魅影》是集暴力、爱情、悬疑、感动、温情、浪漫于一体，反映当代特工英勇顽强，正义战胜邪恶的正能量电影。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

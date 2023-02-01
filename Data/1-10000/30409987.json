@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "姑获鸟",
+  "url": "/subject/30409987/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2545501960.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018257/",
+      "name": "樊少皇 Siu-Wong Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315870/",
+      "name": "穆婷婷 Tingting Mu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378182/",
+      "name": "敖翔 Xiang Ao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358421/",
+      "name": "任添琪 Tianqi Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274928/",
+      "name": "李明 Ming Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275977/",
+      "name": "王双宝 Shuangbao Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357659/",
+      "name": "王春妹 Chunmei Wang"
+    }
+  ]
+,
+  "datePublished": "2019-01-24",
+  "genre": ["\u7231\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H13M",
+  "description": "“姑获鸟”是来自中国古代神话传说中的妖怪，有时以九头的样子显形。明代《本草纲目》里提到了它的由来，说是死去产妇的执念所化，抱着婴儿在夜里行走，怀抱里婴儿的哭声就化成了姑获鸟的叫声。《姑获鸟》根据这样的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

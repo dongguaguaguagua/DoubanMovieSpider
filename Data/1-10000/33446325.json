@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鬼吹灯之湘西密藏",
+  "url": "/subject/33446325/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2635822049.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393344/",
+      "name": "罗乐 Le Luo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349682/",
+      "name": "林剑锋 Jianfeng Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393344/",
+      "name": "罗乐 Le Luo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274768/",
+      "name": "张智尧 Kennth Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402568/",
+      "name": "胡雪儿 Xue&#39;er Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420569/",
+      "name": "李殿尊 Dianzun Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364685/",
+      "name": "何其炜 Qiwei He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411817/",
+      "name": "周小川 Xiaochuan Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445340/",
+      "name": "王凯琳 Kailin Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1479025/",
+      "name": "晁志谦 Zhiqian Chao"
+    }
+  ]
+,
+  "datePublished": "2020-09-30",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H31M",
+  "description": "电影以鹧鸪哨、陈玉楼探秘瓶山半个世纪后的湘西为背景，讲述了自龙岭迷窟回来后，胡八一为救身中剧毒的大金牙，带领摸金铁三角二入湘西瓶山，寻找江湖传说中消失已久的六翅蜈蚣，获取救命内丹的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3880",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

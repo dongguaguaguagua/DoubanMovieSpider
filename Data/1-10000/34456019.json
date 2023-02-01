@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "人鱼缚",
+  "url": "/subject/34456019/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2621730150.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341086/",
+      "name": "阿健 A Jian"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473781/",
+      "name": "王娇 Jiao Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329792/",
+      "name": "张予曦 Yuxi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313520/",
+      "name": "朱梓骁 Zixiao Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440774/",
+      "name": "肖向飞 Xiangfei Xiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361576/",
+      "name": "吴茉彤 Motong Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314540/",
+      "name": "温海波 Haibo Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362294/",
+      "name": "张欣源 Xinyuan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409301/",
+      "name": "宋恺 Kai Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322439/",
+      "name": "闵春晓 Chunxiao Min"
+    }
+  ]
+,
+  "datePublished": "2020-10-03",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u53e4\u88c5"],
+  "duration": "",
+  "description": "十年前，柳十安与鱼妖白玉在决战中双双身亡。柳梦白为此来到浔江调查偶遇鱼妖白秋练，二人一见倾心，再见情定。白秋练藏有白鱼族至宝鱼腹绫，此宝能活死人肉白骨，国师乌桓早年被敌人所伤，需要此物来解毒疗伤。他暗...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2290",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

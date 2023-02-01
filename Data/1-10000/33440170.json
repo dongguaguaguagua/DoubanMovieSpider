@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "长夜危机 Survive the Night",
+  "url": "/subject/33440170/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2593634831.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376078/",
+      "name": "马特·伊斯坎达里 Matt Eskandari"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047991/",
+      "name": "查德·迈克尔·墨瑞 Chad Michael Murray"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010509/",
+      "name": "布鲁斯·威利斯 Bruce Willis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379263/",
+      "name": "谢伊·巴克纳 Shea Buckner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379262/",
+      "name": "泰勒·乔恩·奥尔森 Tyler Jon Olson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357125/",
+      "name": "丽迪雅·赫尔 Lydia Hull"
+    }
+  ]
+,
+  "datePublished": "2020-05-22",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "布鲁斯·威利斯将主演马特·伊斯坎达里([深水区])执导的动作惊悚片[长夜](The Long Night，暂译)。影片讲述两个冷血罪犯闯入一个市井医生家中，为其中一个因抢劫失败身负重伤的罪犯治疗。然而...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "743",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.8"
+  }
+}

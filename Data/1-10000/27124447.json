@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "到达挚爱 ADN",
+  "url": "/subject/27124447/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2622287835.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000208/",
+      "name": "麦温 Maïwenn"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000208/",
+      "name": "麦温 Maïwenn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028519/",
+      "name": "马修·德米 Mathieu Demy"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000208/",
+      "name": "麦温 Maïwenn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018067/",
+      "name": "路易·加瑞尔 Louis Garrel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328329/",
+      "name": "玛丽恩·瓦科特 Marine Vacth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002812/",
+      "name": "芬妮·阿尔丹 Fanny Ardant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409644/",
+      "name": "迪伦·罗伯特 Dylan Robert"
+    }
+  ]
+,
+  "datePublished": "2020-10-28",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "三个孩子的单身母亲雪(Neige)，定期探望住在养老院的阿尔及利亚祖父埃米尔。雪非常喜爱抚养她长大的祖父，视祖父为阻挡她父母毒害的家庭支柱。家庭成员之间的关系错综复杂，彼此积怨已久。幸运的是，雪的前夫...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "517",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

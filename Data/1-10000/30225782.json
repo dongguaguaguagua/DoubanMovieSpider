@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "第一个国王 Il primo re",
+  "url": "/subject/30225782/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2545418480.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005849/",
+      "name": "马特奥·罗韦尔 Matteo Rovere"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338628/",
+      "name": "菲利波·格拉维诺 Filippo Gravino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372675/",
+      "name": "弗朗塞斯卡·马尼里 Francesca Manieri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005849/",
+      "name": "马特奥·罗韦尔 Matteo Rovere"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382638/",
+      "name": "亚历桑德罗·博尔吉 Alessandro Borghi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419585/",
+      "name": "阿莱西奥·拉皮斯 Alessio Lapice"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319699/",
+      "name": "法布里齐奥·隆吉奥内 Fabrizio Rongione"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394988/",
+      "name": "马西米利亚诺·罗西 Massimiliano Rossi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419586/",
+      "name": "塔尼亚·加里巴 Tania Garribba"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399726/",
+      "name": "玛丽娜·奥奇奥诺 Marina Occhionero"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1182484/",
+      "name": "艾米利奥·德·马奇 Emilio De Marchi"
+    }
+  ]
+,
+  "datePublished": "2019-01-31",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2"],
+  "duration": "PT2H7M",
+  "description": "罗穆卢斯和雷穆斯是18岁的牧羊人兄弟，生活在泰伯河附近。雷穆斯深信自己比上帝的意志更强大，他相信自己将成为这里的国王，他将与自己的兄弟一起被发掘。但是他们的悲惨命运已经被书写。这段不可思议的旅程将带领...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "768",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "本色兵",
+  "url": "/subject/27068242/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462596780.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337212/",
+      "name": "宋奇 Qi Song"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1039585/",
+      "name": "于小慧 Xiaohui Yu"
+    }
+  ]
+,
+  "datePublished": "2019-07-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "影片故事发生在本世纪初，国家对国有企业实行宏观调控，对部分企业员工实行下岗分流。退伍军人聂水龙主动让出岗位给困难女工，投入创业大潮。在一没资金，二没技术的情况下，坦然走向市场。下岗后各种误解接二连三，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

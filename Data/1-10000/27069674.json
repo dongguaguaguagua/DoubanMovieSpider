@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "驼背人 The Crooked Man",
+  "url": "/subject/27069674/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535390386.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032122/",
+      "name": "温子仁 James Wan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406745/",
+      "name": "迈克·范·韦斯 Mike Van Waes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406746/",
+      "name": "詹姆斯·哈利威尔-菲利普斯 James Halliwell-Phillipps"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "讲述绝症少年寻找失踪父亲，他的父亲在失踪前发现了一把可以打开通往异次元世界的钥匙。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

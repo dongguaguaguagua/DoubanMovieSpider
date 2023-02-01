@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Wardogs",
+  "url": "/subject/3176578/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315762/",
+      "name": "彼得·西格尔 Peter Segal"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322928/",
+      "name": "肯恩·考夫曼 Ken Kaufman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322927/",
+      "name": "大卫·阿戈斯托 David Agosto"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

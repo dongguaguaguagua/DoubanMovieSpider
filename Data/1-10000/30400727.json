@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玫瑰与郁金香 薔薇とチューリップ",
+  "url": "/subject/30400727/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2552708635.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377957/",
+      "name": "野口照夫 Teruo Noguchi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451664/",
+      "name": "祢寝彩木 Saeki Nejime"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473424/",
+      "name": "东村明子 Akiko Higashimura "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325125/",
+      "name": "李俊昊 Jun-ho Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020236/",
+      "name": "谷村美月 Mitsuki Tanimura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338324/",
+      "name": "玄理 Hyunri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051850/",
+      "name": "布施绘里 Eri Fuse"
+    }
+  ]
+,
+  "datePublished": "2019-05-03",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "为了举办个展来日的世界级青年现代艺术家NERO，抵达后暗中前去探访了传说中装饰着自己画作的赝品的旅馆，并在那里遇到了与自己长得犹如双胞胎的韩国留学生DAEWON。震惊之余，NERO出于“某个目的”，向...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "166",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

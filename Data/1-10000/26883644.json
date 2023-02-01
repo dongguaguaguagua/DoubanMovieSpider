@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死亡之棚 Shed of the Dead",
+  "url": "/subject/26883644/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2384999439.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1064035/",
+      "name": "迈克尔·贝里曼 Michael Berryman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040632/",
+      "name": "比尔·莫斯利 Bill Moseley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314878/",
+      "name": "劳伦·索恰 Lauren Socha"
+    }
+  ]
+,
+  "datePublished": "2019-05-17",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H22M",
+  "description": "Trevor is &#39;between jobs&#39;. He spends his days avoiding his nagging heifer of a wife by hiding out in ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "188",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

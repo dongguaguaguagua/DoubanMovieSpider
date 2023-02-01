@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "情书",
+  "url": "/subject/30289128/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553627565.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361863/",
+      "name": "刘雨霖 Yulin Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300390/",
+      "name": "王蕙玲 Hui-Ling Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274316/",
+      "name": "陈意涵 Ivy Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032915/",
+      "name": "中山美穗 Miho Nakayama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443647/",
+      "name": "宣依 Yi Xuan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "一份来自“天国”的礼物让两个原本互不相识的男人偶然相遇。他们发现彼此都藏有对同一个已离世女孩的暗恋。他们小心翼翼探听彼此的故事，却发现他们从未知晓的女孩的心意，其实早已写在昔日的情书里...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

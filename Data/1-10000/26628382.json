@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小羊肖恩2：末日农场 A Shaun the Sheep Movie: Farmageddon",
+  "url": "/subject/26628382/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2576481506.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384460/",
+      "name": "威尔·比彻 Will Becher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425417/",
+      "name": "理查德·费兰 Richard Phelan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279705/",
+      "name": "马克·伯顿 Mark Burton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036894/",
+      "name": "尼克·帕克 Nick Park"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321083/",
+      "name": "贾斯汀·弗莱彻 Justin Fletcher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321082/",
+      "name": "约翰·斯帕克斯 John Sparkes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428673/",
+      "name": "克里斯·莫雷尔 Chris Morrell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000299/",
+      "name": "安迪·尼曼 Andy Nyman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428672/",
+      "name": "戴维·霍尔特 David Holt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1091567/",
+      "name": "凯特·哈伯 Kate Harbour"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428671/",
+      "name": "阿玛莉亚·维塔莱 Amalia Vitale"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365702/",
+      "name": "乔·萨格 Joe Sugg"
+    }
+  ]
+,
+  "datePublished": "2019-09-26",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H27M",
+  "description": "宁静祥和的农场里，小羊肖恩和伙伴们大开脑洞，做着各种挑战生命极限的游戏。这可气坏了牧羊犬，他接二连三制定禁令，防止羊们兴风作浪。肖恩哪能随便被人摆布？他想出鬼点子，通过电话订购了披萨，谁知却引来了一个...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "24385",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

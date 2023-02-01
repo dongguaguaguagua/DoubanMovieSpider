@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "使命召唤 Call of Duty",
+  "url": "/subject/26661101/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533669698.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046134/",
+      "name": "斯特法诺·索利马 Stefano Sollima"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344032/",
+      "name": "基兰·菲茨杰拉德 Kieran Fitzgerald"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049489/",
+      "name": "汤姆·哈迪 Tom Hardy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053621/",
+      "name": "克里斯·派恩 Chris Pine"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u6218\u4e89"],
+  "duration": "",
+  "description": "动视暴雪是全球数一数二的游戏公司，旗下热门、经典游戏很多，比如《使命召唤》（Call of Duty）、《宝贝龙冒险》（Skylanders）、《暗黑破坏神》（Diablo）、《炉石传说》（Heart...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

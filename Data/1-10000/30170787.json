@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奥利格 Oļegs",
+  "url": "/subject/30170787/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2557038364.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415296/",
+      "name": "尤里斯·库赛蒂斯 Juris Kursietis"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441846/",
+      "name": "利加·塞尔马-库里塞特 Liga Celma-Kursiete"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415296/",
+      "name": "尤里斯·库赛蒂斯 Juris Kursietis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441847/",
+      "name": "卡斯帕斯·奥丁 Kaspars Odins"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441848/",
+      "name": "瓦伦丁·诺沃波尔斯基 Valentin Novopolskij"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341295/",
+      "name": "大卫·奥格尼克 Dawid Ogrodnik"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348641/",
+      "name": "安娜·普洛克尼亚克 Anna Próchniak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163716/",
+      "name": "古娜·扎丽娜 Guna Zarina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341296/",
+      "name": "亚当·斯齐斯科斯基 Adam Szyszkowski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441849/",
+      "name": "马科斯·艾达莫提艾达斯 Marcos Adamantiadis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441850/",
+      "name": "罗纳德·贝姆斯 Ronald Beurms"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391621/",
+      "name": "Valentinas Krulikovskis Valentinas Krulikovskis"
+    }
+  ]
+,
+  "datePublished": "2019-05-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H48M",
+  "description": "影片根据真实新闻事件改编。屠夫奥利格从拉脱维亚来到比利时打工，但处处碰壁的他没有找到工作，却落到了无赖工头安德烈的手上。他发现自己的生活逐步陷入了绝望之中。本片是拉脱维亚导演尤里斯·库赛蒂斯第二部剧情...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "486",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

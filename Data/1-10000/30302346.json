@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "西游记之真假美猴王",
+  "url": "/subject/30302346/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2580993978.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274240/",
+      "name": "郑保瑞 Pou-Soi Cheang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327359/",
+      "name": "文宁 Ning Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399351/",
+      "name": "杨茉 Mo Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "本片尚无拍摄计划",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

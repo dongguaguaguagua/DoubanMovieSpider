@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玩偶 Dolls",
+  "url": "/subject/30407925/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2626058177.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1250713/",
+      "name": "库利·卡尔文 Cuyle Carvin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1090404/",
+      "name": "托马斯·唐尼 Thomas Downey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1168883/",
+      "name": "迪·沃伦斯 Dee Wallace"
+    }
+  ]
+,
+  "datePublished": "2019-07-02",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "A struggling children&#39;s book author and his rebellious teenage daughter move into a house they&#39;ve in...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "188",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

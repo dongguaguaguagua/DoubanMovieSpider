@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "双子座计划 Звёздный разум",
+  "url": "/subject/30323197/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2755107841.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430291/",
+      "name": "维亚切斯拉夫·利斯涅夫斯基 Vyacheslav Lisnevskiy"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430291/",
+      "name": "维亚切斯拉夫·利斯涅夫斯基 Vyacheslav Lisnevskiy"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1109482/",
+      "name": "亚历山大·昆泽内斯特罗夫 Alexander Kuznetsov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351043/",
+      "name": "伊戈尔·卡列斯科夫 Egor Koreshkov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361382/",
+      "name": "谢尔盖·科姆珀 Sergey Kempo"
+    }
+  ]
+,
+  "datePublished": "2022-01-06",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H40M",
+  "description": "讲述了一次太空任务，人类要将一颗遥远的星球改造成地球。然而，在实施任务的过程中遇到了一些未知的东西，它对这个星球有自己的计划。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "876",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

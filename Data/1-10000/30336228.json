@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神经战 Judgementall Hai Kya",
+  "url": "/subject/30336228/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2564086647.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1171003/",
+      "name": "Prakash Rao Prakash Rao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395723/",
+      "name": "阿明·阿卜杜勒·奎德 Abdul Quadir Amin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337689/",
+      "name": "拉吉·库玛 Rajkummar Rao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032268/",
+      "name": "康格娜·拉瑙特 Kangana Ranaut"
+    }
+  ]
+,
+  "datePublished": "2019-07-26",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H47M",
+  "description": "因为童年父母双亡的阴影，一直单身独居的波比（康格娜·拉瑙特饰）在世人眼中是个脑子不正常的女孩。以配音工作为生的她每次都会因为与人争执打斗而被关入精神病院。这次，她遇到了暂时租住她房子的新婚夫妇——凯什...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "67",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "震荡 Temblores",
+  "url": "/subject/27115487/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546821500.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345588/",
+      "name": "杰罗·布斯塔曼特 Jayro Bustamante"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345588/",
+      "name": "杰罗·布斯塔曼特 Jayro Bustamante"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001800/",
+      "name": "胡安·巴勃罗·萨拉梅利亚 Juan Pablo Zaramella"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449215/",
+      "name": "玛丽亚·特隆 María Telón"
+    }
+  ]
+,
+  "datePublished": "2019-02-08",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H47M",
+  "description": "暴雨代替了众人的无语，空气裡的震惊与愤怒如鹰，盘旋在豪宅的大厅，等待著迟迟未归的男主人保罗。拥有高薪工作、漂亮妻子和可爱小孩的他，犯了禁忌的爱，而被阻隔在完美的生活门外。他的家人和教会，决定以上帝之名...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "299",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "白马王子 Prince Charming",
+  "url": "/subject/26450602/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070754/",
+      "name": "斯蒂芬·卓博斯基 Stephen Chbosky"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070754/",
+      "name": "斯蒂芬·卓博斯基 Stephen Chbosky"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "迪士尼的童话电影又添新成员，他们最近买下了一个叫做《白马王子》（Prince Charming）的电影剧本，准备将其搬上大银幕。
+不过，说是“白马王子”，故事的主角其实不是“白马王子”本人，而是他的弟...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

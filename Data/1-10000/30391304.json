@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幽灵车：复仇之路 The Car: Road to Revenge",
+  "url": "/subject/30391304/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2663055622.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000123/",
+      "name": "吉米·巴姆博 Jamie Bamber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025265/",
+      "name": "罗尼·考克斯 Ronny Cox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009411/",
+      "name": "格兰特·鲍尔 Grant Bowler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322848/",
+      "name": "凯丝琳·蒙露 Kathleen Munroe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1466663/",
+      "name": "卡特里娜·纳尔 Katrina Nare"
+    }
+  ]
+,
+  "datePublished": "2019-01-08",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H29M",
+  "description": "In a dilapidated cyberpunk city plagued by crime and corruption, an unscrupulous District Attorney i...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "223",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

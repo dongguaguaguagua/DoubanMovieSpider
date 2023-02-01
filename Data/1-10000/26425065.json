@@ -1,0 +1,37 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "侠盗",
+  "url": "/subject/26425065/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2313484915.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275088/",
+      "name": "谭家明 Patrick Tam"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u6b66\u4fa0"],
+  "duration": "",
+  "description": "博纳影业集团在庆典上正式公布了2015-2016年度新片计划。
+《侠盗》，谭家明导演。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

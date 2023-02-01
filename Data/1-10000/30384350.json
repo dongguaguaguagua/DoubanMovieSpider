@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀死薛定谔的猫 Killing Schrödinger&#39;s Cats",
+  "url": "/subject/30384350/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2543905122.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395140/",
+      "name": "李明哲 Mincher Lee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395140/",
+      "name": "李明哲 Mincher Lee"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "跨性别者、瘾君子和屠夫。
+三段看似毫不相干的故事，却在一段五十分钟的现实里相遇",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

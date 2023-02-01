@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "中转站 Port Authority",
+  "url": "/subject/30317647/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2573063093.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415035/",
+      "name": "达尼埃尔·莱索维茨 Danielle Lessovitz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415035/",
+      "name": "达尼埃尔·莱索维茨 Danielle Lessovitz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355522/",
+      "name": "菲恩·怀特海德 Fionn Whitehead"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356705/",
+      "name": "麦考尔·隆巴蒂 McCaul Lombardi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428316/",
+      "name": "蕾娜·布鲁姆 Leyna Bloom"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045210/",
+      "name": "路易莎·克劳瑟 Louisa Krause"
+    }
+  ]
+,
+  "datePublished": "2019-05-18",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H34M",
+  "description": "《敦刻尔克》男主芬恩·怀特海德、跨性别新人演员Leyna Bloom主演了马丁·斯科塞斯监制新片《港务局》(Port Authority)，讲述一个男孩与跨性别女子的爱情故事。该片最近已杀青，才公布信...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "217",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

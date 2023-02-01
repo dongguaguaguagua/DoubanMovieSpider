@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "他是龙2 Он - дракон 2",
+  "url": "/subject/26878750/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2382828101.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354526/",
+      "name": "英达尔·珍杜巴耶夫 Indar Dzhendubaev"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354523/",
+      "name": "马特维·雷科夫 Matvey Lykov"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "《他是龙2》将会成为一部中俄合拍片，日前，俄罗斯片方与中国的儒意影业签订合约，共同打造这部续集大片，影片预计在2018年夏天与观众见面。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Bubba Nosferatu and the Curse of the She-Vampires",
+  "url": "/subject/3012037/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2191789509.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004916/",
+      "name": "唐·柯斯卡莱利 Don Coscarelli"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004916/",
+      "name": "唐·柯斯卡莱利 Don Coscarelli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041699/",
+      "name": "乔·R·兰斯代尔 Joe R. Lansdale"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002688/",
+      "name": "朗·普尔曼 Ron Perlman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017893/",
+      "name": "保罗·吉亚玛提 Paul Giamatti"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

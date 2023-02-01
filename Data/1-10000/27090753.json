@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "秦明·生死语者",
+  "url": "/subject/27090753/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2558290293.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321164/",
+      "name": "李海蜀 Haishu Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321340/",
+      "name": "黄彦威 Yanwei Huang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321340/",
+      "name": "黄彦威 Yanwei Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321164/",
+      "name": "李海蜀 Haishu Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375413/",
+      "name": "张秀洁 Xiujie Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375700/",
+      "name": "韩瑞 Rui Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375701/",
+      "name": "马月红 Yuehong Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404646/",
+      "name": "秦明 Ming Qin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313653/",
+      "name": "严屹宽 Yikuan Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361029/",
+      "name": "代斯 Daisy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274576/",
+      "name": "耿乐 Le Geng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314167/",
+      "name": "郝劭文 Shaowen Hao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323516/",
+      "name": "杜鹃 Juan Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404646/",
+      "name": "秦明 Ming Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344518/",
+      "name": "陈欣淇 Julie Tan"
+    }
+  ]
+,
+  "datePublished": "2019-06-14",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H44M",
+  "description": "影片根据法医秦明小说《尸语者》改编。讲述被誉为“鬼手佛心”的“尸语者”秦明（严屹宽饰）解剖过 1000 多具尸体，从未出错，因意外发现泡在福尔马林里6年的“无语体师”死于他杀，引发媒体质疑误判，被舆论...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "17616",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我在你床下 アンダー・ユア・ベッド",
+  "url": "/subject/30158829/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560029804.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341585/",
+      "name": "安里麻里 Mari Asato"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427444/",
+      "name": "大石圭 Kei Ôishi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341585/",
+      "name": "安里麻里 Mari Asato"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042089/",
+      "name": "高良健吾 Kengo Kora"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368716/",
+      "name": "西川可奈子 Kanako Nishikawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427445/",
+      "name": "安部贤一 Abe Kenichi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427446/",
+      "name": "三河悠冴 Yûgo Mikawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427447/",
+      "name": "三宅亮辅 Ryôsuke Miyake"
+    }
+  ]
+,
+  "datePublished": "2019-07-19",
+  "genre": ["\u7231\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H38M",
+  "description": "影片改编自擅长禁忌题材的作家大石圭的同名小说，讲述不被任何人重视的三井直人与学生时代第一次喊自己名字的女生时隔十一年再会，但是对方却像变了个人，三井为了监视她潜藏在她床底，爱的疯狂加速了他暴走的进程。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "7765",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

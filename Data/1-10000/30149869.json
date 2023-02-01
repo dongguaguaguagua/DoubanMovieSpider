@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美丽一夜 O Beautiful Night",
+  "url": "/subject/30149869/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2547952329.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360571/",
+      "name": "诺亚·萨维德拉 Noah Saavedra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339468/",
+      "name": "马可·曼迪奇 Marko Mandic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410730/",
+      "name": "Vanessa Loibl  Vanessa Loibl"
+    }
+  ]
+,
+  "datePublished": "2019-02-12",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H29M",
+  "description": "Yuri is a young musician. He is very afraid of death. For this reason, he hardly leaves his apartmen...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

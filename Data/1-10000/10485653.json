@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疤面煞星 Scarface",
+  "url": "/subject/10485653/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285579/",
+      "name": "卢卡·瓜达尼诺 Luca Guadagnino"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041520/",
+      "name": "保罗·阿塔那斯奥 Paul Attanasio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054401/",
+      "name": "伊桑·科恩 Ethan Coen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054517/",
+      "name": "乔尔·科恩 Joel Coen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406147/",
+      "name": "加雷斯·邓内特-阿尔科塞 Gareth Dunnet-Alcocer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351533/",
+      "name": "乔纳森·赫尔曼 Jonathan Herman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323478/",
+      "name": "特伦斯·温特 Terence Winter"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013867/",
+      "name": "迭戈·卢纳 Diego Luna"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "今年2月，一度退出新版[疤面煞星]的安东尼·福奎阿重回环球谈判桌，确认将执导环球新版[疤面煞星]。此前有望出演该片男主的迭戈·卢纳则已确认退出。近日，福奎阿在接受《好莱坞报道者》采访时表示他强烈希望丹...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

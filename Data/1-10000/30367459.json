@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心与骨 Hearts and Bones",
+  "url": "/subject/30367459/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559758699.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428206/",
+      "name": "Ben Lawrence Ben Lawrence"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307025/",
+      "name": "贝阿特里克斯·克里斯蒂安 Beatrix Christian"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040994/",
+      "name": "雨果·维文 Hugo Weaving"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1122645/",
+      "name": "海莉·麦克尔希尼 Hayley McElhinney"
+    }
+  ]
+,
+  "datePublished": "2019-06-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H47M",
+  "description": "雨果·维文加盟澳大利亚影片[心与骨](Hearts and Bones，暂译)。本·劳伦斯执导，编剧贝阿特里克斯·克里斯蒂安(《悬崖上的野餐》)。该片围绕一个战地记者(维文饰)与一个苏丹难民(新人安德...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

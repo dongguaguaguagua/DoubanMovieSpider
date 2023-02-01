@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们是国王 We the Kings",
+  "url": "/subject/30149890/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2538907501.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414247/",
+      "name": "劳伦‧麦肯齐 Lauren Mackenzie"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414247/",
+      "name": "劳伦‧麦肯齐 Lauren Mackenzie"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366505/",
+      "name": "艾略特·詹姆斯·朗格里奇 Elliot James Langridge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027954/",
+      "name": "提摩西·韦斯特 Timothy West"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317528/",
+      "name": "阿曼达·阿宾顿 Amanda Abbington"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374249/",
+      "name": "杰森·休斯 Jason Hughes"
+    }
+  ]
+,
+  "datePublished": "2018-09-28",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H31M",
+  "description": "A contemporary thriller focusing on a fostered teenager who&#39;s developed a vendetta against the forme...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

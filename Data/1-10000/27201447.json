@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "1000: The Sword in the Stone",
+  "url": "/subject/27201447/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1169862/",
+      "name": "凯特琳·梅德雷克 Caitlynne Medrek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373239/",
+      "name": "格雷丝·蒙罗 Grace Munro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1207760/",
+      "name": "Kincsõ Pethõ Kincsõ Pethõ"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1238056/",
+      "name": " Mike Donis"
+    }
+  ]
+,
+  "datePublished": "2019-04-30",
+  "genre": ["\u52a8\u4f5c", "\u5bb6\u5ead", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "Jack, a teen visiting Tuscany to see the genuine sword in the stone, sucked into a wormhole tackles ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

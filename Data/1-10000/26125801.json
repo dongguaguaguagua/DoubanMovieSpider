@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "兔侠传奇3：天降魔兵",
+  "url": "/subject/26125801/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2359336950.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317056/",
+      "name": "马元 Yuan Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346102/",
+      "name": "董大可 Dake Dong"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317450/",
+      "name": "董维嘉 Weijia Dong"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "动画片方面，希望打造中国的《功夫熊猫》式卖座动画系列的《兔侠传奇》推出了最新作品，名为《兔侠传奇3：天降魔兵》。该系列动画片自诞生之日起，目光就锁定海外市场，希望用富有中国文化的“兔侠”形象走出国门。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

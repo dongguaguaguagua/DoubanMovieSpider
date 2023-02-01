@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "詹姆斯大战未来的自己 James vs. His Future Self",
+  "url": "/subject/30306100/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568849619.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360831/",
+      "name": "杰里米·拉隆德 Jeremy LaLonde"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012628/",
+      "name": "乔纳斯·切尔尼克 Jonas Chernick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360831/",
+      "name": "杰里米·拉隆德 Jeremy LaLonde"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012628/",
+      "name": "乔纳斯·切尔尼克 Jonas Chernick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049654/",
+      "name": "丹尼尔·斯特恩 Daniel Stern"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174707/",
+      "name": "克利欧佩特拉·科尔曼 Cleopatra Coleman"
+    }
+  ]
+,
+  "datePublished": "2019-09-16",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H34M",
+  "description": "当一个紧张穿越迷上年轻的科学家来拜访他的虚无主义未来的自己,他说他需要放弃梦想成为世界上第一个时间旅行者,或者其他。但当他不会同意这个计划,它变成了一个邪恶的人与自己的战斗——字面上。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "102",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

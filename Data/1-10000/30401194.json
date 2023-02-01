@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你好世界 HELLO WORLD",
+  "url": "/subject/30401194/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2654818960.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315992/",
+      "name": "伊藤智彦 Itou Tomohiko"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376097/",
+      "name": "野崎惑 Mado Nozaki"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314521/",
+      "name": "北村匠海 Takumi Kitamura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1265728/",
+      "name": "松坂桃李 Tôri Matsuzaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324483/",
+      "name": "滨边美波 Minami Hamabe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054354/",
+      "name": "子安武人 Takehito Koyasu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275208/",
+      "name": "寿美菜子 Minako Kotobuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350783/",
+      "name": "福原遥 Haruka Fukuhara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018687/",
+      "name": "钉宫理惠 Rie Kugimiya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425652/",
+      "name": "德本英一郎 Tokumoto Eiichirou"
+    }
+  ]
+,
+  "datePublished": "2019-09-20",
+  "genre": ["\u7231\u60c5", "\u52a8\u753b", "\u5947\u5e7b"],
+  "duration": "PT1H37M",
+  "description": "在京都居住的内向男高中生直实（北村匠海 配音）的面前，突然出现从10年后穿越而来26岁的自己（松坂桃李 配音）。未来的直实告诉他，自己不久便会与琉璃（滨边美波 配音）相爱，可是之后烟花大会时她却会因为...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "62979",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

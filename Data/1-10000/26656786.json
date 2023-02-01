@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "喇叭裤",
+  "url": "/subject/26656786/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2280077459.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323617/",
+      "name": "陈之月 Zhiyue Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323617/",
+      "name": "陈之月 Zhiyue Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323726/",
+      "name": "戴燕妮 Yanni Dai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352602/",
+      "name": "亓飞 Fei Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403125/",
+      "name": "柴陆 Lu Chai"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "讲述上个世纪80年代发生在一个小镇上的爱情故事。杜秋从小生长在一个小村庄，自小对裁剪服装很感兴趣，杜秋随做裁缝的6叔来到小县城开了家裁缝店，在县城他偶遇纺织厂女工丽玲，两人胡生情愫，但由于官二代蛋蛋的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

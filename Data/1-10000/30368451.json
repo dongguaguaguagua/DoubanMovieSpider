@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新时间机器 Time Machine",
+  "url": "/subject/30371649/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326370/",
+      "name": "安德斯·穆斯切蒂 Andrés Muschietti"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326370/",
+      "name": "安德斯·穆斯切蒂 Andrés Muschietti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326372/",
+      "name": "芭芭拉·穆斯什蒂 Barbara Muschietti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050104/",
+      "name": "赫伯特·乔治·威尔斯 H.G. Wells"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "这部名为《时间机器》新片根据著名科幻作家赫伯特·乔治·威尔斯的小说改编，华纳兄弟影业携手派拉蒙影业共同开发，而影片的制片人则是“小李子”莱昂纳多·迪卡普里奥。
+穆斯切蒂与他的妹妹芭芭拉·穆斯切蒂已经为...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿加的房子 Aga&#39;s House",
+  "url": "/subject/30120057/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2572239913.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417230/",
+      "name": "兰迪塔·泽奇拉 Lendita Zeqiraj"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417230/",
+      "name": "兰迪塔·泽奇拉 Lendita Zeqiraj"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147667/",
+      "name": "Melihate Qena Melihate Qena"
+    }
+  ]
+,
+  "datePublished": "2019-06-28",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "A young boy living in a house of women must race to save a houseguest who is teaching him Serbian, s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

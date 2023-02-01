@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "甜蜜复仇夜 Candy Corn",
+  "url": "/subject/30311135/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2556227633.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025275/",
+      "name": "考特尼·盖恩斯 Courtney Gains"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1064320/",
+      "name": "杰洛·比法 Jello Biafra"
+    }
+  ]
+,
+  "datePublished": "2019-09-17",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "On Halloween eve, local outcast, Jacob Atkins, is carelessly murdered. A vagabond carnie named Dr. D...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

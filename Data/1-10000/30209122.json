@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "失效保护 Failsafe",
+  "url": "/subject/30209122/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389011/",
+      "name": "乔·罗伯特·科尔 Joe Robert Cole"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052116/",
+      "name": "F· J·德桑托 F.J. DeSanto"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1107320/",
+      "name": "迈克尔·B·乔丹 Michael B. Jordan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "",
+  "description": "迈克尔·B·乔丹有望主演漫改超级英雄片《Failsafe》，与《黑豹》联合编剧Joe Robert Coles再度合作。Netflix刚在激烈竞争中拿下了该片，乔丹的公司Outlier Society...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

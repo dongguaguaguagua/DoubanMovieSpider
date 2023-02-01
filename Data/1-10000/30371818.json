@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "好梦一日游 La belle époque",
+  "url": "/subject/30371818/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2593566561.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321686/",
+      "name": "尼古拉斯·贝多斯 Nicolas Bedos"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321686/",
+      "name": "尼古拉斯·贝多斯 Nicolas Bedos"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007064/",
+      "name": "丹尼尔·奥特伊 Daniel Auteuil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000177/",
+      "name": "吉约姆·卡内 Guillaume Canet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385815/",
+      "name": "多莉亚·蒂利耶 Doria Tillier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002812/",
+      "name": "芬妮·阿尔丹 Fanny Ardant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025132/",
+      "name": "皮埃尔·阿迪提 Pierre Arditi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048414/",
+      "name": "德尼·波达利德斯 Denis Podalydès"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036931/",
+      "name": "米夏埃尔·科恩 Michaël Cohen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436195/",
+      "name": "Jeanne Arènes Jeanne Arènes"
+    }
+  ]
+,
+  "datePublished": "2019-05-20",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H55M",
+  "description": "结婚超过四十年，曾经的畅销作家维多（丹尼尔奥图 饰）渐渐失去灵感，和老婆的婚姻也亮起红灯。对生活丧失热忱的维多，在儿子与朋友的帮助下，决定接受「回忆美好公司」提供的神秘体验，让电影道具搭建的拟真场景和...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "34555",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.1"
+  }
+}

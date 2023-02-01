@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿斯彭文稿 Aspern Papers",
+  "url": "/subject/27105026/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542444712.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004515/",
+      "name": "亨利·詹姆斯 Henry James"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012518/",
+      "name": "乔纳森·莱斯·梅耶斯 Jonathan Rhys Meyers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013795/",
+      "name": "乔莉·理查德森 Joely Richardson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004576/",
+      "name": "瓦妮莎·雷德格雷夫 Vanessa Redgrave"
+    }
+  ]
+,
+  "datePublished": "2018-08-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "乔纳森·莱斯·梅耶斯加盟新片[阿斯彭文稿]。影片改编自美国作家亨利·詹姆斯同名短片小说，由法国新锐电影人朱利安·蓝戴斯执导并创作剧本。小乔此次饰演书中以第一人称出现的莫顿，为了寻找诗人阿斯彭的手稿，悄...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "347",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

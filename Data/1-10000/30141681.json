@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "飞奔去月球 Over the Moon",
+  "url": "/subject/30141681/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2621020634.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053509/",
+      "name": "格兰·基恩 Glen Keane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1288020/",
+      "name": "约翰·凯世 John Kahrs"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045444/",
+      "name": "奥黛丽·威尔斯 Audrey Wells"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045482/",
+      "name": "伍思薇 Alice Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412335/",
+      "name": "凯西·昂 Cathy Ang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361908/",
+      "name": "菲莉帕·苏 Phillipa Soo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439945/",
+      "name": "罗伯特·邱 Robert G. Chiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275017/",
+      "name": "郑肯 Ken Jeong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019015/",
+      "name": "约翰·赵 John Cho"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010565/",
+      "name": "吴珊卓 Sandra Oh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367257/",
+      "name": "李诞 Dan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366894/",
+      "name": "张碧晨 Bichen Zhang"
+    }
+  ]
+,
+  "datePublished": "2020-10-23",
+  "genre": ["\u52a8\u753b", "\u5bb6\u5ead", "\u5192\u9669"],
+  "duration": "PT1H40M",
+  "description": "影片讲述了小女孩菲菲的奔月故事。菲菲从小听着妈妈讲述的嫦娥与后羿的爱情故事长大，她坚信嫦娥是真爱永恒的化身。妈妈去世几年之后，爸爸准备再婚，菲菲深受打击。为了捍卫自己的家庭，为了向爸爸证明，嫦娥还在月...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "7302",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

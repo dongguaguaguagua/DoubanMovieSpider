@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "铁路末端 Railhead",
+  "url": "/subject/26876256/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2381776755.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018194/",
+      "name": "盖瑞·格拉汉姆 Gary Graham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394736/",
+      "name": "菲利普·里夫 Philip Reeve"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

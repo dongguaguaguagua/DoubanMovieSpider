@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "坏小孩 Bad Little Kid",
+  "url": "/subject/25879515/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279090/",
+      "name": "洛朗·布泽罗 Laurent Bouzereau"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049547/",
+      "name": "斯蒂芬·金 Stephen King"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591"],
+  "duration": "",
+  "description": "A man is plagued by a childhood bully over several decades in his life. However the boy never seems ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

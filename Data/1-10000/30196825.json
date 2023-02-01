@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "活在火星 Life on Mars",
+  "url": "/subject/30194481/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027146/",
+      "name": "约翰·卡拉辛斯基 John Krasinski"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044357/",
+      "name": "塞西尔·卡斯特卢奇 Cecil Castellucci"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "",
+  "description": "约翰·卡拉辛斯基将和[寂静之地]制作团队再次打造全新恐怖片[活在火星](Life on Mars，暂译)，影片灵感来源于Cecil Castellucci的短篇故事《我们生活在火星》，故事讲述一个妇女...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

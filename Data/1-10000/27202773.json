@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狼群行动",
+  "url": "/subject/27202773/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2551898708.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413932/",
+      "name": "尹晨阳 Chenyang Yin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412867/",
+      "name": "史超 Chao Shi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409460/",
+      "name": "谢恺予 Champ Xie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398826/",
+      "name": "李俊瑶 Junyao Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341853/",
+      "name": "于震宇 Zhenyu Yu"
+    }
+  ]
+,
+  "datePublished": "2019-04-06",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT1H8M",
+  "description": "影片讲述了医疗志愿者李瑶在某国艾都力的某个村落给当地村民提供医疗帮助时，突遭绑匪袭击成为俘虏，其父亲得知消息后联系以张震、吴优为成员的安保小队前往，成功救出李瑶后因仍有同胞被困,潜入敌营并夺取交通工具...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "房屋出租 Room for Rent",
+  "url": "/subject/27072822/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2551958626.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308005/",
+      "name": "汤米·斯图瓦尔 Tommy Stovall"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276530/",
+      "name": "林·沙烨 Lin Shaye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1228999/",
+      "name": "奥利弗·雷安 Oliver Rayon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454167/",
+      "name": "Linda Cushma Linda Cushma"
+    }
+  ]
+,
+  "datePublished": "2019-05-07",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H21M",
+  "description": "Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with one of her gu...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1085",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

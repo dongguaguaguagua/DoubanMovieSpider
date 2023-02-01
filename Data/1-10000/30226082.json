@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "最近最远的你",
+  "url": "/subject/30226082/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522464136.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398458/",
+      "name": "刘城铭 Estranged"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398458/",
+      "name": "刘城铭 Estranged"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398461/",
+      "name": "王若瑄 Ruoxuan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372978/",
+      "name": "胡琨 Kun Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334378/",
+      "name": "曾昂 Ang Zeng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384169/",
+      "name": "卢秋宏 Qiuhong Lu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5", "\u620f\u66f2"],
+  "duration": "PT1H31M",
+  "description": "昆曲名伶菱歌独自带着儿子来到北京，在秦老师的介绍下来到了范老板的雅集担任昆曲培训老师。因为菱歌《牡丹亭》唱的极好，她与范老板的关系变得极为密切。一次偶然的机会，菱歌演出《牡丹亭》时，被画家宋思之偷窥到...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

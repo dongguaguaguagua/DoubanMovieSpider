@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "最后的胜地 The Last Resort",
+  "url": "/subject/30220873/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013888/",
+      "name": "斯坦·李 Stan Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359815/",
+      "name": "鲍勃·安德伍德 Bob Underwood"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "斯坦·李70年代所著漫画《The Virtue of Vera Valiant》将拍电影，由李的公司Pow! Entertainment和中国公司Tianying Media联合出品。Tianying...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

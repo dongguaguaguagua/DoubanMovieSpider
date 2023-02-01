@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "痞子人生",
+  "url": "/subject/34444393/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2560742233.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367530/",
+      "name": "孙冬冬 Dongdong Sun"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314488/",
+      "name": "谢孟伟 Mengwei Xie"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H50M",
+  "description": "男女主人公是社会底层小人物，在现实生活中要面对各种各样的艰难与困境，又与精英阶层格格不入，其生存压力，窘迫尴尬，低姿态，谦卑，心酸，包括“小人物”的不自量力都成为该影片喜剧元素的重要来源，最终，坚韧的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

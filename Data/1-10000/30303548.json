@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夏夜骑士",
+  "url": "/subject/30303548/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2652611598.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423562/",
+      "name": "尤行 Xing You"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423562/",
+      "name": "尤行 Xing You"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401446/",
+      "name": "杨曾曦 Zengxi Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387922/",
+      "name": "康钰潇 Yuxiao Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337088/",
+      "name": "罗世平 Shiping Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442044/",
+      "name": "马炼 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276144/",
+      "name": "黄璐 Lu Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351645/",
+      "name": "林路迪 Ludi Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382682/",
+      "name": "纪凌尘 Lingchen Ji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460204/",
+      "name": "韩东 Dong Han"
+    }
+  ]
+,
+  "datePublished": "2019-11-03",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "1997年夏，一位八岁男孩天天目睹外婆的自行车被盗。面对大人们的无可奈何，忿忿不平的他决心以一己之力伸张正义。一场大胆的擒贼计划，让祖孙三代暗潮汹涌的秘密逐渐浮出水面。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2234",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

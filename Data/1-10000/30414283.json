@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "少年与海",
+  "url": "/subject/30414283/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2570189281.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421706/",
+      "name": "孙傲谦 Aoqian Sun"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421706/",
+      "name": "孙傲谦 Aoqian Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422681/",
+      "name": "安吉尔 Ji-er An"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421738/",
+      "name": "于坤杰 Kunjie Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407740/",
+      "name": "李蔓瑄 Manxuan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421739/",
+      "name": "孙心福 Xinfu Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367184/",
+      "name": "兰海隆 Hailong Lan"
+    }
+  ]
+,
+  "datePublished": "2019-10-04",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5", "\u5947\u5e7b"],
+  "duration": "PT1H46M",
+  "description": "11岁的男孩小杰（于坤杰 饰）自幼便和经营公路旅店的大舅（孙心福 饰）一家共同生活。小杰为了完成学校作业——制作一副“大海”主题剪贴画，渴望得到一本《海洋百科》图书。表姐（李蔓瑄 饰）原本答应为弟弟买...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1065",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

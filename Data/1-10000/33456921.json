@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地平线 Horizon Line",
+  "url": "/subject/33456921/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2622918683.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033435/",
+      "name": "米凯尔·马奇曼 Mikael Marcimain"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355642/",
+      "name": "乔什·坎贝尔 Josh Campbell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355643/",
+      "name": "马修·斯托肯 Matthew Stuecken"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314459/",
+      "name": "亚历山大·德雷蒙 Alexander Dreymon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318760/",
+      "name": "艾莉森·威廉姆斯 Allison Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019012/",
+      "name": "凯斯·大卫 Keith David"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357080/",
+      "name": "珀尔·麦基 Pearl Mackie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393954/",
+      "name": "贾马恩·亨特 Jumayn Hunter"
+    }
+  ]
+,
+  "datePublished": "2020-11-06",
+  "genre": ["\u60ca\u609a", "\u707e\u96be"],
+  "duration": "PT1H32M",
+  "description": "故事讲述一对情侣坐小飞机去岛屿上参加婚礼，在离开小岛时飞行员不幸突发心脏病，俩人得想办法活下来。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1245",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

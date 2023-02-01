@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你不是一个人",
+  "url": "/subject/30290776/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2551716549.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400238/",
+      "name": "钟青 Qing Zhong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400238/",
+      "name": "钟青 Qing Zhong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414100/",
+      "name": "石承镐 Chenghao Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403995/",
+      "name": "何紫妍 Elaine Ho"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414101/",
+      "name": "南苗 Miao Nan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377381/",
+      "name": "郭文颐 Berry Wen-i Kuo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333851/",
+      "name": "陈艾熙 Amber Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433785/",
+      "name": "苏韦华 Wells Su"
+    }
+  ]
+,
+  "datePublished": "2019-03-29",
+  "genre": ["\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H18M",
+  "description": "电影《你不是一个人》由青年导演钟青执导，演员石承镐、何紫妍、郭文颐、何圣菲、野泽实穗、陈艾熙、南苗、等人倾情献映。
+该片主要讲述了一个从未谈过恋爱的城市宅男，与四个不同物品变身的女友之间发生的奇幻爱情...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1846",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

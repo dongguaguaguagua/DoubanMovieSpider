@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Borough Park",
+  "url": "/subject/30262231/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332214/",
+      "name": "米查雷·波加尼姆 Michale Boganim"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334729/",
+      "name": "斯塔西·马汀 Stacy Martin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195329/",
+      "name": "马修·保罗·米勒 Matisyahu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "A young woman is forced to start a new life for herself after she is disowned by her rabbi father an...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

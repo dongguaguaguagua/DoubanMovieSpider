@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伏妖白鱼镇2",
+  "url": "/subject/30380049/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540050647.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400999/",
+      "name": "刘轩狄 Xuandi Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438204/",
+      "name": "崔走召 Zouzhao Cui"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400559/",
+      "name": "林枫烨 Fengye Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289501/",
+      "name": "楼南光 Billy Lau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1121730/",
+      "name": "雷宇扬 Simon Lui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275698/",
+      "name": "尹天照 Tin-chiu Wan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454989/",
+      "name": "王佳希 Jiaxi Wang"
+    }
+  ]
+,
+  "datePublished": "2019-06-08",
+  "genre": ["\u60ac\u7591", "\u5947\u5e7b"],
+  "duration": "PT1H25M",
+  "description": "本片讲述了白鱼镇新开了一家堵坊“金银楼”。张不会一直被赖晓华处处压制，于是想私通关系，以便让赖晓华明面上输给自己，谁知“金银楼”老板罗五洲背后暗算，张不会只得被迫卖命陷害赖晓华。另一边，赖晓华不想自己...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1762",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

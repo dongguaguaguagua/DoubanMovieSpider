@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "被绞死的人 The Hanged",
+  "url": "/subject/30221876/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352263/",
+      "name": "费尔南多·科英布拉 Fernando Coimbra"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050429/",
+      "name": "费尔南达·托里斯 Fernanda Torres"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "美剧《毒枭》导演费尔南多·科英布拉将执导犯罪惊悚片[被绞死的人](The Hanged，暂译)，影片由费尔南达·托里斯([海洋对岸])主演。故事讲述一对已婚夫妇杀死了女方的叔叔，以此夺走其非法赌资的一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

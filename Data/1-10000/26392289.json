@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红色海洋",
+  "url": "/subject/26392289/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2376311190.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414450/",
+      "name": "韩松 Song Han"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b", "\u513f\u7ae5"],
+  "duration": "PT1H30M",
+  "description": "这是一部色彩艳丽、充满了末世情节的科幻动画片。故事通过两位水栖人少年海星与尸虺在末世的红色海洋中，寻找不同的回家之路的故事，表达了人类回归家园的渴望的主题，并对环保问题进行深入的探讨。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

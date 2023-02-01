@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鲁贝之灯 Roubaix, une lumière",
+  "url": "/subject/30209086/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2579623678.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041547/",
+      "name": "阿诺·戴普勒尚 Arnaud Desplechin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041547/",
+      "name": "阿诺·戴普勒尚 Arnaud Desplechin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340437/",
+      "name": "蕾雅·梅西斯 Léa Mysius"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028097/",
+      "name": "罗什迪·泽姆 Roschdy Zem"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009295/",
+      "name": "蕾雅·赛杜 Léa Seydoux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027553/",
+      "name": "莎拉·弗里斯蒂 Sara Forestier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381960/",
+      "name": "安托万·赖纳茨 Antoine Reinartz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408209/",
+      "name": "贝蒂·卡图 Betty Catroux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353025/",
+      "name": "菲利普·杜克斯纳 Philippe Duquesne"
+    }
+  ]
+,
+  "datePublished": "2019-05-22",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H59M",
+  "description": "巴黎鲁贝区的圣诞夜。警队队长德奥在区内巡逻。目睹被烧坏的汽车，暴力打架…… 每日面对的都是贫困、欺诈和求救等状况，德奥一眼便知道谁是谁非。路易刚从警察学院毕业，加入了德奥的小队。路易年轻又没有经验，很...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2913",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

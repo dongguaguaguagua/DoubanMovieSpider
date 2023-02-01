@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女特工 The Operative",
+  "url": "/subject/30144221/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2566650141.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332888/",
+      "name": "尤瓦尔·阿德勒 Yuval Adler"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332888/",
+      "name": "尤瓦尔·阿德勒 Yuval Adler"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025151/",
+      "name": "黛安·克鲁格 Diane Kruger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049612/",
+      "name": "马丁·弗瑞曼 Martin Freeman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323602/",
+      "name": "卡斯·安瓦尔 Cas Anvar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410584/",
+      "name": "罗坦·凯南 Rotem Keinan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028119/",
+      "name": "欧哈德·诺勒 Ohad Knoller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1122896/",
+      "name": "巴纳比·麦楚拉特 Barnaby Metschurat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329750/",
+      "name": "维尔纳·德恩 Werner Daehn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1299562/",
+      "name": "Doron Tsabari Doron Tsabari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008142/",
+      "name": "李伦·勒夫 Liron Levo"
+    }
+  ]
+,
+  "datePublished": "2019-02-10",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H56M",
+  "description": "黛安·克鲁格、艾瑞克·巴纳加盟间谍金惊悚片[女特工](The Operative，暂译)。影片由尤瓦尔·阿德勒([伯利恒])执导，根据以色列畅销小说《英语教师》改编。故事讲述一个女性(克鲁格饰)被摩萨...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3069",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

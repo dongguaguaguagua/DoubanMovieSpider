@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "豹子头林冲",
+  "url": "/subject/30379825/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2556868098.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433742/",
+      "name": "赵聪 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275744/",
+      "name": "于震 Zhen Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315699/",
+      "name": "晋松 Song Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317188/",
+      "name": "杜玉明 Yuming Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276088/",
+      "name": "张垒 Lei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411461/",
+      "name": "杨琪芳 Qifang Yang"
+    }
+  ]
+,
+  "datePublished": "2019-05-25",
+  "genre": ["\u52a8\u4f5c", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT2H0M",
+  "description": "电影《豹子头林冲》讲述了宋徽宗年间，八十万禁军教头林冲的妻子林娘子偶遇权臣高俅义子高衙内，高衙内垂涎她的美色，想要据为己有。林冲之友陆谦卖友求荣，助纣为虐，林冲中其计，持刀误入白虎堂。后被发配沧州充军...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

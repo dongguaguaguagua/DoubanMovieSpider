@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Monkey",
+  "url": "/subject/26613449/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2267516126.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033717/",
+      "name": "克里斯托弗·约斯特 Christopher Yost"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412951/",
+      "name": "童恩正 Enzheng Tong"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "据好莱坞权威媒体《VARIETY》（《综艺》）报道，来自中国的时代天骄与好莱坞ABSTRACT ENTERTAINMENT公司将合作推出一部重磅大片《MONKEY》，该电影基于中国古代四大名著之一的《...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}
