@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "438天 438 Dagar",
+  "url": "/subject/30223505/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2548706455.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040587/",
+      "name": "古斯塔·斯卡斯加德 Gustaf Skarsgård"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025594/",
+      "name": "菲利普·赞丹 Philip Zandén"
+    }
+  ]
+,
+  "datePublished": "2019-08-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "On the eve of June 28th, 2011 Swedish journalists Martin Schibbye and Johan Persson put everything a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "63",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

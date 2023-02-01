@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Luckiest Man on the Face of the Earth",
+  "url": "/subject/30379057/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014337/",
+      "name": "杰·拉塞尔 Jay Russell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348976/",
+      "name": "丹尼尔·凯 Daniel Kay"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "A biopic centering on the life and career of Yankees great Lou Gehrig.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

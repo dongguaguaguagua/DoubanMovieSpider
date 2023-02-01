@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "捕食者 Predator",
+  "url": "/subject/30242133/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2870473911.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012516/",
+      "name": "布莱恩·德·帕尔玛 Brian De Palma"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012516/",
+      "name": "布莱恩·德·帕尔玛 Brian De Palma"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "布莱恩·德·帕尔玛接受《巴黎人报》采访时透露，他正在筹备一部以哈维·韦恩斯坦为主角的恐怖片！帕尔玛已和一位法国制片人商谈了该项目，他表示主角并不会直接叫哈维·韦恩斯坦，但是会以韦恩斯坦的这些丑闻为素材...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

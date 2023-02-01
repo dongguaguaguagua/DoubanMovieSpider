@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幽浮魔点 The Blob",
+  "url": "/subject/26341669/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2571007489.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300732/",
+      "name": "西蒙·韦斯特 Simon West"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054408/",
+      "name": "塞缪尔·杰克逊 Samuel L. Jackson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "",
+  "description": "影片翻拍自1958年的同名经典科幻恐怖片，萨缪尔将扮演一位生物学教授，原作中这一角色由史蒂夫·麦奎因扮演，他将阻止果冻状的外星生命体威胁小镇安全。影片将于今年夏天开机，近期将公布影片的其他卡司阵容。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

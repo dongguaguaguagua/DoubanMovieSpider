@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "秒变超级女神",
+  "url": "/subject/30302358/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274670/",
+      "name": "宋丹丹 Dandan Song"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "行为滑稽相貌丑陋堪比凤姐的许美凤为了脱单，进行很多次不靠谱的相亲，遇到的人猥琐又奇葩。许美凤意外获得变身女神的能力，处了两个对象纷纷告吹。最后和默默守护她的同事兼同学走向了婚姻殿堂。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

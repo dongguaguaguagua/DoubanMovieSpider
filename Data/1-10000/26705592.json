@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "龙岭迷窟",
+  "url": "/subject/26705592/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2874660791.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320824/",
+      "name": "非行 Fei Xing"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340983/",
+      "name": "天下霸唱 Muye Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318565/",
+      "name": "蔡珩 Heng Cai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316959/",
+      "name": "顾璇 Xuan Gu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363813/",
+      "name": "于恒 Heng Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375964/",
+      "name": "陈雨锶 Yusi Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327671/",
+      "name": "马浴柯 Marc Ma"
+    }
+  ]
+,
+  "datePublished": "2022-06-17",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u5947\u5e7b"],
+  "duration": "PT1H30M",
+  "description": "根据天下霸唱小说《鬼吹灯》系列之《龙岭迷窟》、《云南虫谷》、《昆仑神宫》改编的三部曲电影将于2016年下半年正式开机。并预计于2017、2018、2019年每年一部全球同步公映。本次拍摄的《龙岭迷窟》...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1615",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.3"
+  }
+}

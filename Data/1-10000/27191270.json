@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "哈格尔 HAGER",
+  "url": "/subject/27191270/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2594679591.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474524/",
+      "name": "弗雷德里克·冯·路提考 Frederik von Lüttichau"
+    }
+  ]
+,
+  "datePublished": "2020-01-15",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

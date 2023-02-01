@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "最后的笑声 The Last Laugh",
+  "url": "/subject/30384512/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2618300541.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405390/",
+      "name": "米兰达·朗 Meranda Long"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1157091/",
+      "name": "Eric Stone Eric Stone"
+    }
+  ]
+,
+  "datePublished": "2020-09-15",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "一位单人脱口秀谐星，即将站上他人生最大的表演舞台表演，他的前景看好。不料，他却在开演前发现了一位在逃的杀人凶手，他会做出什么糟糕的决定？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

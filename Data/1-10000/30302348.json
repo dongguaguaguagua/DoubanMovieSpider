@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "洛桑的家事",
+  "url": "/subject/30302348/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2708647185.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424873/",
+      "name": "张国栋 Guodong Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275557/",
+      "name": "芦苇 Wei Lu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476463/",
+      "name": "扎西 Zhaxi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H36M",
+  "description": "洛桑的三岁孙女央金被酒后驾驶拖拉机的豆拉伽撞成了高位截瘫，由此引发了三个家庭的矛盾，最后和解，实现了信仰与法律的相辅相成。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

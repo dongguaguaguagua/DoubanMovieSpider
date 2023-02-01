@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "曝·光",
+  "url": "/subject/30373670/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2622777575.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404148/",
+      "name": "黄龙芳 Thomas Huang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403961/",
+      "name": "黄佳军 Jiajun Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301215/",
+      "name": "黄一飞 Yut Fei Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374516/",
+      "name": "郑小容 Xiaorong Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406064/",
+      "name": "杨剑勐 Jianmeng Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406065/",
+      "name": "吉本氡 Bendong Ji"
+    }
+  ]
+,
+  "datePublished": "2020-10-13",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H30M",
+  "description": "信息化膨胀的网络时代,整个社会处在一种被极度放大的状态下,任何风吹草动都有可能成为舆论焦点。妙龄女郎杨惊鸿一段舞蹈视频,无意间在网络上疯传起来,她姣好的容貌与魅惑的身材本身就自带流量属性,重点是她跳舞...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

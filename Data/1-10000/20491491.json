@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀手乌鸦 Killer Crow",
+  "url": "/subject/20491491/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2601706470.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054444/",
+      "name": "昆汀·塔伦蒂诺 Quentin Tarantino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046166/",
+      "name": "Steven M. Smith Steven M. Smith"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054444/",
+      "name": "昆汀·塔伦蒂诺 Quentin Tarantino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046166/",
+      "name": "Steven M. Smith Steven M. Smith"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "昆汀本人在最新受访中爆出新料：自己的下一部新作将有可能与《无耻混蛋》、《被解放的迪亚戈》构成三部曲，片名初定为《杀手乌鸦》（Killer Crow，暂译）。根据昆汀的设想，《杀手乌鸦》将是三部曲的终结...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

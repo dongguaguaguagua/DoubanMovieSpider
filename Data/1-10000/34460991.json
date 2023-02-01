@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我是透明人",
+  "url": "/subject/34460991/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315043/",
+      "name": "冯海涛 Haitao Feng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339571/",
+      "name": "何可可 Keke He"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": [],
+  "duration": "PT1H50M",
+  "description": "普通人拥有了透明的能力，在历经一番“透明”奇妙之旅后找寻自我价值的正能量喜
+剧故事，主人公在蜕变过程中逐步找回缺失的自我，重拾生活的勇气和信心，与自我、与他人、与世界和解的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

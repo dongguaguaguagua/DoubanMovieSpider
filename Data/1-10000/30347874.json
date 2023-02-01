@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "政坛新秀 NGK",
+  "url": "/subject/30347874/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2536683254.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184974/",
+      "name": "苏利耶·西瓦库马 Suriya Sivakumar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392000/",
+      "name": "拉库尔·普雷特·辛格 Rakul Preet Singh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402572/",
+      "name": "赛·帕拉维 Sai Pallavi"
+    }
+  ]
+,
+  "datePublished": "2019-05-31",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT2H28M",
+  "description": "南达·高普兰·库马兰(Nandha Gopalan Kumaran),简称NGK,为人善良,乐于助人.他是个高材生,在跨国大公司工作了两年后便感觉厌烦,便回乡下召集一帮人搞有机农业.期间他目睹和见证了...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

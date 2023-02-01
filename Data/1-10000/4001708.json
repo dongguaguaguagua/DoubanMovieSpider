@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一日一生 A Life in the Day",
+  "url": "/subject/4001708/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037033/",
+      "name": "贾斯汀·查德维克 Justin Chadwick"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036341/",
+      "name": "尼古拉斯·霍尔特 Nicholas Hoult"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022761/",
+      "name": "杰克·奥康奈尔 Jack O&#39;Connell"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u97f3\u4e50", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "尼古拉斯·霍尔特与杰克·奥康奈尔将合作传记片《A Life In The Day》，聚焦披头士与他们的经纪人Brian Epstein。尼古拉斯·霍尔特将出演经纪人Brian Epstein，杰克·奥...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

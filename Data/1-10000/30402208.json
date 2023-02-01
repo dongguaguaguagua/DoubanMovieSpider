@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "罪美人",
+  "url": "/subject/30402208/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542472552.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374547/",
+      "name": "柯家豪 Ko Chia-Hao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420099/",
+      "name": "赵云天 Yuntian Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384062/",
+      "name": "张伊楠 E&#39;Naan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453727/",
+      "name": "张琦 Qi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470195/",
+      "name": "夏晨曦 Chenxi Xia"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "",
+  "description": "民国时期，爱国女侠仇弟遇到了年轻英俊的医生郭天明，两人擦出爱情的火花，但是女侠对医生隐瞒了身份。当她得知爱人已经被宿敌绑架之后，她必须以赏金猎人和女朋友的双重身份面对这场变故。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

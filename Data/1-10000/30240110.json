@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Sepulcrum",
+  "url": "/subject/30240110/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2533762663.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163253/",
+      "name": "托马斯·丘吉尔 Thomas J. Churchill"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339375/",
+      "name": "小卢·弗里基诺 Lou Ferrigno Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108075/",
+      "name": "罗伯特·拉萨多 Robert LaSardo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "When a brooding, athletic young man accepts the lead in a rich girl&#39;s student film, shot in the aban...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

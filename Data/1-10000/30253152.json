@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "石人",
+  "url": "/subject/30253152/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274275/",
+      "name": "罗志良 Chi-Leung Law"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000525/",
+      "name": "吴京 Jing Wu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "在2018上海国际电影节上，万达与乐创文娱（原乐视影业）先后发布未来片单，万达华语新片矩阵排出罗志良导演的《石人》，号称要打造东方超级英雄系列序章。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

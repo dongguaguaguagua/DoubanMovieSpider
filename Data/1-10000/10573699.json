@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "太极3：巅峰在望",
+  "url": "/subject/10573699/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2517229691.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023278/",
+      "name": "冯德伦 Stephen Fung"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274308/",
+      "name": "张家鲁 Chia-lu Chang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118167/",
+      "name": "梁家辉 Tony Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033011/",
+      "name": "杨颖 Angelababy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013782/",
+      "name": "彭于晏 Eddie Peng"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "华谊兄弟首度公布《太极》三部曲正式片名：《太极之从零开始》、《太极之英雄崛起》、《太极之巅峰在望》。当时尚处于拍摄期的首部曲，一举销售出31国海外版权。此后华谊兄弟就一直对所有电影内容秘而不宣，由监制...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

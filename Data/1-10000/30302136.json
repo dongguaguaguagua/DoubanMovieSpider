@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "番石榴岛 Guava Island",
+  "url": "/subject/30302136/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553738857.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360201/",
+      "name": "村井浩 Hiro Murai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314061/",
+      "name": "唐纳德·格洛弗 Donald Glover"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402383/",
+      "name": "史蒂芬·格洛弗 Stephen Glover"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415436/",
+      "name": "布拉·克 Ibra Ake"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415437/",
+      "name": "贾马尔·奥洛里 Jamal Olori"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415438/",
+      "name": "乌德·奥尔吉 Fam Udeorji"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031180/",
+      "name": "蕾哈娜 Rihanna"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314061/",
+      "name": "唐纳德·格洛弗 Donald Glover"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356810/",
+      "name": "利蒂希娅·赖特 Letitia Wright"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315348/",
+      "name": "侬索·阿诺斯 Nonso Anozie"
+    }
+  ]
+,
+  "datePublished": "2019-04-13",
+  "genre": ["\u559c\u5267", "\u60ca\u609a", "\u97f3\u4e50"],
+  "duration": "PT0H55M",
+  "description": "根据古巴杂志报道，蕾哈娜与唐纳德·格洛弗合作出演影片[番石榴岛](Guava Island，暂译)，影片由村井浩(《亚特兰大》)执导。目前，影片在古巴首都哈瓦那拍摄中，并曝光多张片场照。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1091",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

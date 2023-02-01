@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "永恒的一天",
+  "url": "/subject/26656403/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2596334773.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316181/",
+      "name": "万玛才旦 Pema Tseden"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316181/",
+      "name": "万玛才旦 Pema Tseden"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H0M",
+  "description": "這是一部真正意義上的魔幻現實主義電影，用一天的時間表現一年中春夏秋冬四個季節的更替，一個人的一生，一個民族近百年滄桑漫長的歷史。這部電影猶如一面魔鏡，折射、幻化出西藏民族的心靈史。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

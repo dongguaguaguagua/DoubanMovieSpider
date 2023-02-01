@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "音乐 音楽",
+  "url": "/subject/34429100/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559302599.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455831/",
+      "name": "岩井泽健治 Kenji Iwaisawa"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455831/",
+      "name": "岩井泽健治 Kenji Iwaisawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456257/",
+      "name": "大桥裕之 Hiroyuki Ohashi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455273/",
+      "name": "坂本慎太郎 Shintaro Sakamoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394419/",
+      "name": "驹井莲 Ren Komai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329962/",
+      "name": "前野朋哉 Tomoya Maeno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405852/",
+      "name": "芹泽兴人 Tateto Serizawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325922/",
+      "name": "平岩纸 Kami Hiraiwa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035579/",
+      "name": "竹中直人 Naoto Takenaka"
+    }
+  ]
+,
+  "datePublished": "2019-09-26",
+  "genre": ["\u52a8\u753b", "\u97f3\u4e50"],
+  "duration": "PT1H11M",
+  "description": "高中生健治有一天突发奇想，邀请伙伴太田和朝仓一起组乐队，但是三个人都对乐器一窍不通。他们的乐队是一把贝斯，再来一把贝斯，还有鼓，配置十分独特。当他们弹奏出第一个音符，立刻被一种前所未有的感觉淹没了，音...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "12160",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.6"
+  }
+}

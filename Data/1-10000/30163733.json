@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "刀剑乱舞 电影版 映画刀剣乱舞",
+  "url": "/subject/30163733/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2538616654.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344634/",
+      "name": "耶云哉治 Saiji Yakumo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312889/",
+      "name": "小林靖子 Yasuko Kobayashi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317507/",
+      "name": "铃木拡树 Hiroki Suzuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372881/",
+      "name": "荒牧庆彦 Yoshihiko Aramaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362995/",
+      "name": "北村谅 Ryo Kitamura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372878/",
+      "name": "和田雅成 Masanari Wada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314899/",
+      "name": "岩永洋昭 Hiroaki Iwanaga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406703/",
+      "name": "定本枫马 Fuma Sadamoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362648/",
+      "name": "椎名鯛造 Shiina Taizo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353581/",
+      "name": "广濑智纪 Tomoki Hirose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029512/",
+      "name": "八岛智人 Norito Yashima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1161267/",
+      "name": "山本耕史 Kôji Yamamoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483127/",
+      "name": "田中乃爱 Noa Tanaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483750/",
+      "name": "高桥麻琴 Makoto Takahashi"
+    }
+  ]
+,
+  "datePublished": "2019-01-18",
+  "genre": ["\u52a8\u4f5c", "\u5386\u53f2", "\u5947\u5e7b"],
+  "duration": "PT1H40M",
+  "description": "改编自超人气手游《刀剑乱舞-ONLINE-》超越次元的历史娱乐大作！西元2205年，历史修正主义者主张改变历史，派出时间溯行军对过去展开攻击。为了与之对抗，肩负历史守护责任的「审神者」唤醒从前的刀剑，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "774",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

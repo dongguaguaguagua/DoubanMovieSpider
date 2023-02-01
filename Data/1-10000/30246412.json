@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "笔仙怪谈",
+  "url": "/subject/30246412/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2649464700.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359953/",
+      "name": "黄河 He Huang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463385/",
+      "name": "杨姗 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359953/",
+      "name": "黄河 He Huang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334974/",
+      "name": "王子清 Rayna Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451851/",
+      "name": "赵美钧 Meijun Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397787/",
+      "name": "董小白 Xiaobai Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403961/",
+      "name": "黄佳军 Jiajun Huang"
+    }
+  ]
+,
+  "datePublished": "2021-05-19",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT2H10M",
+  "description": "柚美是一个从小失去父母的孤儿，因心理受创将过去的记忆扭曲，认为是父母抛弃了自己，封锁心扉的她变得脆弱敏感，甚至姐姐对自己的关心也被扭曲为是一种恶意的控制欲。直到濒临死亡时的臆想世界才让她懂得：释怀过去...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "造访惊魂 Гости",
+  "url": "/subject/30263813/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555036818.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1259527/",
+      "name": "尤里·切里辛 Yuri Chursin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419165/",
+      "name": "安吉丽娜·斯特雷奇娜 Angelina Strechina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483450/",
+      "name": " anar khalilov"
+    }
+  ]
+,
+  "datePublished": "2019-03-07",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H28M",
+  "description": "Young Katya meets a merry company of visiting guys who have a specific entertainment - to organize p...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "84",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

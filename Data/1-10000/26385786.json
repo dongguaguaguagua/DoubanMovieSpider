@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三个臭皮匠2 Untitled Three Stooges Sequel",
+  "url": "/subject/26385786/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018131/",
+      "name": "博比·法雷里 Bobby Farrelly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036662/",
+      "name": "彼得·法雷里 Peter Farrelly"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1194891/",
+      "name": "Cameron Fay Cameron Fay"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018099/",
+      "name": "威尔·萨索 Will Sasso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009306/",
+      "name": "西恩·海耶斯 Sean Hayes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1090227/",
+      "name": "克里斯·迪亚曼托普洛斯 Chris Diamantopoulos"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "2012年的打闹喜剧《三个臭皮匠》正筹划拍续集，上映时间未定。导演法拉利兄弟将与威尔·萨索、西恩·海耶斯、克里斯·迪曼托波罗斯这三个臭皮匠将再度聚首。
+“三个臭皮匠”的历史由来已久，早在1920年代，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

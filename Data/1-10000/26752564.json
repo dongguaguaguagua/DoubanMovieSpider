@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小伟",
+  "url": "/subject/26752564/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2631157729.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402792/",
+      "name": "黄梓 Zi Huang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402792/",
+      "name": "黄梓 Zi Huang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421419/",
+      "name": "彭杏英 Janis Pang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326018/",
+      "name": "薛立贤 Howard Sit"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400560/",
+      "name": "高翰文 Ko Hon Man"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381505/",
+      "name": "郭尔君 Alma Kwok"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446425/",
+      "name": "钟雨伦 Marick Chung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384688/",
+      "name": "顾定轩 Zeno Koo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411622/",
+      "name": "廖爱玲 Ellen Liu"
+    }
+  ]
+,
+  "datePublished": "2019-07-23",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H48M",
+  "description": "一家三口的生活因父亲伟明被查出末期肝癌而改变。表面上平静的家庭被阴霾笼罩。妈妈慕伶扛起家，却得不到父子的体谅。儿子一鸣收到美国的大学录取通知书，但不敢告诉爸妈。他知道母亲不易，却不愿表现过多关心。父亲...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "37308",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

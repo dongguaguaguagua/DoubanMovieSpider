@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "生态箱 Vivarium",
+  "url": "/subject/30211753/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2581808103.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415313/",
+      "name": "罗根·费纳根 Lorcan Finnegan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415313/",
+      "name": "罗根·费纳根 Lorcan Finnegan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478432/",
+      "name": "加勒特·尚利 Garret Shanley"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027144/",
+      "name": "杰西·艾森伯格 Jesse Eisenberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274510/",
+      "name": "伊莫琴·普茨 Imogen Poots"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313128/",
+      "name": "乔纳森·阿里斯 Jonathan Aris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397692/",
+      "name": "奥尔加·韦尔利 Olga Wehrly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468400/",
+      "name": "森安·詹宁斯 senan jennings"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467967/",
+      "name": "丹妮尔·瑞恩 Danielle Ryan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449773/",
+      "name": "茉莉·麦克凯恩 Molly McCann"
+    }
+  ]
+,
+  "datePublished": "2019-05-18",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591"],
+  "duration": "PT1H37M",
+  "description": "波茨和艾森伯格饰一对情侣，吃下一个房地产经理安利，住进了某神秘的新住房项目，从此他们被困在迷宫一般、外表全一样的房子里，被迫抚养一个非现实世界的小孩。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "20550",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暴躁家族",
+  "url": "/subject/30394824/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546497215.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386617/",
+      "name": "文一行 Eason Wen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386617/",
+      "name": "文一行 Eason Wen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312703/",
+      "name": "高宏亮 Hongliang Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366104/",
+      "name": "王美茜 Meiqian Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392319/",
+      "name": "邓加乐 Eugene Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367153/",
+      "name": "董至成 Alex Tung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387866/",
+      "name": "常凯宁 Kaining Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326244/",
+      "name": "王正佳 Zhengjia Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367183/",
+      "name": "辛祚宇 Zuoyu Xin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362264/",
+      "name": "黄健 Jian Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411261/",
+      "name": "余俪 Li Yu"
+    }
+  ]
+,
+  "datePublished": "2019-08-15",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H30M",
+  "description": "脾气异常火爆的东北一家，在本地有着深厚的江湖背景。由于几十年前的仇敌出狱寻仇，一家四口无奈逃至海岛隐姓埋名，重新生活。东北人火爆的脾气与海岛生活格格不入，带来诸多笑料。却不知一场意想不到的血雨腥风即将...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "685",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.8"
+  }
+}

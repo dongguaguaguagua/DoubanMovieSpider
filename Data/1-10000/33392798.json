@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "捕快卜曼",
+  "url": "/subject/34808516/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2567100284.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401833/",
+      "name": "陈泳旭 Yongxu Chen"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424998/",
+      "name": "徐鹤尼 Heni Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449824/",
+      "name": "陈耕 Geng Chen"
+    }
+  ]
+,
+  "datePublished": "2019-09-04",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u53e4\u88c5"],
+  "duration": "PT1H15M",
+  "description": "几十年前，一伙倭寇袭击沿海，被明朝大军拿下，其首领东野吾郎被斩首示众，首级悬挂于城门之上。谁知东野吾郎早有遗书，他安排自己精通汉语的妻子假扮汉人，将两个孩子送了人。
+几十年后，明朝倭寇之乱已近平息。常...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

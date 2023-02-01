@@ -1,0 +1,79 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "尸体游戏 Bodies, Bodies, Bodies",
+  "url": "/subject/30163010/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2873956226.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040800/",
+      "name": "哈里纳·雷金 Halina Reijn"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345362/",
+      "name": "皮特·戴维森 Pete Davidson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320554/",
+      "name": "阿曼德拉·斯坦伯格  Amandla Stenberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446316/",
+      "name": "玛丽亚·巴卡洛娃 Maria Bakalova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454861/",
+      "name": "瑞秋·塞诺特 Rachel Sennott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018975/",
+      "name": "李·佩斯 Lee Pace"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448959/",
+      "name": "米哈拉·赫罗德 Myha’la Herrold"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355569/",
+      "name": "康纳·欧麦利 Conner O&#39;malley"
+    }
+  ]
+,
+  "datePublished": "2022-03-14",
+  "genre": ["\u559c\u5267", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H34M",
+  "description": "人前手牵手，闭眼下毒手！
+究竟谁才是真朋友、谁又是黑暗中的凶手？
+讲述一群朋友在偏远的周末派对上玩了一个名叫“Bodies Bodie Bodies”模拟谋杀的游戏，结果却发生了真正的谋杀。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4748",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

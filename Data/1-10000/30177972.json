@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "凯勒太太 The New Mrs. Keller",
+  "url": "/subject/30177972/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044975/",
+      "name": "皮埃尔·莫瑞尔 Pierre Morel"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1067129/",
+      "name": "克拉斯·邦 Claes Bang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "",
+  "description": "克拉斯·邦([自由广场])将参演科幻惊悚片[凯勒太太](The New Mrs. Keller，暂译)。该片由皮埃尔·莫瑞尔([飓风营救])执导，主角薇拉·凯勒还在甄选之中。故事设定于未来世界，聪明、...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

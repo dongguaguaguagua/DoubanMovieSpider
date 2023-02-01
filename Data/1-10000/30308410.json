@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "格兰德岛 Grand Isle",
+  "url": "/subject/30308410/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2574261702.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419285/",
+      "name": "斯蒂芬·S·坎帕内利 Stephen S. Campanelli"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421873/",
+      "name": "里奇·罗纳特 Rich Ronat"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054455/",
+      "name": "尼古拉斯·凯奇 Nicolas Cage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031847/",
+      "name": "凯尔希·格兰莫 Kelsey Grammer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018104/",
+      "name": "祖蕾·亨奥 Zulay Henao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044978/",
+      "name": "卢克·本沃德 Luke Benward"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036472/",
+      "name": "卡迪·斯特瑞兰德 KaDee Strickland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360795/",
+      "name": "艾米丽·玛丽·帕尔默 Emily Marie Palmer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423062/",
+      "name": "奥利弗·特雷韦纳 Oliver Trevena"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365390/",
+      "name": "比阿特丽丝·埃尔南德斯 Beatrice Hernandez"
+    }
+  ]
+,
+  "datePublished": "2019-12-06",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H37M",
+  "description": "一位年轻父亲遭人诬陷为谋杀案罪犯，为了证明自己的清白，他必须要在自己经历过的一系列恐怖而离奇的事件中寻找线索和答案。
+本片由曾经执导过《绝命盗窃》并多次与克林特·伊斯特伍德合作的导演Stephen S...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "842",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

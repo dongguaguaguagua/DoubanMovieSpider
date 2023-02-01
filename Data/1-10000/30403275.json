@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "达米安想改变世界 Damien veut changer le monde",
+  "url": "/subject/30403275/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545997656.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281986/",
+      "name": "Xavier De Choudens Xavier De Choudens"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281986/",
+      "name": "Xavier De Choudens Xavier De Choudens"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350461/",
+      "name": "弗兰克·盖思堂彼得 Franck Gastambide"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341816/",
+      "name": "卡米尔·勒鲁什 Camille Lellouche"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349751/",
+      "name": "塞夫·哈杰迪 Youssef Hajdi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033024/",
+      "name": "帕特里克·薛内斯 Patrick Chesnais"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010273/",
+      "name": "梅丽莎·索岑 Melisa Sozen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350644/",
+      "name": "塔蒂亚娜·罗乔 Tatiana Rojo"
+    }
+  ]
+,
+  "datePublished": "2019-03-06",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H41M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

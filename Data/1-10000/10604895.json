@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "英格力士",
+  "url": "/subject/10604895/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2514078368.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044964/",
+      "name": "陈冲 Joan Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044964/",
+      "name": "陈冲 Joan Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342747/",
+      "name": "王刚 Gang Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010208/",
+      "name": "王志文 Zhiwen Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010504/",
+      "name": "袁泉 Quan Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000145/",
+      "name": "霍思燕 Siyan Huo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313837/",
+      "name": "王传君 Chuanjun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462711/",
+      "name": "苏比努尔·艾尼瓦尔 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037547/",
+      "name": "戚玉武 Yuwu Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316699/",
+      "name": "刘冠成 Guancheng Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374201/",
+      "name": "张子贤 Zixian Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435137/",
+      "name": "沈樵 Qiao Shen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "天山脚下，一群少男少女遇上了殉道者一样的英语老师。他的仁慈及优雅令十几岁的孩子们对“英格力士”情有独衷。小主人公刘爱梦寐以求能够拥有一本厚厚的英语词典，渴望说一口纯正的英语，他与英语老师成为忘年之交，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

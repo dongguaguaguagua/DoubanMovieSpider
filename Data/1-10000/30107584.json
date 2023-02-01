@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "看夜更2 Nattevagten 2",
+  "url": "/subject/30107584/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018354/",
+      "name": "奥勒·博内代尔 Ole Bornedal"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018354/",
+      "name": "奥勒·博内代尔 Ole Bornedal"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1094057/",
+      "name": "苏菲·格拉宝 Sofie Gråbøl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033087/",
+      "name": "洛特·安德森 Lotte Andersen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1129389/",
+      "name": "乌尔夫·皮尔加德 Ulf Pilgaard"
+    }
+  ]
+,
+  "datePublished": "2023-12-25",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "In Nightwatch the sequel, Emma, a medical student, takes on a nightwatch job in the forensic departm...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

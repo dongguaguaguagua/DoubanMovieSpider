@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "睡眠实验 Deprivation",
+  "url": "/subject/30301248/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531114690.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025191/",
+      "name": "多米尼克·斯万 Dominique Swain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055076/",
+      "name": "威廉·麦克纳马拉 William McNamara"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "Deprivation, a SciFi Horror film based on the horrifying Russian Sleep Deprivation experiments which...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

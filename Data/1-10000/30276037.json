@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "托托 Toto",
+  "url": "/subject/30276037/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528251657.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279705/",
+      "name": "马克·伯顿 Mark Burton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028293/",
+      "name": "迈克尔·莫波格 Michael Morpurgo"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "华纳筹拍动画片[托托](Toto，暂译)，该片主角是1939年经典影片[绿野仙踪]中女主角桃乐丝的好朋友小狗“托托”。新片改编自迈克尔·莫波格创作的以托托为主角的童书，编剧马克·伯顿([超级无敌掌门狗...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,124 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超级马力欧兄弟大电影 The Super Mario Bros. Movie",
+  "url": "/subject/27199894/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2881343860.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398262/",
+      "name": "亚伦·霍瓦斯 Aaron Horvath"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366111/",
+      "name": "迈克尔·杰勒尼克 Michael Jelenic"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410663/",
+      "name": "马修·福格尔 Matthew Fogel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116486/",
+      "name": "宫本茂 Shigeru Miyamoto"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017967/",
+      "name": "克里斯·帕拉特 Chris Pratt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354934/",
+      "name": "安雅·泰勒-乔伊 Anya Taylor-Joy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004621/",
+      "name": "查理·戴 Charlie Day"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049492/",
+      "name": "杰克·布莱克 Jack Black"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000430/",
+      "name": "科甘-迈克尔·凯 Keegan-Michael Key"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002668/",
+      "name": "塞斯·罗根 Seth Rogen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036464/",
+      "name": "弗莱德·阿米森 Fred Armisen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379169/",
+      "name": "塞巴斯蒂安·马尼斯科 Sebastian Maniscalco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1114988/",
+      "name": "查尔斯·马丁内斯 Charles Martinet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1142715/",
+      "name": "凯文·迈克尔·理查德森 Kevin Michael Richardson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1222311/",
+      "name": "卡里·佩顿 Khary Payton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347752/",
+      "name": "艾瑞克·鲍扎 Eric Bauza"
+    }
+  ]
+,
+  "datePublished": "2023-04-07",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u79d1\u5e7b", "\u52a8\u753b", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "影片改编自任天堂经典游戏。企鹅冰雪王国遭到入侵能否逆袭？马力欧和他的兄弟路易吉如何拯救世界？童年经典大银幕重启，精彩冒险即将上演。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "青年赌神之反赌人生路",
+  "url": "/subject/30255086/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2525918549.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396075/",
+      "name": "陈萌希 Harvey Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425866/",
+      "name": "宋星杰 "
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

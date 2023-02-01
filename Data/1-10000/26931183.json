@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "高级动物的爱恋",
+  "url": "/subject/26931183/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2412639110.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320991/",
+      "name": "陈卓 Zhuo Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320991/",
+      "name": "陈卓 Zhuo Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276152/",
+      "name": "刘芸 Yun Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315908/",
+      "name": "郭家铭 Jiaming Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335604/",
+      "name": "童苡萱 Yixuan Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275650/",
+      "name": "姜瑞佳 Ruijia Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372916/",
+      "name": "王超北 Chaobei Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313991/",
+      "name": "焦刚 Gang Jiao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "故事围绕爱情亲情与两性关系为核心，通过一档电台节目的线索，在构建的人物中带出千丝万絮的情感联系，他们时空交叠，环环相扣，从不同年龄层次的爱情角度，探讨男女之间中关于萌动、信任、缘份和憧憬四个话题。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

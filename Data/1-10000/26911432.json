@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯狂兔子 Rabbids",
+  "url": "/subject/26911432/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149770/",
+      "name": "托德·施特劳斯-舒尔森 Todd Strauss-Schulson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018597/",
+      "name": "马修·森莱奇 Matthew Senreich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400107/",
+      "name": "汤姆·谢泼德 Tom Sheppard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355474/",
+      "name": "扎布·威尔斯 Zeb Wells"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "狮门影业拿下育碧游戏《疯狂兔子》电影改编权，将根据游戏拍摄真人/CGI影片。托德·雷博曼、大卫·郝伯曼、杰森·奥特曼、Margaret Boykin共同担任制作。《疯狂兔子》的主角是类似野兔般的生物，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

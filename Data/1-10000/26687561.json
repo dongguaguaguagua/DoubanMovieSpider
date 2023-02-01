@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的闺蜜安徒生",
+  "url": "/subject/26687561/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2385936250.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325104/",
+      "name": "束焕 Huan Shu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325104/",
+      "name": "束焕 Huan Shu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "最近，中国电影市场发展迅猛，不仅众多好莱坞公司对中国颇感兴趣，安徒生的故乡丹麦，也对中国电影抛出了橄榄枝。12月15日，中国与丹麦的首部合拍片《我的闺蜜安徒生》在北京举行签约发布会，出品方君舍文化传媒...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

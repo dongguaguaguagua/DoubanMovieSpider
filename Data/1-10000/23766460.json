@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "野蛮人柯南 The Legend of Conan",
+  "url": "/subject/23766460/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004978/",
+      "name": "罗伯特·霍华德 Robert E. Howard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347624/",
+      "name": "克里斯·摩根 Chris Morgan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326235/",
+      "name": "威尔·比尔 Will Beall"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035643/",
+      "name": "阿诺·施瓦辛格 Arnold Schwarzenegger"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "《野蛮人柯南》续集正在运作中，新版命名《The Legend of Conan》，克里斯·摩根担任编剧及制片，阿诺·施瓦辛格将再度饰演柯南。新版风格将延续前作紧张冒险的基调，卡司阵容方面还有望邀请82...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

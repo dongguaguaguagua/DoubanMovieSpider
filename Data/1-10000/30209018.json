@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "陪你很久很久",
+  "url": "/subject/30209018/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2678123003.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391013/",
+      "name": "赖孟杰 Meng-Chieh Lai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391013/",
+      "name": "赖孟杰 Meng-Chieh Lai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369336/",
+      "name": "刘雪容 Hsueh Jung Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460945/",
+      "name": "宋小君 Xiaojun Song"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316450/",
+      "name": "李淳 Mason Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342329/",
+      "name": "邵雨薇 Ivy Shao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421200/",
+      "name": "蔡瑞雪 Snowbaby"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370066/",
+      "name": "宋柏纬 Edison Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275593/",
+      "name": "屈中恒 Chung-heng Chu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352914/",
+      "name": "胡玮杰 Wei-Jie Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274458/",
+      "name": "柯佳嬿 Alice Ko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371838/",
+      "name": "林鹤轩 He-Hsuan Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395826/",
+      "name": "刘纪范 Amanda Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359345/",
+      "name": "王家梁 Edison Wang"
+    }
+  ]
+,
+  "datePublished": "2019-07-05",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H44M",
+  "description": "性格憨直的赵玖秉的整个青春，都是陪着梁薄荷一起度过的，两个青梅竹马的伙伴一路相伴成长，他们的欢笑和眼泪都与彼此有关。上了同一所大学后，一连串的意外事件导致薄荷的初恋被帅气的学长夺走。抓不到，又舍不得放...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6778",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

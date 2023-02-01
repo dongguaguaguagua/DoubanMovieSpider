@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "未定名星际迷航项目 Untitled Star Trek Project",
+  "url": "/subject/27614369/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2601707112.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353628/",
+      "name": "马克·L·史密斯 Mark L. Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025307/",
+      "name": "吉恩·罗登贝瑞 Gene Roddenberry"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2023-06-09",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ca\u609a", "\u5192\u9669"],
+  "duration": "",
+  "description": "昆汀·塔伦蒂诺已退出《星际迷航》电影计划。
+据悉，该项目由马克·L·史密斯编写剧本，以ST TOS系列中某一集为蓝本，将会是一个涉及黑帮元素且发生在地面上的故事。此前，昆汀被视为指导该项目的最佳人选。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

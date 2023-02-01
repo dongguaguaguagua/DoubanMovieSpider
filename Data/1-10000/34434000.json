@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "末日拯救",
+  "url": "/subject/34434000/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2559897925.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326565/",
+      "name": "刘慈欣 Cixin Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037273/",
+      "name": "张家辉 Nick Cheung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032540/",
+      "name": "胡军 Jun Hu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "《末日拯救》剧本创作于长篇小说《三体》之前，是刘慈欣科幻体系的奠基石。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

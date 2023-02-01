@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "太空2049",
+  "url": "/subject/30403239/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542577696.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037706/",
+      "name": "吕良伟 Ray Lui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318516/",
+      "name": "姚星彤 Xingtong Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336802/",
+      "name": "克拉拉 Clara Lee"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "《太空2049》讲述在2049年，新型载人宇宙飞船“凤凰号”发射，开启人类太空移民计划。在星际航行的过程中，“凤凰号”遭遇虫洞消失，参与飞船研制的教授钟兴国集结各国航天人展开了一场太空救援行动。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

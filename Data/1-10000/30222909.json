@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血花2 Flowers 02",
+  "url": "/subject/30222909/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522193965.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434704/",
+      "name": "Phil Stevens Phil Stevens"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434704/",
+      "name": "Phil Stevens Phil Stevens"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434704/",
+      "name": "Phil Stevens Phil Stevens"
+    }
+  ]
+,
+  "datePublished": "2020-02-28",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "万夫莫敌 Invincible",
+  "url": "/subject/30370157/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2539065072.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448887/",
+      "name": "丹尼尔·齐里利 Daniel Zirilli"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320862/",
+      "name": "强尼·斯特朗 Johnny Strong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320862/",
+      "name": "强尼·斯特朗 Johnny Strong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018111/",
+      "name": "马克·扎罗 Marko Zaror"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1103103/",
+      "name": "保罗·肯尼迪 Paul Kennedy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1111672/",
+      "name": "弗拉基米尔库利奇 Vladimir Kulich"
+    }
+  ]
+,
+  "datePublished": "2020-07-04",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "Colonel John Taylor enlists billionaire inventor Leor Teska to fund a secret black site, testing Tes...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

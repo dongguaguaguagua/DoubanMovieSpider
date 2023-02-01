@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐惧之框3 Frames of Fear 3",
+  "url": "/subject/34454000/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2580002409.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1207498/",
+      "name": "Matt Watts Matt Watts"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187190/",
+      "name": "Todd Martin Todd Martin"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2020-03-19",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "忠爱无言2",
+  "url": "/subject/30122622/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545295126.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373927/",
+      "name": "谈宜之 Yizhi Tan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373927/",
+      "name": "谈宜之 Yizhi Tan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380716/",
+      "name": "张浩庭 Haoting Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312856/",
+      "name": "金巧巧 Qiaoqiao Jin"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H35M",
+  "description": "齐小福是一名自闭症儿童，父母为此婚姻也将走到尽头。一天齐小福意外邂逅一只流浪犬，一个来自星星的孩子和一条同样命运坎坷的流浪犬，由相互恐惧、排斥到慢慢走近，直到相互依赖、形影不离。被迫分离后流浪犬在茫茫...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

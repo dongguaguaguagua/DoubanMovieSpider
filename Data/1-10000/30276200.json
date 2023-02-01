@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "淘气小兵兵 Rugrats",
+  "url": "/subject/30276200/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279093/",
+      "name": "大卫·博维斯 David Bowers"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027643/",
+      "name": "嘉柏·丘波 Gabor Csupo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019708/",
+      "name": "保罗·杰曼 Paul Germain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328556/",
+      "name": "David A. Goodman David A. Goodman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1288672/",
+      "name": "Arlene Klasky Arlene Klasky"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u52a8\u753b", "\u5bb6\u5ead", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "“淘气小兵兵”将再登大银幕、小荧屏。Paramount Players将拍摄[淘气小兵兵]真人电影(真人与CGI相结合)，北美定档2020年11月13日；此外，尼克国际儿童频道已预订新版《淘气小兵兵》...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

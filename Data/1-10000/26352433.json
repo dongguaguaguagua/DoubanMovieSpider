@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "濠江奇侠",
+  "url": "/subject/26352433/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2234573254.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274331/",
+      "name": "王晶 Jing Wong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274331/",
+      "name": "王晶 Jing Wong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037273/",
+      "name": "张家辉 Nick Cheung"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "香港电影节王晶共有六部新作，除已经开机的由刘德华和黄晓明主演的《王牌对王牌》外，另外还包括《澳门奇侠》",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

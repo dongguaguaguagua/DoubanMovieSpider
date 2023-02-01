@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恋人们 Amants",
+  "url": "/subject/27124444/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2653474464.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1102414/",
+      "name": "妮可·加西亚 Nicole Garcia"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283690/",
+      "name": "雅克·菲耶斯基 Jacques Fieschi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1102414/",
+      "name": "妮可·加西亚 Nicole Garcia"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314577/",
+      "name": "皮埃尔·尼内 Pierre Niney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334729/",
+      "name": "斯塔西·马汀 Stacy Martin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045113/",
+      "name": "伯努瓦·马吉梅尔 Benoît Magimel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328935/",
+      "name": "罗珊妮·杜兰 Roxane Duran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474467/",
+      "name": "克里斯托弗·蒙特内兹 Christophe Montenez"
+    }
+  ]
+,
+  "datePublished": "2020-09-03",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "妮可·加西亚([石之痛])执导的新片[丽莎·雷德勒](Lisa Redler，暂译)首释剧照。本片由皮埃尔·尼内([弗兰兹])、斯塔西·马汀([女性瘾者])、伯努瓦·马吉梅尔([钢琴教师])主演。加西...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "213",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

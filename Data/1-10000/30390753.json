@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鲨机年华 Los tiburones",
+  "url": "/subject/30390753/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2565224424.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410421/",
+      "name": "露西亚·加里波第 Lucía Garibaldi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410421/",
+      "name": "露西亚·加里波第 Lucía Garibaldi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335497/",
+      "name": "法比安·阿雷尼利亚斯 Fabián Arenillas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357936/",
+      "name": "瓦莱里娅·洛伊丝 Valeria Lois"
+    }
+  ]
+,
+  "datePublished": "2019-01-28",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "While a rumor about the presence of sharks in a small beach town distracts residents, 14-year-old Ro...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

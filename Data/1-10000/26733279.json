@@ -1,0 +1,55 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "风云",
+  "url": "/subject/26733279/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2551119136.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322144/",
+      "name": "马荣成 Wing Shing Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304551/",
+      "name": "李子俊 Jonathan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335186/",
+      "name": "李光耀 David Lee Kwong-Yiu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027577/",
+      "name": "古天乐 Louis Koo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "",
+  "description": "古天乐投拍《风云》系列第三部《风云天下III之断浪》，该片将由叶伟信执导，男主角“断浪”暂定由古天乐本人主演，预计在今年暑期开拍。
+《风云》系列将开拍第三部
+时光网讯 从如今中国电影圈迷信IP的逻辑来...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

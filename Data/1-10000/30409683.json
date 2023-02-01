@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "薄暮之间 Sutemose",
+  "url": "/subject/30409683/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2616541152.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023215/",
+      "name": "沙鲁纳斯·巴塔斯 Sharunas Bartas"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023215/",
+      "name": "沙鲁纳斯·巴塔斯 Sharunas Bartas"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-11-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H6M",
+  "description": "Eurimages宣布將補助Sharunas Bartas新片(In the Dusk) 250,000歐元，聯合製作的公司包括Kinoelektron、Film Studio Mistrus Med...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "傻傻爱你，傻傻爱我 傻傻愛你，傻傻愛我",
+  "url": "/subject/30209026/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2572137885.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275624/",
+      "name": "蓝正龙 Ching-Lung Lan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316646/",
+      "name": "徐誉庭 Mag Hsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416606/",
+      "name": "吴俊佑 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416607/",
+      "name": "李婉榕 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313616/",
+      "name": "郭书瑶 Shu-yau Kuo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358964/",
+      "name": "陈竹昇 Chu-sheng Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346291/",
+      "name": "张庭瑚 Ting-hu Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006142/",
+      "name": "恬妞 Niu Tien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362161/",
+      "name": "莫爱芳 Ai-fang Mo"
+    }
+  ]
+,
+  "datePublished": "2019-07-06",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H35M",
+  "description": "唐氏症患者小維，誤以為援交女孩小藍如同他最愛的繪本主角一樣，是從海裡出現的美人魚，對小藍產生了特殊的情愫，在因緣際會下兩個截然不同的生命有了交集，互相守護關心的溫暖故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "302",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

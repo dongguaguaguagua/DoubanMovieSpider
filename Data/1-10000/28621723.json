@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阴影一号 Cloud One",
+  "url": "/subject/28621723/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302960/",
+      "name": "葛兰·杜奇克 Goran Dukic"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302960/",
+      "name": "葛兰·杜奇克 Goran Dukic"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "蕾切尔·薇姿将主演科幻新片《阴影一号》(Cloud One)，《割腕者的天堂》导演Goran Dukic执导并编写剧本，剧情细节未透露。Bristol Automotive制片，今春开拍。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

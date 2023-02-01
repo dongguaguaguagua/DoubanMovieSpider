@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑洞 The Black Hole",
+  "url": "/subject/4191590/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313149/",
+      "name": "约瑟夫·科辛斯基 Joseph Kosinski"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324943/",
+      "name": "特拉维斯·比彻姆 Travis Beacham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320120/",
+      "name": "乔·斯派茨 Jon Spaihts"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "A &#34;reimagining&#34; of the 1979 sci-fi film about a crew that finds a lost ship inside a black hole.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

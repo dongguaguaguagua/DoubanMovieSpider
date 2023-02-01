@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "噩梦实验 Рассвет",
+  "url": "/subject/30366619/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545934022.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000376/",
+      "name": "奥莎娜·阿金什那 Oksana Akinshina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358161/",
+      "name": "彼得·斯科沃尔佐夫 Pyotr Skvortsov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349823/",
+      "name": "奥列格·瓦西里科夫 Oleg Vasilkov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358196/",
+      "name": "Anna Slyu Anna Slyu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410256/",
+      "name": "亚历珊德拉·德罗兹多娃 Alexandra Drozdova"
+    }
+  ]
+,
+  "datePublished": "2019-01-31",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H34M",
+  "description": "In the main character, under mysterious circumstances, the brother dies. The girl begins to pursue r...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

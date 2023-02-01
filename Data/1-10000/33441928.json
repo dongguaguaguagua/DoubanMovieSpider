@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伏虎武松",
+  "url": "/subject/33441928/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2602103954.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399464/",
+      "name": "崔炎龙 Channel Choi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399464/",
+      "name": "崔炎龙 Channel Choi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344144/",
+      "name": "袁福福 Fufu Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411267/",
+      "name": "张亚奇 Yaqi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436559/",
+      "name": "吕宇 Yu Lv"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360611/",
+      "name": "闫佳颖 Jiaying Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452417/",
+      "name": "齐尔洛 Erluo Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1471149/",
+      "name": "杜长安 Chang&#39;an Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1479048/",
+      "name": "朱翔 Xiang Zhu"
+    }
+  ]
+,
+  "datePublished": "2020-05-08",
+  "genre": ["\u52a8\u4f5c", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H36M",
+  "description": "北宋年间，景阳冈上猛虎屡屡伤人，导致谣言四起民心飘摇。在这人人自危的时刻，辽人萧赞更是以此为由头，指挥江湖恶人借机生事，为所欲为。路经此地的武松被卷入乱世纷争，路见不平一声吼，哪怕前路危机重重，武松也...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2602",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

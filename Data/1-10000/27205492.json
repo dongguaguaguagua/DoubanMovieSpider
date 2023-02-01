@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "追拳",
+  "url": "/subject/27205492/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2612340109.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359745/",
+      "name": "朴成镇 Chengzhen Piao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391982/",
+      "name": "萧子墨 Eric Hsiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328842/",
+      "name": "吴昱瑶 Yuyao Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336052/",
+      "name": "李振宇 Zhenyu Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352321/",
+      "name": "荣梓杉 Zishan Rong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455366/",
+      "name": "石欧 Ou Shi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H31M",
+  "description": "《追拳》是一个当下年轻观众喜欢的题材，集合了励志体育、热血动作、青春成长以及浪漫爱情等多个看点元素。讲述一个最美的南国小城三都水族的年轻拳手潘杰（萧传勲 饰演）经历成长后重回拳坛，找回打拳意义的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

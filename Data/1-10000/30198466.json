@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "克里斯蒂·马丁 Christy Martin",
+  "url": "/subject/30198466/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009667/",
+      "name": "凯瑟琳·富盖特 Katherine Fugate"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009667/",
+      "name": "凯瑟琳·富盖特 Katherine Fugate"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u4f20\u8bb0"],
+  "duration": "",
+  "description": "艾米·舒莫商谈主演新片《克里斯蒂·马丁》(Christy Martin)，饰演传奇拳击手克里斯蒂·马丁， Katherine Fugate(《情人节》《军嫂》)自编自导。克里斯蒂原名克里斯蒂·索尔特斯...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

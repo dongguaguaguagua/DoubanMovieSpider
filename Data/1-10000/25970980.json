@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "清枫传奇",
+  "url": "/subject/25970980/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549171364.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322950/",
+      "name": "李慧珠 Wai Chu Lee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314003/",
+      "name": "于正 Zheng Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339589/",
+      "name": "古训超 Xunchao Gu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316004/",
+      "name": "贾青 Qing Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316819/",
+      "name": "蒋依依 Yiyi Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275430/",
+      "name": "戴娇倩 Shirley Dai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318919/",
+      "name": "王艺曈 Yitong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318863/",
+      "name": "杨净如 Jingru Yang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5", "\u53e4\u88c5"],
+  "duration": "PT1H30M",
+  "description": "《清枫传奇》是由著名导演李慧珠执导的一部古装励志言情电影，由朱一龙、杨净如、戴娇倩、贾青主演，Angelababy、赵丽颖、陈晓、蒋依依、张丹峰等客串。影片改编自古训超原著小说《清枫传奇（后宫心晴）》...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

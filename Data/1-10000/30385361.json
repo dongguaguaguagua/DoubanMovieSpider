@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "少女佳禾",
+  "url": "/subject/30385361/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2627779454.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405441/",
+      "name": "周笋 Sun Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405441/",
+      "name": "周笋 Sun Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369977/",
+      "name": "邓恩熙 Enxi Deng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352755/",
+      "name": "李感 Gan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301327/",
+      "name": "吴国华 Guohua Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428740/",
+      "name": "李依宸 Yichen Li"
+    }
+  ]
+,
+  "datePublished": "2019-10-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "两年前，母亲（李娟 饰）的意外遇害，令李佳禾（邓恩熙 饰）的生活彻底“黑暗”起来。面对同学的霸凌和懦弱的父亲（吴国华 饰），少女佳禾逐渐养成了有仇必报的刚硬性格。一次车祸，她撞见了在工读学校表现良好而...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4420",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

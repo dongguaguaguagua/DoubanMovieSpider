@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Little Kids: Movie",
+  "url": "/subject/34453655/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561434266.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022678/",
+      "name": "李·昂克里奇 Lee Unkrich"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1085361/",
+      "name": "黛比·德里贝里 Debi Derryberry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078960/",
+      "name": "塔拉·斯特朗 Tara Strong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076372/",
+      "name": "弗兰·布里尔 Fran Brill"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u513f\u7ae5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

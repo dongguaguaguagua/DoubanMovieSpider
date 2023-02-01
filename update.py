@@ -38,6 +38,8 @@ def update_data(soup):
         year=tmp[0]
 
     info=soup.find(id="info")
+    if(info==None):
+        return "failed"
     # 电影名称
     if(soup.findAll(property="v:itemreviewed")!=[]):
         name=soup.findAll(property="v:itemreviewed")[0].text.replace(",",";")
@@ -121,8 +123,8 @@ def get_qg_proxy(choice='http'):
     if(ip_data['Code']==0):
         print("获取ip成功")
         proxyAddr=ip_data['Data'][0]['host']
-        Authkey="CEBC9918"
-        Authpwd="B24AE2729C9B"
+        Authkey="BFF94083"
+        Authpwd="0CD0D3A4C39E"
 
         proxyMeta = "http://%(user)s:%(password)s@%(server)s" % {
             "user" : Authkey,
@@ -163,57 +165,52 @@ def get_zm_proxy(choice='http'):
     ip_data = response.json()
     if(ip_data['code']==0):
         print("获取ip成功")
+        if(ip_data['code']==0):
+            print("获取ip成功")
+            #每次读取10条记录对比，芝麻ip每日免费20个
+            global excellent_ip
+            global excellent_ip_port
+            new_data=ip_data
+            member = []
+            #建立数据入口
+            date1 = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            d1 = datetime.datetime.strptime(date1, '%Y-%m-%d %H:%M:%S')
+            for geshu, val1 in enumerate(ip_data['data']):
+                #获得ip个数geshu
+                # print(new_data['data'][geshu])
+               # 将每个时间转换为时间戳加入新数组
+                new_time=new_data['data'][geshu]['expire_time']
+                d2 =datetime.datetime.strptime(new_time, '%Y-%m-%d %H:%M:%S')
+                d = d2-d1
+                sec= format(d.seconds);#获取秒数
+                sec=int(sec)
+                member.append(sec)
 
-    # url选择json
-    headers = {}
-    response = requests.post(url, headers=headers)
-    ip_data = response.json()
-    if(ip_data['code']==0):
-        print("获取ip成功")
-        #每次读取10条记录对比，芝麻ip每日免费20个
-        global excellent_ip
-        global excellent_ip_port
-        new_data=ip_data
-        member = []
-        #建立数据入口
-        date1 = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        d1 = datetime.datetime.strptime(date1, '%Y-%m-%d %H:%M:%S')
-        for geshu, val1 in enumerate(ip_data['data']):
-            #获得ip个数geshu
-            # print(new_data['data'][geshu])
-           # 将每个时间转换为时间戳加入新数组
-            new_time=new_data['data'][geshu]['expire_time']
-            d2 =datetime.datetime.strptime(new_time, '%Y-%m-%d %H:%M:%S')
-            d = d2-d1
-            sec= format(d.seconds);#获取秒数
-            sec=int(sec)
-            member.append(sec)
+            # 冒泡排序
+            member.sort(reverse=True)
+            #对比得到该时间的ip
+            for geshu2, val2 in enumerate(ip_data['data']):
+                #获得ip个数geshu
+                new_time2=new_data['data'][geshu2]['expire_time']
+                d2 =datetime.datetime.strptime(new_time2, '%Y-%m-%d %H:%M:%S')
+                d = d2-d1
+                #减去固定的时间点
+                sec= format(d.seconds);#获取秒数
+                sec=int(sec)
+                if(sec==member[0]):
+                    excellent_ip=new_data['data'][geshu2]['ip']
+                    excellent_ip_port=new_data['data'][geshu2]['port']
 
-        # 冒泡排序
-        member.sort(reverse=True)
-        #对比得到该时间的ip
-        for geshu2, val2 in enumerate(ip_data['data']):
-            #获得ip个数geshu
-            new_time2=new_data['data'][geshu2]['expire_time']
-            d2 =datetime.datetime.strptime(new_time2, '%Y-%m-%d %H:%M:%S')
-            d = d2-d1
-            #减去固定的时间点
-            sec= format(d.seconds);#获取秒数
-            sec=int(sec)
-            if(sec==member[0]):
-                excellent_ip=new_data['data'][geshu2]['ip']
-                excellent_ip_port=new_data['data'][geshu2]['port']
-
-        proxyMeta = "http://%(host)s:%(port)s" % {
-            "host" : excellent_ip,
-            "port" : excellent_ip_port,
-        }
-        proxies = {
-            "http"  : proxyMeta,
-            "https"  : proxyMeta
-        }
-        print(excellent_ip,excellent_ip_port)
-        return proxies
+            proxyMeta = "http://%(host)s:%(port)s" % {
+                "host" : excellent_ip,
+                "port" : excellent_ip_port,
+            }
+            proxies = {
+                "http"  : proxyMeta,
+                "https"  : proxyMeta
+            }
+            print(excellent_ip,excellent_ip_port)
+            return proxies
 
     elif(ip_data['code']==116):
         print("获取ip失败,今日套餐已用完");

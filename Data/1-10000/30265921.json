@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Untitled Chinatown Project",
+  "url": "/subject/30265921/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362676/",
+      "name": "游朝敏 Kelvin Yu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "东方梦工厂首席创意官周珮铃宣布东方梦工厂正式任命黄政为公司项目开发负责人，他将负责监督现有十数个项目的开发进度、充实项目内容并且带领团队继续开发更多原创作品，为东方梦工厂构建一个包罗大量多元化原创作品...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

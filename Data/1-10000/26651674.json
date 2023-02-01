@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "警察故事2022",
+  "url": "/subject/26651674/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614382508.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324053/",
+      "name": "张立嘉 Leo Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327320/",
+      "name": "夏侯云姗 Qiyu Xiahou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054531/",
+      "name": "成龙 Jackie Chan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "成龙大哥谈到今日的电影成就时，特地强调了《警察故事2013》中“文戏”的重要性，“我一直都在做新的尝试”。做为一个老牌英雄，从动作戏起家的成龙大哥希望自己的电影生涯永远延续下去，“从动作戏到文戏的转变...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

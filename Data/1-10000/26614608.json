@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "两次 Twice",
+  "url": "/subject/26614608/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009703/",
+      "name": "让-弗朗索瓦·雷切 Jean-François Richet"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327536/",
+      "name": "凯特琳·贝内迪克特 Katrin Benedikt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031876/",
+      "name": "吕克·贝松 Luc Besson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327535/",
+      "name": "克赖顿·罗森博格 Creighton Rothenberger"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "一个妻子在家里发现了一个军械库，她知道她结婚20年的丈夫并不是她想象中的那个人。事实上，她怀疑他是否真的是她的丈夫。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

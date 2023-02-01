@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大漠追凶",
+  "url": "/subject/30371781/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2557134613.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435893/",
+      "name": "玄子 xuanzi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404122/",
+      "name": "李江 Jiang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364456/",
+      "name": "程镇 Zhen Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366675/",
+      "name": "段富超 Fuchao Duan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441890/",
+      "name": "阳知 Zhi Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382486/",
+      "name": "刘硕 Shuo Liu"
+    }
+  ]
+,
+  "datePublished": "2019-05-28",
+  "genre": ["\u60ac\u7591", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H41M",
+  "description": "一起离奇的夜明珠被劫案，使得大侠余青峰蒙受不白之冤。在捕头王的5日之期下，余青峰和偶遇的小女孩踏上了寻找真相的路途。不论是嫉恶如仇的捕头王，还是朝廷派来的锦衣卫李恭海，还是疑似真凶的悍匪头子。在大侠，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

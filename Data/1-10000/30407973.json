@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大阪小姐 Miss Osaka",
+  "url": "/subject/30407973/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2617753604.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282238/",
+      "name": "丹尼尔·丹席克 Daniel Dencik"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282238/",
+      "name": "丹尼尔·丹席克 Daniel Dencik"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477182/",
+      "name": "萨拉·伊莎贝拉·詹森·韦德 Sara Isabella Jønsson Vedde"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391626/",
+      "name": "维多利亚·卡门·索内 Victoria Carmen Sonne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024080/",
+      "name": "森山未来 Mirai Moriyama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1233205/",
+      "name": "米克尔·福尔斯加德 Mikkel Følsgaard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005233/",
+      "name": "南果步 Kaho Minami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313195/",
+      "name": "阿部纯子 Abe Junko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1471266/",
+      "name": "森本渚 Nagisa Morimoto "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252785/",
+      "name": "佐藤乃莉 Nori Sato"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1479629/",
+      "name": " Annie the Clumsy "
+    }
+  ]
+,
+  "datePublished": "2021-09-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "A stranger die in the wilderness. An opportunity presents itself. The aim is to investigate modern h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

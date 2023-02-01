@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "看门狗 Watch Dogs",
+  "url": "/subject/25707511/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2534536642.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351533/",
+      "name": "乔纳森·赫尔曼 Jonathan Herman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404897/",
+      "name": "肖恩·欧奇夫 Sean O&#39;Keefe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327381/",
+      "name": "保罗·韦尼克 Paul Wernick"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049489/",
+      "name": "汤姆·哈迪 Tom Hardy"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "据国外网站报道，UBI已经取得了多项《看门狗》的电影网址注册，而最近游戏的官方推特也举办投票请大家选出理想的男主角人选，似乎好莱坞电影化已经确定。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

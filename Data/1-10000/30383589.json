@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Sinkhole 2",
+  "url": "/subject/30383589/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540489478.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036928/",
+      "name": "艾德亚多·桑奇兹 Eduardo Sánchez"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037611/",
+      "name": "杰米·纳什 Jamie Nash"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036928/",
+      "name": "艾德亚多·桑奇兹 Eduardo Sánchez"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004510/",
+      "name": "马特·索维托 Matt Servitto"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "A small town is attacked without warning by Sinkholes that seem alive, sucking terrorized folk into ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

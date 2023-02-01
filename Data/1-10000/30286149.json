@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "郊游",
+  "url": "/subject/30286149/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2529386285.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398267/",
+      "name": "林硕原 Shuoyuan Lin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398267/",
+      "name": "林硕原 Shuoyuan Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398572/",
+      "name": "刘琦 Mulligan liu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H30M",
+  "description": "少年李念在长江边无所事事的游荡中，结识了女孩万辛，两人维持着若即若离的情侣关系，一同消耗着漫长无聊的假期。直到一次集体郊游后，女孩万辛神秘失踪。李念偶遇了当日一同出游的男孩吴浩，不自觉地开始了对吴浩的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

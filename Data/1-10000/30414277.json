@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "葛丽泰 Greta",
+  "url": "/subject/30414277/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2558701992.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425617/",
+      "name": "阿曼多·普拉查 Armando Praça"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425617/",
+      "name": "阿曼多·普拉查 Armando Praça"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019731/",
+      "name": "马尔库·纳尼尼 Marco Nanini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165006/",
+      "name": "黛丽丝·韦恩伯格 Denise Weinberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427940/",
+      "name": "格蕾塔·斯达 Gretta Star"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427943/",
+      "name": "戴弥克·洛佩斯 Demick Lopes"
+    }
+  ]
+,
+  "datePublished": "2019-02-12",
+  "genre": ["\u540c\u6027"],
+  "duration": "PT1H37M",
+  "description": "巴西福塔莱萨的医院人满为患，70岁的佩德罗护士无法为患有肾衰竭的变性朋友丹妮拉找到床位。他毫不迟疑地把一个因涉嫌谋杀而被警察看守的受伤青年秘密带到自己的家里，并把他的病床交给了丹妮拉。尽管佩德罗是个年...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "171",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

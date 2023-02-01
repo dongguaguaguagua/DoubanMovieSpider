@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Black Antenna",
+  "url": "/subject/33455426/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335629/",
+      "name": "亚当·梅森 Adam Mason"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335629/",
+      "name": "亚当·梅森 Adam Mason"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000788/",
+      "name": "保罗·斯隆 Paul Sloan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050517/",
+      "name": "尼克·瓦莱隆加 Nick Vallelonga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1228545/",
+      "name": "迈克·哈顿 Mike Hatton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038191/",
+      "name": "达瑞·因戈尔夫松 Darri Ingolfsson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591"],
+  "duration": "",
+  "description": "Alpha and his daughter Beta drive across California in silence, speaking only telepathically. Along ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

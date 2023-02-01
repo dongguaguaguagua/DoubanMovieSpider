@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "树脂 Harpiks",
+  "url": "/subject/30394491/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2577394890.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328678/",
+      "name": "丹尼尔·博格曼 Daniel Borgman"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285991/",
+      "name": "博·艾哈德·汉森 Bo Hr. Hansen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1094057/",
+      "name": "苏菲·格拉宝 Sofie Gråbøl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366958/",
+      "name": "阿曼达·科林 Amanda Collin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1130520/",
+      "name": "格茜塔·诺比 Ghita Nørby"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334356/",
+      "name": "彼得·普劳格博格 Peter Plaugborg"
+    }
+  ]
+,
+  "datePublished": "2019-09-08",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H32M",
+  "description": "The dangerous paranoia lurking beneath the seemingly idyllic existence of a family of hermits living...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

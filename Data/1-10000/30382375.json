@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Akuma",
+  "url": "/subject/30382375/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356440/",
+      "name": "德翁·泰勒 Deon Taylor"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356440/",
+      "name": "德翁·泰勒 Deon Taylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000579/",
+      "name": "布赖恩·韦弗 Blayne Weaver"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1250747/",
+      "name": "海保映美璃 Emily Kaiho"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Akira, a young and attractive but emotionally damaged Japanese woman moves to the United States to e...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

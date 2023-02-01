@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夏末行舟",
+  "url": "/subject/34670299/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2563655337.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410936/",
+      "name": "刘潇阳 Xiaoyang Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420540/",
+      "name": "张笑影 Xiaoying Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u5bb6\u5ead"],
+  "duration": "PT1H30M",
+  "description": "第13届FIRST青年电影展电影市场入围计划。
+大一新生夏洲因为老屋乔迁回家帮忙，五口人终于可以搬出拥挤的房子，去迎接新的生活，这对全家人来说，都是天大的喜事。然而与此同时，夏洲所居住的弄堂忽然发生了...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

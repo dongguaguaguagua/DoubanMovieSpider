@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马耳“她” Made in Malta",
+  "url": "/subject/30206282/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2548709963.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421075/",
+      "name": "朱利安·盖利亚 Julian Galea"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421075/",
+      "name": "朱利安·盖利亚 Julian Galea"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380046/",
+      "name": "格雷格·奥迪诺 Greg Audino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319779/",
+      "name": "艾妮安娜·卡布罗尔 Ariadna Cabrol"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421075/",
+      "name": "朱利安·盖利亚 Julian Galea"
+    }
+  ]
+,
+  "datePublished": "2019-05-08",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H20M",
+  "description": "一位美国导演带着自己第一部长片来到了马耳他，遇见了五年前分手的西班牙女友。还相互爱着对方的两个人一边游览马耳他的美丽风光，一边为着不确定的恋人关系而苦恼……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "76",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

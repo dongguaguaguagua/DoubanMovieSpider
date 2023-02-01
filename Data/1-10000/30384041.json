@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Future TX",
+  "url": "/subject/30384041/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013036/",
+      "name": "Tim Clague Tim Clague"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013036/",
+      "name": "Tim Clague Tim Clague"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070690/",
+      "name": "道格·科克尔 Doug Cockle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041367/",
+      "name": "格里夫·林斯·琼斯 Griff Rhys Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390888/",
+      "name": "克里斯托斯·劳顿 Christos Lawton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287090/",
+      "name": "Kevin Hudson Kevin Hudson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5bb6\u5ead", "\u5192\u9669"],
+  "duration": "",
+  "description": "DYLAN and MOLLY are a couple of everyday twelve-year olds. When they get their first mobile phones, ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

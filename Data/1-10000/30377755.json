@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "平静冬日",
+  "url": "/subject/30377755/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2548858558.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408053/",
+      "name": "夏子 Natsuko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404369/",
+      "name": "孟彠 Yue Meng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404369/",
+      "name": "孟彠 Yue Meng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369873/",
+      "name": "李婧 Jing Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391235/",
+      "name": "王珞嘉 Luojia Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320989/",
+      "name": "杨骏 Jun Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383128/",
+      "name": "薛媛媛 Yuanyuan Xue"
+    }
+  ]
+,
+  "datePublished": "2019-04-27",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "生活中的不如意，事业上挫败感,让人到中年的朱玫感受不到美好的所在。迟小锁来自张北雪乡,他的善良淳朴感染了朱玫！雪乡的壮美景色让朱玫找回了曾经的自己。简陋的校舍里她重新拿起了久违的教鞭……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

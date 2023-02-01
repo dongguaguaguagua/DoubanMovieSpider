@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "金色韶华 Une jeunesse dorée",
+  "url": "/subject/27200842/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542748636.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012553/",
+      "name": "伊娃·爱洛尼斯科 Eva Ionesco"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012553/",
+      "name": "伊娃·爱洛尼斯科 Eva Ionesco"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054515/",
+      "name": "伊莎贝尔·于佩尔 Isabelle Huppert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384401/",
+      "name": "加拉泰亚·贝露琪 Galatéa Bellugi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004891/",
+      "name": "梅尔维尔·珀波 Melvil Poupaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384402/",
+      "name": "卢卡斯·爱洛尼斯科 Lukas Ionesco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1205500/",
+      "name": "小阿兰·德龙 Alain Delon Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393929/",
+      "name": "雨果·狄龙 Hugo Dillon"
+    }
+  ]
+,
+  "datePublished": "2019-01-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H58M",
+  "description": "伊莎贝尔·于佩尔再度携手[我的小公主]导演伊娃·爱洛尼斯科，出演新片[金色青春](Une jeunesse dorée，暂译)。该片讲述16岁女孩罗丝和未婚夫米歇尔在巴黎享受浪漫之旅，然而两人遇到的一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "459",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "围猎",
+  "url": "/subject/26738100/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274278/",
+      "name": "曹保平 Baoping Cao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276115/",
+      "name": "刘恒 Heng Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045565/",
+      "name": "陈道明 Daoming Chen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "#电影前列线#“2016上影出品”发布会在上海举行。上影集团发布近30个影视剧项目，包括陈道明主演的反腐大戏《围猎》等。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

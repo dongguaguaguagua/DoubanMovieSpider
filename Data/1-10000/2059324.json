@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "詹尼斯·乔普林 Janis",
+  "url": "/subject/2059324/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042287/",
+      "name": "Andrew Renzi Andrew Renzi"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "The Decline of Western Civilization director Penelope Spheeris teams with screenwriter David Dalton ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

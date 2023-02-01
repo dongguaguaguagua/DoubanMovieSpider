@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "梦寻巴厘岛",
+  "url": "/subject/26708989/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2314826526.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326417/",
+      "name": "刘俊辉 Chun Fai Lau"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321587/",
+      "name": "王智 Zhi Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1230764/",
+      "name": "姜至奂 Ji-Hwan Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275490/",
+      "name": "潘霜霜 Shuangshuang Pan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353281/",
+      "name": "傅传杰 Chuanjie Fu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1229775/",
+      "name": "陈国坤 Kwok-Kwan Chan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H40M",
+  "description": "《梦寻巴厘岛》是首部中国与印度尼西亚合作的冒险奇幻题材喜剧电影，由王智出演女一号梅小美，姜至奂出演男主角，讲述了单纯的“富家千金”梅小美在印尼海岛游玩时，遭遇了一系列意外从而失踪，其父亲派出“私人侦探...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

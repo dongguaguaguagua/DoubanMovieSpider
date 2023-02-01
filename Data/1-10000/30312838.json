@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "门户 Portal",
+  "url": "/subject/30312838/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2539831305.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277018/",
+      "name": "Dean Alioto Dean Alioto"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1221825/",
+      "name": " Peter Dukes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277018/",
+      "name": "Dean Alioto Dean Alioto"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000185/",
+      "name": "瑞恩·莫里曼 Ryan Merriman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163748/",
+      "name": "迈克·沃特福德 Myk Watford"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "当一个雄心勃勃的幽灵猎人进行危险的仪式时，打开通往“另一面”的门户时,他和他的团队迅速发现自己陷入困境，为与古老的恶魔力量生存而战。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

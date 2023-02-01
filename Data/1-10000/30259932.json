@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "费思 Faith",
+  "url": "/subject/30259932/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1251956/",
+      "name": " Dave Lapham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408263/",
+      "name": "玛丽亚·梅尔尼克 Maria Melnik"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416740/",
+      "name": "吉姆·史哈特尔 Jim Shooter"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "Faith Herbert, a jubilant, geeky teen who also has telekinetic superpowers.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

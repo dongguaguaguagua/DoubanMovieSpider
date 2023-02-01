@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狮子窝 The Mother the Son the Rat and the Gun",
+  "url": "/subject/30203413/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2871348809.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003621/",
+      "name": "弗莱彻.马克尔 Fletcher Markle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027985/",
+      "name": "莱奥·麦卡雷 Leo McCarey"
+    }
+  ]
+,
+  "datePublished": "2021-10-04",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "Gun-toting gangsters, lawless lawyers and backstabbing bastards. There&#39;s a family in the middle, and...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

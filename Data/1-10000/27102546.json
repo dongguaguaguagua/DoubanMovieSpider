@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "错会半生 Lara",
+  "url": "/subject/27102546/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2562806727.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329233/",
+      "name": "扬-奥勒·格斯特 Jan-Ole Gerster"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329233/",
+      "name": "扬-奥勒·格斯特 Jan-Ole Gerster"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028004/",
+      "name": "科琳娜·哈弗奇 Corinna Harfouch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005071/",
+      "name": "汤姆·希林 Tom Schilling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1232010/",
+      "name": "希尔德加德·斯罗德 Hildegard Schroedter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074219/",
+      "name": "苏珊娜·布雷德霍夫特 Susanne Bredehöft"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110800/",
+      "name": "斯特芬·金斯 Steffen Jürgens"
+    }
+  ]
+,
+  "datePublished": "2019-06-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H36M",
+  "description": "拉娜（科琳娜·哈弗奇 Corinna Harfouch 饰）是一位拥有杰出天赋的天才钢琴手，在这一领域里有着无量的前途，然而，为了爱情，拉娜放弃了自己的事业，选择金盆洗手在家安心的相夫教子。本以为自己...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3020",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

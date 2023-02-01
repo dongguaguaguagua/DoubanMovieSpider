@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "京剧猫：霸王折",
+  "url": "/subject/30325054/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537825587.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439143/",
+      "name": "谢筱禹 Axcel"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328707/",
+      "name": "杨鸥 Ou Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325719/",
+      "name": "李正翔 Zhengxiang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330933/",
+      "name": "孟祥龙 Xianglong Meng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332379/",
+      "name": "王晓彤 Xiaotong Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b", "\u5192\u9669"],
+  "duration": "",
+  "description": "很久以前，有一个猫的国度，叫猫土。猫土弥漫着混沌，猫吸入混沌就会变成魔物，破坏和吞噬一切。传说只有京剧猫能对抗魔物，敲响元初锣，拯救猫土。
+几百年后，四位初出茅庐的京剧猫白糖、武崧、小青、大飞，误闯入...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

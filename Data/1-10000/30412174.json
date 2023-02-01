@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "孤城十少",
+  "url": "/subject/30412174/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543555654.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335111/",
+      "name": "胡阳 Yang Hu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315440/",
+      "name": "黄一山 Gabriel Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331124/",
+      "name": "朱铁和 Tiet Wo Chu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481676/",
+      "name": "李婉菲 Wanfei Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H5M",
+  "description": "该剧以明朝末期为背景，阉党乱政，魏忠贤为了巩固自己的地位，使用各种手段刺杀朝廷忠臣，追杀忠良之后，少林寺高僧法号“云海”为保全忠义之后，秘密遣送孩子们到深山古刹之中，化名普通人，并教他们勤加苦练武学，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

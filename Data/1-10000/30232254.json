@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "镖人",
+  "url": "/subject/30232254/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2616534581.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401667/",
+      "name": "许先哲 Xianzhe Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u52a8\u753b"],
+  "duration": "",
+  "description": "腾讯视频动漫年度发布会公布，《镖人》正式动画化，腾讯视频出品，彩色铅笔动画制作",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

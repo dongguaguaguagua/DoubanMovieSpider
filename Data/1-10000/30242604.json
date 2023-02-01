@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Wake of Light",
+  "url": "/subject/30242604/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2524241675.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223013/",
+      "name": "宝拉·罗兹 Paula Rhodes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1200716/",
+      "name": "马特·布什 Matt Bush"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257609/",
+      "name": "Tyler Steelman Tyler Steelman"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H25M",
+  "description": "A young woman caring for her aging father meets a charismatic young man on a cross country road trip...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "太空群落",
+  "url": "/subject/30402063/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2678214281.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445803/",
+      "name": "卢劲涛 Jintao Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370269/",
+      "name": "张大尉 Dave Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445804/",
+      "name": "刘拉举 Laju Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445805/",
+      "name": "李宥言 Youyan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445806/",
+      "name": "丁冬 Dong Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445803/",
+      "name": "卢劲涛 Jintao Lu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350929/",
+      "name": "阮圣文 Shengwen Ruan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324961/",
+      "name": "伍姣 Jiao Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327119/",
+      "name": "夏望 Wang Xia"
+    }
+  ]
+,
+  "datePublished": "2021-08-31",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H3M",
+  "description": "地球航天基地捕捉到一组神秘的信号，科学家认为信号来自宇宙其他的文明。为探寻外星文明，舰长“原”驾驶着星际飞船——深空号，带领全船93名船员和智能机器人“柒”驶向宇宙，踏上星辰征途。但不久后，飞船神秘失...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4870",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

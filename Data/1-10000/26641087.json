@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超能少年事件",
+  "url": "/subject/26641087/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2292312230.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401868/",
+      "name": "蔡洙应 Chuck Chae"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315268/",
+      "name": "瞿澳晖 Aohui Qu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397716/",
+      "name": "董成明 Chengming Dong"
+    }
+  ]
+,
+  "datePublished": "2019-06-30",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H22M",
+  "description": "电影《超能少年事件》讲述一群在无意之中获得超能力的年轻人，在自身发生改变之后，生活中所经历的故事。为让观众更加真实的感受到下这些“来之不易”的超能力，影片以更加真实的拍摄手法，来增强电影特效镜头代入感...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

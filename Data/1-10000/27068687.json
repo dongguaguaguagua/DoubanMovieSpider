@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "道格 Dock",
+  "url": "/subject/27068687/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347801/",
+      "name": "小奥谢拉·杰克逊 O&#39;Shea Jackson Jr."
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u8fd0\u52a8"],
+  "duration": "",
+  "description": "[冲出康普顿]男星小奥谢拉·杰克逊将出演讲述MLB投手道格·埃利斯的未命名传记片。大卫·佩穆特([血战钢锯岭])、杰克逊的父亲艾斯·库珀任制片。道格·埃利斯的棒球职业生涯共12年，有9年担任匹兹堡海盗...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

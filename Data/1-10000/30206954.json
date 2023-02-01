@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "消失的王子 Le Prince Oublié",
+  "url": "/subject/30206954/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575177219.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286302/",
+      "name": "米歇尔·阿扎纳维西于斯 Michel Hazanavicius"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351828/",
+      "name": "诺亚·德勃雷 Noé Debré"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286302/",
+      "name": "米歇尔·阿扎纳维西于斯 Michel Hazanavicius"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1220507/",
+      "name": "奥玛·希 Omar Sy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009461/",
+      "name": "贝热尼丝·贝乔 Bérénice Bejo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338355/",
+      "name": "弗朗索瓦·达密安 François Damiens"
+    }
+  ]
+,
+  "datePublished": "2020-02-12",
+  "genre": ["\u559c\u5267", "\u5bb6\u5ead", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "米歇尔·阿扎纳维西于斯([艺术家])新片[消失的王子](The Lost Prince，暂译)，由奥玛·希、贝热尼丝·贝乔主演。故事围绕父亲Djibi展开，他告诉7岁女儿索菲亚一个名为“童话世界”的奇...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "177",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

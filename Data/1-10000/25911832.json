@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "应许之日",
+  "url": "/subject/25911832/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2536534999.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1106520/",
+      "name": "金泰勇 Tae-Yong Kim"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350121/",
+      "name": "辛夷坞 Yiwu Xin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052359/",
+      "name": "杨幂 Mi Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344500/",
+      "name": "刘畅 Chang Liu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "封澜，大龄优秀女汉子一枚，相处4年的初恋男友跟别人结婚了；各方面条件都很好的一哥们，她又觉得太熟下不了手；更衰的是，自家餐厅里一个来历不明的帅气服务员丁小野，竟然也拒绝了她。她对此表示严重不服……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

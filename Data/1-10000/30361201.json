@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "丹尼尔 Ser du månen, Daniel",
+  "url": "/subject/30361201/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2570974743.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000305/",
+      "name": "涅尔斯·阿登·欧普勒夫 Niels Arden Oplev"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000506/",
+      "name": "安诺斯·托马斯·延森 Anders Thomas Jensen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1206413/",
+      "name": "埃斯本·司米德·詹森 Esben Smed Jensen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010533/",
+      "name": "托比·凯贝尔 Toby Kebbell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028266/",
+      "name": "安德斯·帕瑟森 Anders W. Berthelsen"
+    }
+  ]
+,
+  "datePublished": "2019-08-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H18M",
+  "description": "托比·凯贝尔加盟新片[丹尼尔](Daniel，暂译)，导演涅尔斯·阿登·欧普勒夫([龙纹身的女孩])。影片改编自真实事件，故事讲述2013年丹麦摄影师丹尼尔·雷伊(埃斯本·司米德饰)、记者詹姆斯·怀特...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

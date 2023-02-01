@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "未定名侠盗骑兵电影 Untitled Rogue Trooper Movie",
+  "url": "/subject/30275012/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018030/",
+      "name": "邓肯·琼斯 Duncan Jones"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001198/",
+      "name": "戴夫·吉布森 Dave Gibbons"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "邓肯·琼斯将要执导漫画《侠盗骑兵》(Rogue Trooper)改编影片，该漫画由戴夫·吉布森(《守望者》)与格里·芬利-戴(Gerry Finley-Day)共同创作，《侠盗骑兵》是世界上最伟大和最...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

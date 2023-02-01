@@ -1,0 +1,148 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "特斯拉 Tesla",
+  "url": "/subject/26684264/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614169149.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000737/",
+      "name": "迈克尔·阿尔梅雷伊达 Michael Almereyda"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000737/",
+      "name": "迈克尔·阿尔梅雷伊达 Michael Almereyda"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018984/",
+      "name": "伊桑·霍克 Ethan Hawke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236911/",
+      "name": "伊芙·休森 Eve Hewson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031874/",
+      "name": "凯尔·麦克拉克伦 Kyle MacLachlan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1259304/",
+      "name": "汉娜·格罗斯 Hannah Gross"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1098942/",
+      "name": "约什·汉密尔顿 Josh Hamilton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1151084/",
+      "name": "罗伊丝·史密斯 Lois Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1137089/",
+      "name": "艾邦·摩斯-巴克拉赫 Ebon Moss-Bachrach"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009467/",
+      "name": "吉姆·加菲根 Jim Gaffigan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319095/",
+      "name": "露西·沃特斯 Lucy Walters"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1159883/",
+      "name": "詹姆斯·乌尔班尼亚克 James Urbaniak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1216455/",
+      "name": "唐尼·科沙瓦茨 Donnie Keshawarz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327513/",
+      "name": "丽贝卡·达扬 Rebecca Dayan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354515/",
+      "name": "约翰·帕拉迪诺 John Palladino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050142/",
+      "name": "文森·德·保罗 Vincent De Paul"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1084803/",
+      "name": "汤姆·法雷尔 Tom Farrell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388893/",
+      "name": "罗伯特·约翰·加拉格尔 Robert John Gallagher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1115552/",
+      "name": "Michael Mastro Michael Mastro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483869/",
+      "name": "大卫·卡拉维 David Kallaway"
+    }
+  ]
+,
+  "datePublished": "2020-01-27",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT1H43M",
+  "description": "故事聚焦电气工程师、发明家尼古拉·特斯拉的事业及个人生活。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "952",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

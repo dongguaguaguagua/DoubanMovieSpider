@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一日游",
+  "url": "/subject/30286134/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2529385506.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398266/",
+      "name": "陈延企 Yanqi Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398266/",
+      "name": "陈延企 Yanqi Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381822/",
+      "name": "罗康 Kang Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385777/",
+      "name": "崔楠 Nan Cui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393143/",
+      "name": "龙泽治 Zezhi Long"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "这部电影的名字叫一日游，讲述的是一天之内发生的事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "维塔利娜·瓦雷拉 Vitalina Varela",
+  "url": "/subject/27107766/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575370579.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071097/",
+      "name": "佩德罗·科斯塔 Pedro Costa"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071097/",
+      "name": "佩德罗·科斯塔 Pedro Costa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421590/",
+      "name": "维塔利娜·瓦雷拉 Vitalina Varela"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421590/",
+      "name": "维塔利娜·瓦雷拉 Vitalina Varela"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351859/",
+      "name": "文图拉 Ventura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434186/",
+      "name": "曼努埃尔·塔瓦雷斯·阿尔梅达 Manuel Tavares Almeida"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434187/",
+      "name": "弗朗西斯科·布里托 Francisco Brito"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434188/",
+      "name": "玛丽娜·阿尔维斯·多明格斯 Marina Alves Domingues"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434189/",
+      "name": "蒙泰罗·伊米迪奥 Imídio Monteiro"
+    }
+  ]
+,
+  "datePublished": "2019-08-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H4M",
+  "description": "薇塔莉娜经过漫长的等待，总算盼到一张从非洲维德角到里斯本的机票，然而迎接她的并非丈夫允诺的美好未来，而是天人永隔的哀伤，以及迷雾般的身后事。两人上次见面已经是多年前，期间渺无音讯，谣言说丈夫卷入了肮脏...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1602",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

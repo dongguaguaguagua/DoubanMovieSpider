@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "埃菲尔铁塔下 Under the Eiffel Tower",
+  "url": "/subject/27109279/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542274930.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049563/",
+      "name": "盖瑞·科尔 Gary Cole"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1185170/",
+      "name": "麦可拉·沃金丝 Michaela Watkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027861/",
+      "name": "马特·沃尔什 Matt Walsh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1480074/",
+      "name": "Morgan Walsh Morgan Walsh"
+    }
+  ]
+,
+  "datePublished": "2019-02-08",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H27M",
+  "description": "Stuart is a having a mid-life crisis. Desperate for something more in life, he tags along on his bes...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "100",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

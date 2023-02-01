@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乐园 楽園",
+  "url": "/subject/30305551/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2562559754.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314621/",
+      "name": "濑濑敬久 Takahisa Zeze"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314681/",
+      "name": "吉田修一 Shûichi Yoshida"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314621/",
+      "name": "濑濑敬久 Takahisa Zeze"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314909/",
+      "name": "绫野刚 Gô Ayano "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318811/",
+      "name": "杉咲花 Hana Sugisaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037432/",
+      "name": "佐藤浩市 Kôichi Satô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042056/",
+      "name": "柄本明 Akira Emoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342488/",
+      "name": "村上虹郎 Nijiro Murakami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037870/",
+      "name": "片冈礼子 Reiko Kataoka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037865/",
+      "name": "黑泽明日香 Asuka Kurosawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008299/",
+      "name": "根岸季衣 Toshie Negishi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366823/",
+      "name": "石桥静河 Shizuka Ishibashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429233/",
+      "name": "祷云母 Kirara Inori"
+    }
+  ]
+,
+  "datePublished": "2019-10-07",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT2H9M",
+  "description": "根据吉田修一小说《犯罪小说集》中“乐园”篇将被搬上大银幕，绫野刚、杉咲花、佐藤浩市将参演影片，濑濑敬久([罪人的谎言])执导。故事讲述一起幼女被拐案件从未破获，而12年后，同一个地方又发生两起同样的案...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1207",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

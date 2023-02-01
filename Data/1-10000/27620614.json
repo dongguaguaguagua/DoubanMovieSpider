@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "九州·英雄",
+  "url": "/subject/27620614/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275501/",
+      "name": "许宏宇 Derek Hui"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313949/",
+      "name": "唐缺 Que Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386159/",
+      "name": "文思杨 Siyang Wen"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "南淮城中，曾经的英雄王姬野的后人——姬承是一个游手好闲，迷恋声色犬马的花花公子，姬家的虎牙枪成为了用来敛钱的展品。然后有一天，那杆虎牙枪——丢了。迫不得已，纨绔子弟姬承走上了寻枪之旅，于是他和羽族天驱...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

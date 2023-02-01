@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "勇气 Courage",
+  "url": "/subject/27594292/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031852/",
+      "name": "马修·沃恩 Matthew Vaughn"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023669/",
+      "name": "卡尔·盖杜谢克 Karl Gajdusek"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "导演马修·沃恩(《王牌特工1、2》《海扁王》)新片出炉：他将参与制作并有望执导一部科幻动作片《勇气》(Courage)，剧本来自《怪奇物语》执行制作人Karl Gajdusek。该片故事尚保密，被描述...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

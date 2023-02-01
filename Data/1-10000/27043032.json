@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "情人 Paramour",
+  "url": "/subject/27043032/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319565/",
+      "name": "亚历桑德拉-泰雷斯·肯宁 Alexandra Therese Keining"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021997/",
+      "name": "克里斯汀·斯科特·托马斯 Kristin Scott Thomas"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "克里斯汀·斯科特·托马斯确认加盟[失去的女孩]导演亚历桑德拉-泰雷斯·肯宁执导传记片[情人](Paramour,暂译)。故事基于宝马汽车女继承人苏珊娜·克拉腾的真实经历展开。作为德国女首富、德国宝马汽...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

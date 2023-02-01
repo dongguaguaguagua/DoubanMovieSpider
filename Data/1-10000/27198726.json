@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你害怕黑暗吗？ Are You Afraid of the Dark?",
+  "url": "/subject/27198726/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559401870.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014019/",
+      "name": "D·J·卡卢索 D.J. Caruso"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344029/",
+      "name": "加里·多伯曼 Gary Dauberman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236581/",
+      "name": "本大卫·格拉宾斯基 BenDavid Grabinski"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419330/",
+      "name": "萨姆·阿什·阿诺德 Sam Ashe Arnold"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424091/",
+      "name": "斯蒂芬妮·范戴克 Stephanie Van Dyck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424639/",
+      "name": "莉莲安娜·雷伊 Lyliana Wray"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "派拉蒙恐怖新片《你怕黑吗？》（Are You Afraid of the Dark?）曝光片名logo。根据90年代尼克国际儿童频道同名系列节目改编，原系列节目每集讲述不同的“篝火故事”，由一群称自己...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

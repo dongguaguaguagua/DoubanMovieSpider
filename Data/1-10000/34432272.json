@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雷霆行动",
+  "url": "/subject/34432272/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2656169700.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424367/",
+      "name": "黄照盛 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477090/",
+      "name": "魏笑宇 Wei xiaoyu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323625/",
+      "name": "任天野 Tianye Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274649/",
+      "name": "倪虹洁 Hongjie Ni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398762/",
+      "name": "王韬 Tao Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396908/",
+      "name": "侯晓 Xiao Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431670/",
+      "name": "高寿 Shou Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425729/",
+      "name": "许翔 Xiang Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475948/",
+      "name": "程琪 Qi Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470091/",
+      "name": "尹聪 Cong Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468565/",
+      "name": "姜来 Lai Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465483/",
+      "name": "陈明 "
+    }
+  ]
+,
+  "datePublished": "2021-08-12",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H30M",
+  "description": "讲述了以张磊（任天野 饰）、肖辉（王韬 饰）为代表的缉毒特警，他们用忠诚和铁血捍卫人民警察的荣誉，在执行“雷霆行动”的过程中经受血与火、生与死的考验，彻底捣毁杜日昌（倪虹洁 饰）贩毒集团，维护了社会秩...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1232",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

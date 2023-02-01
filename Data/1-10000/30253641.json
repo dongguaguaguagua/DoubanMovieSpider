@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜蝶",
+  "url": "/subject/30253641/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2558061532.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334236/",
+      "name": "陈静 Jing Chen"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354404/",
+      "name": "孔肖吟 Xiaoyin Kong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349721/",
+      "name": "吴哲晗 Zhehan Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453272/",
+      "name": "杨春瑞 Chunrui Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442045/",
+      "name": "贾天明 "
+    }
+  ]
+,
+  "datePublished": "2019-06-10",
+  "genre": ["\u52a8\u4f5c", "\u6218\u4e89"],
+  "duration": "PT1H17M",
+  "description": "该片讲述了真实身份为飞贼的身材火辣个性机灵的丽都舞女小蝴蝶（SNH48孔肖吟饰）和以归国护士身份作为掩护实则为特工的沈清韵（SNH48吴哲晗饰），两姐妹原是小时候的闺蜜，因种种原因从一开始相互隐瞒身份...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

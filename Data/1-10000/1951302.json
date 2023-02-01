@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "布偶奇遇记 Fraggle Rock: The Movie",
+  "url": "/subject/1951302/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023138/",
+      "name": "柯瑞·爱德华兹 Cory Edwards"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342405/",
+      "name": "詹姆斯·沃德·布柯特 James Ward Byrkit"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023138/",
+      "name": "柯瑞·爱德华兹 Cory Edwards"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027893/",
+      "name": "吉姆·亨森 Jim Henson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343115/",
+      "name": "亚历克斯·马努吉安 Alex Manugian"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101703/",
+      "name": "约瑟夫·高登-莱维特 Joseph Gordon-Levitt"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u6b4c\u821e", "\u5192\u9669"],
+  "duration": "",
+  "description": "据外媒报道，约瑟夫·高登-莱维特将主演真人版《布偶奇遇记》(Fraggle Rock: The Movie)，将这部1983年开播的电视剧搬上银幕。
+原剧集由吉姆·汉森执导，故事围绕一群可爱又可怕的布...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

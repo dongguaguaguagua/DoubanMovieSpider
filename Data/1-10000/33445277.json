@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "八岁的爸爸",
+  "url": "/subject/33445277/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2556695236.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275495/",
+      "name": "哈智超 Zhichao Ha"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275495/",
+      "name": "哈智超 Zhichao Ha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416479/",
+      "name": "林永珠 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313839/",
+      "name": "金世佳 Shijia Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1266497/",
+      "name": "邱泽 Roy Chiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257882/",
+      "name": "张钧甯 Chun-Ning Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367185/",
+      "name": "姜珮瑶 Peiyao Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339703/",
+      "name": "史启 Qi Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417052/",
+      "name": "杨旭 Xu Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428470/",
+      "name": "吴宇恒 Yuheng Wu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "电影《八岁的爸爸》讲述了妇幼医院B超室医生曹卢医（金世佳 饰）误打误撞来到一家福利院，不得不和一群智力水平发展障碍人士朝夕相处。曹卢医从一开始的无所适从，逐渐被他们的纯真无邪、简单率直所感化，直至融入...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

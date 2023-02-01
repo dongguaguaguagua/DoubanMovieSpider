@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "结伴婚礼 Plus One",
+  "url": "/subject/30159426/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557566978.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422441/",
+      "name": "杰夫·陈 Jeff Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422442/",
+      "name": "安德鲁·瑞梅尔 Andrew Rhymer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422441/",
+      "name": "杰夫·陈 Jeff Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422442/",
+      "name": "安德鲁·瑞梅尔 Andrew Rhymer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357078/",
+      "name": "玛雅·厄斯金 Maya Erskine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321661/",
+      "name": "杰克·奎德 Jack Quaid"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049729/",
+      "name": "小艾德·博格里 Ed Begley Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315253/",
+      "name": "芬·维特洛克 Finn Wittrock"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387121/",
+      "name": "贝琪·索达罗 Betsy Sodaro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300443/",
+      "name": "杰夫·沃德 Jeff Ward"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036640/",
+      "name": "艾玛·贝尔 Emma Bell"
+    }
+  ]
+,
+  "datePublished": "2019-06-14",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H39M",
+  "description": "Alice和Ben是大学时就认识后好友。孤家寡人的两人在30而立的时候一共收到了10场婚礼的邀请，于是决定陪伴对方去往每场婚礼，让对方不在成双结对的婚礼上孤单。然而命运弄人，一次次的婚礼上却让彼此慢慢...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1176",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

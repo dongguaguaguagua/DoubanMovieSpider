@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "沙漏",
+  "url": "/subject/26290372/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2879675849.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449825/",
+      "name": "温婧 Jing Wen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341923/",
+      "name": "饶雪漫 Xueman Rao"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "莫醒醒因母亲救失足男孩离世而患心理疾病。幸而在好朋友米砂、路理的陪伴下度过了温暖的青春。然而醒醒却发现路理就是那个失足男孩，无法接受真相的醒醒不辞而别。十年后，醒醒重遇好友，决心直面过去，打开心结。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

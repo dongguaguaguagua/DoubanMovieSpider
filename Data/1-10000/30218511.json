@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "纯粹的激情 Passion Simple",
+  "url": "/subject/30218511/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2627325356.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045760/",
+      "name": "丹妮尔·阿尔彼得 Danielle Arbid"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045760/",
+      "name": "丹妮尔·阿尔彼得 Danielle Arbid"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470663/",
+      "name": "安妮·埃尔诺 Annie Ernaux"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387960/",
+      "name": "利蒂希亚·多施 Laetitia Dosch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347954/",
+      "name": "谢尔盖·波卢宁 Sergei Polunin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274997/",
+      "name": "卡罗琳·杜西 Caroline Ducey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1077830/",
+      "name": "格莱戈尔·科林 Grégoire Colin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388575/",
+      "name": "苏莱曼·达兹 Slimane Dazi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392049/",
+      "name": "沙希拉·法赫米 Shahira Fahmy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443749/",
+      "name": "杜尼亚·西乔夫 Dounia Sichov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328862/",
+      "name": "提伯·范登博尔 Tibo Vandenborre"
+    }
+  ]
+,
+  "datePublished": "2020-09-09",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H35M",
+  "description": "薇姬·克里普斯([幽冥端绪])、丹尼拉·科兹洛夫斯基([火海凌云])将主演新片[纯粹的激情](Passion Simple，暂译)，丹妮尔·阿尔彼得([贝鲁特酒店])执导，故事改编自安妮·艾诺同名法语...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "534",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

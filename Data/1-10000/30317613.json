@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不幸的人 Wretch",
+  "url": "/subject/30317613/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2533261861.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393167/",
+      "name": "玛利亚·奥尔森 Maria Olsen"
+    }
+  ]
+,
+  "datePublished": "2019-04-11",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "在一位古怪的嬉皮士餐馆老板和她的弥赛亚自助大师的监护下，一个年轻人开始掌握恩塞拉迪主义的神秘魔法，试图摧毁杀死他伴侣的癌症。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

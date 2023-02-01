@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "摆渡人 Ferryman",
+  "url": "/subject/27668586/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1115889/",
+      "name": "凯莉·马塞尔 Kelly Marcel"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412125/",
+      "name": "路易斯·帕特里奇 Louis Partridge"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "传奇影业成功取得英国作家克莱儿·麦克福尔所著畅销小说《摆渡人》三部曲的电影改编权。小说通过讲述十五岁单亲小女孩迪伦的故事，洞悉人性的温情，展现人类对于亲情、友情和爱情幸福的向往。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

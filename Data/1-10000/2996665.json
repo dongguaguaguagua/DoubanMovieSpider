@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "佐罗 Z",
+  "url": "/subject/2996665/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281563/",
+      "name": "霍纳斯·卡隆 Jonás Cuarón"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281563/",
+      "name": "霍纳斯·卡隆 Jonás Cuarón"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302467/",
+      "name": "格伦·杰斯 Glenn Gers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408366/",
+      "name": "奥齐·英格安索 Ozzy Inguanzo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041009/",
+      "name": "盖尔·加西亚·贝纳尔 Gael García Bernal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337761/",
+      "name": "科雷西·克莱门斯 Kiersey Clemons"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "",
+  "description": "《地球引力》（Gravity）编剧，著名导演阿方索·夸隆（Alfonso Cuarón）之子乔纳斯·夸隆（Jonás Cuarón）日前确认将执导并编剧筹划已久的未来版“佐罗”电影——《Z》（Z）。该...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

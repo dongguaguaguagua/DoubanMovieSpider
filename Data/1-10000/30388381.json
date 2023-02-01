@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "握三下，我爱你 握三下，我愛你",
+  "url": "/subject/30388381/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2551960217.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307492/",
+      "name": "周美玲 Zero Chou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1225971/",
+      "name": "琼瑶 Yao Chiung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307492/",
+      "name": "周美玲 Zero Chou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018547/",
+      "name": "杨丞琳 Rainie Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275953/",
+      "name": "是元介 Jay Shin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316053/",
+      "name": "黄姵嘉 Peijia Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457481/",
+      "name": "张绍琛 Shaochen Zhang"
+    }
+  ]
+,
+  "datePublished": "2019-03-28",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H36M",
+  "description": "刘立立（杨丞琳 饰）与王玫（黄姵嘉 饰），是一对感情深厚的姐妹淘，同时也都是董今狐（是元介 饰）的妻子，在这个大家庭里，刘立立选择终身不育子，对元配王玫的子女视为己出，两人共同撑持起这个家长达50余年...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "603",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

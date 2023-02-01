@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "God, kodga ya ne rodilsya",
+  "url": "/subject/30297538/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1026329/",
+      "name": "维克托·罗佐夫 Viktor Rozov"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332854/",
+      "name": "安娜·奇波夫斯卡娅 Anna Chipovskaya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362655/",
+      "name": "弗亚切斯拉夫·切普尔琴科 Vyacheslav Chepurchenko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1152818/",
+      "name": "奥列格·塔巴科夫 Oleg Tabakov"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

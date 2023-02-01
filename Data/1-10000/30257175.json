@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "燃烧女子的肖像 Portrait de la jeune fille en feu",
+  "url": "/subject/30257175/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2584308261.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042117/",
+      "name": "瑟琳·席安玛 Céline Sciamma"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042117/",
+      "name": "瑟琳·席安玛 Céline Sciamma"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353982/",
+      "name": "诺米·梅兰特 Noémie Merlant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304507/",
+      "name": "阿黛拉·哈内尔 Adèle Haenel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428889/",
+      "name": "卢安娜·巴杰拉米 Luàna Bajrami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027247/",
+      "name": "瓦莱丽亚·戈利诺 Valeria Golino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352662/",
+      "name": "阿曼德·博兰格 Armande Boulanger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422868/",
+      "name": "米歇尔·克莱门特 Michèle Clément"
+    }
+  ]
+,
+  "datePublished": "2019-05-19",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT2H1M",
+  "description": "1760年法国布列塔尼，才华洋溢的年轻女画家玛莉安（诺米·梅兰特饰）收到委托，需要在对方不知情的状况下，完成富家小姐艾洛伊兹（阿黛拉·哈内尔饰）出嫁前的肖像画。两人在孤岛相依为命，白天女画家悄悄观察小...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "192586",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.7"
+  }
+}

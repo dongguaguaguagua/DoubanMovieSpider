@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "功夫梦2 The Karate Kid 2",
+  "url": "/subject/11600089/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009280/",
+      "name": "哈罗德·兹瓦特 Harald Zwart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014076/",
+      "name": "布瑞克·埃斯纳尔 Breck Eisner"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294247/",
+      "name": "扎克·佩恩 Zak Penn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295414/",
+      "name": "伊森·瑞弗 Ethan Reiff"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010532/",
+      "name": "贾登·史密斯 Jaden Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054531/",
+      "name": "成龙 Jackie Chan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "来自国外媒体的报道，哥伦比亚影业目前正计划推出2010年备受欢迎的电影《功夫梦》的续集，目前该计划仍处于前期的准备之中，今天有消息传来，称好莱坞编剧扎克·佩恩已经入驻了该片，并将为电影撰写全新剧本。佩...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

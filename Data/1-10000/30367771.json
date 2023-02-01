@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "磊磊是冠军",
+  "url": "/subject/30367771/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540667129.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316281/",
+      "name": "徐啸力 Xiaoli Xu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315258/",
+      "name": "崔永元 Yongyuan Cui"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT2H0M",
+  "description": "讲述十几岁的刘磊磊被体校教练发掘，成为一名柔道运动员，进入国家队后被分配到女队做陪练，在从被人羡慕到被人嘲讽及自己梦想与现实的巨大的落差后，磊磊蜕变成为一名优秀的柔道陪练，并成功练出了女子柔道世界冠军...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

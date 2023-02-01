@@ -1,0 +1,136 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "和平 Peace",
+  "url": "/subject/30152169/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2630391258.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294752/",
+      "name": "罗伯特·大卫·波特 Robert David Port"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003353/",
+      "name": "Richard Bausch Richard Bausch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294752/",
+      "name": "罗伯特·大卫·波特 Robert David Port"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044990/",
+      "name": "亚历山大·路德韦格 Alexander Ludwig"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428521/",
+      "name": "RJ费瑟斯顿豪 RJ Fetherstonhaugh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315391/",
+      "name": "克里斯·布罗楚 Chris Brochu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323055/",
+      "name": "克里斯蒂·柏克 Christie Burke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045245/",
+      "name": "泰勒·海涅斯 Tyler Hynes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316917/",
+      "name": "山姆·基利 Sam Keeley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127899/",
+      "name": "洛奇林·莫罗 Lochlyn Munro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036400/",
+      "name": "弗兰科·内罗 Franco Nero"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467811/",
+      "name": "内森·吉恩 Nathan Jean"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467812/",
+      "name": "米奇·安利 Mitch Ainley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467813/",
+      "name": "克里斯·克里 Chris Crema"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467814/",
+      "name": "贾斯汀·德里克森 Justin Derickson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467815/",
+      "name": "朱利安·多明格斯 Julian Domingues"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467809/",
+      "name": "路易吉·普拉塔尼亚 Luigi Platania"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467816/",
+      "name": "凯文·麦克弗森·埃克霍夫 Kevin Mcpherson Eckhoff"
+    }
+  ]
+,
+  "datePublished": "2019-10-26",
+  "genre": ["\u60ca\u609a", "\u4f20\u8bb0", "\u6218\u4e89"],
+  "duration": "PT1H38M",
+  "description": "It follows four American soldiers set out on the grueling ascent of an Italian mountainside in the c...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "184",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

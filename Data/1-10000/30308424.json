@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "救赎者 LEGION MAXX",
+  "url": "/subject/30308424/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561674550.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1103525/",
+      "name": "杰西·约翰逊 Jesse V. Johnson"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049820/",
+      "name": "路易·曼迪勒 Louis Mandylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436194/",
+      "name": "多米尼克·范登博格 Dominiquie Vandenberg"
+    }
+  ]
+,
+  "datePublished": "2020-01-07",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H31M",
+  "description": "Maxx is a legionnaire turned mercenary. When a mission in South America goes wrong Maxx is left for ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "211",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女兵切尔西 XY Chelsea",
+  "url": "/subject/27203609/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614353948.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441129/",
+      "name": "蒂姆·特拉弗斯·霍金斯 Tim Travers Hawkins"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292349/",
+      "name": "马克·蒙雷 Mark Monroe"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330902/",
+      "name": "布拉德利·曼宁 Chelsea Manning"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441239/",
+      "name": "南希·霍兰德 Nancy Hollander"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441240/",
+      "name": "文森特·沃德 Vincent J. Ward"
+    }
+  ]
+,
+  "datePublished": "2019-05-01",
+  "genre": ["\u540c\u6027", "\u4f20\u8bb0"],
+  "duration": "PT1H34M",
+  "description": "布拉德利·爱德华·曼宁，美国陆军上等兵。他利用职务之便，非法下载了二十五万份美国政府的机密资料，转交给维基解密。他在网络上向另一位黑客Adrian Lamo夸耀此事，遭举发。
+2013年，曼宁被判在军...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "157",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

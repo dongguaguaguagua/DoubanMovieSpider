@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "尾流场计划 A Wakefield Project",
+  "url": "/subject/30312836/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2532622332.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335885/",
+      "name": "琳赛·塞姆 Lindsay Seim"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396167/",
+      "name": "罗布·阿切尔 Rob Archer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393898/",
+      "name": "丹尼斯·安德瑞斯 Dennis Andres"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H28M",
+  "description": "The veil between the living and the dead has lifted for 24 hours, would you survive?",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

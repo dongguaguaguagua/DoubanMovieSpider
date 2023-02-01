@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "她的马拉松 Brittany Runs a Marathon",
+  "url": "/subject/30257331/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2558831461.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420611/",
+      "name": "保罗·唐斯·卡莱佐 Paul Downs Colaizzo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420611/",
+      "name": "保罗·唐斯·卡莱佐 Paul Downs Colaizzo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369571/",
+      "name": "里尔·莱尔·哈瓦瑞 Lil Rel Howery"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335295/",
+      "name": "吉莉恩·贝尔 Jillian Bell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1185170/",
+      "name": "麦可拉·沃金丝 Michaela Watkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1237549/",
+      "name": "乌特卡什·安邦德卡尔 Utkarsh Ambudkar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373218/",
+      "name": "爱丽丝·李 Alice Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415762/",
+      "name": "米卡·斯托克 Micah Stock"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392708/",
+      "name": "埃斯特班·贝尼托 Esteban Benito"
+    }
+  ]
+,
+  "datePublished": "2019-01-28",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H43M",
+  "description": "布列塔尼·福格勒是一个有趣的，可爱的，27岁的纽约人，紧迫的生活让她过得乱七八糟的，其肮脏的夜总会冒险和清晨羞耻的散步使她每天上班迟到。但是当她停在一个叫“推荐医生办公室”的地方，试图给她加药时，布里...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1295",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

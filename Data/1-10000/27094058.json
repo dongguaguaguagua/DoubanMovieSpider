@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "戈尔 Gore",
+  "url": "/subject/27094058/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036674/",
+      "name": "迈克尔·霍夫曼 Michael Hoffman"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036674/",
+      "name": "迈克尔·霍夫曼 Michael Hoffman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322125/",
+      "name": "杰伊·帕里尼 Jay Parini"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054432/",
+      "name": "凯文·史派西 Kevin Spacey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009409/",
+      "name": "迈克尔·斯图巴 Michael Stuhlbarg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314461/",
+      "name": "道格拉斯·布斯 Douglas Booth "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314358/",
+      "name": "弗雷娅·梅弗 Freya Mavor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019053/",
+      "name": "格里芬·邓恩 Griffin Dunne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414390/",
+      "name": "罗伯特‧马瑟 Robert Maaser"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055696/",
+      "name": "吉姆·麦司奇门 Jim Meskimen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022985/",
+      "name": "尼科莱·金斯基 Nikolai Kinski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335306/",
+      "name": "法尔杜特·夏尔马 Phaldut Sharma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379270/",
+      "name": "凯蒂·麦戈文 Katie McGovern"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372680/",
+      "name": "亚历克西雅·默里 Alexia Murray"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "A young man spends a summer in Italy where he meets his idol, Gore Vidal, who teaches him about life...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

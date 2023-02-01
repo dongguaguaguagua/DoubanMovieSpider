@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "记忆谜城",
+  "url": "/subject/30401321/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542374257.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398827/",
+      "name": "于心妍 Xinyan Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418222/",
+      "name": "朱宏 Hong Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418223/",
+      "name": "富梓铭 Ziming Fu"
+    }
+  ]
+,
+  "datePublished": "2019-07-01",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H2M",
+  "description": "讲述了某富豪临死前留下遗言，柜子里是他一生最宝贵的财富，他将柜子的钥匙交给儿子天生，在一旁的合伙人付先生盯上，并找来帮手张洋一起抢夺天生手里的钥匙，在抢夺过程中，天生变成了植物人，钥匙下落不明。付先生...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

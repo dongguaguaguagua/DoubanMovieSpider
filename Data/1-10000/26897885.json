@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "芬奇 Finch",
+  "url": "/subject/26897885/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2721066869.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350650/",
+      "name": "米格尔·萨普什尼克 Miguel Sapochnik"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044399/",
+      "name": "克雷格·勒克 Craig Luck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470775/",
+      "name": "艾弗·鲍威尔 Ivor Powell"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054450/",
+      "name": "汤姆·汉克斯 Tom Hanks"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1235113/",
+      "name": "卡赖伯·兰德里·琼斯 Caleb Landry Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1464070/",
+      "name": "希默斯 Seamus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391559/",
+      "name": "洛拉·玛汀内斯-康宁安 Lora Martinez-Cunningham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387543/",
+      "name": "玛丽·瓦根曼 Marie Wagenman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004631/",
+      "name": "斯基特·乌尔里奇 Skeet Ulrich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331705/",
+      "name": "萨米拉·威利 Samira Wiley"
+    }
+  ]
+,
+  "datePublished": "2021-11-05",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H55M",
+  "description": "在世界末日后的地球上，一个为保护造物主的爱犬而生的机器人，学习生活、爱情、友谊以及作为人类意味着什么。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "216045",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.4"
+  }
+}

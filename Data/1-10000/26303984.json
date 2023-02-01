@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "默守那份情",
+  "url": "/subject/26424787/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2252214008.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355385/",
+      "name": "曾剑锋 Jianfeng Zeng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339487/",
+      "name": "杨海波 Haibo Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315488/",
+      "name": "毛孩 Hai Mao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051051/",
+      "name": "黄奕 Yi Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313048/",
+      "name": "贺刚 Gang He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313238/",
+      "name": "程媛媛 Yuanyuan Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312856/",
+      "name": "金巧巧 Qiaoqiao Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274914/",
+      "name": "果靖霖 Jinglin Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318203/",
+      "name": "钟秋 Qiu Zhong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028943/",
+      "name": "汤镇业 Ken Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315289/",
+      "name": "王璐瑶 Luyao Wang"
+    }
+  ]
+,
+  "datePublished": "2015-07-01",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H38M",
+  "description": "雷锋是庄仕华（毛孩 饰）毕生的偶像，他人生最大的梦想就是能够参军，然后成为一个雷锋一样的好人。可是，庄仕华体格瘦小又体弱多病，达不到参军入伍的要求，在这个节骨眼上，唐连长（果静林 饰）出现了，他被庄仕...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "165",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.7"
+  }
+}

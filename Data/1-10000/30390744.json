@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "诡异童谣 Koko-di Koko-da",
+  "url": "/subject/30390744/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546654587.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362590/",
+      "name": "约翰尼斯·尼霍姆 Johannes Nyholm"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362590/",
+      "name": "约翰尼斯·尼霍姆 Johannes Nyholm"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1065289/",
+      "name": "Peter Belli Peter Belli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395498/",
+      "name": "利夫·埃德伦德 Leif Edlund"
+    }
+  ]
+,
+  "datePublished": "2019-01-25",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "一首诡异童谣，一场永远去不到终局的游戏，你玩唔起的骇人恶作剧，恰似一个逃不出的噩梦。丈夫坚持到森林露营，但妻子仍无法忘记三年前兔子派对后亲历巨大创伤。人有三急，遇见冷血变态的恶客三人组，夫妻同被困在惊...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "142",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

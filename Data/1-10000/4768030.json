@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "毒魔复仇 The Toxic Avenger",
+  "url": "/subject/4768030/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353311/",
+      "name": "梅肯·布莱尔 Macon Blair"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353311/",
+      "name": "梅肯·布莱尔 Macon Blair"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054246/",
+      "name": "洛伊德·考夫曼 Lloyd Kaufman"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019009/",
+      "name": "彼特·丁拉基 Peter Dinklage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332866/",
+      "name": "雅各布·特伦布莱 Jacob Tremblay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329597/",
+      "name": "泰勒·佩姬 Taylour Paige"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009260/",
+      "name": "凯文·贝肯 Kevin Bacon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054395/",
+      "name": "伊利亚·伍德 Elijah Wood"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281914/",
+      "name": "朱莉娅·戴维斯 Julia Davis"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "梅肯·布莱尔(《小奸小恶》《无处为家》)将执导并编写重启版《毒魔复仇》电影。
+传奇影业去年拿下该片版权，1984年原版导演洛伊德·考夫曼和迈克尔·赫兹的制片公司参与制作。原版讲述性情温和的梅尔文身材瘦...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

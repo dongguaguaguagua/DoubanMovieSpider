@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Kungen av Atlantis",
+  "url": "/subject/27621663/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2549151569.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025594/",
+      "name": "菲利普·赞丹 Philip Zandén"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434866/",
+      "name": "兰斯洛特·库比 Lancelot Ncube"
+    }
+  ]
+,
+  "datePublished": "2019-03-01",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "Samuel is the primary carer for his father - a paranoid schizophrenic. A chance encounter with a you...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

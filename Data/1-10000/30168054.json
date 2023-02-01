@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "监视 왓칭",
+  "url": "/subject/30168054/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553586251.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413223/",
+      "name": "金圣基 Sung-gi Kim"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413223/",
+      "name": "金圣基 Sung-gi Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022791/",
+      "name": "亚历山大·阿嘉 Alexandre Aja"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313570/",
+      "name": "姜艺媛 Ye-won Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378899/",
+      "name": "李学周 Hak-joo Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375770/",
+      "name": "周锡泰 Suk-tae Joo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389045/",
+      "name": "林世柱 Se-joo Im"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413222/",
+      "name": "金诺珍 No-jin Kim"
+    }
+  ]
+,
+  "datePublished": "2019-04-17",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H37M",
+  "description": "某日，突然在公司地下停车场被绑架的女人（姜艺媛 饰）试图逃脱的故事。
+本片为2007年《P2（车库惊魂）》的韩国翻拍。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1595",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

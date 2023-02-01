@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑客 Hacker",
+  "url": "/subject/30234890/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523418211.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440962/",
+      "name": "Josephine Højbjerg Josephine Højbjerg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468076/",
+      "name": "阿富辛·菲劳齐  Afshin Firouzi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476634/",
+      "name": "阿尔弗雷德·彼亚·腊深 Alfred Bjerre Larsen"
+    }
+  ]
+,
+  "datePublished": "2019-03-28",
+  "genre": ["\u52a8\u4f5c", "\u5bb6\u5ead"],
+  "duration": "",
+  "description": "13-year-old Benjamin discovers that his mother didn&#39;t die in an accident as he was led to believe. T...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

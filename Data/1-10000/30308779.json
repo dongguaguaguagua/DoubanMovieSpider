@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Down, Satan!",
+  "url": "/subject/30308779/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321118/",
+      "name": "汤姆·塔布瑙奇斯 Tom Tataranowicz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397704/",
+      "name": "杰夫·布勒 Jeff Buhler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321118/",
+      "name": "汤姆·塔布瑙奇斯 Tom Tataranowicz"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "Gregorius believes God has deserted him. If his prayers won&#39;t be answered, he&#39;ll seek God&#39;s attentio...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

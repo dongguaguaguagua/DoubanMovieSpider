@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Untitled De Niro/Ramirez/Jakubowicz Project",
+  "url": "/subject/26250790/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005454/",
+      "name": "乔纳森·雅库博维奇 Jonathan Jakubowicz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005454/",
+      "name": "乔纳森·雅库博维奇 Jonathan Jakubowicz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054445/",
+      "name": "罗伯特·德尼罗 Robert De Niro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000230/",
+      "name": "埃德加·拉米雷兹 Édgar Ramírez"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

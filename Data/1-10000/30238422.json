@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "侠盗神枪",
+  "url": "/subject/30238422/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2523796586.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318592/",
+      "name": "莫美林 Meilin Mok"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320856/",
+      "name": "李欣 Xin Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318120/",
+      "name": "高天 Tian Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395130/",
+      "name": "杨友洪 Youhong Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394925/",
+      "name": "言羽 Yu Yan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "电影《侠盗神枪》主要讲述了一把神奇手枪的出现，让合租屋内本来生活冗然乏味，各有苦衷的几家人发生了神奇的逆转，这把神奇之枪实现了每个租户的愿望。从此他们也告别了安分的生活，开始了更大的奢望和欲求。然而这...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

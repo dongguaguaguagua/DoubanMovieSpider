@@ -1,0 +1,280 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "曼克 Mank",
+  "url": "/subject/34461705/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2623412955.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012521/",
+      "name": "大卫·芬奇 David Fincher"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419593/",
+      "name": "杰克·芬奇 Jack Fincher"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010507/",
+      "name": "加里·奥德曼 Gary Oldman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053586/",
+      "name": "阿曼达·塞弗里德 Amanda Seyfried"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018977/",
+      "name": "莉莉·柯林斯 Lily Collins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027299/",
+      "name": "查尔斯·丹斯 Charles Dance"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027850/",
+      "name": "艾利斯·霍华德 Arliss Howard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1211775/",
+      "name": "汤姆·派福瑞 Tom Pelphrey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1265872/",
+      "name": "塔彭丝·米德尔顿 Tuppence Middleton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009456/",
+      "name": "汤姆·伯克 Tom Burke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418055/",
+      "name": "杰米·麦克沙恩 Jamie McShane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1188734/",
+      "name": "莱文·兰宾 Leven Rambin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323233/",
+      "name": "托比·莱昂纳德·摩尔 Toby Leonard Moore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317957/",
+      "name": "山姆·特劳顿 Sam Troughton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018029/",
+      "name": "约瑟夫·克罗斯 Joseph Cross"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014370/",
+      "name": "艾维·约斯特 Elvy Yost"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333947/",
+      "name": "亚当·沙皮罗 Adam Shapiro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410672/",
+      "name": "费迪南德·金斯利 Ferdinand Kingsley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1082128/",
+      "name": "保罗·福克斯 Paul Fox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165727/",
+      "name": "娜塔莉·丹尼斯·斯皮尔 Natalie Denise Sperl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340264/",
+      "name": "里克·帕斯夸隆 Rick Pasqualone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071853/",
+      "name": "保罗·卡拉夫特斯 Paul Carafotes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439905/",
+      "name": "克里斯蒂安·普伦蒂斯 Christian Prentice"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163047/",
+      "name": "约翰·李·艾姆斯 John Lee Ames"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399795/",
+      "name": "金斯顿·凡尔内斯 Kingston Vernes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164782/",
+      "name": "克莱格·罗伯特·扬 Craig Robert Young"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383995/",
+      "name": "贾可琳·贝瑟尼 Jaclyn Bethany"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321545/",
+      "name": "卡米尔·蒙哥马利 Camille Montgomery"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1224731/",
+      "name": "克雷格·韦茨巴赫尔 Craig Welzbacher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414890/",
+      "name": "乔安妮·汤姆森 Joanne Thomson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061619/",
+      "name": "达娜·林恩·拜伦 Dana Lyn Baron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1151821/",
+      "name": "斯图瓦特·斯科尔顿 Stewart Skelton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1207227/",
+      "name": "克里斯蒂安·罗伯茨 Christian Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1170448/",
+      "name": "约翰·帕特里克·舒拉克 John Patrick Shulak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444156/",
+      "name": "赞恩·加西亚 Zane Garcia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444157/",
+      "name": "马克·德利曼 Mark Deliman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444158/",
+      "name": "杰西·科昂 Jessie Cohen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481041/",
+      "name": "玛诺·盖琪 Manon Gage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448435/",
+      "name": "卢·乔治 Lou George"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452452/",
+      "name": "杰夫·哈姆斯 Jeff Harms"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452460/",
+      "name": "约翰·丘吉尔 John Churchill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452464/",
+      "name": "杰克·罗曼诺 Jack Romano"
+    }
+  ]
+,
+  "datePublished": "2020-11-13",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT2H11M",
+  "description": "随着赫尔曼·J·曼凯维奇争分夺秒地完成奥逊·威尔斯的《公民凯恩》剧本，人们将通过这位尖刻的社会评论家兼嗜酒编剧的视角，重新审视 20 世纪 30 年代的好莱坞。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "14538",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

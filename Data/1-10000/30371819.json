@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "热带雨",
+  "url": "/subject/30371819/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2573124645.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001669/",
+      "name": "陈哲艺 Anthony Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001669/",
+      "name": "陈哲艺 Anthony Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315164/",
+      "name": "杨雁雁 Yann Yann Yeo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335006/",
+      "name": "许家乐 Jia Ler Koh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189122/",
+      "name": "李铭顺 Lee Ming Shun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423720/",
+      "name": "杨世彬 Shi Bin Yang"
+    }
+  ]
+,
+  "datePublished": "2019-09-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "从马来西亚移居新加坡的阿玲在一间高中担任中文老师。她的家庭生活让她倍感沮丧：公公因为瘫痪无法说话，丈夫对她也日趋冷淡。夫妻二人多年来一直尝试怀孕，但情况一直没有得到好转，丈夫的不闻不问更让她感到孤独。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "74728",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

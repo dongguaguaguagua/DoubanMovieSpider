@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Devil&#39;s Playthings",
+  "url": "/subject/30392992/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270615/",
+      "name": "Erik Kristopher Myers Erik Kristopher Myers"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270615/",
+      "name": "Erik Kristopher Myers Erik Kristopher Myers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483170/",
+      "name": "莉安娜·查密士 Leanna Chamish"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Five teenagers playing with a Ouija Board are led to a sacred binding place for the malevolent demon...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

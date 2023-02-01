@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "巨人国历险记 Gigantic",
+  "url": "/subject/24739046/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2386391674.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289713/",
+      "name": "梅格·勒福夫 Meg LeFauve"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313122/",
+      "name": "内森·格雷诺 Nathan Greno"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289713/",
+      "name": "梅格·勒福夫 Meg LeFauve"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "A boy named Jack befriends a giant from a group of wicked giants who have enslaved Jack&#39;s town. The ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "被拆卸的人 The Disassembled Man",
+  "url": "/subject/27108200/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344393/",
+      "name": "伊万·卡瓦纳 Ivan Kavanagh"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "Living in a dreary meatpacking plant, stuck in a loveless marriage, Frankie Avicious sets out to rev...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "快刀斩",
+  "url": "/subject/30402175/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2675768587.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320845/",
+      "name": "邱箫婵 Xiaochan Qiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336629/",
+      "name": "孟浩强 Haoqiang Meng"
+    }
+  ]
+,
+  "datePublished": "2019-01-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "在电影《快刀斩》中邱箫婵饰演柳叶桃、影片中她以“侠女”形象惊艳亮相，气势汹汹、人物立体感很强。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

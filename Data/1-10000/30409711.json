@@ -1,0 +1,130 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "少年们 映画 少年たち",
+  "url": "/subject/30409711/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543621170.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038268/",
+      "name": "本木克英 Katsuhide Motoki"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343856/",
+      "name": "石川胜己 Katsumi Ishikawa"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321994/",
+      "name": "杰西 Jesse"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320085/",
+      "name": "京本大我 Taiga Kyōmoto "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321743/",
+      "name": "松村北斗 Hokuto Matsumura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430603/",
+      "name": "高地优吾 Yugo Kochi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275409/",
+      "name": "森本慎太郎 Shintaro Morimoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321711/",
+      "name": "田中树 Juri Tanaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350497/",
+      "name": "户塚祥太 Shôta Totsuka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275841/",
+      "name": "山下莉绪 Rio Yamashita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1170136/",
+      "name": "森口瑶子 Yôko Moriguchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003500/",
+      "name": "伊武雅刀 Masatô Ibu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275182/",
+      "name": "横山裕 Yû Yokoyama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467864/",
+      "name": "宫馆凉太 Ryota Miyadate"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467863/",
+      "name": "佐久间大介 Daisuke Sakuma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436774/",
+      "name": "阿部亮平 Ryohei Abe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470043/",
+      "name": "室龙太 Ryuta Muro"
+    }
+  ]
+,
+  "datePublished": "2019-03-29",
+  "genre": ["\u97f3\u4e50"],
+  "duration": "PT1H40M",
+  "description": "ジャニー喜多川が企画・構成・総合演出を手がけ、ジャニーズ事務所の若手メンバーたちが代々出演してきた舞台「少年たち」を映画化。心に深い傷を抱え、それぞれの事情から少年刑務所に収監された少年たち。争うこと...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "433",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

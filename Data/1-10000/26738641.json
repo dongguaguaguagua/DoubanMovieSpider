@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Uta不是流浪狗",
+  "url": "/subject/26738641/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2490594309.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038268/",
+      "name": "本木克英 Katsuhide Motoki"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018750/",
+      "name": "田中丽奈 Rena Tanaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326549/",
+      "name": "杜天皓 Calvin Tu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275719/",
+      "name": "江若琳 Elanne Kwong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044222/",
+      "name": "何琳 Lin He"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "在上海闹市区的一家宠物店里，天生胆小的秋田幼犬Uta备受冷落。直到有天，一个同样孤单的小男孩小安的到来，打消了Uta对人类的戒心。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

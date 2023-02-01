@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Rising",
+  "url": "/subject/30240109/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050517/",
+      "name": "尼克·瓦莱隆加 Nick Vallelonga"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000788/",
+      "name": "保罗·斯隆 Paul Sloan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000788/",
+      "name": "保罗·斯隆 Paul Sloan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "",
+  "description": "A group of mercenaries are hired by a mysterious woman to locate her brother in the jungles of South...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

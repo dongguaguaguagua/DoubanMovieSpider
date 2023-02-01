@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Within Madness: The Chapel Tapes",
+  "url": "/subject/30295124/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2530409751.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376820/",
+      "name": "马特·斯托里 Matt Story"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415089/",
+      "name": "杰拉德·班肯斯 Jared Bankens"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "In 2006 a raid on a house belonging to a local artist, Vaughn Neil, somewhere in rural Louisiana, tu...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

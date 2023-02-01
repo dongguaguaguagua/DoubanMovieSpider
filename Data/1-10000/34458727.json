@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奇异世界历险记",
+  "url": "/subject/34458727/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2873627574.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385908/",
+      "name": "任海啸 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387166/",
+      "name": "丁昊 Hao Ding"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2021-04-03",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "",
+  "description": "超级学霸宇文数学一直认为人生的成功应该用奖状和金牌堆砌而成，从不屑于与同龄人玩耍的他为了完成团队作业不得不进入儿童乐园，误打误撞中进入了奇异世界，在这里，他和他的同伴们会发生怎样的奇幻冒险呢？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}
