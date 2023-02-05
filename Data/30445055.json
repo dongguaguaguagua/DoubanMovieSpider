@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "感知 The Perception",
+  "url": "/subject/30445055/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546492124.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002670/",
+      "name": "埃里克·罗伯茨 Eric Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1265309/",
+      "name": "尼克·贝特曼 Nick Bateman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1219334/",
+      "name": " Sandy Gardiner"
+    }
+  ]
+,
+  "datePublished": "2019-01-25",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H26M",
+  "description": "Accomplished novelist Richard Sykes struggles to come up with a concept for a new book while trying ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "104",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

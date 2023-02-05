@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "另一副面孔 Another Face",
+  "url": "/subject/30335079/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2622011373.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363285/",
+      "name": "巴拉奇亚·鲁洛  Prachaya Ruangroj"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442862/",
+      "name": "纳帕·维凯伦罗 Naphat Vikairungroj"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

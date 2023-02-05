@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "上古仙女秘闻",
+  "url": "/subject/30163737/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2515802652.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457667/",
+      "name": "余中南 Zhongnan Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405088/",
+      "name": "刘思思 Sisi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382615/",
+      "name": "姜涛 Tao Jiang"
+    }
+  ]
+,
+  "datePublished": "2018-03-09",
+  "genre": ["\u7231\u60c5", "\u53e4\u88c5"],
+  "duration": "PT1H0M",
+  "description": "本片根据民间神话传说改编，讲述了一段凄美的仙凡之恋。三仙女在天庭查看人间百态之时，无意间发现三位有趣的男子，并被他们乐善好施的品行所吸引。在三人之一刘守义遭遇危险时，三位仙女决定下凡帮助三个凡人。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

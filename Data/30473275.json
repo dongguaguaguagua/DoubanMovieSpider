@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "真爱攻略",
+  "url": "/subject/30473275/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549368654.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387164/",
+      "name": "刘颖 Ying Liu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406140/",
+      "name": "程宇健 Yujian Cheng"
+    }
+  ]
+,
+  "datePublished": "2019-03-02",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H3M",
+  "description": "大龄青年高俊一次偶然的情况下遇到高冷女方洁,对方洁一见钟情,于是在好哥们蒋预谋的帮助下使出各种奇葩招式对方洁展开爱情攻势,先是用红包吸引,再安排放生湖偶遇,种种这些都起到了反作用,其间也闹出了一系列的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

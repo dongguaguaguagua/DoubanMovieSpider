@@ -1,0 +1,124 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "波斯语课 Persischstunden",
+  "url": "/subject/30466931/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2588101332.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304183/",
+      "name": "瓦迪姆·佩尔曼 Vadim Perelman"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444426/",
+      "name": "伊尔佳·佐芬 Ilja Zofin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033600/",
+      "name": "沃尔夫冈·科尔哈泽 Wolfgang Kohlhaase"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033134/",
+      "name": "纳威尔·佩雷兹·毕斯卡亚特 Nahuel Pérez Biscayart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327342/",
+      "name": "拉斯·艾丁格 Lars Eidinger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350576/",
+      "name": "约纳斯·奈伊 Jonas Nay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438807/",
+      "name": "大卫·舒特 David Schütter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012598/",
+      "name": "亚历山大·拜尔 Alexander Beyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1095191/",
+      "name": "安德里亚斯·霍佛尔 Andreas Hofer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247430/",
+      "name": "莉奥妮·贝尼希 Leonie Benesch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449245/",
+      "name": "朱塞佩·希拉奇 Giuseppe Schillaci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324310/",
+      "name": "安托尼·查隆 Antonin Chalon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444273/",
+      "name": "菲利克斯·冯·布雷多 Felix von Bredow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283165/",
+      "name": "帕斯卡尔·艾尔索 Pascal Elso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218187/",
+      "name": "马库斯·卡尔文 Marcus Calvin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465535/",
+      "name": "索菲亚·格谢维奇 Sofya Gershevich"
+    }
+  ]
+,
+  "datePublished": "2020-02-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H7M",
+  "description": "二战期间，犹太人吉尔斯在集中营谎称自己是波斯人保命，被一位德国军官看中要求教自己波斯语。对波斯语完全不懂的吉尔斯只能凭空编出一门语言，他开始用集中营中关押的犹太人的名字作为词根，编造出上千个“波斯语”...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "330758",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.1"
+  }
+}

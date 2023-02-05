@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "周六夜现场：唐·钱德尔/加里·克拉克 Saturday Night Live: Don Cheadle/Gary Clark Jr.",
+  "url": "/subject/30463173/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2549066261.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053573/",
+      "name": "唐·钱德尔 Don Cheadle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310409/",
+      "name": "加里·克拉克 Gary Clark Jr."
+    }
+  ]
+,
+  "datePublished": "2019-02-16",
+  "genre": ["\u559c\u5267", "\u97f3\u4e50"],
+  "duration": "PT1H0M",
+  "description": "Season 44 | Episode 13",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

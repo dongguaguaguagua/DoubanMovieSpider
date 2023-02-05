@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寻狗启事",
+  "url": "/subject/30185415/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2518068319.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394438/",
+      "name": "蒋佳辰 Jiachen Jiang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394438/",
+      "name": "蒋佳辰 Jiachen Jiang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335315/",
+      "name": "丁鹤 Xihe Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371713/",
+      "name": "黄靖芯 Jingxin Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442045/",
+      "name": "贾天明 "
+    }
+  ]
+,
+  "datePublished": "2018-06-18",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H40M",
+  "description": "即将硕士毕业的张广胜不慎将教授的狗丢失。为了避免不必要的麻烦，他不得不使出浑身解数去寻找，进而却引发一连串啼笑皆非的故事。影片中几个长镜头场景手法娴熟，通过琐碎繁杂的生活场景很好地表现了普通人面对生活...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1809",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

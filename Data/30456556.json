@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "偷摩托车的人 The Bike Thief",
+  "url": "/subject/30456556/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2641461349.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455685/",
+      "name": "马特·钱伯斯 Matt Chambers"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455685/",
+      "name": "马特·钱伯斯 Matt Chambers"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368881/",
+      "name": "亚力克·塞克雷亚努 Alec Secareanu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337311/",
+      "name": "安娜·威尔逊-琼斯 Anna Wilson-Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000379/",
+      "name": "安娜玛丽亚·玛琳卡 Anamaria Marinca"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172256/",
+      "name": "卢西安·姆瑟马蒂 Lucian Msamati"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342214/",
+      "name": "阿米尔·鲍特罗斯 Amir Boutrous"
+    }
+  ]
+,
+  "datePublished": "2020-11-02",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H19M",
+  "description": "对于一名骑手来说，他的摩托车便是一切。作为披萨外卖员，摩托车更代表着生计。它是移民父亲的精神支柱，载妻子去上班，载女儿去学校。所以当某一天晚上，摩托车被偷了，父亲的世界也随之崩塌。他必须在自己下一轮轮...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "142",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

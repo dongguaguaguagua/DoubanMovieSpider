@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迷失安狄 Miss Andy",
+  "url": "/subject/30334960/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2585101276.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340717/",
+      "name": "陈立谦 Teddy Chin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323133/",
+      "name": "杜政哲 Ryan Tu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016537/",
+      "name": "李李仁 Liren Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005214/",
+      "name": "林心如 Ruby Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375279/",
+      "name": "陈泽耀 Jack Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435480/",
+      "name": "涂恺哲 Kyzer Tou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417674/",
+      "name": "原腾 Teng Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437506/",
+      "name": "林绿 Lynn Lim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391553/",
+      "name": "林静苗 Ching Miau Lim"
+    }
+  ]
+,
+  "datePublished": "2020-10-31",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H49M",
+  "description": "《迷失安狄》以社会边缘人士为主角，故事围绕性别议题、非法移工等话题展开。这是林心如首次担任电影监制，李李仁则大胆挑战跨性别人士，剧照中可看到他造型多变，忧郁又妖娇的气质令人眼睛一亮。电影讲述跨越性别人...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3152",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

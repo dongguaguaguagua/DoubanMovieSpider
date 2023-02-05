@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "跨州轶事录 Virginia Minnesota",
+  "url": "/subject/33408831/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553459216.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350594/",
+      "name": "奥罗拉·佩里诺 Aurora Perrineau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330269/",
+      "name": "蕾切尔·亨德里克斯 Rachel Hendrix"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388815/",
+      "name": "杰西卡·米塞尔 Jessica Miesel"
+    }
+  ]
+,
+  "datePublished": "2019-03-01",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H38M",
+  "description": "Two young women, torn apart by a childhood tragedy, unexpectedly reunite and embark on an illuminati...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "85",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

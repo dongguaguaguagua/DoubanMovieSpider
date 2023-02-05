@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "花儿与歌声",
+  "url": "/subject/33393269/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2556888543.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416585/",
+      "name": "王蕾 Lei Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416586/",
+      "name": "王贞 Zhen Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341217/",
+      "name": "孟宪明 Xianming Meng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416587/",
+      "name": "魏歆惠 Xinhui Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416588/",
+      "name": "刘晨毅 Chenyi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416747/",
+      "name": "王润泽 Runze Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416742/",
+      "name": "曹一诺 Yinuo Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416743/",
+      "name": "周琳翌 Linyi Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416744/",
+      "name": "周北辰 Beichen Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416745/",
+      "name": "曹德祥 Dexiang Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416746/",
+      "name": "郑陈皓淼 Haomiao Zhengchen"
+    }
+  ]
+,
+  "datePublished": "2019-05-31",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead", "\u513f\u7ae5"],
+  "duration": "PT1H33M",
+  "description": "一部以儿童为主题创作的现实主义作品。描写了乡村儿童与老师之间的故事，让读者一步步走进那些远离父母的乡村孩子的心田。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

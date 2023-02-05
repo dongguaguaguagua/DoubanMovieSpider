@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "莫迪总理 PM Narendra Modi",
+  "url": "/subject/33461037/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2557733205.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049961/",
+      "name": "维克·奥贝欧 Vivek Oberoi"
+    }
+  ]
+,
+  "datePublished": "2019-05-24",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT2H16M",
+  "description": "印度总理谢里·纳伦德拉·莫迪的传记电影。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

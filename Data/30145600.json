@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀人动机",
+  "url": "/subject/30145600/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301197/",
+      "name": "黄明升 Ming-Sing Wong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275265/",
+      "name": "海岩 Hai Yan"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "6月22日，第20届上海国际电影节期间，根据著名作家、编剧海岩力作《杀人动机》改编的院线电影出品方举办新闻发布会，高调启动全国寻找新“岩女郎”造星活动。
+这部根据海岩最新力作《杀人动机》改编的电影，融...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "帕尼 Paani",
+  "url": "/subject/4312575/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036730/",
+      "name": "谢卡尔·卡普尔 Shekhar Kapur"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036730/",
+      "name": "谢卡尔·卡普尔 Shekhar Kapur"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359354/",
+      "name": "大卫·法尔 David Farr"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Set years in the future, when the earth&#39;s water supply has run-out, qiwan.cc events unfold including...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "随风摇曳",
+  "url": "/subject/20451436/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2560169351.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314373/",
+      "name": "艾杕 Di Ai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314373/",
+      "name": "艾杕 Di Ai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313784/",
+      "name": "娄艺潇 Yixiao Lou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371247/",
+      "name": "陈水清 Shuiqing Chen"
+    }
+  ]
+,
+  "datePublished": "2019-11-30",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H29M",
+  "description": "父子两代人在1989、1999、2009的遭遇，影片由三段组成：1989的部分，讲述的是父亲在期望进文化馆的过程中对自己的“放弃”；1999部分，是父子二人在艰难求生存中的无奈；2009部分，则是儿子...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

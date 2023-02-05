@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "太棒了 Énorme",
+  "url": "/subject/30465742/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2640208220.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402538/",
+      "name": "索菲·勒图讷尔 Sophie Letourneur"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402538/",
+      "name": "索菲·勒图讷尔 Sophie Letourneur"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005164/",
+      "name": "玛琳娜·佛伊丝 Marina Foïs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332591/",
+      "name": "乔纳森·科恩 Jonathan Cohen"
+    }
+  ]
+,
+  "datePublished": "2019-10-17",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H41M",
+  "description": "It takes him suddenly at 40 years: Frédéric wants a baby, Claire never wanted one and they agreed on...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "468",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

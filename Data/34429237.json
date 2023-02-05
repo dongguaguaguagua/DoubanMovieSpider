@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你好倾城",
+  "url": "/subject/34429237/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2581236361.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359626/",
+      "name": "许建 Jian Xu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2020-02-24",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H30M",
+  "description": "电影《你好，倾城》主要讲述了一个穷小子和富家千金之间发生的一系列爱情故事，“程皓”许云建、“叶倾城”范奇和“黄俊淇”刘文的强强联合也碰撞出了许多不一样的精彩火花。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

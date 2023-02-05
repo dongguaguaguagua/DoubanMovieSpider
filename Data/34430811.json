@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "居无定所 Secrets in a Small Town",
+  "url": "/subject/34430811/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2559456072.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291973/",
+      "name": "Thomas Michael Thomas Michael"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290841/",
+      "name": "保罗·曼奇尼 Paolo Mancini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291973/",
+      "name": "Thomas Michael Thomas Michael"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022871/",
+      "name": "莱亚·吉斯特德 Rya Kihlstedt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1131074/",
+      "name": "阿尔·穆卡丹 Al Mukadam"
+    }
+  ]
+,
+  "datePublished": "2019-02-09",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H33M",
+  "description": "A mother&#39;s worst nightmare comes true when her teenage daughter goes missing.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "644",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

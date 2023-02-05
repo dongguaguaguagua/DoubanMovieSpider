@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "智深传2",
+  "url": "/subject/34447419/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561035774.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348169/",
+      "name": "王厦 Xia Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315699/",
+      "name": "晋松 Song Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373373/",
+      "name": "谭旭 Xu Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361309/",
+      "name": "叶青青 Qingqing Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376536/",
+      "name": "郑文森 Jason Zheng"
+    }
+  ]
+,
+  "datePublished": "2019-06-27",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H15M",
+  "description": "高衙内为得到林娘子设连环计陷害林冲，一面野猪林要杀林冲，一面又故意让林娘子得知消息支开鲁智深，可谓阴谋算尽。鲁智深本受林冲托付保护林娘子，林冲有难，只得想办法先救了林冲，再赶回来护着林娘子。可惜林冲对...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

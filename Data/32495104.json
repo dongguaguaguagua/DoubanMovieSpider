@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "守阙者",
+  "url": "/subject/32495104/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2567454804.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413064/",
+      "name": "唐唯瀚 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413064/",
+      "name": "唐唯瀚 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027577/",
+      "name": "古天乐 Louis Koo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037273/",
+      "name": "张家辉 Nick Cheung"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H37M",
+  "description": "香港警队内务部年轻警员小拾奉命作卧底搜集缉毒组车督察私通黑道证据，车表面以黑制黑成功拘捕毒枭，拾旋即发现案中有案，原来车借围捕为恩师拆除勒索陷阱…车虽情有可原，拾却坚守法治，正“邪”对决。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

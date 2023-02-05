@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "破局者",
+  "url": "/subject/30447478/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483641/",
+      "name": "邝晓彤 Xiaotong Kuang"
+    }
+  ]
+,
+  "datePublished": "2019-01-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H47M",
+  "description": "一个记录着著名企业宏天集团犯罪证据的U盘以及李金突然消失。李金曾无意在天台偷听到公司董事长秘书杨平和张一成的谈话，言语间更是得知杨平拿张一成的女儿威胁他，要他一人替公司背下工程事故的责任。李金去盗取犯...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "格蕾女子乐队 The Goree Girls",
+  "url": "/subject/3291924/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005013/",
+      "name": "米密·莱德 Mimi Leder"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285940/",
+      "name": "约翰·李·汉考克 John Lee Hancock"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014748/",
+      "name": "玛格丽特·奈格尔 Margaret Nagle"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u6b4c\u821e"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

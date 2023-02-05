@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阴云 Dark Cloud",
+  "url": "/subject/33456413/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2873327943.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1265832/",
+      "name": "艾米丽·阿塔克 Emily Atack"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343120/",
+      "name": "雨果·阿姆斯特朗 Hugo Armstrong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382909/",
+      "name": "图森特·莫里森 Toussaint Morrison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455690/",
+      "name": "阿曼达·黛 Amanda Day"
+    }
+  ]
+,
+  "datePublished": "2022-05-09",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H21M",
+  "description": "Following a horrific accident, a woman voluntarily becomes a test subject to an artificial intellige...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "195",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

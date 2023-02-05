@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我拿什么拯救你",
+  "url": "/subject/30423917/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2544795672.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382583/",
+      "name": "余斌 Bin Yu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382583/",
+      "name": "余斌 Bin Yu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341683/",
+      "name": "吴永淦 Yonggan Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420581/",
+      "name": "钱思怡 Siyi Qian"
+    }
+  ]
+,
+  "datePublished": "2019-01-08",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H26M",
+  "description": "莫小妍在体检中被查出罕见的疾病，通过调查得知林峰与自己相匹配。在莫小妍不断接触下林峰能够答应这看起来无厘头的要求吗？ 另一方面，莫小妍的男闺蜜对林峰的妹妹产生情愫，但一直不被林峰看好，这对鸳鸯能否在最...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

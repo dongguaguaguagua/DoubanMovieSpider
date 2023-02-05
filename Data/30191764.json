@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "失踪谜案 Missing",
+  "url": "/subject/30191764/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2518771043.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040796/",
+      "name": "塔布 Tabu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327902/",
+      "name": "安努·卡波尔 Annu Kapoor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1060895/",
+      "name": "马诺杰·巴杰帕伊 Manoj Bajpai"
+    }
+  ]
+,
+  "datePublished": "2018-04-06",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT2H0M",
+  "description": "一对夫妇入住了一家度假酒店,几个小时后,他们的女儿失踪了.随着寻找他们女儿的时间的推移,越来越多的真相与谜题出现.....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "591",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

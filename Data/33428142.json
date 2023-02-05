@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爹来靠 Come to Daddy",
+  "url": "/subject/33428142/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2584229388.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434812/",
+      "name": "安特·汀普森 Ant Timpson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187586/",
+      "name": "Toby Harvard Toby Harvard"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054395/",
+      "name": "伊利亚·伍德 Elijah Wood"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007032/",
+      "name": "史蒂芬·麦克哈蒂 Stephen McHattie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025232/",
+      "name": "马丁·唐文 Martin Donovan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1194078/",
+      "name": "西蒙·钱 Simon Chin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330131/",
+      "name": "奥娜·格奥尔 Ona Grauer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296561/",
+      "name": "玛德琳·萨米 Madeleine Sami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332722/",
+      "name": "迈克尔·史麦利 Michael Smiley"
+    }
+  ]
+,
+  "datePublished": "2019-04-25",
+  "genre": ["\u559c\u5267", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H33M",
+  "description": "一个30岁的男人前往一座偏远的小屋，与疏远的父亲重新建立联系。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1128",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

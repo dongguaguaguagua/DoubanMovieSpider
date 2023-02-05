@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "背叛者 Rebelles",
+  "url": "/subject/30173633/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2549509212.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373588/",
+      "name": "阿伦·毛德特 Allan Mauduit"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373588/",
+      "name": "阿伦·毛德特 Allan Mauduit"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009435/",
+      "name": "塞西尔·德·弗朗斯 Cécile De France"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032335/",
+      "name": "友兰达·梦露 Yolande Moreau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340944/",
+      "name": "奥黛丽·拉米 Audrey Lamy"
+    }
+  ]
+,
+  "datePublished": "2019-03-13",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H27M",
+  "description": "阿伦·毛德特执导[背叛者](Rebelles)。影片由塞西尔·德·弗朗斯([单车少年])、友兰达·梦露([花落花开])、奥黛丽·拉米([一切为了幸福])主演，故事讲述三个女人意外杀死了她们工作的鱼罐头...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

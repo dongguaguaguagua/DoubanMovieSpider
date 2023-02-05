@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "向阳的日子",
+  "url": "/subject/26857964/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510707680.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401447/",
+      "name": "张罗平 Luoping Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401447/",
+      "name": "张罗平 Luoping Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276003/",
+      "name": "吴超 Chao Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386553/",
+      "name": "海尔夫 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314078/",
+      "name": "王力可 Like Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274390/",
+      "name": "吕聿来 Yulai Lü"
+    }
+  ]
+,
+  "datePublished": "2018-06-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "张向阳1岁的时候母亲病逝，父亲张恒远再婚，向阳跟着奶奶在大伯家长大。向阳10岁的时候，奶奶去世，张向阳不得不回到新家。面对与自己生疏淡漠的儿子，张恒远感到非常歉疚，主动亲近向阳，花更多时间陪伴向阳，父...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "713",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

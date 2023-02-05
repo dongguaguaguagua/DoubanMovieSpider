@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大鲨鱼 Big Shark",
+  "url": "/subject/30458324/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2548404075.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027327/",
+      "name": "托米·韦素 Tommy Wiseau"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027327/",
+      "name": "托米·韦素 Tommy Wiseau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009569/",
+      "name": "格雷戈·赛斯特罗 Greg Sestero"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Three firefighters must save New Orleans from a shark attack.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

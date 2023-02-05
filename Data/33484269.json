@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "真假孙悟空",
+  "url": "/subject/33484269/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2558613500.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391174/",
+      "name": "徐飞 Fei Xu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193019/",
+      "name": "欧阳靖 Jin Auyeung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384742/",
+      "name": "金泳三 Yongsan Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359115/",
+      "name": "亦涵 Yihan"
+    }
+  ]
+,
+  "datePublished": "2019-06-21",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H10M",
+  "description": "《美猴王之真假孙悟空》魔幻动作爱情电影。本片讲述了猴吉成为美猴王的过程中面对正义与邪恶，友情与爱情时面对的种种选择。猴吉的真实、善良、忠义，以及释然代表了人们在爱的状态下人性里阳光的一面所做出的种种抉...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

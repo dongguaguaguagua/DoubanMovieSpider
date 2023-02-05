@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "壹号别墅",
+  "url": "/subject/30183443/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519548898.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391591/",
+      "name": "王保国 Baoguo Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391591/",
+      "name": "王保国 Baoguo Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391592/",
+      "name": "祁晓野 Xiaoye Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391593/",
+      "name": "刘玉璇 Yuxuan Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367657/",
+      "name": "项洪 Hong Xiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391594/",
+      "name": "侯宇航 Yuhang Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391595/",
+      "name": "林诗曈 Shitong Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391596/",
+      "name": "关健 Jian Guan"
+    }
+  ]
+,
+  "datePublished": "2018-04-19",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H29M",
+  "description": "为躲避灾祸，年轻妈妈雨婷带着女儿毛豆，住进了壹号别墅。这里曾是贪官会所，过去辉煌无比，如今门可罗雀。女主人梅姨是一位善煲靓汤的厨娘，她拥有多重性格，神秘莫测。而另外的鬼魅力量，也与梅姨一起，步步逼近母...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

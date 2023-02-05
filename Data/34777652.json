@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小镇青年之潜罪者",
+  "url": "/subject/34777652/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2564278998.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420634/",
+      "name": "马奔腾 Benteng Ma"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420950/",
+      "name": "李子岳 Ziyue Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420944/",
+      "name": "蓝伟杰 Weijie Lan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420947/",
+      "name": "梁伟杰 Weijie Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420948/",
+      "name": "甄雨薇 Yuwei Zhen"
+    }
+  ]
+,
+  "datePublished": "2019-09-03",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H16M",
+  "description": "南方小镇，四个平凡的青年相依为命，潦草度日，却意外被卷入了一桩杀人案。他们在一夜狂欢后醉酒醒来，身边竟有一具尸体。在因果未明的情况下，四人为了逃避惩罚匆忙掩埋尸体，而后开始了不顾一切的逃亡。一行人穿越...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

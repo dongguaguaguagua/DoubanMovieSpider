@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "青春的牙",
+  "url": "/subject/33377431/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2565688730.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323753/",
+      "name": "陈兵 Bing Chen"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391530/",
+      "name": "崔绍涵 Shaohan Cui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351898/",
+      "name": "鲍天琦 Tianqi Bao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315774/",
+      "name": "尤浩然 Hao-ran You"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347731/",
+      "name": "韩承羽 Chengyu Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274979/",
+      "name": "肖央 Yang Xiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352321/",
+      "name": "荣梓杉 Zishan Rong"
+    }
+  ]
+,
+  "datePublished": "2019-03-08",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "电影讲述了大学校园里一段疯狂而炙热的追爱故事。追最美的姑娘，干最疯狂的事儿，闯最丢脸的祸…这，就是青春！",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

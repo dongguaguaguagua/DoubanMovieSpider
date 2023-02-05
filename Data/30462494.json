@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "维克多和西莉亚 Victor et Célia",
+  "url": "/subject/30462494/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2551247007.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028621/",
+      "name": "皮埃尔·若利韦 Pierre Jolivet"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028621/",
+      "name": "皮埃尔·若利韦 Pierre Jolivet"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325771/",
+      "name": "亚瑟·杜彭 Arthur Dupont"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413604/",
+      "name": "爱丽丝·贝拉迪 Alice Belaïdi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274769/",
+      "name": "阿德里安·若利韦 Adrien Jolivet"
+    }
+  ]
+,
+  "datePublished": "2019-04-24",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H31M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

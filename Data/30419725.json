@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "完美陌生人(俄罗斯版) Громкая связь",
+  "url": "/subject/30419725/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2544438743.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005695/",
+      "name": "谢尔盖·彼得雷科夫 Sergey Petreykov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010971/",
+      "name": "列昂尼德·巴拉茨 Leonid Barats"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051353/",
+      "name": "罗斯季斯拉夫·哈伊特 Rostislav Khait"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010971/",
+      "name": "列昂尼德·巴拉茨 Leonid Barats"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384405/",
+      "name": "伊琳娜·戈尔巴乔娃 Irina Gorbacheva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051353/",
+      "name": "罗斯季斯拉夫·哈伊特 Rostislav Khait"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124564/",
+      "name": "玛丽亚·米罗诺娃 Mariya Mironova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244557/",
+      "name": "卡米尔·拉林 Kamil Larin"
+    }
+  ]
+,
+  "datePublished": "2019-02-14",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H36M",
+  "description": "本片翻拍自2016年在意大利上映的《完美陌生人》电影，这部电影讲述了聚集在乡间别墅的七个朋友开始玩笑话 - 参与者必须读出所有来自他们的信息，并且只能通过扬声器接听电话。 他们甚至无法想象他们对彼此有...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

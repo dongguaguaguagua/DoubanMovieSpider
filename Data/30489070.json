@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "敢死七镖客 The Glorious Seven",
+  "url": "/subject/30489070/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2550701895.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413317/",
+      "name": "哈拉尔·富兰克林 Harald Franklin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419452/",
+      "name": "萨拉-萨拉莫 Sara Sálamo"
+    }
+  ]
+,
+  "datePublished": "2019-03-12",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H33M",
+  "description": "阴险的富豪安东尼·莱文雇佣了前军官大卫·盖拉去营救被游击队首领哈维尔·马丁内斯绑架的妻子瓦伦蒂娜。大卫在找到瓦伦蒂娜才知道，瓦伦蒂娜与哈维尔原为一对心心相印的恋人，因为安东尼的巧取豪夺而分离。大卫决定...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "437",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

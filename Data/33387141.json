@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "啤酒火箭",
+  "url": "/subject/33387141/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2552071273.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413934/",
+      "name": "韩啸 Shawn Han"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413934/",
+      "name": "韩啸 Shawn Han"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351884/",
+      "name": "栾蕾英 Leiying Luan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413957/",
+      "name": "裴晓驰 Xiaochi Pei"
+    }
+  ]
+,
+  "datePublished": "2019-04-02",
+  "genre": ["\u559c\u5267", "\u52a8\u753b"],
+  "duration": "PT1H7M",
+  "description": "这是一个青春文艺话唠电影，讲述了十八线男演员张久泽与好友李东洋的生活日常。张久泽是这个城市里千千万万个梦想成为演员的其中一个，现在阶段的他正处在一个对未来没有明确目标迷茫阶段，但是他好像又在等待着什么...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "王牌大贱谍4 Austin Powers 4",
+  "url": "/subject/3074531/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1168213373.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018081/",
+      "name": "杰伊·罗奇 Jay Roach"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017899/",
+      "name": "麦克·梅尔斯 Mike Myers"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "The fourth installment in the ysgou.cc Austin Powers series.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

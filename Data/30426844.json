@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "纵情起舞 Let&#39;s Dance",
+  "url": "/subject/30426844/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554452546.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473484/",
+      "name": "亚历山大·贝雷赞 Alexander Berezan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473484/",
+      "name": "亚历山大·贝雷赞 Alexander Berezan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327248/",
+      "name": "吉约姆·德·东克戴克 Guillaume de Tonquedec"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359706/",
+      "name": "艾莉西亚·乔达诺 Alexia Giordano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1242097/",
+      "name": "菲奥蕾拉·坎帕内拉 Fiorella Campanella"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441065/",
+      "name": "雷安·本塞迪 Rayane Bensetti"
+    }
+  ]
+,
+  "datePublished": "2019-03-27",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H49M",
+  "description": "约瑟夫是一位热情的嘻哈舞者，他拒绝和父亲一起去巴黎碰碰运气。他和他的女友艾玛和最好的朋友卡里姆一起，加入了著名的打破者尤里（Yuri）的巴黎剧组，试图赢得一场国际嘻哈比赛。但在选秀的那天，一切都没有如...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "144",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

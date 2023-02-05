@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "画个圈圈",
+  "url": "/subject/25880959/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2628041301.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329206/",
+      "name": "王子鸣 Tsz Ming Wong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313457/",
+      "name": "张炭 Cheung Tan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275504/",
+      "name": "郭品超 Dylan Kuo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016866/",
+      "name": "杨恭如 Kristy Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313563/",
+      "name": "周秀娜 Chrissie Chaw"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274556/",
+      "name": "于荣光 Ringo Yu"
+    }
+  ]
+,
+  "datePublished": "2020-12-30",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b"],
+  "duration": "PT1H43M",
+  "description": "影片主要讲述的是天外飞来流星之际，三对情侣发脾气诅咒对方，没想到第二天醒来发现诅咒竟然成真，自己落入了难堪的境地，过程中充满爆笑荒诞。最终凭借着对爱情的坚持，他们打破魔咒，拯救了自己，让人捧腹爆笑的同...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

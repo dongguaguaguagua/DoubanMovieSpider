@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "音乐家",
+  "url": "/subject/27040921/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2556763879.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319661/",
+      "name": "西尔扎提·亚合甫 Xirzat Yahup"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414849/",
+      "name": "张遂遂 Suisui Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413567/",
+      "name": "哈依夏·塔巴热克 Hajxia Tabazhek"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032540/",
+      "name": "胡军 Jun Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010504/",
+      "name": "袁泉 Quan Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362429/",
+      "name": "别里克·艾特占诺夫 Berik Aitzhanov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414850/",
+      "name": "阿鲁赞·加佐别可娃 Aruzhan Jazilbekova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303774/",
+      "name": "剧雪 Xue Ju"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418542/",
+      "name": "迪纳茨·努尔赛伊提 Dinaz Noorsaidi"
+    }
+  ]
+,
+  "datePublished": "2019-04-13",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2"],
+  "duration": "PT1H44M",
+  "description": "《音乐家》根据冼星海在阿拉木图的经历改编，赞颂人民音乐家在异国他乡遭受苦难却仍心系祖国的伟大精神。战时艰苦，冼星海在哈萨克斯坦隐姓埋名，却不忘寻找机会回到祖国。同时他的音乐《黄河大合唱》在遥远的延安时...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4498",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

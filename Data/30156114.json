@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "快递侠",
+  "url": "/subject/30156114/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2515491567.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343945/",
+      "name": "焦洋 Stephen Jiao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418641/",
+      "name": "朱鱼 Yu Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418642/",
+      "name": "武洋 Yang Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408457/",
+      "name": "曹天恺 Tiankai Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425761/",
+      "name": "贾清茹 Qingru Jia"
+    }
+  ]
+,
+  "datePublished": "2018-02-22",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H14M",
+  "description": "超能者存在与我们身边，但他们的生活并不想欧美大片里超级英雄那么风光，他们往往是我们身边最普通的人，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "572",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

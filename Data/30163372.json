@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "分享 Share",
+  "url": "/subject/30163372/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2556931144.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364943/",
+      "name": "皮帕·比安科 Pippa Bianco"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364943/",
+      "name": "皮帕·比安科 Pippa Bianco"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350090/",
+      "name": "查理·普拉默 Charlie Plummer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1203180/",
+      "name": "普娜·贾甘纳坦 Poorna Jagannathan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365256/",
+      "name": "尼古拉斯·加利齐纳 Nicholas Galitzine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319852/",
+      "name": "J.C.麦肯泽 J.C. MacKenzie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410736/",
+      "name": "瑞安·巴雷托 Rhianne Barreto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416810/",
+      "name": "拉维·西蒙尼 Lovie Simone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462896/",
+      "name": "吉米·崔 Kimmy Choi"
+    }
+  ]
+,
+  "datePublished": "2019-01-25",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H27M",
+  "description": "After discovering a disturbing video from a night she doesn&#39;t remember, sixteen-year-old Mandy must ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "218",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

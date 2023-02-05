@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天才",
+  "url": "/subject/26862263/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047989/",
+      "name": "汤姆·提克威 Tom Tykwer"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "汤姆·提克威与沃卓斯基姐弟（妹）在2012年与新原野公司合作，推出科幻烧脑大片《云图》，该片于2013年初贺岁档在中国上映，斩获1.7亿票房成绩。或许双方合作愉快，也为下一部影片的牵手创造了良好的前提...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

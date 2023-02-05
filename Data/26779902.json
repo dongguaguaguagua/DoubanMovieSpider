@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "占芭花开",
+  "url": "/subject/26779902/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2543943252.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317974/",
+      "name": "金韬 Tao Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325198/",
+      "name": "刘全玮 Quanwei Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408897/",
+      "name": "周淼 Miao Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407977/",
+      "name": "刘玮婷 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408898/",
+      "name": "钱达莉 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318199/",
+      "name": "马骏超 Junchao Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357573/",
+      "name": "王皓祯 Haozhen Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388628/",
+      "name": "陈薪璇 Xinxuan Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274928/",
+      "name": "李明 Ming Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274779/",
+      "name": "赵小锐 Xiaorui Zhao"
+    }
+  ]
+,
+  "datePublished": "2018-02-04",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "2016年4月25日，为庆祝中国、老挝建交55周年，由青年电影制片厂、上海八合资产管理有限公司、中视亚太（北京）国际文化传媒有限公司联合出品的首部中老合作电影《占芭花开》启动仪式在北京电影学院隆重举行...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Whisper of the Wolves",
+  "url": "/subject/27141902/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036371/",
+      "name": "汤姆·塞兹摩尔 Tom Sizemore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025219/",
+      "name": "托宾·贝尔 Tobin Bell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000099/",
+      "name": "凯欧瓦·高登 Kiowa Gordon"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "In a hyper-religious community, a young girl with a sinful secret is harassed by an ominous howling ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

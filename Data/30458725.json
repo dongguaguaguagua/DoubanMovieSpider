@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯狂假期 Ibiza",
+  "url": "/subject/30458725/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2555942395.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341584/",
+      "name": "马蒂约·乌利永 Mathieu Oullion"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048245/",
+      "name": "克里斯蒂昂·克拉维埃 Christian Clavier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014333/",
+      "name": "玛蒂尔德·瑟妮 Mathilde Seigner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000643/",
+      "name": "弗雷德里克·贝尔 Frédérique Bel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088133/",
+      "name": "路易多·德·朗克桑 Louis-Do de Lencquesaing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041479/",
+      "name": "奥利维埃·马夏尔 Olivier Marchal"
+    }
+  ]
+,
+  "datePublished": "2019-07-03",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H26M",
+  "description": "菲利浦和卡萝刚在一起，两人都在不久前才离婚。菲利浦想尽办法只为获得卡萝两个孩子的好感。他和卡萝的儿子打赌，如果他通过考试，顺利毕业的话，他就可以选择他想去的渡假胜地：伊维萨岛。对于习惯法国北部安宁生活...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "275",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

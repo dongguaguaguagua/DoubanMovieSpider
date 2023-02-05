@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "肖像画家 Portraitist",
+  "url": "/subject/34676921/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2563742528.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335957/",
+      "name": "布里吉特·乌尔豪森 Brigitte Urhausen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080736/",
+      "name": "艾伯特·德尔佩 Albert Delpy"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H16M",
+  "description": "孙女病情的电话中断了一位老肖像画家的自杀，两个将死之人开始寻找美的定义",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,113 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亲密旅行",
+  "url": "/subject/30337935/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2569102032.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274648/",
+      "name": "沙溢 Yi Sha"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365531/",
+      "name": "巢琳 Chao Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340701/",
+      "name": "王敏 Min Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363048/",
+      "name": "沙俊伯 Junbo Sha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274648/",
+      "name": "沙溢 Yi Sha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029395/",
+      "name": "姚晨 Chen Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275536/",
+      "name": "赵子琪 Ziqi Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339315/",
+      "name": "朱锐 Rui Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354409/",
+      "name": "许龄月 Amelie Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353611/",
+      "name": "桑平 Ping Sang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320874/",
+      "name": "刘欢 Huan Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274939/",
+      "name": "胡可 Ke Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422937/",
+      "name": "沙俊良 Junliang Sha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437213/",
+      "name": "季鹏 Peng Ji"
+    }
+  ]
+,
+  "datePublished": "2019-10-03",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H36M",
+  "description": "吊儿郎当的专车司机沈童，接到一个从北京到舟山的长途订单，乘客有点特殊--8岁的男孩男男和一条叫伽利略的狗。看在酬劳的份上，沈童不情不愿地接下了这个订单，开始了北京前往舟山的驾车旅途。
+一路上的旅程，经...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5264",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

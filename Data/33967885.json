@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "痊愈 Recovery",
+  "url": "/subject/33967885/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558833996.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1200658/",
+      "name": "John Liang John Liang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1200658/",
+      "name": "John Liang John Liang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420647/",
+      "name": "史蒂芬妮·皮尔森 Stephanie Pearson"
+    }
+  ]
+,
+  "datePublished": "2019-06-04",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "一个隐蔽的海洛因治疗中心的病人和工作人员必须与他们自己的恶魔进行战斗，因为一个神秘的杀手开始一个接一个地把他们抓走。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "212",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.6"
+  }
+}

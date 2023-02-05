@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心想事成杂货铺",
+  "url": "/subject/30181304/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2518564311.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397043/",
+      "name": "李宁 Ning Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385911/",
+      "name": "尤钲渲 Zhengxuan You"
+    }
+  ]
+,
+  "datePublished": "2018-03-25",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5bb6\u5ead", "\u5947\u5e7b"],
+  "duration": "PT1H7M",
+  "description": "每当深夜十二点，城市里有这样一家神奇的商店，它会在不经意间出现在任何人眼前，吸引着人不自觉的走进去，名叫心想事成杂货铺。店里有着一位深沉内敛的老板，带着一个鬼马精灵的萝莉。没有人知道大叔和萝莉的来历，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

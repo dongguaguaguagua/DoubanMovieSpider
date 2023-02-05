@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卡拉里 Junglee",
+  "url": "/subject/33415912/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2562922622.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045153/",
+      "name": "查克·拉塞尔 Chuck Russell"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1466089/",
+      "name": "维什瓦纳特·查特吉 Vishwanath Chatterjee"
+    }
+  ]
+,
+  "datePublished": "2019-03-29",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT1H55M",
+  "description": "Raj(维德尤特·贾姆瓦尔饰)是一名兽医，住在孟买，经营着一家生意兴隆的兽医诊所。作为一个卡拉里帕亚图的武术家，他全身心地投入工作努力，拥有所有的人都想要的美好生活。但是，我们很快就会发现，眼前的平静...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "93",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

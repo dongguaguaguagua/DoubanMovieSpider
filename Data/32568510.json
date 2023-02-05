@@ -1,0 +1,101 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "人格四重奏 페르소나",
+  "url": "/subject/32568510/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553273265.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318935/",
+      "name": "李京美 Kyoung-mi Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309401/",
+      "name": "任弼星 Pil-Sung Yim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390082/",
+      "name": "全高云 Go-woon Jeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322566/",
+      "name": "金宗宽 Jong-kwan Kim"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312852/",
+      "name": "李知恩 IU"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1057004/",
+      "name": "裴斗娜 Doona Bae"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376380/",
+      "name": "朴海秀 Hae-soo Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313069/",
+      "name": "金太勋 Tae-hoon Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375754/",
+      "name": "李成旭 Seong-wook Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376163/",
+      "name": "郑俊元 Joon-won Jeong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445864/",
+      "name": "申达琪 Dal-gi Shim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439605/",
+      "name": "潘素英 So-Young Ban"
+    }
+  ]
+,
+  "datePublished": "2019-04-11",
+  "genre": ["\u5267\u60c5", "\u77ed\u7247"],
+  "duration": "PT0H25M",
+  "description": "《假面》(페르소나)是四部短片组成的短片集，将于4月份登陆Netflix。四部短片分别由任弼星、李京美、金宗宽、全高云执导。裴斗娜、朴海秀也将出演。任弼星执导短片讲述一个魅力十足的女人，能够让任何男人...",
+  "@type": "TVSeries",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "7642",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

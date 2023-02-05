@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "陌生之物 The Unfamiliar",
+  "url": "/subject/30422331/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2544669123.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1271011/",
+      "name": " Jennifer Nicole Stang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1161570/",
+      "name": "杰迈玛·韦斯特 Jemima West"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441416/",
+      "name": "克里斯托弗·迪恩 Christopher Dane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441417/",
+      "name": "丽贝卡·汉森 Rebecca Hanssen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441418/",
+      "name": "哈里·麦克米兰-亨特 Harry McMillan-Hunt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441419/",
+      "name": "蕾切尔·林 Rachel Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408621/",
+      "name": "托莉·巴特勒-哈特 Tori Butler-Hart"
+    }
+  ]
+,
+  "datePublished": "2020-06-19",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H29M",
+  "description": "讲述一个英国军医从战场回来，总看到一些可怕的“幻象”：血腥、怪人、怪物……以为是重度PTSD，随后，她发现陷入的是更为恐怖的境地，自己的生活也变得陌生。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "129",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

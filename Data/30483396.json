@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "笼中斗兽 Cagefighter: Worlds Collide",
+  "url": "/subject/30483396/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2618592541.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017913/",
+      "name": "吉娜·格申 Gina Gershon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351856/",
+      "name": "乔纳森·古德 Jonathan Good"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040509/",
+      "name": "迈克尔·加·怀特 Michael Jai White"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044944/",
+      "name": "米歇尔·雷恩 Michelle Ryan"
+    }
+  ]
+,
+  "datePublished": "2020-10-09",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u8fd0\u52a8"],
+  "duration": "PT1H38M",
+  "description": "Cagefighter follows mixed martial arts champion Reiss (Herdman) who unexpectedly loses a heavily pro...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "155",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

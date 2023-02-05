@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "数学家的历险 Adventures of a Mathematician",
+  "url": "/subject/30179857/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2587481846.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468748/",
+      "name": "托尔·克莱因 Thor Klein"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398118/",
+      "name": "菲利普·克里斯托弗 Philipp Christopher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336579/",
+      "name": "瑞安·盖奇 Ryan Gage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342203/",
+      "name": "艾斯特·加瑞尔 Esther Garrel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006295/",
+      "name": "乔尔·巴斯曼 Joel Basman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316917/",
+      "name": "山姆·基利 Sam Keeley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326089/",
+      "name": "萨宾·塔布瑞亚 Sabin Tambrea"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356108/",
+      "name": "理查德·哈泽赫斯特·梅森 Richard Hazlehurst Mason"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422874/",
+      "name": "菲利普·特洛斯基 Philippe Tlokinski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413020/",
+      "name": "马太乌兹·维克拉韦克 Mateusz Wieclawek"
+    }
+  ]
+,
+  "datePublished": "2020-06-26",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT1H42M",
+  "description": "The warmhearted story of Polish immigrant and mathematician Stan Ulam, who moved to the U.S. in the ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

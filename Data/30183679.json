@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "斯科特与席德 Scott and Sid",
+  "url": "/subject/30183679/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517783498.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356108/",
+      "name": "理查德·哈泽赫斯特·梅森 Richard Hazlehurst Mason"
+    }
+  ]
+,
+  "datePublished": "2018-03-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "From their first encounter as teenagers in high school, Scott and Sid seem unlikely friends. Scott i...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

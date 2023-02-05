@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Mugworth",
+  "url": "/subject/30185668/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2518080030.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048178/",
+      "name": "约翰·沃特斯 John Waters"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b", "\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "Christmas animated horror movie.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

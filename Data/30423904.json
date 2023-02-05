@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马修·伯恩之灰姑娘 Matthew Bourne’s Cinderella",
+  "url": "/subject/30423904/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2544794766.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074746/",
+      "name": "马修·伯恩 Matthew Bourne"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1169759/",
+      "name": "利亚姆·莫威尔 Liam Mower"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074746/",
+      "name": "马修·伯恩 Matthew Bourne"
+    }
+  ]
+,
+  "datePublished": "2018-12-01",
+  "genre": ["\u7231\u60c5", "\u6b4c\u821e", "\u620f\u66f2"],
+  "duration": "PT1H50M",
+  "description": "童话故事《灰姑娘》人尽皆知，但马修·伯恩的《灰姑娘》却出乎你的意料，这是一个发生在二战时伦敦的令人激动而回味无穷的爱情故事：一次偶然的相遇，为灰姑娘和年轻的英国皇家空军飞行员创造了一个神奇的夜晚，他们...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

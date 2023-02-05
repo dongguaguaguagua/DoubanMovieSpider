@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奔跑的少年",
+  "url": "/subject/33447759/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2571254234.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336306/",
+      "name": "戴维 David Dai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413714/",
+      "name": "刘祖光 Zuguang Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419543/",
+      "name": "伊利多斯·帕如克 Eldos Faruk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424059/",
+      "name": "阿依古丽·阿不都拉 Aygul Abdulla"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424060/",
+      "name": "阿拉法特·尼加提 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424061/",
+      "name": "艾克拜尔·牙合甫 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327778/",
+      "name": "常波 Bo Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424058/",
+      "name": "努尔曼姑·吐尔地玉素甫 "
+    }
+  ]
+,
+  "datePublished": "2019-10-07",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5", "\u4f20\u8bb0", "\u8fd0\u52a8"],
+  "duration": "PT1H32M",
+  "description": "在塔克拉玛干沙漠边缘的一个新疆村庄里，主人公帕尔哈提是一所小学的教师，幼年时候的足球梦想被父亲扼杀。一颗足球被风吹到帕尔哈提的脚下，唤起了他对足球的回忆和热情。由此一颗“天赐”的足球便开启了帕尔哈提和...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "766",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

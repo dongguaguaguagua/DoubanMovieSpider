@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乾坤镯",
+  "url": "/subject/33441903/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2555945003.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395583/",
+      "name": "吴双 Shuang Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420030/",
+      "name": "童芸 Yun Tong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420017/",
+      "name": "姚骆铭 Luoming Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347659/",
+      "name": "皮逸嘉 Yijia Pi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1150721/",
+      "name": "孙兴 Hing Suen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420031/",
+      "name": "李佳繁 Jiafan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420032/",
+      "name": "杜亭君 Tingjun Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420033/",
+      "name": "杨煌胤 Huangyin Yang"
+    }
+  ]
+,
+  "datePublished": "2019-07-18",
+  "genre": ["\u5267\u60c5", "\u53e4\u88c5"],
+  "duration": "PT1H32M",
+  "description": "电影《乾坤镯》讲述了发生在世外桃源福禄村的一起江湖纷争：与村长女儿小翠相恋的小木匠在村里挖出了一具遗骸，得到了乾坤镯。村长为了振兴村子，借此编造了发现哪吒墓和乾坤圈的谎言，想借此吸引游客。他并不知道，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

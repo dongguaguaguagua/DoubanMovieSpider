@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "抓紧点 Лови момент",
+  "url": "/subject/34439082/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560128924.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420652/",
+      "name": "阿列克西·乌沙科夫 Aleksey Ushakov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474919/",
+      "name": "安娜·泰利齐娜 Anna Telitsyna"
+    }
+  ]
+,
+  "datePublished": "2019-03-07",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H18M",
+  "description": "The main character is a cute ambitious girl Rita from a provincial town on the Black Sea coast. She ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

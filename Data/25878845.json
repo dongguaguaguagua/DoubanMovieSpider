@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Who Shot The Sheriff?",
+  "url": "/subject/25878845/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2242143317.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040469/",
+      "name": "John Andrews John Andrews"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040469/",
+      "name": "John Andrews John Andrews"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1063350/",
+      "name": "Buju Banton Buju Banton"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "Wesley Haynes, a previously convicted narcotics dealer, now clean, is accused of shooting the Sherri...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

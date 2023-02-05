@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "LoveLive! Sunshine!! 学园偶像电影 彩虹彼端 ラブライブ！サンシャイン!! The School Idol Movie Over the Rainbow",
+  "url": "/subject/30268746/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542697666.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362785/",
+      "name": "酒井和男 Kazuo Sakai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275192/",
+      "name": "花田十辉 Jukki Hanada"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360389/",
+      "name": "伊波杏树 Inami Anju"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361229/",
+      "name": "齐藤朱夏 Shuka Saito"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360762/",
+      "name": "逢田梨香子 Rikako Aida"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361232/",
+      "name": "高槻加奈子 Kanako Takatsuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361234/",
+      "name": "降幡爱 Ai Furihata"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361231/",
+      "name": "小林爱香 Aika Kobayashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317206/",
+      "name": "小宫有纱 Arisa Komiya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360763/",
+      "name": "诹访奈奈香 Nanaka Suwa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361233/",
+      "name": "铃木爱奈 Aina Suzuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048689/",
+      "name": "矢岛晶子 Akiko Yajima"
+    }
+  ]
+,
+  "datePublished": "2019-01-04",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H40M",
+  "description": "Aqours作为浦星女学院的学园偶像在最后的Love Live！中获得了漂亮的胜利。但是准备编入新学校的2年生、1年生面前却连续发生了意外的麻烦，而且前往毕业旅行的3年生也不知所踪！只有当大家要分开的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "729",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.9"
+  }
+}

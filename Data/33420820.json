@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "昆仑兄弟",
+  "url": "/subject/33420820/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554275196.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328104/",
+      "name": "阿布都克里木·阿不力孜 Abdukerim Abliz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328742/",
+      "name": "姜宏 Hong Jiang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404189/",
+      "name": "李牧时 Mushi Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412008/",
+      "name": "高琦 Qi Gao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316135/",
+      "name": "刘之冰 Zhibing Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342937/",
+      "name": "孔都孜扎依·塔西 Kunduzai Tasi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348439/",
+      "name": "阿卜力克木·阿卜来提 Ablik Muh Abdullah"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415430/",
+      "name": "马依热·艾买提江 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315263/",
+      "name": "肖荣生 Rongsheng Xiao"
+    }
+  ]
+,
+  "datePublished": "2019-04-26",
+  "genre": ["\u5267\u60c5", "\u897f\u90e8"],
+  "duration": "PT1H33M",
+  "description": "电影《昆仑兄弟》讲述了结对认亲干部徐昆来到离家1500公里的新疆南部农村，与当地村民马尔丹的母亲热依汗大妈结为亲戚，并得知了马尔丹的遭遇——三年前，马尔丹受同伴委托去乌鲁木齐出售一块几十万元的和田玉，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

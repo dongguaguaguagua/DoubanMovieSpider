@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "长风镇",
+  "url": "/subject/26999979/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2581187882.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321185/",
+      "name": "王晶 Jing Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321185/",
+      "name": "王晶 Jing Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408325/",
+      "name": "班玛加 Pema Jyad"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400352/",
+      "name": "卫西谛 Xidi Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424599/",
+      "name": "罗文卿 Wenqing Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315972/",
+      "name": "陈刚 Gang Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399566/",
+      "name": "陶桃涛 Taotao Tao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385777/",
+      "name": "崔楠 Nan Cui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275506/",
+      "name": "王宏伟 Hongwei Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349798/",
+      "name": "陈涵 Han Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483080/",
+      "name": "江禹葳 Yuwei Jiang"
+    }
+  ]
+,
+  "datePublished": "2019-07-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H3M",
+  "description": "长风镇是中国角落一个不起眼的小镇。居民大多彼此相识，形成自给自足的生态系统。镇上很多东西都是唯一的：电影院、牙医诊所、汽修厂、报社、小学……居民也多有些怪癖和畸零。小人物有各自的故事：无业少年红毛的爱...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "464",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

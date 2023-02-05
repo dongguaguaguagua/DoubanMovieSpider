@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异类侵袭",
+  "url": "/subject/33455022/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2566024591.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384062/",
+      "name": "张伊楠 E&#39;Naan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460821/",
+      "name": "李昀声 Yunsheng Li"
+    }
+  ]
+,
+  "datePublished": "2019-05-19",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H24M",
+  "description": "本剧讲述了一个性格单纯事业蹉跎的青年周以泽，与来自月光之城患有病毒的月瑶之间的禁忌之恋。在拯救爱人和对抗恶势力的过程中，美妙的爱情冲淡了所有的不安和恐惧，倡导真爱长存、正义不灭的永恒主题。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

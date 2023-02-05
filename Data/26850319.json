@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狂野城市 Wild City",
+  "url": "/subject/26850319/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328375/",
+      "name": "詹姆斯·庞索特 James Ponsoldt"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328375/",
+      "name": "詹姆斯·庞索特 James Ponsoldt"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "",
+  "description": "迪士尼最近和独立电影导演詹姆斯·庞索（James Ponsoldt）携手，准备制作一部真人结合CG动画的动物冒险电影《狂野城市》（Wild City）。该片由庞索自编自导，讲述了一群野生动物在洛杉矶的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

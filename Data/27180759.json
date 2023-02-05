@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "送我上青云",
+  "url": "/subject/27180759/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2565751382.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413883/",
+      "name": "滕丛丛 Congcong Teng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413883/",
+      "name": "滕丛丛 Congcong Teng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029395/",
+      "name": "姚晨 Chen Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275443/",
+      "name": "袁弘 Hong Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330992/",
+      "name": "李九霄 Jiuxiao Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275492/",
+      "name": "梁冠华 Guanhua Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275510/",
+      "name": "杨新鸣 Xinming Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301329/",
+      "name": "吴玉芳 Yufang Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353001/",
+      "name": "石强 Qiang Shi"
+    }
+  ]
+,
+  "datePublished": "2019-06-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H39M",
+  "description": "盛男（姚晨饰），女，独立上进有追求，渴望真爱却仍孑然一身。一次意外发现自己患上了卵巢癌，需要进行手术，但父亲出轨，母亲幼稚，家庭给不了她可能的支持，她不得不接受一份自己不喜欢的工作去筹手术费。天生骄傲...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "187099",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

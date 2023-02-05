@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱我追随我 Qui m&#39;aime me suive !",
+  "url": "/subject/30173643/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2555039605.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276936/",
+      "name": "Jose Alcala Jose Alcala"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356150/",
+      "name": "艾格尼丝·卡芬 Agnès Caffin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289218/",
+      "name": "安托万·拉孔布莱 Antoine Lacomblez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307819/",
+      "name": "José Alcala José Alcala"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276936/",
+      "name": "Jose Alcala Jose Alcala"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307819/",
+      "name": "José Alcala José Alcala"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007064/",
+      "name": "丹尼尔·奥特伊 Daniel Auteuil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048324/",
+      "name": "凯瑟琳·弗洛 Catherine Frot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028328/",
+      "name": "贝尔纳·勒科克 Bernard Le Coq"
+    }
+  ]
+,
+  "datePublished": "2019-03-20",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "吉尔伯特和西蒙在法国南部的一个村庄里过着不安的隐居生活。艾蒂安，她的邻居和情人的离去，使她缺钱，尤其是她丈夫不断的痛苦，迫使西蒙逃离了家。吉尔伯特意识到他准备做任何事来寻找他的妻子，他的爱。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

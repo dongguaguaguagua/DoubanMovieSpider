@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "巧虎大飞船历险记",
+  "url": "/subject/33403736/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558138294.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415426/",
+      "name": "河村友宏 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415427/",
+      "name": "王臻 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417620/",
+      "name": "杉浦理史 Sugiura Masafumi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326522/",
+      "name": "李晔 Ye Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326543/",
+      "name": "沈达威 Dawei Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321912/",
+      "name": "罗玉婷 Yuting Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332379/",
+      "name": "王晓彤 Xiaotong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349113/",
+      "name": "孙晔 Ye Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325069/",
+      "name": "李敏妍 Minyan Li"
+    }
+  ]
+,
+  "datePublished": "2019-06-01",
+  "genre": ["\u52a8\u753b", "\u513f\u7ae5"],
+  "duration": "PT1H20M",
+  "description": "巧虎因妈妈忙于照顾小花妹妹闹起了小脾气，在与小伙伴们排解心事时 偶遇来自绿森林王国的小发明家松鼠金金。 绿森林因长时间缺雨，居民生存环境面临威胁。金金向巧虎及小伙伴们发出邀 请，一同前往绿森林设计制作...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "894",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的家人和狼 Ma Famille et le Loup",
+  "url": "/subject/33418696/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560246469.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1100181/",
+      "name": "Adrian Garcia Adrian Garcia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310729/",
+      "name": "安德里亚·加西亚 Adrià García"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304088/",
+      "name": "维克多·马尔多纳多 Víctor Maldonado"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412968/",
+      "name": "阿尔弗雷多·托雷斯 Alfredo Torres"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050032/",
+      "name": "卡门·毛拉 Carmen Maura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348840/",
+      "name": "皮埃尔·罗谢夫 Pierre Rochefort"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1146937/",
+      "name": "布鲁诺·萨拉曼 Bruno Salomone"
+    }
+  ]
+,
+  "datePublished": "2019-08-21",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H20M",
+  "description": "9岁的雨果与表姐妹祖母一起过着暑假。当孩子们得知狼要来把祖母抓走时，他们立刻行动起来，开始了一场难忘的冒险。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

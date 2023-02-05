@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海面上漂过的奖杯",
+  "url": "/subject/34441267/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2618570824.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327874/",
+      "name": "雎安奇 Anqi Ju"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327874/",
+      "name": "雎安奇 Anqi Ju"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274550/",
+      "name": "王学兵 Xuebing Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337942/",
+      "name": "曹卫宇 Weiyu Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354845/",
+      "name": "王小欢 Wang Xiaohuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416667/",
+      "name": "李沫颔 Mohan Li"
+    }
+  ]
+,
+  "datePublished": "2019-10-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "《海面上漂过的奖杯》讲述了一个失败的演员逃亡的故事——主角安鹏远是一个钓鱼爱好者，终于得到了一个钓鱼比赛的奖杯，却发现妻子和一个失败的导演出轨，一怒之下导演倒在了血泊之中，被警方追捕的安鹏远带着一个钓...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "859",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

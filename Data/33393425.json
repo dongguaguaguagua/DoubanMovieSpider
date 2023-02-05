@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地瓜味的冰激凌",
+  "url": "/subject/33393425/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2874841049.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353600/",
+      "name": "张艺瀚 Hummer Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315185/",
+      "name": "王啸坤 Xiaokun Wang"
+    }
+  ]
+,
+  "datePublished": "2022-06-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "来自现代都市的台湾男孩biubiu，因家庭变故被送到内地农村的外婆家，初到陌生的环境，面临着“野孩子”的排斥，biubiu心中有着抵触、陌生、无奈，但又充满好奇，渴望被认同，biubiu最终选择了勇敢...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

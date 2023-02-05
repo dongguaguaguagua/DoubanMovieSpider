@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "情归长安",
+  "url": "/subject/34434298/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2559851905.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424918/",
+      "name": "林秀强 Xiuqiang Lin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371124/",
+      "name": "彭义程 Yicheng Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397904/",
+      "name": "王圻文宣 Wenxuan Wangqi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387404/",
+      "name": "金盛宇 Shengyu Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418200/",
+      "name": " "
+    }
+  ]
+,
+  "datePublished": "2019-06-27",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u4f20\u8bb0", "\u5386\u53f2", "\u6218\u4e89", "\u53e4\u88c5"],
+  "duration": "PT1H26M",
+  "description": "奉命出使西域的张骞被匈奴人俘获。曾经满怀抱负、心怀高远的张骞被流放至漠北牧羊，在荒芜之地一待就是十三年。幸得匈奴女子阿诺兰的爱与陪伴，张骞度过了人生当中最艰难也最幸福的一段时光。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "学园孤岛 真人版 がっこうぐらし！",
+  "url": "/subject/27205121/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539253088.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038710/",
+      "name": "柴田一成 Issei Shibata"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038710/",
+      "name": "柴田一成 Issei Shibata"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404137/",
+      "name": "阿部菜菜实 Nanami Abe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404140/",
+      "name": "长月翠 Midori Nagatsuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350996/",
+      "name": "小野乃乃香 Nonoka Ono"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362379/",
+      "name": "金子大地 Daichi Kaneko"
+    }
+  ]
+,
+  "datePublished": "2019-01-25",
+  "genre": ["\u60ca\u609a", "\u5192\u9669"],
+  "duration": "PT1H41M",
+  "description": "由海法纪光原作、千叶サドル作画的漫画《学园孤岛》宣布了真人电影化的决定。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1175",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

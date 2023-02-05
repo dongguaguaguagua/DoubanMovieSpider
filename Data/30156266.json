@@ -1,0 +1,101 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我是江小白 剧场版",
+  "url": "/subject/30156266/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523138791.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385855/",
+      "name": "金承仁 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384031/",
+      "name": "陈张太康 Zhangtaikang Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361154/",
+      "name": "佟心竹 Xinzhu Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376883/",
+      "name": "李兰陵 Lanling Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381944/",
+      "name": "沈念如 Nianru Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395143/",
+      "name": "阎么么 Meme Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381516/",
+      "name": "刘明月 Mingyue Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385854/",
+      "name": "瞳音 Cheng Xue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345413/",
+      "name": "黎筱濛 Xiaomeng Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410444/",
+      "name": "闫夜桥 Yeqiao Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376884/",
+      "name": "叶知秋 Zhiqiu Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345276/",
+      "name": "小连杀 Jing Xu"
+    }
+  ]
+,
+  "datePublished": "2018-05-25",
+  "genre": ["\u7231\u60c5", "\u52a8\u753b"],
+  "duration": "PT0H37M",
+  "description": "江小白醒后想起了过去的一切：校庆当天一起为佟离唱的歌，冤枉佟离将夕雨推下水，图书馆的畅谈，送给佟离的玻璃珠，未来得及对佟离说的喜欢。和小白一起追赶佟离的夕雨在途中遭遇了车祸，而夕雨的一切行为都只是为了...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3213",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

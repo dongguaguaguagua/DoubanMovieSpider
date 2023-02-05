@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们的七日战争 ぼくらの7日間戦争",
+  "url": "/subject/30214085/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2570352974.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399628/",
+      "name": "村野佑太 Murano Yuuta"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314166/",
+      "name": "大河内一楼 Ichiro Okouchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438313/",
+      "name": "宗田理 Osamu Sôda"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348883/",
+      "name": "芳根京子 Kyôko Yoshine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314521/",
+      "name": "北村匠海 Takumi Kitamura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1121531/",
+      "name": "宫泽理惠 Rie Miyazawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324022/",
+      "name": "潘惠美 Megumi Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274746/",
+      "name": "铃木达央 Tatsuhisa Suzuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397451/",
+      "name": "大塚刚央 Takeo Otsuka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399996/",
+      "name": "小市真琴 Koichi Makoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019264/",
+      "name": "樱井孝宏 Takahiro Sakurai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052033/",
+      "name": "宫本充 Mitsuru Miyamoto"
+    }
+  ]
+,
+  "datePublished": "2019-12-13",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H28M",
+  "description": "动画版的故事设定在2020年，讲述了某学校中学一年级的男学生们，集体在废弃工厂建立所谓的“解放区”，并发动了针对大人们的“叛乱”后的故事，借此反映了学生学业过重、学校对学生任意进行体罚等种种社会问题。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2217",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

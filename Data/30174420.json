@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "吉娃娃 チワワちゃん",
+  "url": "/subject/30174420/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542579910.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398689/",
+      "name": "二宫健 Ken Ninomiya"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399597/",
+      "name": "冈崎京子 Kyôko Okazaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398689/",
+      "name": "二宫健 Ken Ninomiya"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329131/",
+      "name": "门胁麦 Mugi Kadowaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345900/",
+      "name": "成田凌 Ryo Narita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370121/",
+      "name": "宽一郎 Kan&#39;ichiro Sato"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339636/",
+      "name": "玉城蒂娜 Tina Tamashiro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402868/",
+      "name": "吉田志织 Shiori Yoshida"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342488/",
+      "name": "村上虹郎 Nijiro Murakami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027322/",
+      "name": "栗山千明 Chiaki Kuriyama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036630/",
+      "name": "浅野忠信 Tadanobu Asano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407621/",
+      "name": "古川琴音 Kotone Furukawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435651/",
+      "name": "仲万美 Bambi Naka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324028/",
+      "name": "足立智充 Tomomitsu Adachi"
+    }
+  ]
+,
+  "datePublished": "2019-01-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H44M",
+  "description": "冈崎京子原作漫画改编的真人电影《吉娃娃酱》，故事从在东京湾发现了青年男女中作为吉祥物一般存在的 “吉娃娃酱” 被分尸的遗体开始……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2386",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

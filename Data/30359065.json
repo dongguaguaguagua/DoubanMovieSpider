@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我是女人 I Am Woman",
+  "url": "/subject/30359065/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2590108157.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395202/",
+      "name": "艾玛·延森 Emma Jensen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004627/",
+      "name": "埃文·彼得斯 Evan Peters"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360886/",
+      "name": "蒂尔达·格哈姆-哈维 Tilda Cobham-Hervey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382494/",
+      "name": "丹妮尔·麦克唐纳 Danielle Macdonald"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1204213/",
+      "name": "马修·卡德罗普 Matthew Cardarople"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174731/",
+      "name": "达斯蒂·斯隆格 Dusty Sorg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1212121/",
+      "name": "Rita Rani Rita Rani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435288/",
+      "name": "Frank Violi Frank Violi"
+    }
+  ]
+,
+  "datePublished": "2019-09-05",
+  "genre": ["\u4f20\u8bb0"],
+  "duration": "PT1H56M",
+  "description": "埃文·彼得斯出演讲述澳洲女歌手海伦·瑞迪的传记片[我是女人](I Am Woman，暂译)。导演Unjoo Moon，影片聚焦上世纪七十年代澳洲知名女歌手海伦·瑞迪，片名出自瑞迪演唱的同名歌曲，该歌曲...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "255",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

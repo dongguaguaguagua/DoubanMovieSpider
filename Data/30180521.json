@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "二师兄来了",
+  "url": "/subject/30180521/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2517603764.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359162/",
+      "name": "朱丹 Dan Zhu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327648/",
+      "name": "徐宝琦 Baoqi Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313873/",
+      "name": "杜旭东 Xudong Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035221/",
+      "name": "刘江 Jiang Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337886/",
+      "name": "王菀晨 Wanchen Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1471154/",
+      "name": "杨磊 Lei Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274928/",
+      "name": "李明 Ming Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367939/",
+      "name": "张连文 Lianwen Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344590/",
+      "name": "杜金京 Jinjing Du"
+    }
+  ]
+,
+  "datePublished": "2018-04-13",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H33M",
+  "description": "影片《二师兄来了》以诙谐幽默的喜剧风格，讲述了一段“徐氏猪业”三代人从靠打猪草养猪到成为中国现代养猪业大咖的非凡历程，以及他们身后的女人心甘情愿地“嫁给”养猪人的故事。
+由于养猪业的无序饲养和价格下滑...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

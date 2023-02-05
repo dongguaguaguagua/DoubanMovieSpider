@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乳･房",
+  "url": "/subject/26968520/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2545140060.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389905/",
+      "name": "谢毅宏 Joe Hsieh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316895/",
+      "name": "刘香慈 Chantel Liu"
+    }
+  ]
+,
+  "datePublished": "2019-03-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "兩個缺憾，造就一個完美荒謬的人生喜劇。女人，因為「切去乳房」買到房子，男人，卻因為「裝上假奶」買到了房子。男人帶著女人，展開一場尋找自己「假奶」的奇幻旅程......",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "116",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

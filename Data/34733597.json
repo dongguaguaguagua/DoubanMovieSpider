@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美国僵尸之地 Fat Ass Zombies",
+  "url": "/subject/34733597/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564065186.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195810/",
+      "name": "克里斯汀·雷顿 Kristen Renton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014060/",
+      "name": "桑德拉·库瑞 Sondra Currie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004904/",
+      "name": "托马斯·卡拉布罗 Thomas Calabro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474788/",
+      "name": "Reesa Ishiyama Reesa Ishiyama"
+    }
+  ]
+,
+  "datePublished": "2020-02-18",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H27M",
+  "description": "In a sleepy town, one man, a wannabe horror film director is about to have his life and the world he...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

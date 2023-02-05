@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马永贞决战上海滩",
+  "url": "/subject/34438606/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560168276.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339113/",
+      "name": "喻亢 Kang Yu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418595/",
+      "name": "刘屹宸 Yichen Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317916/",
+      "name": "邬靖靖 Jingjing Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392666/",
+      "name": "许诗晨 Shichen Xu"
+    }
+  ]
+,
+  "datePublished": "2019-06-28",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H9M",
+  "description": "影片讲述了清末民初的旧上海，列强侵略，纷争不断。面对这样的危急形势，震东帮帮主马永贞和他的恩师“码头之王”谭四爷小心应对。不料东洋人为达到运输鸦片入沪的目的将谭四爷残忍暗杀，并且将马永贞未婚妻虐待致死...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

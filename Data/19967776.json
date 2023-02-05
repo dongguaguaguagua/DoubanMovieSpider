@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冒牌恋人",
+  "url": "/subject/19967776/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2541035222.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323824/",
+      "name": "路云飞 Yunfei Lu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313899/",
+      "name": "冯媛甄 Abby Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323877/",
+      "name": "朱江 Jiang Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323825/",
+      "name": "朱袁员 Yuanyuan Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317599/",
+      "name": "张立威 Laap Wai Cheung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037662/",
+      "name": "李子雄 Waise Lee"
+    }
+  ]
+,
+  "datePublished": "2018-10-26",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H32M",
+  "description": "影片讲述的是一个男版“灰姑娘”的故事，朱江饰演的正是这位“灰男人”，当宅男遭遇冯媛甄饰演的美丽女主播，将发生怎样的故事？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

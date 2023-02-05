@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卧底罗密欧 Romeo Akbar Walter",
+  "url": "/subject/30443729/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546361894.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036581/",
+      "name": "约翰·亚伯拉罕 John Abraham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007129/",
+      "name": "杰奇·史洛夫 Jackie Shroff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425454/",
+      "name": "穆尼·罗伊 Mouni Roy"
+    }
+  ]
+,
+  "datePublished": "2019-04-05",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "1971 年，一名遇难陆军少校之子被印度调查分析局发掘，在战前作为卧底安插在巴基斯坦。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "295",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

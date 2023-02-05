@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "凶杀13号 Investigation 13",
+  "url": "/subject/30312781/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2532616017.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054792/",
+      "name": "梅格·福斯特 Meg Foster"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399436/",
+      "name": "帕特里克·弗拉纳根 Patrick Flanagan"
+    }
+  ]
+,
+  "datePublished": "2019-09-10",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "A group of science students have discovered how to scientifically explain the paranormal. Their goal...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

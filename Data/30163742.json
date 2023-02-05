@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们的追梦时代",
+  "url": "/subject/30163742/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2515778978.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394015/",
+      "name": "李金斗 Jindou Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394285/",
+      "name": "王青青 Qingqing Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437304/",
+      "name": "杨雪诺 Yang xuenuo"
+    }
+  ]
+,
+  "datePublished": "2018-03-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "讲述了这群年轻的演员们在遭遇家庭阻挠、朋友决裂、潜规则等重重磨难后依旧勇往直前，最终实现梦想的故事，并以此鼓励年轻人在追求梦想的道路上应当不忘初心，披荆斩棘。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

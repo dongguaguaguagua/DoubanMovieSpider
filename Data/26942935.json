@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "兰开斯特的天空 Lancaster Skies",
+  "url": "/subject/26942935/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2408240969.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393776/",
+      "name": "卡勒姆·伯恩 Callum Burn"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393776/",
+      "name": "卡勒姆·伯恩 Callum Burn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393946/",
+      "name": "安德烈·伯恩 Andrew Burn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393947/",
+      "name": "山姆·帕森斯 Sam Parsons"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393776/",
+      "name": "卡勒姆·伯恩 Callum Burn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473385/",
+      "name": "汤姆·戈登 Tom Gordon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473383/",
+      "name": "克里斯·萨德勒 Kris Saddler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459154/",
+      "name": "莉拉·赛克斯 Leila Sykes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422967/",
+      "name": "罗莎·科杜里 Rosa Coduri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473404/",
+      "name": "大卫·多布森 David Dobson"
+    }
+  ]
+,
+  "datePublished": "2019-02-27",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u5386\u53f2", "\u6218\u4e89"],
+  "duration": "PT1H38M",
+  "description": "Douglas, a broken, solitary, Spitfire Ace, must overcome his past to lead a Lancaster bomber crew in...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "303",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

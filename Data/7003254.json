@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大师",
+  "url": "/subject/7003254/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2882653713.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274240/",
+      "name": "郑保瑞 Pou-Soi Cheang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274240/",
+      "name": "郑保瑞 Pou-Soi Cheang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025194/",
+      "name": "甄子丹 Donnie Yen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "香港寰亚影业与甄子丹合作成立的电影公司“SuperHero超级英雄”目前已确认两部新片计划。一部是由郑保瑞执导的《大师》。
+报道称，功夫动作片《大师》的背景设置在70年代，讲述了一位在美国开设功夫学校...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

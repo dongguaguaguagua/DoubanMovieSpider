@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "只属于我 Only Mine",
+  "url": "/subject/30442669/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546270719.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304902/",
+      "name": "Michael Civille Michael Civille"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337934/",
+      "name": "安伯·明迪桑德 Amber Midthunder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333178/",
+      "name": "布莱特·季默曼 Brett Zimmerman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335199/",
+      "name": "克里斯·勃朗宁 Chris Browning"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283634/",
+      "name": "克劳迪娅·费里 Claudia Ferri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1196008/",
+      "name": "洛伦佐·詹姆斯·亨里 Lorenzo James Henrie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399521/",
+      "name": "艾伦·沃洛 Ellen Wroe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354558/",
+      "name": "乔安娜·沃尔什 Jonna Walsh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1075359/",
+      "name": "南茜·林韩·查尔斯 Nancy Linehan Charles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478606/",
+      "name": "斯蒂芬妮·王 Stephanie Wong  "
+    }
+  ]
+,
+  "datePublished": "2019-01-15",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H27M",
+  "description": "被一个蔑视的情人折磨并留下来死去，一个女人发现自己内心的力量可以恢复并对她的施虐者进行报复。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "362",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

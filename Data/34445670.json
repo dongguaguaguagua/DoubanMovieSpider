@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "营地婚礼 Camp Wedding",
+  "url": "/subject/34445670/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2560823343.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1075255/",
+      "name": "肖恩·克雷斯波 Sean Crespo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423070/",
+      "name": "汤姆·桑托斯-科伊 Adam Santos-Coy"
+    }
+  ]
+,
+  "datePublished": "2019-03-08",
+  "genre": ["\u559c\u5267", "\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H37M",
+  "description": "米娅的目的地婚礼似乎注定了，当她的新娘党不是太热衷于做所有的工作，把一个破旧的夏天的卡姆变成她的梦想的场所-当他们开始被神秘地杀死，这也没有帮助。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "91",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.8"
+  }
+}

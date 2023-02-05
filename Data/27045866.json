@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寻子遇仙记 The Kid",
+  "url": "/subject/27045866/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307001/",
+      "name": "克里斯蒂安·福克曼 Christian Volckman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040843/",
+      "name": "鲁伯特·瓦耶特 Rupert Wyatt"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "[寻子遇仙记]可谓是卓别林的经典之作。而最近这部影片也要翻拍了，而且还是动画片。导演有望请到克里斯蒂安·福克曼([复活])以及鲁伯特·瓦耶特([猩球崛起])。故事则由编剧鲍里斯·斯塔林执笔剧本，电影国...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

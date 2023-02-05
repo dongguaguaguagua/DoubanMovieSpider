@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "维罗提卡 Verotika",
+  "url": "/subject/34438924/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2568571046.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1089766/",
+      "name": "Glenn Danzig Glenn Danzig"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430284/",
+      "name": "艾美·斯托尔特 Aimee Stolte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454936/",
+      "name": "莎拉·玛丽（七世） Sarah Marie（VII）"
+    }
+  ]
+,
+  "datePublished": "2019-06-13",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "Glenn Danzig&#39;s directorial debut, is a horror anthology that compiles stories from Danzig&#39;s line of ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "75",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

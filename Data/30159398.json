@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "已关注 Followed",
+  "url": "/subject/30159398/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2610225514.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443897/",
+      "name": "安东尼·李 Antoine Le"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443894/",
+      "name": "托德·科里克 Todd Klick"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049596/",
+      "name": "约翰·萨维奇 John Savage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399129/",
+      "name": "布兰卡·布兰科 Blanca Blanco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443897/",
+      "name": "安东尼·李 Antoine Le"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443894/",
+      "name": "托德·科里克 Todd Klick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443889/",
+      "name": "马修·所罗门 Matthew Solomon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443899/",
+      "name": "蒂姆·德里耶 Tim Drier"
+    }
+  ]
+,
+  "datePublished": "2020-06-19",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H36M",
+  "description": "社群媒体网红「DropTheMike」接到一笔金额非常诱人的合作案，他和他的摄影小组亲自到访美国最恶名昭彰的旅社之一。他将带领他的粉丝找寻刺激经历一个前所未有的恐怖夜晚。他们进行有趣的调查挑战，当调查...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

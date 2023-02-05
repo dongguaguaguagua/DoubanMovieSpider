@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "American Hostage",
+  "url": "/subject/27134005/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2523338025.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317351/",
+      "name": "约翰·摩尔 John Moore"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317351/",
+      "name": "约翰·摩尔 John Moore"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "A former US special forces soldier is forced to return to the battlegrounds of Iraq and Syria when h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

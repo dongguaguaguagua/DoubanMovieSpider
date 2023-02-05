@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "白日迷雾",
+  "url": "/subject/34768554/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2564190989.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377138/",
+      "name": "闫国喜 Guoxi Yan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388002/",
+      "name": "张承志 Chengzhi Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327669/",
+      "name": "李丞峰 Chengfeng Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361109/",
+      "name": "宋宁 Ning Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315058/",
+      "name": "石兆琪 Zhaoqi Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381098/",
+      "name": "要武 Wu Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318613/",
+      "name": "李博 Bo Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472712/",
+      "name": "黄铄淇 Kittybaby"
+    }
+  ]
+,
+  "datePublished": "2019-12-20",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H32M",
+  "description": "龙山地区接连发生两桩命案，在社会上引起巨大反响，百姓惶惶不安，警方压力剧增，随即成立“118”大案专案组，正副组长分别由主管刑侦的副局长李辉和刑警队长郭明担任。还有十多天就要退休的李辉，决心在退休前拿...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

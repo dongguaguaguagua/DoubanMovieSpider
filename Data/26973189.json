@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "嘉宝之网 The Garbo Network",
+  "url": "/subject/26973189/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370366/",
+      "name": "乔纳森·佩雷拉 Jonathan Perera"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041993/",
+      "name": "威廉·惠勒 William Wheeler"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012481/",
+      "name": "奥斯卡·伊萨克 Oscar Isaac"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6218\u4e89"],
+  "duration": "",
+  "description": "奥斯卡·伊萨克加盟[嘉宝之网](The Garbo Network，暂译)，饰演二战期间最具传奇色彩的双料间谍璜·普吉·加西亚。这位在历史上确有其人的双料间谍，没有参加过任何专业训练，曾通过伪造的间谍...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

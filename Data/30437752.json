@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "春暖花开",
+  "url": "/subject/30437752/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2547851542.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418088/",
+      "name": "伊万·马科维奇 Ivan Markovic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409331/",
+      "name": "吴林峰 Linfeng Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418088/",
+      "name": "伊万·马科维奇 Ivan Markovic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409331/",
+      "name": "吴林峰 Linfeng Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428363/",
+      "name": "魏如光 Ruguang Wei"
+    }
+  ]
+,
+  "datePublished": "2019-02-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H0M",
+  "description": "都市正高速膨胀，却仍少经探索。小李夜晚工作、白天睡觉，他的舍友则与之相反。在北京的地下室里，两个男人不同时入眠，却分享了同张睡榻。这小小空间，成为两人仅有的庇护之地。但很快，这里也将不复存在。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "324",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

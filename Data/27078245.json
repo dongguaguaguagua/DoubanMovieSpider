@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "之子于归",
+  "url": "/subject/27078245/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535092328.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316030/",
+      "name": "杨弋枢 Yishu Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316030/",
+      "name": "杨弋枢 Yishu Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276144/",
+      "name": "黄璐 Lu Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476109/",
+      "name": "冯一之 Yizhi Feng"
+    }
+  ]
+,
+  "datePublished": "2018-10-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "新婚后的记者夏因搬进丈夫家里，因工作或心理不适一直无法整理婚前物品；同事自杀事件对她心理和工作都带来影响，夏因关注的问题不能公开发表，丈夫自行处置夏因的物品，对她的处事方式表示不满，家庭和工作的双重挫...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "354",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

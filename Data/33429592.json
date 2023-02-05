@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天路历程 The Pilgrim&#39;s Progress",
+  "url": "/subject/33429592/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554974344.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147054/",
+      "name": "约翰·瑞斯-戴维斯 John Rhys-Davies"
+    }
+  ]
+,
+  "datePublished": "2019-04-18",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H57M",
+  "description": "An epic journey, faithfully adapted to modern-day. Christian faces distractions, challenges, and per...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "309",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "9.0"
+  }
+}

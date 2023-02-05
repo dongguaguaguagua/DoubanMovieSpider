@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "宝贝儿",
+  "url": "/subject/27039069/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2531326284.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274348/",
+      "name": "刘杰 Jie Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274348/",
+      "name": "刘杰 Jie Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420759/",
+      "name": "高山 Shan Gao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052359/",
+      "name": "杨幂 Mi Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274663/",
+      "name": "郭京飞 Jingfei Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352153/",
+      "name": "李鸿其 Hong-Chi Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451516/",
+      "name": "王燕君 Yanjun Wang"
+    }
+  ]
+,
+  "datePublished": "2018-09-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H36M",
+  "description": "残疾女孩江萌（杨幂 饰）与年迈的养母相依为命，为了不让养母流落养老院，江萌进城打工，没想到在医院碰到了与自己同病相怜的无肛女婴，引起了江萌的怜爱。江萌发现，无肛女婴的父亲（郭京飞 饰）匆匆带出医院，意...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "47684",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

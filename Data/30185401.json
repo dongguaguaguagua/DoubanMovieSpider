@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "从民工到明星",
+  "url": "/subject/30185401/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2579910603.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344485/",
+      "name": "俞才斌 Caibin Yu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344485/",
+      "name": "俞才斌 Caibin Yu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344485/",
+      "name": "俞才斌 Caibin Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370364/",
+      "name": "古一彤 Yitong Gu"
+    }
+  ]
+,
+  "datePublished": "2020-01-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "该影片主要通过妹妹于小晴讲述她二哥于凯强，为了改变贫穷，不相信命运。从一个离乡打工的民工，一直与命运顽强的抗衡，最终以坚持不懈的斗志，不仅战胜了命运，走向了成功的彼岸，还意外踏进了影视殿堂的奋斗历程。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "安娜2 Anna 2",
+  "url": "/subject/34454048/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561443624.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467607/",
+      "name": "梅赛德斯·皮特森 Mercedes Peterson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481276/",
+      "name": "Shanon Snedden Shanon Snedden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481208/",
+      "name": "Kenzie Pallone Kenzie Pallone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172095/",
+      "name": "James D. Pruitt James D. Pruitt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1188778/",
+      "name": "Mark E. Howell Mark E. Howell"
+    }
+  ]
+,
+  "datePublished": "2019-01-03",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H37M",
+  "description": "两个竞争激烈的灵异电视节目班底，齐聚在一座废弃的闹鬼游乐园，没想到这裡竟是通往地狱的中心！受困于于此的他们，必须竭尽所能对抗来势汹汹的邪灵，才有可能获得一线生机。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

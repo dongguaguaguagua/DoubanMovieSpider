@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "中国制造 Made in China",
+  "url": "/subject/30168014/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2557266816.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416385/",
+      "name": "儒利安·阿夫拉姆 Julien Abraham"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416385/",
+      "name": "儒利安·阿夫拉姆 Julien Abraham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339837/",
+      "name": "弗雷德里克·周 Frédéric Chau"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339837/",
+      "name": "弗雷德里克·周 Frédéric Chau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347824/",
+      "name": "梅迪·萨东 Medi Sadoun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364969/",
+      "name": "朱莉·德博纳 Julie de Bona"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416387/",
+      "name": "史提夫·特兰 Steve Tran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416388/",
+      "name": "尹兵 Bing Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009491/",
+      "name": "米兰妮·让帕诺米 Mylène Jampanoï"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078449/",
+      "name": "克莱门汀·塞拉里耶 Clémentine Célarié"
+    }
+  ]
+,
+  "datePublished": "2019-06-26",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "",
+  "description": "弗朗索瓦（弗雷德里克·周 Frédéric Chau 饰）是一名生活在法国的华裔摄影师，十年前，因为和父亲之间发生了激烈的争吵，弗朗索瓦离开了巴黎的唐人街，在这十年间，他从未和父亲有过联系。弗朗索瓦对...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "161",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

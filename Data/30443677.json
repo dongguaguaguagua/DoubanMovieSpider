@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "荒凉 The Bleak",
+  "url": "/subject/30443677/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546359265.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481929/",
+      "name": "詹姆斯·贝尔 James Bell"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252676/",
+      "name": " Amanda Bell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1230431/",
+      "name": " Patrick L. Dear"
+    }
+  ]
+,
+  "datePublished": "2019-09-28",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "75",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

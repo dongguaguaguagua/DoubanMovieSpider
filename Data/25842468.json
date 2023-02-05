@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "音乐教师 Music Teacher",
+  "url": "/subject/25842468/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2552076055.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028101/",
+      "name": "迪维亚·达塔 Divya Dutta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400300/",
+      "name": "马纳夫·卡尔 Manav Kaul"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411850/",
+      "name": "尼娜·古普塔 Neena Gupta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313213/",
+      "name": "纳瓦祖丁·席迪圭 Nawazuddin Siddiqui"
+    }
+  ]
+,
+  "datePublished": "2019-04-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "《音乐教师》由萨塔克·达斯古普塔执导，讲述了一名为情所困的音乐老师（马纳夫·卡尔饰演）的故事。他得到了一个机会来结束痛苦，与一名久未联系、现已成为宝莱坞著名歌星的学生重聚。这名音乐老师发誓要拿回过去他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

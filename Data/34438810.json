@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大侦探阿雷亚 Agent Sai Srinivasa Athreya",
+  "url": "/subject/34438810/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560106068.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427343/",
+      "name": "纳文·波利希蒂 Naveen Polishetty"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-06-21",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H28M",
+  "description": "特工Athreya成立了一个名为FBI的侦探社，负责处理小案件，直到调查在铁轨上发现的死者时陷入困境……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "275",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无名狂",
+  "url": "/subject/27131969/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614453706.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353087/",
+      "name": "李云波 Yunbo Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353087/",
+      "name": "李云波 Yunbo Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315048/",
+      "name": "张晓晨 Xiaochen Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335470/",
+      "name": "隋咏良 Yongliang Sui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341583/",
+      "name": "上白 Shangbai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375961/",
+      "name": "刘泳希 Yongxi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391982/",
+      "name": "萧子墨 Eric Hsiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353519/",
+      "name": "赵健 Jian Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1464717/",
+      "name": "王钰威 "
+    }
+  ]
+,
+  "datePublished": "2019-12-04",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591", "\u6b66\u4fa0"],
+  "duration": "PT1H32M",
+  "description": "明，万历年间，江湖两大暗杀门派，无名门突遭血洗，唐门继承人遇刺，嫌犯张未然，不知所踪……
+数年后，独行大盗郭长生被一名神秘白衣人抓获，镖头王一刀金盆洗手之际同意护送他们一程作为最后一次押镖，路途中王一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2924",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

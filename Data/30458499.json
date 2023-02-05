@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黄飞鸿之狮魂觉醒",
+  "url": "/subject/30458499/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2547961208.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427760/",
+      "name": "张哲 Zhe Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427760/",
+      "name": "张哲 Zhe Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395598/",
+      "name": "吴逸伽 Yijia Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357456/",
+      "name": "杨小米 Xiaomi Yang"
+    }
+  ]
+,
+  "datePublished": "2019-02-21",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u6b66\u4fa0"],
+  "duration": "PT1H32M",
+  "description": "十八岁的黄飞鸿自幼跟随父亲习武，与梁宽建立“飞鸿帮”，年轻气盛的黄飞鸿在佛山行侠仗义，却也因此与人交恶。父亲黄麒英“劝学”，送他去佛山的官办学堂兴中馆读书。然而黄飞鸿又遇“冤家”，一场恶战终惹祸上身。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

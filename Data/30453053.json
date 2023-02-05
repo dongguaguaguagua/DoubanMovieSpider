@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无处寻觅 아무도 없는 곳",
+  "url": "/subject/30453053/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2592605782.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322566/",
+      "name": "金宗宽 Jong-kwan Kim"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322566/",
+      "name": "金宗宽 Jong-kwan Kim"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313034/",
+      "name": "延宇振 Woo-jin Yeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312852/",
+      "name": "李知恩 IU"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386189/",
+      "name": "李周英 Joo-young Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314928/",
+      "name": "金相浩 Sang-ho Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333504/",
+      "name": "金尚浩 Sang-Hwa Kim"
+    }
+  ]
+,
+  "datePublished": "2021-03-31",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "入围2019年全州计划。讲述一个男人与不同人交谈后，经历了一系列的心境变化。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "675",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

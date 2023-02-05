@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海洋动物",
+  "url": "/subject/33405489/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554473366.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383009/",
+      "name": "张弛 Chi Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359751/",
+      "name": "朱洪洋 Hongyang Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402873/",
+      "name": "孙正霖 Zhenglin Sun"
+    }
+  ]
+,
+  "datePublished": "2019-04-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H52M",
+  "description": "中年演员朱白岸来到与妻子初识的小岛，想寻求与妻子美好的回忆。一来到岛上就遇到渔民们信仰的佛头被偷窃事件，岛上人心惶惶，在追查佛头失窃的事情。朱白岸在这座岛上分别邂逅了三个女人，每一个都与他有着千丝万缕...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

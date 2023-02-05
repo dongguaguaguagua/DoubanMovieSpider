@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "成大器者 크게될놈",
+  "url": "/subject/30489271/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2550719901.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015294/",
+      "name": "金海淑 Hae-suk Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336611/",
+      "name": "孙浩俊 Ho-jun Son"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424326/",
+      "name": "朴胜裴 Seung-Bae Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437547/",
+      "name": "郑孝彬 Ho-bin Jung"
+    }
+  ]
+,
+  "datePublished": "2019-04-18",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H48M",
+  "description": "纪康（孙浩俊 饰）因父亲早逝，母亲含辛茹苦地将他养大，让他立誓要让母亲过上好日子，但不学无术的他，整天打架闹事，甚至捲入偷窃案件，让母亲顺玉（金海淑 饰）既无奈又心疼。而岛上的村民却对替同侪扛罪的纪康...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "238",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "致命玩笑 I&#39;m Just F*cking With You",
+  "url": "/subject/33372902/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2552940291.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335629/",
+      "name": "亚当·梅森 Adam Mason"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1216116/",
+      "name": "Gregg Zehentner Gregg Zehentner"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325467/",
+      "name": "海耶斯·麦克阿瑟 Hayes MacArthur"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313567/",
+      "name": "杰西卡·麦克娜美 Jessica McNamee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040575/",
+      "name": "基尔·奥唐纳 Keir O&#39;Donnell"
+    }
+  ]
+,
+  "datePublished": "2019-03-10",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H21M",
+  "description": "一对兄弟姐妹在一家偏僻的汽车旅馆里度过了一个可怕的恶作剧之夜。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "404",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

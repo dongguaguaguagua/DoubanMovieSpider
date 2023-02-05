@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "时尚女模头2",
+  "url": "/subject/30185821/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400652/",
+      "name": "鲁丹妮 Danni Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391507/",
+      "name": "董晨 Chen Dong"
+    }
+  ]
+,
+  "datePublished": "2018-03-29",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT3H21M",
+  "description": "林霜子正式与鹿氏集团签约，进军娱乐圈，人气如日中天。就在事业与爱情双丰收的时候，林霜子遭到夏清幽的算计，一场“裸照风波”让她迅速跌入谷底。外出归来的鹿嘉轩得知消息后帮助霜子重新振作，并请来专业老师对她...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

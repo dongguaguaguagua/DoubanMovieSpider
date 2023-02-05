@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "渡念师",
+  "url": "/subject/30425687/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2549349470.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317792/",
+      "name": "万鹏 Peng Wan"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384377/",
+      "name": "钟骏胜 Junsheng Zhong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359474/",
+      "name": "林琪 Qi Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376921/",
+      "name": "赵杰 Jet Chao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337599/",
+      "name": "苏濛濛 Mengmeng Su"
+    }
+  ]
+,
+  "datePublished": "2020-04-01",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H10M",
+  "description": "讲述渡念师夫妇利用自己的心 理学知识为客户进行催眠，帮助对方解决心理问题，然而在接到一个神秘邀请后，渡念师夫妇陷入了诡异的作家七宝设下的迷局，意识到事情并不简单后，渡念师夫妇决定追根究底，彻底查明真相...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

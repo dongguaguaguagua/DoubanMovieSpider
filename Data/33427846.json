@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "芭蕾鹦鹉",
+  "url": "/subject/33427846/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2872420873.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415651/",
+      "name": "尚骥 Ji Shang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415651/",
+      "name": "尚骥 Ji Shang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415652/",
+      "name": "梁炳昌 Bingchang Liang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433504/",
+      "name": "李子琪 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433503/",
+      "name": "左雅琴 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433502/",
+      "name": "周文辉 "
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H35M",
+  "description": "五颜六色的鹦鹉与西北旷野上的芭蕾舞女孩，有关现实与梦境的一段伦理“爱情”和少女秘密。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

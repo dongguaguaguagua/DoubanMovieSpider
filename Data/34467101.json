@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿黛服装 Aadai",
+  "url": "/subject/34467101/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2562562391.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320623/",
+      "name": "阿玛拉·保罗 Amala Paul"
+    }
+  ]
+,
+  "datePublished": "2019-07-19",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT2H23M",
+  "description": "一个自由奔放的女孩在一次深夜聚会后，发现自己赤身裸体地躺在一座废弃的建筑物里，这让她震惊不已。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "398",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

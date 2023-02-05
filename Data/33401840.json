@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魔厨",
+  "url": "/subject/33401840/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346338/",
+      "name": "刘虎 Hu Liu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H5M",
+  "description": "魔厨经营着一家只在深夜开张的小餐厅，他做的菜不但好吃还能治病。夜晚，一名食客从餐厅出来，他脸上幸福的表情引起了小美和阿伟的好奇。两人进入餐厅，立刻被魔厨的厨艺征服。魔厨做的菜不但好吃，还治好了阿伟的各...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

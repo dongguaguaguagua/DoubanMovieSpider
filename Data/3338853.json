@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乌鸦 The Crow",
+  "url": "/subject/3338853/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2374274940.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320096/",
+      "name": "鲁伯特·桑德斯 Rupert Sanders"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432987/",
+      "name": "扎克·贝林 Zach Baylin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014415/",
+      "name": "詹姆斯·奥巴尔 James O&#39;Barr"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1299571/",
+      "name": "亚历克斯·谢 Alex Tse"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049985/",
+      "name": "尼克·凯夫 Nick Cave"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022798/",
+      "name": "比尔·斯卡斯加德 Bill Skarsgård"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390522/",
+      "name": "小枝女孩 Fka Twigs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333426/",
+      "name": "丹尼·赫斯顿 Danny Huston"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u60ca\u609a", "\u72af\u7f6a", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "原版《乌鸦》拍摄于1994年，是一部风格另类的“超级英雄电影”，它改编自James O’Barr的漫画书系列，讲述了一个摇滚乐手跟他未婚妻遭到街头小流氓的杀害，一年后，他从坟墓回来，进行报复。所到之处...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "撒哈拉沙漠",
+  "url": "/subject/26932644/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2415268358.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028510/",
+      "name": "关锦鹏 Stanley Kwan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293122/",
+      "name": "魏绍恩 Jimmy Ngai"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u4f20\u8bb0"],
+  "duration": "",
+  "description": "关锦鹏执导的三毛传记片《撒哈拉》，投资方是凤凰传奇影业，关之前给这公司监制过《谎言西西里》，编剧是跟关合作很多年的《蓝宇》编剧魏绍恩。影片以三毛在西班牙留学及西非生活为底本，讲述她作为文坛时代偶像的成...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

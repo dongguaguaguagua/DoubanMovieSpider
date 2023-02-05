@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "痴梦芭蕾 Pacarrete",
+  "url": "/subject/33419615/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554080960.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415769/",
+      "name": "阿伦·戴伯通 Allan Deberton"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419441/",
+      "name": "安德烈·阿劳霍 Andre Araujo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419442/",
+      "name": "塞缪尔·布雷西尔鲁 Samuel Brasileiro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415769/",
+      "name": "阿伦·戴伯通 Allan Deberton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419443/",
+      "name": "娜塔莉亚·玛雅 Natália Maia"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1072150/",
+      "name": "马西莉亚·卡尔塔舒 Marcelia Cartaxo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309192/",
+      "name": "朱奥·米格尔 João Miguel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419108/",
+      "name": "泽兹塔·马托斯 Zezita Matos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340728/",
+      "name": "索娅·利拉 Soia Lira"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419109/",
+      "name": "萨米亚·德·拉沃尔 Samya De Lavor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419110/",
+      "name": "埃德内亚·图蒂 Edneia Tutti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419111/",
+      "name": "丹博拉·英格丽 Débora Ingrid"
+    }
+  ]
+,
+  "datePublished": "2019-06-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "故事开始于塞阿拉州的鲁萨斯，那里是我们的主人公帕卡莱迪（马西莉亚·卡尔塔舒 Marcelia Cartaxo 饰）的故乡。拉卡莱迪跳了一辈子的芭蕾舞，曾在好几所学校里担任过芭蕾舞课老师的职务，虽然从未...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "272",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

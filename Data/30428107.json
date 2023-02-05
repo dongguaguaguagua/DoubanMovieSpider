@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黄河入海流",
+  "url": "/subject/30428107/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545140613.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321605/",
+      "name": "王明军 Mingjun Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321605/",
+      "name": "王明军 Mingjun Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275510/",
+      "name": "杨新鸣 Xinming Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275977/",
+      "name": "王双宝 Shuangbao Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352732/",
+      "name": "田小冰 Xiaobing Tian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313471/",
+      "name": "罗京民 Jingmin Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346055/",
+      "name": "王沛禄 Peilu Wang"
+    }
+  ]
+,
+  "datePublished": "2021-12-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "《黄河入海流》是由王明军编剧、执导，杨新鸣、王双宝主演的一部主旋律农村题材电影。以“走进传奇枣乡、感受时代力量”为总基调，用大荔的农村变化来反映改革开放40年来中国农村翻天覆地的变化，以及在乡村振兴的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

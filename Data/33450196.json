@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "跟我来 #Followme",
+  "url": "/subject/33450196/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2556775733.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001087/",
+      "name": "萨姆·哈迪 Sam Hardy"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001087/",
+      "name": "萨姆·哈迪 Sam Hardy"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001087/",
+      "name": "萨姆·哈迪 Sam Hardy"
+    }
+  ]
+,
+  "datePublished": "2019-06-04",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "Three British women from London, consisting of a YouTuber and her two friends, go missing from a mot...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

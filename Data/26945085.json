@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "昆池岩 곤지암",
+  "url": "/subject/26945085/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2513360824.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332006/",
+      "name": "郑范识 Baum-sik Jeong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332006/",
+      "name": "郑范识 Baum-sik Jeong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388287/",
+      "name": "魏嘏隽 Ha-joon Wi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377764/",
+      "name": "朴智炫 Ji-hyun Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377037/",
+      "name": "吴雅妍 Ah-yeon Oh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389814/",
+      "name": "文艺媛 Ye-won Moon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378176/",
+      "name": "朴成焄 Sung-hoon Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389815/",
+      "name": "刘帝允 Je-yoon Yoo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390518/",
+      "name": "李承旭 Seung-wook Lee"
+    }
+  ]
+,
+  "datePublished": "2018-03-28",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H34M",
+  "description": "原名南营神经精神医院的昆池岩精神病院，最早建立于20世纪60年代。在特殊的时代它曾经历了无比的辉煌，然而更为人熟知的则是该医院身上所发生的各类恐怖事件。现如今，早已废弃的昆池岩医院被CNN票选为全球七...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "185780",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

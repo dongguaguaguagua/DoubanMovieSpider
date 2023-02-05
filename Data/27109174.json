@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "武者",
+  "url": "/subject/27109174/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523256532.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419622/",
+      "name": "贺泉 Quan He"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419622/",
+      "name": "贺泉 Quan He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353435/",
+      "name": "张良学 Liangxue Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419624/",
+      "name": "吴童立 Tongli Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350929/",
+      "name": "阮圣文 Shengwen Ruan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378881/",
+      "name": "王沛然 Peiran Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397202/",
+      "name": "叶硕 Oscar Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371247/",
+      "name": "陈水清 Shuiqing Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405036/",
+      "name": "成城 Cheng Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315687/",
+      "name": "王劲松 Jinsong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419625/",
+      "name": "郑亚雷 Yalei Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396504/",
+      "name": "谢宇朦 Yumeng Xie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419626/",
+      "name": "王建龙 Jianlong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358971/",
+      "name": "苏盛华 Shenghua Su"
+    }
+  ]
+,
+  "datePublished": "2019-04-07",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H55M",
+  "description": "抗日爆发前期，中华武士会会长何长川被北方第一高手陈远山刺杀，江湖侠客杨念千里赶来为其复仇。经过层层抽丝剥茧和纠葛，杨念终于知道了陈远山刺杀的因由和背后的使命。在最后两大高手对决时，杨念杀还是不杀…",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "734",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

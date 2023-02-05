@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "摇滚摄影师 Foxy Trotter",
+  "url": "/subject/27190068/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042388/",
+      "name": "Chris Prynoski Chris Prynoski"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054454/",
+      "name": "娜塔莉·波特曼 Natalie Portman"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "娜塔莉·波特曼将为动画新片《摇滚摄影师》(Foxy Trotter)献声，并担任制片人，《爆裂鼓手》《夜行者》《亡命驾驶》制片公司Bold Films首次投资并制作动画片。主人公“Foxy Trott...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

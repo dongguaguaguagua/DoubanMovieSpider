@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恶魔 Asuran",
+  "url": "/subject/33416885/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570580937.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384802/",
+      "name": "维特里·马拉朗 Vetri maaran"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1219536/",
+      "name": "丹努什 Dhanush"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164831/",
+      "name": "曼珠·瓦里尔 Manju Warrier"
+    }
+  ]
+,
+  "datePublished": "2019-10-04",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT2H21M",
+  "description": "为了保护儿子，父亲不惜化身恶魔，又是一部对印度种姓问题的谴责，上世纪八十年代，高种姓的地主阶级压榨普通农民，逼得一个普通父亲报仇走上绝路。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

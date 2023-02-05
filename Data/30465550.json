@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "广阔世界 Un monde plus grand",
+  "url": "/subject/30465550/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2563666621.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334331/",
+      "name": "法比耶娜·贝尔托 Fabienne Berthaud"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334331/",
+      "name": "法比耶娜·贝尔托 Fabienne Berthaud"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009435/",
+      "name": "塞西尔·德·弗朗斯 Cécile De France"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010628/",
+      "name": "露德温·塞尼耶 Ludivine Sagnier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377672/",
+      "name": "阿里耶·沃索尔特 Arieh Worthalter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328878/",
+      "name": "卡特琳·萨雷 Catherine Salée"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314429/",
+      "name": "托马斯·库芒 Thomas Coumans"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272342/",
+      "name": "史蒂芬·洛雷 Steven Laureys"
+    }
+  ]
+,
+  "datePublished": "2019-08-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "From &#34;Mon initiation chez les Chamanes&#34; by Corine Sombrun. In order to forget the death of Paul, the...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

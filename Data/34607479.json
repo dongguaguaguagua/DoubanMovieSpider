@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "龙林逃生",
+  "url": "/subject/34607479/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2625794822.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392305/",
+      "name": "吴叶彬 Andy Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392305/",
+      "name": "吴叶彬 Andy Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358934/",
+      "name": "陈升卫 Shengwei Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330282/",
+      "name": "林千雯 Qianwen Lin"
+    }
+  ]
+,
+  "datePublished": "2020-12-28",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a", "\u5947\u5e7b", "\u5192\u9669", "\u707e\u96be"],
+  "duration": "",
+  "description": "《龙林逃生》讲述了陈义天、吴勇、梁丽娜、王燕玉等人坐着冒险之旅客运车前去原始森林历险旅游，途中车子出现故障遇到红火蚁、恐龙和被恐龙袭击的虎哥等人，大家互相关心、互相帮忙，最终安全地逃出了奇妙的原始森林...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

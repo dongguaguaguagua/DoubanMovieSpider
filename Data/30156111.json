@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "战红颜",
+  "url": "/subject/30156111/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2527650645.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394893/",
+      "name": "胡海涛 Haitao Hu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389395/",
+      "name": "李莉 LILI"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434584/",
+      "name": "鲁文秀 Wenxiu Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424370/",
+      "name": "娄舒妤 Shuyu Lou"
+    }
+  ]
+,
+  "datePublished": "2018-08-22",
+  "genre": ["\u5267\u60c5", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "",
+  "description": "《战红颜》是一部跌宕起伏、扣人心弦的大型古装武侠电影，讲述了女主角独孤嫣与男主角玉龙之间一段恩怨情仇故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

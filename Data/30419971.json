@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一阵3 일진3",
+  "url": "/subject/30419971/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2545542928.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346422/",
+      "name": "李洙成 Soo-seong Lee"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385480/",
+      "name": "李承勇 Seung-yong Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400245/",
+      "name": "卞俊宇 Joon-woo Byun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408546/",
+      "name": "宋玟京 Min-kyeong Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408547/",
+      "name": "吴敏俊 Min-joon  Oh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408548/",
+      "name": "池雄裴 Woong-bae Ji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389038/",
+      "name": "刘志龙 Ji-yong Yoo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316063/",
+      "name": "李哲民  Cheol-min Lee "
+    }
+  ]
+,
+  "datePublished": "2019-02-07",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H20M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

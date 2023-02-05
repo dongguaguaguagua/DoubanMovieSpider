@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我阴影中的巴格达 Baghdad in My Shadow",
+  "url": "/subject/30454892/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2547483254.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296569/",
+      "name": "Samir Samir"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296569/",
+      "name": "Samir Samir"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1231247/",
+      "name": " Furat al Jamil"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022828/",
+      "name": "凯瑞·福克斯 Kerry Fox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408148/",
+      "name": "丹尼尔·阿德博伊加 Daniel Adegboyega"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134729/",
+      "name": "Hazel O&#39;Connor Hazel O&#39;Connor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009648/",
+      "name": "马克西姆·梅米特 Maxim Mehmet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364788/",
+      "name": "海伦·布拉德伯里 Helen Bradbury"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005010/",
+      "name": "安德鲁·巴肯 Andrew Buchan"
+    }
+  ]
+,
+  "datePublished": "2019-08-10",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H40M",
+  "description": "&#34;Abu Nawas&#34; is a trendy café and popular hangout for artists, communists and gay Iraqi exiles in Lon...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

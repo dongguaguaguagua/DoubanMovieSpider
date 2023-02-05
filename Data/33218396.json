@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "甜心女孩别爱我",
+  "url": "/subject/33218396/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315935/",
+      "name": "孙皓 Hao Sun"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367194/",
+      "name": "杨佳佳 Jiajia Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475737/",
+      "name": "张银龙 Yinlong Zhang"
+    }
+  ]
+,
+  "datePublished": "2019-05-30",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H9M",
+  "description": "正能量主播孟轩与甜心女孩董菲，以及魏小峰，韩雅两对年轻人一起智斗无良老板，帮助患病儿童，并且在经历大是大非的洗礼后，找到善良初心的甜美爱情。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

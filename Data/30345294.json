@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "锦衣神探",
+  "url": "/subject/30345294/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2544803840.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355847/",
+      "name": "吴俊贤 Junxian Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368665/",
+      "name": "苏悦年 Yuenian Su"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370089/",
+      "name": "钟正 Zheng Zhong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391523/",
+      "name": "蒋毓玮 Yuwei Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347703/",
+      "name": "王亚楠 Yanan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357760/",
+      "name": "任希鸿 Xihong Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387307/",
+      "name": "邵老五 Laowu Shao"
+    }
+  ]
+,
+  "datePublished": "2019-01-15",
+  "genre": ["\u60ac\u7591", "\u6b66\u4fa0"],
+  "duration": "",
+  "description": "山西总兵屈伟和独孤九箭在护送“金钱和美女”进京途中离奇被杀，而其随身宝刀“孟劳”却出现在江湖大盗陆坤手里，六扇门女捕头石依依、屈伟好友锦衣卫沐斌擒获陆坤，却发现陆坤也是被人嫁祸，而六扇门却急于将陆坤收...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

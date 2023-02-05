@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拉努埃大街 La Nuit venue",
+  "url": "/subject/30462453/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2585464230.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404262/",
+      "name": "本杰明·查比特 Benjamin Charbit"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431191/",
+      "name": "霍光 Guang Huo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1262255/",
+      "name": "卡梅丽雅·乔丹娜 Camélia Jordana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373591/",
+      "name": "伊冯·马丁 Yvon Martin"
+    }
+  ]
+,
+  "datePublished": "2020-07-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Nightride is a dryly humorous real time one shot thriller set on the midnight streets of Belfast. It...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

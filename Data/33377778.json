@@ -1,0 +1,55 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一拳 원펀치",
+  "url": "/subject/33377778/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2552092463.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397120/",
+      "name": "朴信友 Shin-woo Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413896/",
+      "name": "崔呈媛 Gyoo-ri Choi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413897/",
+      "name": "洪准基 Jun-ki Hong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425812/",
+      "name": "玉允中 Yoon-joong Ok"
+    }
+  ]
+,
+  "datePublished": "2019-04-11",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H20M",
+  "description": "轉學後上學的第一天，信友知道學校裡權力最大的集團就是善道部，這些善道部暗暗
+的欺負劣勢學生，信友忍不住這種弱肉強食的生態環境，紛紛起身一拳處理了之前導致的種種問題，善道部開始引誘信友入門，信友一言拒絕...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

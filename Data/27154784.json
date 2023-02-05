@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "摩尔人西哈诺 Cyrano the Moor",
+  "url": "/subject/27154784/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365019/",
+      "name": "塔瑞尔·麦卡尼 Tarell McCraney"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000231/",
+      "name": "大卫·奥伊罗 David Oyelowo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u97f3\u4e50"],
+  "duration": "",
+  "description": "大卫·奥伊罗加盟迪士尼音乐片[摩尔人西哈诺](Cyrano the Moor，暂译)，编剧塔瑞尔·麦卡尼([月光男孩])。该片灵感源自莎士比亚的《奥赛罗》及埃德蒙·罗斯丹的《大鼻子情圣》。前者讲述摩尔...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猫腻少女",
+  "url": "/subject/34456085/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2561547443.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352804/",
+      "name": "牛军 Jun Niu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380713/",
+      "name": "翟艺舒 Yishu Zhai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398457/",
+      "name": "郑晓甫 Xiaofu Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433296/",
+      "name": "汤维文 Weiwen Tang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H12M",
+  "description": "影片讲述了一个现代版灰姑娘的童话故事。少女白羽彤从小到大因其貌不扬、内心自卑，连一个朋友都交不到，还经常被人捉弄。高中时，白羽彤为了得到校花丁若澄的友谊，甘愿为其跑腿、抄作业，做她的小跟班。然而，毕业...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

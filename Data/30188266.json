@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "西贝尔 Sibel",
+  "url": "/subject/30188266/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530929354.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333750/",
+      "name": "纪尧姆·乔瓦内蒂 Guillaume Giovanetti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333751/",
+      "name": "查拉·赞基尔吉 Cagla Zencirci"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333750/",
+      "name": "纪尧姆·乔瓦内蒂 Guillaume Giovanetti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333751/",
+      "name": "查拉·赞基尔吉 Cagla Zencirci"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258505/",
+      "name": "黛穆拉·苏奈马兹 Damla Sönmez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473576/",
+      "name": " Erkan Kolçak Köstendil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328986/",
+      "name": "艾丽特·伊斯坎 Elit Iscan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280375/",
+      "name": "Meral Çetinkaya Meral Çetinkaya"
+    }
+  ]
+,
+  "datePublished": "2018-08-03",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "25-year-old Sibel lives with her father and sister in a secluded village in the mountains of Turkey&#39;...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "219",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

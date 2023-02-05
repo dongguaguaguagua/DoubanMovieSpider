@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "男主大甩卖",
+  "url": "/subject/30481966/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2549914701.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362294/",
+      "name": "张欣源 Xinyuan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390897/",
+      "name": "王皓轩 Haoxuan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399461/",
+      "name": "黄雨权 Yuquan Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414619/",
+      "name": "郭珈睿 Jiarui Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421649/",
+      "name": "谢绿路 Lülu Xie"
+    }
+  ]
+,
+  "datePublished": "2021-02-13",
+  "genre": ["\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H7M",
+  "description": "芒果娱乐传媒出品的国内首部乙女恋爱养成游戏虚拟现实VR电影《男主大甩卖》已经杀青。讲述了一位恋爱智商为负数的少女在vr恋爱养成游戏中，学会爱与被爱。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

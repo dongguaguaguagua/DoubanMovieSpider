@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "刀山火海",
+  "url": "/subject/30156202/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2515007603.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395123/",
+      "name": "王岩川 Yan Chuan Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365554/",
+      "name": "庄秦 Qin Zhuang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403152/",
+      "name": "郭昊 Hao Guo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360072/",
+      "name": "林真亦 Chen-I Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394925/",
+      "name": "言羽 Yu Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395124/",
+      "name": "MC九局 Yan Zhuang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395125/",
+      "name": "黑海 "
+    }
+  ]
+,
+  "datePublished": "2018-03-01",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H12M",
+  "description": "影片讲述了斗拳街的屌丝青年莫争因年少时得罪黑帮老大飘叔，终身禁止习武，但他一直偷偷学习拳术，并视斗拳街昔日四位战神“刀山火海”为偶像。飘叔不断压榨斗拳街的平民百姓，并将黑手伸向斗拳街最后一片净土——黑...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

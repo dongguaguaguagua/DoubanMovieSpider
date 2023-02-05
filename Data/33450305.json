@@ -1,0 +1,90 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "特殊演员 スペシャルアクターズ",
+  "url": "/subject/33450305/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2562790491.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396813/",
+      "name": "上田慎一郎 Shin&#39;ichirô Ueda"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396813/",
+      "name": "上田慎一郎 Shin&#39;ichirô Ueda"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442982/",
+      "name": "大泽数人 Kazuto Osawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442983/",
+      "name": "河野宏纪 Hiroki Kono"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442984/",
+      "name": "富士たくや Takuya Fuji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037933/",
+      "name": "北浦爱 Ayu Kitaura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442985/",
+      "name": "上田耀介 Yosuke Ueda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442986/",
+      "name": "清瀨八重子 Yaeko Kiyose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405017/",
+      "name": "小川未祐 Miyu Ogawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443279/",
+      "name": "樱井麻七 Mana Sakurai"
+    }
+  ]
+,
+  "datePublished": "2019-10-18",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H50M",
+  "description": "&lt;摄影机不要停&gt;导演上田慎一郎新作映画&lt;Specia Actors&gt;正式发表。
+松竹Broadcasting 映画第7弹，无关表演经验，15名演员全部都通过海选选出。
+松竹官方并没有公布故事内容，只表...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1262",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我在社区当片儿警",
+  "url": "/subject/30475118/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549441144.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366749/",
+      "name": "左启泽 Qize Zuo"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366749/",
+      "name": "左启泽 Qize Zuo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412192/",
+      "name": "侯培杰 Peijie Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414006/",
+      "name": "黄世伟 Shiwei Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414007/",
+      "name": "鞠元哲 Yuanzhe Ju"
+    }
+  ]
+,
+  "datePublished": "2019-04-26",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H28M",
+  "description": "以泰州市公安局海陵分局城中派出所为原型，故事讲述刚从警校毕业的张晓鸥分配到城中派出所做片儿警，被安排给社区修路和走访4000多户居民，并在所长的帮助下克服了自身问题毛病，从而成长为一名真的社区民警。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

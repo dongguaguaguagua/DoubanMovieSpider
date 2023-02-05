@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冬湖 The Winter Lake",
+  "url": "/subject/34753265/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2624143268.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408162/",
+      "name": "艾玛·麦基 Emma Mackey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329188/",
+      "name": "夏莉·墨菲 Charlie Murphy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291550/",
+      "name": "迈克尔·麦克埃尔哈顿 Michael McElhatton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357405/",
+      "name": "马克·麦克肯纳 Mark McKenna"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418615/",
+      "name": "安森·布恩 Anson Boon"
+    }
+  ]
+,
+  "datePublished": "2021-03-05",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H32M",
+  "description": "After making a grim discovery in a seasonal lake, a withdrawn teenager discovers the truth about his...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

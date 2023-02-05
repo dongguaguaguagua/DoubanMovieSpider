@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们与天空的距离 Η απόσταση ανάμεσα στον ουρανό κι εμάς",
+  "url": "/subject/33427659/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2557741704.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422941/",
+      "name": "瓦西里斯·可卡托斯 Vasilis Kekatos"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422941/",
+      "name": "瓦西里斯·可卡托斯 Vasilis Kekatos"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-05-24",
+  "genre": ["\u5267\u60c5", "\u77ed\u7247", "\u540c\u6027"],
+  "duration": "PT0H9M",
+  "description": "Night, national road. Two strangers meet for the first time at an old gas station. One has stopped t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1771",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

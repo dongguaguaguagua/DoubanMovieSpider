@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暗网XXX Deep Web XXX",
+  "url": "/subject/27080253/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2498367672.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294162/",
+      "name": "詹姆斯·W·佩恩 James W. Payne"
+    }
+  ]
+,
+  "datePublished": "2018-03-10",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H24M",
+  "description": "A collection of disturbing, sick, morbid and unusual clips from the world wide web.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "89",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

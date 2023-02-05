@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奔",
+  "url": "/subject/26865342/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2394374895.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361756/",
+      "name": "谢毅航 Yihang Xie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387925/",
+      "name": "林建邦 Jianbang Lin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313315/",
+      "name": "刘牧 Mu Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387926/",
+      "name": "陈晓桑 Xiaosang Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343338/",
+      "name": "何为 Wei He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387927/",
+      "name": "张烨 Ye Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-02-06",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u897f\u90e8"],
+  "duration": "PT1H30M",
+  "description": "商界精英马波罗少年得志，事业上身居高位，挚友兼助理程恭鞍前马后地打点一切，爱情上有大美人金姗姗相陪，千金散尽只为博女友一笑。可现实很快就打了他的脸，在一次所负责的大项目失利后，马波罗失去了工作，甚至连...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

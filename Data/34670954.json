@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小偷的女儿 La hija de un ladrón",
+  "url": "/subject/34670954/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2569555603.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421918/",
+      "name": "梅伦·弗内斯 Belén Funes"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442122/",
+      "name": "马绍尔·塞布赖恩 Marçal Cebrian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421918/",
+      "name": "梅伦·弗内斯 Belén Funes"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396250/",
+      "name": "格蕾塔·费尔南德斯 Greta Fernández"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050489/",
+      "name": "爱德华·费尔南德斯 Eduard Fernández"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333996/",
+      "name": "阿莱克斯·莫尔纳 Àlex Monner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442123/",
+      "name": "托马斯·马丁 Tomás Martín"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442124/",
+      "name": "阿德拉·西尔维斯特 Adela Silvestre"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442125/",
+      "name": "波贾·埃斯皮诺萨 Borja Espinosa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1081555/",
+      "name": "弗兰克·费斯 Frank Feys"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456863/",
+      "name": "安娜·阿拉康 Anna Alarcón"
+    }
+  ]
+,
+  "datePublished": "2019-09-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "萨拉始终都是孤单一人。她今年22岁，有一个6个月大的孩子。她希望与她的弟弟和孩子的父亲一起有一个正常的家庭。她的父亲曼纽尔因入狱多年长期不在家，正打算重新回到她的生活，建立和孩子的联系。萨拉知道父亲是...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "111",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

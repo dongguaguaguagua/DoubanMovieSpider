@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "球神比吉尔 Bigil",
+  "url": "/subject/34781092/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2572654514.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315650/",
+      "name": "维杰 Vijay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195838/",
+      "name": "纳彦塔拉 Nayanthara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007129/",
+      "name": "杰奇·史洛夫 Jackie Shroff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377634/",
+      "name": "约吉·巴布 Yogi Babu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051337/",
+      "name": "威韦克·沙马 Vivek Sharma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437725/",
+      "name": "马诺巴拉 Manobala"
+    }
+  ]
+,
+  "datePublished": "2019-10-25",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u8fd0\u52a8"],
+  "duration": "PT2H57M",
+  "description": "故事围绕一位足球教练展开；他为实现已故朋友的梦想而奋斗，并为他最好的朋友的去世而复仇",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "145",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

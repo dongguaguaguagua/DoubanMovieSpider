@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们召唤黑暗 We Summon the Darkness",
+  "url": "/subject/30323242/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533846504.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355670/",
+      "name": "马克·迈尔斯 Marc Meyers"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349935/",
+      "name": "Alan Trezza Alan Trezza"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031854/",
+      "name": "亚历珊德拉·达达里奥 Alexandra Daddario"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031900/",
+      "name": "约翰尼·诺克斯维尔 Johnny Knoxville"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399007/",
+      "name": "基恩·约翰逊 Keean Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319257/",
+      "name": "麦蒂·哈森 Maddie Hasson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004893/",
+      "name": "洛根·米勒 Logan Miller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356992/",
+      "name": "艾米·福赛思 Amy Forsyth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312821/",
+      "name": "爱丽珊·麦卡蒂 Allison McAtee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361252/",
+      "name": "奥斯汀·斯威夫特 Austin Swift"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396160/",
+      "name": "埃里克·阿塔瓦尔 Erik Athavale"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050526/",
+      "name": "坦纳·比尔德 Tanner Beard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397332/",
+      "name": "德里克·詹姆斯·特拉普 Derek James Trapp"
+    }
+  ]
+,
+  "datePublished": "2019-02-28",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H31M",
+  "description": "故事讲述三个年轻人开始一场公路旅行，途中他们偶遇三个音乐家，几人约定参加一个聚会，不料杀身之祸降临，凶手似乎就在身边。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "950",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.2"
+  }
+}

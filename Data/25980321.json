@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "少年当自强",
+  "url": "/subject/25980321/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2199409532.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322472/",
+      "name": "叶永健 Ken Yip Wing-Kin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336384/",
+      "name": "楼十八 Sep Buat Lau"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318005/",
+      "name": "张晋 Max Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318592/",
+      "name": "莫美林 Meilin Mok"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1229775/",
+      "name": "陈国坤 Kwok-Kwan Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018257/",
+      "name": "樊少皇 Siu-Wong Fan"
+    }
+  ]
+,
+  "datePublished": "2019-07-19",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H24M",
+  "description": "民国军阀头目徐达勾结洋人逼迫佛山武林高手参加五国功夫大赛，精武会会长郭天以及各门派豪杰纷纷惨遭毒手，一时之间佛山武林界群龙无首……就在危难之际，郭天之子郭震东担下大任，召集其他武林青年才俊组成“复仇者...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

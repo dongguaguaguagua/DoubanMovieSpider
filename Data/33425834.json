@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "双面狐",
+  "url": "/subject/35153497/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614938949.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327487/",
+      "name": "文卓 Zhuo Wen"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327487/",
+      "name": "文卓 Zhuo Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358440/",
+      "name": "金尤美 Youmei Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317368/",
+      "name": "文梦洋 Mengyang Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364905/",
+      "name": "袁志颖 Zhiying Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372543/",
+      "name": "杨俊婷 Junting Yang"
+    }
+  ]
+,
+  "datePublished": "2020-08-30",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H8M",
+  "description": "云盛皇朝妖魅作乱，皇帝临终将盛宁公主下嫁伏龙大将军白奕。白奕入住公主府，要与公主而寝，公主向太后请求悔婚遭拒绝。经太医检验，皇帝死于急速衰老，白奕从中看出端倪。表姐别矜色诱白奕自讨没趣，白奕专心调查皇...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

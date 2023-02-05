@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "长江之恋",
+  "url": "/subject/30459545/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2548066165.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351725/",
+      "name": "廖昌永 Changyong Liao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052229/",
+      "name": "蒋勤勤 Qinqin Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274626/",
+      "name": "陈建斌 Jianbin Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371573/",
+      "name": "尚长荣 Changrong Shang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276079/",
+      "name": "韩雪 Cecilia Han"
+    }
+  ]
+,
+  "datePublished": "2019-02-06",
+  "genre": ["\u6b4c\u821e"],
+  "duration": "",
+  "description": "中宣部和国家广电总局指导的重大宣传项目之一。长江春晚由中宣部与国家广电总局指导，上海广播电视台负责组织策划，上海、江苏、浙江、安徽、江西、湖北、湖南、重庆、四川、贵州、云南、青海12家省级电视台携手合...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

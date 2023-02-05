@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "这里是地狱 Here Comes Hell",
+  "url": "/subject/30446243/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546576054.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382319/",
+      "name": "玛格丽特·科鲁尼 Margaret Clunie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108466/",
+      "name": "尼古拉斯·勒·普雷沃斯特 Nicholas Le Prevost"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032319/",
+      "name": "罗伯特·卢埃林 Robert Llewellyn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015000/",
+      "name": "Tom Bailey Tom Bailey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344488/",
+      "name": "蒂莫西·雷诺夫 Timothy Renouf"
+    }
+  ]
+,
+  "datePublished": "2019-03-01",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "A 1930&#39;s dinner party descends into carnage, gore and demonic possession in Here Comes Hell, a genre...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "武藏 武蔵－むさし－",
+  "url": "/subject/30129059/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2550783533.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452084/",
+      "name": "三上康雄 Yasuo Mikami"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452084/",
+      "name": "三上康雄 Yasuo Mikami"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002308/",
+      "name": "远藤久美子 Kumiko Endo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275143/",
+      "name": "细田善彦 Yoshihiko Hosoda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1039073/",
+      "name": "松平健 Ken Matsudaira"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452084/",
+      "name": "三上康雄 Yasuo Mikami"
+    }
+  ]
+,
+  "datePublished": "2019-05-25",
+  "genre": ["\u52a8\u4f5c", "\u5386\u53f2"],
+  "duration": "PT2H0M",
+  "description": "俳優の細田善彦が映画初主演を果たし、松平健と共演する「武蔵　むさし」が、2019年初夏に公開されることが決定。「蠢動　しゅんどう」の三上康雄監督がメガホンをとる。
+映画は、三上監督が脚本・製作を兼ねた...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "175",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

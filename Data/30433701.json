@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "木屋X先生",
+  "url": "/subject/30433701/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2572121051.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408823/",
+      "name": "张皓森 Haosen Zhang"
+    }
+  ]
+,
+  "datePublished": "2019-01-18",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H10M",
+  "description": "本片讲述了一个带有文艺气息的爱情故事，通过富家女姗姗失足荒野而得以成长的心路历程。两个主人公能在荒野里建造了属于自己的理想世界：那里有爱没有物质的沉重负担，那里有梦没有现实的无情羁绊，那是属于姗姗和林...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

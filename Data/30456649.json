@@ -1,0 +1,101 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "二之国 二ノ国",
+  "url": "/subject/30456649/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2560697963.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414781/",
+      "name": "百濑义行 Momose Yoshiyuki"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322983/",
+      "name": "日野晃博 Akihiro Hino"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275784/",
+      "name": "山崎贤人 Kento Yamazaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350197/",
+      "name": "新田真剑佑 Mackenyu Arata"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315734/",
+      "name": "永野芽郁 Mei Nagano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018576/",
+      "name": "宫野真守 Mamoru Miyano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1194806/",
+      "name": "津田健次郎 Kenjirô Tsuda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1146783/",
+      "name": "坂本真绫 Maaya Sakamoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019299/",
+      "name": "山寺宏一 Kôichi Yamadera"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052297/",
+      "name": "梶裕贵 Yûki Kaji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003500/",
+      "name": "伊武雅刀 Masatô Ibu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275807/",
+      "name": "室毅 Tsuyoshi Muro"
+    }
+  ]
+,
+  "datePublished": "2019-08-23",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H46M",
+  "description": "超人气游戏&lt;二之国&gt;将拍摄动画电影。
+吉卜力出身导演百濑义行执导，山崎贤人主演（声演），2019年夏季华纳日本系公映。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "928",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

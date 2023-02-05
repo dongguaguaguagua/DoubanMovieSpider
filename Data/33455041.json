@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "街舞青春",
+  "url": "/subject/33455041/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557188439.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416749/",
+      "name": "李小杰 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417632/",
+      "name": "王楠楠 Nannan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417631/",
+      "name": "高立言 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275768/",
+      "name": "黄鸿升 Alien Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416750/",
+      "name": "李妍心 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417633/",
+      "name": "纪源 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416751/",
+      "name": "郑如晶 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359486/",
+      "name": "徐俊 Jun Xu"
+    }
+  ]
+,
+  "datePublished": "2020-08-14",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "本片讲述了一个从小就有跳舞天分的少年张韵翰，母亲在自己很小时就因为过度操劳而去世，父亲每天沉迷于赌博欠下高利贷经常被追债。他在这样家庭环境不好的情况下，依然坚持自己的舞蹈梦想，在好朋友的帮助下克服种种...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

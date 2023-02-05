@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "勇士迷踪 Legionnaire&#39;s Trail",
+  "url": "/subject/34445270/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2602707741.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442772/",
+      "name": "何塞·马根 Jose Magan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029405/",
+      "name": "Alberto Vázquez Figueroa Alberto Vázquez Figueroa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442772/",
+      "name": "何塞·马根 Jose Magan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035646/",
+      "name": "米基·洛克 Mickey Rourke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027192/",
+      "name": "白灵 Ling Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1111672/",
+      "name": "弗拉基米尔库利奇 Vladimir Kulich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032083/",
+      "name": "乔昆姆·德·阿尔梅达 Joaquim de Almeida"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1249683/",
+      "name": "马克西姆·马特维耶夫 Maksim Matveev"
+    }
+  ]
+,
+  "datePublished": "2020-05-08",
+  "genre": ["\u52a8\u4f5c", "\u5386\u53f2", "\u5192\u9669"],
+  "duration": "PT1H36M",
+  "description": "Nero&#39;s reign. The invasion of Parthia has been a fiasco. Two Roman legions have been brought to a st...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "90",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

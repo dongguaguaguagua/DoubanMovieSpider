@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "星游记之风暴法米拉2",
+  "url": "/subject/27599401/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2591947273.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379732/",
+      "name": "胡一泊 Yibo Hu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379732/",
+      "name": "胡一泊 Yibo Hu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350677/",
+      "name": "陶典 Dian Tao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334349/",
+      "name": "山新 Shuang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345276/",
+      "name": "小连杀 Jing Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334350/",
+      "name": "宝木中阳 Ming Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320632/",
+      "name": "张杰 Jie Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343032/",
+      "name": "图特哈蒙 Sheng Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440623/",
+      "name": "卢力峰 Lifeng Lu"
+    }
+  ]
+,
+  "datePublished": "2020-03-28",
+  "genre": ["\u52a8\u753b", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H28M",
+  "description": "在全宇宙可以自由通航的未来，在木星举办的竞技真人秀风暴法米拉大赛风靡太阳系，而这一届的冠军之争将在麦当与极光之间展开。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "9643",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

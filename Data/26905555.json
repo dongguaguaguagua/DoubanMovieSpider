@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "娱乐追击",
+  "url": "/subject/26905555/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2548176226.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401140/",
+      "name": "李轩 Xuan Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410773/",
+      "name": "徐宁泽 Ningze Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314773/",
+      "name": "洪天明 Timmy Hung Tin-Ming"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350013/",
+      "name": "万国鹏 Guopeng Wan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274652/",
+      "name": "姜超 Chao Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365973/",
+      "name": "刘艺丹 Yidan Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275707/",
+      "name": "齐芳 Fang Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341757/",
+      "name": "李舜 Shun Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328892/",
+      "name": "臧洪娜 Hongna Zang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274279/",
+      "name": "林雪 Suet Lam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275210/",
+      "name": "雪村 Cun Xue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318019/",
+      "name": "李羿瑄 Yixuan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421263/",
+      "name": "罗心妍 Xinyan Luo"
+    }
+  ]
+,
+  "datePublished": "2019-11-22",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H30M",
+  "description": "电影《娱乐追击》讲述经纪公司老板洪天明与娱记一姐刘艺丹亦敌亦友的好戏。将“恶意炒作”“狗仔跟拍”“公关大战”等“圈内规则”展现在笑料与逗趣中，呈现给观众一个真实的“娱乐圈生存法则”。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

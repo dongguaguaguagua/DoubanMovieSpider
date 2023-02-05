@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狼溪3 Wolf Creek 3",
+  "url": "/subject/30258799/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2666300242.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291685/",
+      "name": "克瑞格·麦克林恩 Greg Mclean"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291685/",
+      "name": "克瑞格·麦克林恩 Greg Mclean"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025310/",
+      "name": "约翰·贾瑞特 John Jarratt"
+    }
+  ]
+,
+  "datePublished": "2022-09-08",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H34M",
+  "description": "臭名昭著的杀手米克·泰勒（Mick Taylor）再次寻找游客。这次，整个事情变得有些困难了，因为他本人是一次暗杀的受害者，最后一部分是一个名叫梅森·恩奎斯特（Mason Enqvist）的年轻露营者...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

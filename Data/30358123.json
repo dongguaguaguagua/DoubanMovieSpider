@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "懒散的人 LAIDBACKERS",
+  "url": "/subject/30358123/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2551935326.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377996/",
+      "name": "桥本裕之 Hiroyuki Hashimoto"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314053/",
+      "name": "上江洲诚 Makoto Uezu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-04-05",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "祖母の駄菓子屋を継ぐため京都に引っ越してきた美大生･本天沼久美。だが、空き家だったはずの駄菓子屋には、ハラミ・Ｋ・舞の3人と犬一匹が住み着いていた！　なんと、ハラミたちは魔王を追って、剣と魔法の世界か...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

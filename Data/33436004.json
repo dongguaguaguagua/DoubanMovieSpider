@@ -1,0 +1,78 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小瑞士 la pequeña suiza",
+  "url": "/subject/33436004/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555569220.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364874/",
+      "name": "玛吉.斯班多斯 Maggie Civantos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348923/",
+      "name": "英格丽·加西亚·荣松 Ingrid García Jonsson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014628/",
+      "name": "塞康·德拉罗萨 Secun de la Rosa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300085/",
+      "name": "恩里克·维纶 Enrique Villén"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352922/",
+      "name": "拉蒙·巴雷阿 Ramón Barea"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025408/",
+      "name": "安东尼奥·雷西内斯 Antonio Resines"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1089431/",
+      "name": "佩佩·拉帕佐特 Pêpê Rapazote"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1154255/",
+      "name": "Anabela Teixeira Anabela Teixeira"
+    }
+  ]
+,
+  "datePublished": "2019-04-26",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "The misadventures of the inhabitants of the imaginary Castillian village of Tellería, located in the...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

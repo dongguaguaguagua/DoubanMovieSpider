@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冷血坏特工",
+  "url": "/subject/30185828/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2518860353.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398414/",
+      "name": "巴晨旭 Chenxu Ba"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327617/",
+      "name": "刘前程 Qiancheng Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398412/",
+      "name": "陈一雯 Yiwen Chen"
+    }
+  ]
+,
+  "datePublished": "2018-04-02",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "本片讲述了身为M国的特别行动调查局情报员,以及欧阳集团继承人的欧阳越泽，因为不擅长英语而导致在抓捕最大枭毒犯黑衣人行动中失败，他不得已被派遣到鹿橙任教的商学院学习，然而欧阳越泽三番五次的缺课，引起了鹿...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冠军 Il campione",
+  "url": "/subject/30466919/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2552228996.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429123/",
+      "name": "利奥纳多·达戈斯蒂尼 Leonardo D&#39;Agostini"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000582/",
+      "name": "茱莉亚·施泰格瓦尔特 Giulia Steigerwalt"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032382/",
+      "name": "斯特凡诺·阿科尔西 Stefano Accorsi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402376/",
+      "name": "安德里亚·卡朋扎诺 Andrea Carpenzano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294739/",
+      "name": "马西莫·波波利齐奥 Massimo Popolizio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037366/",
+      "name": "安妮塔·卡皮奥尼 Anita Caprioli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414681/",
+      "name": "路德维卡·马蒂诺 Ludovica Martino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470521/",
+      "name": "霍莉·伊尔根 Holly Irgen"
+    }
+  ]
+,
+  "datePublished": "2019-04-18",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H45M",
+  "description": "极具天赋、年轻气盛、自由散漫却依旧备受宠爱的克里斯蒂安是个名副其实的足球天才。这位摇滚巨星般闪耀的天才球员吸引着全世界无数球迷的目光。瓦莱里奥是一位孤独而羞涩的文哲教授，饱受经济问题和过往阴影的困扰。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "946",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

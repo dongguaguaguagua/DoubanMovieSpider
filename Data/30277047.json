@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Somewhat Dead",
+  "url": "/subject/30277047/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032533/",
+      "name": "西恩·马提亚斯 Sean Mathias"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054410/",
+      "name": "伊恩·麦克莱恩 Ian McKellen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018259/",
+      "name": "哈里·恩菲尔德 Harry Enfield"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

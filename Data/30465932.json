@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "虚构故事",
+  "url": "/subject/30465932/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2548774784.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409434/",
+      "name": "张子武 Ziwu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409434/",
+      "name": "张子武 Ziwu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b", "\u60ac\u7591"],
+  "duration": "",
+  "description": "落魄的小编剧未铭与女友游伶艰难地在大都市里过着捉襟见肘的生活，但是未铭仍旧期盼着依靠自己的电影理想获得成功。突然一天，一位影视公司老板对未铭的作品大加赞赏，正当未铭认为机会来临时，一个陌生女人打来的电...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

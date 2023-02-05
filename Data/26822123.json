@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "秒速5厘米",
+  "url": "/subject/26822123/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330472/",
+      "name": "董子健 Zijian Dong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368492/",
+      "name": "邹藜 Li Zou"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "根据新海诚的经典动画作品《秒速5厘米》改编。
+转学生小鹿来到了新的学校，在偶然的机会遇到了一个女孩，两人成为互诉心事互相鼓励的朋友，随着了解更多，发现两人竟然有着奇妙的关系渊源，一段发生 在樱花下的美...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

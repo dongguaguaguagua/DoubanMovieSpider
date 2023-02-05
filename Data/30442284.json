@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "珍布 Jumbo",
+  "url": "/subject/30442284/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2586317414.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438930/",
+      "name": "佐伊·维托克 Zoé Wittock"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438930/",
+      "name": "佐伊·维托克 Zoé Wittock"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353982/",
+      "name": "诺米·梅兰特 Noémie Merlant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041763/",
+      "name": "埃马纽埃尔·贝克特 Emmanuelle Bercot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356169/",
+      "name": "巴斯蒂安·布永 Bastien Bouillon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395914/",
+      "name": "萨姆·卢维克 Sam Louwyck"
+    }
+  ]
+,
+  "datePublished": "2020-01-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "讲述了恋物癖女孩珍妮……与游乐园设施珍布……之间的爱情故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "569",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

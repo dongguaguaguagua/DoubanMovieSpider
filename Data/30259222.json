@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奉土地之名 Au nom de la terre",
+  "url": "/subject/30259222/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2562180363.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432179/",
+      "name": "爱德华·伯根 Edouard Bergeon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432179/",
+      "name": "爱德华·伯根 Edouard Bergeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308721/",
+      "name": "Bruno Ulmer Bruno Ulmer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000177/",
+      "name": "吉约姆·卡内 Guillaume Canet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005361/",
+      "name": "薇儿拉·贝坦丝 Veerle Baetens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388868/",
+      "name": "安东尼·巴容 Anthony Bajon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028743/",
+      "name": "萨米尔·盖丝米 Samir Guesmi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296160/",
+      "name": "克里斯朵夫·罗西尼翁 Christophe Rossignon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1142111/",
+      "name": "吕菲斯 Rufus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483395/",
+      "name": "玛丽-克里斯汀·奥里 Marie-Christine Orry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484992/",
+      "name": "索拉尔·福特 Solal Forte"
+    }
+  ]
+,
+  "datePublished": "2019-09-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "吉约姆·卡内、薇儿拉·贝坦丝([破碎之家])、安东尼·巴容([祈祷])主演，爱德华·贝尔容(Edouard Bergeon)执导[以地球的名义](Au nom de la terre，暂译)本周已在马...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "128",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

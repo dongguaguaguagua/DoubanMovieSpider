@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "春天的街道 봄이가도",
+  "url": "/subject/30190572/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2532497363.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376010/",
+      "name": "刘在明 Jae-myung Yoo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038783/",
+      "name": "全美善 Mi-seon Jeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350943/",
+      "name": "全锡浩 Suk-Ho Jun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381627/",
+      "name": "金慧埈 Hye-joon Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448090/",
+      "name": "朴智妍 Ji-Yeon Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1471179/",
+      "name": "吴敏爱 Min-ae Oh"
+    }
+  ]
+,
+  "datePublished": "2018-09-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H12M",
+  "description": "April 16, 2014. An Omnibus film about those whose time had stood still on that day. For After Spring...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

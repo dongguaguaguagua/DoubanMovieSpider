@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "臆想魔友 Z",
+  "url": "/subject/30488222/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2551264588.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378277/",
+      "name": "柯林·米尼汉 Colin Minihan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1152919/",
+      "name": "基冈·康纳·特雷西 Keegan Connor Tracy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354252/",
+      "name": "杰特·克莱恩 Jett Klyne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1202323/",
+      "name": "肖恩·罗格森 Sean Rogerson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260653/",
+      "name": "莎拉·坎宁 Sara Canning"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013904/",
+      "name": "钱德拉·韦斯特 Chandra West"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1203721/",
+      "name": "Jayson Therrien Jayson Therrien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258147/",
+      "name": "格里克·温斯顿 Gerrick Winston"
+    }
+  ]
+,
+  "datePublished": "2019-12-25",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "A family find themselves terrorized by their eight-year-old son&#39;s imaginary friend.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "394",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

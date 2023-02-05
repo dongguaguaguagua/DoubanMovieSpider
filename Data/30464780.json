@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "空矿 Mine de rien",
+  "url": "/subject/30464780/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2584736115.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378828/",
+      "name": "马蒂亚斯·姆利库斯 Mathias Mlekuz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378828/",
+      "name": "马蒂亚斯·姆利库斯 Mathias Mlekuz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430152/",
+      "name": "菲利普·雷博 Philippe Rebbot"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333275/",
+      "name": "阿尔诺·杜克雷 Arnaud Ducret"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430152/",
+      "name": "菲利普·雷博 Philippe Rebbot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050911/",
+      "name": "海伦·文森特 Hélène Vincent"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014503/",
+      "name": "梅兰妮·贝尔内尔 Mélanie Bernier"
+    }
+  ]
+,
+  "datePublished": "2020-02-26",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

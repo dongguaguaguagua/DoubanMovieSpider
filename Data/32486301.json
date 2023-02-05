@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "脱欧之路 Road to Brexit",
+  "url": "/subject/32486301/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2871155588.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291265/",
+      "name": "‎亚瑟·马修斯‎ Arthur Mathews"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1194203/",
+      "name": "马特·贝里 Matt Berry"
+    }
+  ]
+,
+  "datePublished": "2019-03-26",
+  "genre": [],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

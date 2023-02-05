@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "少年黑手党 La Paranza dei Bambini",
+  "url": "/subject/30427478/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546404509.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324963/",
+      "name": "克劳迪欧·吉瓦内斯 Claudio Giovannesi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311880/",
+      "name": "毛里齐奥·布拉奇 Maurizio Braucci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324963/",
+      "name": "克劳迪欧·吉瓦内斯 Claudio Giovannesi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050702/",
+      "name": "罗伯特·萨维亚诺 Roberto Saviano"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410725/",
+      "name": "薇薇安娜·阿普雷亚 Viviana Aprea"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410726/",
+      "name": "马蒂亚·皮亚诺·德尔·巴尔佐 Mattia Piano Del Balzo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410727/",
+      "name": "弗朗西斯科·迪·那布勒 Francesco Di Napoli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410728/",
+      "name": "帕斯夸尔·马洛塔 Pasquale Marotta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328546/",
+      "name": "阿涅洛·阿雷纳 Aniello Arena"
+    }
+  ]
+,
+  "datePublished": "2019-02-12",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H50M",
+  "description": "一群十几岁的男孩拿着手枪和AK-47在那不勒斯的街道上巡逻，以执行他们的暴徒头目的命令。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2212",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

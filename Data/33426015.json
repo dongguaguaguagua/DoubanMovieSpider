@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "青春之梦 Rêves de jeunesse",
+  "url": "/subject/33426015/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561169458.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383100/",
+      "name": "阿兰·罗素 Alain Raoust"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383100/",
+      "name": "阿兰·罗素 Alain Raoust"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1030291/",
+      "name": "塞西尔·瓦尔加夫蒂 Cécile Vargaftig"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380494/",
+      "name": "Salomé Richard Salomé Richard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423583/",
+      "name": "保罗·斯佩拉 Paul Spera"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454853/",
+      "name": "Carl Malapa Carl Malapa"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "Salome gets a summer job in a junkyard somewhere in the country side. Under a western sun, in this p...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

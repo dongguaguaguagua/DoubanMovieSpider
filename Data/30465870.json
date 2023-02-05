@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "锦衣之下之绣春刀",
+  "url": "/subject/30465870/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2550810316.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415494/",
+      "name": "榘庭 Ting Ju"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384342/",
+      "name": "张启敏 Qimin Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411265/",
+      "name": "魏冠男 Joseph Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376598/",
+      "name": "秦楚明 Chuming Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317776/",
+      "name": "孟飞 Fei Meng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415497/",
+      "name": "漆培鑫 Peixin Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457642/",
+      "name": "韩帅 Shuai Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476203/",
+      "name": "赵菁 Jing Zhao"
+    }
+  ]
+,
+  "datePublished": "2019-04-23",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H25M",
+  "description": "《锦衣之下》同名 IP 改编电影。
+锦衣卫养兄弟陆绎与张承德通过神秘鬼球，探查将军李汉暗通敌军的军机大案，却意外揭开张承德惊人的身世谜团，引发养父子三人的恩仇对决。张承德竟得知养父即杀父仇人，肝胆相照...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1630",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

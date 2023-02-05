@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "水之影 Chola",
+  "url": "/subject/34680054/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2573249649.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383145/",
+      "name": "萨那·库马尔·桑迪哈兰 Sanal Kumar Sasidharan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383145/",
+      "name": "萨那·库马尔·桑迪哈兰 Sanal Kumar Sasidharan"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-09-02",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT2H0M",
+  "description": "少女珍娜背着自己的母亲与她骨瘦如柴的男友及其阴郁的老板一同开车前往市区。男友的老板令珍娜极度不安，城市的繁华也使她头晕目眩，当夜幕再次降临，少女将面临她的人生厄运。电影以现代故事重写古老寓言，探索和展...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

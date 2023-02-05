@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "龙转乾坤",
+  "url": "/subject/30475332/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2549450220.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346329/",
+      "name": "廖威廉 William Liao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378516/",
+      "name": "孟璐 Lu Meng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380759/",
+      "name": "杨晋 Jin Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342324/",
+      "name": "刘潺 Chan Liu"
+    }
+  ]
+,
+  "datePublished": "2019-02-28",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b", "\u6b66\u4fa0"],
+  "duration": "PT1H10M",
+  "description": "江湖上武林英豪辈出，但独有奇门遁甲术超脱于武林又隐于江湖，奇门遁甲本属一派，后因门派弟子门派权利之争，以及对道法秘术钻研方向不同而分为奇门派和遁甲派。奇门派的“伯道上人”研究易学法术，遁甲派的“青墨上...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

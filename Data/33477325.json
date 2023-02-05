@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "舞灵 บุษบา",
+  "url": "/subject/33477325/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2559284202.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347616/",
+      "name": "安莎达彭·斯莉瓦塔娜功 Ausadaporn Siriwattanakul"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417448/",
+      "name": "阿玉松·玛尼提 Anusorn Maneeted"
+    }
+  ]
+,
+  "datePublished": "2019-07-25",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H33M",
+  "description": "敏塔是24歲的現代舞者，她想在新劇《羅摩衍那》中飾演西達一角。她需要這個演出機會來向家人及世界證明，她想當舞者的夢想。同時她也極需這筆錢來繳帳單。可是這個角色需要同時具有善良與邪惡的一面，而敏塔太善良...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "93",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

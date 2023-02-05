@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超龄少女 Oh Baby...",
+  "url": "/subject/34445786/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2571682878.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252353/",
+      "name": "Gopimohan Gopimohan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267011/",
+      "name": "萨曼莎·鲁斯·帕布 Samantha Ruth Prabhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1102928/",
+      "name": "Lakshmi Lakshmi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441074/",
+      "name": "阿迪维·赛什 Adivi Sesh"
+    }
+  ]
+,
+  "datePublished": "2019-07-04",
+  "genre": ["\u5267\u60c5", "\u6b4c\u821e", "\u5947\u5e7b"],
+  "duration": "PT2H37M",
+  "description": "正值妙龄的Swati（萨曼莎·鲁斯·帕布饰）拥有令人闻之即醉的歌声，一次在外演唱 时被音乐制作人Vikram发现，后参加当地的歌唱比赛一举成名，但是年轻貌美的 Swati总是会做出一些不符年龄的举动：...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "724",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.2"
+  }
+}

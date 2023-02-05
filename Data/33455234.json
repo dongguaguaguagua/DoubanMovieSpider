@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血鲨",
+  "url": "/subject/33455234/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560520830.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323524/",
+      "name": "王栎昂 Yue`ang Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1171687/",
+      "name": "方力申 Lik-Sun Fong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275947/",
+      "name": "周韦彤 Cica Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366664/",
+      "name": "文东俊 Dongjun Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323524/",
+      "name": "王栎昂 Yue`ang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416754/",
+      "name": "刘子晴 Ziqing Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418705/",
+      "name": "柯恬柔 Tara Clance"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416753/",
+      "name": " "
+    }
+  ]
+,
+  "datePublished": "2020-07-17",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "影片选取国内少见的“鲨鱼”题材，讲述游泳运动员明煦阳（方力申 饰）和海洋乐园驯养员齐幻（周韦彤 饰）意外陷入一场有关血鲨巨大阴谋的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "657",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

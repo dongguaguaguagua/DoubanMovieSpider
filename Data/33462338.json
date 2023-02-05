@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "麦穗黄了",
+  "url": "/subject/33462338/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2557915816.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320090/",
+      "name": "周友朝 Youchao Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452566/",
+      "name": "秦岭 Ling Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274914/",
+      "name": "果靖霖 Jinglin Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327374/",
+      "name": "杨珺 Jun Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274914/",
+      "name": "果靖霖 Jinglin Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034637/",
+      "name": "颜丹晨 Danchen Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275510/",
+      "name": "杨新鸣 Xinming Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314858/",
+      "name": "王大治 Dazhi Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336961/",
+      "name": "高海鹏 Haipeng Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364676/",
+      "name": "王大元 Dayuan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315506/",
+      "name": "巴多 Duo Ba"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418191/",
+      "name": "季妍霏 Yanfei Ji"
+    }
+  ]
+,
+  "datePublished": "2019-05-28",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "电影《粮道》改编自著名作家秦岭的中篇小说《皇粮》和《借命时代的家乡》，由长影集团、平凉市委、市政府和庄浪县委、县政府三方共同拍摄，作为申报国家“五个一”工程评奖项目，电影《粮道》由国内知名导演、编剧、...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

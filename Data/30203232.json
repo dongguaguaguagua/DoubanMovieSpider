@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "都柏林动物 Animals",
+  "url": "/subject/30203232/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2565224350.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345226/",
+      "name": "苏菲·海德 Sophie Hyde"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425420/",
+      "name": "艾玛·简·恩斯沃斯 Emma Jane Unsworth"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314352/",
+      "name": "荷丽黛·格兰杰 Holliday Grainger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000021/",
+      "name": "阿莉雅·肖卡特 Alia Shawkat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037327/",
+      "name": "帕特·绍特 Pat Shortt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355887/",
+      "name": "欧文·弗热瑞 Olwen Fouéré"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390821/",
+      "name": "埃尔娃·崔尔 Elva Trill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338299/",
+      "name": "安东尼·莫里斯 Anthony Morris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336206/",
+      "name": "穆里斯·克劳雷 Muiris Crowley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429389/",
+      "name": "弗拉·菲 Fra Fee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429387/",
+      "name": "德默特·墨菲 Dermot Murphy"
+    }
+  ]
+,
+  "datePublished": "2019-01-28",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H49M",
+  "description": "未来的作家劳拉（Holliday Grainger）和她的室友美女泰勒（Alia Shawkat）在都柏林有一间凌乱的公寓，对酒、茉莉和一夜情有强烈的欲望。然而，当劳拉爱上了吉姆（Fra Fee），一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "585",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

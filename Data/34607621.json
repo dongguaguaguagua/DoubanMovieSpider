@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灰姑娘的故事：圣诞愿望 A Cinderella Story: Christmas Wish",
+  "url": "/subject/34607621/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2571514745.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028078/",
+      "name": "Michelle Johnston Michelle Johnston"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028078/",
+      "name": "Michelle Johnston Michelle Johnston"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036678/",
+      "name": "劳拉·马兰洛 Laura Marano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322845/",
+      "name": "格雷格·萨克因 Gregg Sulkin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356690/",
+      "name": "伊莎贝拉·戈麦兹 Isabella Gomez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401826/",
+      "name": "查内尔·佩洛索 Chanelle Peloso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366491/",
+      "name": "乔安娜·纽马奇 Johannah Newmarch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391359/",
+      "name": "莉莲·道塞特-罗奇 Lillian Doucet-Roche"
+    }
+  ]
+,
+  "datePublished": "2019-10-15",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u6b4c\u821e"],
+  "duration": "PT1H25M",
+  "description": "Kat Emerson could really use a Christmas miracle! The aspiring singer-songwriter may have big dreams...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "451",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

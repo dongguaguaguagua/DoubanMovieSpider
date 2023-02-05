@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "偷猎者 Poacher",
+  "url": "/subject/27190065/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298358/",
+      "name": "科里夫·斯丹德斯 Kriv Stenders"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338326/",
+      "name": "卢克·布雷西 Luke Bracey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006989/",
+      "name": "尼克·诺特 Nick Nolte"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "",
+  "description": "卢克·布雷西(《血战钢锯岭》《极盗者》)、尼克·诺特(《细细的红线》《四十八小时》)将主演动作惊悚新片《偷猎者》(Poacher)，科里夫·斯丹德斯(《红犬历险记》《杀了我三次》)执导，托马斯·马丁(...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

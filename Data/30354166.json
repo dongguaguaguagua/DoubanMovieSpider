@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "理查二世 National Theatre Live: The Tragedy of King Richard the Second",
+  "url": "/subject/30354166/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554052208.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420604/",
+      "name": "乔·希尔-吉宾斯 Joe Hill-Gibbins"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468191/",
+      "name": "约翰·麦凯 John Mackay"
+    }
+  ]
+,
+  "datePublished": "2019-01-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H55M",
+  "description": "在看过大卫·田纳特版的《理查二世》和本·卫肖出演的BBC剧集《空王冠》版本之后，你还能否想象另一番模样的《理查二世》？
+以NT Live版《李尔王》为中国观众所熟知的两度奥利弗奖得主西蒙·拉塞尔·比尔...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "138",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

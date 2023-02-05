@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奇幻变形计 奇幻变形记",
+  "url": "/subject/27178934/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2505627976.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274313/",
+      "name": "邱礼涛 Herman Yau"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027577/",
+      "name": "古天乐 Louis Koo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023681/",
+      "name": "温碧霞 Irene Wan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350846/",
+      "name": "李莎旻子 Shaminzi Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u513f\u7ae5", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "电影《奇幻变型记》正在拍摄中，灵感来源于《变形计》……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

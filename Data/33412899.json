@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "去看大海",
+  "url": "/subject/33412899/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2883144149.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386207/",
+      "name": "方亮 Liang Fang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386207/",
+      "name": "方亮 Liang Fang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342395/",
+      "name": "史彭元 Pengyuan Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433750/",
+      "name": "贺雨禾 Yuhe He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404711/",
+      "name": "李肆童 Sitong Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443314/",
+      "name": "薛旭春 Xuchun Xue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344530/",
+      "name": "刘洋 Yang Liu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H50M",
+  "description": "少年何三，因忍受不了父亲去世的压抑，只身一人来到深圳工厂，混进南方打工人潮，在爱与欲中窥探到更辽阔秘密丛林。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

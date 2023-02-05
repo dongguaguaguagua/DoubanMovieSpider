@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "白上加白 Blanco en blanco",
+  "url": "/subject/34679911/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2567858105.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420442/",
+      "name": "提奥·科特 Théo Court"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420442/",
+      "name": "提奥·科特 Théo Court"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442111/",
+      "name": "塞缪尔·M·德尔加多 Samuel M. Delgado"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327141/",
+      "name": "阿尔佛莱德·卡斯特罗 Alfredo Castro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165044/",
+      "name": "伊格纳西奥·切鲁蒂 Ignacio Ceruti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358539/",
+      "name": "亚历山德罗·高克 Alejandro Goic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442112/",
+      "name": "大卫·潘塔伦 David Pantaleón"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442113/",
+      "name": "埃丝特·维加·佩雷斯·托雷斯 Esther Vega Pérez Torres"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442114/",
+      "name": "罗拉·鲁比奥 Lola Rubio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1146083/",
+      "name": "拉尔斯·鲁道夫 Lars Rudolph"
+    }
+  ]
+,
+  "datePublished": "2019-09-03",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "二十世纪初，婚礼摄影师佩德罗来到了荒蛮的火地岛，为当地掌权者拍摄婚礼。可他却深深迷上了年轻的准新娘，背叛了当权者所设下的规矩，并因此受到了惩罚。佩德罗无法逃离火地岛，只好被迫成为了一场针对原住民的大屠...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "456",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

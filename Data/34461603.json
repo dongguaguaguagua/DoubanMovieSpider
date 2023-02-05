@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Knot",
+  "url": "/subject/34461603/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2593816259.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336193/",
+      "name": "克里丝蒂安·赛德尔 Christiane Seidel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036486/",
+      "name": "查理·考克斯 Charlie Cox"
+    }
+  ]
+,
+  "datePublished": "2019-04-15",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT0H12M",
+  "description": "The Knot is a psychological horror about a woman (Christiane Seidel) fighting a breakdown after real...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

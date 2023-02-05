@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我制服了魔鬼 I Trapped the Devil",
+  "url": "/subject/33389322/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2552611981.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414110/",
+      "name": "乔许·罗博 Josh Lobo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414110/",
+      "name": "乔许·罗博 Josh Lobo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354747/",
+      "name": "克里斯·沙利文 Chris Sullivan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319266/",
+      "name": "乔赛琳·唐娜休 Jocelin Donahue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036966/",
+      "name": "AJ·鲍恩 AJ Bowen"
+    }
+  ]
+,
+  "datePublished": "2019-04-12",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H22M",
+  "description": "Christmas is supposed to be a time for peace and joyful family reunions. But when Matt and his wife ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "231",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

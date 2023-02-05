@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "功夫Chian",
+  "url": "/subject/33462485/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2558000879.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417404/",
+      "name": "李东华 Donghua Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418600/",
+      "name": "张嘉予 Steven"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "由珠海明日之星（地产）商贸有限公司、珠海市海城轩工艺美术品有限公司、江西厚积堂文化传播有限公司出品、香港瑜彤文化传播有限公司、瑜彤（深圳）影视文化有限公司、嘉和（香港）影视文化有限公司联合出品，出品人...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超能小萌怪：永远在一起 Super Monsters Furever Friends",
+  "url": "/subject/33415916/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554026152.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411919/",
+      "name": "冯耀通 Yiu Tong Vincent Fung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1125325/",
+      "name": "安德莉亚·利布曼 Andrea Libman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1112885/",
+      "name": "亚历桑德罗·朱利安尼 Alessandro Juliani"
+    }
+  ]
+,
+  "datePublished": "2019-04-16",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT0H58M",
+  "description": "小萌怪在春天的第一夜齊聚公園，這裡有好吃的、好玩的，還有超級可愛的萌怪寵物！",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

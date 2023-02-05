@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马里盖拉 Marighella",
+  "url": "/subject/30427464/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2547279733.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009708/",
+      "name": "瓦格纳·马拉 Wagner Moura"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1175081/",
+      "name": "费利佩·布拉加 Felipe Braga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009708/",
+      "name": "瓦格纳·马拉 Wagner Moura"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018330/",
+      "name": "塞乌·乔奇 Seu Jorge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1089550/",
+      "name": "阿德丽安娜·埃斯特维斯 Adriana Esteves"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1100250/",
+      "name": "布鲁诺·加利亚索 Bruno Gagliasso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428720/",
+      "name": "哈发艾尔·劳赞诺 Rafael Lozano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1136712/",
+      "name": "查尔斯·帕拉文蒂 Charles Paraventi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078034/",
+      "name": "海尔森·卡普里 Herson Capri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1157269/",
+      "name": "路易斯·卡洛斯·瓦斯康赛罗斯 Luiz Carlos Vasconcelos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209305/",
+      "name": "温贝托·卡劳 Humberto Carrão"
+    }
+  ]
+,
+  "datePublished": "2019-02-16",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT2H35M",
+  "description": "Marighella is a biographical film about Carlos Marighella, a Marxist Brazilian writer, politician an...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

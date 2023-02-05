@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冬眠时刻 Hibernation",
+  "url": "/subject/26290435/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290066/",
+      "name": "林诣彬 Justin Lin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364027/",
+      "name": "吉内瓦·德沃莱特-罗宾森 Geneva Robertson-Dworet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384410/",
+      "name": "威廉·戴·弗兰克 William Day Frank"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "由《速度与激情》导演林诣彬团队制作的一部超越时空的科幻巨制。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

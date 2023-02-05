@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "四罐 4 latas",
+  "url": "/subject/30242108/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2556719120.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309402/",
+      "name": "杰拉多·奥利瓦雷斯 Gerardo Olivares"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309402/",
+      "name": "杰拉多·奥利瓦雷斯 Gerardo Olivares"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025182/",
+      "name": "让·雷诺 Jean Reno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343538/",
+      "name": "霍威克·库区科利安 Hovik Keuchkerian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284590/",
+      "name": "弗朗西斯科·加里多 Francesc Garrido"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1299808/",
+      "name": "阿图罗·瓦尔斯 Arturo Valls"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1146700/",
+      "name": "恩里克·圣弗兰西斯科 Enrique San Francisco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1237233/",
+      "name": "苏珊娜·阿巴图纳·戈麦斯 Susana Abaituna Gómez"
+    }
+  ]
+,
+  "datePublished": "2019-03-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H44M",
+  "description": "杰拉多·奥利瓦雷斯执导新片[四罐](4 latas，暂译)，让·雷诺、霍威克·库区科利安([恋爱中的蝎子])主演影片。故事讲述两个好友扎克(库区科利安饰)和皮埃尔(让·雷诺饰)决定前往马里看望生病的朋...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

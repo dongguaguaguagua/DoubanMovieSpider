@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "10080’",
+  "url": "/subject/30192038/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2518845611.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391201/",
+      "name": "晓松溪月 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391201/",
+      "name": "晓松溪月 "
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H30M",
+  "description": "北方寒冷的冬天，一个少女走在回乡的路上，路过禾苗遍布的田地，她停下脚步，依着电线杆坐下。七日前，她刚接到病危通知单，在没有告诉任何人的情况下，打算静静地过完余下的日子。荒野、城市、乡村，到底去哪里才能...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

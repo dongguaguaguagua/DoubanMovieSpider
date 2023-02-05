@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "充满爱的画笔 A Brush with Love",
+  "url": "/subject/33412991/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553764742.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040609/",
+      "name": "皮特·德路易斯 Peter DeLuise"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004590/",
+      "name": "阿莉尔·凯贝尔 Arielle Kebbel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1265309/",
+      "name": "尼克·贝特曼 Nick Bateman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324646/",
+      "name": "马修·詹姆斯·托马斯 Matthew James Thomas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430113/",
+      "name": "希拉里·杰迪妮 Hilary Jardine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472782/",
+      "name": "布伦达·克里奇洛 Brenda Crichlow"
+    }
+  ]
+,
+  "datePublished": "2019-03-30",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H23M",
+  "description": "当她考虑放弃她的艺术梦想时，杰米画了一个视觉板，带来她的成功和爱-但发现，她画中的神秘人不是她所想的。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

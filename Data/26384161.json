@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Auf und davon",
+  "url": "/subject/26384161/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054405/",
+      "name": "克里斯托弗·瓦尔兹 Christoph Waltz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054405/",
+      "name": "克里斯托弗·瓦尔兹 Christoph Waltz"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "A romantic farce centered on the ruthless host of a dating competition show who develops feelings fo...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

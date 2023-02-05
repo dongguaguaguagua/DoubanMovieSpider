@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "托博尔 Тобол",
+  "url": "/subject/30476731/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549534054.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422280/",
+      "name": "伊戈尔·扎伊特塞夫 Igor Zaytsev"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416249/",
+      "name": "叶甫根尼·戴亚特洛夫 Evgeniy Dyatlov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215031/",
+      "name": "德米特里·迪尤舍夫 Dmitriy Dyuzhev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108964/",
+      "name": "亚历山大·拉扎列夫 Aleksandr Lazarev Ml."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127094/",
+      "name": "迪米特里·纳佐罗夫 Dmitriy Nazarov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437485/",
+      "name": "安德烈·伯科夫斯基 Andrey Burkovskiy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437486/",
+      "name": "埃克布兰·戴洛夫 Erkebulan Dairov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1479714/",
+      "name": "伊利亚·马拉宁 Ilya Malanin"
+    }
+  ]
+,
+  "datePublished": "2019-02-21",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2"],
+  "duration": "PT1H48M",
+  "description": "一名年轻军官伊万·德马林被派往遥远的西伯利亚。 伊凡在这里遇到了他的爱人，并与当地王子勾结，共同寻找雅尔坎德的黄金。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "217",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

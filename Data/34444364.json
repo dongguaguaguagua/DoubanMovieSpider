@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀人日记",
+  "url": "/subject/34444364/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560742146.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366364/",
+      "name": "付春剑 Chunjian Fu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366364/",
+      "name": "付春剑 Chunjian Fu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434592/",
+      "name": "杜媺 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434284/",
+      "name": "胡晟益 Yisheng Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434393/",
+      "name": "赵俊琪 Allul"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366364/",
+      "name": "付春剑 Chunjian Fu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453064/",
+      "name": "李锦钰 Jinyu Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1469882/",
+      "name": "杨书然 "
+    }
+  ]
+,
+  "datePublished": "2024-12-12",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "女作家和朋友讲述自己被人跟踪威胁的事情，然而就在最终幕后黑手想要吓死她的时候却出现了意外，反而被女作家给杀死！因为幕后黑手的原因，女作家患上了精神病，因此杀人罪不成立，被送入精神病院进行治疗。
+女作家...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "周六下午 Saturday Afternoon",
+  "url": "/subject/33444634/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2567871169.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375265/",
+      "name": "穆斯塔法·萨瓦尔·法罗齐 Mostofa Sarwar Farooki"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319670/",
+      "name": "帕拉姆巴拉塔·查特吉 Parambrata Chatterjee"
+    }
+  ]
+,
+  "datePublished": "2019-10-07",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H26M",
+  "description": "導演找來柏林影展最佳攝影作品《青春殘酷課》攝影師一鏡到底，根據真人真事改編2016年一宗導致20多人死傷的恐怖襲擊。但孟加拉導演的焦點，並非血腥屠殺，而是恐怖主義的根源。槍手佔據餐廳，挾持的人質包括本...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

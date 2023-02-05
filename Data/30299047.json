@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "在塞万提斯 Back to Cervantes",
+  "url": "/subject/30299047/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2603848303.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381162/",
+      "name": "沈桥 Qiao Shen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381162/",
+      "name": "沈桥 Qiao Shen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413804/",
+      "name": "李晟荣 Shengrong Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413805/",
+      "name": "毛雪雯 Xuewen Mao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326916/",
+      "name": "张倩如 Qianru Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412051/",
+      "name": "孙菲 Fei Sun"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H28M",
+  "description": "众荷喧哗，有一个人在寻找春天",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

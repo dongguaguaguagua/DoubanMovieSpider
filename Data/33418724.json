@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "香蕉劈裂 The Banana Splits",
+  "url": "/subject/33418724/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2566472909.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403004/",
+      "name": "丹尼什卡·埃斯特哈奇 Danishka Esterhazy"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001804/",
+      "name": "杰德·埃利诺夫 Jed Elinoff"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315395/",
+      "name": "史蒂夫·隆德 Steve Lund"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260653/",
+      "name": "莎拉·坎宁 Sara Canning"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412777/",
+      "name": "塞莉纳·马丁 Celina Martin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1241343/",
+      "name": "丹尼尔·福克斯 Daniel Fox"
+    }
+  ]
+,
+  "datePublished": "2019-08-14",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A boy named Harley and his family (brother Austin, mother Beth, and father Mitch) attends a taping o...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "122",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

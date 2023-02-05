@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你会带谁去无人岛？ ¿A quién te llevarías a una isla desierta?",
+  "url": "/subject/32486195/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2551175561.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407184/",
+      "name": "波尔·莫南 Pol Monen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258063/",
+      "name": "海因米·洛伦特 Jaime Lorente"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1237138/",
+      "name": "安德莉亚·罗斯 Andrea Ros"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389517/",
+      "name": "玛利亚·佩德拉萨 María Pedraza"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468953/",
+      "name": "尼科·罗梅罗 Nico Romero"
+    }
+  ]
+,
+  "datePublished": "2019-04-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "在离别前的最后一晚，四个室友玩了一场游戏，因而揭开了一个将永远改变他们生活的秘密。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "286",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "芭芭雅嘎 Baba Yaga",
+  "url": "/subject/33477006/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2558290398.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021845/",
+      "name": "理查德·约翰·泰勒 Richard John Taylor"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021845/",
+      "name": "理查德·约翰·泰勒 Richard John Taylor"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1122816/",
+      "name": "迈克尔麦凯尔 Michael McKell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061613/",
+      "name": "Nicholas Ball Nicholas Ball"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174958/",
+      "name": "Victor Rios Victor Rios"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "At the behest of her boss Ronnie (Paul Hughes), journalist Ingrid Hoffman (Rose Hakki) returns to he...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

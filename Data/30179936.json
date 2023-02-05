@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "帽子戏法 Hattrick",
+  "url": "/subject/30179936/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553897845.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395037/",
+      "name": "拉马丁·拉瓦菲浦 Ramtin Lavafipour"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395037/",
+      "name": "拉马丁·拉瓦菲浦 Ramtin Lavafipour"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358590/",
+      "name": "阿米尔·扎迪迪 Amir Jadidi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442119/",
+      "name": "佩瑞娜兹·伊查蒂尔 Parinaz Izadyar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319462/",
+      "name": "赫玛永·厄沙迪 Homayoun Ershadi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467475/",
+      "name": "沙伯·阿巴尔 Saber Abar"
+    }
+  ]
+,
+  "datePublished": "2018-06-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "在体育比赛中，“帽子戏法”的意思是进了三个球、三柱门或者三次全垒打。这个术语与电影之间的关系将会渐渐揭晓。故事开篇是一幢大房子里热闹的派对场景。相貌堂堂的夫妇法尔扎得和丽达之间难以名状的紧张情绪在蔓延...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "135",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的大二生活 سال دوم دانشکده من",
+  "url": "/subject/33457743/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557657538.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297299/",
+      "name": "帕维兹·杉席巴奇 Parviz Shahbazi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038950/",
+      "name": "阿里·莫沙法 Ali Mosaffa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209348/",
+      "name": "维什卡·阿赛什 Vishka Asayesh"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H39M",
+  "description": "《我的大二生活》讲述的是女孩马赫塔卜的希望和幻想。马赫塔卜涉世未深，在大学里总是以积极乐观的心态面对一切，非常讨人喜欢。她的好朋友艾娃家境富裕，为了能和马赫塔卜一起参加学校组织的伊斯法罕之旅，艾娃大方...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

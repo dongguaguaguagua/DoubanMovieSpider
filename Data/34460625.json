@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "桂香街",
+  "url": "/subject/34460625/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2562011337.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316642/",
+      "name": "石磊 Lei Shi "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1121101/",
+      "name": "吕丽萍 Liping Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287953/",
+      "name": "句号 Hao Ju"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419578/",
+      "name": "牟珈乐 Jiale Mou"
+    }
+  ]
+,
+  "datePublished": "2019-07-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "许巧珍的生活里，除了帮助居民们解决家长里短的琐事，她还有一个大目标，就是致力于国家的大运河申遗项目。在春天实习期间，她们共同解决运河两旁的住户、居民家庭贫困等问题，度过了一段十分难忘的时光。 许巧珍直...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

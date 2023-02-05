@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "非法记忆",
+  "url": "/subject/30486938/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2550639776.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419742/",
+      "name": "杨迦南 CanaanYang"
+    }
+  ]
+,
+  "datePublished": "2019-03-07",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H23M",
+  "description": "在性爱记忆和学历记忆非法交易的年代，失忆的宫伟靠残存的记忆碎片，寻找自己的身世之谜，却惊讶地发现自己竟然是非法记忆的始作俑者。而更想不到的是，一系列阴谋正悄悄向他袭来。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

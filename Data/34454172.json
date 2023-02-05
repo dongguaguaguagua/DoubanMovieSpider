@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "宇杀员 Assassinaut",
+  "url": "/subject/34454172/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2561463202.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424761/",
+      "name": "雅思敏娜·帕伦特 Jasmina Parent"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424768/",
+      "name": "香侬·哈钦森 Shannon Hutchinson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424769/",
+      "name": "雅尔·哈斯卡尔 Yael Haskal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424776/",
+      "name": "莉莉·内尔森 Lilly Nelson"
+    }
+  ]
+,
+  "datePublished": "2019-07-30",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H23M",
+  "description": "In the near future, aliens have invaded Earth and declared a galactic war resulting in thousands of ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "364",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.8"
+  }
+}

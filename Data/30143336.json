@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灯塔 The Lighthouse",
+  "url": "/subject/30143336/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2572123509.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351393/",
+      "name": "罗伯特·艾格斯 Robert Eggers"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419107/",
+      "name": "马克斯·艾格斯 Max Eggers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351393/",
+      "name": "罗伯特·艾格斯 Robert Eggers"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035656/",
+      "name": "罗伯特·帕丁森 Robert Pattinson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010539/",
+      "name": "威廉·达福 Willem Dafoe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425437/",
+      "name": "瓦莱丽娅·卡拉曼 Valeriia Karaman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432654/",
+      "name": "洛根·霍克斯 Logan Hawkes"
+    }
+  ]
+,
+  "datePublished": "2019-05-19",
+  "genre": ["\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "PT1H49M",
+  "description": "1890年代，两名灯塔管理员试图在他们生活在偏僻而神秘的新英格兰岛上时保持理智。
+随着雾角的摇摆声响彻空中，沉默寡言的前伐木工人埃弗莱姆·温斯洛和两鬓斑白的灯塔管理员托马斯·韦克踏上了十九世纪末新英格...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "47333",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

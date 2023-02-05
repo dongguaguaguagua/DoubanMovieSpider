@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "孤儿院 Parwareshgah",
+  "url": "/subject/33422591/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2560196743.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415297/",
+      "name": "沙赫巴努·萨达 Shahrbanoo Sadat"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415297/",
+      "name": "沙赫巴努·萨达 Shahrbanoo Sadat"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-05-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "成長於80年代的阿富汗，街童本來以賣黃牛戲票為生。被送到孤兒院後，自由自在的生活頓時變得複雜，但遇上三位投契的室友卻令人生添上不少色彩。少年們幻想自己身處波里活歌舞片的情節中，一邊唱歌跳舞，一邊把壞蛋...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "223",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "掠夺者 Snatchers",
+  "url": "/subject/30466958/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2580037152.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373738/",
+      "name": "斯蒂芬·斯达思 Stephen Cedars"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373740/",
+      "name": "本吉·克莱曼 Benji Kleiman"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373738/",
+      "name": "斯蒂芬·斯达思 Stephen Cedars"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373740/",
+      "name": "本吉·克莱曼 Benji Kleiman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285101/",
+      "name": "尼克·戈麦斯 Nick Gomez"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257090/",
+      "name": "J·J·诺兰 J.J. Nolan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429495/",
+      "name": "加布里埃尔·伊利斯 Gabrielle Elyse"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353113/",
+      "name": "奥斯汀·法瑞伯格 Austin Fryberger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429454/",
+      "name": "玛丽·纳皮 Mary Nepi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1253059/",
+      "name": "阿什丽·阿戈塔 Ashley Argota"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324350/",
+      "name": "尼克·戈麦斯 Nick Gomez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396806/",
+      "name": "莫妮克·坎德拉里亚 Monique Candelaria"
+    }
+  ]
+,
+  "datePublished": "2019-03-12",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H36M",
+  "description": "Sara破处后的第二天醒来发现自己怀孕了，而且已经怀了9个月，更可怕的是她怀的居然是个外星人。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1023",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

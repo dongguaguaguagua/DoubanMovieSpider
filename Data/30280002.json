@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "北纬25°天空下",
+  "url": "/subject/30280002/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555887049.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316836/",
+      "name": "巩向东 Xiangdong Gong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316836/",
+      "name": "巩向东 Xiangdong Gong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426967/",
+      "name": "柴乐园 Leyuan Chai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380670/",
+      "name": "黄小超 Xiaochao Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397812/",
+      "name": "谢毅 Yi Xie"
+    }
+  ]
+,
+  "datePublished": "2019-12-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H50M",
+  "description": "电影《北纬25°天空下》以改革开放40周年和自治区成立60周年为大背景，讲述发生在兴安这座小城，关于青春成长的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

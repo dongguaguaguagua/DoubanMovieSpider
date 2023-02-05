@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "李时真的皮",
+  "url": "/subject/30486661/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2628845598.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351418/",
+      "name": "刘彬杰 Binjie Liu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381062/",
+      "name": "郭小炜 Xiaowei Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351310/",
+      "name": "曲少石 Shaoshi Qu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320548/",
+      "name": "张小婉 Xiaowan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428849/",
+      "name": "裴晨伟 Chenwei Pei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428850/",
+      "name": "吴骁栩 Xiaoxu Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428851/",
+      "name": "王南茜 Nanqian Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u53e4\u88c5"],
+  "duration": "",
+  "description": "该片讲述了天庆年间李、宋两位当朝太医被问斩后，其后代隐姓埋名、忍辱负重，暗中寻找消失的秘药“无果”的故事。在寻药过程中，李时与梦梵、宋茹雪上演了一段情感纠葛，并与垂涎皇位、图谋不轨的端王爷展开了对决。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

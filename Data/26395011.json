@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "投资",
+  "url": "/subject/26395011/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2579778265.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317608/",
+      "name": "司马南 Nan Sima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313876/",
+      "name": "李琦 Qi Li"
+    }
+  ]
+,
+  "datePublished": "2019-03-31",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "导      演:盛石头
+编      剧:刘新亭、盛石头
+主      演:司马南、李琦、盛石头
+片      种:故事片
+类      型:剧情
+出品单位:祥艺影视文化发展（北京）有限公司
+长  ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

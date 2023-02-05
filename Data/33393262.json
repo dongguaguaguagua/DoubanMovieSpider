@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "第四面墙",
+  "url": "/subject/33393262/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560017009.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315046/",
+      "name": "张翀 Chong Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417667/",
+      "name": "张波 Bo Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315046/",
+      "name": "张翀 Chong Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417667/",
+      "name": "张波 Bo Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417676/",
+      "name": "齐皓 Hao Qi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340364/",
+      "name": "刘陆 Lu Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317348/",
+      "name": "王紫逸 Ziyi Wang"
+    }
+  ]
+,
+  "datePublished": "2019-06-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H36M",
+  "description": "讲述一个沉浸在过去伤痛中的梅花鹿饲养员刘陆（刘陆 饰），因为一次与老同学马海（王紫逸 饰）的相遇，无意中得知平行世界里有另一个自己，她试图抓住这次与自我、家庭、世界的和解的机会，不惜解开二十年前的伤疤...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1610",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

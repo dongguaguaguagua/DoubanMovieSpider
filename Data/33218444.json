@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "欢迎总统 Bentornato presidente",
+  "url": "/subject/33218444/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2551358413.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409598/",
+      "name": "吉安卡洛·丰塔纳 Giancarlo Fontana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409599/",
+      "name": "杰赛普·斯塔西 Giuseppe Stasi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278948/",
+      "name": "法比奥·波尼法奇 Fabio Bonifacci"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1220722/",
+      "name": "莎拉·菲尔伯鲍姆 Sarah Felberbaum"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1062094/",
+      "name": "塞萨尔·博奇 Cesare Bocci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278695/",
+      "name": "克劳迪奥·比西奥 Claudio Bisio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1121103/",
+      "name": "Ivano Marescotti Ivano Marescotti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1177866/",
+      "name": "Pietro Sermonti Pietro Sermonti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350420/",
+      "name": "保罗·卡拉布雷西 Paolo Calabresi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294739/",
+      "name": "马西莫·波波利齐奥 Massimo Popolizio"
+    }
+  ]
+,
+  "datePublished": "2019-03-28",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H36M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

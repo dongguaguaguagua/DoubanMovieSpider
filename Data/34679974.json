@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "时日回光 Rialto",
+  "url": "/subject/34679974/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2564488809.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011325/",
+      "name": "彼特·麦基·本斯 Peter Mackie Burns"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293411/",
+      "name": "马克·奥哈洛伦 Mark O&#39;Halloran"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332428/",
+      "name": "汤姆-沃恩-劳勒 Tom Vaughan-Lawlor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376362/",
+      "name": "汤姆·格林-卡尼 Tom Glynn-Carney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320082/",
+      "name": "莫妮卡·杜兰 Monica Dolan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332722/",
+      "name": "迈克尔·史麦利 Michael Smiley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296384/",
+      "name": "盖·莱恩 Ger Ryan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300354/",
+      "name": "艾琳·沃尔什 Eileen Walsh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363025/",
+      "name": "保罗凯林 Paul Kealyn"
+    }
+  ]
+,
+  "datePublished": "2019-09-02",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H30M",
+  "description": "Colm is in his mid-forties, married, with two teenage children. Still grieving the death of his fath...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "345",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

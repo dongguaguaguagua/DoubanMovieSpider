@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卡尔基 Kalki",
+  "url": "/subject/34445532/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560816518.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426794/",
+      "name": "托维诺·托马斯 Tovino Thomas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428260/",
+      "name": "哈里什·乌达曼 Harish Uthaman"
+    }
+  ]
+,
+  "datePublished": "2019-08-08",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT2H21M",
+  "description": "Nanchenkotta is beset by problems and civilian life in here is a nightmare. However, the arrival of ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

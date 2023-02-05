@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "这是我遇见你的地方 This is Where I meet you",
+  "url": "/subject/30486648/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2633419059.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412337/",
+      "name": "安东·斯皮克 Anton Spieker"
+    }
+  ]
+,
+  "datePublished": "2019-01-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H21M",
+  "description": "Charlotte hadert mit ihrer künstlerischen Laufbahn und am meisten mit sich selbst. Wieder hat sie ei...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

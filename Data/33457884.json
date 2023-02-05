@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "巅峰战士",
+  "url": "/subject/33457884/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2562818742.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328912/",
+      "name": "周艺华 Yihua Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420112/",
+      "name": "朱晨展 Zhanchen Zhu"
+    }
+  ]
+,
+  "datePublished": "2019-06-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "一次意外的瀑降遇险，让女大学生林欣认识了户外运动高手陈楠，在林欣的提议下，救援队在艰难中成立了。他们被誉为“行走在崖间的战士”。一天，一位老猎人深入原始森林做猕猴调查时失踪，一场牵动全城的救援开始了。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

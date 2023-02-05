@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "出走的娜拉",
+  "url": "/subject/30183834/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2524408335.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395296/",
+      "name": "张津龙 Jinlong Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395297/",
+      "name": "王鹏 Aaron Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395296/",
+      "name": "张津龙 Jinlong Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395297/",
+      "name": "王鹏 Aaron Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315812/",
+      "name": "徐洁儿 Jill Hsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365067/",
+      "name": "姜尘 Chen Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328153/",
+      "name": "苗苗 Miao Miao"
+    }
+  ]
+,
+  "datePublished": "2018-04-16",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H30M",
+  "description": "中国首部女性公路电影，从女性视角出发，讲述了三个不同年龄、不同社会背景的都市女性各自不同的生活经历和情感故事。
+在经历了痛苦挣扎和内心的情感纠葛之后，三个女人各自踏上旅程，并在旅途中相逢、相识、相知、...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

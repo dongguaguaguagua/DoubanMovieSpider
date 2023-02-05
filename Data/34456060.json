@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "横行霸道",
+  "url": "/subject/34456060/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570980899.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411534/",
+      "name": "刘笑 Xiao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401850/",
+      "name": "秦鹏飞 Pengfei Qin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336802/",
+      "name": "克拉拉 Clara Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364984/",
+      "name": "张昊玥 Haoyue Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361989/",
+      "name": "张梦露 Menglu Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376277/",
+      "name": "袁伶嫣 Lingyan Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381644/",
+      "name": "李嘉琦 Jackie Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386272/",
+      "name": "房岩 Yan Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337035/",
+      "name": "陈雨薇 Yuwei Chen"
+    }
+  ]
+,
+  "datePublished": "2019-10-13",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H28M",
+  "description": "沈越、付晓菲、王佳男、大笑四个在现实生活中各自遇到不同困境和心结的女孩子，为了实现每个人的目的和梦想，她们共同参与一场惊险刺激的大型游戏竞赛“逃出生天”而使四人聚到一起。起初四个女孩儿彼此陌生，从一开...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1384",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.6"
+  }
+}

@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我为兄弟狂",
+  "url": "/subject/30430977/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2545394258.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335899/",
+      "name": "任鹏 Peng Ren"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353454/",
+      "name": "吴军平 Junping Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317449/",
+      "name": "胡夏 Xia Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318460/",
+      "name": "吴昕 Xin Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326390/",
+      "name": "王自健 Zijian Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1152771/",
+      "name": "唐国强 Guoqiang Tang"
+    }
+  ]
+,
+  "datePublished": "2019-12-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "尽管父辈之间有着陈年旧怨，可方艺、章疑和卢启这三位性格迥异的富二代却一起哭，一起笑，成为了胜过同胞的兄弟。
+可谁都没有想到，三人兄弟间的情谊小船竟在一夜之间说翻就翻。先是章疑与卢启为了一个女人争风吃醋...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

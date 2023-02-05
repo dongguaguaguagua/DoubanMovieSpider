@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小家伙 Айка",
+  "url": "/subject/26779571/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2521143114.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275125/",
+      "name": "谢尔盖·德瓦茨沃伊 Sergey Dvortsevoy"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275125/",
+      "name": "谢尔盖·德瓦茨沃伊 Sergey Dvortsevoy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293704/",
+      "name": "根纳季·奥斯特罗夫斯基 Gennadi Ostrovsky"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393655/",
+      "name": "萨梅尔·叶斯利亚莫娃 Samal Yeslyamova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393660/",
+      "name": " Zhipargul Abdilaeva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393661/",
+      "name": " David Alaverdyan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393662/",
+      "name": " Sergey Mazur"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393663/",
+      "name": " Slava Agashkin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393664/",
+      "name": " Ashkat Kuchinchirekov"
+    }
+  ]
+,
+  "datePublished": "2018-05-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "影片讲述一名叫Ayka的年轻女工诞下、抛弃并最终试图找回自己孩子的故事。影片关注亚洲女性在莫斯科的生存处境，紧密跟随Ayka的脚 步，透过她的生活轨迹勾勒出作为群体的中亚人民面临的现实问题。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3336",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

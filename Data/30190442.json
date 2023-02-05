@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "全球崩溃 Global Meltdown",
+  "url": "/subject/30190442/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533588434.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027873/",
+      "name": "迈克尔·帕尔 Michael Paré"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007311/",
+      "name": "Scott Roberts Scott Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1216978/",
+      "name": "Caroline Buzanko Caroline Buzanko"
+    }
+  ]
+,
+  "datePublished": "2017-07-07",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "A helicopter pilot and an environmental scientist lead a exodus of survivors in a search for a safe ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

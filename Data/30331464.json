@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱情图鉴之暗恋",
+  "url": "/subject/30331464/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2573376467.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375905/",
+      "name": "王野 Ye Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406116/",
+      "name": "锦瑟 Se Jin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337236/",
+      "name": "廖梦妍 Mengyan Liao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353841/",
+      "name": "黄政皓 Zhenghao Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368213/",
+      "name": "岳野 Ye Yue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401704/",
+      "name": "邸锐 Rui Di"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274659/",
+      "name": "刘冠麟 Guanlin Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387380/",
+      "name": "张东旭 Dongxu Zhang"
+    }
+  ]
+,
+  "datePublished": "2019-11-08",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H39M",
+  "description": "该片讲述了来自问题家庭的主人公方小草（廖梦妍饰）从小缺少家人关爱，外表泼辣内心自卑，转学生洛子明（黄政浩饰）对她的关心和理解让她的生活有了一抹亮色，在她少女的内心种下了爱的种子。成年后她嫁给了一直暗恋...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

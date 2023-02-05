@@ -1,0 +1,95 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "艾特所有人",
+  "url": "/subject/30481964/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2575399903.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417736/",
+      "name": "廉欣 Xin Lian"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326768/",
+      "name": "魏巍 Wei Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326528/",
+      "name": "李茂 Mao Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432961/",
+      "name": "牛泽萌 Zemeng Niu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376452/",
+      "name": "陈柯帆 Kefan Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352234/",
+      "name": "佟晨洁 Chenjie Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313611/",
+      "name": "岳跃利 Yueli Yue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376639/",
+      "name": "方家翊 Jiayi Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382336/",
+      "name": "程泓 Hong Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317610/",
+      "name": "张双利 Shuangli Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316706/",
+      "name": "黄龄 Ling Huang"
+    }
+  ]
+,
+  "datePublished": "2019-11-28",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b", "\u60ac\u7591"],
+  "duration": "PT1H28M",
+  "description": "爱奇艺的网络大电影《艾特所有人》是一部聚焦人工AI智能的软科幻＋轻悬疑电影。讲述了从事人间告别直播的网红人生告别师坤叔，与神秘的暴走萝莉姬幺幺，少年IT高手皮丘联手，一起为不同的逝者入殓过往，进行网络...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "679",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

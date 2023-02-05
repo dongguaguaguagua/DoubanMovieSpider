@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "活着的人 Man Alive",
+  "url": "/subject/30249254/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360201/",
+      "name": "村井浩 Hiro Murai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306310/",
+      "name": "大卫·罗伯特·米切尔 David Robert Mitchell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448876/",
+      "name": "乔·格林伯格 Joe Greenberg"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "",
+  "description": "美籍日裔导演Hiro Murai将执导福斯的科幻惊悚片《活人》(Man Alive)，作为大热MV《This Is America》和大热剧集《亚特兰大》的导演、唐纳德·格洛弗/Childish Ga...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

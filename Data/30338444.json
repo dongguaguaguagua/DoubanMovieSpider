@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "凌晨两点半2",
+  "url": "/subject/30338444/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542978731.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406888/",
+      "name": "王赛 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406888/",
+      "name": "王赛 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402475/",
+      "name": "彭剑雄 Jianxiong Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406889/",
+      "name": "张露文 Luwen Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406890/",
+      "name": "王尊 Zun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406891/",
+      "name": "高晓柔 Xiaorou Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384993/",
+      "name": "王子航 Zihang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344544/",
+      "name": "贝乐乐 Lele Bei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344534/",
+      "name": "张云海 Yunhai Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385401/",
+      "name": "陈快乐 Kuaile Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407458/",
+      "name": "杨靖 Jing Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406892/",
+      "name": "华凯瑞 Kairui Hua"
+    }
+  ]
+,
+  "datePublished": "2020-07-10",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "影片讲述了一群人为了寻找宝藏，不远千里来到千古传说的聚魂灵山，传说聚魂灵山有去无回，千年来陆续进入聚魂灵山的人相续失踪，据说此山之中埋葬着千年不腐女尸，千年不灭之阴火，每到阴气最重的时间凌晨两点半都会...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

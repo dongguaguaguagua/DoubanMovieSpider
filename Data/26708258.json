@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马尔姆克罗格庄园 Malmkrog",
+  "url": "/subject/26708258/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2581287566.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000633/",
+      "name": "克利斯提·普优 Cristi Puiu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000633/",
+      "name": "克利斯提·普优 Cristi Puiu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370012/",
+      "name": "朱迪思·斯泰特 Judith State"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193318/",
+      "name": "Lucian Diaconu Lucian Diaconu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028819/",
+      "name": "拉茨洛·马特雷 László Mátray"
+    }
+  ]
+,
+  "datePublished": "2020-02-20",
+  "genre": ["\u5386\u53f2"],
+  "duration": "PT3H20M",
+  "description": "影片由尤格·布鲁索特、黛安娜·萨卡路斯凯迪等主演，故事设定在1900年一个富有的地主庄园里。客人们花时间来享受丰盛的大餐，也享受着关于死亡、宗教、进步与道德的长谈。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "396",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

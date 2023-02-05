@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "功夫",
+  "url": "/subject/23788377/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1933806641.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314560/",
+      "name": "九把刀 Giddens Ko"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314560/",
+      "name": "九把刀 Giddens Ko"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328002/",
+      "name": "戚小花 Xiaohua Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315838/",
+      "name": "侯彦西 Yen Hsi Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341187/",
+      "name": "王大陆 Talu Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "《功夫》是作家九把刀《都市恐怖病系列》系列小说之一，也是他的第二部电影作品。小说讲述了一个年仅13岁的国中生，如何阴差阳错拜师学艺，一边维持自己的正常校园生活，一边却又进行着非凡的练功习武和惩恶扬善的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

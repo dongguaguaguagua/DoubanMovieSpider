@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "歌声的翅膀",
+  "url": "/subject/34428905/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2573030760.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342940/",
+      "name": "高黄刚 Huanggang Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328104/",
+      "name": "阿布都克里木·阿不力孜 Abdukerim Abliz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322526/",
+      "name": "严高山 Gaoshan Yan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404189/",
+      "name": "李牧时 Mushi Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412008/",
+      "name": "高琦 Qi Gao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327119/",
+      "name": "夏望 Wang Xia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398492/",
+      "name": "张颖冰 Yingbing Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369693/",
+      "name": "玉米提 Umut"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425561/",
+      "name": "江依昊 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397110/",
+      "name": "马昂 Equus"
+    }
+  ]
+,
+  "datePublished": "2019-10-28",
+  "genre": ["\u5267\u60c5", "\u6b4c\u821e"],
+  "duration": "",
+  "description": "影片讲述了三个不同民族的年轻音乐人，不甘艺术“高原”，踏上了追寻音乐“高峰”的采风之旅。在他们走遍新疆大地的过程中，采撷到了各民族丰富的音乐舞蹈营养，并最终在慕士塔格冰峰前，创作并唱响了新歌《大地之歌...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

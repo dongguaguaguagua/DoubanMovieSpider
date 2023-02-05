@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "剃刀 Razor",
+  "url": "/subject/3094907/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032129/",
+      "name": "罗伯·科恩 Rob Cohen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050816/",
+      "name": "杰夫·莫斯特 Jeff Most"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032129/",
+      "name": "罗伯·科恩 Rob Cohen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258767/",
+      "name": "艾玛·杜蒙特 Emma Dumont"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "凭借超高颜值以及在美剧《X战警：天赐》（又译：《天赋异禀》）中出演“北极星”一角走红的艾玛·杜蒙特，近日确认将出演超英漫改电影《剃刀》（ Razor）并担纲主角。
+影片根据埃弗里特·哈特索出版于199...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "龙潭巨兽",
+  "url": "/subject/33444725/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2612628066.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438642/",
+      "name": "陈翔 shine"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1458481/",
+      "name": "琪格 Qige"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460014/",
+      "name": "柯宇森 Jones"
+    }
+  ]
+,
+  "datePublished": "2020-05-03",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u707e\u96be"],
+  "duration": "PT1H30M",
+  "description": "由于化学废料的污染，东南亚某国“龙潭湖”内的生物产生了可怕的变异。与此同时在当地导游何超的带领下，来自国内的一行人踏上了龙潭湖探险之旅。一路上众人遇到了各种怪异的现象，更遭遇了巨兽的袭击。最终他们将如...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

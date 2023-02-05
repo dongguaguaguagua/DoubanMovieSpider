@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新手自杀 Suicide for Beginners",
+  "url": "/subject/30327018/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2534341301.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339759/",
+      "name": "萨拉·汤科 Sara Tomko"
+    }
+  ]
+,
+  "datePublished": "2022-05-06",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "",
+  "description": "Writing the perfect suicide note isn&#39;t easy. Murdering a garage full of people is also pretty hard. ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "244",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

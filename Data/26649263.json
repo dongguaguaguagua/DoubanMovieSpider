@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卢森堡 Люксемург",
+  "url": "/subject/26649263/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2528727852.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336009/",
+      "name": "米洛斯拉夫·史拉波斯维兹奇 Miroslav Slaboshpitsky"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336009/",
+      "name": "米洛斯拉夫·史拉波斯维兹奇 Miroslav Slaboshpitsky"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "A policeman who works as a watchman in the exclusion zone after the Chernobyl disaster – an area the...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

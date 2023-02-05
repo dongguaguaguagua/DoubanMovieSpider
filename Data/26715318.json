@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "窃听风云4",
+  "url": "/subject/26715318/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555182530.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274289/",
+      "name": "尔冬升 Tung-shing Yee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014716/",
+      "name": "庄文强 Felix Chong"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "《窃听风云4》由黄斌、麦兆辉联合监制，庄文强编剧，尔冬升导演。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

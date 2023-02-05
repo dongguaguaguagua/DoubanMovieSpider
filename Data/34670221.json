@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奇门偃甲师",
+  "url": "/subject/34670221/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2646094741.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323048/",
+      "name": "司小冬 Xiaodong Si"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433426/",
+      "name": "刘守闯 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337187/",
+      "name": "淮文 Shawn"
+    }
+  ]
+,
+  "datePublished": "2021-05-07",
+  "genre": ["\u60ac\u7591", "\u5947\u5e7b", "\u6b66\u4fa0"],
+  "duration": "",
+  "description": "影片《奇门偃甲师》讲述了由四大凶相引发的雾山镇奇案，巡捕司女捕头江瑛洛和偃甲门传人杜风波被卷入案情之中，在探寻案情真相的过程里，两人联手揭开了业已隐藏数十年阴谋的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "839",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

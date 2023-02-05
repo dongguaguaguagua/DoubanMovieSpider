@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "梦想沂蒙",
+  "url": "/subject/30449611/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2564332638.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372165/",
+      "name": "高一功 Yigong Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309570/",
+      "name": "赵冬苓 Dongling Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421749/",
+      "name": "刘晓宁 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421750/",
+      "name": "李九红 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411816/",
+      "name": "温煦 Xu Wen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317855/",
+      "name": "郑昊 Hao Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317981/",
+      "name": "孟霞 Xia Meng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326939/",
+      "name": "王虎城 Hucheng Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333902/",
+      "name": "陈小妹 Xiaomei Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328750/",
+      "name": "乔涵 Han Qiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366104/",
+      "name": "王美茜 Meiqian Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399306/",
+      "name": "李帅 Shuai Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314926/",
+      "name": "迟蓬 Peng Chi"
+    }
+  ]
+,
+  "datePublished": "2019-08-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H39M",
+  "description": "本片讲述了主人公梁嘉喜放弃城里的生意，回村当书记，带领沂河湾村村民从积贫积弱的困境中努力奋斗，通过土地流转的方式，与商会共建商城，发展新农村产业，带领村民共同致富，也解决了母亲几十年怨念的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

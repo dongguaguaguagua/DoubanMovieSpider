@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我不是差生 La Vie scolaire",
+  "url": "/subject/30465745/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872800158.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387958/",
+      "name": "梅赫迪·伊迪尔 Mehdi Idir"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374234/",
+      "name": "大体病人 grand corps malade"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387958/",
+      "name": "梅赫迪·伊迪尔 Mehdi Idir"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374234/",
+      "name": "大体病人 grand corps malade"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354321/",
+      "name": "琪塔·昂赫 Zita Hanrot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392519/",
+      "name": "苏菲恩·古瑞博 Soufiane Guerrab"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392520/",
+      "name": "穆萨·曼斯莱 Moussa Mansaly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389622/",
+      "name": "阿尔班·伊万诺夫 Alban Ivanov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381960/",
+      "name": "安托万·赖纳茨 Antoine Reinartz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1230464/",
+      "name": "艾拉姆·奥里安 Aylam Orian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432185/",
+      "name": "Liam Pierron Liam Pierron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463221/",
+      "name": "尼古拉斯·楚平 Nicolas Chupin"
+    }
+  ]
+,
+  "datePublished": "2019-08-28",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H51M",
+  "description": "在离法国巴黎不远的一个郊区小镇中学里，女主作为新官上任的副校长，对新工作充满责任心和热忱。而她面临着多年学校遗留的顽疾教育问题，即差班生管理的问题，颇为困扰。此种教育制度严重限制了学生的健康成长，后来...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "159",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

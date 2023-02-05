@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "担保 담보",
+  "url": "/subject/30475125/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2616180034.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390348/",
+      "name": "康大奎 Dae-gyu Kang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316559/",
+      "name": "尹济均 JK Youn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390348/",
+      "name": "康大奎 Dae-gyu Kang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316208/",
+      "name": "成东日 Dong-il Sung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032501/",
+      "name": "河智苑 Ji-won Ha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398606/",
+      "name": "朴昭怡 So-i Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321571/",
+      "name": "金熙元 Hae-won Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1102505/",
+      "name": "金允珍 Yunjin Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428078/",
+      "name": "洪承熙 Hong Seung Hee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1131974/",
+      "name": "罗文姬 Mun-hee Na"
+    }
+  ]
+,
+  "datePublished": "2020-09-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H53M",
+  "description": "1993年，仁川，高利贷追讨者头石（成东日 饰）和宗培（金熙元 饰）想从明子（金允珍 饰）处拿回欠款，却因为明子的窘迫只得将她的女儿承利（朴昭怡 饰）带走作为担保。
+因为被人举报，作为非法滞留者的明子...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "22557",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

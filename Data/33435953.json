@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "樱色",
+  "url": "/subject/33435953/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2555565171.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406699/",
+      "name": "何睦 Mu He"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368333/",
+      "name": "莫涂弘哲 Tuhongzhe Mo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416011/",
+      "name": "魏子杨 Ziyang Wei"
+    }
+  ]
+,
+  "datePublished": "2019-08-08",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H15M",
+  "description": "高中女生柏灵玥(杨伊晗/饰)是个活泼开朗的平凡女孩子,转学后本过着踏实平静的生活,因一次偶然邂逅与本校遭受同学孤立的假小子莫然(赵梓诺/饰)成为了好朋友。但是结交莫然后却被先前的同学朋友一并排挤,正当...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

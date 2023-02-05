@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Dev",
+  "url": "/subject/30457902/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2547882024.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427030/",
+      "name": "卡尔迪 Karthi"
+    }
+  ]
+,
+  "datePublished": "2019-02-14",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u60ca\u609a"],
+  "duration": "PT2H10M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,62 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不能自拔",
+  "url": "/subject/33380005/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2551809032.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315785/",
+      "name": "李红旗 Hongqi Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315785/",
+      "name": "李红旗 Hongqi Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275511/",
+      "name": "胡力夫 Lifu Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409118/",
+      "name": "陈尧 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414219/",
+      "name": "万青 Wan Qing"
+    }
+  ]
+,
+  "datePublished": "2019-05-06",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT2H46M",
+  "description": "李红旗的第四部剧情长片。
+这部“电影”既是歇斯底里的，也是无比寂静的。
+虽然由“真人”出演，但它其实是一部真正意义上的“动画片”。
+一个被无限膨胀和无限塌缩这两股同时作用的力量拉扯出来的“舞台”。
+八...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "175",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

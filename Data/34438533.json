@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美人心",
+  "url": "/subject/34438533/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2560045803.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422924/",
+      "name": "曾晓禹 Xiaoyu Zeng"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1075760/",
+      "name": "陈小春 Jordan Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317017/",
+      "name": "周知 Zhi Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314167/",
+      "name": "郝劭文 Shaowen Hao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417017/",
+      "name": "李金 Jin Li"
+    }
+  ]
+,
+  "datePublished": "2019-06-20",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u53e4\u88c5"],
+  "duration": "PT1H31M",
+  "description": "她是若耶溪旁浣纱女纯真善良，被雄才大略的范蠡寻得，送于最神秘的美人宫倾心调教。她令两位春秋霸主颠倒众生，周旋于吴王夫差和勾践之间缘浅孽深凄美绝情。她是灭吴九术中最致命的美人之计，得人心，用人欲。绝代佳...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "383",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.9"
+  }
+}

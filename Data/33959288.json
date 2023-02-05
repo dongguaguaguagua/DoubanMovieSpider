@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夏洛特娃娃2 Charlotte 2",
+  "url": "/subject/33959288/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558830785.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1146764/",
+      "name": "Ruben Rodriguez Ruben Rodriguez"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134266/",
+      "name": "Richard Powell Richard Powell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1146764/",
+      "name": "Ruben Rodriguez Ruben Rodriguez"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407350/",
+      "name": "诺埃米·冈萨雷斯 Noemi Gonzalez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1238522/",
+      "name": "小比尔·奥伯斯特 Bill Oberst Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392101/",
+      "name": "丹妮尔·古尔丁 Danielle Guldin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1264949/",
+      "name": " Dan Gregory"
+    }
+  ]
+,
+  "datePublished": "2019-06-18",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H16M",
+  "description": "That creepy doll Charlotte is back with all new tales of shock and disgust. Charlotte takes you on a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

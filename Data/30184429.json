@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我爱我家 Gente que viene y bah",
+  "url": "/subject/30184429/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545719785.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1090222/",
+      "name": "帕特里夏·丰特 Patricia Font"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1221095/",
+      "name": "达瑞欧·马德罗纳 Darío Madrona"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331210/",
+      "name": "卡洛斯·蒙特罗 Carlos Montero"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032704/",
+      "name": "克拉拉·拉戈 Clara Lago"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176330/",
+      "name": "亚历克斯·加西亚 Álex García"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326123/",
+      "name": "卡洛斯.古尔巴斯 Carlos Cuevas"
+    }
+  ]
+,
+  "datePublished": "2019-01-18",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H37M",
+  "description": "她的男友有了外遇，事情还上了小报丑闻，这名成功的建筑师选择回到家乡并重新审视自己的人生。根据小说改编。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "224",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

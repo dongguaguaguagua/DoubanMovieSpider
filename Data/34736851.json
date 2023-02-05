@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "盛满我记忆的咖啡馆 Le Café de mes Souvenirs",
+  "url": "/subject/34736851/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574627194.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005006/",
+      "name": "伊丽娜·别尔克伦德 Irina Björklund"
+    }
+  ]
+,
+  "datePublished": "2019-11-19",
+  "genre": ["\u6b4c\u821e"],
+  "duration": "PT1H46M",
+  "description": "A musical film about human relationships and how today&#39;s working life and the pressures of our surro...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

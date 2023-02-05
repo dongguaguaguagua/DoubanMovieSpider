@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "聊斋倩女传",
+  "url": "/subject/30446550/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554100564.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444145/",
+      "name": "吴星星 Xingxing Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444145/",
+      "name": "吴星星 Xingxing Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412444/",
+      "name": "张恒俞 Hengyu Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366164/",
+      "name": "高歌铃 Geling Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385710/",
+      "name": "六子 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400061/",
+      "name": "唐洋洋 Yangyang Tang"
+    }
+  ]
+,
+  "datePublished": "2019-04-17",
+  "genre": ["\u7231\u60c5", "\u60ac\u7591", "\u53e4\u88c5"],
+  "duration": "",
+  "description": "《聊斋倩女传》脱胎于聊斋的经典篇章，增加了许多细节上的看点，其中最重要的便是三大妖怪的登场。黑山老妖、蛇妖和蝎妖的出现为本作增加了许多打斗戏份。郭欣妍与这三妖的战斗无疑是最扣人心弦的。但这些戏份的增加...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海底梦想城",
+  "url": "/subject/34453099/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2568425416.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419245/",
+      "name": "骆寅倩 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419246/",
+      "name": "大卫·B·米勒 David B. Miller"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419249/",
+      "name": "刘骏 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419247/",
+      "name": "莎拉·达福 Sarah Dafoe"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H29M",
+  "description": "在神秘的海洋深处有一座海洋族群向往的海底都市，这里有取之不尽的能源，有和谐相处的社会秩序和现代化的城市设施，被海洋族群们称之为梦想之城。海豚女孩小月不顾家人的反对和通过自己的努力终于成为梦想城的一名警...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

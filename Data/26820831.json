@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新澳门风云 新賭城風雲",
+  "url": "/subject/26820831/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2446060209.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1106979/",
+      "name": "刘伟强 Andrew Lau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274331/",
+      "name": "王晶 Jing Wong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274331/",
+      "name": "王晶 Jing Wong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037273/",
+      "name": "张家辉 Nick Cheung"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H52M",
+  "description": "另外，其他重要项目还有：王晶监制、刘伟强导演的警匪类型片《追龙》，刘伟强、王晶联合监制导演的动作喜剧贺岁片《维加斯风云》",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

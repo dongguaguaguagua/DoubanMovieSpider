@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "决赛 La Finale",
+  "url": "/subject/30180088/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555444639.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442807/",
+      "name": "Robin Sykes Robin Sykes"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040471/",
+      "name": "蒂埃里·莱尔米特 Thierry Lhermitte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441065/",
+      "name": "雷安·本塞迪 Rayane Bensetti"
+    }
+  ]
+,
+  "datePublished": "2018-03-21",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

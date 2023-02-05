@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "“甜”螺姑娘太可口",
+  "url": "/subject/30446688/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546663765.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360025/",
+      "name": "黄超 Chao Huang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313743/",
+      "name": "周孝安 Kurt Chou"
+    }
+  ]
+,
+  "datePublished": "2019-01-18",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H10M",
+  "description": "影片讲述的是田螺姑娘ZDD因水污染问题，不得不离开居住地，依靠自行研发的保鲜水保持人形，低调地隐藏在都市人群里，最后解决问题，并找到爱情的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

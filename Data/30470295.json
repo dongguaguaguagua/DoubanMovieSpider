@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "勇敢的米娜",
+  "url": "/subject/30470295/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560025869.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411948/",
+      "name": "张小华 Xiaohua Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411948/",
+      "name": "张小华 Xiaohua Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411590/",
+      "name": "伊尔潘·艾尔肯 Irpan Arken"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411950/",
+      "name": "迪拉热 "
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u6b4c\u821e"],
+  "duration": "PT1H26M",
+  "description": "独立自信的都市姑娘米娜（迪拉热饰）与富二代的恋情一波三折，因偶然的工作关系来到伊犁河谷，遇到温暖的亲情，也收获了真正的爱情。而穿插在其中的另一个故事是，老一辈支边干部老唐（许平生饰）是一位酷爱民间歌舞...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

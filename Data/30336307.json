@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "俑之城",
+  "url": "/subject/30336307/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2656628179.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336904/",
+      "name": "丁亮 Liang Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352577/",
+      "name": "林永长 Yongchang Lin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336906/",
+      "name": "徐芸 Yun Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336908/",
+      "name": "崔铁志 Tiezhi Cui"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448679/",
+      "name": "朱光祖 Guangzu Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410984/",
+      "name": "张茗 Ming Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399035/",
+      "name": "周子瑜 Ziyu Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336930/",
+      "name": "谭笑 Xiao Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338297/",
+      "name": "刘沛 Pei Liu"
+    }
+  ]
+,
+  "datePublished": "2021-06-20",
+  "genre": ["\u52a8\u753b", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H51M",
+  "description": "地下世界，千奇百怪，不仅生活着兵马俑，还有各种各样的青铜文物复活的青铜兽和一种叫做“地犼”的地底原生生物。
+地犼与俑的战斗旷日持久，男主角蒙远是地下秦陵中一打杂的杂役俑，他和神秘少女史玉合作抓捕地犼、...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "24089",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

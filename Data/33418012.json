@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "公牛犹斗 Bull",
+  "url": "/subject/33418012/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2583814916.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340420/",
+      "name": "安妮·西尔弗斯坦 Annie Silverstein"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340420/",
+      "name": "安妮·西尔弗斯坦 Annie Silverstein"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360285/",
+      "name": "罗布·摩根 Rob Morgan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435401/",
+      "name": "安珀·哈瓦德 Amber Havard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296143/",
+      "name": "尤隆达·罗斯 Yolonda Ross"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435374/",
+      "name": "凯拉·贝尼特 Keira Bennett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1159806/",
+      "name": "李·斯特林格 Lee Stringer"
+    }
+  ]
+,
+  "datePublished": "2019-05-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "影片讲述了在休斯顿的郊区，一个十几岁的女孩因母亲的监禁变得堕落，一个年迈的斗牛士努力在斗牛竞技场上站稳脚跟，这2个人形成了一种不太可能的关系纽带，并试图纠正各自的道路。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "278",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

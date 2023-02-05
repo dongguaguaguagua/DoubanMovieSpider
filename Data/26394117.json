@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "惊蛰疑云",
+  "url": "/subject/26394117/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560670524.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367992/",
+      "name": "许声亮 Teng Liang Koh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336252/",
+      "name": "郭思遥 Siyao Guo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318872/",
+      "name": "李乾铭 Qianming Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316882/",
+      "name": "井上朋子 Tomoko Inoue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365532/",
+      "name": "谭建昌 Jianchang Tan"
+    }
+  ]
+,
+  "datePublished": "2019-05-05",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591"],
+  "duration": "PT1H30M",
+  "description": "故事发生于20世纪30年代的民国年间，城防司令身边一名副官张铁翼在寻找失散的妹妹时，无意间陷入一场命案，被怀疑成杀人凶手，只好设法逃避追捕，暗中秘密追查这一命案，当他成功破解后，却发现一个残酷的真相。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

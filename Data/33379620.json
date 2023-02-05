@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大武师",
+  "url": "/subject/33379620/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2551796037.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1458169/",
+      "name": "郭恒 Heng Gup"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386451/",
+      "name": "彭高唱 Gaochang Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362362/",
+      "name": "卢卓 Zhuo Lu"
+    }
+  ]
+,
+  "datePublished": "2019-04-05",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H24M",
+  "description": "民国是武师们最登峰的时代，亦是最悲切的时代。
+宣统退位，时局动荡。天津武行乘势崛起。墨家形意拳馆主墨守诚风骨坦荡，忧国忧民。不满武行不教真拳却献艺军界外强，遂打破规矩广传真学，一时间与同行成对立之势。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "243",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

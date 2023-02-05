@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大恶魔 Big Top Evil",
+  "url": "/subject/30325833/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2566981185.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1130274/",
+      "name": "约翰·莫里西 John Morrisey"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040632/",
+      "name": "比尔·莫斯利 Bill Moseley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289449/",
+      "name": "J·拉罗斯 J. LaRose"
+    }
+  ]
+,
+  "datePublished": "2019-08-27",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H21M",
+  "description": "Five disparate youths, lost on a road trip to the location of the infamous &#39;mangrove slasher,&#39; end u...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "80",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.6"
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "业余选手 Amateur",
+  "url": "/subject/30186154/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2518138145.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027313/",
+      "name": "莎朗·莉尔 Sharon Leal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1145191/",
+      "name": "科里·帕克·罗宾逊 Corey Parker Robinson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049551/",
+      "name": "乔西·查尔斯 Josh Charles"
+    }
+  ]
+,
+  "datePublished": "2018-04-06",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H36M",
+  "description": "一名年轻的篮球运动员正在努力适应新的球队",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "356",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

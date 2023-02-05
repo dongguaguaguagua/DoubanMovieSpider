@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "老爸102岁 102 Not Out",
+  "url": "/subject/30183666/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540024317.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396444/",
+      "name": "奥米史·舒克拉 Umesh Shukla"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403070/",
+      "name": "索姆亚·定司 Saumya Joshi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027845/",
+      "name": "阿米达普·巴强 Amitabh Bachchan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050067/",
+      "name": "里希·卡普尔 Rishi Kapoor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403071/",
+      "name": "吉米特·特里韦迪 Jimit Trivedi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403072/",
+      "name": "达尔曼德拉·吉尔 Dharmendra Gohil"
+    }
+  ]
+,
+  "datePublished": "2018-05-04",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H42M",
+  "description": "达特利（阿米特巴·巴强 Amitabh Bachchan 饰）已经102岁高龄了，但无论是思想还是行为，他都仿佛是一个二十几岁的小伙子，充满了活力。和达特利相比，他的儿子巴布（里希·卡普尔 Rishi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "17788",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

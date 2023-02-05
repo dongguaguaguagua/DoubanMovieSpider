@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无影之人 مردی بدون سايه",
+  "url": "/subject/30483600/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550090988.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295156/",
+      "name": "阿里约·查瑞斯恩 Alireza Raisian"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395446/",
+      "name": "Nasim Adabi Nasim Adabi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320615/",
+      "name": "法尔哈德·阿斯兰尼 Farhad Aslani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358591/",
+      "name": "纳德尔·法拉 Nader Fallah"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286212/",
+      "name": "蕾拉·哈塔米 Leila Hatami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1109093/",
+      "name": "寇哈尔·科赫让迪丝 Gohar Kheirandish"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038950/",
+      "name": "阿里·莫沙法 Ali Mosaffa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463900/",
+      "name": "阿米尔·阿加伊 Amir Aghaee"
+    }
+  ]
+,
+  "datePublished": "2019-02-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

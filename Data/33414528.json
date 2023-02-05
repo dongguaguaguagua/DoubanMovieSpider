@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "刺梦",
+  "url": "/subject/33414528/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553842184.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378079/",
+      "name": "李南 Nan Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344126/",
+      "name": "曲昱曈 Yutong Qu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349384/",
+      "name": "侍宣如 Xuanru Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357536/",
+      "name": "王新宇 Xinyu Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444002/",
+      "name": "喻大维 David Yu"
+    }
+  ]
+,
+  "datePublished": "2019-04-27",
+  "genre": ["\u52a8\u4f5c", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H15M",
+  "description": "混乱年代，民不聊生，逸正阁派刺客四处追杀贪官污吏，慕青是逸正阁阁主爵爷最器重的属下，但一次刺杀行动，慕青遇到了善良的九品芝麻官杭知煜，让慕青开始怀疑自己在逸正阁的意义，她选择相信杭知煜，帮他躲避逸正阁...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

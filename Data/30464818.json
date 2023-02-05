@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "希望有人在某处等我 Je voudrais que quelqu&#39;un m&#39;attende quelque part",
+  "url": "/subject/30464818/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568496837.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374934/",
+      "name": "阿诺·维亚德 Arnaud Viard"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374934/",
+      "name": "阿诺·维亚德 Arnaud Viard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348845/",
+      "name": "托马斯·利蒂 Thomas Lilti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052953/",
+      "name": "Vincent Dietschy Vincent Dietschy"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005269/",
+      "name": "让-保罗·卢弗 Jean-Paul Rouve"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022968/",
+      "name": "阿丽斯·塔格里奥妮 Alice Taglioni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353537/",
+      "name": "本杰明·拉维赫尼 Benjamin Lavernhe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341878/",
+      "name": "卡蜜尔·罗 Camille Rowe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027994/",
+      "name": "艾尔莎·泽贝斯坦 Elsa Zylberstein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028024/",
+      "name": "奥萝尔·克莱芒 Aurore Clément"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472410/",
+      "name": "马里恩·特雷蒙泰尔 Marion Trémontels"
+    }
+  ]
+,
+  "datePublished": "2020-01-22",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H29M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

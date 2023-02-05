@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑暗邂逅 Dark Encounter",
+  "url": "/subject/34461466/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2562075086.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394063/",
+      "name": "Carl Strathie Carl Strathie"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394063/",
+      "name": "Carl Strathie Carl Strathie"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1086244/",
+      "name": "劳拉·弗雷泽 Laura Fraser"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419485/",
+      "name": "梅尔·拉多 Mel Raido"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367752/",
+      "name": "席德·菲尼克斯 Sid Phoenix"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124531/",
+      "name": "Grant Masters Grant Masters"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412139/",
+      "name": "斯派克·怀特 Spike White"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327892/",
+      "name": "爱丽丝·洛维 Alice Lowe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1162553/",
+      "name": "尼古拉斯·平诺克 Nicholas Pinnock"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045012/",
+      "name": "文森特·里根 Vincent Regan"
+    }
+  ]
+,
+  "datePublished": "2019-08-23",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H37M",
+  "description": "A year after the mysterious disappearance of their 8 year-old daughter, grieving Olivia and Ray retu...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

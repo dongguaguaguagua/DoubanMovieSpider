@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱无痕",
+  "url": "/subject/30474016/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2550632216.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316650/",
+      "name": "康亮 Liang Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413273/",
+      "name": "张大圣 Dasheng Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413273/",
+      "name": "张大圣 Dasheng Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353232/",
+      "name": "何云龙 Yunlong He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327495/",
+      "name": "薛淑杰 Shujie Xue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392447/",
+      "name": "尹玲 Crystal Yin"
+    }
+  ]
+,
+  "datePublished": "2019-03-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "这是一部反映公安战线基层派出所民警“对党忠诚、服务人民、执法公正、纪律严明”精神风貌，在最普通岗位上书写英雄凯歌的主旋律影片。影片中绝大部分的情节都是根据真实故事改编。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

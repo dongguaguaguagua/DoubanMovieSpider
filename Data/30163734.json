@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "上位风播",
+  "url": "/subject/30163734/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2515885014.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389649/",
+      "name": "童超 Chao Tong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369529/",
+      "name": "刘婉婷 Wanting Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379970/",
+      "name": "郝荣光 Rongguang Hao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386237/",
+      "name": "张婧 Jane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383354/",
+      "name": "苏刚 Gang Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445432/",
+      "name": "周笑兵 Xiaobing Zhou"
+    }
+  ]
+,
+  "datePublished": "2018-03-21",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "影片讲述了四个亲密无间却个性各异的闺蜜在经历友情、爱情、事业的巨大转变后在直播中找到真实自我的励志爱情故事。
+沈淇在和姐妹聚会中发现自己男友出轨后一蹶不振，姐妹们拉着沈淇去KTV唱歌，但阴差阳错间走错...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

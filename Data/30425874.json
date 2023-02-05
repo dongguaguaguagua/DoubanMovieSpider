@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "高手高手高高手",
+  "url": "/subject/30425874/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2544970627.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321568/",
+      "name": "马史 Shi Ma"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321568/",
+      "name": "马史 Shi Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390663/",
+      "name": "杨奋 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384095/",
+      "name": "李奎 Kui Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424279/",
+      "name": "汤畅 Chang Tang"
+    }
+  ]
+,
+  "datePublished": "2019-01-08",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H27M",
+  "description": "杨默从小就有一颗大侠梦，因为看了电视剧里高手都会跳下山崖获得绝世武功而模仿，摔伤之后落下骨节习惯性脱臼的毛病。如今他做了一名保安本本分分兢兢业业，在公交车上遇到猥亵男，见义勇为却遭人陷害，被老板辞退的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4322",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

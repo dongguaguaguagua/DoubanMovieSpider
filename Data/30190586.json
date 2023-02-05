@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "第三帝国的稻草人 Scarecrows of the Third Reich",
+  "url": "/subject/30190586/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2518719859.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419144/",
+      "name": "特洛伊·弗里茨 Troy Fritz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419144/",
+      "name": "特洛伊·弗里茨 Troy Fritz"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-08-10",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H27M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

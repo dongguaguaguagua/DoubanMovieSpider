@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "替罪",
+  "url": "/subject/30156264/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2514856738.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327462/",
+      "name": "施阳 Yang Shi"
+    }
+  ]
+,
+  "datePublished": "2018-03-06",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H10M",
+  "description": "故事讲述的是具有双重人格的傅柯北、患有人格分裂症的原小艾、花花公子涂皓、嚣张跋扈的姚雪四名大学生因为专业选题的事去往竹水村对空巢老人谢有福进行采访而发生的一系列错综复杂的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神龙帕夫 Puff the Magic Dragon",
+  "url": "/subject/26932647/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292230/",
+      "name": "迈克·米切尔 Mike Mitchell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1161391/",
+      "name": "彼得·雅柔 Peter Yarrow"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "20世纪福克斯将拍摄一部讲述小男孩与龙的故事的电影，他们将把歌曲《神龙帕夫》（Puff the Magic Dragon）改编成电影，曾导演《海绵宝宝2》（The SpongeBob Movie: S...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

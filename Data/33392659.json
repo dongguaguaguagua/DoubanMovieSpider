@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "背靠魔鬼",
+  "url": "/subject/33392659/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2613307686.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408454/",
+      "name": "白林峰 Linfeng Bai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408454/",
+      "name": "白林峰 Linfeng Bai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404114/",
+      "name": "徐依所 Yisuo Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395519/",
+      "name": "马成龙 Chenglong Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439819/",
+      "name": "尚李蓉慧 Ronghui Shangli"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H20M",
+  "description": "《背靠魔鬼》是一部反电信诈骗题材的电影,整个故事由一个虚假的手机电信诈骗案演变成绑架杀人案,情节跌宕起伏。本片讲述了在当今网络时代科技发达的情况下。一些不法分子采取手机或网络等形式采取诈骗，据资料显示...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

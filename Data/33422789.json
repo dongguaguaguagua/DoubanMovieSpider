@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿布·莱拉 أبو ليلى",
+  "url": "/subject/33422789/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570059389.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415305/",
+      "name": "阿明·西迪-布梅迪内 Amin Sidi-Boumédiène"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415305/",
+      "name": "阿明·西迪-布梅迪内 Amin Sidi-Boumédiène"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441993/",
+      "name": "苏莱曼·贝努阿里 Slimane Benouari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296506/",
+      "name": "莱耶·塞伦 Lyès Salem"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441994/",
+      "name": "阿祖兹·阿卜杜勒卡德尔 Azouz Abdelkader"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441995/",
+      "name": "福阿德·梅吉拉加 Fouad Megiraga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441996/",
+      "name": "梅里姆·梅杰克雷恩 Meriem Medjkrane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441997/",
+      "name": "霍辛·莫克塔尔 Hocine Mokhtar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441998/",
+      "name": "萨米尔·埃尔哈基姆 Samir El Hakim"
+    }
+  ]
+,
+  "datePublished": "2019-05-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H13M",
+  "description": "1994年，内战仍在阿尔及利亚北部持续爆发。两个曾是童年挚友的警员，S和Lotfi正驱车驶往撒哈拉沙漠，寻找正在潜逃的恐怖分子阿布·莱拉。Lotfi很担心自己脆弱的朋友会被弥漫在首都的死亡与恐怖击垮，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "280",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

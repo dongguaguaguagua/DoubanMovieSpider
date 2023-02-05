@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "荒岛甜心 Sweetheart",
+  "url": "/subject/26996876/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570901958.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370386/",
+      "name": "J·D·迪拉德 J.D. Dillard"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370386/",
+      "name": "J·D·迪拉德 J.D. Dillard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372992/",
+      "name": "亚历克斯·海纳 Alex Hyner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372984/",
+      "name": "亚历克斯·塞尔 Alex Theurer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337761/",
+      "name": "科雷西·克莱门斯 Kiersey Clemons"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033093/",
+      "name": "艾莫里·科恩 Emory Cohen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318718/",
+      "name": "汉娜·曼根·劳伦斯 Hanna Mangan Lawrence"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352171/",
+      "name": "本尼迪克特·萨缪尔 Benedict Samuel"
+    }
+  ]
+,
+  "datePublished": "2019-01-28",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H22M",
+  "description": "珍（Kiersey Clemons）冲上岸，来到一个荒凉的岛上，已经度过了痛苦的折磨。她孤零零地四处寻找避难所。她只找到一处被遗弃已久的露营地的零星残骸，疲惫不堪地走完了可怕的旅途，倒下了，希望得到安...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1525",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

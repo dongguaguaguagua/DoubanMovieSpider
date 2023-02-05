@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "他们在里面 They&#39;re Inside",
+  "url": "/subject/33454040/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557129939.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445886/",
+      "name": "Alex Rinehart  Alex Rinehart"
+    }
+  ]
+,
+  "datePublished": "2019-07-16",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H23M",
+  "description": "Two sisters go to an isolated house to film a passion project, only to be terrorized by masked stran...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

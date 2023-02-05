@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "初赛 First Match",
+  "url": "/subject/26935491/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2515851847.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390968/",
+      "name": "奥利维亚·纽曼 Olivia Newman"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390968/",
+      "name": "奥利维亚·纽曼 Olivia Newman"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088744/",
+      "name": "科尔曼·多明戈 Colman Domingo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080786/",
+      "name": "伊萨·戴维斯 Eisa Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192069/",
+      "name": "阿伦·马尔多纳多 Allen Maldonado"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1214348/",
+      "name": "小吉米·加里 Jimmy Gary Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244698/",
+      "name": "撒迪厄斯·丹尼尔斯 Thaddeus Daniels"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390969/",
+      "name": "Elvire Emanuelle Elvire Emanuelle"
+    }
+  ]
+,
+  "datePublished": "2018-03-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "Netflix原创电影，描述来自布鲁克林的青少女住在寄养家庭多年的经验使她变得更加坚强。她知道若要回到疏远的父亲身边，唯一的方法就是与男子展开摔角",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "166",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "星光达人秀",
+  "url": "/subject/34778115/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2564296313.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349959/",
+      "name": "林心 Xin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-10-01",
+  "genre": ["\u97f3\u4e50"],
+  "duration": "",
+  "description": "《星光达人秀》是2019年由星光达人（北京）文化传媒联合中视桓烁（北京）国际文化传媒共同出品的一档大型公益类音乐综艺节目，节目宗旨全民参与，通过全国赛区海选并评选晋级，参与电视节目录制的形式，为更多有...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

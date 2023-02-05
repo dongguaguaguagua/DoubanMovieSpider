@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "佐格 Zog",
+  "url": "/subject/30347097/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2631348439.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314092/",
+      "name": "马克思·朗 Max Lang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314989/",
+      "name": "基特·哈灵顿 Kit Harington"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342023/",
+      "name": "休·斯金纳 Hugh Skinner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013993/",
+      "name": "崔茜·尤玛 Tracey Ullman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375055/",
+      "name": "帕齐·费伦 Patsy Ferran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050065/",
+      "name": "伦尼·亨利 Lenny Henry"
+    }
+  ]
+,
+  "datePublished": "2018-12-25",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u77ed\u7247", "\u5947\u5e7b"],
+  "duration": "PT0H25M",
+  "description": "“雪诺”基特·哈灵顿将为BBC儿童电影《Zog》配音，该片由《咕噜牛》的创作和制作团队打造，剧情十分萌：Zog是一位热情但经常惹事的龙，正在龙学院学习飞翔、怒吼、喷火和打骑士，为期4年，每年都有一个好...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "94",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.2"
+  }
+}

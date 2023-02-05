@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Full-Dress",
+  "url": "/subject/27204921/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2629451427.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327710/",
+      "name": "克里斯托弗·阿波特 Christopher Abbott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339476/",
+      "name": "罗宾·泰勒 Robin Lord Taylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045224/",
+      "name": "琳娜·埃斯科 Lina Esco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365754/",
+      "name": "吉米·耶肯博拉 Jimmy Akingbola"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023102/",
+      "name": "鲍里斯·李·库尔通格 Boris Lee Krutonog"
+    }
+  ]
+,
+  "datePublished": "2019-06-21",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H20M",
+  "description": "Two friends set out to make a movie that will change their lives, but they borrow money from the wro...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

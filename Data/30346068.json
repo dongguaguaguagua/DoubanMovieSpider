@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "密室逃脱 No Escape Room",
+  "url": "/subject/30346068/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537295317.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454851/",
+      "name": "亚历克斯·梅金 Alex Merkin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389298/",
+      "name": "杰妮·罗斯 Jeni Ross"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1235031/",
+      "name": "马克·加尼梅 Mark Ghanimé"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369067/",
+      "name": "布里亚娜·拜恩斯 Brianna Barnes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393898/",
+      "name": "丹尼斯·安德瑞斯 Dennis Andres"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472432/",
+      "name": "哈姆扎·哈克 Hamza Haq"
+    }
+  ]
+,
+  "datePublished": "2018-10-06",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "When a single father Michael (Mark Ghanimé) stumbles across an escape room attraction built into an ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "314",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

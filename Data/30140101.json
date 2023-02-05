@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你觉得我是谁 Celle que vous croyez",
+  "url": "/subject/30140101/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545203566.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306990/",
+      "name": "萨菲·奈布 Safy Nebbou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420143/",
+      "name": "卡米尔·劳伦斯 Camille Laurens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306990/",
+      "name": "萨菲·奈布 Safy Nebbou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338363/",
+      "name": "朱莉·皮耶尔 Julie Peyr"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016677/",
+      "name": "朱丽叶·比诺什 Juliette Binoche"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1102414/",
+      "name": "妮可·加西亚 Nicole Garcia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006321/",
+      "name": "弗朗索瓦·西维尔 François Civil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418752/",
+      "name": "玛丽-安吉·科斯塔 Marie-Ange Casta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325344/",
+      "name": "纪尧姆·谷伊 Guillaume Gouix"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048315/",
+      "name": "夏尔·贝尔林 Charles Berling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373264/",
+      "name": "朱勒斯·霍普兰 Jules Houplain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420144/",
+      "name": "朱尔斯·高泽林 Jules Gauzelin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1125690/",
+      "name": "弗兰西斯·莱珀雷 Francis Leplay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005208/",
+      "name": "克洛德·佩隆 Claude Perron"
+    }
+  ]
+,
+  "datePublished": "2019-02-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "比诺什在片中饰演50岁的离异教师克莱尔，她为了监视自己的情人乔，在Facebook上虚构了一个24岁漂亮黑发女生的人物身份。但是乔只接受自己认识的人的好友请求。为了能接近乔，克莱尔给他最好的朋友克里斯...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "9371",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

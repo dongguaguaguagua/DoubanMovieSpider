@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大天蓬",
+  "url": "/subject/33412928/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2585229352.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374565/",
+      "name": "代艺霖 Yilin Dai"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341219/",
+      "name": "应昊茗 Hanson Ying"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357676/",
+      "name": "王艺哲 Yizhe Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1122837/",
+      "name": "连凯 Andrew Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315463/",
+      "name": "徐冬冬 Dongdong Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375386/",
+      "name": "张玉轩 Jason Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413446/",
+      "name": "戴安娜 Anna Dai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274587/",
+      "name": "徐少华 Shaohua Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355556/",
+      "name": "岳冬峰 Dongfeng Yue"
+    }
+  ]
+,
+  "datePublished": "2020-01-25",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u53e4\u88c5"],
+  "duration": "PT1H42M",
+  "description": "孙悟空大闹天宫被压五指山后，天蓬元帅领命下界击杀孙悟空以绝后患。在人间的天蓬巧遇捉妖师宝儿与她的捉妖团，几人一行上路寻找五指山，过程一波三折，天蓬大起大落，历尽劫难后悟得大爱，终成长为大天蓬。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2471",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.1"
+  }
+}

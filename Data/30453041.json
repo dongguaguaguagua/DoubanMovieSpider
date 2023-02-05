@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "特洛伊人 Les Troyens (Opera National de Paris)",
+  "url": "/subject/30453041/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061995/",
+      "name": "Hector Berlioz Hector Berlioz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1092507/",
+      "name": "Véronique Gens Véronique Gens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070314/",
+      "name": "Paata Burchuladze Paata Burchuladze"
+    }
+  ]
+,
+  "datePublished": "2019-02-01",
+  "genre": ["\u97f3\u4e50", "\u620f\u66f2"],
+  "duration": "",
+  "description": "In 1854, Hector Berlioz confided in his memoirs that, “For three years, I have been tormented by the...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

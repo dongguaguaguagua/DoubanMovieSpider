@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "酒剑",
+  "url": "/subject/30443700/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2592668446.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434148/",
+      "name": "李小名 listening"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434148/",
+      "name": "李小名 listening"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314627/",
+      "name": "谢苗 Miu Tse"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286723/",
+      "name": "何华超 Tony Ho"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320465/",
+      "name": "张德晖 Dehui Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383610/",
+      "name": "李圣雄 Shengxiong Li"
+    }
+  ]
+,
+  "datePublished": "2020-08-21",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b", "\u53e4\u88c5"],
+  "duration": "PT1H30M",
+  "description": "上古洪荒，仙人修封魔塔并以“无尘神剑”封印魔界。数百年后无尘剑离奇失踪，守护者剑圣（何华超饰演）不愿牺牲自身修为，竟抽离初生的“纯阳之子”忘生的一魂一魄用以封印魔界，濒死的忘生被剑圣师弟酒仙（张德晖饰...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "486",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.8"
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迷城2",
+  "url": "/subject/33752634/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323140/",
+      "name": "张轩南 Xuannan Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342863/",
+      "name": "葛天 Tian Ge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387402/",
+      "name": "朱富润 Furun Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380759/",
+      "name": "杨晋 Jin Yang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鬼镇事件簿 Répertoire des villes disparues",
+  "url": "/subject/30359970/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546408984.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184096/",
+      "name": "德尼·科泰 Denis Côté"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184096/",
+      "name": "德尼·科泰 Denis Côté"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410699/",
+      "name": "劳伦斯·奥利维尔 Laurence Olivier"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1194843/",
+      "name": "让-米歇尔·安蒂尔 Jean-Michel Anctil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410703/",
+      "name": "诺曼德·卡瑞尔 Normand Carrière"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410704/",
+      "name": "拉里萨·科里韦 Larissa Corriveau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1082171/",
+      "name": "乔西·德斯克内斯 Josée Deschênes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391637/",
+      "name": "雷米·古莱 Rémi Goulet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410705/",
+      "name": "雷切尔·格拉顿 Rachel Graton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1109408/",
+      "name": "黛安·拉瓦雷 Diane Lavallée"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1228911/",
+      "name": "罗伯特·内勒 Robert Naylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409142/",
+      "name": "若瑟琳·祖科 Jocelyne Zucco"
+    }
+  ]
+,
+  "datePublished": "2019-02-11",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H37M",
+  "description": "在一个仅有215名居民的封闭小镇Irénée-les-Neiges里，其中一位居民Simon Dubé死于意外车祸，这起悲剧也使得Dubé、镇长与其他镇民生活蒙上阴影。在这个充满哀悼与沉重的时候，迷雾...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1322",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

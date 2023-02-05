@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣天使米凯尔 Mikhael",
+  "url": "/subject/34445119/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560801156.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425667/",
+      "name": "尼文·保利 Nivin Pauly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428261/",
+      "name": "乌尼·穆坤丹 Unni Mukundan"
+    }
+  ]
+,
+  "datePublished": "2019-01-18",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT2H30M",
+  "description": "When a vengeful man with criminal ties starts hunting down his family, Dr. Mikhael vows to protect t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

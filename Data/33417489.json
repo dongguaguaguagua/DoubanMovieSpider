@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "极乐 Bliss",
+  "url": "/subject/33417489/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2565224360.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432686/",
+      "name": "乔·比格斯 Joe Begos"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432686/",
+      "name": "乔·比格斯 Joe Begos"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334638/",
+      "name": "多拉·马迪森·布鲁格 Dora Madison Burge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040846/",
+      "name": "瑞斯·维克菲尔德 Rhys Wakefield"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028187/",
+      "name": "克里斯·麦基纳 Chris McKenna"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027338/",
+      "name": "乔治·温迪特 George Wendt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027238/",
+      "name": "亚布拉哈姆·本鲁比 Abraham Benrubi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1119228/",
+      "name": "马修·默瑟 Matt Mercer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348867/",
+      "name": "杰瑞米·加德奈 Jeremy Gardner"
+    }
+  ]
+,
+  "datePublished": "2019-04-27",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "讲述一个画家江郎才尽，此时她被人介绍了一种药物，服用后她不由自主开始疯狂创作，但人也变成了嗜血的吸血鬼。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "513",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

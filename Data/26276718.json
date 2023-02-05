@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "西游记之盘丝洞",
+  "url": "/subject/26276718/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2561545281.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280664/",
+      "name": "程小东 Siu-Tung Ching"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275984/",
+      "name": "吴承恩 Cheng&#39;en Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "七个蜘蛛精抓住了唐僧，师兄弟合力救出了唐僧。蜘蛛精的师兄多目怪是个蜈蚣精，用毒药把唐僧和八戒毒倒，孙悟空请来了毗蓝婆菩萨帮忙治好了唐僧和八戒，消灭了蜘蛛精们，蜈蚣精则被菩萨带走看门护院去了。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

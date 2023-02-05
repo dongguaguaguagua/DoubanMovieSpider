@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乡下 Héraðið",
+  "url": "/subject/27666626/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2674317476.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351037/",
+      "name": "格里莫·哈克纳尔森 Grímur Hákonarson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351037/",
+      "name": "格里莫·哈克纳尔森 Grímur Hákonarson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355536/",
+      "name": "斯温·奥拉维尔·冈纳松 Sveinn Ólafur Gunnarsson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355535/",
+      "name": "英格里德·约斯多蒂尔 Ingrid Jónsdóttir"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445598/",
+      "name": "阿尔弗伦·罗斯 Alfrun Rose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1144426/",
+      "name": "西德格尔·西乌尔乔森 Sigurður Sigurjónsson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163413/",
+      "name": "Guðmundur Ólafsson Guðmundur Ólafsson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1168486/",
+      "name": "Hinrik Ólafsson Hinrik Ólafsson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014496/",
+      "name": "彦斯·阿尔比努斯 Jens Albinus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1099785/",
+      "name": "Ragnhildur Gísladóttir Ragnhildur Gísladóttir"
+    }
+  ]
+,
+  "datePublished": "2019-08-14",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H32M",
+  "description": "英嘉（Arndís Hrönn Egilsdóttir 饰）和瑞尼尔是结婚多年的夫妇，两人生活在偏远宁静的小镇上，靠着经营农场维生。虽然每天都在非常努力的工作，但是夫妻两人的所得依然无法支持他们的生活...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "172",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

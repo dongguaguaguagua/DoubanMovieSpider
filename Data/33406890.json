@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大火将至 O que arde",
+  "url": "/subject/33406890/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2594033052.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334332/",
+      "name": "奥利维尔·拉克谢 Oliver Laxe"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334332/",
+      "name": "奥利维尔·拉克谢 Oliver Laxe"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427317/",
+      "name": "贝内迪克达·桑切斯 Benedicta Sánchez"
+    }
+  ]
+,
+  "datePublished": "2019-05-21",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H26M",
+  "description": "被指控纵火的阿莫多出狱了，却没有人等着他。他回到家乡，一个位于加利西亚深山、全欧洲森林大火发生最为频繁的村庄，与八十三岁的老母亲和三头乳牛一起生活。跨过湿冷阴郁的冬季，阿莫多循着自然的节奏缓慢生活，曾...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2361",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

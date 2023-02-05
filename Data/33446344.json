@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迷城攻略",
+  "url": "/subject/33446344/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2556450737.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433694/",
+      "name": "吴斯 Candice Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317151/",
+      "name": "宗晓军 Xiao-jun Zong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312869/",
+      "name": "陈志辉 Chi Fai Chan"
+    }
+  ]
+,
+  "datePublished": "2019-05-10",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT1H16M",
+  "description": "在这个只存在于镜像时空的“三界城”里，有一个能通过交易帮人实现任何愿望的“三界交易所”——只要交易者愿意付出相应的代价。掌柜晋尧守在交易所里，通过这种方式收集欲望的能量，维持欲望的平衡。某天，女孩安然...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱的谎言之三十六计",
+  "url": "/subject/30470503/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2872123836.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408057/",
+      "name": "聂品丞 DAISY NIE"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383931/",
+      "name": "王安琪 Anqi Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H8M",
+  "description": "一向是非分明的莫迪从律所辞职后自己开了家“情感咨询工作室”，专门替在感情中受骗的可怜人解决情感骗子和破坏他人感情的人。看莫迪带领三位志同道合的伙伴，一起“替天行道”，为当事人消灭“人渣”。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐怖七人组 The Seven",
+  "url": "/subject/30441779/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546231274.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025226/",
+      "name": "迪恩·凯恩 Dean Cain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436945/",
+      "name": "罗伯特·王尔德 Robert Wilde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442605/",
+      "name": "杰西·安皮亚姿 Jess Impiazzi"
+    }
+  ]
+,
+  "datePublished": "2019-06-25",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H19M",
+  "description": "60 Years ago a group of Devil worshipers died in a mysterious fire which burnt their mansion down to...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

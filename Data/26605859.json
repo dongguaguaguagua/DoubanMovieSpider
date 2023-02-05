@@ -1,0 +1,45 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "王媛媛",
+  "url": "/subject/26605859/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561712785.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342689/",
+      "name": "卫兆红 Zhaohong Wei"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328333/",
+      "name": "宋小宁 Xiaoning Song"
+    }
+  ]
+,
+  "datePublished": "2019-07-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "出品单位: 山东嘉迅影视文化传媒有限公司
+剧情简介
+
+本片以闵孝镇镇原党建办主任、团委书记王媛媛为原型，讲述了她通过自己的努力考取了选调生，甘心为大山沟奉献自己青春年华的感人故事……
+",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

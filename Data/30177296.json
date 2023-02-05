@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Dead Men",
+  "url": "/subject/30177296/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539666289.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184021/",
+      "name": "Royston Innes Royston Innes"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184021/",
+      "name": "Royston Innes Royston Innes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1250651/",
+      "name": " Ric Maddox"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1250651/",
+      "name": " Ric Maddox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319892/",
+      "name": "理查德·雷恩 Richard Ryan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451645/",
+      "name": "Karen Bethzabe Karen Bethzabe"
+    }
+  ]
+,
+  "datePublished": "2018-02-02",
+  "genre": ["\u52a8\u4f5c", "\u897f\u90e8"],
+  "duration": "PT3H0M",
+  "description": "Set in the lawless world of the Old West, &#39;Dead Men&#39; follows the path of a young man forced on a jou...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

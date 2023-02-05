@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "旁边的幸福 旁邊的幸福",
+  "url": "/subject/25749915/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2155032583.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274609/",
+      "name": "麦曦茵 Heiward Mak"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274609/",
+      "name": "麦曦茵 Heiward Mak"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316132/",
+      "name": "卢镇业 Chun-Yip Lo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305834/",
+      "name": "杨淇 Kate Yeung"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "《幸福的旁边》续集",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

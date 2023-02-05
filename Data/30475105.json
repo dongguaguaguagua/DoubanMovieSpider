@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "AR绑架者",
+  "url": "/subject/30475105/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371391/",
+      "name": "徐家辉 Jiahui Xu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "本片根据日本著名悬疑推理小说家夏树静子小说改编。为了挽回妻子辛迪加的爱，张小龙利用投影技术将真实世界信息和虚拟世界信息无缝集成，成功把预先设计好的虚拟世界信息转化成了辛迪加的真实记忆，从而改变了辛迪加...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

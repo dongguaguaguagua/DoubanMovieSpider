@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "水上人间",
+  "url": "/subject/34442124/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560533994.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326573/",
+      "name": "刘存明 Cunming Liu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315812/",
+      "name": "徐洁儿 Jill Hsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353667/",
+      "name": "姜星丘 SungGoo Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319504/",
+      "name": "冯瓅 Li Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402357/",
+      "name": "钟紫心 Zixin Zhong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407122/",
+      "name": "邢昀 Yun Xing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355410/",
+      "name": "屈刚 Gang Qu"
+    }
+  ]
+,
+  "datePublished": "2019-06-24",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H9M",
+  "description": "苗淼淼来自大西北干旱地区，为逃避世辈缺水的恐惧来到某海滨城市打工，在一家名为“欢乐水王国”的水上乐园打工，她的善良、勤劳与智慧，得到了老板赏的识，并嫁作掌管水生意的老板娘。后来丈夫因为一次意外事件入狱...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

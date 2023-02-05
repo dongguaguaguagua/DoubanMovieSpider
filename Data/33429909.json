@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "犬爱",
+  "url": "/subject/33429909/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2574804899.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415803/",
+      "name": "杨洋 Yang Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415803/",
+      "name": "杨洋 Yang Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415803/",
+      "name": "杨洋 Yang Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314630/",
+      "name": "李净洋 Jingyang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372025/",
+      "name": "冯进高 Jingao Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415804/",
+      "name": "窦琪 Qi Dou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367991/",
+      "name": "赵秋生 Qiusheng Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416074/",
+      "name": "李永林 Yonglin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416075/",
+      "name": "李响 Xiang Li"
+    }
+  ]
+,
+  "datePublished": "2019-11-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "《犬爱》致那些不曾被发现的爱。男主人公陈如风家境殷实，却因着父母终日的忙碌而缺失“陪伴”，从小感受不到家庭的温暖和父母的爱。内心空虚、混沌的他，决定去寻找他心中盼望的那份“爱”。而被主人驱逐门外的流浪...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

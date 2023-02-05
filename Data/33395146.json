@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "父亲只有一个 Padre no hay más que uno",
+  "url": "/subject/33395146/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2567227902.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010740/",
+      "name": "圣地亚哥·塞古拉 Santiago Segura"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010740/",
+      "name": "圣地亚哥·塞古拉 Santiago Segura"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010740/",
+      "name": "圣地亚哥·塞古拉 Santiago Segura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195747/",
+      "name": "西尔维娅·阿夫里尔 Sílvia Abril"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1190552/",
+      "name": "冬妮·阿科斯塔 Toni Acosta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1102438/",
+      "name": "费尔南多·吉尔 Fernando Gil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1059537/",
+      "name": "Anabel Alonso Anabel Alonso"
+    }
+  ]
+,
+  "datePublished": "2019-07-26",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "洛特在包豪斯 Lotte am Bauhaus",
+  "url": "/subject/30476502/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2549527082.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296937/",
+      "name": "格雷⼽·施尼茨勒 Gregor Schnitzler"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366314/",
+      "name": "简·布瑞仁 Jan Braren"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1233826/",
+      "name": "艾丽西娅·冯·里特贝格 Alicia von Rittberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360571/",
+      "name": "诺亚·萨维德拉 Noah Saavedra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187338/",
+      "name": "耶尔格·哈特曼 Jörg Hartmann"
+    }
+  ]
+,
+  "datePublished": "2019-02-13",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2"],
+  "duration": "PT1H45M",
+  "description": "包豪斯（Lotte am Bauhaus）是格雷戈尔·施尼茨勒（Gregor Schnitzler）于2018年拍摄的德国电视电影。主要角色包括艾丽西娅·冯·里特伯格，诺亚·萨维德拉和约格·哈特曼。 ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "196",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "花魁之明朝攻略",
+  "url": "/subject/34453159/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327488/",
+      "name": "胡悦 Yue Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406645/",
+      "name": "金晖 Hui Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396533/",
+      "name": "朱娅 Ya Zhu"
+    }
+  ]
+,
+  "datePublished": "2019-08-08",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H0M",
+  "description": "明朝溢香苑的头牌慕容晓晓，色艺双全，古灵精怪。为了避免好色的官场中人骚扰，她决定在大赛中一举夺得京城花魁，却在角逐中卷入了暗杀皇上的阴谋当中，危机一触即发……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

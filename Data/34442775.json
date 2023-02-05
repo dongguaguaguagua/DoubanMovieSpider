@@ -1,0 +1,49 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "惊天时速",
+  "url": "/subject/34442775/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560604840.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405381/",
+      "name": "马瑞泽 Ruize Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326045/",
+      "name": "周惠林 Huilin Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418795/",
+      "name": "唐绮 "
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H20M",
+  "description": "交警黎辉在高速检查站执勤时遇到突发事件：满载危险化学品的货车遭遇意外碰撞后刹车失灵，司机突发急病，而副驾上的年轻女押运员叶馨无法将车停下。黎辉冒险扒上在高速上疾驰的货车，他们必须想办法解除这一危机…
+",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

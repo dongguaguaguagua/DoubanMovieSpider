@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "薄暮",
+  "url": "/subject/26984196/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554655502.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275859/",
+      "name": "山本宽 Yutaka Yamamoto"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275859/",
+      "name": "山本宽 Yutaka Yamamoto"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337600/",
+      "name": "樱田日和 Hiyori Sakurada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314307/",
+      "name": "加藤清史郎 Seishirô Katô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275200/",
+      "name": "下野纮 Hiro Shimono"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037668/",
+      "name": "岛本须美 Sumi Shimamoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236882/",
+      "name": "福原香织 Kaori Fukuhara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339311/",
+      "name": "雨宫天 Sora Amamiya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321489/",
+      "name": "佐仓绫音 Ayane Sakura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034028/",
+      "name": "花泽香菜 Kana Hanazawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1471177/",
+      "name": "山口智广 Tomohiro Yamaguchi"
+    }
+  ]
+,
+  "datePublished": "2019-06-21",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT0H52M",
+  "description": "描绘福岛的现在，再平常不过的相遇的故事。这个世界，仍然有爱。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1933",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

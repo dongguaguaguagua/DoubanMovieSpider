@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "約會日",
+  "url": "/subject/33437225/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274344/",
+      "name": "叶念琛 Patrick Kong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274344/",
+      "name": "叶念琛 Patrick Kong"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "至於葉念琛執導的另一部電影《約會日》則是跟英皇電影合作，葉導繼續身兼編劇、導演與監製三職。當中以「繼《紀念日》、《失戀日》後葉念琛一年一度愛情話題作」為點題字眼。不過以如斯的賣點，未知又會否找來方力申...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Life Support",
+  "url": "/subject/34781435/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1086375/",
+      "name": "杰恩·伊斯特伍德 Jayne Eastwood"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H8M",
+  "description": "A woman who wants to spend some time alone finds herself consoling a stranger.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}
