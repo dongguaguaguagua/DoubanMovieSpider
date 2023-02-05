@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绝色妖姬",
+  "url": "/subject/30425858/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403475/",
+      "name": "房映华 Yinghua Fang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-01-31",
+  "genre": ["\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H2M",
+  "description": "明朝末年，社会动荡民生苟安，妖怪丛生。县城大户王家丫鬟欣怜险被老爷强占，巧被道士救下，因爱上道士无法自拔殉情。道士收其灵魂放于深山，不料被妖女怜儿获得，幻化成人为害人间。教书先生西门被妖女怜儿迷惑，陷...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

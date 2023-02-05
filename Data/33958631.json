@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "富家男女 Rich Boy, Rich Girl",
+  "url": "/subject/33958631/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2558830571.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021960/",
+      "name": "萨沙·杰克逊 Sasha Jackson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244483/",
+      "name": "科迪·朗格 Cody Longo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013892/",
+      "name": "伊莲·亨德里克斯 Elaine Hendrix"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476554/",
+      "name": "乔伊·夏茨 Joy Shatz"
+    }
+  ]
+,
+  "datePublished": "2019-05-31",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H48M",
+  "description": "Andy is a front desk clerk with a little ambition until he finds his muse. Hayley is a beautiful sha...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

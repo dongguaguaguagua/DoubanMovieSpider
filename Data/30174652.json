@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "合法伴侣",
+  "url": "/subject/30174652/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2634807354.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274794/",
+      "name": "黄雷 Lei Huang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417637/",
+      "name": "许容硕 Rongshuo Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325104/",
+      "name": "束焕 Huan Shu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274292/",
+      "name": "李治廷 Aarif Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1226703/",
+      "name": "张榕容 Sandrine Pinna"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332932/",
+      "name": "白客 White. K"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009379/",
+      "name": "鲁珀特·格雷夫斯 Rupert Graves"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275947/",
+      "name": "周韦彤 Cica Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276046/",
+      "name": "江珊 Shan Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274636/",
+      "name": "巩汉林 Han-Lin Gong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397447/",
+      "name": "耶果 Iegor Shyshov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325753/",
+      "name": "冯文娟 Wenjuan Feng"
+    }
+  ]
+,
+  "datePublished": "2019-06-19",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H46M",
+  "description": "在伦敦追求音乐梦想的音乐才子古大白（李治廷 饰），因为一场意外陷入签证危机，将被遣送回国。已拿到绿卡的发小金天（白客 饰）突发奇想，企图在签证官华生（鲁伯特·格雷夫斯 饰）面前蒙混过关，而古大白也与新...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "8178",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

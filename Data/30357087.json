@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Rom",
+  "url": "/subject/30357087/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353793/",
+      "name": "欧文·瓦卡罗 Owen Vaccaro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176992/",
+      "name": "格伦·博尔斯 Karen Boles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368592/",
+      "name": "维塔利·安德鲁·勒博 Vitaly Andrew LeBeau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367973/",
+      "name": "大卫·布莱米 Dave Blamy"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

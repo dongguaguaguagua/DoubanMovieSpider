@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迈克尔零号 Michael Zero",
+  "url": "/subject/30170547/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048166/",
+      "name": "蒂姆·布雷克·尼尔森 Tim Blake Nelson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005641/",
+      "name": "亚当·阿莱卡 Adam Alleca"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "蒂姆·布雷克·尼尔森(《灰色地带》《草叶》)将执导科幻动作新片《迈克尔零号》(Michael Zero)，Millennium Media和Eclectic Pictures制作， Adam Alle...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

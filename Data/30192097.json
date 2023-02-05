@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "险金风云",
+  "url": "/subject/30192097/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543275298.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008125/",
+      "name": "梁家仁 Ka-Yan Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442912/",
+      "name": "王星允 Xingyun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406713/",
+      "name": "邹柏呈 Bocheng Zou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407712/",
+      "name": "白翌骅 Yihua Bai"
+    }
+  ]
+,
+  "datePublished": "2018-04-09",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "一场围绕保险理赔发生的事件，显示了不同的人性。男女主角为了还原事实真相，进行了一些列的努力，最终找到了事实的真相。贪婪的人最后得到惩罚，心存善念的人最后得到心灵的救赎。情节紧凑，跌宕起伏。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

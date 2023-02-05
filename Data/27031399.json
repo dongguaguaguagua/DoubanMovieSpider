@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "星光 Starlight",
+  "url": "/subject/27031399/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036861/",
+      "name": "乔·考尼什 Joe Cornish"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036861/",
+      "name": "乔·考尼什 Joe Cornish"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "马克·米勒(《王牌特工》《海扁王》)所著漫画《星光》(Starlight)将被拍成电影，乔·考尼什(《街区大作战》《丁丁历险记》《蚁人》)担任导演和编剧，西蒙·金伯格等制片，二十世纪影业出品。
+讲述太...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

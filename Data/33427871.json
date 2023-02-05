@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿尔法 러브버즈",
+  "url": "/subject/33427871/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2688103567.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437120/",
+      "name": "崔智熙 Choi Ji-hee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448136/",
+      "name": "李汉翼 Lee Han Ik"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429298/",
+      "name": "裴仁赫 In Hyuk Bae"
+    }
+  ]
+,
+  "datePublished": "2019-04-27",
+  "genre": ["\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT0H28M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "490",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "包含一切 All Inclusive",
+  "url": "/subject/30421631/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555444497.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431233/",
+      "name": "法比安·昂特尼安特 Fabien Onteniente"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343530/",
+      "name": "盖伊·洛朗 Guy Laurent"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041585/",
+      "name": "弗朗克·迪博斯克 Franck Dubosc"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050803/",
+      "name": "弗朗索瓦-格扎维埃·德梅松 François-Xavier Demaison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002859/",
+      "name": "若西安·巴拉斯科 Josiane Balasko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040471/",
+      "name": "蒂埃里·莱尔米特 Thierry Lhermitte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1240839/",
+      "name": "卡洛琳·安格鲁德 Caroline Anglade"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000208/",
+      "name": "麦温 Maïwenn"
+    }
+  ]
+,
+  "datePublished": "2019-02-13",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H32M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

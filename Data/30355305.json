@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猪八戒·传说",
+  "url": "/subject/30355305/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2561910053.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414809/",
+      "name": "郑冀峰 Yifeng Zheng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414809/",
+      "name": "郑冀峰 Yifeng Zheng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414809/",
+      "name": "郑冀峰 Yifeng Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002862/",
+      "name": "曾志伟 Eric Tsang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406995/",
+      "name": "殷若曦 Ruoxi Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367925/",
+      "name": "贾冰 Bing Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414810/",
+      "name": "张驰 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276013/",
+      "name": "毛毛 Mao Mao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315882/",
+      "name": "田启文 Kai Man Tin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314248/",
+      "name": "赵志凌 Chi-Ling Chiu "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354116/",
+      "name": "张美娥 Mei&#39;e Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323214/",
+      "name": "张大礼 Dali Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406800/",
+      "name": "王思琪 "
+    }
+  ]
+,
+  "datePublished": "2019-07-19",
+  "genre": ["\u559c\u5267", "\u5947\u5e7b"],
+  "duration": "PT1H37M",
+  "description": "天蓬元帅成为猪八戒之前一段秘史，一个所有青少年都经历过的故事，一个合家欢的故事！",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1987",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.2"
+  }
+}

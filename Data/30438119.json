@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱的零件 Die Einzelteile der Liebe",
+  "url": "/subject/30438119/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2547948578.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1162010/",
+      "name": "Brigitte Zeh Brigitte Zeh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478730/",
+      "name": "碧尔特·施诺因克 Birte Schnöink"
+    }
+  ]
+,
+  "datePublished": "2019-02-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "导演米里亚姆·布利泽的科幻小说改编的电影《爱的组成部分》是她为德国柏林电影电视学院（DFFB）拍摄的毕业片，在爱、分离和心痛之间摇摆。苏菲和乔治曾经相爱过，但现在已经分开了。几乎整部电影都发生在柏林同...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

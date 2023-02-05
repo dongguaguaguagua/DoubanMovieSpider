@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死神 Deadcon",
+  "url": "/subject/34431290/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2574011328.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1179706/",
+      "name": "多米尼克·伯吉斯 Dominic Burgess"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418564/",
+      "name": "卢卡斯·盖奇 Lukas Gage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439906/",
+      "name": "理查德·科恩克 Richard Kohnke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481288/",
+      "name": "克劳迪娅·苏莱斯基 Claudia Sulewski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484936/",
+      "name": "娜亚·达马森 Nayah Damasen"
+    }
+  ]
+,
+  "datePublished": "2019-06-15",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H18M",
+  "description": "The horrors and isolation of being a social media influencer run rampant when a collection of YouTub...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

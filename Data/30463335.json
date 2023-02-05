@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2019山西春节联欢晚会",
+  "url": "/subject/30463335/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2564701857.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360327/",
+      "name": "刘木子 Muzi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354855/",
+      "name": "王淏 Hao Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433922/",
+      "name": "吴圆圆 Yuanyuan Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476360/",
+      "name": "雷璐 "
+    }
+  ]
+,
+  "datePublished": "2019-02-02",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e", "\u771f\u4eba\u79c0"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "林中邪神 Sator",
+  "url": "/subject/34658338/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2628413282.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1262951/",
+      "name": " Jordan Graham"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1262951/",
+      "name": " Jordan Graham"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-07-21",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A malevolent spirit that manifests itself via a receptor.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

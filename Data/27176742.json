@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "驭风男孩 The Boy Who Harnessed the Wind",
+  "url": "/subject/27176742/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2547694957.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010581/",
+      "name": "切瓦特·埃加福 Chiwetel Ejiofor"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010581/",
+      "name": "切瓦特·埃加福 Chiwetel Ejiofor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412461/",
+      "name": "威廉·卡玛夸文巴 William Kamkwamba"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412462/",
+      "name": "布赖恩·梅亚勒 Bryan Mealer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010581/",
+      "name": "切瓦特·埃加福 Chiwetel Ejiofor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412463/",
+      "name": "麦斯威尔·辛巴 Maxwell Simba"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412464/",
+      "name": "莉莉·班达 Lily Banda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329898/",
+      "name": "爱伊莎·玛依卡 Aïssa Maïga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363070/",
+      "name": "诺玛·杜梅温尼 Noma Dumezweni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1119219/",
+      "name": "约瑟夫·马塞尔 Joseph Marcell"
+    }
+  ]
+,
+  "datePublished": "2019-01-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H53M",
+  "description": "改编自William Kamkwamba所著自传《驭风男孩》（The Boy Who Harnessed The Wind），讲述一个改变人生的故事：Kamkwamba本人在13岁那年，以小块金属废料...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "22108",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.2"
+  }
+}

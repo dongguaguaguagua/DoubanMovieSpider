@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "怪兽之岛 Monster Island",
+  "url": "/subject/33435943/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2555563215.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328824/",
+      "name": "马克·阿特金斯 Mark Atkins"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328824/",
+      "name": "马克·阿特金斯 Mark Atkins"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002670/",
+      "name": "埃里克·罗伯茨 Eric Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322350/",
+      "name": "克里斯·费舍 Chris Fisher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319199/",
+      "name": "阿德里安·布薛特 Adrian Bouchet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1139879/",
+      "name": "沢淑子 Junko Toda"
+    }
+  ]
+,
+  "datePublished": "2019-06-01",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H30M",
+  "description": "長眠於地球深處的巨大怪獸逐一甦醒，全球陷入天崩地裂的毀滅危機。人類存亡的最終關鍵，掌握在一名怪獸專家的手中……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "248",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

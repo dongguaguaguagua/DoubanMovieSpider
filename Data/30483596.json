@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "万神殿 The Pantheon",
+  "url": "/subject/30483596/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290066/",
+      "name": "林诣彬 Justin Lin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366737/",
+      "name": "郝景芳 Jingfang Hao"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "林诣彬将翻拍中文科幻小说《万神殿》作者是首位中国雨果奖女作家 - 林诣彬的完美风暴娱乐公司正与北京普罗传媒有限公司合作，将郝景芳的中文科幻短篇小说《万神殿》（The Pantheon）改编为电影。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

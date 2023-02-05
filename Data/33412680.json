@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恶魔天才",
+  "url": "/subject/33412680/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553830533.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316688/",
+      "name": "郭冬临 Donglin Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274566/",
+      "name": "石小满 Xiaoman Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355316/",
+      "name": "张冰倩 Bingqian Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274871/",
+      "name": "陶慧敏 Huimin Tao"
+    }
+  ]
+,
+  "datePublished": "2019-04-14",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b", "\u60ac\u7591"],
+  "duration": "PT1H12M",
+  "description": "霍恩是一位研究人类脑科的博士，他骗取马莉为他开发了可以自我进化的人工智能“天启”，为了让天启成为最强的人工智能而到处找植物人吸收意识，连妻子马莉都不放过。霍恩已经害了不少人，最近还盯上了晴岚一行人，而...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

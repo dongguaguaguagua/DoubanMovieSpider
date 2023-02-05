@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "春情荡漾 グラグラ",
+  "url": "/subject/30482676/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2630394605.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370292/",
+      "name": "江泽翠 Midori Ezawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438223/",
+      "name": "永冈怜子 "
+    }
+  ]
+,
+  "datePublished": "2019-04-06",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H17M",
+  "description": "冴えない男と純情グラドルのピュアな恋を描く。グラビアアイドル・はるかは、主演映画でラブシーンを演じてみないかと提案される。だが、彼女には胸に秘めたコンプレックスがあり…",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "466",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

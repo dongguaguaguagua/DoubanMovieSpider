@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "消失 Sunflower",
+  "url": "/subject/26648260/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2420505505.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018076/",
+      "name": "哈契·达诺 Hutch Dano"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018076/",
+      "name": "哈契·达诺 Hutch Dano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049671/",
+      "name": "布莱恩·汤普森 Brian Thompson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316002/",
+      "name": "雷吉·李 Reggie Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031949/",
+      "name": "马修·马斯登 Matthew Marsden"
+    }
+  ]
+,
+  "datePublished": "2019-06-18",
+  "genre": ["\u7231\u60c5", "\u60ca\u609a"],
+  "duration": "",
+  "description": "When author George Boulangé agrees to the wishes of his wife, Isabelle, and brings a young and beaut...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

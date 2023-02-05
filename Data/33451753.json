@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "野雀之诗 野雀之詩",
+  "url": "/subject/33451753/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2611653236.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333133/",
+      "name": "施立 Li Shih"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312994/",
+      "name": "李亦捷 Yi-Chieh Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339114/",
+      "name": "游安顺 An-shun Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339273/",
+      "name": "陈淑芳 Shu-Fang Chen"
+    }
+  ]
+,
+  "datePublished": "2019-06-28",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "故事讲述野鸟一次又一次被捕鸟人抓住、贩卖、放生，在有限的自由里挣扎求存。女人在男人主导的社会中求生，不由自主的命运同样可怜。自小跟着阿嬷在山林长大，常常看鸟儿飞翔、被抓、被放生、死亡，直至一天母亲接他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "142",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

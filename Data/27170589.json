@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "漫长的白日梦",
+  "url": "/subject/27170589/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2667900596.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445317/",
+      "name": "沙跃飞 Yuefei Sha"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445317/",
+      "name": "沙跃飞 Yuefei Sha"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353868/",
+      "name": "白建才 Jiancai Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373817/",
+      "name": "辛宇 Yu Xin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474146/",
+      "name": "陈伟奋 Weifen Chen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "在一个陈旧的小工业城市里，张冬生从小生活在一个社会的普通家庭。父亲张复兴对张冬生有着无微不至的关心，但两人却总发生矛盾与摩擦。 张复兴的债主贾义时常会跑到家中来讨债。某天张冬生认识了邻居安琪，两人的关...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

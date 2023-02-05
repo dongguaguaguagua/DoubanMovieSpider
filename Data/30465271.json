@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "市政英雄2 Les municipaux - Trop c&#39;est trop",
+  "url": "/subject/30465271/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2564292430.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1125526/",
+      "name": "布鲁诺·洛歇 Bruno Lochet"
+    }
+  ]
+,
+  "datePublished": "2019-10-23",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H39M",
+  "description": "The small port of Port-Vendres, rich of 280 municipal employees, is shaken by a rumor: the mayor, wi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

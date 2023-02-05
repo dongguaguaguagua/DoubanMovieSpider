@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Bardo Blues",
+  "url": "/subject/30271674/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527779049.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316846/",
+      "name": "布莱恩·格罗斯 Brian Gross"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165727/",
+      "name": "娜塔莉·丹尼斯·斯皮尔 Natalie Denise Sperl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1254473/",
+      "name": "肯尼·史戴斯 Keni Styles"
+    }
+  ]
+,
+  "datePublished": "2019-04-29",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H25M",
+  "description": "Bardo Blues is the story of a man coming to grips with tragedy by escaping to paradise. Set in Thail...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

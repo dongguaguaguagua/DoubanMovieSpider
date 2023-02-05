@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阳光家庭 Sunshine Family",
+  "url": "/subject/34461259/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2562052115.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046581/",
+      "name": "金泰植 Tai-sik Kim"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331935/",
+      "name": "沙梅恩·布埃诺卡米诺 Shamaine Buencamino"
+    }
+  ]
+,
+  "datePublished": "2019-06-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "A family puts themselves in a chaotic situation when the father gets involved in a hit-and-run accid...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

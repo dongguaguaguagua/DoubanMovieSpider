@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "混蛋科林，新年快乐 Happy New Year, Colin Burstead.",
+  "url": "/subject/30183677/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543432766.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319055/",
+      "name": "本·维特利  Ben Wheatley"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319055/",
+      "name": "本·维特利  Ben Wheatley"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339918/",
+      "name": "尼尔·马斯克尔 Neil Maskell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317564/",
+      "name": "乔·科尔 Joe Cole"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027299/",
+      "name": "查尔斯·丹斯 Charles Dance"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357690/",
+      "name": "海莉·斯奎尔斯 Hayley Squires"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013934/",
+      "name": "萨姆·赖利 Sam Riley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332724/",
+      "name": "彼得·费迪南多 Peter Ferdinando"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019165/",
+      "name": "比尔·帕特森 Bill Paterson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040688/",
+      "name": "亚历山德拉·玛丽亚·拉娜 Alexandra Maria Lara"
+    }
+  ]
+,
+  "datePublished": "2018-10-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "本·维特利打造的全新影片[科林你个菊花]有新消息，影片卡司曝光，包括尼尔·马斯克尔、乔·科尔、查尔斯·丹斯、海莉·斯奎尔斯、萨姆·赖利。导演表示该片并没有像其他人说的有特别大的转变，而影片或多或少有着...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "98",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不朽的走廊 Коридор бессмертия",
+  "url": "/subject/34432315/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560129244.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391275/",
+      "name": "费奥多·波波夫 Fyodor Popov"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391275/",
+      "name": "费奥多·波波夫 Fyodor Popov"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-05-08",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT2H5M",
+  "description": "描述伟大的卫国战争期间发生的历史的爱国战争悲剧。女主人公玛莎亚布契金才16岁，她充满了未来的野心和目标。像所有的人一样，在毕业后，年轻的女孩都在制定生活计划，准备进入大学学习，并获得她所珍视的专业。但...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "300",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

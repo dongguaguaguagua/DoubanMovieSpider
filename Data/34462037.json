@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鲁邦三世 The First ルパン三世 THE FIRST",
+  "url": "/subject/34462037/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570280248.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301398/",
+      "name": "山崎贵 Takashi Yamazaki"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301398/",
+      "name": "山崎贵 Takashi Yamazaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019863/",
+      "name": "加藤一彦 Monkey Punch"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035745/",
+      "name": "栗田贯一 Kanichi Kurita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017061/",
+      "name": "小林清志 Kiyoshi Kobayashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001127/",
+      "name": "浪川大辅 Daisuke Namikawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019908/",
+      "name": "泽城美雪 Miyuki Sawashiro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019299/",
+      "name": "山寺宏一 Kôichi Yamadera"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328056/",
+      "name": "广濑铃 Suzu Hirose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004817/",
+      "name": "吉田钢太郎 Kôtarô Yoshida"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045190/",
+      "name": "藤原龙也 Tatsuya Fujiwara"
+    }
+  ]
+,
+  "datePublished": "2019-12-06",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u52a8\u753b"],
+  "duration": "PT1H33M",
+  "description": "《鲁邦三世》首度以3DCG制成的电影版作品，那个大名鼎鼎的亚森‧鲁邦唯一失手的秘宝「布列松日志」，传说若能解开日志之谜，就会获得庞大的财宝。瞄准了这个目标的鲁邦，邂逅热爱考古学的少女蕾蒂西亚，两人决定...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "7422",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

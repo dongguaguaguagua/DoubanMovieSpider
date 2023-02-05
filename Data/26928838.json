@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "好想吃拉面！ ラーメン食いてぇ！",
+  "url": "/subject/26928838/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2509010397.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391181/",
+      "name": "熊谷祐纪 Yûki Kumagai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391181/",
+      "name": "熊谷祐纪 Yûki Kumagai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416091/",
+      "name": "林明辉 Meiki Rin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333708/",
+      "name": "中村由利佳 Yurika Nakamura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046991/",
+      "name": "葵若菜 Wakana Aoi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054279/",
+      "name": "石桥莲司 Renji Ishibashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353350/",
+      "name": "黑羽麻璃央 Mario Kuroba"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313799/",
+      "name": "宅间孝行 Takayuki Takuma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037870/",
+      "name": "片冈礼子 Reiko Kataoka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015108/",
+      "name": "水桥研二 Kenji Mizuhashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483318/",
+      "name": "玉野琉那 Luna Tamano"
+    }
+  ]
+,
+  "datePublished": "2018-03-03",
+  "genre": ["\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H42M",
+  "description": "《好想吃拉面》是由日本漫画家林明辉原作漫画改编的真人电影。导演和剧本由熊谷佑纪担当，中村百合香、葵若菜主演 。成为鳏夫决心关闭拉面店的店主、为电视节目取材而遭遇意外流落荒野的料理研究家、被亲友背叛而绝...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1708",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

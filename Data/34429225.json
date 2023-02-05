@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "古墓奇谭3",
+  "url": "/subject/34429225/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332366/",
+      "name": "刘政 Zheng Liu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400178/",
+      "name": "温航 Hang Wen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591"],
+  "duration": "",
+  "description": "中国古代海上丝绸之路曾有一装满宝藏的商船遇到海啸沉于大海。古董商老梁组织金三等寻宝团队对此进行寻宝。在寻宝过程中巧遇得知宝船消息的国外不法分子“浩三”带领团队进行争夺宝藏，在争夺过程中金三的寻宝船被击...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

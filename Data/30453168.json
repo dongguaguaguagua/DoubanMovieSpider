@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "俄国青年 Мальчик русский",
+  "url": "/subject/30453168/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2547662292.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415113/",
+      "name": "亚历山大·佐洛图金 Alexander Zolotukhin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415113/",
+      "name": "亚历山大·佐洛图金 Alexander Zolotukhin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475854/",
+      "name": "菲利普·德亚奇科夫 Filipp Dyachkov"
+    }
+  ]
+,
+  "datePublished": "2019-02-10",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H12M",
+  "description": "在第一次世界大战的战壕里，一个穿着制服的长着雀斑的俄罗斯男孩在德国的瓦斯袭击中失明了。由于他敏锐的听觉，他被安排在前线，在巨大的金属管道处监听敌机，形成一种预警系统。
+颜色褪去了，好像图像是从另一个时...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "279",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

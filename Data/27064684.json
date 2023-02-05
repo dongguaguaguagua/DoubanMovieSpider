@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玛丽安 Marian",
+  "url": "/subject/27064684/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2590717389.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272303/",
+      "name": "玛格特·罗比 Margot Robbie"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "",
+  "description": "玛格特·罗比将主演索尼影业的影片《玛丽安》，电影由经典的《罗宾汉》改编，讲述罗宾汉女友玛丽安的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

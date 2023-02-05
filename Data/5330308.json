@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狂热 Fever",
+  "url": "/subject/5330308/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2632496200.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014069/",
+      "name": "托德·海因斯 Todd Haynes"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301296/",
+      "name": "道格·赖特 Doug Wright"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049491/",
+      "name": "米歇尔·威廉姆斯 Michelle Williams"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "米歇尔·威廉姆斯将出演知名歌姬佩吉·李。她已签约主演托德·海恩斯(《天鹅绒金矿》《卡罗尔》)执导的传记片《狂热》(Fever)，聚焦李的人生和歌手、演员生涯，片名来自她1958年发行的同名翻唱传世金曲...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

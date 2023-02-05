@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我亲爱的表哥 Primos",
+  "url": "/subject/34333817/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2563008383.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367062/",
+      "name": "迪亚哥·卡萨多 Thiago Cazado"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367062/",
+      "name": "迪亚哥·卡萨多 Thiago Cazado"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367062/",
+      "name": "迪亚哥·卡萨多 Thiago Cazado"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422723/",
+      "name": "保罗·索萨 Paulo Sousa"
+    }
+  ]
+,
+  "datePublished": "2019-05-29",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H23M",
+  "description": "卢卡斯（保罗·索萨 Paulo Sousa 饰）和姨妈罗德斯（Juliana Zancanaro 饰）过着相依为命的生活。罗德斯是一名非常虔诚的基督教徒，每当她做礼拜时，卢卡斯都会为她用电子琴奏响圣乐...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3292",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

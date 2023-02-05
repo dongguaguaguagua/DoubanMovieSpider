@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拉查西 Raatchasi",
+  "url": "/subject/34454539/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561456036.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1105367/",
+      "name": "乔蒂卡 Jyothika"
+    }
+  ]
+,
+  "datePublished": "2019-06-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H14M",
+  "description": "吉塔拉尼担任了政府学校的新任女校长，不得不面对淘气的学生、无能的教职员工和缺失的规则。重重困难下，她能否改革教育系统和社会？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

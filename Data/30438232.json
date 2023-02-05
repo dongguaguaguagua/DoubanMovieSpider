@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "少侠好功夫",
+  "url": "/subject/30438232/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545989803.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033090/",
+      "name": "熊欣欣 Xinxin Xiong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410901/",
+      "name": "姜彭 Peng Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454613/",
+      "name": "李栋 Dong Li"
+    }
+  ]
+,
+  "datePublished": "2019-02-02",
+  "genre": [],
+  "duration": "",
+  "description": "影片由一个少年学艺、为父报仇的故事展开，发展为一个抗击恶势力、维护家人利益的励志故事，主角叶少侠在尚武镇历尽艰辛吃尽苦头，最终成为一代大师。剧中人物以喜剧表演风格将影片维持在一个轻松氛围中，所塑造的叶...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

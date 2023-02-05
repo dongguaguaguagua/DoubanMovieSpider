@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "布莱顿惊魂 Body at Brighton Rock",
+  "url": "/subject/30476333/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2619596052.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355710/",
+      "name": "罗克珊·本杰明 Roxanne Benjamin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355710/",
+      "name": "罗克珊·本杰明 Roxanne Benjamin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375563/",
+      "name": "艾米莉·奥尔索斯 Emily Althaus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005213/",
+      "name": "米兰达·贝利 Miranda Bailey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004759/",
+      "name": "马丁·斯潘尼尔斯 Martin Spanjers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332849/",
+      "name": "马特·皮特斯 Matt Peters"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328377/",
+      "name": "苏珊·伯克 Susan Burke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027895/",
+      "name": "约翰·盖兹 John Getz"
+    }
+  ]
+,
+  "datePublished": "2019-03-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H27M",
+  "description": "Wendy(Karina Fontes饰)是个公园暑期工，努力想要证明自己有能力胜任这份工作。然而她不幸在山中迷路，发现了一个尸体并且被困在了案发现场。在通过无线电对讲机联络了管理方之后，作为公园职员...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "181",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

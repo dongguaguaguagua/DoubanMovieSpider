@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Misfit",
+  "url": "/subject/33406837/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553367022.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306953/",
+      "name": "艾尔文·范·登·埃什奥夫 Erwin van den Eshof"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1156577/",
+      "name": "Diana Sno Diana Sno"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412611/",
+      "name": "巴勃罗·格兰特 Pablo Grant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215372/",
+      "name": "Tobias Licht Tobias Licht"
+    }
+  ]
+,
+  "datePublished": "2019-03-14",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H22M",
+  "description": "Moving back to her native country Germany after years of living in the United States, a teenage girl...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "看不见的小孩",
+  "url": "/subject/30290872/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2562546799.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327530/",
+      "name": "伊萨拉·纳迪 Isara Nadee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327530/",
+      "name": "伊萨拉·纳迪 Isara Nadee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400572/",
+      "name": "裴蒂·赫格莉 Petei Hokari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374406/",
+      "name": "陈锦昀 Jinyun Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416944/",
+      "name": "王景晨 Jingchen Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416945/",
+      "name": "段超 Chao Duan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416946/",
+      "name": "胡盛 Sheng Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416947/",
+      "name": "单思杰 Sijie Shan"
+    }
+  ]
+,
+  "datePublished": "2019-07-19",
+  "genre": ["\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H33M",
+  "description": "本片根据亚洲恐怖漫画《阴阳棺》改编，讲述了民国年间被世人俗称为的“阴阳棺”突然现世，相传这口神秘的棺材一旦出现就会有恐怖的事情发生。
+据《民国时报》记载，民国34年（1945国民党统治时期），曾发生一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2399",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

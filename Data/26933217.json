@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "功夫素食",
+  "url": "/subject/26933217/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2880956669.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365569/",
+      "name": "张智焜 Zhikun Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365569/",
+      "name": "张智焜 Zhikun Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365569/",
+      "name": "张智焜 Zhikun Zhang"
+    }
+  ]
+,
+  "datePublished": "2026-12-03",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "由唐影集团股份有限公司制作，张智焜执导，故事发生在二十世纪三十年代当时的中国珠三角地区广州。讲述李小南一个练武之人，如何打败天下无敌手的故事，李小南经历了种种事后，才悟到原来打败自己才是人生真正的赢家...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

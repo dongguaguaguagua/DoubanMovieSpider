@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐怖人偶 恐怖人形",
+  "url": "/subject/33724335/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2558787520.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345258/",
+      "name": "宫冈太郎 Tarô Miyaoka"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382537/",
+      "name": "小坂菜绪 Nao Kosaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343673/",
+      "name": "萩原利久 Riku Hagiwara"
+    }
+  ]
+,
+  "datePublished": "2019-11-15",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "主人公の女子大生・平井由梨（小坂菜緒）は趣味のカメラで幼馴染の真人（萩原利久）と日常の風景を撮影する楽しい日々を過ごしていた。ある日、由梨の自宅に差出人不明のパーティー案内が届いた。怪しい案内状だが、...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

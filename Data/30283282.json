@@ -1,0 +1,95 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "刺杀风云",
+  "url": "/subject/30283282/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545474136.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408752/",
+      "name": "周天宇 Tianyu Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379940/",
+      "name": "安宕宕 Anthony"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408752/",
+      "name": "周天宇 Tianyu Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037706/",
+      "name": "吕良伟 Ray Lui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384081/",
+      "name": "杨明逸 Mingyi Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408748/",
+      "name": "周卓 Zhuo Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408749/",
+      "name": "袁千山 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314723/",
+      "name": "张琪 Qi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344881/",
+      "name": "王尧 Yao Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408751/",
+      "name": "张宏威 Hongwei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408750/",
+      "name": " "
+    }
+  ]
+,
+  "datePublished": "2019-01-19",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H18M",
+  "description": "在孤岛时代的上海滩，不同意为日军效力的海风商会会长周琦方及其门生陆南笙等江湖人士，拼死抵抗，与日军少将斋藤展开一场生死大战。
+",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "905",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

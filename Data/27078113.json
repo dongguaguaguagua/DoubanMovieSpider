@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "代表团 Delegacioni",
+  "url": "/subject/27078113/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2609371788.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423251/",
+      "name": "Bujar Alimani Bujar Alimani"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337751/",
+      "name": "理查德·塞梅尔 Richard Sammel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350852/",
+      "name": "卡西姆·霍查 Kasem Hoxha"
+    }
+  ]
+,
+  "datePublished": "2018-10-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H17M",
+  "description": "In 1990, a European delegation comes to Tirana to monitor the reforms of the communist regime. A gov...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

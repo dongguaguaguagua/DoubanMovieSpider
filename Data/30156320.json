@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "白夜侠",
+  "url": "/subject/30156320/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2514825825.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352812/",
+      "name": "马中轩 Zhongxuan Ma"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314627/",
+      "name": "谢苗 Miu Tse"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339697/",
+      "name": "南笙 Sheng Nan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391351/",
+      "name": "吴潇娜 Xiaona Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404206/",
+      "name": "陈奕名 Yiming Chen"
+    }
+  ]
+,
+  "datePublished": "2018-03-02",
+  "genre": [],
+  "duration": "",
+  "description": "谢苗饰演的男主角刁白夜，即有武林大侠的威严霸气，又不失江湖小人物的平易近人，在戏中与南笙饰演的青鹭姑娘上演一段“相忘于江湖”的动人情缘的故事……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "441",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.5"
+  }
+}

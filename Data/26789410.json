@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "摸金符",
+  "url": "/subject/26939230/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517854189.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337213/",
+      "name": "朱少杰 Shaojie Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340983/",
+      "name": "天下霸唱 Muye Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340983/",
+      "name": "天下霸唱 Muye Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351876/",
+      "name": "王燕阳 Yanyang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409862/",
+      "name": "刘美旗 Meiqi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409863/",
+      "name": "李熙政 Xizheng Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342748/",
+      "name": "罗昱焜 Yukun Luo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "继电影版#鬼吹灯之寻龙诀#陈坤版胡八一， #网剧鬼吹灯#靳东版胡八一，再曝中南影业将出品电影#摸金符#，由天下霸唱新作编剧，刘烨饰胡八一",
+  "@type": "TVSeries",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

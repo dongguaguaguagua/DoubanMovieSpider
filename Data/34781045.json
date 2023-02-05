@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "斩风行动",
+  "url": "/subject/34781045/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564474355.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409004/",
+      "name": "寒月 Elephant"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378033/",
+      "name": "张宗煌 Zonghuang Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409004/",
+      "name": "寒月 Elephant"
+    }
+  ]
+,
+  "datePublished": "2019-08-01",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H5M",
+  "description": "本部影片主要讲述了缉毒“斩风”行动实施六年，卧底在云南某镇月亮村5名警察，在三年内前后有3名遇难，斩风行动一直没有实质性进展，上级决定派贺志远（西红士，廖顺劲饰）再次卧底月亮村。斩风行动小组组长代号斩...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

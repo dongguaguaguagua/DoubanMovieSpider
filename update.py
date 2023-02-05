@@ -6,6 +6,7 @@ import requests
 import re
 import datetime
 import sys
+import time
 '''
 查看IP：
 http://icanhazip.com/
@@ -123,8 +124,8 @@ def get_qg_proxy(choice='http'):
     if(ip_data['Code']==0):
         print("获取ip成功")
         proxyAddr=ip_data['Data'][0]['host']
-        Authkey="BFF94083"
-        Authpwd="0CD0D3A4C39E"
+        Authkey="F2B027F6"
+        Authpwd="0E549C1E8D81"
 
         proxyMeta = "http://%(user)s:%(password)s@%(server)s" % {
             "user" : Authkey,
@@ -135,6 +136,7 @@ def get_qg_proxy(choice='http'):
             "http"  : proxyMeta,
             "https"  : proxyMeta
         }
+        time.sleep(1000)
         return proxies
     elif(ip_data['code']==-11):
         print("获取ip失败,计划不存在或已过期");

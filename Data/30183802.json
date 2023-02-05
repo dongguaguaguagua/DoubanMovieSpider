@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "史前超人",
+  "url": "/subject/30183802/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2517788731.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319608/",
+      "name": "关尔 David Kuan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330258/",
+      "name": "梁潇潇 Xiaoxiao Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330259/",
+      "name": "朱孛 Bo Zhu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385472/",
+      "name": "侯佩杉 Peishan Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337952/",
+      "name": "郑惠馨 Huixin Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376983/",
+      "name": "程剑 Jian Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426034/",
+      "name": "张伟东 Weidong Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-03-27",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H32M",
+  "description": "电影《史前超人》讲述的是公元一万五千年前，高度文明的亚特兰蒂斯大陆被一场大海啸掀入海底，随后新的生命和文明再次在地球诞生。明朝末年，郑成功的副将唐文澜在大海中拾获装有亚特兰蒂斯王子的命运女神之匣，并将...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "559",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.2"
+  }
+}

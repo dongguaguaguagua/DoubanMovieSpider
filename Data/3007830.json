@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "登月计划 Luna Park",
+  "url": "/subject/3007830/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022741/",
+      "name": "道格·里曼 Doug Liman"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022741/",
+      "name": "道格·里曼 Doug Liman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009998/",
+      "name": "马克·鲍登 Mark Bowden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032466/",
+      "name": "贾森·福克斯 Jason Fuchs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022982/",
+      "name": "西蒙·金伯格 Simon Kinberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340679/",
+      "name": "丹·马泽 Dan Mazeau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293241/",
+      "name": "肯·诺兰 Ken Nolan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054435/",
+      "name": "汤姆·克鲁斯 Tom Cruise"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "影片被称作是对美国1969年登月计划的一种致敬，讲述了一群建立太空站的科学家成了了一个叛变组织，头头是一个东欧女人——她到处巡游，专门偷太空方面的器材，好想办法回到月球去把某个能量源弄到手。而最近一次...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

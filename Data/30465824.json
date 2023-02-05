@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "七剑下天山之修罗眼",
+  "url": "/subject/30465824/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2549538969.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318189/",
+      "name": "蓝志伟 Francis Nam Chi-Wai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368665/",
+      "name": "苏悦年 Yuenian Su"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316194/",
+      "name": "张倬闻 Zhuowen Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321823/",
+      "name": "陈洁 Jie Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410019/",
+      "name": "安紫依 Ziyi An"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387705/",
+      "name": "张浩 Hao Zhang"
+    }
+  ]
+,
+  "datePublished": "2019-03-08",
+  "genre": ["\u7231\u60c5", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H27M",
+  "description": "江湖传闻，修罗山中，隐世高人神帝和魔凰双修，魔凰修得魔眼，一朝入魔涂害江湖，神帝为遏制魔凰魔性，修得神眼。魔眼可修得金刚不坏之身，使人功力大增，而神眼则可遏制魔眼。
+十六年前，修罗魔眼现世，江湖邪派神...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "512",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

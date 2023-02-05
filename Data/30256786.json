@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Gnashing",
+  "url": "/subject/30256786/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001454/",
+      "name": "Anthony Pierce Anthony Pierce"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001454/",
+      "name": "Anthony Pierce Anthony Pierce"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018380/",
+      "name": "罗尼·吉恩·贝尔维斯 Ronnie Gene Blevins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048217/",
+      "name": "迈克尔·帕克斯 Michael Parks"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魔国志2",
+  "url": "/subject/30190630/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2518790721.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325735/",
+      "name": "回宇 HuiYu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434906/",
+      "name": "王峥 Zheng Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350445/",
+      "name": "何育骏 Yujun He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430550/",
+      "name": "侯晓童 Xiaotong Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374389/",
+      "name": "张贺茗 Heming Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394485/",
+      "name": "石雪婧 Xuejing Shi"
+    }
+  ]
+,
+  "datePublished": "2018-04-06",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H28M",
+  "description": "本片讲述曹操请袁绍担任十八路大军盟主讨伐董卓，袁绍却觊觎风遁天书，孙坚更是想杀掉曹操为妹妹报仇，
+董卓帐下吕布本就无人能敌，其又暗藏虎遁天书加持士兵以一当十，曹操凭借风遁天书力挽狂澜杀死魔化的董卓，洛...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

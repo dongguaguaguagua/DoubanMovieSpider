@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "永恒之光 Lux Æterna",
+  "url": "/subject/33434995/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2557387034.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014011/",
+      "name": "加斯帕·诺 Gaspar Noé"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014011/",
+      "name": "加斯帕·诺 Gaspar Noé"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054522/",
+      "name": "夏洛特·甘斯布 Charlotte Gainsbourg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036725/",
+      "name": "碧翠斯·黛尔 Béatrice Dalle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349161/",
+      "name": "卡尔·格洛斯曼 Karl Glusman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1262105/",
+      "name": "阿比·丽 Abbey Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385669/",
+      "name": "费利克斯·马利陶德 Félix Maritaud"
+    }
+  ]
+,
+  "datePublished": "2019-05-18",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H5M",
+  "description": "两位女演员（夏洛特·甘斯布、碧翠斯·黛尔）讲述女巫的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "919",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

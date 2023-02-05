@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蜜蜂少女队2",
+  "url": "/subject/30192088/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528168307.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1469395/",
+      "name": "李晓彤 Xiaotong Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395215/",
+      "name": "徐梦洁 Mengjie Xu"
+    }
+  ]
+,
+  "datePublished": "2018-04-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H15M",
+  "description": "通过层层努力进入蜜蜂少女队的大本营，三姐妹孔雪儿、罗姝涵、张希雅倍感兴奋。但是练习生的道路不是一帆风顺。教官威廉对少女成员们倍加严厉，最后三姐妹能否顺利通过练习生的道路呢？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

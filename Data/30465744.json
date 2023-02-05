@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狂野状态 L&#39;état sauvage",
+  "url": "/subject/30465744/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2582433062.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011605/",
+      "name": "大卫·佩罗 David Perrault"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011605/",
+      "name": "大卫·佩罗 David Perrault"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176878/",
+      "name": "凯文·扬森斯 Kevin Janssens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339549/",
+      "name": "爱丽丝·伊萨 Alice Isaaz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018225/",
+      "name": "黛博拉·弗朗索瓦 Déborah François"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050557/",
+      "name": "布鲁诺·托德契尼 Bruno Todeschini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339376/",
+      "name": "康斯坦斯·多利 Constance Dollé"
+    }
+  ]
+,
+  "datePublished": "2020-02-26",
+  "genre": ["\u7231\u60c5", "\u897f\u90e8"],
+  "duration": "PT1H58M",
+  "description": "When the American Civil War breaks out, a family of french settlers must abandon their Missouri home...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鼠宝跳街舞 Groove Tails",
+  "url": "/subject/26782385/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309514/",
+      "name": "卡梅伦·胡德 Cameron Hood"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280989/",
+      "name": "乔尔·科恩 Joel Cohen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298012/",
+      "name": "亚历克·索科洛 Alec Sokolow"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036329/",
+      "name": "杰米·福克斯 Jamie Foxx"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014003/",
+      "name": "戴夫·巴蒂斯塔 Dave Bautista"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "戴夫·巴蒂斯塔将为动画片[鼠宝跳街舞](Groove Tails，暂译)献声，该片由杰米·福克斯配音并任制片。曾任[驯龙高手]动画设计的卡梅伦·胡德执导筒。编剧乔尔·科恩、亚历克·索科洛([加菲猫2]...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

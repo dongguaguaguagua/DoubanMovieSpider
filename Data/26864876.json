@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "坦帕 Tampa",
+  "url": "/subject/26864876/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013996/",
+      "name": "哈莫尼·科林 Harmony Korine"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438663/",
+      "name": "阿丽莎·纳汀 Alissa Nutting"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "哈莫尼·科林（Harmony Korine）从来不怵争议，继2012年的《春假》之后，他又将目光锁到描写师生恋的小说《坦帕》（Tampa），准备把这部极具争议的作品搬上银幕。
+《坦帕》由美国女作家艾丽...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

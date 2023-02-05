@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "斩毒行动",
+  "url": "/subject/33404051/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553199155.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274703/",
+      "name": "李幼斌 Youbin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275741/",
+      "name": "张光北 Guangbei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414175/",
+      "name": "李雨桐 "
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "作为文化项目里反映缉毒题材的电影《斩毒行动》以“枪战”、“战友情”、“卧底”、“父子情”作为影片的看点，拍摄地分别于云南、缅甸、泰国进行，是一部体现毒枭、悍匪、背叛、枪战、警方、睿智、英勇、战斗、亲情...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

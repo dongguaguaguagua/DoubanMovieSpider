@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "滴血的青春",
+  "url": "/subject/33393395/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2552466788.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404114/",
+      "name": "徐依所 Yisuo Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436067/",
+      "name": "林夕 Xi Lin"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H49M",
+  "description": "本片讲述了凌娇因为暗恋狂澜的男朋友,狂澜找李兰、杨琪、耗子等人一起对凌娇实施了暴力殴打,随后浩子强奸了凌娇。可怜的凌娇因受不了屈辱服毒自尽,狂澜等人心里忐忑不安。事情远还没有结束,接下来发生的一系列离...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

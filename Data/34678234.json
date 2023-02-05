@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "巴黎单身公寓 Clément, Alex et tous les autres",
+  "url": "/subject/34678234/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2563760649.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319923/",
+      "name": "郭承衢 Cheng Chui Kuo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319923/",
+      "name": "郭承衢 Cheng Chui Kuo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356041/",
+      "name": "大卫·莫拉 David Mora"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423420/",
+      "name": "贝拉明·阿卜杜勒马莱克 Bellamine Abdelmalek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1058177/",
+      "name": "纳迪娜·阿拉里 Nadine Alari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1261921/",
+      "name": " Dimitra Kontou"
+    }
+  ]
+,
+  "datePublished": "2019-03-25",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H15M",
+  "description": "巴黎完美公寓找室友，這回只找 LGBTQ 好朋友。 電影導演克萊蒙跟男友大衛談不攏，大衛要搬去法 國南部工作，克萊蒙只好忍痛分手。大衛前腳才剛 搬出去，克萊蒙和好友亞麗絲就忙著替公寓找室 友。為了找到...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "488",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

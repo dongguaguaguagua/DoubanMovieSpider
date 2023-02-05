@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "呼伦贝尔城",
+  "url": "/subject/27602052/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568007142.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316856/",
+      "name": "涂们 Tumen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316856/",
+      "name": "涂们 Tumen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417906/",
+      "name": "伊力琦 Liqi Yi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315483/",
+      "name": "萨仁高娃 Sa Ren Gao Wa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418728/",
+      "name": "阿尔德那 Aer Dena"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418729/",
+      "name": "阿茹娜 Aru Na"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421759/",
+      "name": "余忠 Zhong Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420098/",
+      "name": "吉日嘎拉 Ji Ri Ga La"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421760/",
+      "name": "阿丽玛 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421761/",
+      "name": "乌仁朝鲁门 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421762/",
+      "name": "阿柔娜 "
+    }
+  ]
+,
+  "datePublished": "2019-06-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "电影《呼伦贝尔城》是中国少数民族电影工程中一部反映和描写鄂温克族文化的故事影片。电影讲述了由于大清国西北边塞屡遭匪患挑衅，呼伦贝尔副都统衙门派出索伦部将士奔赴陕甘北部补营，彻底消灭匪患，安抚边民。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

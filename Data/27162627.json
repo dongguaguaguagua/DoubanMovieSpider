@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "野马 The Mustang",
+  "url": "/subject/27162627/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2543279103.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413554/",
+      "name": "劳瑞·德·克莱蒙特-托奈尔 Laure de Clermont-Tonnerre"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1226969/",
+      "name": "莫娜·法斯特欧德 Mona Fastvold"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417685/",
+      "name": "布洛克·诺曼·布洛克 Brock Norman Brock"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413554/",
+      "name": "劳瑞·德·克莱蒙特-托奈尔 Laure de Clermont-Tonnerre"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1148622/",
+      "name": "马提亚斯·修奈尔 Matthias Schoenaerts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351529/",
+      "name": "杰森·米切尔 Jason Mitchell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019069/",
+      "name": "布鲁斯·邓恩 Bruce Dern"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333777/",
+      "name": "吉第安·艾朵 Gideon Adlon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031898/",
+      "name": "康妮·布里登 Connie Britton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004844/",
+      "name": "乔什·斯图沃特 Josh Stewart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417686/",
+      "name": "托马斯·史密斯 Thomas Smittle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319474/",
+      "name": "诺尔·古格雷米 Noel Gugliemi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391974/",
+      "name": "凯莉·理查德森 Kelly Richardson"
+    }
+  ]
+,
+  "datePublished": "2019-01-31",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H36M",
+  "description": "法国导演Laure de Clermont-Tonnerre(《纯真曲》《追忆似水年华》)执导并同Mona Fastvold(《战前童年》《梦游者》)和Brock Norman Brock(《国境卫士...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4932",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

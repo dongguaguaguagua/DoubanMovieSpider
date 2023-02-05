@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "ABCD: American-Born Confused Desi",
+  "url": "/subject/33458771/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2557495793.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426794/",
+      "name": "托维诺·托马斯 Tovino Thomas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477709/",
+      "name": "阿卢·西里什 Allu Sirish"
+    }
+  ]
+,
+  "datePublished": "2019-05-16",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

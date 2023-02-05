@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "真爱不迟到",
+  "url": "/subject/30467175/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553093032.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339824/",
+      "name": "马雍 Yong Ma"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414125/",
+      "name": "芫玉 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355355/",
+      "name": "邱昊奇 Hao-chi Chiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365813/",
+      "name": "崔菁格 Jingge Cui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314412/",
+      "name": "李志希 Benjamin Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414127/",
+      "name": "何承熹 Chengxi He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414128/",
+      "name": "梁骞 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414129/",
+      "name": "葛子扬 Ziyang Ge"
+    }
+  ]
+,
+  "datePublished": "2019-05-20",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H41M",
+  "description": "杨幻儿（崔菁格饰）、李嘉珍（何承熹饰）和齐郁芳（梁骞饰）是三个多年好友。虽已年过三十，却一直保持单身。面对感情的问题，她们不约而同地表现出被动的态度。纵使她们曾经伤痕累累的情感经历令她们对感情望而却步...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

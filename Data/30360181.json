@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乒临城下",
+  "url": "/subject/30360181/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537870482.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397041/",
+      "name": "张洪 Hong Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397785/",
+      "name": "赵明 Ming Zhao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406520/",
+      "name": "花白 Dayu Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343493/",
+      "name": "彭凌 Ling Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323817/",
+      "name": "陆翊 Yi Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317599/",
+      "name": "张立威 Laap Wai Cheung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314402/",
+      "name": "林子聪 Tze Chung Lam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008125/",
+      "name": "梁家仁 Ka-Yan Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274445/",
+      "name": "苑琼丹 King-Tan Yuen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301215/",
+      "name": "黄一飞 Yut Fei Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409301/",
+      "name": "宋恺 Kai Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414505/",
+      "name": "王紫 Zi Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u53e4\u88c5", "\u8fd0\u52a8"],
+  "duration": "",
+  "description": "民国初年，国内局势动荡，外强环伺，日本提出体育援助计划，妄图以此为契机暗地图谋中国领土，清城作为日本建立兵工厂的首选之地，一个从没有听说过的桌网球运动被带入城内。清城之中，江湖八门，隐藏民间的高手涌现...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

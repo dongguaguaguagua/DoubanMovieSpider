@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不是一两个 Ni une ni deux",
+  "url": "/subject/30465272/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2552995408.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339284/",
+      "name": "安娜·吉亚菲利 Anne Giafferi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339284/",
+      "name": "安娜·吉亚菲利 Anne Giafferi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014333/",
+      "name": "玛蒂尔德·瑟妮 Mathilde Seigner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050631/",
+      "name": "玛丽-安娜·夏泽尔 Marie-Anne Chazel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050803/",
+      "name": "弗朗索瓦-格扎维埃·德梅松 François-Xavier Demaison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1224710/",
+      "name": "阿里耶·埃尔马莱 Arié Elmaleh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1068208/",
+      "name": "尼古拉斯·布赖恩松 Nicolas Briançon"
+    }
+  ]
+,
+  "datePublished": "2019-05-29",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "After a disastrous lip injection, capricious and selfish film star Julie Varenne is in a total panic...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们回家吧",
+  "url": "/subject/30433476/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545576041.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360605/",
+      "name": "邱晓军 Xiaojun Qiu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410192/",
+      "name": "冯家胜 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360605/",
+      "name": "邱晓军 Xiaojun Qiu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023948/",
+      "name": "万梓良 Alex Man"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410030/",
+      "name": "王瑛瑛 Yingying Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369613/",
+      "name": "文熙 Xi Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410031/",
+      "name": "曹绍钦 Shaoqin Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410032/",
+      "name": "黄依诺 Yinuo Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410033/",
+      "name": "王镇洋 Zhenyang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410034/",
+      "name": "陈浩然 Haoran Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410035/",
+      "name": "姜宥如 Youru Jiang"
+    }
+  ]
+,
+  "datePublished": "2019-01-30",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H40M",
+  "description": "都市女孩周婷婷（王瑛瑛 饰）怀着与父亲（万梓良 饰）多年难解的心结，放弃城市生活来到半山小学支教，被留守儿童对父母回家的期盼所打动。在周父的暗中帮助下，婷婷男友于海洋（文熙 饰）来到半山村发展现代旅游...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

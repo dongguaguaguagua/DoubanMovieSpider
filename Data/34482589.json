@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们的四十年",
+  "url": "/subject/34482589/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2565749240.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290001/",
+      "name": "李易祥 Yixiang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322071/",
+      "name": "鲍振江 Zhenjiang Bao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420063/",
+      "name": "李振伟 Zhenwei Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322071/",
+      "name": "鲍振江 Zhenjiang Bao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420302/",
+      "name": "郭壮 Zhuang Guo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290001/",
+      "name": "李易祥 Yixiang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322071/",
+      "name": "鲍振江 Zhenjiang Bao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328436/",
+      "name": "金宏 Hong Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395581/",
+      "name": "李海超 Haichao Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388267/",
+      "name": "郑亚龙 Yalong Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340169/",
+      "name": "曹随风 Suifeng Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420064/",
+      "name": "宋小春 Xiaochun Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420065/",
+      "name": "王梦瑶 Mengyao Wang"
+    }
+  ]
+,
+  "datePublished": "2019-08-16",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H34M",
+  "description": "1978年，鲍振江在开封市戏曲学校学戏毕业，学校的毕业汇演剧目是《包龙图》，就在毕业汇演之前，他最好的朋友金宏腿脚受伤不能上场演出了。40年后，鲍振江、李易祥一起踏上去往美国之路，和当年戏校同学一起在...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "277",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "仕女图",
+  "url": "/subject/34440182/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2577830509.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365409/",
+      "name": "李遥波 Yaobo Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394485/",
+      "name": "石雪婧 Xuejing Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364685/",
+      "name": "何其炜 Qiwei He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368470/",
+      "name": "许和琪 Angela Hsu"
+    }
+  ]
+,
+  "datePublished": "2020-01-03",
+  "genre": ["\u7231\u60c5", "\u53e4\u88c5"],
+  "duration": "PT1H38M",
+  "description": "讲述赵家之女赵织织阴差阳错与男主段子矜相爱，而后又发现两家势不两立，无法走到一起的虐恋故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "854",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

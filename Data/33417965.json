@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "喀布尔的燕子 Les hirondelles de Kaboul",
+  "url": "/subject/33417965/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554000025.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041551/",
+      "name": "扎布·布雷特曼 Zabou Breitman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415033/",
+      "name": "伊利亚·戈贝-梅维勒克 Eléa Gobbé-Mévellec"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041551/",
+      "name": "扎布·布雷特曼 Zabou Breitman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015670/",
+      "name": "Yasmina Khadra Yasmina Khadra"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036728/",
+      "name": "西娅姆·阿巴斯 Hiam Abbass"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354321/",
+      "name": "琪塔·昂赫 Zita Hanrot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324797/",
+      "name": "斯万·阿劳德 Swann Arlaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032485/",
+      "name": "西蒙·阿布卡瑞安 Simon Abkarian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431259/",
+      "name": "塞巴斯蒂安·普德鲁 Sébastien Pouderoux"
+    }
+  ]
+,
+  "datePublished": "2019-05-16",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H20M",
+  "description": "1998 年，阿富汗首都喀布尔受塔利班组织无情摧残，在歧视女性的政权下，两对原本无交集的夫妻，却因一场意外让生命有了改变。身为艺术家的她虽然穿著罩袍，但内心却渴望与心爱的丈夫在街上自由牵手、拥抱。身为...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "845",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

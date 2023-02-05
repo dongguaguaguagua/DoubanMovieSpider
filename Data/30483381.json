@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "巴拉巴 Varavva",
+  "url": "/subject/30483381/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555940637.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416423/",
+      "name": "叶夫根尼·叶梅林 Evgeniy Emelin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418672/",
+      "name": "帕维尔·克莱诺夫 Pavel Kraynov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474425/",
+      "name": "雷吉娜·卡基莫娃 Regina Khakimova"
+    }
+  ]
+,
+  "datePublished": "2019-04-25",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2"],
+  "duration": "PT1H57M",
+  "description": "根据圣经故事改编，讲述被耶稣救下的大盗巴拉巴想要知道换下他的究竟是谁",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

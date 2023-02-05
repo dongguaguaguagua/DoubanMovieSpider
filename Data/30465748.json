@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "万物迷踪 Les Particules",
+  "url": "/subject/30465748/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2555895023.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415298/",
+      "name": "布雷兹·阿里松 Blaise Harrison"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415298/",
+      "name": "布雷兹·阿里松 Blaise Harrison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338362/",
+      "name": "玛里埃特·黛塞尔 Mariette Désert"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-05-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "影片讲述汝拉山脚，17岁的PA与一伙朋友去年在上高中，大型强子对撞机在地下400英尺的地方，探索未知的粒子。冬季到来，PA开始发觉周围的世界在移动，他开始看到有东西在发光，景观变得异常，熟悉的生态系统...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "154",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

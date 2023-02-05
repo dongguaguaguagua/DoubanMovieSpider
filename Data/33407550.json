@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Dark Forces",
+  "url": "/subject/33407550/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311251/",
+      "name": "安东尼·奥布莱恩 Anthony O&#39;Brien"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1179287/",
+      "name": "Mark Sayre Mark Sayre"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000195/",
+      "name": "奥兰多·琼斯 Orlando Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343908/",
+      "name": "史蒂文·斯沃德林 Steven Swadling"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "在从脑部手术中恢复的过程中，一位著名的好莱坞特效艺术家被他自己的恐怖电影中可怕的生物和灰熊场景所困扰。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

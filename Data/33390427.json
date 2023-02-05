@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Hacksaw",
+  "url": "/subject/33390427/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2552333015.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257453/",
+      "name": "考特妮·帕姆 Cortney Palm"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H15M",
+  "description": "A young couple traveling across the rural outskirts of California, go off course by stopping at an a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

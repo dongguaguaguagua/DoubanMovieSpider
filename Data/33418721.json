@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "陵水谣",
+  "url": "/subject/33418721/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557215287.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353455/",
+      "name": "江流 Liu Jiang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353455/",
+      "name": "江流 Liu Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400524/",
+      "name": "维克多·皮萨诺 Victor Pisano"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320287/",
+      "name": "宋禹 Yu Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1084453/",
+      "name": "伊莲娜·德罗佩科 Yelena Drapeko"
+    }
+  ]
+,
+  "datePublished": "2019-05-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "电影《陵水谣》通过讲述二十年前中国青年郑玉杰和俄罗斯女大学生安娜悲欢离合的爱情故事，讴歌了新的国际形势下两国人民血乳交融的友谊，对夯实中俄两国友好的民意基础具有现实意义和历史意义。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "热血无赖 Sleeping Dogs",
+  "url": "/subject/26988005/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533647376.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280564/",
+      "name": "陈大明 Daming Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345932/",
+      "name": "雅各布·克拉鲁普 Jacob Krarup"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025194/",
+      "name": "甄子丹 Donnie Yen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "95年，两名警察前往俄罗斯执行任务，将被俄方抓获的逃犯带回国内，但逃犯联手当地黑帮越狱逃走。10年后，已经退休的警察，移居美国在一家餐馆当上一名拉面师，并在美国和那名逃犯再次相遇。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

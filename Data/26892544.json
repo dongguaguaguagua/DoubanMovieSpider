@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "自愿的一年 Das freiwillige Jahr",
+  "url": "/subject/26892544/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2582309704.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037935/",
+      "name": "乌利胥·柯雷 Ulrich Köhler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011298/",
+      "name": "汉纳·温克勒 Henner Winckler"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037935/",
+      "name": "乌利胥·柯雷 Ulrich Köhler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011298/",
+      "name": "汉纳·温克勒 Henner Winckler"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324998/",
+      "name": "塞巴斯蒂安·鲁道夫 Sebastian Rudolph"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332775/",
+      "name": "托马斯·舒伯特 Thomas Schubert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446977/",
+      "name": "卡琳·鲁弗 Katrin Röver"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390974/",
+      "name": "Margarita Breitkreiz Margarita Breitkreiz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293230/",
+      "name": "Daniel Nocke Daniel Nocke"
+    }
+  ]
+,
+  "datePublished": "2019-08-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

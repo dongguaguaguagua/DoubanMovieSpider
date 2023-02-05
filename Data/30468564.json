@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "当心小孩 Barn",
+  "url": "/subject/30468564/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2563824806.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423805/",
+      "name": "达格·约翰·豪格鲁德 Dag Johan Haugerud"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399274/",
+      "name": "亨利特·斯蒂恩斯特鲁普 Henriette Steenstrup"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428506/",
+      "name": "简·冈纳·勒伊斯 Jan Gunnar Røise"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101538/",
+      "name": "托尔比约恩·哈尔 Thorbjørn Harr"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410049/",
+      "name": "安德莉亚·巴伦·郝威格 Andrea Bræin Hovig"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319490/",
+      "name": "汉斯·奥拉夫·布雷内 Hans Olav Brenner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1175954/",
+      "name": "亚当·帕森 Adam Pålsson"
+    }
+  ]
+,
+  "datePublished": "2019-09-03",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H37M",
+  "description": "莱克（13岁）是工党一位著名政客的女儿，她意外地殴打了她的同学杰米，杰米是当地一位右翼政客的儿子。莱克声称杰米的死是一场意外，但没人相信她。学校校长丽芙是一位理想主义者，她违背自己的政治信仰，一直与杰...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "156",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯狂吞噬者",
+  "url": "/subject/33436979/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555778147.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436075/",
+      "name": "刘文骏 Glenn"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436076/",
+      "name": "林俐袁 limao"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-05-16",
+  "genre": ["\u60ca\u609a", "\u6050\u6016", "\u707e\u96be"],
+  "duration": "PT1H15M",
+  "description": "网络电影《疯狂吞噬者》讲述的是，一场流星雨降临在一个名为盖亚的星球，全球居民一起见证了百年难得一见的天象奇观，但流星雨过后，一场突然爆发的神秘感染性疾病席卷了整个星球，星球居民被感染后会丧失理智，具有...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

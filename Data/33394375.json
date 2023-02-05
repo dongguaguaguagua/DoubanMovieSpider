@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "野外圣诞节 Holiday in the Wild",
+  "url": "/subject/33394375/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2571587874.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319334/",
+      "name": "厄尼·巴巴拉什 Ernie Barbarash"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322821/",
+      "name": "Neal H. Dobrofsky Neal H. Dobrofsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322822/",
+      "name": "Tippi Dobrofsky Tippi Dobrofsky"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031811/",
+      "name": "克里斯汀·戴维斯 Kristin Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041066/",
+      "name": "罗伯·劳 Rob Lowe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368571/",
+      "name": "科林·莫斯 Colin Moss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425700/",
+      "name": "Hayley Owen Hayley Owen"
+    }
+  ]
+,
+  "datePublished": "2019-11-01",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H25M",
+  "description": "丈夫突然结束他们的婚姻，空巢的凯特一个人踏上了前往非洲的第二次蜜月旅行之路，寻找人生的目标 — 以及潜在的恋情。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "431",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "五维地球",
+  "url": "/subject/34481757/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2562819757.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390939/",
+      "name": "马泓彬 Hongbin Ma"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390939/",
+      "name": "马泓彬 Hongbin Ma"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390939/",
+      "name": "马泓彬 Hongbin Ma"
+    }
+  ]
+,
+  "datePublished": "2019-07-16",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H2M",
+  "description": "三年前，著名的五维实验出现差错，导致外卖员马江维和实验物体一起被送往五维空间的另一个地球，这里没有人类、环境恶劣，马江维依靠顽强的生命力生存下去，等待地球上的科学家来救他；而地球上，物理系大学生李莉莉...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱至死亡 Loved To Death",
+  "url": "/subject/34676469/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2564025432.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328514/",
+      "name": "麦金利·弗里曼 McKinley Freeman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1128044/",
+      "name": "克里斯蒂·法瑞斯 Chrystee Pharris"
+    }
+  ]
+,
+  "datePublished": "2019-07-21",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "Inspired by actual events, &#34;Loved To Death&#34; follows Monica &#34;Williams&#34; and Jackson&#39;s &#34;Freeman&#34; relati...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

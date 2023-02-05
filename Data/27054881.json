@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "稀有动物 The Extincts",
+  "url": "/subject/27054881/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2629474360.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295925/",
+      "name": "温迪·罗杰斯 Wendy Rogers"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "Cirrina工作室将制作动画电影[稀有动物](The Extincts，暂译)，影片将由奥斯卡最佳短片[神奇飞书]导演威廉·乔西执导，根据同名童书改编，讲述误入密林的男孩意外发现许多神秘动物，其中一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

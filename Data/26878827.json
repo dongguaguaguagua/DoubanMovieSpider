@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "悟空奇遇记",
+  "url": "/subject/26878827/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2552558351.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330909/",
+      "name": "殷玉麒 Yuqi Yin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330909/",
+      "name": "殷玉麒 Yuqi Yin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378129/",
+      "name": "张震 Zhen Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360420/",
+      "name": "李姗姗 Shanshan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411430/",
+      "name": "元气纣 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334350/",
+      "name": "宝木中阳 Ming Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361373/",
+      "name": "叮当 Sheng Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410442/",
+      "name": "李璐 Lu Li"
+    }
+  ]
+,
+  "datePublished": "2019-05-01",
+  "genre": ["\u559c\u5267", "\u52a8\u753b"],
+  "duration": "PT1H28M",
+  "description": "成佛后无所事事的孙悟空在玉帝授意下来到人间，偶遇迷路的小鹿和收留它的小女孩晶晶，三人各带着不同目的出发。旅途中发生很多趣事和误会，三人渐渐加深了友谊。悟空逐渐意识到节日不论中外，都代表着对亲情的期待，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "858",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.8"
+  }
+}

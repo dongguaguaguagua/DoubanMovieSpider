@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑点 Black Site",
+  "url": "/subject/30183647/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517782840.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319144/",
+      "name": "劳伦·阿什利·卡特 Lauren Ashley Carter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484515/",
+      "name": "Samantha Schnitzler Samantha Schnitzler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484516/",
+      "name": "Phoebe Robinson-Rodrigues Phoebe Robinson-Rodrigues"
+    }
+  ]
+,
+  "datePublished": "2018-09-01",
+  "genre": ["\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "",
+  "description": "80&#39;s inspired John Carpenteresque Action. A young woman is forced to push past her worst fears and b...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

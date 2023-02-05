@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "睡眠实验 The Sleep Experiment",
+  "url": "/subject/30335878/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2882786569.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397702/",
+      "name": "格温·麦克艾尔文 Gwynne McElveen"
+    }
+  ]
+,
+  "datePublished": "2022-11-01",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H24M",
+  "description": "During the cold war, five prisoners are promised their freedom if they take part in an experiment in...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

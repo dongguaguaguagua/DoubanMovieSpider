@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "忧郁女孩 Das melancholische Mädchen",
+  "url": "/subject/30425213/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546900754.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410252/",
+      "name": "苏珊娜·海因里希 Susanne Heinrich"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410252/",
+      "name": "苏珊娜·海因里希 Susanne Heinrich"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436446/",
+      "name": "Felix Mayr Felix Mayr"
+    }
+  ]
+,
+  "datePublished": "2019-01-15",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u4f20\u8bb0"],
+  "duration": "PT1H20M",
+  "description": "忧郁的女孩有作家的街区，没有家。她在这个美丽的、新的、新自由主义的世界里，通过可能的生活方式的市场，在路上遇到了几个男人。
+一个女孩在城里游荡，寻找一个睡觉的地方。一路上，她遇到了年轻的母亲，她们虔诚...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

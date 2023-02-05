@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "剑影喋血",
+  "url": "/subject/30425875/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2544970858.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408595/",
+      "name": "皓乔 Shuaiqi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382373/",
+      "name": "向遨宇 Aoyu Xiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438472/",
+      "name": "常钰词 Yuci Chang"
+    }
+  ]
+,
+  "datePublished": "2019-01-08",
+  "genre": ["\u52a8\u4f5c", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H2M",
+  "description": "本片通过叙述了武侠世界中两位身怀血海深仇的年轻人江离然和修染，面对为祸武林的绝世高手黑煞，两人从彼此厌弃到为了共同的目标而决定联手，最后成功的击败黑煞，使天下武林人士免遭黑煞的荼毒。这一过程中两人经历...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

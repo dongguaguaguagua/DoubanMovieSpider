@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿提卡 Attica",
+  "url": "/subject/4740169/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022741/",
+      "name": "道格·里曼 Doug Liman"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027629/",
+      "name": "格弗瑞·弗莱彻 Geoffrey Fletcher"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "最佳改编剧本《珍爱》的编剧格弗瑞·弗莱彻并没有打算放缓工作的节奏，他正在为道格·里曼的新片《阿提卡》创作故事，并且筹划拍摄一部自编自导的新作品。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

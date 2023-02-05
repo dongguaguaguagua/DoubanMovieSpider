@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "逃离龙潭村",
+  "url": "/subject/34262336/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560161699.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364924/",
+      "name": "殷博 Bo Yin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313910/",
+      "name": "王小利 Xiaoli Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383945/",
+      "name": "王亮 Liang Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "讲述了四十岁的小龙潭村村霸，垄断了几个村的殡葬业以及外星学者搭乘机械外星人的飞船一起发生的鸡飞狗跳的喜剧故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

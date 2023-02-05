@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "浊鸟",
+  "url": "/subject/30192065/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2525983389.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429828/",
+      "name": "张万林 Wanlin Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429828/",
+      "name": "张万林 Wanlin Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403150/",
+      "name": "张玉峰 Yufeng Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371589/",
+      "name": "叶筱玮 Xiaowei Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337026/",
+      "name": "张紫淇 Ziqi Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-06-18",
+  "genre": ["\u60ac\u7591", "\u540c\u6027"],
+  "duration": "PT1H38M",
+  "description": "2005 年，小峰和李涛在经历了不甚成功的高考后，开始了他们的夏天。小峰来自于一个情感关系岌岌可危的家庭，而李涛则生活在终日争吵的环境之中。两个无聊的少年决定找点事干。小峰提议帮李涛报复欺侮他的赵凯，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

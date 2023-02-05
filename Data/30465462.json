@@ -1,0 +1,37 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "被沉默的女人 Nur eine Frau",
+  "url": "/subject/30465462/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553732757.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286916/",
+      "name": "雪莉·霍曼 Sherry Hormann"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-02-09",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u72af\u7f6a"],
+  "duration": "PT1H30M",
+  "description": "「我叫做艾娜。2005 年，我的弟弟開槍殺了我。」 艾娜的娓娓敘述中，時間回溯到七年前，她被停學帶
+回家中，按照傳統接受父母安排的婚姻。婚後丈夫家 暴，懷孕的艾娜逃回娘家，卻遭到家人的排擠羞辱， 忍無...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "84",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

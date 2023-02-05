@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红辣椒俱乐部",
+  "url": "/subject/33447630/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2556672054.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373184/",
+      "name": "刘方白 Fangbai Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382281/",
+      "name": "姚冠辰 Guanchen Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382280/",
+      "name": "祖乱乱 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420999/",
+      "name": "唐子涵 Zihan Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394287/",
+      "name": "李翰东 Handong Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344390/",
+      "name": "周小镔 Xiaobin Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311659/",
+      "name": "刘丹 Dan Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425547/",
+      "name": "徐少武 Shaowu Xu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "一个停留在过去的海滨小镇里，一位被公认为“失败者”的中年大叔孙大海，通过霹雳舞与老婆、儿子渐渐和解的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

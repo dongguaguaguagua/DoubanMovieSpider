@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雪盲 Snowblind",
+  "url": "/subject/27182650/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189119/",
+      "name": "堂·罗夫 Don Roff"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354169/",
+      "name": "福勒斯特·古德勒克 Forrest Goodluck"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "",
+  "description": "卡尔·厄本、阿什丽·格林尼、福勒斯特·古德勒克加盟动作新片[雪盲](Snowblind，暂译)。本片由马库斯·阿列克雷斯([飞人])执导，汉克·翁编剧。根据唐·罗夫同名小说改编，讲述一个美国士兵因家庭...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

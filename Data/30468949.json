@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "陈真",
+  "url": "/subject/30468949/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2870658120.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410467/",
+      "name": "金宁 Ning Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037662/",
+      "name": "李子雄 Waise Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470767/",
+      "name": "李浩 LeoLee"
+    }
+  ]
+,
+  "datePublished": "2022-06-15",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H26M",
+  "description": "民国年间，上海滩鱼龙混杂，帮派林立，日本“商人”伺机挑衅，野心勃勃。青年陈真(李浩 饰)为了凑够彩礼钱,带着周长生和刘福贵两个结拜兄弟闯荡上海。陈真重情义讲规矩，得到斧头帮帮主的赏识，三弟刘福贵好逸恶...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

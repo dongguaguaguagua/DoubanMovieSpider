@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "李学生",
+  "url": "/subject/30185214/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531578738.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399705/",
+      "name": "王虎 Hu Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399706/",
+      "name": "万济江 Jijiang Wan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399705/",
+      "name": "王虎 Hu Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320287/",
+      "name": "宋禹 Yu Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375222/",
+      "name": "滕艺 Yi Teng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399707/",
+      "name": "董博先 Boxian Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354129/",
+      "name": "李恒 Heng Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317816/",
+      "name": "吴铭 Ming Wu"
+    }
+  ]
+,
+  "datePublished": "2018-08-28",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT1H40M",
+  "description": "2000年，在商丘市睢阳区公庙乡中华楼村的李学生为了给妻子看病、照顾病卧于床的父亲，欠下乡亲们很多外债。为了把大家的钱还上，李学生听从父亲的建议，外出打工，同村的彩霞承担起照顾好他家的责任。
+李学生背...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

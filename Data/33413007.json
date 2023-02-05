@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恶疾：最后接触传染 Ill: Final Contagium",
+  "url": "/subject/33413007/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568789062.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454920/",
+      "name": "Lucio A. Rojas Lucio A. Rojas"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417225/",
+      "name": "菲利普·里奥 Felipe Ríos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051150/",
+      "name": "马克斯·埃文斯 Max Evans"
+    }
+  ]
+,
+  "datePublished": "2020-09-25",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "PT1H45M",
+  "description": "Follow a mad Chilean scientist&#39;s deadly virus escape the lab on contaminated currency worldwide: a t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "554",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.4"
+  }
+}

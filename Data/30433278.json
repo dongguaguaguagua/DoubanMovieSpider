@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "相思鸟之恋",
+  "url": "/subject/30433278/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545568971.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384689/",
+      "name": "谭飞燕 Feiyan Tan"
+    }
+  ]
+,
+  "datePublished": "2019-01-22",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "蒯闻圣是一个年近三十的男人，刚刚和女友分手没多久，事业又到达了瓶颈期裹足不前，感情和事业的双重打击让蒯闻圣感到非常的郁闷，仿佛他的整个世界都变成了灰色。一次偶然中，蒯闻圣邂逅了名为冷梧研（谭飞燕 饰）...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "883",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.4"
+  }
+}

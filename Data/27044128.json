@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "极速雪橇队 The Great Race",
+  "url": "/subject/27044128/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022913/",
+      "name": "布莱恩·普莱斯列 Brian Presley"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022913/",
+      "name": "布莱恩·普莱斯列 Brian Presley"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036434/",
+      "name": "特里特·威廉斯 Treat Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055549/",
+      "name": "亨利·托马斯 Henry Thomas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010630/",
+      "name": "布鲁斯·戴维森 Bruce Davison"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "特里特·威廉斯、亨利·托马斯、布鲁斯·戴维森确认主演布莱恩·普莱斯利自编自导处女作[极速雪橇队](The Great Race，暂译)。影片根据真实故事改编，讲述1925年，几个拉雪橇的人为预防白喉疾...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

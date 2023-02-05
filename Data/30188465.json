@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣诞倒计时 The Holiday Calendar",
+  "url": "/subject/30188465/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2538841414.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018254/",
+      "name": "布莱德利·沃尔什 Bradley Walsh"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049555/",
+      "name": "卡特琳娜·格兰厄姆 Katerina Graham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1458113/",
+      "name": "卡勒姆·肖尼克 Callum Shoniker"
+    }
+  ]
+,
+  "datePublished": "2018-11-02",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H35M",
+  "description": "《吸血鬼日记》女星卡特琳娜·格兰厄姆出演Netflix新片[圣诞日历](Christmas Calendar，暂译)，导演布莱德利·沃尔什，故事围绕一个女摄影师得到一本可预测未来的日历展开。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "161",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

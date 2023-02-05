@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "丛林历险记",
+  "url": "/subject/27180880/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2503190785.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337085/",
+      "name": "张若以 Ruoyi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252926/",
+      "name": "欧阳奋强 Fenqiang Ouyang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420119/",
+      "name": "吴中旭 Zhongxu Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252926/",
+      "name": "欧阳奋强 Fenqiang Ouyang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374611/",
+      "name": "谷文泽 Wenze Gu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372548/",
+      "name": "钟熠璠 YiFan Zhong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421117/",
+      "name": "亚历山大·克里斯蒂安·施泰茨 Alexander Christian Stetz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420120/",
+      "name": "许颂亚 Songya Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396316/",
+      "name": "郭万超 Wanchao Guo"
+    }
+  ]
+,
+  "datePublished": "2019-08-08",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5", "\u5192\u9669"],
+  "duration": "PT1H33M",
+  "description": "13名少年被送到原始森林参加真人秀节目，其中一组队员掉队后遇到了绑匪、盗猎者等重重困难，最后他们通过与不法分子斗智斗勇成功的走出了困境。 10岁的齐小志刚从国外回来，爸爸送他去参加一档丛林历险真人秀节...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

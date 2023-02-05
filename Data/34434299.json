@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "头上长角的少年 뿔을 가진 소년",
+  "url": "/subject/34434299/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559852378.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437004/",
+      "name": "朴柱炫 Joo-Hyun Park"
+    }
+  ]
+,
+  "datePublished": "2019-06-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H58M",
+  "description": "为了活下去的病人，为了赚钱的猎人和为了圆梦的商人都在四处寻找一个头上长角的少年。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

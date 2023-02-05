@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幽灵大师 ゴーストマスター",
+  "url": "/subject/30433552/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2576061628.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355215/",
+      "name": "楠野一郎 Ichirô Kusuno"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315155/",
+      "name": "三浦贵大 Takahiro Miura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023486/",
+      "name": "成海璃子 Riko Narumi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349118/",
+      "name": "板垣瑞生 Mizuki Itagaki"
+    }
+  ]
+,
+  "datePublished": "2019-12-06",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H28M",
+  "description": "废弃建筑物，片场被殭尸袭击，工作人员全力反击…
+神似《一尸到底》的电影架构，却产生了完全不同的结局下场：在片场被受欺负的助理编导黑泽明（跟日本电影大师同名同姓），决定重拍一部爱情电影，然而他临时重写的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "626",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

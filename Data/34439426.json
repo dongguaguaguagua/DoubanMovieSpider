@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑桃皇后：贪婪 Queen of Spades: Avarice",
+  "url": "/subject/34439426/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2660293754.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1162251/",
+      "name": "帕特里克·怀特 Patrick White"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052628/",
+      "name": "约翰·安斯理 John Ainslie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396704/",
+      "name": "斯维亚托斯拉夫·波德加耶夫斯基 Svyatoslav Podgaevskiy"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108474/",
+      "name": "丹尼尔·卡什 Daniel Kash"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401483/",
+      "name": "艾娃·普雷斯顿 Ava Preston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352950/",
+      "name": "埃里克·奥斯本 Eric Osborne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426881/",
+      "name": "米克尔·康德 Mikael Conde"
+    }
+  ]
+,
+  "datePublished": "2021-06-15",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

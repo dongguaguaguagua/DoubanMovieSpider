@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绝地营救",
+  "url": "/subject/30438540/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546005818.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352657/",
+      "name": "曹雷 Lei Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383250/",
+      "name": "程思嘉 Sijia Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441429/",
+      "name": "杨云棹 Yunzhao Yang"
+    }
+  ]
+,
+  "datePublished": "2019-01-28",
+  "genre": ["\u52a8\u4f5c", "\u6218\u4e89", "\u5192\u9669"],
+  "duration": "PT1H36M",
+  "description": "退休后的考古队长郑文初被绑架至东南亚某第三国家进行黑市古董交易的真伪鉴定。郑文初出逃后联合武装警卫公司追缴了流失的国宝金印，并且阻止了黑势力盗掘皇陵的计划",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

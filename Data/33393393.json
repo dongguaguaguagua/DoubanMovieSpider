@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "少年阿飞",
+  "url": "/subject/33393393/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2552466701.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404114/",
+      "name": "徐依所 Yisuo Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439819/",
+      "name": "尚李蓉慧 Ronghui Shangli"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "高考落榜后的阿飞(徐依所饰)在父亲的训斥下度过煎熬的青春末期，阿飞(徐依所饰)不想就这样平安无事的度过自己的一生，为了否定父亲(胡太伟饰)眼中的无能，阿飞(徐依所饰)决定到大城市闯荡属于自己的人生，经...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

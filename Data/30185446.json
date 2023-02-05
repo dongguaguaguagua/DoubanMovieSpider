@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "年轻造未来浙江卫视春季盛典",
+  "url": "/subject/30185446/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2538022599.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339594/",
+      "name": "王俊凯 Karry Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274223/",
+      "name": "张一山 Yishan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314124/",
+      "name": "杨紫 Andy Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041390/",
+      "name": "郭富城 Aaron Kwok"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312922/",
+      "name": "张靓颖 Jane Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-03-31",
+  "genre": ["\u6b4c\u821e", "\u771f\u4eba\u79c0"],
+  "duration": "PT2H0M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

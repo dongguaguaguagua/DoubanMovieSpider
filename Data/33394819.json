@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "噬魂剑",
+  "url": "/subject/33394819/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557863379.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413971/",
+      "name": "李飞 Fei Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413972/",
+      "name": "黄军荣 Junrong Huang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413972/",
+      "name": "黄军荣 Junrong Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413974/",
+      "name": "余丽 Li Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413973/",
+      "name": "马永康 Yongkang Ma"
+    }
+  ]
+,
+  "datePublished": "2019-06-01",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H20M",
+  "description": "清苑境内江湖第一大邪派青月堂突然一夜惨造灭门屠杀，堂主雷烈更是被吸成干尸，引起整个江湖的轰动，江湖传言“魔兵重临，冰魄噬魂；战狂梵天，灭世至尊”都说是魔兵噬魂剑所为。
+江湖突然有消失二十年的噬魂剑传言...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

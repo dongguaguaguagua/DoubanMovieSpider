@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱幕重拍 Love, Take Two",
+  "url": "/subject/34439413/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2560156241.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356517/",
+      "name": "艾伦·哈蒙 Allan Harmon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1299961/",
+      "name": "Sib Ventress Sib Ventress"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384326/",
+      "name": "坦娅·钱普 Tanya Champoux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383582/",
+      "name": "杰西·弗雷泽 Jessie Fraser"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1180220/",
+      "name": "希瑟·亨梅斯 Heather Hemmens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1238338/",
+      "name": "小科尼利厄斯·史密斯 Cornelius Smith Jr."
+    }
+  ]
+,
+  "datePublished": "2019-06-15",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "When the producer of a reality competition wedding show returns to her college town to film an episo...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

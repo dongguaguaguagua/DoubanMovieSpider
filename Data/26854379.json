@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "速求共眠",
+  "url": "/subject/26854379/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2525010942.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274303/",
+      "name": "吕乐 Yue Lü"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339388/",
+      "name": "阎连科 Lianke Yan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314833/",
+      "name": "沈佳妮 Jiani Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290001/",
+      "name": "李易祥 Yixiang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316331/",
+      "name": "田雨 Yu Tian"
+    }
+  ]
+,
+  "datePublished": "2018-06-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "这是一个发生在大城市里的两个小人物的故事。50多岁在建筑工地打工的河南农民工李撞，20多岁刚刚研究生毕业的北大高才女学生李静，两个看似绝不可能有交集的人生轨迹，在各自的人生低落和困惑时期相遇，在短暂的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

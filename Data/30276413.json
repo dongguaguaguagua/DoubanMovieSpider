@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "舞动吧！少年",
+  "url": "/subject/30276413/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2555119986.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412048/",
+      "name": "窦微 Wei Dou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418882/",
+      "name": "钟林 Lin Zhong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388052/",
+      "name": "雷俊 Jun Lei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418858/",
+      "name": "张嗣诚 Sicheng Zhang"
+    }
+  ]
+,
+  "datePublished": "2019-07-12",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H34M",
+  "description": "一群少年对街舞的逐梦之旅，期间有父子之间的亲情矛盾，有街舞和广场舞的激烈对决，最后还有城市少年和留守少年的那份纯洁友谊",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

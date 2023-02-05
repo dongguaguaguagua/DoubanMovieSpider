@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "对决 Versus",
+  "url": "/subject/30426758/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545738153.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356257/",
+      "name": "索菲·科维斯·布隆 Sophie Kovess-Brun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356256/",
+      "name": "欧文·奥瓜亚尔 Erwan Augoyard"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366965/",
+      "name": "萝拉·兰 Lola Le Lann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036931/",
+      "name": "米夏埃尔·科恩 Michaël Cohen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429814/",
+      "name": "维克多·贝尔蒙多 Victor Belmondo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402918/",
+      "name": "伊恩·梅拉布 Inès Melab"
+    }
+  ]
+,
+  "datePublished": "2019-05-08",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H20M",
+  "description": "Achille, a handsome Parisian teenager from a wealthy family, is the victim of a violent assault. Sen...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

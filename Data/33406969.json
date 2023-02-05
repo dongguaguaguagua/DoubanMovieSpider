@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海豹突击队大战奇妙外星人 Alien Warfare",
+  "url": "/subject/33406969/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553380376.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1201806/",
+      "name": "Ben Bailey Ben Bailey"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1170587/",
+      "name": "Clayton Snyder Clayton Snyder"
+    }
+  ]
+,
+  "datePublished": "2019-04-05",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H38M",
+  "description": "美国海军海豹部队在研究中心执行最高机密任务，然而科学家们陆续离奇失踪，还有其他生物伺机而动...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "91",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

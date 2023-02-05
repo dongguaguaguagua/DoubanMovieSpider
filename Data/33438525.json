@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的尹小姐",
+  "url": "/subject/33438525/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555800349.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374456/",
+      "name": "徐艺华 Yihua Xu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315041/",
+      "name": "林爽 Lin Shuang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322904/",
+      "name": "郑奇 Qi Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400443/",
+      "name": "火喻 Yu Huo"
+    }
+  ]
+,
+  "datePublished": "2019-05-08",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H26M",
+  "description": "尹胜男从小爱读悬疑、推理类小说，一心想当警察，成为探案高手。 当意外得知严阿姨家被盗了一把古董酒壶后，显得十分好奇，欲一探究竟。她通过中学同学赵崇明的行车记录仪找到了小偷，历经重重困难，终于将委托小偷...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

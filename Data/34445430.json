@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鬼女佣 เดอะ เมด",
+  "url": "/subject/34445430/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2605468868.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358546/",
+      "name": "普洛伊·索娜琳 Ploy Sornarin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209371/",
+      "name": "萨维卡·恰雅德 Savika Chaiyadej"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345520/",
+      "name": "提拉帕·萨扎顾 Thiraphat Sajakul"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366178/",
+      "name": " "
+    }
+  ]
+,
+  "datePublished": "2020-07-03",
+  "genre": ["\u6050\u6016", "\u540c\u6027"],
+  "duration": "PT1H40M",
+  "description": "年轻女生乔伊在别人家里做女佣，竟被前任女佣的鬼魂所缠上，进而发现了前任女佣死亡的秘密。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1458",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

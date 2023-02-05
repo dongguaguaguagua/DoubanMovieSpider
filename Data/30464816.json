@@ -1,0 +1,124 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蚂蚁 Fourmi",
+  "url": "/subject/30464816/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2558699273.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305292/",
+      "name": "朱利安·罗贝侬 Julien Rappeneau"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481532/",
+      "name": "阿图尔·拉佩拉 Artur Laperla"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305292/",
+      "name": "朱利安·罗贝侬 Julien Rappeneau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481533/",
+      "name": "马里奥·托雷西利亚斯 Mario Torrecillas"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338355/",
+      "name": "弗朗索瓦·达密安 François Damiens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406477/",
+      "name": "玛勒姆·帕坎 Maleaume Paquin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009174/",
+      "name": "安德烈·杜索里埃 André Dussollier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010628/",
+      "name": "露德温·塞尼耶 Ludivine Sagnier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387960/",
+      "name": "利蒂希亚·多施 Laetitia Dosch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481534/",
+      "name": "塞巴斯蒂安·查萨涅 Sébastien Chassagne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476413/",
+      "name": "马修·罗泽 Matthieu Rozé "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382777/",
+      "name": "凯瑟琳·戴夫尼尔 Catherine Davenier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333283/",
+      "name": "Jean-Philippe Goudroye Jean-Philippe Goudroye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1171542/",
+      "name": "Dimitri Michelsen Dimitri Michelsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339628/",
+      "name": "Nasser Zerkoun Nasser Zerkoun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450588/",
+      "name": "Nicolas Wanczycki Nicolas Wanczycki"
+    }
+  ]
+,
+  "datePublished": "2019-09-04",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H45M",
+  "description": "10岁的西奥在当地的一个足球俱乐部踢球，他有足够的天赋成为一个职业运动员。但是自从他的父亲开始酗酒并离婚后，生活开始变样了。而当他看着他的父亲慢慢地摧毁自己的生命时，他感到无能为力和焦虑，但他拒绝放弃...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "322",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.0"
+  }
+}

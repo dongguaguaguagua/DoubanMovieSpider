@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "柯德莉亚 Cordelia",
+  "url": "/subject/30181750/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2624378202.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297438/",
+      "name": "亚德里安·谢尔高德 Adrian Shergold"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334502/",
+      "name": "安东尼娅·坎贝尔-休斯 Antonia Campbell-Hughes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297438/",
+      "name": "亚德里安·谢尔高德 Adrian Shergold"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027154/",
+      "name": "迈克尔·刚本 Michael Gambon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013882/",
+      "name": "凯瑟琳·麦克马克 Catherine McCormack"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1206041/",
+      "name": "强尼·弗林 Johnny Flynn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334502/",
+      "name": "安东尼娅·坎贝尔-休斯 Antonia Campbell-Hughes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274988/",
+      "name": "戴维·里昂 David Leon"
+    }
+  ]
+,
+  "datePublished": "2019-09-25",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H28M",
+  "description": "莎莉·霍金斯为心理惊悚片[柯德莉亚]首次担任执行制片人。故事讲述一个被过去所困扰的年轻女人，独自在她自己的公寓时逐渐崩溃。该片由亚德里安·谢尔高德([欢乐守护者])执导，安东尼娅·坎贝尔·休斯主演，她...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "88",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

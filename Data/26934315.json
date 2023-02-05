@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鸿嘎鲁的奇妙旅行",
+  "url": "/subject/26934315/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338491/",
+      "name": "姚晓峰 Xiaofeng Yao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275044/",
+      "name": "张嘉益 Jiayi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276032/",
+      "name": "关晓彤 Xiaotong Guan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "【新戏选角】电影#鸿嘎鲁的奇妙旅行# 主演#张嘉译# @关晓彤 @小胖阿吉 #倪大红#，导演姚晓峰（代表作《虎妈猫爸》），拍摄地中国、新西兰。小胖阿吉曾经参演过电影《鬼吹灯之寻龙诀》，这也是张嘉译与关...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

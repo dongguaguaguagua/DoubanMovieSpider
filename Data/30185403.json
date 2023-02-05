@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心跳制作人",
+  "url": "/subject/30185403/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2518067041.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448408/",
+      "name": "王子甲 Zijia Wang"
+    }
+  ]
+,
+  "datePublished": "2019-05-20",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H10M",
+  "description": "《心跳制作人》是D七少年团专属影视作品——中国首部乙女向青春电影。影片讲述了平凡少女张小渔（王子甲饰）偶遇四位性格各异的超能力少年并一起圆梦的故事。D七少年团TEAM D成员周兆渊、熊艺文、热亚提和胡...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

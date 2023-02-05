@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死亡怪圈 Spiral",
+  "url": "/subject/34461636/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2606752568.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445377/",
+      "name": "科提斯·大卫·哈德 Kurtis David Harder"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378277/",
+      "name": "柯林·米尼汉 Colin Minihan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1251034/",
+      "name": "约翰·波利昆 John Poliquin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1231826/",
+      "name": "杰弗里·鲍耶-查普曼 Jeffrey Bowyer-Chapman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127899/",
+      "name": "洛奇林·莫罗 Lochlyn Munro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013904/",
+      "name": "钱德拉·韦斯特 Chandra West"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383776/",
+      "name": "泰·伍德 Ty Wood"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404079/",
+      "name": "托马斯·埃尔姆斯 Thomas Elms"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294714/",
+      "name": "亚伦·普尔 Aaron Poole"
+    }
+  ]
+,
+  "datePublished": "2019-08-25",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "From co-writer and producer Colin Minihan, director of past FrightFest favourites WHAT KEEPS YOU ALI...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

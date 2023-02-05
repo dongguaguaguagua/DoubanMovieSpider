@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寻车奇遇 Chopsticks",
+  "url": "/subject/33391781/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2557328205.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417278/",
+      "name": "萨钦·亚尔迪 Sachin Yardi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340595/",
+      "name": "拉胡尔·阿瓦特 Rahul Awate"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417278/",
+      "name": "萨钦·亚尔迪 Sachin Yardi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295088/",
+      "name": "维贾伊·拉齐 Vijay Raaz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032265/",
+      "name": "阿佩·代沃尔 Abhay Deol"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417277/",
+      "name": "米蒂拉·帕卡尔 Mithila Palkar"
+    }
+  ]
+,
+  "datePublished": "2019-05-31",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H40M",
+  "description": "《寻车奇遇》讲述了一个天资聪颖但缺乏自信的女孩，她在人生的各个阶段处处逃避。她揭开神秘的骗局，从一个喜欢山羊的疯狂孟买歹徒手中找回被偷走的车。在这个过程中，她重拾自信并开始变得阳光开朗。除了因参演 N...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "230",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

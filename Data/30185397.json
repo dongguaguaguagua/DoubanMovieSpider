@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "单行道",
+  "url": "/subject/30185397/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2571082611.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377256/",
+      "name": "黑文 Wen Hei"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377256/",
+      "name": "黑文 Wen Hei"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377256/",
+      "name": "黑文 Wen Hei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355799/",
+      "name": "孙继峰 Jifeng Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422336/",
+      "name": "蔡迎春 Yingchun Cai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424416/",
+      "name": "张福明 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372160/",
+      "name": "吴楠 Nan Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389031/",
+      "name": "乔新峰 Xinfeng Qiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373720/",
+      "name": "韩昊轩 Haoxuan Han"
+    }
+  ]
+,
+  "datePublished": "2019-10-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "青禅和哥哥是一对孤儿。哥哥发生了车祸，青禅总觉得哥哥的车祸是人为的。最后青禅在哥哥小永发生车祸的同一地点。也发生了一场车祸，苏醒过来后，才发现之前发生的一切都只是一个梦而已。
+影片让我们发现-----...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

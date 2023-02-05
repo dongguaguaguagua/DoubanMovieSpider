@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绿色的门 The Green Door",
+  "url": "/subject/30280939/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315646/",
+      "name": "卡桑德拉·玛格拉斯 Cassandra Magrath"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1205604/",
+      "name": "Dan O&#39;Connor Dan O&#39;Connor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074890/",
+      "name": "Don Bridges Don Bridges"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1064890/",
+      "name": "Luca Bizzarri Luca Bizzarri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1085191/",
+      "name": "卡尔林·费尔法克斯 Kaarin Fairfax"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "When fifteen year-old Sophia survives a fatal car accident leaving her an orphan, and with a battle ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

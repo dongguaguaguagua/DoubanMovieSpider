@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "仙猫传",
+  "url": "/subject/30449583/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546869545.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400601/",
+      "name": "李硕 Shuo Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350890/",
+      "name": "霍卫民 Weimin Huo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378954/",
+      "name": "靳美玲 Meiling Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342367/",
+      "name": "唐马儒 Maru Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463626/",
+      "name": "陈思澈 Sichen Chen"
+    }
+  ]
+,
+  "datePublished": "2019-02-08",
+  "genre": ["\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H4M",
+  "description": "电影讲述一只小猫被诗人陆游收留，在经典诗词文化的熏陶下，修炼化为拥有善良诗心的猫仙，在世间救死扶伤。传说拥有诗心便能发力无穷不生不灭，被残暴狡诈的法王觊觎，追杀猫仙获取诗心，受伤的猫仙化为原形恰好被爱...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

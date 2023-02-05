@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "0.0兆赫 0.0MHz",
+  "url": "/subject/30272986/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2556861001.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412088/",
+      "name": "刘善东 Seon-dong Yoo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412027/",
+      "name": "张觉 Jangjak"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323408/",
+      "name": "郑恩地 Eun-ji Jung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322621/",
+      "name": "李成烈 Sung-Yeol Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322333/",
+      "name": "崔允英 Yoon-yeong Choi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400257/",
+      "name": "申柱焕 Joo-hwan Shin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400255/",
+      "name": "郑元昌 Won-chang Jung"
+    }
+  ]
+,
+  "datePublished": "2019-05-29",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H41M",
+  "description": "该片改编自同名人气网漫，讲述曾经被鬼压床或者能看到过鬼等有过一些灵异体验的同好会会员们一同前往凶宅后经历的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6988",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

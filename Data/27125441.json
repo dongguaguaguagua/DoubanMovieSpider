@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "升龙",
+  "url": "/subject/27125441/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2497772681.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391313/",
+      "name": "张家杰 Jeff Cheung"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u8fd0\u52a8"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

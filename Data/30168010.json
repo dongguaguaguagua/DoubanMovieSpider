@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "山之巅 Debout sur la montagne",
+  "url": "/subject/30168010/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2570495573.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015725/",
+      "name": "塞巴斯蒂安·贝蓓德 Sébastien Betbeder"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015725/",
+      "name": "塞巴斯蒂安·贝蓓德 Sébastien Betbeder"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356491/",
+      "name": "威廉·勒布吉欧 William Lebghil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356169/",
+      "name": "巴斯蒂安·布永 Bastien Bouillon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318475/",
+      "name": "杰瑞米·埃尔卡伊姆 Jérémie Elkaïm"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406440/",
+      "name": "纪尧姆·拉贝 Guillaume Labbé"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410695/",
+      "name": "弗朗索瓦·夏托特 François Chattot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341719/",
+      "name": "拉巴·纳伊·乌费拉 Rabah Nait Oufella"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403074/",
+      "name": "保利娜·洛里拉德 Pauline Lorillard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166228/",
+      "name": "安德烈·维尔姆斯 André Wilms"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1062306/",
+      "name": "让-克劳德·古卢姆伯格 Jean-Claude Bolle-Reddat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1065579/",
+      "name": "Alain Blazquez Alain Blazquez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348844/",
+      "name": "伊兹雅·海格林 Izïa Higelin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476413/",
+      "name": "马修·罗泽 Matthieu Rozé "
+    }
+  ]
+,
+  "datePublished": "2019-10-30",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5192\u9669"],
+  "duration": "PT1H45M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

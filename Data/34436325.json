@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "逆光岁月",
+  "url": "/subject/34436325/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2589615671.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420964/",
+      "name": "冉吟啸 Yinxiao Ran"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420964/",
+      "name": "冉吟啸 Yinxiao Ran"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-06-13",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H20M",
+  "description": "影片讲述的是电影主人公易生，是一个是苦于家暴无从诉说的内向男孩，在校内经常收到欺负凌辱。直到他的生活里出现了一个品学兼优如同阳光一样的男孩。两个人因为偶然相遇而产生交集，他的生活有了翻天覆地的变化，两...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

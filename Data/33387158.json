@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奥菲斯恋歌 Orpheus&#39; Song",
+  "url": "/subject/33387158/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2593600731.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396946/",
+      "name": "托尔·伊本 Tor Iben"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396946/",
+      "name": "托尔·伊本 Tor Iben"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396944/",
+      "name": "朱利安·利克特 Julien Lickert"
+    }
+  ]
+,
+  "datePublished": "2019-06-21",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H12M",
+  "description": "宛如荷马史诗《奥德赛》的公路电影，为旅行者开辟了一个新的世界。来自柏林的两名年轻人赢得了希腊之旅。在短途旅行中，他们迷失在岛上，遇到一个了神秘生物，自称：赫拉克勒斯。后来在山洞里过夜，梦着一个奇怪的梦...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2253",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

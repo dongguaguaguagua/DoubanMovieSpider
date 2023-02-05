@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迎来黎明 ויהי בוקר",
+  "url": "/subject/26779564/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2665991274.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1288860/",
+      "name": "艾伦·科勒林 Eran Kolirin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1288860/",
+      "name": "艾伦·科勒林 Eran Kolirin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281835/",
+      "name": "萨利姆·道 Salim Dau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351225/",
+      "name": "哈利法·那图尔 Khalifa Natour"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328980/",
+      "name": "萨米尔·比沙特 Samer Bishart"
+    }
+  ]
+,
+  "datePublished": "2021-07-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "Sami thought he found his place in life, but then, without any conceivable reason, the Arab village ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "82",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

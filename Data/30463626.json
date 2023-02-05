@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "芬芳",
+  "url": "/subject/30463626/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2567750543.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421922/",
+      "name": "赵哲恩 Zhe&#39;en Zhao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421922/",
+      "name": "赵哲恩 Zhe&#39;en Zhao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317128/",
+      "name": "王泊文 Bowen Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409429/",
+      "name": "戴卓凝 Zhuoning Dai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392925/",
+      "name": "王炳翔 Bingxiang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391235/",
+      "name": "王珞嘉 Luojia Wang"
+    }
+  ]
+,
+  "datePublished": "2019-09-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "2010年8月7日晚至8日凌晨，甘肃省甘南州舟曲县发生强降雨引发泥石流灾害，当地数万人受灾。更令人痛心的是许多家庭支离破碎，许多幸存的孩子，或失去双亲，或受伤致残。在党中央的亲切关怀下，甘肃省以及兰州...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

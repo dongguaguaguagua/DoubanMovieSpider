@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "模仿吸血鬼 Mimesis Nosferatu",
+  "url": "/subject/30312811/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2532618680.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192069/",
+      "name": "阿伦·马尔多纳多 Allen Maldonado"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476741/",
+      "name": "克莉丝特尔·卢卡斯-佩里 Crystal Lucas-Perry"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A group of students at Harker Art Academy are working on an adaptation of F.W. Murnau’s classic Nosf...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "最后的日出",
+  "url": "/subject/30420068/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2548457568.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408537/",
+      "name": "任文 Wen Ren"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408537/",
+      "name": "任文 Wen Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411826/",
+      "name": "梅衍康 Yankang Mei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375176/",
+      "name": "宇敏 Min Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411827/",
+      "name": "李昳青 Yiqing Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366630/",
+      "name": "张珏 Jue Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411828/",
+      "name": "张苒 Ran Zhang"
+    }
+  ]
+,
+  "datePublished": "2019-02-22",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H44M",
+  "description": "在未来，地球上所有的化石能源都被消耗殆尽，人类全面进入了太阳能时代。能源公司开始全面的开发和控制太阳，人类社会逐渐向完全依赖太阳能Ⅱ型文明迈进。
+但在一次人类科学无法探明的天体活动中，太阳突然消失了。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1511",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

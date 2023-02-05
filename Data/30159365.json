@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玄虚解语 Bhaagamathie",
+  "url": "/subject/30159365/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2518876636.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1229458/",
+      "name": "安努舒卡·谢蒂 Anushka Shetty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428261/",
+      "name": "乌尼·穆坤丹 Unni Mukundan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467310/",
+      "name": "阿莎·莎拉特 Asha Sharath  "
+    }
+  ]
+,
+  "datePublished": "2018-01-26",
+  "genre": ["\u52a8\u4f5c", "\u6050\u6016", "\u5386\u53f2"],
+  "duration": "PT2H18M",
+  "description": "IAS officer Chanchala Reddy is imprisoned in a haunted house, while she is interrogated by law enfor...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

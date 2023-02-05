@@ -1,0 +1,31 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Charlie Chaplin 2",
+  "url": "/subject/30435545/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545731115.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-01-24",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H8M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

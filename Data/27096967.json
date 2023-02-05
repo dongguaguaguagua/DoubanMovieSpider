@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "合格丈夫 Manmarziyan",
+  "url": "/subject/27096967/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533905107.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050091/",
+      "name": "阿努拉格·卡施亚普 Anurag Kashyap"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356746/",
+      "name": "维杰·卡沙尔 Vicky Kaushal"
+    }
+  ]
+,
+  "datePublished": "2018-09-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H36M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

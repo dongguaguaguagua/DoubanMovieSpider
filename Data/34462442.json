@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "企鹅联盟 Penguin League",
+  "url": "/subject/34462442/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2562084110.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010287/",
+      "name": "托马斯·卡尔 Thomas Carr"
+    }
+  ]
+,
+  "datePublished": "2019-04-05",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H14M",
+  "description": "菲利普与佐伊是一对星际宇航企鹅，以航向无雀能至的外太空为志。他们乘着那艘平易近人、会说话的太空船“雪泥号”，在敬爱的斯黛拉船长带领下，身怀实地考察大本营的任务，向着星辰踏上了一番和平的探险。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

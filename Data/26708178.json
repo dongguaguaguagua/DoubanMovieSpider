@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "里米尼 Rimini",
+  "url": "/subject/26708178/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2868556454.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037065/",
+      "name": "尤里西·塞德尔 Ulrich Seidl"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037065/",
+      "name": "尤里西·塞德尔 Ulrich Seidl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326819/",
+      "name": "维罗妮卡·弗兰茨 Veronika Franz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1145956/",
+      "name": "汉斯-迈克尔·雷伯格 Hans-Michael Rehberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118150/",
+      "name": "克劳迪娅·马丁尼 Claudia Martini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041759/",
+      "name": "格奥尔格·弗里德里希 Georg Friedrich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334559/",
+      "name": "娜塔莉亚·巴拉诺娃 Natalya Baranova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474157/",
+      "name": "易卜拉欣·伊西克塔斯 Ibrahim Isiktas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483308/",
+      "name": "茵格·莫克斯 Inge Maux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483305/",
+      "name": "泰莎·哥特利彻 Tessa Göttlicher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483360/",
+      "name": "米夏埃尔·托马斯 Michael Thomas"
+    }
+  ]
+,
+  "datePublished": "2022-02-11",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H54M",
+  "description": "奥地利名导尤里西·塞德尔在轰动国际影坛的“天堂三部曲”多年后再出新作，故事讲述一名过气歌手在意大利渡假胜地，靠着为银发旅行团献唱、化身种马服务热情师奶来图得温饱，当声称是他抛弃多年的私生女突然现身，他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "86",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

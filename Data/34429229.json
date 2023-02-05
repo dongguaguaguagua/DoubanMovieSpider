@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们的时光印记",
+  "url": "/subject/34429229/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2567108701.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422640/",
+      "name": "石雨婷 Tina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448375/",
+      "name": "张梓扬 Ziyang Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448376/",
+      "name": " "
+    }
+  ]
+,
+  "datePublished": "2019-06-10",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H25M",
+  "description": "本片主要讲述了男女主人公刻骨铭心的情感经历，青梅竹马的江来和依然从小就在一起玩，而就在两个人即将修成正果之时，菁菁却要横刀夺爱，江来没有在势力面前低头，但是却无法面对母亲去世的事实，离家出走。 最终无...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

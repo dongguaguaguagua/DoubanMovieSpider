@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你在干嘛",
+  "url": "/subject/26418063/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2308191609.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275719/",
+      "name": "江若琳 Elanne Kwong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320408/",
+      "name": "赵多娜 Duo-na Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315575/",
+      "name": "李健仁 Kin-Yan Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313520/",
+      "name": "朱梓骁 Zixiao Zhu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H30M",
+  "description": "《你在干嘛》由华策集团旗下上海克顿传媒一石工作室出品。朱梓骁、江若琳、领衔主演的爱情喜剧。社会和科技越来越进步，可是人与人却越来越疏远，各种矛盾越来越激化。影片通过三段互相关联的纯真爱情故事，混搭着出...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

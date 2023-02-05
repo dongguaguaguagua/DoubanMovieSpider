@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鸡蛋仔 雞蛋仔",
+  "url": "/subject/30175216/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2516851605.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290204/",
+      "name": "罗耀辉 Yiu Fai Lo"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027577/",
+      "name": "古天乐 Louis Koo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050329/",
+      "name": "林家栋 Ka Tung Lam"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "林家棟監製，羅耀輝執導、古天樂及林家棟主演的《雞蛋仔》，故事講述飾演兄弟二人與父親的父子情懷。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

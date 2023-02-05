@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "坠雪少女 Slalom",
+  "url": "/subject/30460343/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2621861278.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438662/",
+      "name": "沙琳·法维耶 Charlène Favier"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438662/",
+      "name": "沙琳·法维耶 Charlène Favier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289218/",
+      "name": "安托万·拉孔布莱 Antoine Lacomblez"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376488/",
+      "name": "诺亚·阿比塔 Noée Abita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014162/",
+      "name": "杰瑞米·雷乃 Jérémie Renier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329955/",
+      "name": "玛丽·德纳尔诺 Marie Denarnaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389910/",
+      "name": "阿克塞勒·奥赫扬 Axel Auriant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327619/",
+      "name": "卡特琳·马沙尔 Catherine Marchal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375866/",
+      "name": "多米尼克·托马斯 Dominique Thomas"
+    }
+  ]
+,
+  "datePublished": "2020-08-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "15岁的丽兹是法国阿尔卑斯地区的一名高中生，她通过了一家标准极为严格的滑雪俱乐部的选拔，该俱乐部的目标是培养未来的职业滑雪运动员。曾获得滑雪冠军的弗雷德担任她的教练，他无视丽兹经验的缺乏，决定将她打造...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2482",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

@@ -1,0 +1,124 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "琼斯先生 Mr. Jones",
+  "url": "/subject/30167512/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2584656580.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036838/",
+      "name": "阿格涅丝卡·霍兰 Agnieszka Holland"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410721/",
+      "name": "安德列·查卢帕 Andrea Chalupa"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326707/",
+      "name": "詹姆斯·诺顿 James Norton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317680/",
+      "name": "凡妮莎·柯比 Vanessa Kirby"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031800/",
+      "name": "彼得·萨斯加德 Peter Sarsgaard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000336/",
+      "name": "约瑟夫·马勒 Joseph Mawle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078956/",
+      "name": "肯内斯·库兰汉姆 Kenneth Cranham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166854/",
+      "name": "费奈拉·伍尔加 Fenella Woolgar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359297/",
+      "name": "米哈利娜·奥利尚斯卡 Michalina Olszańska"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1111214/",
+      "name": "塞林·琼斯 Celyn Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132158/",
+      "name": "贝娅塔·波兹尼亚克 Beata Pozniak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343985/",
+      "name": "朱利安·刘易斯·琼斯 Julian Lewis Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402647/",
+      "name": "理查德·艾尔芬 Richard Elfyn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101603/",
+      "name": "简·豪 Jane How"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1131795/",
+      "name": "克日什托夫·皮耶钦斯基 Krzysztof Pieczynski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423738/",
+      "name": "汉娜·沃贾克 Hanna Wojak"
+    }
+  ]
+,
+  "datePublished": "2019-02-10",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u4f20\u8bb0"],
+  "duration": "PT1H59M",
+  "description": "电影讲述了一个鲜为人知的故事。1933 年，一位野心勃勃的威尔士年轻记者加雷斯·琼斯（Gareth Jones）来到苏联旅行，发现了共产主义乌托邦神话后骇人听闻的现实。由此他开始进行一项常规新闻调查，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6306",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

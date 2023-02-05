@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的南宫大人",
+  "url": "/subject/30464573/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2548672566.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360847/",
+      "name": "禇会林 Huilin Chu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360853/",
+      "name": "李新雨 Xinyu Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327617/",
+      "name": "刘前程 Qiancheng Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386635/",
+      "name": "金泊含 Bohan Jin"
+    }
+  ]
+,
+  "datePublished": "2019-02-23",
+  "genre": ["\u7231\u60c5", "\u60c5\u8272"],
+  "duration": "PT1H9M",
+  "description": "南宫寒（刘前程 饰）本是商业巨头南宫集团的总裁，年轻有为的他立志用自己的努力超越父辈， 证明自己有能力让南宫家延续商业的辉煌，并代表南宫家为社会做出应有的贡献。然而，从小事事追求完美的南宫寒，却在一次...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

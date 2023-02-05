@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红色小队 Red Squad",
+  "url": "/subject/25832748/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319751/",
+      "name": "亚历山大·维特 Alexander Witt"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1185159/",
+      "name": "卡姆·坎农 Cam Cannon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296704/",
+      "name": "大卫·萨迪 David Sardi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022913/",
+      "name": "布莱恩·普莱斯列 Brian Presley"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "一名假释出狱的海豹突袭队队员，他将和一位缉毒局警员一起深入丛林，找出杀死他家人的大毒枭。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

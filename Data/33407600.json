@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑板与白板 Blackboard vs Whiteboard",
+  "url": "/subject/33407600/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553380389.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313208/",
+      "name": "拉格胡维尔·亚达夫 Raghuvir Yadav"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356060/",
+      "name": "赫希尔德拉·米什拉 Akhilendra Mishra"
+    }
+  ]
+,
+  "datePublished": "2019-04-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H32M",
+  "description": "当一名新闻记者到达学校，要求学校当局在15天内改善他们的状况时，Amit和Dinanath别无选择，只能接受挑战。他们能完成这项挑战吗？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

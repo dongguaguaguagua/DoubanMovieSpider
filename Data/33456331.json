@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大象君宝 Jumbo",
+  "url": "/subject/33456331/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2557391274.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1214200/",
+      "name": "B.C. Furtney B.C. Furtney"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010287/",
+      "name": "托马斯·卡尔 Thomas Carr"
+    }
+  ]
+,
+  "datePublished": "2019-04-02",
+  "genre": ["\u559c\u5267", "\u52a8\u753b"],
+  "duration": "PT1H20M",
+  "description": "春天来了，一年一度的拼字比赛开始了！Jumbo为了这个大事件，和他最好的朋友们一起没日没夜的训练，因为他知道要打败镇上的天才学生伯特是很困难的，他从来没有拼错一个单词！然而，大坏狼的诅咒让Jumbo完...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

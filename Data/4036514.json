@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "陆军野战医院 Terra Infirma",
+  "url": "/subject/4036514/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032423/",
+      "name": "米凯尔·萨洛门 Mikael Salomon"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025206/",
+      "name": "布鲁斯·格林伍德 Bruce Greenwood"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010571/",
+      "name": "丹尼·格洛弗 Danny Glover"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041158/",
+      "name": "亚当·比奇 Adam Beach"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036366/",
+      "name": "韦斯·斯塔迪 Wes Studi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036441/",
+      "name": "吉斯利·厄恩·加达松 Gísli Örn Garðarsson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "",
+  "description": "Nature, government and industry collide in the SW of the US and the SW of China, as nature fights ba...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "隔绝之巢 Il nido",
+  "url": "/subject/34463199/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2565224372.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422399/",
+      "name": "罗伯托·迪·菲奥 Roberto De Feo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080272/",
+      "name": "罗伯托·德·弗朗西斯科 Roberto De Francesco"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422399/",
+      "name": "罗伯托·迪·菲奥 Roberto De Feo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400715/",
+      "name": "玛格丽·塔费里 Margherita Ferri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1180378/",
+      "name": "David Bellini David Bellini"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443082/",
+      "name": "贾斯汀·科罗夫金 Justin Korovkin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409601/",
+      "name": "毛里齐奥·隆巴迪 Maurizio Lombardi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1137832/",
+      "name": "Edoardo Rossi Edoardo Rossi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1158979/",
+      "name": "Carlo Valli Carlo Valli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459848/",
+      "name": "克里斯蒂娜·戈洛塔 Cristina Golotta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459847/",
+      "name": "伊丽莎贝塔·德·维托 Elisabetta De Vito"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459840/",
+      "name": "弗朗切斯卡·卡瓦林 Francesca Cavallin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450327/",
+      "name": "吉内维拉·弗兰切斯科尼 Ginevra Francesconi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459849/",
+      "name": "罗伯托·阿科内罗 Roberto Accornero"
+    }
+  ]
+,
+  "datePublished": "2019-08-14",
+  "genre": ["\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H47M",
+  "description": "塞缪尔是一个截瘫男孩，他和母亲埃琳娜住在一个与世隔绝的公寓里。当他遇到丹尼斯时，他找到了向世界敞开心扉的力量。埃琳娜不会轻易放过他，她准备不惜一切代价阻止他。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "228",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

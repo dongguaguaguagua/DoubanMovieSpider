@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "水妖 The Siren",
+  "url": "/subject/30475906/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2549510692.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372642/",
+      "name": "Perry Blackshear Perry Blackshear"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372642/",
+      "name": "Perry Blackshear Perry Blackshear"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372644/",
+      "name": "Margaret Ying Drake Margaret Ying Drake"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372750/",
+      "name": "MacLeod Andrews MacLeod Andrews"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372752/",
+      "name": "Evan Dumouchel Evan Dumouchel"
+    }
+  ]
+,
+  "datePublished": "2019-03-02",
+  "genre": ["\u5267\u60c5", "\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "A man searches the lake for the monster that murdered his husband, while that monster falls in love ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

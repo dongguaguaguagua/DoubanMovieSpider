@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "好久不见 Long Time No See",
+  "url": "/subject/33397836/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2643557743.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1188443/",
+      "name": "皮埃尔·菲尔蒙 Pierre Filmon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1188443/",
+      "name": "皮埃尔·菲尔蒙 Pierre Filmon"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324391/",
+      "name": "拉蒂·蒂亚 Laëtitia Eïdo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348840/",
+      "name": "皮埃尔·罗谢夫 Pierre Rochefort"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023103/",
+      "name": "罗纳德·格特曼 Ronald Guttman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441295/",
+      "name": "埃斯特班 Estéban"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441294/",
+      "name": "亚历克西娅·塞弗罗格鲁 Alexia Séféroglou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296204/",
+      "name": "让·罗塞洛 Jean Rousselot"
+    }
+  ]
+,
+  "datePublished": "2019-08-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H13M",
+  "description": "九年前，玛丽昂和格雷戈瓦曾有过一段短暂的爱情。现在，一次偶然的邂逅让他们在火车站重逢，在两段旅途的中间站。他来了，而她要走。他们有80分钟的时间来重新审视自己的生活，共同面对他们之间的真相、遗憾和回忆...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "85",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

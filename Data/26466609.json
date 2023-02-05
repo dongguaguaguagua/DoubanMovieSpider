@@ -1,0 +1,102 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "步同调不同 Synced",
+  "url": "/subject/26466609/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317200/",
+      "name": "奥利弗·帕克 Oliver Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348735/",
+      "name": "尼古拉斯·班克斯 Nicholas Banks"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1179333/",
+      "name": "Martin Bell Martin Bell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391842/",
+      "name": "汤姆·卡特 Tom Carter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020809/",
+      "name": "Peter Morton Peter Morton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358049/",
+      "name": "劳伦·埃尔文 Lauren J. Irwin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1196274/",
+      "name": "妮可拉·珀塞纳 Nicola Posener"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344084/",
+      "name": "艾琳·尼古拉斯 Eileen Nicholas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080747/",
+      "name": "尼尔·格雷格·富尔顿 Niall Greig Fulton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397075/",
+      "name": "Sorin Brouwers Sorin Brouwers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380542/",
+      "name": "杰弗里·麦吉弗伦 Geoffrey McGivern"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116696/",
+      "name": "赛得·米德 Syd Mead"
+    }
+  ]
+,
+  "datePublished": "2020-08-14",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u5192\u9669"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

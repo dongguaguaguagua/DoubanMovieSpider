@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "病态 Sem seu sangue",
+  "url": "/subject/33422595/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2556190777.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334299/",
+      "name": "阿丽斯·弗尔塔多 Alice Furtado"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334299/",
+      "name": "阿丽斯·弗尔塔多 Alice Furtado"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415163/",
+      "name": "Leonardo Levis Leonardo Levis"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1075130/",
+      "name": "Sílvia Buarque Sílvia Buarque"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354651/",
+      "name": "洛伦索·穆达莱力 Lourenço Mutarelli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033134/",
+      "name": "纳威尔·佩雷兹·毕斯卡亚特 Nahuel Pérez Biscayart"
+    }
+  ]
+,
+  "datePublished": "2019-05-20",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "西尔维娅是一个内向的年轻女孩，对家庭和学校的日常生活不感兴趣。但当阿图尔来到她的班级后，一切都突然发生了变化。西尔维娅对这个男孩的活力感到惊讶，但他实际上患有血友病。两人沉浸在激烈而短暂的恋爱中，但阿...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

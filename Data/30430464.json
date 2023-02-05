@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "酒店国 Country of Hotels",
+  "url": "/subject/30430464/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545371523.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406556/",
+      "name": "迪基·博 Dickie Beau"
+    }
+  ]
+,
+  "datePublished": "2019-12-20",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H45M",
+  "description": "旅馆之国（Country of Hotels）讲述了绝望的灵魂穿越508号门的故事，这些门位于一家匿名的，腐烂的旅馆五楼的房间。我们踏上了一条幽灵般的黑色喜剧旅程，沿着孤独的走廊，过时的家具和肮脏的表...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

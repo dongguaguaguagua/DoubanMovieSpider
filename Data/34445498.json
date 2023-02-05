@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Gestalked",
+  "url": "/subject/34445498/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560936655.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348730/",
+      "name": "弗拉基米尔·布尔拉科夫 Vladimir Burlakov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215674/",
+      "name": "安娜·布洛迈尔 Anna Blomeier"
+    }
+  ]
+,
+  "datePublished": "2019-04-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

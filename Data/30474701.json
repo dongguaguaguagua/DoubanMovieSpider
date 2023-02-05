@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猎鬼姐妹 กระสือสยาม",
+  "url": "/subject/30474701/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555251408.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050206/",
+      "name": "普拉奇亚·平克尧 Prachya Pinkaew"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434228/",
+      "name": "瓦塔纳·维拉亚万通 Jeab Wattana Weerayawattana"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425427/",
+      "name": "普洛伊尤孔·罗贾纳卡塔尼奥 Ploiyukhon Rojanakatanyoo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425428/",
+      "name": "纳纳帕斯·洛特纳姆乔特萨昆 Nannaphas Loetnamchoetsakun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328945/",
+      "name": "芮塔·彭安 Rhatha Phongam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378259/",
+      "name": "瓦奇拉维·让维瓦 Wachirawit Ruangwiwat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341506/",
+      "name": "阿帕·芭薇莱 Apa Bhavilai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1288658/",
+      "name": "Supakorn Kitsuwon Supakorn Kitsuwon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460885/",
+      "name": "瓦莎娜·查拉科恩 Vasana Chalakorn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461121/",
+      "name": "齐纳帕·吉迪查瓦让功 Chinnapat Kittichaiwarangkul"
+    }
+  ]
+,
+  "datePublished": "2019-04-04",
+  "genre": ["\u60ca\u609a", "\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "PT1H45M",
+  "description": "讲述两个姐妹因爱情与命运捆绑在一起，为了不让“妹妹”被猎魔族群攻击，姐姐必须用一生伪装姐妹俩身份并且随时要保护“妹妹”。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "350",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

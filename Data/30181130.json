@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿拉姜色",
+  "url": "/subject/30181130/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535257594.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324493/",
+      "name": "松太加 Sonthar Gyal"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324493/",
+      "name": "松太加 Sonthar Gyal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301712/",
+      "name": "扎西达娃 Tashi Dawa"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396245/",
+      "name": "容中尔甲 Yungdrung Gyal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329143/",
+      "name": "尼玛颂宋 Nimasongsong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395333/",
+      "name": "赛却加 Sechok Gyal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380918/",
+      "name": "廖希 Hei Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362878/",
+      "name": "金巴 Jinpa"
+    }
+  ]
+,
+  "datePublished": "2018-06-23",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H49M",
+  "description": "一日梦中惊醒，俄玛在重病之际，执意踏上前往拉萨的漫长之旅。现任丈夫和儿子相继追随加入陪伴，这个家庭也在艰辛旅程中逐渐消除隔阂，达成和解。在途中，俄玛向丈夫道出深扰她多年的秘密；病逝后，俄玛未达成的夙愿...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "22609",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

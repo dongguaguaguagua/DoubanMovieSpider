@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "赤眼妖姬",
+  "url": "/subject/30353364/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542182847.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384381/",
+      "name": "张晴帆 Zhang Qingfan"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375583/",
+      "name": "张润 Run Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365705/",
+      "name": "郭军 Jun Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405447/",
+      "name": "宋沐心 Muxin Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405448/",
+      "name": "张沅媛 Yuanyuan Zhang"
+    }
+  ]
+,
+  "datePublished": "2019-05-12",
+  "genre": ["\u7231\u60c5", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H9M",
+  "description": "《赤眼妖姬》以“爱”为主题，题材创作上力求创新、突破。主要讲述了曾在刀光剑影、血雨腥风的江湖之中谋求生存的女刺客玉如英，在知晓自己怀有身孕后，一心想要退隐江湖，过普通村妇生活。但好景不长，燕回阁悄然逼...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

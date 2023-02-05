@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "第15条 Article 15",
+  "url": "/subject/33456261/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2572399376.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009815/",
+      "name": "安布哈雅·辛哈 Anubhav Sinha"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009815/",
+      "name": "安布哈雅·辛哈 Anubhav Sinha"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327903/",
+      "name": "阿尤斯曼·库拉纳 Ayushmann Khurrana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364400/",
+      "name": "沙尤尼·古普塔 Sayani Gupta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406797/",
+      "name": "朗吉·查克拉博蒂 Ronjini Chakraborty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455858/",
+      "name": "马诺吉·帕瓦 Manoj Pahwa"
+    }
+  ]
+,
+  "datePublished": "2019-06-28",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT2H21M",
+  "description": "电影讲述了一位刚入职的警官反抗印度种姓制度的故事，片名即指印度《宪法》第15条：任何人不得因种姓、宗教、出生地而受歧视。阿扬在成为警官的第一天就目睹了印度某个下等村庄的罪行，受害者是三个未成年的女孩。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4786",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

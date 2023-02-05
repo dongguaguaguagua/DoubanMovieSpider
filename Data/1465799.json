@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "光晕 Halo",
+  "url": "/subject/1465799/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1296083645.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278161/",
+      "name": "斯图尔特·贝亚蒂耶 Stuart Beattie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284570/",
+      "name": "亚历克斯·加兰 Alex Garland"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ac\u7591", "\u60ca\u609a", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "电影版《光环》改编自微软著名畅销FPS游戏《光环》系列作品，为了能在电影中还原游戏的真实风貌，电影的执行制片将由曾执导著名的《指环王》三部曲的Peter Jackson和Fran Walsh担当。而关...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

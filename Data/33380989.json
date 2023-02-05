@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "犬爱奇缘",
+  "url": "/subject/33380989/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2551871622.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427291/",
+      "name": "朱悦 Yue Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430566/",
+      "name": "李纯洱 Chuner Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H24M",
+  "description": "大学毕业正迷茫之际， 莫小虞(朱悦 饰)和男朋友毛依然因为误会分手，正当小虞痛苦买醉时，一条叫毛毛的狗出现了，醉意朦胧中小虞将毛毛误认为毛依然带回了家。
+小虞向来不喜欢狗，可小虞的舍友兼闺蜜林乐却执意...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

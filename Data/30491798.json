@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "回南天",
+  "url": "/subject/30491798/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2873978173.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412925/",
+      "name": "高鸣 Gaoming Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412925/",
+      "name": "高鸣 Gaoming Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370933/",
+      "name": "刘兵 Bing Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416381/",
+      "name": "黄宇聪 Yucong Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419730/",
+      "name": "陈宣宇 Xuanyu Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364246/",
+      "name": "梁龙 Long Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358999/",
+      "name": "林子熙 Phoebe Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313366/",
+      "name": "邱炯炯 Jiongjiong Qiu"
+    }
+  ]
+,
+  "datePublished": "2020-01-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H47M",
+  "description": "一对年轻的情侣小东和杜鹃住在城中村，日子过得磕磕碰碰。游乐城倒闭变成饮食城，为了在饮食城重建小舞台，小东留下暂时做了守湖保安。在守湖过程中，他认识了前来放生的女孩园园。杜鹃是个花艺师，在花店打工。杜鹃...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3357",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

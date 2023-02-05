@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "生日乐园 バースデー・ワンダーランド",
+  "url": "/subject/30425788/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2544870277.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024184/",
+      "name": "原惠一 Keiichi Hara"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314164/",
+      "name": "丸尾未步 Miho Maruo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446798/",
+      "name": "柏叶幸子 Sachiko Kashiwaba"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320978/",
+      "name": "松冈茉优 Mayu Matsuoka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260550/",
+      "name": "杏 Anne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006312/",
+      "name": "市村正亲 Masachika Ichimura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1058969/",
+      "name": "麻生久美子 Kumiko Aso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327811/",
+      "name": "东山奈央 Nao Toyama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028837/",
+      "name": "藤原启治 Keiji Fujiwara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048689/",
+      "name": "矢岛晶子 Akiko Yajima"
+    }
+  ]
+,
+  "datePublished": "2019-04-26",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H56M",
+  "description": "改编自柏叶幸子的《地下室开始的奇妙旅行》：在生日的前一天，出现在缺乏自信的茜的面前的是谜一样的大炼金术师与其弟子。他们拜托茜去拯救自己的世界，在没有得到茜同意的情况下，通过古董店地下室的门，将她强行带...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "974",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

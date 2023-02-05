@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "命之途",
+  "url": "/subject/30482099/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2550529806.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387971/",
+      "name": "张文东 Wendong Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336331/",
+      "name": "李雅男 Yanan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352302/",
+      "name": "王永强 Yongqiang Wang"
+    }
+  ]
+,
+  "datePublished": "2019-03-12",
+  "genre": ["\u52a8\u4f5c", "\u6b66\u4fa0"],
+  "duration": "PT1H32M",
+  "description": "影片讲述了退隐江湖的杀手叶真因一次人物失手误杀了盲女简熙的父亲，他心中懊悔不已，为赎罪接近简熙并逐渐喜欢上这个单纯善良的女子，叶真决定重回江湖执行杀手任务筹钱为简熙治疗眼睛。但在接下来的任务中，叶真遭...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

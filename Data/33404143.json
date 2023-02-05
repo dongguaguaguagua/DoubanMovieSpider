@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿拉拉 ARARA",
+  "url": "/subject/33404143/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553200332.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298010/",
+      "name": "Soopum Sohn Soopum Sohn"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041153/",
+      "name": "格瑞辰·摩尔 Gretchen Mol"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048166/",
+      "name": "蒂姆·布雷克·尼尔森 Tim Blake Nelson"
+    }
+  ]
+,
+  "datePublished": "2019-04-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "When Belo Monte dam displaces an indigenous girl, she must rely on a white man to save her people - ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

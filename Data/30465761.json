@@ -1,0 +1,38 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "歌舞秀 Cabaret",
+  "url": "/subject/30465761/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2548763024.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455858/",
+      "name": "马诺吉·帕瓦 Manoj Pahwa"
+    }
+  ]
+,
+  "datePublished": "2019-01-09",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u6b4c\u821e"],
+  "duration": "PT1H32M",
+  "description": "简介:
+影片以记者出身的作者高拉夫的新书《歌舞秀》的发布会开始，该书以传记形式讲述了一个孤独女子在浮华世界背后的故事，并由此展开剧情。
+孤女拉娇不甘被凌辱，杀了恶棍警察后，逃到了迪拜。好不容易当上了夜...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

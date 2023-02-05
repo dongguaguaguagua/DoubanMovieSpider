@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "江湖麻辣烫",
+  "url": "/subject/30468869/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549159996.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359164/",
+      "name": "任青安 Qingan Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410467/",
+      "name": "金宁 Ning Jin"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "守墓人石爷（任青安饰）夜晚提着酒瓶墓地巡视，后面总是有脚步声，连号称胆子大的石爷也有些许的不安，这样的脚步声持续了一段时间后，突然有一天一个风情万种的妙龄少女出现在石爷面前，这妙龄少女是人是鬼，是仙是...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

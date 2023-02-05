@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一吻定情",
+  "url": "/subject/30263995/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546255256.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348054/",
+      "name": "陈玉珊 Yu Shan Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352604/",
+      "name": "曾咏婷 Yung-Ting Tseng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403775/",
+      "name": "黄继柔 Chi-Jou Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1030260/",
+      "name": "多田薰 Kaoru Tada"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341187/",
+      "name": "王大陆 Talu Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345908/",
+      "name": "林允 Yun Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361085/",
+      "name": "陈柏融 Kenji Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381941/",
+      "name": "蔡思韵 Cecilia Choi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275577/",
+      "name": "邰智源 Chih-Yuan Tai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189122/",
+      "name": "李铭顺 Lee Ming Shun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050179/",
+      "name": "钟丽缇 Christy Chung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313616/",
+      "name": "郭书瑶 Shu-yau Kuo"
+    }
+  ]
+,
+  "datePublished": "2019-02-14",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT2H2M",
+  "description": "笨蛋爱上天才，会有结果吗？平凡女孩原湘琴（林允饰）喜欢上了天才少年江直树（王大陆饰），在她表白失败准备放弃之际，爸爸居然带着自己搬进了直树家里？！一个猛追，一个猛逃，热闹欢腾的纯真高中生活就此上演。朝...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "100765",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.4"
+  }
+}

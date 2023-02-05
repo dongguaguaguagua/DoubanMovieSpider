@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "候鸟",
+  "url": "/subject/30472742/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2643156569.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445239/",
+      "name": "张运防 Yunfang Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346088/",
+      "name": "郑现太 Yeong-bae Jeong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384882/",
+      "name": "意辰 Chen Yi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406944/",
+      "name": "都子山 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417785/",
+      "name": "黄邃 Sui"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275275/",
+      "name": "王姬 Ji Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325661/",
+      "name": "高丽雯 Liwen Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365830/",
+      "name": "陈朵怡 Duoyi Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316290/",
+      "name": "朱怀旭 Huaixu Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312740/",
+      "name": "张海燕 Haiyan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317375/",
+      "name": "韩兆 Zhao Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444689/",
+      "name": "李泽汉 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407476/",
+      "name": "胡昌霖 Changlin Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316770/",
+      "name": "王德顺 Deshun Wang"
+    }
+  ]
+,
+  "datePublished": "2021-06-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "从甘肃农村一路打拼到城市发展的年轻女孩单飞（高丽雯 饰），为了工作在远离家乡的遥远城市，辛苦的努力奋斗，慢慢在职场的拼搏中她渐渐忽略了亲人的存在。有一天她突然接到母亲方文芝（王姬 饰）患上重病的消息....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "688",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

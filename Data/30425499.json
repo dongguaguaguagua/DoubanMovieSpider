@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阳光总在风雨后 Nos vies formidables",
+  "url": "/subject/30425499/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2547955659.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047193/",
+      "name": "法比安娜·戈代 Fabienne Godet"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047193/",
+      "name": "法比安娜·戈代 Fabienne Godet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341819/",
+      "name": "朱莉·穆利耶 Julie Moulier"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341819/",
+      "name": "朱莉·穆利耶 Julie Moulier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028231/",
+      "name": "约翰·利贝罗 Johan Libéreau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318774/",
+      "name": "佐伊·赫兰 Zoé Héran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1125526/",
+      "name": "布鲁诺·洛歇 Bruno Lochet"
+    }
+  ]
+,
+  "datePublished": "2019-03-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H57M",
+  "description": "在法国的一个小乡村里，有一所康复中心。这里为有酒精和毒品依赖的女病人们提供康复治疗。玛尔戈是其中一位病人。她家庭条件不错，上学时到了巴黎却染上了毒瘾。如今已经三十多的玛尔戈一直未能摆脱毒品的困扰，现在...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

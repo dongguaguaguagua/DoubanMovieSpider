@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "She Lived on Franklin Avenue",
+  "url": "/subject/30340779/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2535790753.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270046/",
+      "name": " David Campion"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149059/",
+      "name": "Ben Simpson Ben Simpson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270046/",
+      "name": " David Campion"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

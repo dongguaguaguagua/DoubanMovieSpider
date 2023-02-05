@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "那树繁花",
+  "url": "/subject/30468994/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549174825.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396355/",
+      "name": "郑庆严 Qingyan Zheng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412759/",
+      "name": "刘玉才 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412760/",
+      "name": "李晓平 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411436/",
+      "name": "赵嘉豪 Jiahao Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392555/",
+      "name": "李雪蕊 Xuerui Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274561/",
+      "name": "牟凤彬 Fengbin Mu"
+    }
+  ]
+,
+  "datePublished": "2019-03-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "一个大山里里留守男孩，让苦难结出了花朵。男孩父母离异，爷爷奶奶多病，妹妹年幼，男孩在社会关爱下成长为泥塑天才，不仅拯救了破碎的家庭，也影响带动了其他留守儿童，男孩的技艺被当地申报为非物质文化遗产继承人...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

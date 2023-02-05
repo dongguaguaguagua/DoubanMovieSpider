@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "星际流浪",
+  "url": "/subject/34779698/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564383356.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395152/",
+      "name": "菊麟 Julin Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360608/",
+      "name": "高梓刚 Zigang Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477734/",
+      "name": "陈康 "
+    }
+  ]
+,
+  "datePublished": "2019-08-02",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "影片讲述，大灾难纪元，地球沦为废土，幸存者分为流浪者和平民，他们都依附在星际武装集团的统治下，其中游荡者依靠掠夺平民的物资作为生计，使得平民在这恶劣的环境之中艰难生存，百年后黑科技爆炸，带来文明复兴，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "605",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.6"
+  }
+}

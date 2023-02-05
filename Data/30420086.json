@@ -1,0 +1,49 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们分手吧",
+  "url": "/subject/30420086/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398457/",
+      "name": "郑晓甫 Xiaofu Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355548/",
+      "name": "方言 Yan Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418643/",
+      "name": "凌子幂 Zimi Ling"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "SAD患者王一一，有社交恐惧症，害怕与陌生人打交道，穿衣老土，来到杂志编辑公司两年都不曾外出采访，却被逼无奈与主管去饭店谈公益项目，偶遇大学暗恋对象叶枫，出尽洋相后，铩羽而归。
+王一一在闺蜜高莉的怂恿...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

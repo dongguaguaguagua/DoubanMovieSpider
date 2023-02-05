@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神奇的梦想飞船",
+  "url": "/subject/32568212/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2551181514.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361667/",
+      "name": "杨大为 Dawei Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382145/",
+      "name": "冷昊泽 Haoze Leng"
+    }
+  ]
+,
+  "datePublished": "2019-03-28",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5"],
+  "duration": "PT1H28M",
+  "description": "在浩瀚的宇宙中，穿梭着一架神秘的飞船。飞船可以帮人们实现愿望，人们把它叫做“梦想飞船”。 艾艾、嘉嘉和轩轩三个小朋友最近都遇上了自己的烦恼。艾艾是所有人眼中的好孩子，但爸爸妈妈却整天吵架；嘉嘉是学校里...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

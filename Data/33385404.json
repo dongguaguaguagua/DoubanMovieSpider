@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猎枭行动",
+  "url": "/subject/33385404/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2552531631.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434728/",
+      "name": "向涛 Jason Xiang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434728/",
+      "name": "向涛 Jason Xiang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323764/",
+      "name": "刘腾远 Tengyuan Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008125/",
+      "name": "梁家仁 Ka-Yan Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361307/",
+      "name": "庄小龙 Xiaolong Zhuang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334338/",
+      "name": "李凤鸣 Fengming Li"
+    }
+  ]
+,
+  "datePublished": "2019-04-12",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H11M",
+  "description": "影片讲述了一名中国退伍军人的警察弟弟，在金三角地区追击毒枭团伙的过程中，英勇牺牲。哥哥誓言剿灭毒枭，在犯罪团伙的内地线人的指引下，被骗至大毒枭老巢。经过一番激烈打斗，铁血硬汉式的中国军人最终剿灭了一众...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

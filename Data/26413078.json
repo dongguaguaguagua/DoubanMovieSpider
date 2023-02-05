@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "AST - A Sexual Thriller",
+  "url": "/subject/26413078/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2618173023.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040613/",
+      "name": "罗伯特·梅耶 Robert Maillet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334281/",
+      "name": "杰玛·达兰德 Jemma Dallender"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048248/",
+      "name": "加斯帕·克里斯滕森 Jesper Christensen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124119/",
+      "name": "肖恩·卡梅伦·迈克尔 Sean Cameron Michael"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362940/",
+      "name": "鲁娜瑞尤米娜 Luna Rioumina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199101/",
+      "name": "安德里亚·斯特凡西科瓦 Andrea Stefancikova"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u5192\u9669"],
+  "duration": "",
+  "description": "A brave, sexy young operative for a secret, Black Bag operation run by the CIA tires of killing for ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

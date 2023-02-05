@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "欧阳海",
+  "url": "/subject/34678379/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2668353512.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481186/",
+      "name": "李太岩子 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459316/",
+      "name": "潘洋 Yang Pan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "电影《欧阳海》由湖南公益电影传媒中心和桂阳县委、县政府联合摄制，围绕英雄欧阳海成长、参军、牺牲等，展现其短暂而光辉的一生。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

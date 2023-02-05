@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夏日往事",
+  "url": "/subject/33462526/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2627584801.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417817/",
+      "name": "孙时 Shi Sun"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417817/",
+      "name": "孙时 Shi Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402779/",
+      "name": "张小鲨 Xiaosha Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417221/",
+      "name": "黄晋祺 Jinqi Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364987/",
+      "name": "付小仙 Xiaoxian Fu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413754/",
+      "name": "胡洪宇 Hongyu Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420934/",
+      "name": "鲍柏宇 Boyu Bao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420933/",
+      "name": "杜茗洋 Mingyang Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417222/",
+      "name": "王珑诺 Longnuo Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470714/",
+      "name": "李玮宸 Wilson Lee"
+    }
+  ]
+,
+  "datePublished": "2019-07-23",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H36M",
+  "description": "《夏日往事》借情欲的符号谱写青涩的少年时代。2000年的安徽小镇上，14岁的两个少年邂逅了一位小镇姑娘。两个少年决定去碟店租碟以邀请在家看电影为名偷放“⽟女心经”······⻘春在炎炎夏⽇的汗水中燃烧...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2179",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

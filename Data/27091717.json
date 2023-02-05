@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Troisièmes noces",
+  "url": "/subject/27091717/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527517797.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335269/",
+      "name": "大卫·兰伯特 David Lambert"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335269/",
+      "name": "大卫·兰伯特 David Lambert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053100/",
+      "name": "Tom Lanoye Tom Lanoye"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048406/",
+      "name": "伯利·兰内尔 Bouli Lanners"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377570/",
+      "name": "埃里克·卡邦戈 Eric Kabongo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317901/",
+      "name": "瑞秋·玛瓦赞 Rachel Mwanza"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331760/",
+      "name": "维尔日妮·奥克 Virginie Hocq"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363348/",
+      "name": "Jean-Luc Couchard Jean-Luc Couchard"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "Martin, a 50-year-old widowed gay man living in Brussels, enters into a marriage of convenience
+with...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

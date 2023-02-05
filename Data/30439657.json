@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "巴黎惊梦 Paris est à nous",
+  "url": "/subject/30439657/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2548860300.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358770/",
+      "name": "诺埃米·施米特 Noémie Schmidt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1072554/",
+      "name": "洛乌·卡斯特尔 Lou Castel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1173127/",
+      "name": "多莉亚·阿舒尔 Doria Achour"
+    }
+  ]
+,
+  "datePublished": "2019-02-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "身处动荡的恋情和形势紧张的巴黎，一名年轻女子发现自己陷入令人不解的梦境、回忆和假设中",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "175",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "日与夜 デイアンドナイト",
+  "url": "/subject/27135576/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529655917.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344302/",
+      "name": "藤井道人 Michihito Fujii"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006860/",
+      "name": "阿部进之介 Shinnosuke Abe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344302/",
+      "name": "藤井道人 Michihito Fujii"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028166/",
+      "name": "山田孝之 Yamada Takayuki"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006860/",
+      "name": "阿部进之介 Shinnosuke Abe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045426/",
+      "name": "安藤政信 Masanobu Andô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350196/",
+      "name": "清原果耶 Kaya Kiyohara"
+    }
+  ]
+,
+  "datePublished": "2019-01-26",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT2H14M",
+  "description": "明石幸次（阿部进之介饰）的父亲因告发企业内部的非法行为而被逼自杀，幸次的家庭也因此分崩离析。这时，在儿童福利院工作的北村向幸次伸出援手，在他看来，只要能守护孩子们就算犯罪也在所不惜。在北村另类价值观的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "594",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

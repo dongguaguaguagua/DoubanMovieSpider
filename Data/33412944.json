@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黄子韬2019 IS BLUE演唱会",
+  "url": "/subject/33412944/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553761250.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337445/",
+      "name": "黄子韬 Zitao Huang"
+    }
+  ]
+,
+  "datePublished": "2019-06-15",
+  "genre": ["\u97f3\u4e50"],
+  "duration": "PT2H0M",
+  "description": "从今年的音乐主题#the Blue Project#出发，将“BLUE”作为今年音乐的整体概念贯穿整个演唱会。从2016年第一场个人演唱会走到2019年，黄子韬坚持每年用舞台LIVE的方式去面对成长及...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Lust Life Love",
+  "url": "/subject/30201154/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2606486003.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1213047/",
+      "name": "Benjamin Feuer Benjamin Feuer"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1113911/",
+      "name": "比尔·欧文 Bill Irwin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364000/",
+      "name": "杰克·崔 Jake Choi Reel"
+    }
+  ]
+,
+  "datePublished": "2021-02-10",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

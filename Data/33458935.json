@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "婚前故事",
+  "url": "/subject/30232266/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2624385562.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344422/",
+      "name": "郭廷波 Tingbo Guo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344422/",
+      "name": "郭廷波 Tingbo Guo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276079/",
+      "name": "韩雪 Cecilia Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314064/",
+      "name": "魏大勋 Daxun Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352454/",
+      "name": "于文霞 Wenxia Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340969/",
+      "name": "罗伟 Robert Gilabert Cuenca"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423091/",
+      "name": "韩文亮 Wenliang Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335604/",
+      "name": "童苡萱 Yixuan Tong"
+    }
+  ]
+,
+  "datePublished": "2020-11-13",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "电影《婚前故事》讲述了三个不同年代、不同地域、不同职业的三对青年男女接受婚前检查的故事。整个影片的剧情在时代变迁中推进，内容上“明”“暗”两条线相互交织，情节跌宕起伏。命运的嘲讽与拨弄、父子祖孙的代沟...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1318",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

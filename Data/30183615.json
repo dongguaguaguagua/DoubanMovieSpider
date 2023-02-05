@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "白色僵尸 White Zombie",
+  "url": "/subject/30183615/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2574263092.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032798/",
+      "name": "科瑞普·科瑞帕辛 Creep Creepersin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032798/",
+      "name": "科瑞普·科瑞帕辛 Creep Creepersin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011281/",
+      "name": "Garnett Weston Garnett Weston"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325377/",
+      "name": "埃莉娜·麦迪逊 Elina Madison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032798/",
+      "name": "科瑞普·科瑞帕辛 Creep Creepersin"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

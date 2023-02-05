@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "32-3",
+  "url": "/subject/33444731/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2569720880.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347908/",
+      "name": "樊佳男 Jia&#39;nan Fan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347908/",
+      "name": "樊佳男 Jia&#39;nan Fan"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u77ed\u7247"],
+  "duration": "PT0H6M",
+  "description": "不断攀高的房价不断冲击着当下这个拧巴的中国社会。本片通过一座位于中国某市“泰安小区”内的32-3号毛坯房，映射出当下中国人的生存现状和在高房价压迫下年轻人的婚恋观，以及房产刚需家庭背后的无奈。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

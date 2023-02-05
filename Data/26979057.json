@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "剧演的终章 マチネの終わりに",
+  "url": "/subject/26979057/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557367590.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316253/",
+      "name": "西谷弘 Hiroshi Nishitani"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320433/",
+      "name": "井上由美子 Yumiko Inoue"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006103/",
+      "name": "福山雅治 Masaharu Fukuyama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028681/",
+      "name": "石田百合子 Yuriko Ishida"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110160/",
+      "name": "伊势谷友介 Yûsuke Iseya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352403/",
+      "name": "樱井由纪 Yuki Sakurai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275356/",
+      "name": "木南晴夏 Haruka Kinami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048583/",
+      "name": "风吹淳 Jun Fubuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010770/",
+      "name": "板谷由夏 Yuka Itaya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1086288/",
+      "name": "古谷一行 Ikkô Furuya"
+    }
+  ]
+,
+  "datePublished": "2019-11-01",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT2H4M",
+  "description": "影片根据《日蚀》作家平野启一郎的同名小说改编，以日本、巴黎、纽约为舞台，讲述石田百合子饰演的女记者和福山雅治饰演的古典吉他演奏家之间的纯美爱情。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1519",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

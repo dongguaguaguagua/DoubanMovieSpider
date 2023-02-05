@@ -1,0 +1,49 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鬼骨",
+  "url": "/subject/33396292/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2552621929.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414402/",
+      "name": "赵科岩 Keyan Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417763/",
+      "name": "陈安新 Anxin Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417764/",
+      "name": "吴小荣 Xiaorong Wu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT2H0M",
+  "description": "《鬼骨》由北京吉瑞文化传媒有限公司出品，阮波担任导演和监制，赵科岩、吴小荣、 薄云天 、马剑芬、陈安新等联袂主演的惊悚电影。
+电影《鬼骨》借用民国时期背景，用现代人的手法讲述一段人鬼情未了的故事",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "战线之外 Beyond The Line",
+  "url": "/subject/34454091/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2581537505.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419516/",
+      "name": "杰森·米尔斯 Jason Mills"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419516/",
+      "name": "杰森·米尔斯 Jason Mills"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353797/",
+      "name": "达伦·安德查克 Darren Andrichuk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362072/",
+      "name": "保罗·费舍尔 Paul Fisher"
+    }
+  ]
+,
+  "datePublished": "2019-06-04",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H18M",
+  "description": "It&#39;s the close of World War II. Unwilling to surrender| rogue German forces shoot down a returning B...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

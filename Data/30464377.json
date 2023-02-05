@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "筑梦",
+  "url": "/subject/30464377/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2870793896.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365665/",
+      "name": "郝宏明 Hongming Hao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352325/",
+      "name": "柯伊善 YiShan  Ke"
+    }
+  ]
+,
+  "datePublished": "2020-03-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H16M",
+  "description": "贾兵从事土方工程运输行业18年之久，在多年的行业经营中充分体验到行业内的各种潜规则，像托关系熟人找活干，中间人挣差价，好处费，赖账等诸多问题，这些顽疾不是哪个人或者组织能够解决的。贾兵在经营中不甘寂寞...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

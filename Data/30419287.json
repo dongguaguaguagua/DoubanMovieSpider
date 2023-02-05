@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "四大名捕之食人梦界",
+  "url": "/subject/30419287/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2544419203.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384965/",
+      "name": "项秋良 Qiuliang Xiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384967/",
+      "name": "项河生 Hesheng Xiang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394055/",
+      "name": "方岚 Lan Fang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379701/",
+      "name": "陈子由 Ziyou Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407788/",
+      "name": "刘林城 Lincheng Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347905/",
+      "name": "康宁 Ning Kang"
+    }
+  ]
+,
+  "datePublished": "2019-01-04",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b", "\u6b66\u4fa0"],
+  "duration": "PT1H9M",
+  "description": "影片《四大名捕之食人梦界》以原有IP为故事框架，通过地狱鬼花食人案，硬核解救被掣肘性命的全城百姓内容，讲述了在极度惊恐情景之下，无情、追命、白晓茹等一众人肩负责任对抗地狱鬼花的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1272",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

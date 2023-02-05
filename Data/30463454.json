@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "长灯歌",
+  "url": "/subject/30463454/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2585455685.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430445/",
+      "name": "刘苗苗 Miaomiao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427123/",
+      "name": "马成成 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430445/",
+      "name": "刘苗苗 Miaomiao Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430605/",
+      "name": "王丽娜 Lina Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414940/",
+      "name": "洋懿 Yi Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430853/",
+      "name": "王寒阳 Hanyang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426587/",
+      "name": "柴园乐  Francis Chai"
+    }
+  ]
+,
+  "datePublished": "2020-02-12",
+  "genre": ["\u7231\u60c5", "\u53e4\u88c5"],
+  "duration": "PT1H22M",
+  "description": "传说，遥远的北方有明月国与赤乌国，长期对峙，连年征战。是年，明月国的蔷萍公主(十七 饰)与少将军周世琰(洋懿 饰)在宫中一同甜蜜表演皮影戏时，意外卷入一桩阴谋，随之，一段虐心的三角爱情故事娓娓道来。故...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

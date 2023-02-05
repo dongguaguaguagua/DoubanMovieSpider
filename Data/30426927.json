@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鼠王",
+  "url": "/subject/30426927/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570970979.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409422/",
+      "name": "李炳 Bing Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340921/",
+      "name": "赵茜 Candice Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389828/",
+      "name": "董岩磊 Leo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414699/",
+      "name": "张婕婕 Jie Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u707e\u96be"],
+  "duration": "",
+  "description": "讲述了记者夏天与同伴们旅游散心，遇到小女孩拦路求救。众人为拯救女孩，卷入到变异鼠群攻击人类的灾难事件中的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

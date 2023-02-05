@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "孟买玫瑰 Bombay Rose",
+  "url": "/subject/33406893/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2563064642.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312543/",
+      "name": "吉塔姜利·饶 Gitanjali Rao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441222/",
+      "name": "纳贾·杜穆切尔 Nadja Dumouchel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408229/",
+      "name": "阿萨德·侯赛因 Asad Hussain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312543/",
+      "name": "吉塔姜利·饶 Gitanjali Rao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050091/",
+      "name": "阿努拉格·卡施亚普 Anurag Kashyap"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408231/",
+      "name": "格塔姜利·库尔卡尼 Geetanjali Kulkarni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332762/",
+      "name": "Makrand Deshpande Makrand Deshpande"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353716/",
+      "name": "什沙尔·夏尔马 Shishir Sharma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345954/",
+      "name": "阿马尔迪普·杰哈 Amardeep Jha"
+    }
+  ]
+,
+  "datePublished": "2019-08-28",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H37M",
+  "description": "为了逃避童婚，一个住在孟买街头的年轻舞者必须在家人和好战的恋人之间做出选择……这部电影基于真实事件改编而成，通过精心描绘的玫瑰元素和音乐交织着三个不可能的爱情故事：印度女孩和穆斯林男孩之间的爱情， 两...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "169",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

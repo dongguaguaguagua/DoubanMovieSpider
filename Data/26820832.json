@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一代枭雄",
+  "url": "/subject/26820832/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275075/",
+      "name": "林超贤 Dante Lam"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275075/",
+      "name": "林超贤 Dante Lam"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013782/",
+      "name": "彭于晏 Eddie Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037273/",
+      "name": "张家辉 Nick Cheung"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "林超贤导演的30年代上海滩传奇黑帮动作片《一代枭雄》",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大堂故事 لابی",
+  "url": "/subject/27078004/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2471908304.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1175128/",
+      "name": "谢哈布·侯赛尼 Shahab Hosseini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314287/",
+      "name": "萨瑞·巴亚特 Sareh Bayat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332836/",
+      "name": "穆斯塔法.扎马尼 Mostafa Zamani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357951/",
+      "name": "萨哈尔·多拉沙西 Sahar Dolatshahi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H2M",
+  "description": "The Lobby is the story of people who come to stay for few days and then go. They passed each other i...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

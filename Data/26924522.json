@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红楼梦之金玉良缘",
+  "url": "/subject/26924522/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2500063017.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291776/",
+      "name": "胡玫 Mei Hu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324160/",
+      "name": "何燕江 Yanjiang He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275983/",
+      "name": "曹雪芹 Xueqin Cao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405940/",
+      "name": "林冠宇 Kuan-yu Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379055/",
+      "name": "励政达 Cheng-Ta Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276032/",
+      "name": "关晓彤 Xiaotong Guan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390694/",
+      "name": "章广辰 Kuang-Chen Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420608/",
+      "name": "张淼怡 Miaoyi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420609/",
+      "name": "黄佳容 Jiarong Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413270/",
+      "name": "杨祺如 Qiru Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460861/",
+      "name": "姚晓棠 Xiaotang Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331721/",
+      "name": "边程 Cheng Bian"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "立项的新片《红楼梦2016》，编剧是何燕江，影片从贾府全盛时期开始介入，深入展示太虚幻境、元妃省亲、黛玉葬花、宝玉挨打等经典桥段，再现了贾宝玉与林黛玉之间的悲欢离合故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

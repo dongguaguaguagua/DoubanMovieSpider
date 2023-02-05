@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鲨鱼",
+  "url": "/subject/33393037/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2552446784.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340059/",
+      "name": "罗立群 Liqun Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384067/",
+      "name": "唐鑫 Simpson Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411655/",
+      "name": "杨永丰 Yongfeng Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350124/",
+      "name": "马丽 Li Ma"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "",
+  "description": "电影《鲨鱼》讲述了一座位于密林深处的生物制药研究实验室违背自然规律，在鲨鱼身上研制抗癌药物，擅自更改了鲨鱼的基因，导致鲨鱼基因变异，变异后的鲨鱼性情凶猛，对人类展开报复的故事，饱含了深刻的警示精神，是...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "高个儿 Дылда",
+  "url": "/subject/30481809/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557820257.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375147/",
+      "name": "康捷米尔·巴拉戈夫 Kantemir Balagov"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375147/",
+      "name": "康捷米尔·巴拉戈夫 Kantemir Balagov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394562/",
+      "name": "亚历山大·特列霍夫 Aleksandr Terekhov"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423289/",
+      "name": "维多利亚·米罗什尼琴科 Viktoria Miroshnichenko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423288/",
+      "name": "瓦西丽莎·佩里吉娜 Vasilisa Perelygina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024674/",
+      "name": "克塞妮娅·库捷波娃 Kseniya Kutepova"
+    }
+  ]
+,
+  "datePublished": "2019-05-16",
+  "genre": ["\u5267\u60c5", "\u540c\u6027", "\u6218\u4e89"],
+  "duration": "PT2H14M",
+  "description": "经历战争和长期围困幸存下来的城市，看起来像一个身患绝症的人。死亡和生命还没有在这里完成他们的战斗。人们看起来比城市更好一些，但实际上每个人都以自己的方式被毁坏。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6648",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

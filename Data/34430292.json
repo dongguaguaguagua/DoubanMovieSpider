@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "缪斯 Muse",
+  "url": "/subject/34430292/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559404989.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021845/",
+      "name": "理查德·约翰·泰勒 Richard John Taylor"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061613/",
+      "name": "Nicholas Ball Nicholas Ball"
+    }
+  ]
+,
+  "datePublished": "2019-03-08",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "世界著名作家哈里·纽曼努力接受妻子和女儿的过早死亡。他悲痛欲绝，被孤立在家中，对一位与女儿有着千维相仿的新邻居形成了不健康的依恋。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

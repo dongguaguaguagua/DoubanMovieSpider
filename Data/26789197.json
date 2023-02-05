@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神圣之族 La sainte famille",
+  "url": "/subject/26789197/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575298629.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088133/",
+      "name": "路易多·德·朗克桑 Louis-Do de Lencquesaing"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088133/",
+      "name": "路易多·德·朗克桑 Louis-Do de Lencquesaing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278164/",
+      "name": "杰罗米·博若尔 Jérôme Beaujour"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004984/",
+      "name": "玛尔特·克勒尔 Marthe Keller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041478/",
+      "name": "劳拉·斯梅特 Laura Smet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005358/",
+      "name": "蕾雅·德吕盖 Léa Drucker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088133/",
+      "name": "路易多·德·朗克桑 Louis-Do de Lencquesaing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338359/",
+      "name": "樊尚·马凯涅 Vincent Macaigne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032702/",
+      "name": "埃玛妞·丽娃 Emmanuelle Riva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010628/",
+      "name": "露德温·塞尼耶 Ludivine Sagnier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048261/",
+      "name": "艾曼纽·德芙 Emmanuelle Devos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004891/",
+      "name": "梅尔维尔·珀波 Melvil Poupaud"
+    }
+  ]
+,
+  "datePublished": "2019-08-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

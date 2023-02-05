@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猎头武士 The Head Hunter",
+  "url": "/subject/27096971/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550971399.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046310/",
+      "name": "Jordan Downey Jordan Downey"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046385/",
+      "name": "Kevin Stewart Kevin Stewart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046310/",
+      "name": "Jordan Downey Jordan Downey"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414321/",
+      "name": "科拉·考夫曼 Cora Kaufman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414320/",
+      "name": "克里斯托弗·瑞 Christopher Rygh"
+    }
+  ]
+,
+  "datePublished": "2018-10-06",
+  "genre": ["\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "PT1H12M",
+  "description": "A medieval warrior&#39;s gruesome collection of heads is missing only one - the monster that killed his ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "474",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

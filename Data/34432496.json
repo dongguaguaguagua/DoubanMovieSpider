@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "电梯男孩 The Lift Boy",
+  "url": "/subject/34432496/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2567758955.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424805/",
+      "name": "阿尼莎·沙阿 Aneesha Shah"
+    }
+  ]
+,
+  "datePublished": "2019-01-18",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "一名24岁的理工科男孩，暂时先帮父亲代班电梯员工作，在一栋高级住宅大厦，每天帮住户按电梯楼层，琐碎工作让他感到相当厌世，总是敷衍了事，他的表现开始引起住户女孩长辈的注意，让狭小空间的电梯里出现欢乐与幽...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "243",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "太阳与阴影 Sol y sombra",
+  "url": "/subject/30481883/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549910254.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049605/",
+      "name": "杰奎琳·比塞特 Jacqueline Bisset"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004805/",
+      "name": "斯坦尼斯拉斯·莫哈 Stanislas Merhar"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

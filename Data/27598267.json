@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黄玫瑰",
+  "url": "/subject/27598267/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2557609701.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315135/",
+      "name": "宁敬武 Jingwu Ning "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323812/",
+      "name": "赵葆华 Baohua Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451221/",
+      "name": "潘逸飞 Yifei Pan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274900/",
+      "name": "姜宏波 Hongbo Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384063/",
+      "name": "陈芊桦 Qianhua Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318034/",
+      "name": "张陆 Lu Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325815/",
+      "name": "梁林琳 Linlin Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418033/",
+      "name": "王胤俊 Yinjun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316743/",
+      "name": "任帅 Shuai Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418730/",
+      "name": "王安琦 Anqi Wang"
+    }
+  ]
+,
+  "datePublished": "2019-05-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H44M",
+  "description": "由最美医生邹笑春真人事迹改编的电影",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

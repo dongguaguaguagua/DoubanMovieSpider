@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "竹岛冲浪日记 죽도 서핑 다이어리",
+  "url": "/subject/33437034/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2600211111.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275581/",
+      "name": "全慧彬 Hye-bin Jeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387367/",
+      "name": "郑泰祐 Jung Tae-woo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382564/",
+      "name": "朴浩山 Ho-san Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1203325/",
+      "name": "吴光禄 Kwang-rok Oh"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H44M",
+  "description": "Soo-jung is camping on Jukdo Beach, while Jung-yong has left there for a long time and returned. Soo...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

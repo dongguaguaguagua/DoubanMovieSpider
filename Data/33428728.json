@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "头号嫌疑人",
+  "url": "/subject/33428728/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317327/",
+      "name": "李旗 Qi Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050430/",
+      "name": "余男 Nan Yu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H50M",
+  "description": "由威克传媒旭东影业、天翼文化、北京融商文化、深圳善为影业联合出品，李旗执导，李旗、孙照辉编剧，著名演员余男、王紫逸、石凉等主演的悬疑、惊险、爱情电影《头号嫌疑人》于3月15日在福建泉州正式开机。出品人...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

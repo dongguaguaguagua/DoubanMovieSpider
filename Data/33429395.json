@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿拉伯布鲁斯 Un divan à Tunis",
+  "url": "/subject/33429395/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2584980985.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423086/",
+      "name": "梅兰妮·拉比蒂·拉比 Manele Labidi Labbé"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347582/",
+      "name": "莫德·阿美林 Maud Ameline"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423086/",
+      "name": "梅兰妮·拉比蒂·拉比 Manele Labidi Labbé"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009332/",
+      "name": "格什菲·法拉哈尼 Golshifteh Farahani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354873/",
+      "name": "马吉德·马斯图拉 Majd Mastoura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388576/",
+      "name": "希奇姆·雅克比 Hichem Yacoubi"
+    }
+  ]
+,
+  "datePublished": "2019-09-02",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H28M",
+  "description": "心理分析师塞尔玛离开巴黎，回到突尼斯老家开了一家小型精神病诊所。然而，一系列困难从她诊所开张的第一天就开始发生了，她该如何去迎接这些挑战。由获得法国最佳女演员奖，被评为最有潜力的青年演员格什菲·法拉哈...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "230",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "格雷迪 Grady",
+  "url": "/subject/27050142/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002688/",
+      "name": "朗·普尔曼 Ron Perlman"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "朗·普尔曼([地狱男爵]、[神奇动物在哪里])将主演犯罪惊悚电影[格雷迪](Grady，暂译)。朗将饰演一个感觉不到疼痛的职业杀手。为保护家人，他将与另一位更心狠手辣的职业杀手展开殊死一战。该作由D·...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

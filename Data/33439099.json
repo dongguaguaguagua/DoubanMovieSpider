@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "凯 Kee",
+  "url": "/subject/33439099/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555827717.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437725/",
+      "name": "马诺巴拉 Manobala"
+    }
+  ]
+,
+  "datePublished": "2019-05-08",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT2H18M",
+  "description": "A man falls in love with a girl and tries to impress her. However, their life takes a serious turn w...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

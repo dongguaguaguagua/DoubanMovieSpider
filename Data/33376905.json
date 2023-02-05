@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "末日驾驶员 The Driver",
+  "url": "/subject/33376905/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575317147.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333825/",
+      "name": "威克·考撒亚南达 Wych Kaosayananda"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333825/",
+      "name": "威克·考撒亚南达 Wych Kaosayananda"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031969/",
+      "name": "马克·达卡斯考斯 Mark Dacascos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1068335/",
+      "name": "朱莉·康德拉 Julie Condra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361563/",
+      "name": "查理·鲁德波卡农 Charlie Ruedpokanon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361681/",
+      "name": "布拉汉姆·沙卜 Brahim Chab"
+    }
+  ]
+,
+  "datePublished": "2019-11-26",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "故事发生在僵尸病毒爆发的后末日世界，马克·达卡斯考斯饰演的主人公竭尽全力的保证家人的安全。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

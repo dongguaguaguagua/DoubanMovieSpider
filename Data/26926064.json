@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伊娃 Eva",
+  "url": "/subject/26926064/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2511847719.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007210/",
+      "name": "伯努瓦·雅克 Benoît Jacquot"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007210/",
+      "name": "伯努瓦·雅克 Benoît Jacquot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014623/",
+      "name": "詹姆斯·哈德利·契斯 James Hadley Chase"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298954/",
+      "name": "吉尔·托兰 Gilles Taurand"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054515/",
+      "name": "伊莎贝尔·于佩尔 Isabelle Huppert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036470/",
+      "name": "加斯帕德·尤利尔 Gaspard Ulliel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365719/",
+      "name": "朱丽亚·罗伊 Julia Roy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055175/",
+      "name": "理查德·贝里 Richard Berry"
+    }
+  ]
+,
+  "datePublished": "2018-02-17",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H40M",
+  "description": "伊莎贝尔·于佩尔将出演伯努瓦·雅克执导的新版《伊娃》，该片改编自詹姆斯·哈德利·契斯的同名小说，讲述了一位威尔士作家受到一个爱财如命的蛇蝎女人引诱的故事。1962年老版主演让娜·莫罗。新版编剧吉尔·托...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "290",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

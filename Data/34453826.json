@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "穿过灰烬 Through the Ashes",
+  "url": "/subject/34453826/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561435165.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028575/",
+      "name": "迈克尔·弗雷迪亚内利 Michael Fredianelli"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028575/",
+      "name": "迈克尔·弗雷迪亚内利 Michael Fredianelli"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-05-14",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H35M",
+  "description": "A vicious man-made fire leaves the once idyllic suburb of Eternity reduced to rubble. Emerging from ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

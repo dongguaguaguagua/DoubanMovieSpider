@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "动物方言",
+  "url": "/subject/30437755/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2560017223.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319073/",
+      "name": "雷磊 Lei Lei"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319073/",
+      "name": "雷磊 Lei Lei"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-02-11",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H8M",
+  "description": "《动物方言》入围了第69届柏林电影节论坛单元，是独立动画导演雷磊的首部长片作品，这将是一部与家庭记忆相关的实验动画。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "486",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

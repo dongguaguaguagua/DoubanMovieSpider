@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亚特兰蒂斯 Atlantis",
+  "url": "/subject/27006586/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174449/",
+      "name": "迈克尔·迈耶 Michael Mayer"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6b4c\u821e"],
+  "duration": "",
+  "description": "福斯将筹拍音乐电影[亚特兰蒂斯](Atlantis，暂译)。[暗之光]导演迈克尔·迈耶执导，马丁·海因斯([玩具总动员4])操刀剧本，“菲董”法瑞尔·威廉姆斯任制片之一。影片创作灵感则源自菲董在弗吉尼...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "墨西哥裔美国人 El Chicano",
+  "url": "/subject/27132201/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2543007192.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276504/",
+      "name": "本布雷 Ben Bray"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276504/",
+      "name": "本布雷 Ben Bray"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044728/",
+      "name": "乔·卡纳汉 Joe Carnahan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1100321/",
+      "name": "弗兰克·格里罗 Frank Grillo"
+    }
+  ]
+,
+  "datePublished": "2018-09-22",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT2H22M",
+  "description": "“交叉骨”弗兰克·格里罗将出演新片[墨西哥裔美国人](El Chicano，暂译)。在[战狼2]中有出色表现的弗兰克·格里罗，在刚刚发布预告的[舵手]后，又将出演新的动作片。影片将讲述两兄弟因性格迥异...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "82",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

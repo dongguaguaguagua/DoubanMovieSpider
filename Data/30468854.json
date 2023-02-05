@@ -1,0 +1,95 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "秋寒江南",
+  "url": "/subject/30468854/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2588951421.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433641/",
+      "name": "罗仪威 Yiwei Luo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433641/",
+      "name": "罗仪威 Yiwei Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366893/",
+      "name": "庹政 Zheng Tuo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325790/",
+      "name": "孙健淇 Jianqi Sun "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433293/",
+      "name": "刁秋语 Qiuyu Diao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397825/",
+      "name": "刘语乔 Yuqiao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409023/",
+      "name": "吴一凡 Yifan Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433296/",
+      "name": "汤维文 Weiwen Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355805/",
+      "name": "张歌 Ge Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327313/",
+      "name": "杨舒枫 Shufeng Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433621/",
+      "name": "李雨蔓 Yuman Li"
+    }
+  ]
+,
+  "datePublished": "2020-03-08",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u6b66\u4fa0"],
+  "duration": "PT1H45M",
+  "description": "根据庹政同名原著小说改编。
+《秋寒江南》讲述了默默无闻的镖师时非我(孙健淇饰)一剑挑四皓，从此名声大噪并成为了四平镖局的总镖头，并被委以重任护送江湖宝物——神龙令后发生的系列故事。护镖途中险象环生，各...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2132",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

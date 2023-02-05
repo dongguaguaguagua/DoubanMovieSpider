@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "汽油贼 Huachicolero",
+  "url": "/subject/33416910/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553985081.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358168/",
+      "name": "帕斯卡西奥·洛佩斯 Pascacio López"
+    }
+  ]
+,
+  "datePublished": "2019-04-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "一次无辜的撞车事件促使14岁的拉洛落入非法开采汽油的犯罪黑社会。最新的智能手机是一条快速发展的道路，也让他陷入一场致命的斗争。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

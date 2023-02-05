@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "维多利亚·伍德哈尔 Victoria Woodhull",
+  "url": "/subject/27002824/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002732/",
+      "name": "布莱特·拉特纳 Brett Ratner"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027194/",
+      "name": "布丽·拉尔森 Brie Larson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "布丽·拉尔森将主演亚马逊传记片[维多利亚·伍德哈尔](Victoria Woodhull,暂译)，同时还将担任该片的制片人。维多利亚·伍德哈尔是一个女权主义者，她在1872年成为第一个被提名为美国总统...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

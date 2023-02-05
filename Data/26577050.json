@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黄金目标 High Value Target",
+  "url": "/subject/26577050/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2257995361.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328352/",
+      "name": "帕特里克·休斯 Patrick Hughes"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244736/",
+      "name": "迈克尔·麦克格雷 Michael McGrale"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049484/",
+      "name": "杰森·斯坦森 Jason Statham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004643/",
+      "name": "托尼·贾 Tony Jaa"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u6218\u4e89"],
+  "duration": "",
+  "description": "由杰森·斯坦森、托尼·贾两大硬汉联袂出演的动作新片《黄金目标》(High Value Target，暂译)初步定档2017年初上映。影片讲述杰森·斯坦森饰演的特种兵，参与突袭索马里海盗的危险任务并艰难...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

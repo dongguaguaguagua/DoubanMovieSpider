@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寒刀凛",
+  "url": "/subject/34436384/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2565837646.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391914/",
+      "name": "高成岗 Chenggang Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420574/",
+      "name": "曾嘉 Jia Zeng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332806/",
+      "name": "刘峰超 Fengchao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363921/",
+      "name": "尹键 Jian Yin"
+    }
+  ]
+,
+  "datePublished": "2019-06-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "明朝年间，锦衣卫陆钦因罪被发配充军，途中因缘际会，与樊英押送贪官张嵩回京指认通敌太监王公公。经过生死追逃，最终陆钦牺牲，张嵩抵京，却被王公公处死于监牢。多年后，王公公被樊英击杀，善恶终得报。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

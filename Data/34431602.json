@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "万事屋",
+  "url": "/subject/34431602/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559478928.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385811/",
+      "name": "连柏颖 Anthony Lien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404092/",
+      "name": "欧阳春晓 Aurora Ouyang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365364/",
+      "name": "许伟豪 Tony Xu"
+    }
+  ]
+,
+  "datePublished": "2019-06-05",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H25M",
+  "description": "拜金主义者万金成在“赌城”拉斯维加斯经营一家神秘的万事屋。传说他藏有印第安一族自远古传承的通灵权杖，具有控制人心的能力。金融巨子上官静找到万金成，委托他救出被暴发户董歌球软禁的千金小姐沈小妍。万金成救...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

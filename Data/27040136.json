@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿尔忒弥斯 Artemis",
+  "url": "/subject/27040136/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2458558584.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290316/",
+      "name": "菲尔·罗德 Phil Lord"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1119399/",
+      "name": "克里斯托弗·米勒 Christopher Miller"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364027/",
+      "name": "吉内瓦·德沃莱特-罗宾森 Geneva Robertson-Dworet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352278/",
+      "name": "安迪·威尔 Andy Weir"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "《火星救援》原著作者安迪·威尔的科幻新作《阿尔忒弥斯》也将被改编成电影，讲述设定在月球之上的犯罪故事，基于真实科学来构造世界观。前《韩·索罗外传》导演菲尔·洛德＆克里斯托弗·米勒执导，福斯＆New R...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

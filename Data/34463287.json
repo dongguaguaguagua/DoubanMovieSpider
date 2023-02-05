@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "颠倒的姐妹 倒錯の義姉妹",
+  "url": "/subject/34463287/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372322/",
+      "name": "望月加奈 Kana Mochizuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362108/",
+      "name": "北条麻妃 Maki Hojo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351677/",
+      "name": "翔田千里 Chisato Shôda"
+    }
+  ]
+,
+  "datePublished": "2019-06-14",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT2H20M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

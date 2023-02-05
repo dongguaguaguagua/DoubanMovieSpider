@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黄飞鸿之王者无敌",
+  "url": "/subject/34454652/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2576970461.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434238/",
+      "name": "黑子 Kaiyi Liu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353993/",
+      "name": "薛江涛 Jiangtao Xue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403619/",
+      "name": "杨乾龙 Qianlong Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376536/",
+      "name": "郑文森 Jason Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446542/",
+      "name": "马瑶瑶 Yaoyao Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390996/",
+      "name": "史洪波 Hung-Bor Sze"
+    }
+  ]
+,
+  "datePublished": "2019-03-16",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT1H30M",
+  "description": "清朝末期，清政府由于闭关锁国导致经济衰退。黄飞鸿因民族大义、家国情怀而错过与十三姨的婚事，导致十三姨心灰意冷出走上海。黄飞鸿为了寻回十三姨加上找回丢失的墨龙图也随后前往上海。十三姨来到上海投奔了自己的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "391",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

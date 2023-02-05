@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我，满意",
+  "url": "/subject/33404737/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553212291.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376760/",
+      "name": "荣光荣 Guangrong Rong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376760/",
+      "name": "荣光荣 Guangrong Rong"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ac\u7591"],
+  "duration": "PT0H15M",
+  "description": "在被迁和新移民包围的某大城市，年轻的电影导演试图平衡梦想与现实，当他完全失去控制时，在一个梦中找到安慰和最终的救赎。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

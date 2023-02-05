@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐怖无人机 The Drone",
+  "url": "/subject/27600167/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2630381412.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316952/",
+      "name": "乔丹·鲁宾 Jordan Rubin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316952/",
+      "name": "乔丹·鲁宾 Jordan Rubin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018005/",
+      "name": "安妮塔·布瑞姆 Anita Briem"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321939/",
+      "name": "约翰·布罗特顿 John Brotherton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009381/",
+      "name": "西蒙·雷克斯 Simon Rex"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1123610/",
+      "name": "瑞克斯·林恩 Rex Linn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383081/",
+      "name": "尼尔·桑迪兰兹 Neil Sandilands"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1122943/",
+      "name": "冈萨洛·门内德斯 Gonzalo Menendez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333932/",
+      "name": "艾丽克斯·埃索 Alex Essoe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352714/",
+      "name": "克里斯托弗·马修·库克 Christopher Matthew Cook"
+    }
+  ]
+,
+  "datePublished": "2019-01-28",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H22M",
+  "description": "一对夫妻买的无人机有了人类意识，且是一个连环杀手的意识，带来血腥杀机……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "98",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

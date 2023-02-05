@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "给您带来不便 El inconveniente",
+  "url": "/subject/33218479/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2551358862.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192427/",
+      "name": "贝尔纳维·里科 Bernabé Rico"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192427/",
+      "name": "贝尔纳维·里科 Bernabé Rico"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296290/",
+      "name": "Juan Carlos Rubio Juan Carlos Rubio"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1058288/",
+      "name": "胡安娜·阿科斯塔 Juana Acosta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330088/",
+      "name": "丹尼尔·格劳 Daniel Grao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028583/",
+      "name": "何塞·萨克里斯坦 José Sacristán"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048380/",
+      "name": "基蒂·曼维尔 Kiti Manver"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330859/",
+      "name": "卡洛斯·阿雷塞斯 Carlos Areces"
+    }
+  ]
+,
+  "datePublished": "2020-12-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Sara is offered the perfect apartment: roomy, very bright, luxurious and so inexpensive. There&#39;s jus...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "盖世英雄",
+  "url": "/subject/30372428/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539261930.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345546/",
+      "name": "刘鸿志 Alexander Lau"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345546/",
+      "name": "刘鸿志 Alexander Lau"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376538/",
+      "name": "何蓝逗 Lan He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360056/",
+      "name": "森竣 Chun Sen"
+    }
+  ]
+,
+  "datePublished": "2018-11-10",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u6b66\u4fa0"],
+  "duration": "PT1H23M",
+  "description": "近日来，江湖上一些门派的元老莫名被杀，江湖上人心惶惶。公孙洵接连收到高手挑战，一次偶遇到和死去的师父鸿长得一摸一样的玥儿，鸿虽然是公孙洵的师父，也是他的爱人，洵却因为世俗观念不敢和师父成亲，鸿含泪自杀...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

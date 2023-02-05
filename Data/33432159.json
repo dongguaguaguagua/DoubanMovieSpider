@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无名者的攻击 Attack of the Unknown",
+  "url": "/subject/33432159/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555211009.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048369/",
+      "name": "布兰登·萨拉格尔 Brandon Slagle"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048369/",
+      "name": "布兰登·萨拉格尔 Brandon Slagle"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040532/",
+      "name": "塔拉·雷德 Tara Reid"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000233/",
+      "name": "理查德·格里克 Richard Grieco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108075/",
+      "name": "罗伯特·拉萨多 Robert LaSardo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444355/",
+      "name": "丹尼安·詹布隆 Dennyann Giambrone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473280/",
+      "name": "杰里米亚·邓巴 Jerimiyah Dunbar"
+    }
+  ]
+,
+  "datePublished": "2020-08-28",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H43M",
+  "description": "一个运送恶性犯罪集团老板的特警队在灾难性的外星人入侵期间被困在县拘留中心。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "210",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

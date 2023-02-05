@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "参与者",
+  "url": "/subject/33383423/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553269952.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364581/",
+      "name": "张文婷 Wenting Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399879/",
+      "name": "李世宇 Si Woo Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362462/",
+      "name": "颜丹 Dan Yan"
+    }
+  ]
+,
+  "datePublished": "2019-04-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H14M",
+  "description": "SG公司是全球权威欺诈游戏组织，每一年都向特定的选手发出参赛邀请，参与者们必须不断以欺诈方式淘汰对手，最后的幸存者获得巨额奖金，淘汰者则背负对应的债务。善良单纯的女大学生余晓晓,被迫参与了一个残酷的诈...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

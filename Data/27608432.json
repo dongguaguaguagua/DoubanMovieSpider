@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "初恋的滋味",
+  "url": "/subject/27608432/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508096558.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319608/",
+      "name": "关尔 David Kuan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330258/",
+      "name": "梁潇潇 Xiaoxiao Liang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392214/",
+      "name": "吴宣仪 Xuanyi Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357163/",
+      "name": "周艺轩 Yixuan Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389410/",
+      "name": "朱正廷 Zhengting Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392209/",
+      "name": "孟美岐 Meiqi Meng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339332/",
+      "name": "安又琪 Angela"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376983/",
+      "name": "程剑 Jian Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354465/",
+      "name": "赵吉 Ji Zhao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "上个世纪四五十年代，曼娜在南方某个小县城上中学，天真烂漫无忧无虑和好朋友樱桃一起享受青春的馈赠，但这一切被樱桃的上海表哥李聪打破，那个摩登浪漫热情的白衣少年击中了曼娜对于爱情的全部想象，没想到一场运动...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

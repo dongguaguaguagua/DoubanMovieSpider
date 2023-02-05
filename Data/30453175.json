@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伊门霍夫：一个夏天的冒险 Immenhof - Das Abenteuer eines Sommers",
+  "url": "/subject/30453175/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2547293978.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1106469/",
+      "name": "海纳·劳特尔巴赫 Heiner Lauterbach"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029737/",
+      "name": "本杰明·特林克斯 Benjamin Trinks"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1130970/",
+      "name": "沃坦·维尔克·默林 Wotan Wilke Möhring"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453853/",
+      "name": "莫里茨·贝克尔林 Moritz Bäckerling"
+    }
+  ]
+,
+  "datePublished": "2019-01-17",
+  "genre": ["\u5267\u60c5", "\u5192\u9669"],
+  "duration": "PT1H39M",
+  "description": "After the death of their father three sisters, sixteen year old Lou, Charly who is in her early twen...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

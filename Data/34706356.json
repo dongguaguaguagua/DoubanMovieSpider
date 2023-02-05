@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三人逃生团 3 Lives",
+  "url": "/subject/34706356/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2563963233.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337164/",
+      "name": "梅丽·卡尔维 Mhairi Calvey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016717/",
+      "name": "安纳托·陶布曼 Anatole Taubman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022918/",
+      "name": "维克多·埃菲尔 Victor Alfieri"
+    }
+  ]
+,
+  "datePublished": "2019-08-07",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "A woman on the run from ruthless kidnappers discovers her rescuer is the man jailed for attacking he...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

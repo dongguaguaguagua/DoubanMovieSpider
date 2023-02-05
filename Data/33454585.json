@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "本地人 Mr.Local",
+  "url": "/subject/33454585/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2557145985.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425600/",
+      "name": "斯瓦卡蒂恩 Sivakarthikeyan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195838/",
+      "name": "纳彦塔拉 Nayanthara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339196/",
+      "name": "丹比·拉马亚 Thambi Ramayya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377634/",
+      "name": "约吉·巴布 Yogi Babu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360261/",
+      "name": "约翰·维杰 John Vijay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427034/",
+      "name": "萨第什 Sathish"
+    }
+  ]
+,
+  "datePublished": "2019-05-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "A happy-go-lucky guy lands in trouble after he locks horns with an egoistic lady. Both of qigou.cc t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

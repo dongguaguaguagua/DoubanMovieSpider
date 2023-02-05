@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一次聚会 Der Vorname",
+  "url": "/subject/30183061/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542554024.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050374/",
+      "name": "宋克·沃特曼 Sönke Wortmann"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415572/",
+      "name": "克劳迪厄斯·普拉金 Claudius Pläging"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327246/",
+      "name": "马修·德拉波特 Matthieu Delaporte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010322/",
+      "name": "亚历山大·德·拉·巴特里耶 Alexandre de La Patellière"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055338/",
+      "name": "伊赫斯·贝尔本 Iris Berben"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199296/",
+      "name": "弗洛里安·大卫·菲茨 Florian David Fitz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1096151/",
+      "name": "克里斯托夫·玛丽亚·赫布斯特 Christoph Maria Herbst"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395506/",
+      "name": "塞尔坎·卡亚 Serkan Kaya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332250/",
+      "name": "卡罗琳·彼得斯 Caroline Peters"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1179476/",
+      "name": "亚妮娜·乌泽 Janina Uhse"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037141/",
+      "name": "尤斯图斯·冯·多赫纳尼 Justus von Dohnányi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415573/",
+      "name": "克里斯蒂安·斯基宾斯基 Christian Skibinski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415572/",
+      "name": "克劳迪厄斯·普拉金 Claudius Pläging"
+    }
+  ]
+,
+  "datePublished": "2018-10-18",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H31M",
+  "description": "斯蒂芬(克里斯托弗·玛利亚·赫布斯特饰)和他的妻子伊丽莎白(卡罗琳·彼得斯饰)在波恩的家中组织了一场晚宴。受邀的有他们的朋友勒内，伊丽莎白的弟弟托马斯和他怀孕的女友安娜 。托马斯宣布想给孩子取名为「阿...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4446",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Tycho",
+  "url": "/subject/30226436/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101461/",
+      "name": "马克斯·格隆切克 Max Grodénchik"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u6b4c\u821e", "\u4f20\u8bb0", "\u5386\u53f2"],
+  "duration": "",
+  "description": "The year 1601: At the funeral of the eccentric yet brilliant astronomer Tycho Brahe, an illustrious ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

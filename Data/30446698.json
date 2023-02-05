@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一品爵爷",
+  "url": "/subject/30446698/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2546742392.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452392/",
+      "name": "苗大伟 Dawei Miao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452392/",
+      "name": "苗大伟 Dawei Miao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042785/",
+      "name": "温兆伦 Siu-Lun Wan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108968/",
+      "name": "罗家英 Kar-Ying Law"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016771/",
+      "name": "吴孟达 Man Tat Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329167/",
+      "name": "王宁 Ning Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274573/",
+      "name": "刘乔方 Rain Lau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360367/",
+      "name": "王宁 Ning Wang"
+    }
+  ]
+,
+  "datePublished": "2019-02-19",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u5386\u53f2"],
+  "duration": "PT1H20M",
+  "description": "讲述了一品爵爷陈绳武与顺治皇帝落入了穆里玛的圈套当中流落民间，恰好来到了滇南王的地盘并在认识了滇南王的未婚妻夜莺，为了拯救夜莺和顺治陈绳武与滇南王吴大帅及其子吴少保往来周旋的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "高地人(新版) Highlander",
+  "url": "/subject/3078396/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1154486/",
+      "name": "查德·斯塔赫斯基 Chad Stahelski"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286819/",
+      "name": "马特·霍洛维 Matt Holloway"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306770/",
+      "name": "阿特·马库姆 Art Marcum"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049850/",
+      "name": "梅莉莎·罗森伯格 Melissa Rosenberg"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044713/",
+      "name": "亨利·卡维尔 Henry Cavill"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "顶峰娱乐公司（Summit Entertainment）今天宣布，《速度与激情》（Fast &amp; Furious）导演林诣彬（Justin Lin）将执导新版《高地人》（Highlander），把这部邪...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

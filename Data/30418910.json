@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "滑雪日 Les Petits Flocons",
+  "url": "/subject/30418910/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2544302068.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321531/",
+      "name": "约瑟芬娜·德·摩 Joséphine de Meaux"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321531/",
+      "name": "约瑟芬娜·德·摩 Joséphine de Meaux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404262/",
+      "name": "本杰明·查比特 Benjamin Charbit"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409641/",
+      "name": "珍妮·亨利 Jeanne Herry"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321531/",
+      "name": "约瑟芬娜·德·摩 Joséphine de Meaux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303251/",
+      "name": "古斯塔弗·科文 Gustave Kervern"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358808/",
+      "name": "格雷瓜尔·鲁迪格 Grégoire Ludig"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445252/",
+      "name": "让-查理·克里切特 Jean-Charles Clichet"
+    }
+  ]
+,
+  "datePublished": "2019-01-23",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

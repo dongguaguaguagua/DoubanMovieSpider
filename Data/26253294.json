@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "走向巴黎 Walking to Paris",
+  "url": "/subject/26253294/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2321339885.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002804/",
+      "name": "彼得·格林纳威 Peter Greenaway"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002804/",
+      "name": "彼得·格林纳威 Peter Greenaway"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258410/",
+      "name": "埃蒙·埃利奥特 Emun Elliott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337333/",
+      "name": "卡拉·朱里 Carla Juri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1221261/",
+      "name": "安德烈娅卡杜齐奥 Andrea Scarduzio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350419/",
+      "name": "马切罗·马扎雷拉 Marcello Mazzarella"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u5192\u9669"],
+  "duration": "",
+  "description": "27岁的罗马尼亚雕塑家康斯坦丁·布朗库西(Constantin Brancusi)在1903年与1904年从布加勒斯特走向巴黎，作为将来成为二十世纪最重要的雕塑家的前奏，布朗库西离开喀尔巴阡山脉南部的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

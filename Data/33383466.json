@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超时空日记",
+  "url": "/subject/33383466/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2551879794.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1466684/",
+      "name": "兰彬 Bin Lan"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451036/",
+      "name": "陈露茜 Luxi Chen"
+    }
+  ]
+,
+  "datePublished": "2021-12-03",
+  "genre": ["\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H56M",
+  "description": "该剧讲述的是27岁的何文艺深受逼婚迫害，忘不了高中时期暗恋的男神杨啸，导致她一直无法开启恋情。十分困扰之际，得知男神杨啸与高中同学刘伊心的婚讯，十分痛苦。在一次烂醉时，得到一个神秘人赐予的日记本。通过...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

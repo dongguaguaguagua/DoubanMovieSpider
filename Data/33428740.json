@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "七月的舞步",
+  "url": "/subject/33428740/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2672954030.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441362/",
+      "name": "曹岸 An Cao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441362/",
+      "name": "曹岸 An Cao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329792/",
+      "name": "张予曦 Yuxi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316146/",
+      "name": "黄小蕾 Xiaolei Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362352/",
+      "name": "黄景行 Jingxing Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274652/",
+      "name": "姜超 Chao Jiang"
+    }
+  ]
+,
+  "datePublished": "2021-07-24",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "七月毕业季，人生中最美好、最热烈的夏天，每个年轻人都抱着对未来的茫然尽情狂欢。热爱自由、特立独行的顾悠悠（张予曦饰）热爱街舞，在老妈（黄小蕾饰）的期许下学习着芭蕾舞，在每个人的青春时代，有彷徨也有热血...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "778",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

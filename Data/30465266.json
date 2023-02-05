@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "离婚俱乐部 Divorce Club",
+  "url": "/subject/30465266/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2581413126.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036804/",
+      "name": "迈克尔·扬 Michaël Youn"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036804/",
+      "name": "迈克尔·扬 Michaël Youn"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333275/",
+      "name": "阿尔诺·杜克雷 Arnaud Ducret"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050803/",
+      "name": "弗朗索瓦-格扎维埃·德梅松 François-Xavier Demaison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379361/",
+      "name": "夏洛特·加布里斯 Charlotte Gabris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1240839/",
+      "name": "卡洛琳·安格鲁德 Caroline Anglade"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036804/",
+      "name": "迈克尔·扬 Michaël Youn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317872/",
+      "name": "奥德雷·弗勒罗 Audrey Fleurot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483397/",
+      "name": "格雷古瓦·博内 Grégoire Bonnet"
+    }
+  ]
+,
+  "datePublished": "2020-03-25",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H48M",
+  "description": "After 5 years of marriage, Ben is still madly in love. Until the day he discovers in public that his...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "264",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

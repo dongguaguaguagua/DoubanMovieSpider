@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "吻隐者",
+  "url": "/subject/26928809/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531980221.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365821/",
+      "name": "李燕宁 Yanning Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365821/",
+      "name": "李燕宁 Yanning Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312976/",
+      "name": "谭卓 Zhuo Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312861/",
+      "name": "李至正 Chris Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329200/",
+      "name": "孙亦沐 Louis Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386428/",
+      "name": "贾一雯 Yiwen Jia"
+    }
+  ]
+,
+  "datePublished": "2018-09-07",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H48M",
+  "description": "高原雪山脚下，小提琴手文峰（李至正饰）与神秘女子朵拉（谭卓饰）之间一个浪漫的邂逅之吻，竟让文峰成为了万中无一的吻瘾者，他的生活自此因对吻的迫切渴求而陷入困境，只得再次踏上高原探寻答案。一个时空交错的凄...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "960",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

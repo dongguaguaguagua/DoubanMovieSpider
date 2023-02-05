@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "舍赫拉查德 Shéhérazade",
+  "url": "/subject/30188270/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2534302636.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326878/",
+      "name": "让-贝尔纳·马赫兰 Jean-Bernard Marlin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326878/",
+      "name": "让-贝尔纳·马赫兰 Jean-Bernard Marlin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017537/",
+      "name": "凯瑟琳·派勒 Catherine Paille"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409644/",
+      "name": "迪伦·罗伯特 Dylan Robert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409643/",
+      "name": "肯扎·福特斯 Kenza Fortas"
+    }
+  ]
+,
+  "datePublished": "2018-09-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H49M",
+  "description": "17岁的扎克刚刚出狱。被母亲遗弃的他在马赛鱼龙混杂的街区闲逛，后来，他遇到了少女山鲁佐德……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "202",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

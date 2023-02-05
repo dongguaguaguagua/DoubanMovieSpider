@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "简爱之约",
+  "url": "/subject/30269067/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2545644969.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409109/",
+      "name": "张天羽 Tianyu Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409109/",
+      "name": "张天羽 Tianyu Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383369/",
+      "name": "高广泽 Guangze Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409110/",
+      "name": "王翦 Jian Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404605/",
+      "name": "赵飞燕 Feiyan Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409111/",
+      "name": "金绍仁 Shaoren Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409112/",
+      "name": "张奕 Yi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336857/",
+      "name": "常海波 Haibo Chang"
+    }
+  ]
+,
+  "datePublished": "2019-01-31",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "大龄IT剩男向陌，年过三十无女友无绯闻，一度被认为心理有问题，公司老板的千金周思彤从法国留学回来，担任设计师的她异常尖刻严厉，女员工们深受其苦，又跟父亲的小女友水火不容，不知她真实身份的向陌因一时仗义...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

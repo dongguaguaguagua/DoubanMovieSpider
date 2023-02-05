@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "南方码头 Terminal Sud",
+  "url": "/subject/33444754/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2567422950.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303918/",
+      "name": "拉巴赫·阿莫尔-兹梅什 Rabah Ameur-Zaïmeche"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303918/",
+      "name": "拉巴赫·阿莫尔-兹梅什 Rabah Ameur-Zaïmeche"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032792/",
+      "name": "朗齐·贝迪亚 Ramzy Bedia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388575/",
+      "name": "苏莱曼·达兹 Slimane Dazi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050811/",
+      "name": "雅各·诺勒 Jacques Nolot"
+    }
+  ]
+,
+  "datePublished": "2019-08-12",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H36M",
+  "description": "2019年洛迦诺国际电影节主竞赛单元的片子，阿尔及利亚导演拉巴赫·阿莫尔·兹梅什的新片，法国《电影手册》五星力荐！在一个陷入武装冲突的国家，一名医生试图尽他的职责，克服一切困难，直到他的命运被颠倒的一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "243",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

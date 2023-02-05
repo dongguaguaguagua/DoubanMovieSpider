@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "怪物 Monster",
+  "url": "/subject/25791224/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027182/",
+      "name": "吉尔莫·德尔·托罗 Guillermo del Toro"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337518/",
+      "name": "史蒂夫·汤普森 Steve Thompson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027182/",
+      "name": "吉尔莫·德尔·托罗 Guillermo del Toro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014876/",
+      "name": "浦泽直树 Naoki Urasawa"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

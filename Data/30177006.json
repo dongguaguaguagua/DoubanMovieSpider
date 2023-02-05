@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拯救巴黎的男人 The Man Who Saved Paris",
+  "url": "/subject/30177006/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008216/",
+      "name": "罗伯特·布德里奥 Robert Budreau"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040517/",
+      "name": "斯坦利·图齐 Stanley Tucci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021997/",
+      "name": "克里斯汀·斯科特·托马斯 Kristin Scott Thomas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025182/",
+      "name": "让·雷诺 Jean Reno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036397/",
+      "name": "汤姆·威尔金森 Tom Wilkinson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045359/",
+      "name": "杰丝敏·特丽卡 Jasmine Trinca"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329898/",
+      "name": "爱伊莎·玛依卡 Aïssa Maïga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267954/",
+      "name": "麦肯吉·弗依 Mackenzie Foy"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "The most successful brothel owner in Paris during the 1940&#39;s is asked by the government to restore t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

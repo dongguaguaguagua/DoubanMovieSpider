@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超级豪华 Super Deluxe",
+  "url": "/subject/33407594/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553380370.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339193/",
+      "name": "维杰·西图帕提 Vijay Sethupathi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267011/",
+      "name": "萨曼莎·鲁斯·帕布 Samantha Ruth Prabhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350819/",
+      "name": "拉姆亚·克里希南 Ramya Krishnan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432859/",
+      "name": "法哈德·法西尔 Fahadh Faasil"
+    }
+  ]
+,
+  "datePublished": "2019-03-29",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT2H56M",
+  "description": "一位不忠的新婚妻子、一位分居的父亲、一位牧师和一位愤怒的儿子突然发现自己陷入了最意想不到的困境，每个人都准备在一个决定命运的日子里经历自己的命运。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "273",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

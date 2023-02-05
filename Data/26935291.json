@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "危情假日",
+  "url": "/subject/26935291/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275139/",
+      "name": "薛晓路 Xiaolu Xue"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275139/",
+      "name": "薛晓路 Xiaolu Xue"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274242/",
+      "name": "黄渤 Bo Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328769/",
+      "name": "贾玲 Ling Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351014/",
+      "name": "张小斐 Xiaofei Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "薛晓路导演继《北京遇上西雅图》这一IP两部曲的以小博大后，依旧把创作关注点聚焦于“人情”，有一部颇有当年《海洋天堂》气质的新片《危情假日》立项",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

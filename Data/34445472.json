@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "斯托克山 Stoker Hills",
+  "url": "/subject/34445472/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560815147.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290342/",
+      "name": "本杰明·路易斯 Benjamin Louis"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036498/",
+      "name": "托尼·托德 Tony Todd"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004971/",
+      "name": "斯蒂芬妮·布拉斯 Steffani Brass"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009378/",
+      "name": "威廉姆·李·斯科特 William Lee Scott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036855/",
+      "name": "埃里克·艾特巴里 Eric Etebari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049735/",
+      "name": "丹尼·努齐 Danny Nucci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1064467/",
+      "name": "约翰·比斯利 John Beasley"
+    }
+  ]
+,
+  "datePublished": "2020-11-13",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H31M",
+  "description": "Three college students, Ryan, Jake, and Erica, set out to film a great horror movie for one of their...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "197",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "虎门镖局",
+  "url": "/subject/33404575/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2584541510.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380841/",
+      "name": "罗永强 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367183/",
+      "name": "辛祚宇 Zuoyu Xin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327277/",
+      "name": "楼学贤 Jackson Lau Hok-Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416410/",
+      "name": "朱瑞祥 Ruixiang Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314540/",
+      "name": "温海波 Haibo Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398251/",
+      "name": "梁鑫 Xin Liang"
+    }
+  ]
+,
+  "datePublished": "2020-02-05",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u6b66\u4fa0"],
+  "duration": "PT1H24M",
+  "description": "本片讲述的是明神宗在位期间因沉迷酒色，无心打理朝政，导致宦官霸权残害忠良 ，朝廷内外血流成河，民不聊生。一代忠臣杨颐云被东缉事场督主陈霸天灭门， 其女杨桂珍被包装成公主交付虎门镖局押送关外与满族蛮王和...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

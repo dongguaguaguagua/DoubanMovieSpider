@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马赛克少女",
+  "url": "/subject/26844905/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560047915.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350901/",
+      "name": "翟义祥 Yixiang Zhai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350901/",
+      "name": "翟义祥 Yixiang Zhai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322085/",
+      "name": "王砚辉 Yanhui Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313837/",
+      "name": "王传君 Chuanjun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417271/",
+      "name": "张童汐 Tongxi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330093/",
+      "name": "吕星辰 Xingchen Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330403/",
+      "name": "代汝茜 Ruqian Dai"
+    }
+  ]
+,
+  "datePublished": "2019-07-03",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H47M",
+  "description": "《马赛克少女》的故事起于一桩社会迷案。西南小镇14岁女孩徐萦因突发状况被卷入旋涡中心，父亲徐广军试图寻回公道却手足无措，来自大城市记者贾世明以外来眼光打量这片迷雾笼罩之地。
+影片以人的疏离隔阂及生存空...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "640",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

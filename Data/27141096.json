@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "喜好甜食 Sweet Tooth",
+  "url": "/subject/27141096/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236242/",
+      "name": "尼克·布林克 Nico van den Brink"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236242/",
+      "name": "尼克·布林克 Nico van den Brink"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "华纳旗下的新线影业又将联手温子仁打造全新恐怖片，该公司日前购得荷兰恐怖短片《喜好甜食》(Sweet Tooth)的发行权，将改编成长篇剧情片，短片导演Nico van den Brink也将执导这部电...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

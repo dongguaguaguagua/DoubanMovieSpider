@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "最乖巧的杀人犯 最乖巧的殺人犯",
+  "url": "/subject/30342870/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2563770698.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367960/",
+      "name": "庄景燊 Ching Shen Chuang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316676/",
+      "name": "王莉雯 Garance Li-Wen Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395839/",
+      "name": "廖柏茗 Po-Ming Liao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316676/",
+      "name": "王莉雯 Garance Li-Wen Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276073/",
+      "name": "黄河 River Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425242/",
+      "name": "王真琳 Chen-Lin Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449698/",
+      "name": "王恩咏 En-Young Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449697/",
+      "name": "吕福禄 Fu-Lu Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358344/",
+      "name": "何瑷芸 Ai-yun Ho"
+    }
+  ]
+,
+  "datePublished": "2019-08-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "阿南是个镇日处在虚拟世界里生活的动画宅，他疯狂迷恋动画「波比达」。他与妈妈及失智爷爷同住，向来平静的生活在落魄的叔叔带着女友搬回家之后改变了，一家人时时处在对立状况。阿南迷恋上了一位同样喜欢波比达动画...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "109",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

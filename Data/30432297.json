@@ -1,0 +1,130 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大三元",
+  "url": "/subject/30432297/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2555489812.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408604/",
+      "name": "陈怡妤 Yi-Yu Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428856/",
+      "name": "姜素秋 Blanche Chiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408604/",
+      "name": "陈怡妤 Yi-Yu Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348955/",
+      "name": "张轩睿 Derek Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313647/",
+      "name": "陈嘉桦 Ella Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318432/",
+      "name": "黄仲昆 Chung-kun Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326770/",
+      "name": "方季韦 Sophia Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338257/",
+      "name": "温翠苹 Tsui Ping Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377288/",
+      "name": "海裕芬 Heaven Hai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332910/",
+      "name": "巴钰 Orange Pa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316975/",
+      "name": "严正岚 Vera Yen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313481/",
+      "name": "陶传正 Chuan-cheng Tao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318813/",
+      "name": "王彩桦 Lotus Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406035/",
+      "name": "吴承洋 Chris Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362161/",
+      "name": "莫爱芳 Ai-fang Mo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433470/",
+      "name": "胡恩瑞 N.-Ray Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364692/",
+      "name": "颜毓麟 KennyYen"
+    }
+  ]
+,
+  "datePublished": "2019-02-01",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H51M",
+  "description": "盛晓白因中表弟圈套未能参加盛家传庄大典，他的叔叔盛东风和他的父亲盛南风因家产分配有了意见分歧，最后决定以麻将输赢来定夺财产分配。在经过激烈的麻将大赛后，盛东风输掉了比赛，最后连原本的继承人儿子盛晓白也...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "404",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

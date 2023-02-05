@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你的美丽",
+  "url": "/subject/27140093/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2548418551.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359381/",
+      "name": "徐利 Li Xu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334597/",
+      "name": "钮宝平 Baoping Niu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361613/",
+      "name": "李佳乐 Jiale Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400443/",
+      "name": "火喻 Yu Huo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368123/",
+      "name": "易登林 Denglin Yi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400442/",
+      "name": "韩许安 Xuan Han"
+    }
+  ]
+,
+  "datePublished": "2019-03-03",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u513f\u7ae5"],
+  "duration": "PT1H28M",
+  "description": "电影《你的美丽》是一部青春、励志、正能量、感恩的影片。讲述的是知名服装设计师崔昱虽被业内称为鬼才设计师，但为人刻薄，极度自负，被同行设计陷害，落入低谷，在一次偶然的机会结识了自闭症少年小艺，演绎出了一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Éléonore",
+  "url": "/subject/30462464/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2610222811.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1098978/",
+      "name": "阿姆鲁·哈姆扎维 Amro Hamzawi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1098978/",
+      "name": "阿姆鲁·哈姆扎维 Amro Hamzawi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401622/",
+      "name": "诺拉·哈姆扎维 Nora Hamzawi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401622/",
+      "name": "诺拉·哈姆扎维 Nora Hamzawi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342305/",
+      "name": "朱莉娅·福雷 Julia Faure"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295511/",
+      "name": "多米尼克·雷蒙 Dominique Reymond"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317471/",
+      "name": "约瑟芬·德·拉·波美 Joséphine de La Baume"
+    }
+  ]
+,
+  "datePublished": "2020-09-23",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Under the pressure of her mother and sister, failed-writer Eleonore Berthier undergoes a complete ma...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "やめて。2 ~ホラーTVシリーズ~",
+  "url": "/subject/30192002/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521561317.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398551/",
+      "name": "山田雅史 Masafumi Yamada"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398551/",
+      "name": "山田雅史 Masafumi Yamada"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-05-30",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "ホラー作品で活躍する監督たちが幽霊や妖怪、特殊能力などを題材に「やめて」と叫びたくなる恐怖を描いたオムニバスホラー第2弾。「道にいる男」「少女が望むもの」「或ル、ウチュウ人」「罔象女の仔~ミツハメのこ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

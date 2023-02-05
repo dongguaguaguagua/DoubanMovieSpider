@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三块石",
+  "url": "/subject/33437030/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2555646343.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416025/",
+      "name": "曲阳 Yang Qu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2020-12-11",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5386\u53f2", "\u6218\u4e89"],
+  "duration": "PT1H38M",
+  "description": "甲午战后，大批日本人移民到中国东北地区。他们很多人都携家带口，有些人甚至在中国成立家庭、生儿育女。这些在中国长大的日本人，对中日两国有着极为复杂的情感。抗日战争打响之后，其中的一部分人和一些被改造的日...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

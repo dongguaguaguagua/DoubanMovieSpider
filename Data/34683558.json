@@ -1,0 +1,78 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿琼警官 Arjun Patiala",
+  "url": "/subject/34683558/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2563834252.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418692/",
+      "name": "迪尔吉特·多桑 Diljit Dosanjh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340571/",
+      "name": "克里蒂·萨农 Kriti Sanon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427052/",
+      "name": "瓦伦·沙玛 Varun Sharma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1142085/",
+      "name": "洛尼特·罗伊 Ronit Roy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407551/",
+      "name": "穆罕默德·齐尚·艾布 Mohammed Zeeshan Ayyub"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396800/",
+      "name": "巴拉特·巴蒂 Bharat Bhatia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277181/",
+      "name": "桑托什·阿南德 Santosh Anand"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455857/",
+      "name": "西玛·帕瓦 Seema Bhargava"
+    }
+  ]
+,
+  "datePublished": "2019-07-26",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H47M",
+  "description": "This spoof comedy narrates the story of a cop Arjun Patiala (Diljit Dosanjh) and his sidekick Onidda...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "军令状",
+  "url": "/subject/30255135/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2580232248.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368958/",
+      "name": "白羽 Yu Bai"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351633/",
+      "name": "符涛 Tao Fu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441206/",
+      "name": "王娇 Jiao Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u6218\u4e89"],
+  "duration": "",
+  "description": "战斗中新四军发报机电子管损坏。先后派遣二人去沪购买，一叛变、一牺牲。小战士汤水根不辱使命，凭借其机智勇敢，在自己小兄弟帮助下，争取到洪帮及上海军统站的支持。涉险深入到日军军备仓库获取了必须的电子管。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

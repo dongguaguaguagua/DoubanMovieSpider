@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "致命出轨 An Affair to Die For",
+  "url": "/subject/30334111/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545110473.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1170563/",
+      "name": "维克特·加西亚 Víctor García"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422425/",
+      "name": "埃利奥特·桑 Elliott San"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009261/",
+      "name": "克莱尔·弗兰妮 Claire Forlani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040561/",
+      "name": "杰克·阿贝尔 Jake Abel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165630/",
+      "name": "提图斯·维里沃 Titus Welliver"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383903/",
+      "name": "内森·库珀 Nathan Cooper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335224/",
+      "name": "玛丽娜·马修斯 Melina Matthews"
+    }
+  ]
+,
+  "datePublished": "2019-02-01",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H22M",
+  "description": "一场秘密的聚会。一个男人欺骗他的妻子，女人欺骗了她的丈夫，然后很快一切都变糟了。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1166",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

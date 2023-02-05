@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "歌唱动荡的青春",
+  "url": "/subject/33428718/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2556687994.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413368/",
+      "name": "杨涧华 Jianhua Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413369/",
+      "name": "庐野 Ye Lu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416498/",
+      "name": "谭小雅 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416502/",
+      "name": "张晨 Jonathan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416499/",
+      "name": "张漪妮 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416500/",
+      "name": "姚程琨 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416501/",
+      "name": "王海舰 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416503/",
+      "name": "尹嘉维 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416504/",
+      "name": "岳文莉 "
+    }
+  ]
+,
+  "datePublished": "2019-08-02",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H34M",
+  "description": "电影讲述了几个初涉社会的大学生窘迫、挫败的人生经历，他们中的美女校花为追求歌星之路被富人包养；富二代公子哥因家庭破产自谋生路；校园学霸只能从事送外卖的苦差事……昔日的天之骄子皆成社会底层的草根，他们在...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

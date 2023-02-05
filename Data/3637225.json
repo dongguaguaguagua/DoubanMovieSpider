@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "胡迪尼的秘密生活 The Secret Life of Houdini",
+  "url": "/subject/3637225/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2198987679.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354103/",
+      "name": "丹·特拉亨伯格 Dan Trachtenberg"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395769/",
+      "name": "拉瑞·斯洛曼 Larry &#39;Ratso&#39; Sloman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333683/",
+      "name": "诺亚·奥本海姆 Noah Oppenheim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406258/",
+      "name": "克里斯·布雷姆纳 Chris Bremner"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "",
+  "description": "导演丹·特拉滕伯格（Dan Trachtenberg）最近拾起了狮门公司一个被搁置许久的电影项目《胡迪尼的秘密生活》（The Secret Life of Houdini）。这部影片以魔术大师哈里·胡...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

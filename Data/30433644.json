@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "上海风云之夺宝金龙",
+  "url": "/subject/30433644/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545583231.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396470/",
+      "name": "玉素 Su Yu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414894/",
+      "name": "申晨阳 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396473/",
+      "name": "李劲峰 Jinfeng Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358074/",
+      "name": "钱大伟 Dawei Qian"
+    }
+  ]
+,
+  "datePublished": "2019-06-29",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H10M",
+  "description": "二十世纪三十年代的上海，灯红酒绿中透出重重杀机。帝国主义列强摩拳擦掌，准备对积弱的中国全面蚕食。其中尤以近邻日本，最为阴险狡诈，酝酿着惊天的阴谋。
+当下的上海滩，都关注着国宝失窃案。一条象征着皇权的黄...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

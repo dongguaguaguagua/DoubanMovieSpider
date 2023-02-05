@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你值得爱情 Tu mérites un amour",
+  "url": "/subject/33422954/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2580026855.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005260/",
+      "name": "阿弗西娅·埃尔奇 Hafsia Herzi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005260/",
+      "name": "阿弗西娅·埃尔奇 Hafsia Herzi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005260/",
+      "name": "阿弗西娅·埃尔奇 Hafsia Herzi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328877/",
+      "name": "热雷米·拉厄尔特 Jérémie Laheurte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388868/",
+      "name": "安东尼·巴容 Anthony Bajon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1299988/",
+      "name": "西尔薇·维尔海迪 Sylvie Verheyde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379411/",
+      "name": "米丽娅姆·洁洁丽 Myriam Djeljeli"
+    }
+  ]
+,
+  "datePublished": "2019-05-19",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H42M",
+  "description": "After Rémi infidelity, Lila, who loved him more than anything, has a hard time dealing with their br...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "118",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

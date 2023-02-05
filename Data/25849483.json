@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "梦海 夢海",
+  "url": "/subject/25849483/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2191661319.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274240/",
+      "name": "郑保瑞 Pou-Soi Cheang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290574/",
+      "name": "马伟豪 Joe Ma"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054424/",
+      "name": "刘德华 Andy Lau"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "未来警员进入谋杀案真凶的回忆下载罪证，却被困于对方设下的记忆迷宫，他别无选择，必须赢得这场意志较量。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

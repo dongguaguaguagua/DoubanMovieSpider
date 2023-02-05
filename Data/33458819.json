@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美味侦探",
+  "url": "/subject/33458819/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2591569847.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389939/",
+      "name": "吴立素 Lisu Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460374/",
+      "name": "路成宇 Chengyu Lu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322026/",
+      "name": "王放 Fang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420963/",
+      "name": "陈俊希 Junxi Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340964/",
+      "name": "袁百梓卉 Baizihui Yuan"
+    }
+  ]
+,
+  "datePublished": "2020-03-22",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H27M",
+  "description": "陆闻是一位酷爱美食的中国香港退役侦探。偶然间，他接到邀请前往日本横滨参加名厨封厨宴，却身陷杀局。到达横滨以后，陆闻的身边不断发生美食凶杀案，而这一切都围绕着他三年前未能勘破的大案。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1768",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

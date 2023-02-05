@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "MS Slavic 7",
+  "url": "/subject/30438159/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2547867099.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400002/",
+      "name": "索菲亚·波达诺维茨 Sofia Bohdanowicz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339272/",
+      "name": "黛拉格·坎贝尔 Deragh Campbell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400002/",
+      "name": "索菲亚·波达诺维茨 Sofia Bohdanowicz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339272/",
+      "name": "黛拉格·坎贝尔 Deragh Campbell"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339272/",
+      "name": "黛拉格·坎贝尔 Deragh Campbell"
+    }
+  ]
+,
+  "datePublished": "2019-02-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H4M",
+  "description": "1957年至1964年间，波兰诗人佐菲亚·波丹诺维奇·佐娃给波兰作家J·泽夫·维特林写了25封信。他们都流亡到北美。这些信件是哈佛大学霍顿图书馆馆藏的一部分，电话号码是Slavic 7。一个女人来这里...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

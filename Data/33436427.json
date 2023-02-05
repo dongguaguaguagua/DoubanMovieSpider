@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "棕榈滩 Palm Beach",
+  "url": "/subject/33436427/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2558830831.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049746/",
+      "name": "蕾切尔·沃德 Rachel Ward"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049746/",
+      "name": "蕾切尔·沃德 Rachel Ward"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132253/",
+      "name": "Joanna Murray-Smith Joanna Murray-Smith"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049525/",
+      "name": "山姆·尼尔 Sam Neill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048188/",
+      "name": "理查德·E·格兰特 Richard E. Grant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004699/",
+      "name": "格列塔·斯卡奇 Greta Scacchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313440/",
+      "name": "克莱尔·范·德·波姆 Claire van der Boom"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013730/",
+      "name": "布莱恩·布朗 Bryan Brown"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040666/",
+      "name": "杰奎琳·麦根斯 Jacqueline McKenzie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406241/",
+      "name": "查利·维克斯 Charlie Vickers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389565/",
+      "name": "费利克斯·威廉森 Felix Williamson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394765/",
+      "name": "Heather Mitchell Heather Mitchell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287653/",
+      "name": "亚伦·杰弗里 Aaron Jeffery"
+    }
+  ]
+,
+  "datePublished": "2019-06-05",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H40M",
+  "description": "毕生的朋友们在悉尼棕榈滩聚会",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "78",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}
