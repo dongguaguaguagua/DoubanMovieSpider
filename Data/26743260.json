@@ -1,0 +1,84 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "退役 Decommissioned",
+  "url": "/subject/26743260/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2324095833.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000104/",
+      "name": "约翰尼·梅辛纳 Johnny Messner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013804/",
+      "name": "维尼·琼斯 Vinnie Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013809/",
+      "name": "艾斯黛拉·沃伦 Estella Warren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013812/",
+      "name": "詹姆斯·瑞马尔 James Remar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027873/",
+      "name": "迈克尔·帕尔 Michael Paré"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022752/",
+      "name": "理查德·布基 Richard Burgi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061054/",
+      "name": "艾瑞克·奥德 Erik Aude"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252072/",
+      "name": "克里斯·穆托 Chris Muto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005289/",
+      "name": "克里斯·贾伊·阿历克斯 Chris Jai Alex"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H20M",
+  "description": "A retired agent&#39;s life is turned upside down when he discovers he&#39;s the patsy for an impending CIA p...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "231",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

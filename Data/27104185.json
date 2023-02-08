@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Ghost Is a Lie",
+  "url": "/subject/27104185/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2494953005.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003655/",
+      "name": "Anthony Spadaccini Anthony Spadaccini"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1123068/",
+      "name": "琳恩·劳里 Lynn Lowry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370322/",
+      "name": "莎伦·贝尔 Sharon Belle"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Hoping to cash in on the final stages of the found-footage phenomenon, a shady LA producer hires a s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

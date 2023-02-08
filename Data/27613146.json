@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "艾特熊和赛娜鼠：冬日篇 Ernest et Célestine en hiver",
+  "url": "/subject/27613146/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2508690325.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331758/",
+      "name": "让-克里斯托夫·罗热 Jean-Christophe Roger"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385355/",
+      "name": "让·勒尼奥 Jean Regnaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385557/",
+      "name": "嘉贝丽·文生 Gabrielle Vincent"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327906/",
+      "name": "波利娜·布伦纳 Pauline Brunner"
+    }
+  ]
+,
+  "datePublished": "2017-11-22",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT0H45M",
+  "description": "Ernest est un gros ours de Charabie. Il aime jouer de la musique et manger de la confiture. Il a rec...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

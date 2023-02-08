@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鲨肯斯坦 Sharkenstein",
+  "url": "/subject/26869406/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2378444724.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029337/",
+      "name": "Mark Polonia Mark Polonia"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-08-16",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H13M",
+  "description": "In the final days of World War II, a secret experiment to weaponize sharks is shut down and destroye...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "96",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

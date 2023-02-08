@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "金色橡树岭 Oro",
+  "url": "/subject/26710658/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2517797822.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282918/",
+      "name": "阿古斯丁·迪亚斯·亚内斯 Agustín Díaz Yanes"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1148652/",
+      "name": "阿图罗·佩雷斯–雷维特 Arturo Pérez-Reverte"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044925/",
+      "name": "奥斯卡·贾恩那达 Óscar Jaenada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000889/",
+      "name": "巴巴拉·莱涅 Bárbara Lennie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041807/",
+      "name": "劳尔·阿雷瓦洛 Raúl Arévalo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001018/",
+      "name": "胡安·埃查诺维 Juan Echanove"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074062/",
+      "name": "何塞·科罗纳多 José Coronado"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041540/",
+      "name": "胡安·何塞·巴列斯塔 Juan José Ballesta"
+    }
+  ]
+,
+  "datePublished": "2017-11-10",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2", "\u5192\u9669"],
+  "duration": "PT1H43M",
+  "description": "Amazon rainforest, 1538. King Carlos V de España y I de Alemania sends a group of Spanish soldiers t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "93",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

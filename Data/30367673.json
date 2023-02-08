@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "妖宴",
+  "url": "/subject/30367673/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2538667393.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454964/",
+      "name": "岳鹏 Peng Yue"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417037/",
+      "name": "叶树 Shu Ye"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274420/",
+      "name": "吴启华 Lawrence Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313512/",
+      "name": "马书良 Shuliang Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390430/",
+      "name": "徐一娢 Yihan Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436419/",
+      "name": "赖帅名 Shuaiming Lai"
+    }
+  ]
+,
+  "datePublished": "2018-11-02",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "暴君纣王为统治天下命巫师召唤出妖王梼杌，然而妖王梼杌脱离了巫师控制，反杀纣王。妖王梼杌率领众妖一同降临人间，天下大乱，百姓苦不堪言，此时，契约师独孤纵观天下惨象，为救苍生，他降服青龙，白虎，朱雀，玄武...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "百家拳之董海川",
+  "url": "/subject/33437313/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2797487643.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322468/",
+      "name": "赵箭 Jian Zhao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465034/",
+      "name": "边垒 Lei Bian"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410992/",
+      "name": "施骏喆 Jason Sze"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383610/",
+      "name": "李圣雄 Shengxiong Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H28M",
+  "description": "功夫电影《百家拳之董海川》由赵箭执导（代表作：《重耳传》），阳明传媒有限公司制作，讲述董海川因机缘投入云盘老祖门下，修得一身好功夫，为了保护百姓与鸦片商人艾勒孟反目成仇。英国人雅各布设计陷阱，意图害死...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

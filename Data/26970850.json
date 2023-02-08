@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海岸疑凶 Mississippi Murder",
+  "url": "/subject/26970850/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462409768.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277670/",
+      "name": "Bill Badalato Bill Badalato"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019019/",
+      "name": "马尔科姆·麦克道威尔 Malcolm McDowell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027193/",
+      "name": "鲁克·高斯 Luke Goss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1062068/",
+      "name": "拜伦·巴特 Bryan Batt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009534/",
+      "name": "安德鲁·詹姆斯·艾伦 Andrew James Allen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045298/",
+      "name": "马科·圣约翰 Marco St. John"
+    }
+  ]
+,
+  "datePublished": "2017-01-03",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "A murder mystery which takes place on the Mississippi Gulf Coast. A young woman tries to live a norm...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

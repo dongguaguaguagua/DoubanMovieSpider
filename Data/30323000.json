@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "President Evil",
+  "url": "/subject/30323000/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2538448988.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028053/",
+      "name": "乔斯·罗赛特 Jose Rosete"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394734/",
+      "name": "克里斯蒂安·哈切森 Christian Hutcherson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "",
+  "description": "A parody of classic slasher Halloween (1978) with a maniac dressed as Donald Trump replicating the r...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

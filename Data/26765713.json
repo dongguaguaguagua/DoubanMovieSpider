@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灵魂边缘",
+  "url": "/subject/26765713/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2453841868.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384022/",
+      "name": "慕容诗宇 Shiyu Murong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384022/",
+      "name": "慕容诗宇 Shiyu Murong"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H3M",
+  "description": "影片主要讲述了两个性格迥异的女孩因与男友吵架而离家出走，相遇并一起闯进了一个怪异的房子而导致了灵魂互换，次日醒来发现自己变成了对方，过着对方的生活，霸占对方的男友，在她们想方设法去换回来的过程中，其中...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

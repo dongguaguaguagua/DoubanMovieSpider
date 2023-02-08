@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蝴蝶夫人 Madama Butterfly",
+  "url": "/subject/30282871/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528947778.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008382/",
+      "name": "Mario Gas Mario Gas"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410363/",
+      "name": "埃尔莫利拉·亚霍 Ermonela Jaho"
+    }
+  ]
+,
+  "datePublished": "2018-10-25",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e", "\u620f\u66f2"],
+  "duration": "PT2H31M",
+  "description": "故事发生在19世纪末的日本长崎海港。巧巧桑（蝴蝶夫人）是一位天真、纯洁、活泼的日本姑娘，她为了爱情抛弃传统和信仰，嫁给了美国海军上尉平克尔顿。婚后不久，平克尔顿返回美国，一去杳无音信。但是巧巧桑深信他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "334",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

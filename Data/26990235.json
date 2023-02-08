@@ -1,0 +1,45 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "记忆的芬芳 O Perfume da Memória",
+  "url": "/subject/26990235/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2441176471.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1233875/",
+      "name": " Oswaldo Montenegro"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1233875/",
+      "name": " Oswaldo Montenegro"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-03-03",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H13M",
+  "description": "万物皆有法则 就连人与人之间的缘分也逃不开
+一首动人的诗歌 一段破碎的婚姻 一夜忽然而至的访客
+开启两个女人之间的奇妙友谊
+在不断深入的交谈之中 渐渐熟悉彼此 无法克制的产生了灵魂之间的共鸣
+所谓爱情...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "182",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

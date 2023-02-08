@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "霍夫曼奇遇记 Гофманиада",
+  "url": "/subject/30232753/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877702379.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046976/",
+      "name": "斯坦尼斯拉夫·索科洛夫 Stanislav Sokolov"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008259/",
+      "name": "E·T·A·霍夫曼 E.T.A. Hoffmann"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080819/",
+      "name": "纳塔莉亚·费森 Natalya Fisson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258977/",
+      "name": "Vladimir Koshevoy Vladimir Koshevoy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1137447/",
+      "name": "Slawa Polunin Slawa Polunin"
+    }
+  ]
+,
+  "datePublished": "2018-06-11",
+  "genre": ["\u52a8\u753b", "\u4f20\u8bb0"],
+  "duration": "PT1H13M",
+  "description": "一天，霍夫曼穿越到了自己笔下的奇幻童话世界里。为了躲避步步逼近的阴谋，他不得不与虚构的坏人斗争，守护自己的爱情和爱人。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "116",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

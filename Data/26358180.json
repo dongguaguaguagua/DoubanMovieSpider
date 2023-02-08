@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幸运者 The Lucky Man",
+  "url": "/subject/26358180/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2264856204.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1263177/",
+      "name": " Norman Gregory McGuire"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1263177/",
+      "name": " Norman Gregory McGuire"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348751/",
+      "name": "玛丽安娜·宝拉·韦森特 Mariana Paola Vicente"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1098986/",
+      "name": "布拉德·霍金斯 Brad Hawkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1103776/",
+      "name": "杰西·詹姆斯 Jesse James"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1100416/",
+      "name": "伯顿·吉列姆 Burton Gilliam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247206/",
+      "name": "拉里·杰克·唐森 Larry Jack Dotson"
+    }
+  ]
+,
+  "datePublished": "2018-01-16",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H38M",
+  "description": "A young charismatic preacher and his hot Latina girlfriend travel Route 66 scamming the small church...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

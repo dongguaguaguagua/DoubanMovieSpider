@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "宝莱坞日记 Bollywood Diaries",
+  "url": "/subject/26882620/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2402666518.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1141468/",
+      "name": "拉伊玛·森 Raima Sen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149733/",
+      "name": "阿希瑟·维德亚迪 Ashish Vidyarthi"
+    }
+  ]
+,
+  "datePublished": "2016-02-26",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H3M",
+  "description": "Bollywood Diaries is a tribute to passionate aspiring actors. It chronicles the journey of three unr...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

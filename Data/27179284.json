@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "丛林怪物 The Axiom",
+  "url": "/subject/27179284/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522628727.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412768/",
+      "name": "尼古拉斯·伍德 Nicholas Wood"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412768/",
+      "name": "尼古拉斯·伍德 Nicholas Wood"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412769/",
+      "name": "海蒂·史密斯 Hattie Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412770/",
+      "name": "扎克·泰特斯 Zac Titus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412771/",
+      "name": "妮可·丹布罗 Nicole Dambro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412772/",
+      "name": "泰勒·弗劳尔斯 Taylor Flowers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1288618/",
+      "name": "威廉·基尔舍 William Kircher"
+    }
+  ]
+,
+  "datePublished": "2018-03-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H38M",
+  "description": "一位年轻的女人女冒着生命危险来到一个神秘森林，因为她的妹妹被困在这个多维度的怪物世界里",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "445",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

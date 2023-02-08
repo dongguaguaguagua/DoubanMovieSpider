@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亡灵诅咒 Curse of the Blind Dead",
+  "url": "/subject/30393470/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2541540336.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074406/",
+      "name": "Gustavo Adolfo Bécquer Gustavo Adolfo Bécquer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000900/",
+      "name": "阿曼多·德·奥索里奥 Amando de Ossorio"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350417/",
+      "name": "尹·C·乔伊斯 Yoon C. Joyce"
+    }
+  ]
+,
+  "datePublished": "2020-07-24",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H27M",
+  "description": "In the Thirteen century, a group of Satan worshipers, the Knight Templars, is captured during a ritu...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

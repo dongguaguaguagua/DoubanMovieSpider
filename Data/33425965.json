@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "荒草丛生",
+  "url": "/subject/33425965/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560619676.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415598/",
+      "name": "张昆 Kun Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415598/",
+      "name": "张昆 Kun Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328656/",
+      "name": "黄精一 Jingyi Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379846/",
+      "name": "李桂清 Guiqing Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328092/",
+      "name": "孙锡堃 Xikun Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363637/",
+      "name": "刘浩闻 Haowen Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421237/",
+      "name": "王铁柱 Tiezhu Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H42M",
+  "description": "北风过境，老顾小心翼翼地走着，却还是无可避免地摇摇晃晃。“仍然有很长的距离要走，我们花了很多光年从远方到来，还要花很多光年去抵达星光，那里允许大雪，风暴，泥石流，和荒谬。”生活里有太多的模糊地带，可能...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

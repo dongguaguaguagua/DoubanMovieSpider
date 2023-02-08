@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Mollywood",
+  "url": "/subject/30257488/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2555212993.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1182835/",
+      "name": "Vinicius Machado Vinicius Machado"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459286/",
+      "name": "阿里安娜·雷克萨斯 Arianna Lexus"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H31M",
+  "description": "Mollywood follows a serial killer who disguises himself as a drug dealer in order to &#34;deliver&#34; young...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

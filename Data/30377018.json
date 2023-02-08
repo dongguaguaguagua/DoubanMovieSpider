@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "龙咁威3",
+  "url": "/subject/30377018/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025526/",
+      "name": "谷德昭 Vincent Kok"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025526/",
+      "name": "谷德昭 Vincent Kok"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032940/",
+      "name": "郑中基 Ronald Cheng"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "11月7日郑中基接受某杂志访问时，就亲自确认将开拍《龙咁威3》，而且更会与谷德昭联手执导，早前谷导参与了本地Rapper组合廿四味的清谈节目，也于节目上大谈他的导演之路，亦于节目尾段大爆有意开拍第三集...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

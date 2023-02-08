@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一生至爱 Love of My Life",
+  "url": "/subject/26963581/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503975990.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367761/",
+      "name": "汉娜·艾米莉·安德森 Hannah Emily Anderson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325362/",
+      "name": "詹姆斯·弗雷特 James Fleet"
+    }
+  ]
+,
+  "datePublished": "2017-02-17",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "What if you had only five days to figure out... everything.@艾米电影",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

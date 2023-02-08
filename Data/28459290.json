@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "癫狂故事 Maniac Tales",
+  "url": "/subject/28459290/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2511102054.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1219525/",
+      "name": " Denise Castro"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378102/",
+      "name": "亚历克斯·哈夫纳 Alex Hafner"
+    }
+  ]
+,
+  "datePublished": "2017-03-17",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "Maniac Tales tells the story of Juan, a Mexican illegal immigrant in New York, who is offered a job ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "走火枪",
+  "url": "/subject/27064200/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2461997400.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321277/",
+      "name": "李明明 Mingming Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321277/",
+      "name": "李明明 Mingming Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274659/",
+      "name": "刘冠麟 Guanlin Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313425/",
+      "name": "张锦程 Emotion Cheung"
+    }
+  ]
+,
+  "datePublished": "2017-06-08",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "影片主要讲述了街边小商贩张一毛因前女友是卧底缉毒警察而被卷入一起毒品交易案，并误打误撞地盗取了泰国毒贩装满毒品的皮箱，打乱了前女友的缉毒计划。而此时，毒品下家洪天启为摆脱毒品上家金爷的控制，雇佣日本杀...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

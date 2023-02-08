@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "抱歉男孩们 Sorry Guys",
+  "url": "/subject/30308427/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2532007520.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1269548/",
+      "name": "Stefan Aretz Stefan Aretz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1269548/",
+      "name": "Stefan Aretz Stefan Aretz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066229/",
+      "name": "桑德拉·伯格曼 Sandra Borgmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218156/",
+      "name": "Valentin Schreyer Valentin Schreyer"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT0H39M",
+  "description": "The film tells the story of Robert and Louis, a gay couple since several years living in Berlin. Wha...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "363",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

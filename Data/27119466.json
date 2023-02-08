@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鸡毛梦想",
+  "url": "/subject/27119466/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412440/",
+      "name": "戴有山 Youshan Dai"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-08-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "毕业之季，四位大学生她们都为自己的梦想而奋斗。李圆圆梦想能当演员，为了争夺毕业晚会上的话剧角色，她迷失自我，开始怀疑自己是不是适合做一个演员......几番打击之后，李圆圆欲轻生，却得到了许芒杰的表白...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

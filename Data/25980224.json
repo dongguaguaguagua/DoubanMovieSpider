@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "村长相声哥",
+  "url": "/subject/25980224/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508069757.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323011/",
+      "name": "易莉 Li Yi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468686/",
+      "name": "宋德全 Dequan Song"
+    }
+  ]
+,
+  "datePublished": "2017-04-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "影片剧本取材于海城市曲艺家协 会主席、海城市旅游形象大使赵广群 先生的个人事迹，真实再现了他在家 乡海城和北京两地的奋斗经理，主人 公作为一村之长，一心为百姓莫福 利，深入群众，贴近群众，同时他也 为...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

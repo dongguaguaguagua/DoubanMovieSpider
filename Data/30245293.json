@@ -1,0 +1,51 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "俄罗斯套娃 Russian Doll",
+  "url": "/subject/30245293/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2525346671.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451283/",
+      "name": "Taylor Murphy-Sinclair Taylor Murphy-Sinclair"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451284/",
+      "name": "Annie Kerins Annie Kerins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451285/",
+      "name": "Sylvia Batey Alcalá Sylvia Batey Alcalá"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u540c\u6027"],
+  "duration": "PT1H22M",
+  "description": "身处于命运十字路口的人哪
+如同俄罗斯套娃一般一层套一层却始终无法直视内心的真实
+由一本名为《俄罗斯套娃》剧本引发的失踪案，牵扯出一桩25年前的迷离案件。
+女警官Ames因2年前妻子的离世，始终沉湎于过...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "145",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

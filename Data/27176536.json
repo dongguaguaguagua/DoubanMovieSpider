@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "互动死尸游戏 Dead Body",
+  "url": "/subject/27176536/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502577759.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305736/",
+      "name": "Ian Bell Ian Bell"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257969/",
+      "name": "库珀·霍普金斯 Cooper Hopkins"
+    }
+  ]
+,
+  "datePublished": "2017-10-17",
+  "genre": ["\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "九名高中生去木屋慶祝畢業，他們玩起了“死屍”遊戲，隨著同伴一個接一個地死去，原來凶手早已埋伏其間……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

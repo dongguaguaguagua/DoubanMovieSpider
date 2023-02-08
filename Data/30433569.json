@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Carbon",
+  "url": "/subject/30433569/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2589240616.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320624/",
+      "name": "奈杜穆蒂·维努 Nedumudi Venu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432859/",
+      "name": "法哈德·法西尔 Fahadh Faasil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441075/",
+      "name": "玛玛塔·莫汉达斯 Mamta Mohandas"
+    }
+  ]
+,
+  "datePublished": "2018-01-19",
+  "genre": ["\u60ca\u609a", "\u5192\u9669"],
+  "duration": "PT2H26M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

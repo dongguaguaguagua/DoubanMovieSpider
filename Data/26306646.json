@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "贝壳收藏家 シェル・コレクター",
+  "url": "/subject/26306646/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2377866279.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359195/",
+      "name": "坪田义史 Yoshifumi Tsubota"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430608/",
+      "name": "泽井香织 Kaori Sawai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359195/",
+      "name": "坪田义史 Yoshifumi Tsubota"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275733/",
+      "name": "桥本爱 Ai Hashimoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009895/",
+      "name": "池松壮亮 Sosuke Ikematsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014742/",
+      "name": "寺岛忍 Shinobu Terajima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042693/",
+      "name": "中川雅也 Lily Franky"
+    }
+  ]
+,
+  "datePublished": "2016-02-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "Lily Franky挑战饰演盲目的贝类学者，与寺岛忍、池松壮亮及桥本爱等豪华的演员阵容共同演出日美合作电影『Shell Collector（贝壳收藏家）』。
+以贝类学的世界成名的学者，与妻儿分离来到...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "408",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "L&#39;amour",
+  "url": "/subject/30468652/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549144845.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294785/",
+      "name": "雅各布·波塔什尼克 Jacob Potashnik"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419990/",
+      "name": "法妮·玛莱特 Fanny Mallette"
+    }
+  ]
+,
+  "datePublished": "2018-11-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "A young man goes to his father&#39;s home in Maine where, helped by a public registry, he locates and tr...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

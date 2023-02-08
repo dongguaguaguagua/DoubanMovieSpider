@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "4/20屠杀 4/20 Massacre",
+  "url": "/subject/27188249/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2503925703.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359569/",
+      "name": "贾斯婷·瓦希伯格 Justine Wachsberger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1158424/",
+      "name": "Jim Storm Jim Storm"
+    }
+  ]
+,
+  "datePublished": "2018-04-03",
+  "genre": ["\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "PT1H24M",
+  "description": "A group of five women go camping in the woods to celebrate a friend&#39;s birthday over 4/20 weekend. Bu...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

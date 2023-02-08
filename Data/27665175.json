@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "自由意志 Free Choice",
+  "url": "/subject/27665175/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510677207.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398746/",
+      "name": "崔睿 Rui Cui"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1103513/",
+      "name": "埃夫吉恩尼·拉扎雷夫 Evgeniy Lazarev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1222403/",
+      "name": "戴维·瑞德 David Reed"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371640/",
+      "name": "所罗门·什夫 Solomon Shiv"
+    }
+  ]
+,
+  "datePublished": "2017-12-03",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a", "\u5947\u5e7b"],
+  "duration": "PT0H17M",
+  "description": "在一个近未来的私人监狱里，四个囚犯以一种特殊的俄罗斯轮盘赌方式来决定谁能获得自由，结果却大跌眼镜......",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

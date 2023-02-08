@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红皇后假说 L’Hypothèse de la Reine Rouge",
+  "url": "/subject/30263605/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526927589.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022603/",
+      "name": "弗农·多布切夫 Vernon Dobtcheff"
+    }
+  ]
+,
+  "datePublished": "2018-03-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H20M",
+  "description": "L&#39;hypothèse de la reine rouge est une hypothèse de la biologie évolutive proposée par Leigh Van Vale...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

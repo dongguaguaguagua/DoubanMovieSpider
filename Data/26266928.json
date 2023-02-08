@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "热血雷锋侠之激情营救",
+  "url": "/subject/26266928/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2390260029.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320030/",
+      "name": "黄军 Jun Huang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321568/",
+      "name": "马史 Shi Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361936/",
+      "name": "杨瑞峰 Ruifeng Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-10-21",
+  "genre": ["\u5267\u60c5", "\u52a8\u753b"],
+  "duration": "PT1H25M",
+  "description": "郑义是一名平凡的大学生，却拥有着满满的正义感，他的愿望是成为一名自行车特技演员并且赢得大奖赛。一场意外让他和名为陈扬的女孩相识了。潘然是郑义的好朋友，爱吃路边摊的他因为吃了太多的地沟油而变身成为了地沟...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "792",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.5"
+  }
+}

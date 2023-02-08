@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "菜鸟王爷闹江湖",
+  "url": "/subject/30329051/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2534585213.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419012/",
+      "name": "刘公子 Gongzi Liu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376832/",
+      "name": "舒贵林 Guilin Shu"
+    }
+  ]
+,
+  "datePublished": "2018-09-19",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5", "\u53e4\u88c5"],
+  "duration": "PT1H23M",
+  "description": "衢州府年轻的王爷庄周被手下设计的冒牌王爷顶替陷害，在逃跑途中被刺杀他的女侠客孙梦蝶一行救下，互不相识的双方慢慢擦除爱情火花，一同折返王府中成功制服了作恶的手下，期间矛盾频出，笑料不断。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

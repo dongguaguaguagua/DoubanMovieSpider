@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "藩篱 Fences",
+  "url": "/subject/21339682/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2406651431.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054431/",
+      "name": "丹泽尔·华盛顿 Denzel Washington"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045524/",
+      "name": "奥古斯特·威尔逊 August Wilson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009788/",
+      "name": "托尼·库什纳 Tony Kushner"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054431/",
+      "name": "丹泽尔·华盛顿 Denzel Washington"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022676/",
+      "name": "维奥拉·戴维斯 Viola Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1098483/",
+      "name": "斯蒂芬·亨德森 Stephen Henderson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366311/",
+      "name": "约翰·艾德坡 Jovan Adepo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286928/",
+      "name": "罗素·霍恩斯比 Russell Hornsby"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031912/",
+      "name": "麦凯尔泰·威廉逊 Mykelti Williamson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366312/",
+      "name": "萨尼雅·西德尼 Saniyya Sidney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366313/",
+      "name": "克里斯托弗·米勒 Christopher Mele"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1065708/",
+      "name": "莱斯莉·布恩 Lesley Boone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1185322/",
+      "name": "杰森·斯维斯 Jason Silvis"
+    }
+  ]
+,
+  "datePublished": "2016-12-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H19M",
+  "description": "美国黑人特洛伊（丹泽尔·华盛顿 饰）曾是一名棒球希望新星，却因为一次意外的抢劫杀人案而入狱，当时美国职业棒球大联盟种族隔离政策还未完全废除，黑人登场机会很少，加上特洛伊出狱后年纪也大了，因此他的棒球生...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "11729",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

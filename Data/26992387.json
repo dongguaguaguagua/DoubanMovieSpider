@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑暗的幽灵 Ghosts Of Darkness",
+  "url": "/subject/26992387/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2443812885.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019012/",
+      "name": "凯斯·大卫 Keith David"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455579/",
+      "name": "Morgan Faith Keith Morgan Faith Keith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371165/",
+      "name": "迈克尔·寇特斯 Michael Koltes"
+    }
+  ]
+,
+  "datePublished": "2017-03-01",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H22M",
+  "description": "Two paranormal investigators are unexpectedly thrown together in the hope of solving a 100 year myst...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "66",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.2"
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "来自火星的消息 Des nouvelles de la planète Mars",
+  "url": "/subject/26614197/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2319953138.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045518/",
+      "name": "多米尼克·摩尔 Dominik Moll"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045518/",
+      "name": "多米尼克·摩尔 Dominik Moll"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019438/",
+      "name": "吉勒·马尚 Gilles Marchand"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338355/",
+      "name": "弗朗索瓦·达密安 François Damiens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338359/",
+      "name": "樊尚·马凯涅 Vincent Macaigne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005358/",
+      "name": "蕾雅·德吕盖 Léa Drucker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028387/",
+      "name": "米歇尔·奥蒙 Michel Aumont"
+    }
+  ]
+,
+  "datePublished": "2016-02-17",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H41M",
+  "description": "马尔斯（弗朗索瓦·达米昂 François Damiens 饰）是一名名不见经传的小小程序员，按时上班下班，回家吃饭睡觉，他的每一天都在循规蹈矩之中度过。个性非常普通的马尔斯从来都不会给人留下什么深刻...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "367",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

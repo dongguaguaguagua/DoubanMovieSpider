@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "王蛇帝国 King Cobra",
+  "url": "/subject/26647011/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2384414180.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357246/",
+      "name": "贾斯汀·凯利 Justin Kelly"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357246/",
+      "name": "贾斯汀·凯利 Justin Kelly"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019001/",
+      "name": "詹姆斯·弗兰科 James Franco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022597/",
+      "name": "克里斯蒂安·史莱特 Christian Slater"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316484/",
+      "name": "基根·艾伦 Keegan Allen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345466/",
+      "name": "加勒特·克莱顿 Garrett Clayton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004592/",
+      "name": "莫利·林沃德 Molly Ringwald"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031789/",
+      "name": "艾丽西亚·希尔维斯通 Alicia Silverstone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366453/",
+      "name": "肖恩·戈兰迪洛 Sean Grandillo"
+    }
+  ]
+,
+  "datePublished": "2016-04-16",
+  "genre": ["\u5267\u60c5", "\u540c\u6027", "\u72af\u7f6a"],
+  "duration": "PT1H31M",
+  "description": "该片根据美国GV界轰动一时的谋杀案改编，讲述两个钙星为争夺“美国甜心” Brent Corrigan的合约，杀死业界呼风唤雨的大老板，并且差点让甜心背上黑锅的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1793",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

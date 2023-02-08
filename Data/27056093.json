@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Bad Day in Belgrade",
+  "url": "/subject/27056093/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355307/",
+      "name": "布伦丹·克莱金 Brendan Clearkin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223425/",
+      "name": " Emily Stewart"
+    }
+  ]
+,
+  "datePublished": "2017-06-09",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT0H40M",
+  "description": "Bad boy novelist Johnny Murphy had it all - a best-seller, fast car and fat bank account. But Johnny...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

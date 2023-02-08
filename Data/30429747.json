@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "饶舌对决 VS.",
+  "url": "/subject/30429747/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2547625132.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396838/",
+      "name": "乔瓦恩·韦德 Joivan Wade"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391324/",
+      "name": "福拉·埃文斯·阿金博拉 Fola Evans-Akingbola"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297383/",
+      "name": "鲁斯·西恩 Ruth Sheen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1162553/",
+      "name": "尼古拉斯·平诺克 Nicholas Pinnock"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408160/",
+      "name": "康纳·斯温德尔 Connor Swindells"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407304/",
+      "name": "维克托里娅·菲斯 Viktorija Faith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1269217/",
+      "name": "埃米莉·塔夫 Emily Taaffe"
+    }
+  ]
+,
+  "datePublished": "2018-10-19",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H39M",
+  "description": "VS. is an urban rites of passage drama set in the hostile and exciting UK rap battle scene.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

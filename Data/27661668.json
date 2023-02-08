@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天使的声音",
+  "url": "/subject/27661668/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510203480.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386860/",
+      "name": "和成 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351151/",
+      "name": "苏曼华 Manhua Su"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386861/",
+      "name": "王倩 Qian Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386862/",
+      "name": "杨正驰 Zhengchi Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386863/",
+      "name": "石菲 Fei Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386864/",
+      "name": "张艺杰 Yijie Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386866/",
+      "name": "龙慧瑶 Huiyao Long"
+    }
+  ]
+,
+  "datePublished": "2018-01-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "侗族女孩杨小吉带着弟弟妹妹和半身不遂的奶奶，住在大山深处的乌鸡寨。小吉姐弟的爸妈都在深圳打工。快过春节了，乡里举办侗歌大赛，小吉得了小学生歌赛第一名。全家都盼望爸妈早日回来团聚，可是一次次等待只有失望...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

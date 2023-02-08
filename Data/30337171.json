@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "苏庆亮",
+  "url": "/subject/30337171/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535801667.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322907/",
+      "name": "王海祥 Haixiang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327994/",
+      "name": "丁建钧 Jianjun Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319720/",
+      "name": "左夏初 Wenlu Zuo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358963/",
+      "name": "王艺博 Yibo Wang"
+    }
+  ]
+,
+  "datePublished": "2018-06-20",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT1H30M",
+  "description": "苏庆亮被委派到大陡山担任书记23年间，舍小家顾大家，带领全村百姓治水修路，绿化荒山，艰苦创业，把一个穷乱出名的后进村建设成为村强民富、环境优美、村风和谐的全国绿色小康村，最终积劳成疾，英年早逝。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

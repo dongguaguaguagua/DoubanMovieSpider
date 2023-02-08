@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "湖北年轻人的生活",
+  "url": "/subject/30211762/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523706847.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392446/",
+      "name": "匡萃明 Kang Cui Ming"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365557/",
+      "name": "胡皓翔 Sean Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394827/",
+      "name": "胡皓翔 Haoxiang Hu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373314/",
+      "name": "全建军 Jianjun Quan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392386/",
+      "name": "彭越明 Peng Yue Ming"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393791/",
+      "name": "禹辰 Chen yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392385/",
+      "name": "伍圆圆 Wu yuanyuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393790/",
+      "name": "龙会 Long Hui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394827/",
+      "name": "胡皓翔 Haoxiang Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365557/",
+      "name": "胡皓翔 Sean Hu"
+    }
+  ]
+,
+  "datePublished": "2019-12-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "讲述的是一个90后年轻人从十堰辍学，迈向社会去打工，去外地闯荡，开始经历一系列的青春叛逆、社会残酷、事业执着、最终事业成功感人故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

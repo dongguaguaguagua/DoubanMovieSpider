@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "受限制的爱 Любовь с ограничениями",
+  "url": "/subject/27109530/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2495735456.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350490/",
+      "name": "帕维尔·普里卢茨内 Pavel Priluchnyy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354112/",
+      "name": "阿列克谢·沃罗别夫 Alex Sparrow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176579/",
+      "name": "阿雷克西·查多夫 Aleksey Chadov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1262150/",
+      "name": "伊利亚·格林尼科夫 Ilya Glinnikov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348833/",
+      "name": "Anna Starshenbaum Anna Starshenbaum"
+    }
+  ]
+,
+  "datePublished": "2017-03-09",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H47M",
+  "description": "普通小律师米沙在出租车广播里得知俄罗斯总统颁布法令：大公司应雇佣2%的残疾员工。于是想出了假装残疾的歪点子。凭借着他的小聪明，米沙顺利找到了工作。人生是幸运的，生活是美好的，久负盛名的公司，丰厚的薪水...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

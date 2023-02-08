@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "陷阱 The Snare",
+  "url": "/subject/25858774/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2389202882.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372888/",
+      "name": "C.A. Cooper C.A. Cooper"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372888/",
+      "name": "C.A. Cooper C.A. Cooper"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372886/",
+      "name": "Eaoifa Forward Eaoifa Forward"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372887/",
+      "name": "Dan Paton Dan Paton"
+    }
+  ]
+,
+  "datePublished": "2017-01-06",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "三个好友去海边度假，却被一股恶毒的超自然力量囚禁在度假公寓的顶层，他们究竟能否逃出升天？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "568",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.6"
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "惊魂破",
+  "url": "/subject/27003566/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2450399064.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336964/",
+      "name": "祁永金 Yongjin Qi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389859/",
+      "name": "李正尧 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389678/",
+      "name": "仙洋 Yang Xian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376715/",
+      "name": "赵本六 Liubenzhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314596/",
+      "name": "程小挑 Peng Cheng"
+    }
+  ]
+,
+  "datePublished": "2017-03-22",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H8M",
+  "description": "麦凯酒城老板六爷离奇死亡，“闹鬼”传闻不径而走，为求真相，六爷“头马”辉仔、大嫂莎姐等求助“碟仙”，当晚又出离奇命案，凶手人鬼难断。遂“冥侦探”天宝介入，欲查缘由，真相竟出乎所有人意料之外……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

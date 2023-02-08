@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "兄友",
+  "url": "/subject/27133026/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2516437895.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380680/",
+      "name": "中川千英子 Chieko Nakagawa"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328737/",
+      "name": "横滨流星 Ryûsei Yokohama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352214/",
+      "name": "松风理咲 Risaki Matsukaze"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392923/",
+      "name": "松冈广大 Koudai Matsuoka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406238/",
+      "name": "古川毅 Tsuyoshi Furukawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315349/",
+      "name": "小野花梨 Karin Ono"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037590/",
+      "name": "福山润 Jun Fukuyama"
+    }
+  ]
+,
+  "datePublished": "2018-05-26",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H25M",
+  "description": "长相帅气却不懂如何与女性相处的腼腆男生西野壮太（横滨流星 饰），一次去朋友七濑雪紘家称赞他妹妹七濑麻衣（松风理咲 饰）很可爱，麻衣对恋爱没兴趣，一个害羞少年一个胆怯少女，因为一个称赞拉近了心灵的距离。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "572",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

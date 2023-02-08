@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "川流不息",
+  "url": "/subject/26928143/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2402791381.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362615/",
+      "name": "李尚山 Li Shangshan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362615/",
+      "name": "李尚山 Li Shangshan"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

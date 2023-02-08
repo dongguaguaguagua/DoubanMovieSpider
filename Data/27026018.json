@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "少年告别",
+  "url": "/subject/27026018/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456183037.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372583/",
+      "name": "张雍 Yong Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372583/",
+      "name": "张雍 Yong Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372734/",
+      "name": "王猛 Meng Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372583/",
+      "name": "张雍 Yong Zhang"
+    }
+  ]
+,
+  "datePublished": "2017-04-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H15M",
+  "description": "阿强（王猛饰）与阿良（张雍饰）在高中时是好友，并且都曾爱上同一个女孩。高考落榜后，两人各奔东西，阿良因在外不顺，回家后找了一份邮递员的工作。一天，他去送信，店主人给他一封送错的信。他看到收信人是阿强。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

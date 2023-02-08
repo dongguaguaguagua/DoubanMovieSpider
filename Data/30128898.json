@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "初体验 첫경험",
+  "url": "/subject/30128898/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2511776513.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381693/",
+      "name": "善慧 Seon Hye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378602/",
+      "name": "李秀 Soo Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369341/",
+      "name": "闵度允 Min Do-yoon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408983/",
+      "name": "尚宇 Woo Sang"
+    }
+  ]
+,
+  "datePublished": "2018-01-23",
+  "genre": ["\u7231\u60c5", "\u60c5\u8272"],
+  "duration": "PT1H23M",
+  "description": "순진한 지우와 자유분방한 혜리는 지우의 첫경험을 위해 여행을 떠난다. 아직 처녀인 지우를 제대로 성교육을 시키겠다고 다짐한 혜리는 지우에게 특별한 미션을 준다. 그 미션은 여행지에...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "177",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

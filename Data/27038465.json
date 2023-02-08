@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱国岛",
+  "url": "/subject/27038465/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542647795.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316775/",
+      "name": "韩志 Zhi Han"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361608/",
+      "name": "王佳宇 Jiayu Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351876/",
+      "name": "王燕阳 Yanyang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358506/",
+      "name": "关思慧 Sihui Guan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342562/",
+      "name": "涂圣成 Shengcheng Tu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393816/",
+      "name": "权友 Quan You"
+    }
+  ]
+,
+  "datePublished": "2018-09-18",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2", "\u6218\u4e89"],
+  "duration": "",
+  "description": "电影《爱国岛》主要通过讲述日军占领钓鱼岛和我国军民保卫钓鱼岛的故事，来反映出日本侵略者的凶恶残暴和中国军民的爱国精神和人道精神。在爱恨情仇的交织中，展现了抗战影视少见的人性光芒。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

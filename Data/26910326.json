@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Spiritualist",
+  "url": "/subject/26910326/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2395909028.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396703/",
+      "name": "阿伦·布莱克 Arron Blake"
+    }
+  ]
+,
+  "datePublished": "2016-09-27",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H41M",
+  "description": "Laura, suffering horrific night terrors and sleep paralysis, believes the sinister spirit haunting h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

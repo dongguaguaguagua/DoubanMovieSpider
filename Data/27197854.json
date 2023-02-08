@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "王子在巴黎 La vie de château",
+  "url": "/subject/27197854/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2505955446.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350644/",
+      "name": "塔蒂亚娜·罗乔 Tatiana Rojo"
+    }
+  ]
+,
+  "datePublished": "2017-08-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "In the vibrant African neighborhood of Château d&#39;Eau in Paris, Charles is the smoothest of all the h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

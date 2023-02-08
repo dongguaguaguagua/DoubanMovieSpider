@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女孩的故事 Story of a Girl",
+  "url": "/subject/27046357/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510389328.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025201/",
+      "name": "凯拉·塞吉维克 Kyra Sedgwick"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281078/",
+      "name": "劳瑞·科利尔 Laurie Collyer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1211416/",
+      "name": "索茜·贝肯 Sosie Bacon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009260/",
+      "name": "凯文·贝肯 Kevin Bacon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336318/",
+      "name": "莎拉·格雷 Sarah Grey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1235350/",
+      "name": "泰勒·约翰斯顿 Tyler Johnston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1159716/",
+      "name": "乔恩·坦尼 Jon Tenney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337935/",
+      "name": "瑞安谢恩 Ryann Shane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280322/",
+      "name": "卡罗琳·凯芙 Caroline Cave"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383501/",
+      "name": "安德鲁·海尔 Andrew Herr"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370146/",
+      "name": "贝利·斯科德里 Bailey Skodje"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118245/",
+      "name": "Michael Maize Michael Maize"
+    }
+  ]
+,
+  "datePublished": "2017-09-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "When a compromising video of sixteen year old Deanna Lambert hits social media, her teenage life is ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

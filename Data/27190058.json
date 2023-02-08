@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玩家 Joueurs",
+  "url": "/subject/27190058/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523647082.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338391/",
+      "name": "玛丽·蒙日 Marie Monge"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338391/",
+      "name": "玛丽·蒙日 Marie Monge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365038/",
+      "name": "罗曼·康宁 Romain Compingt"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334729/",
+      "name": "斯塔西·马汀 Stacy Martin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009428/",
+      "name": "塔哈·拉希姆 Tahar Rahim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045707/",
+      "name": "布鲁诺·沃尔科维奇 Bruno Wolkowitch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341821/",
+      "name": "卡里姆·莱克路 Karim Leklou"
+    }
+  ]
+,
+  "datePublished": "2018-05-11",
+  "genre": ["\u7231\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H47M",
+  "description": "斯塔西·马汀、塔哈·拉希姆([预言者])主演的新片[玩家](Joueurs，暂译)在巴黎开拍。曾凭借[马赛的夜]提名凯撒奖短片编剧的玛丽·蒙日执导该片。剧本由导演和[女神们]编剧罗曼·康宁等人共同撰写...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "446",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

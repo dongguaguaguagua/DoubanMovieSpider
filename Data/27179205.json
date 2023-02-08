@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女清洁工 The Cleaning Lady",
+  "url": "/subject/27179205/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530266524.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014747/",
+      "name": "乔恩·克劳兹 Jon Knautz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356478/",
+      "name": "亚历克西斯·肯德拉 Alexis Kendra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014747/",
+      "name": "乔恩·克劳兹 Jon Knautz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356478/",
+      "name": "亚历克西斯·肯德拉 Alexis Kendra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1142755/",
+      "name": "斯特里奥·萨万特 Stelio Savante"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417567/",
+      "name": "瑞秋·艾里格 Rachel Alig"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356480/",
+      "name": "伊莉莎白·桑迪 Elizabeth Sandy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459673/",
+      "name": "莱昂内尔·克劳德 "
+    }
+  ]
+,
+  "datePublished": "2018-08-24",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "As a means to distract herself from an affair, a love-addicted woman befriends a cleaning lady, badl...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "729",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

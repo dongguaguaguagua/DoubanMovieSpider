@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神偷大师",
+  "url": "/subject/27104373/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2501789690.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384008/",
+      "name": "沈金飞 Jinfei Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382999/",
+      "name": "阎余超 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369348/",
+      "name": "柳纬铚 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382999/",
+      "name": "阎余超 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330844/",
+      "name": "张竞达 Jingda Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423970/",
+      "name": "张杰妍 Jieyan Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H10M",
+  "description": "影片讲述了一位常年运输精神病的司机马小军在一次运输过程中，不慎将精神病人丢失在自己情人的店外，无计可施又怕承担责任的马小军与小凤萌生了一个偷天换日的想法——把小凤的客人充当精神病人送去医院。没想到的是...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "806",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

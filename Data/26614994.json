@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幸运大道 Flatbush Luck",
+  "url": "/subject/26614994/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2335532619.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028100/",
+      "name": "卡斯帕·安德瑞斯 Casper Andreas"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028100/",
+      "name": "卡斯帕·安德瑞斯 Casper Andreas"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338904/",
+      "name": "坦纳·诺兰 Tanner Novlan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292934/",
+      "name": "迈克尔·G·纳森森 Michael G. Nathanson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423467/",
+      "name": "罗比·斯塔尔 Robby Stahl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338130/",
+      "name": "Claybourne Elder Claybourne Elder"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u540c\u6027"],
+  "duration": "",
+  "description": "Former Wall Street hotshot Jimmy and his buttoned-up cousin Max make meager livings as telephone rep...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

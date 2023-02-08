@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "苦中带甜的滋味 にがくてあまい",
+  "url": "/subject/26628352/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2345432730.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370708/",
+      "name": "草野翔吾 Shôgo Kusano"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370710/",
+      "name": "大岁伦弘 Tomohiro Ohtoshi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275921/",
+      "name": "上田诚 Makoto Ueda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370709/",
+      "name": "小林ユミヲ Yumio Kobayashi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275365/",
+      "name": "川口春奈 Haruna Kawaguchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038106/",
+      "name": "林遣都 Kento Hayashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342122/",
+      "name": "渊上泰史 Yasushi Fuchikami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337600/",
+      "name": "樱田日和 Hiyori Sakurada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350197/",
+      "name": "新田真剑佑 Mackenyu Arata"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370711/",
+      "name": "大槻一人 Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328533/",
+      "name": "中野英雄 Hideo Nakano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006028/",
+      "name": "石野真子 Mako Ishino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350187/",
+      "name": "松本穗香 Honoka Matsumoto"
+    }
+  ]
+,
+  "datePublished": "2016-09-10",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H36M",
+  "description": "讲述改编自日本漫画作家小林ユミヲ的作品。主要讲述真希和美术老师‧渚的恋爱生活，但两个人的性格完全格格不入，但他们却开始了同居的生活。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3781",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

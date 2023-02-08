@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蛊烛",
+  "url": "/subject/26860042/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2375436631.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361345/",
+      "name": "鲜光剑 Guangjian Xian"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u77ed\u7247"],
+  "duration": "PT0H20M",
+  "description": "一个病态的家庭，妻子忍受着丈夫每每犯病后的无理取闹。但是积怨过深，再无法探知的真实与虚幻中最终导致精神失常。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

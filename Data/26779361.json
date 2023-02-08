@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黄河传人",
+  "url": "/subject/26779361/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535956865.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373957/",
+      "name": "朱建新 Jianxin Zhu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327106/",
+      "name": "刘研 Yan Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316347/",
+      "name": "尹馨梓 Xinzi Yin"
+    }
+  ]
+,
+  "datePublished": "2018-10-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "以临县黄河大唢呐为主题，以它近几十年来濒临失传为背景，以主人公陈音源和白灵的爱情故事为主线，讲述了主人公在学艺、传承和弘扬临县黄河大唢呐的过程中历经艰辛坎坷，成为狂吹猛打，掀起乡土民族风的新一代大唢呐...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

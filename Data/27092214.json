@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暗：杀手之旅 Canaries",
+  "url": "/subject/27092214/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2493400824.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1180071/",
+      "name": "Kai Owen Kai Owen"
+    }
+  ]
+,
+  "datePublished": "2017-08-26",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H24M",
+  "description": "The first wave of an alien invasion coincides with a New Years Eve party in a Welsh valley.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

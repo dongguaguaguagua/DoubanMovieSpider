@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超级异能人",
+  "url": "/subject/26918901/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2399428382.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382180/",
+      "name": "郑睿 rayzheng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349417/",
+      "name": "石辰 Chen Shi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353093/",
+      "name": "张亚飞 Yafei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349414/",
+      "name": "朱美璇 Meixuan Zhu"
+    }
+  ]
+,
+  "datePublished": "2016-11-22",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H8M",
+  "description": "金良和紫文自小在孤儿院长大，他们一直在寻找自己的母亲，在寻找母亲的过程中，他们发现自己具有异于常人的超能力。大学老师谭目告诉了他们关于自身超能力的真相，并且和他们一起对抗穿越而来要杀死他们母亲的机器人...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

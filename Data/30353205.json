@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拉萨23天",
+  "url": "/subject/30353205/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2537213076.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361841/",
+      "name": "宋楠惜 Nacy Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334350/",
+      "name": "宝木中阳 Ming Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341263/",
+      "name": " "
+    }
+  ]
+,
+  "datePublished": "2018-12-18",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H1M",
+  "description": "天涯社区口碑作品：张婵原著《逃到西藏也逃不出爱情》改编电影，背包客的拉萨爱情故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

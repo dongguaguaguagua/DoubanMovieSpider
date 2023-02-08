@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "牢笼 Cage",
+  "url": "/subject/27012774/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2454178006.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007082/",
+      "name": "帕特里克·博金 Patrick Bergin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418390/",
+      "name": "凯特琳·托尔布恩 Caitlin Thorburn"
+    }
+  ]
+,
+  "datePublished": "2017-04-01",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H20M",
+  "description": "Seattle call girl Gracie Blake wakes up in a cage, in a warehouse - somewhere in America.@www.lighty...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

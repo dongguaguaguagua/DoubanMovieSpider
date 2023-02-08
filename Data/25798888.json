@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Base",
+  "url": "/subject/25798888/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503224000.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337077/",
+      "name": "朱莉·卓雅 Julie Dray"
+    }
+  ]
+,
+  "datePublished": "2017-10-27",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ac\u7591"],
+  "duration": "",
+  "description": "Only two kinds of people step off a cliff. Those that want to die and those that want to live. JC is...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

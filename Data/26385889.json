@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑暗信号 Dark Signal",
+  "url": "/subject/26385889/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462096260.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1216359/",
+      "name": "加雷思·大卫-劳埃德 Gareth David-Lloyd"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124589/",
+      "name": "琴祺雅·蒙内亚勒 Cinzia Monreale"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019110/",
+      "name": "詹姆斯·科兹莫 James Cosmo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1253534/",
+      "name": " Joanna Ignaczewska"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327759/",
+      "name": "西旺·莫里斯 Siwan Morris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199007/",
+      "name": "Sioned Jones Sioned Jones"
+    }
+  ]
+,
+  "datePublished": "2016-05-23",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "The spirit of a murdered girl returns with a message. Now a stranded woman must team up with the sta...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "100",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Jaguar",
+  "url": "/subject/26881760/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2397020316.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350821/",
+      "name": "维杰耶德拉·普拉萨德 Vijayendra Prasad"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1073035/",
+      "name": "婆罗门·安达姆 Brahmanandam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350819/",
+      "name": "拉姆亚·克里希南 Ramya Krishnan"
+    }
+  ]
+,
+  "datePublished": "2016-10-06",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我 Me",
+  "url": "/subject/26957189/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2414088498.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286212/",
+      "name": "蕾拉·哈塔米 Leila Hatami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358590/",
+      "name": "阿米尔·扎迪迪 Amir Jadidi"
+    }
+  ]
+,
+  "datePublished": "2016-08-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H24M",
+  "description": "米扎表面上是一位普通的伊朗女性，在矿泉水厂作顾问，同时给孩子教音乐。但她的另一个身份却是一名从事非法活动的头目，并且引起了警方对她的追查。有人暗中为她提供消息，警方已经派人埋伏在她的身边。但与此同时她...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

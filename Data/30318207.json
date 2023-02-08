@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "肋骨",
+  "url": "/subject/30318207/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2613965957.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342506/",
+      "name": "张唯 Wei Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328656/",
+      "name": "黄精一 Jingyi Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318555/",
+      "name": "源唯杰 Weijie Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333737/",
+      "name": "孟浩 Hao Meng"
+    }
+  ]
+,
+  "datePublished": "2018-10-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "一个基督徒父亲有一个执意要做变性手术的儿子，他十分痛心。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

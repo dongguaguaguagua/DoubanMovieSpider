@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "十一天零一夜",
+  "url": "/subject/26352444/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2234574126.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280599/",
+      "name": "马楚成 Jingle Ma"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315866/",
+      "name": "包贝尔 Bei&#39;er Bao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315729/",
+      "name": "古力娜扎 Coulee Nazha"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "讲述深爱自己丈夫的人妻，发现丈夫出轨后意外丧生，没想到却在少女身上重生，她想要在短短的十一天内复仇丈夫和小三，却发现事情并非如此。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

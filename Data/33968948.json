@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "1991",
+  "url": "/subject/33968948/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558834616.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274323/",
+      "name": "里卡多·特罗吉 Ricardo Trogi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274323/",
+      "name": "里卡多·特罗吉 Ricardo Trogi"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-07-27",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H21M",
+  "description": "Ricardo recounts the adventures of his 21 year old self, when he went to Italy following love.
+Middl...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

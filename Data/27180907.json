@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美人鱼战队",
+  "url": "/subject/27180907/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533181955.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376833/",
+      "name": "孙书博 Shubo Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402570/",
+      "name": " "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360118/",
+      "name": "徐子鹿 Zilu Xu"
+    }
+  ]
+,
+  "datePublished": "2018-09-10",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H0M",
+  "description": "获美国戴维斯电影节最佳网络电影奖",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

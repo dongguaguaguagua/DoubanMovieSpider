@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "信仰者",
+  "url": "/subject/30244759/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2530153907.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327174/",
+      "name": "杨虎 Hu Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355513/",
+      "name": "李海江 Haijiang Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260483/",
+      "name": "黄少祺 Shao-qi Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314844/",
+      "name": "赵毅 Yi Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327686/",
+      "name": "葛子铭 Ziming Ge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274703/",
+      "name": "李幼斌 Youbin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327779/",
+      "name": "卢海华 Haihua Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324384/",
+      "name": "徐光宇 Guangyu Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314078/",
+      "name": "王力可 Like Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274706/",
+      "name": "侯天来 Tianlai Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367658/",
+      "name": "廉倢 Jie Lian"
+    }
+  ]
+,
+  "datePublished": "2018-06-20",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u5386\u53f2"],
+  "duration": "PT1H44M",
+  "description": "方志敏率领红十军团直插国民党腹地。谭家桥一战，由于军团长刘畴西刚愎自用，战况急转直下，方志敏等将领在怀玉山先后被俘。在狱中，方志敏等人和敌人坚决斗争。刘畴西更是对所犯错误悔恨不已，造成红十军团全军覆没...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "901",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

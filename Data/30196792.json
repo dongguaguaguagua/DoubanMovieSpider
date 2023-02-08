@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "来不及拥抱",
+  "url": "/subject/30196792/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519403697.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392211/",
+      "name": "赵云峰 Yunfeng Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429534/",
+      "name": "彭志敏 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429739/",
+      "name": "罗义昌 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434225/",
+      "name": "唐邕邕 Yongyong Tang"
+    }
+  ]
+,
+  "datePublished": "2018-04-11",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H52M",
+  "description": "童年时期常受同村孩子霸凌的优秀男孩苏启航认识了几个好兄弟，因为他们的影响从大人眼中的“好孩子”变成了不学无术的坏学生。 到达叛逆青春期的他逐渐表现出对家庭环境的不满，但是奶奶对他的爱依然深沉而且无私。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

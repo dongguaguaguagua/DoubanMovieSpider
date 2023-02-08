@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Premam",
+  "url": "/subject/27199960/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505098767.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430115/",
+      "name": "乔伊·波德拉尼 Joy Badlani"
+    }
+  ]
+,
+  "datePublished": "2016-10-07",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT2H37M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

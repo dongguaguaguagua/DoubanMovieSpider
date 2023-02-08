@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暗金高尔夫 Freaky Ali",
+  "url": "/subject/26877926/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2382282553.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036982/",
+      "name": "索亥尔·可汗 Sohail Khan"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313213/",
+      "name": "纳瓦祖丁·席迪圭 Nawazuddin Siddiqui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327809/",
+      "name": "艾米·杰克逊 Amy Jackson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332864/",
+      "name": "尼基丁·迪尔 Nikitin Dheer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278699/",
+      "name": "希玛·比斯瓦斯 Seema Biswas"
+    }
+  ]
+,
+  "datePublished": "2016-09-09",
+  "genre": ["\u559c\u5267", "\u8fd0\u52a8"],
+  "duration": "",
+  "description": "Nawazuddin Siddiqui (Ali ) plays a character of an extortion debt collector for the local goon along...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小旋风柴进之逼上梁山",
+  "url": "/subject/27072739/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568506831.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305426/",
+      "name": "刘信义 Xinyi Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389796/",
+      "name": "刘殷实 Yingshi Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400082/",
+      "name": "张博豪 Bohao Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367991/",
+      "name": "赵秋生 Qiusheng Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387705/",
+      "name": "张浩 Hao Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H30M",
+  "description": "影片主要讲述了高唐州知府高廉妻舅殷天赐想强占柴进之叔父柴皇城的庄园。在他们的阴谋下，丹书铁契被毁，柴皇城身死，柴进亦因谋反罪被打入死牢待斩。最终黑旋风李逵带领梁山大军兵临高唐，将柴进接上梁山的故事",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

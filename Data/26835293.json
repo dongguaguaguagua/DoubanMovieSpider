@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "九纹龙史进之大破瓦罐寺",
+  "url": "/subject/26835293/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2699391981.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305426/",
+      "name": "刘信义 Xinyi Liu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349420/",
+      "name": "朱晓辉 Ryan Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317188/",
+      "name": "杜玉明 Yuming Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369580/",
+      "name": "蒲星宇 Xingyu Pu"
+    }
+  ]
+,
+  "datePublished": "2016-07-15",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H35M",
+  "description": "旅途中的史进误打误撞，成为了把上林村村民从瓦罐寺的强盗手中解救的关键人物。经过惨烈的战斗和牺牲，史进终于带领村民将瓦罐寺的七个强盗依次清除。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "277",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

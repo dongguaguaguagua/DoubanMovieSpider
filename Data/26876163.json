@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "佩特拉 Petra",
+  "url": "/subject/26876163/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520267109.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296024/",
+      "name": "海梅·罗萨莱斯 Jaime Rosales"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296024/",
+      "name": "海梅·罗萨莱斯 Jaime Rosales"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284651/",
+      "name": "米歇尔·加斯坦比德 Michel Gaztambide"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467029/",
+      "name": "克拉拉·罗奎特 Clara Roquet"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000889/",
+      "name": "巴巴拉·莱涅 Bárbara Lennie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1075354/",
+      "name": "亚历克斯·布伦德穆尔 Àlex Brendemühl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002839/",
+      "name": "玛丽萨·帕雷德斯 Marisa Paredes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291188/",
+      "name": "佩特拉·马丁内斯 Petra Martínez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258504/",
+      "name": "娜塔莉·玛杜诺 Natalie Madueño"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332462/",
+      "name": "奥瑞欧·普拉 Oriol Pla"
+    }
+  ]
+,
+  "datePublished": "2018-05-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

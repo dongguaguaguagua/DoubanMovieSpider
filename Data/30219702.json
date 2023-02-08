@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超级僵尸 Uberzombiefrau",
+  "url": "/subject/30219702/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2522363291.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420379/",
+      "name": "阿曼达·米勒 Amanda Miller"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "在二战的最后几周，在东欧的偏远地区。纳粹的复兴和组成一支强大的死亡军队的绝望企图。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

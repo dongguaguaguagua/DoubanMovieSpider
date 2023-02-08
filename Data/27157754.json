@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "洛里斯很好 Loris is Fine",
+  "url": "/subject/27157754/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2500467154.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441950/",
+      "name": "安德烈·阿坎杰利 Andrea Arcangeli"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT0H22M",
+  "description": "Loris is twenty years old, naive and in deep need for affection. He is in his room, waiting for some...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

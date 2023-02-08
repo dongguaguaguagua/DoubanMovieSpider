@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Action Hero Biju",
+  "url": "/subject/26830502/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2364544767.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425667/",
+      "name": "尼文·保利 Nivin Pauly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428572/",
+      "name": "阿努·厄玛努尔 Anu Emmanuel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477710/",
+      "name": "梅杰·拉维 Major Ravi"
+    }
+  ]
+,
+  "datePublished": "2016-02-04",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT2H24M",
+  "description": "The story of Action Hero Biju revolves around certain interesting episodes in the life of a young po...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

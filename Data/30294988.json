@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亚马逊远征记 Amazon Obhijaan",
+  "url": "/subject/30294988/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2530397721.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423307/",
+      "name": "哥莫雷肖尔·穆克吉 Kamaleswar Mukherjee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423307/",
+      "name": "哥莫雷肖尔·穆克吉 Kamaleswar Mukherjee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386587/",
+      "name": "罗尼·法基尼 Roney Facchini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1201726/",
+      "name": "Eduardo Semerjian Eduardo Semerjian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421822/",
+      "name": "戴夫 Dev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423471/",
+      "name": "拉柏妮·肖卡尔 Laboni Sarkar"
+    }
+  ]
+,
+  "datePublished": "2017-12-22",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT2H20M",
+  "description": "冒险家尚卡尔，与安娜佛瑞恩和她父亲，深入亚马逊丛林，以期找到神话般的黄金之城埃尔多拉多……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

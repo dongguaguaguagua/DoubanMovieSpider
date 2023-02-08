@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "垃圾 Garbage",
+  "url": "/subject/30142134/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512920759.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429082/",
+      "name": "戈西克·穆克吉 Qaushiq Mukherjee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429082/",
+      "name": "戈西克·穆克吉 Qaushiq Mukherjee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429213/",
+      "name": "坦莫伊·达纳尼亚 Tanmay Dhanania"
+    }
+  ]
+,
+  "datePublished": "2018-02-17",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "",
+  "description": "A young, seemingly mute woman has been fixed to the wall of an apartment with a long metal chain. Sh...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

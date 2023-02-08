@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2015 Gaon Chart K-POP大奖 2015 가온 차트 K-POP 어워드",
+  "url": "/subject/26924136/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2401207772.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349004/",
+      "name": "金亚荣 YURA"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364926/",
+      "name": "朴正洙 Lee Teuk"
+    }
+  ]
+,
+  "datePublished": "2016-02-17",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "",
+  "description": "本届颁奖礼根据2015年1月至12月GAON榜单的各项资料，评选出了年度最佳歌手、新媒体平台奖共17个领域的奖项。
+去年凭藉《玻璃珠》、《从今开始我们》，今年以《时光飞逝》连推3首金曲的GFRIEND...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "赫迪 نحبك هدي",
+  "url": "/subject/26712057/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2326364320.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354870/",
+      "name": "穆罕默德·本·阿提亚 Mohamed Ben Attia"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354870/",
+      "name": "穆罕默德·本·阿提亚 Mohamed Ben Attia"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354873/",
+      "name": "马吉德·马斯图拉 Majd Mastoura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358610/",
+      "name": "瑞姆·本·马萨德 Rym Ben Messaoud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358611/",
+      "name": "沙巴·博萨达 Sabah Bouzouita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358612/",
+      "name": "阿穆尼亚·本·加利 Omnia Ben Ghali"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358613/",
+      "name": "哈基姆·博穆萨奥迪 Hakim Boumsaoudi"
+    }
+  ]
+,
+  "datePublished": "2016-02-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "赫迪（马吉德·马斯图拉 Majd Mastoura 饰）的人生似乎从他出生的那一刻起就已经被确定好了，他所要做的一切，就只是按照母亲为他所铺设的道路一直往前走。长大后，赫迪成为了一名推销员，过着日复一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "664",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

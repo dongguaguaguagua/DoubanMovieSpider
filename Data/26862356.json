@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "布兰妮 Britney Ever After",
+  "url": "/subject/26862356/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2421010036.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369911/",
+      "name": "莱斯利·利伯曼 Leslie Libman"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392181/",
+      "name": "娜塔莎·巴塞特 Natasha Bassett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342018/",
+      "name": "内森·凯斯 Nathan  Keyes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327021/",
+      "name": "克莱顿·基蒂 Clayton Chitty"
+    }
+  ]
+,
+  "datePublished": "2017-02-18",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "布兰妮·斯皮尔斯要被拍成电视电影了，片名《布兰妮》，将聚焦她事业生涯的跌宕起伏，从想成名的年轻姑娘，到和“贾老版”贾斯汀·汀布莱克的恋情，私生活对事业的影响。布兰妮方面声明：不会参与影片任何方面，也不...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

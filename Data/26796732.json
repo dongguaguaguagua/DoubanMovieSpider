@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "道场 The Ashram",
+  "url": "/subject/26796732/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2517025214.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006124/",
+      "name": "本·雷克 Ben Rekhi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006124/",
+      "name": "本·雷克 Ben Rekhi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316917/",
+      "name": "山姆·基利 Sam Keeley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048127/",
+      "name": "卡尔·潘 Kal Penn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329473/",
+      "name": "拉迪卡·艾普特 Radhika Apte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049558/",
+      "name": "梅丽莎·里奥 Melissa Leo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311394/",
+      "name": "海拉·西尔玛 Hera Hilmar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348588/",
+      "name": "扎卡里·柯芬 Zachary Coffin"
+    }
+  ]
+,
+  "datePublished": "2018-03-02",
+  "genre": ["\u60ca\u609a", "\u5947\u5e7b"],
+  "duration": "PT1H25M",
+  "description": "After receiving a cryptic message, American skeptic Jamie travels to the Indian Himalayas to pick up...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

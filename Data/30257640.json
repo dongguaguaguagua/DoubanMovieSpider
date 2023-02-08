@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Bite",
+  "url": "/subject/30257640/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352051/",
+      "name": "吉米·维 Jimmy Vee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1104962/",
+      "name": "安娜贝勒·拉尼翁 Annabelle Lanyon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218535/",
+      "name": "乔恩·坎普林 Jon Campling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344270/",
+      "name": "安东尼·伊洛特 Anthony Ilott"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u6050\u6016"],
+  "duration": "",
+  "description": "Pursued by a dangerous criminal after a failed theft, con artists Nina and Yaz get more than they ba...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

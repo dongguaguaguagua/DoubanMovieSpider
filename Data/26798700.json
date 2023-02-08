@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "歌利亚 Goliath",
+  "url": "/subject/26798700/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2376156536.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357804/",
+      "name": "杰西卡·西博思 Jessica Sipos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356897/",
+      "name": "凯瑟琳·巴雷尔 Katherine Barrell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1138362/",
+      "name": "安德里亚·罗斯 Andrea Roth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318559/",
+      "name": "琼恩·柯 Jon Cor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348706/",
+      "name": "山农·库克 Shannon Kook"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422885/",
+      "name": "米歇尔·麦莱特 Michelle Mylett"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "When Robin Walker returns home for her father&#39;s funeral, she&#39;s forced to face the town she ran away ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

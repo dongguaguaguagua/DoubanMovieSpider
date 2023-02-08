@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大浩劫 Cry Havoc",
+  "url": "/subject/34692086/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2564051661.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400577/",
+      "name": "雷纳·佩雷斯 Rene Perez"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400757/",
+      "name": "罗伯特·布朗兹 Robert Bronzi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383042/",
+      "name": "艾米丽·斯威特 Emily Sweet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007041/",
+      "name": "理查德·泰森 Richard Tyson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "一位雄心勃勃的記者接受了聯邦調查局最想抓的其中之一人的專訪，她前往一個秘密大院與富有的偷窺者會面，她懷疑偷窺者與被稱為「浩劫」的精神病連環殺手有關…",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

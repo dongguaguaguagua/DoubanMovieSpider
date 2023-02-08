@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "巧巧",
+  "url": "/subject/26430195/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2422955016.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327207/",
+      "name": "宋川 Chuan Song"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327207/",
+      "name": "宋川 Chuan Song"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355541/",
+      "name": "梁雪芹 Xueqin Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322072/",
+      "name": "章宇 Yu Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416006/",
+      "name": "周铨 Quan Zhou"
+    }
+  ]
+,
+  "datePublished": "2017-02-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "巧巧在广州打工有些年头了，总是失望大于希望。这一年，在父母的催促下，她终于回到云南农村的老家。当她面对当下的中国乡村，记忆似乎变得更加遥远。在这里，她必须面对一个性无能的父亲和一个以小本生意努力维持生...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5666",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

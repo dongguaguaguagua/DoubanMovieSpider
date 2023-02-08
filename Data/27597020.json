@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伏妖白鱼镇",
+  "url": "/subject/27597020/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2507124617.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400999/",
+      "name": "刘轩狄 Xuandi Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438204/",
+      "name": "崔走召 Zouzhao Cui"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275965/",
+      "name": "杜奕衡 John Do"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400559/",
+      "name": "林枫烨 Fengye Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357158/",
+      "name": "付赫安琪 Anqi Fu-He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451015/",
+      "name": "陈玉勇 Yuyong Chen"
+    }
+  ]
+,
+  "datePublished": "2017-12-09",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b", "\u53e4\u88c5"],
+  "duration": "PT1H10M",
+  "description": "赖府公子赖晓华与张家公子张不会等人抬杠，赢得了一块“抬杠之王”的牌匾，因张不会善妒的性格。不服气，便邀赖晓华再赌，赖晓华自认胆识过人，便应邀。张不会为了要赢回面子，恳请老管家从乡下找来能人助其一臂之力...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3026",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

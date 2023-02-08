@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "赌神之赌城风暴",
+  "url": "/subject/27006862/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397929/",
+      "name": "卜奕心 Yixin Bu"
+    }
+  ]
+,
+  "datePublished": "2017-03-31",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H12M",
+  "description": "三年一次的亚洲赌神争霸赛将在香港赌神高骏和台湾赌神井田上二之间决出。井田上二心知赌术不如高骏，遂买通高骏爱徒杜宇，派遣心腹孟璐潜伏至高骏身边，在公海赌船上设计高骏，将高骏打伤，扔到海中。高骏大难不死，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

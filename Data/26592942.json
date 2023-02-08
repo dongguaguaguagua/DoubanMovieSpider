@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "低碳爱情",
+  "url": "/subject/26592942/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2375679048.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360602/",
+      "name": "秦鹏 Peng Qin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328201/",
+      "name": "王龙正 Longzheng Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317301/",
+      "name": "路晨 Chen Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323368/",
+      "name": "李昊臻 Haozhen Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318241/",
+      "name": "王君平 Junping Wang"
+    }
+  ]
+,
+  "datePublished": "2016-08-25",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H36M",
+  "description": "本片讲述了时尚编辑萧薇古灵精怪，常折腾男友环保主义者莫非。莫非在阻止一个污染环境的项目时，因工作原因与萧薇几番误会。最终凭借执着和坚持，不仅保护了一片绿地，阻止了污染。同时也与爱人萧薇修成正果，开心结...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "200",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

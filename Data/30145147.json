@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "那一片星光",
+  "url": "/subject/30145147/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2513244028.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330015/",
+      "name": "李鸿杰 Hung Kit Lee"
+    }
+  ]
+,
+  "datePublished": "2018-02-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H7M",
+  "description": "张来是一名研究生，毕业后经过培训和学习来到了华北石化装置区打算在这里闯出一番天地，一段时间后张来觉得这里的工作只有累和苦，觉得自己读到了研究生却无法施展能力，便决定辞职回到了北京，但在安稳的生活中张来...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

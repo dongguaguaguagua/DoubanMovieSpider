@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "梦春记",
+  "url": "/subject/26951524/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2493603075.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348556/",
+      "name": "吴琼 Qiong Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383115/",
+      "name": "张慧佳 Huijia Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365636/",
+      "name": "于思楚 Sichu Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338247/",
+      "name": "潘春春 Chunchun Pan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376923/",
+      "name": "刘耀阳 Yaoyang Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342217/",
+      "name": "王千一 Qianyi Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274279/",
+      "name": "林雪 Suet Lam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313907/",
+      "name": "李菁 Jing Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314012/",
+      "name": "骆达华 Tat-Wah Lok"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275488/",
+      "name": "王伟华 Weihua Wang"
+    }
+  ]
+,
+  "datePublished": "2018-04-04",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u60ac\u7591", "\u60c5\u8272", "\u72af\u7f6a", "\u5192\u9669"],
+  "duration": "PT1H0M",
+  "description": "《梦春记》是由北京联合映像传媒有限公司出品，是主打青春喜剧、悬疑奇幻、穿梭时光的系列网络大电影，《梦春记》共有三部分别是《透明情人》、《致命心跳》和《撩妹时光机》，借由人生不同时空，面对不同选择，而真...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

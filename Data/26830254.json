@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绑架背后 Madaari",
+  "url": "/subject/26830254/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2364435560.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323266/",
+      "name": "尼西卡特·卡马特 Nishikant Kamat"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319729/",
+      "name": "瑞提什·沙阿 Ritesh Shah"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108861/",
+      "name": "伊尔凡·可汗 Irrfan Khan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036945/",
+      "name": "吉米·舍尔吉勒 Jimmy Shergill"
+    }
+  ]
+,
+  "datePublished": "2016-07-15",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a", "\u5192\u9669"],
+  "duration": "PT2H13M",
+  "description": "本片男主角绑架了内政部长那聪明伶俐且官家气十足的寄宿学校的儿子,内政部长调集了大量人手去调查此事.可是却没接到绑匪的赎金电话.负责调查此案的纳其凯也是一头雾水,直到绑匪打来电话,可是,绑匪并不要求赎金...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "215",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

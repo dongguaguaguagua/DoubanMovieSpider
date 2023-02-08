@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雪中威尼斯 Venise sous la neige",
+  "url": "/subject/27028990/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456604757.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088014/",
+      "name": "艾洛蒂·丰唐 Élodie Fontan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037868/",
+      "name": "亚瑟·约格诺特 Arthur Jugnot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1155089/",
+      "name": "奥利维耶·西特吕克 Olivier Sitruk"
+    }
+  ]
+,
+  "datePublished": "2017-05-17",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H20M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

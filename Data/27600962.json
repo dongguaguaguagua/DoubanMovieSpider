@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蚂蚁的旅程 Overrun",
+  "url": "/subject/27600962/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2596134205.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430742/",
+      "name": "伊莱尼娅·巴格里艾图 Ylenia Baglietto"
+    }
+  ]
+,
+  "datePublished": "2017-10-07",
+  "genre": ["\u52a8\u753b", "\u77ed\u7247"],
+  "duration": "PT0H8M",
+  "description": "在一片漆黑的地方，一只蚂蚁突然被一股力量冲击摔落到地面。蚂蚁寻找出路，穿越着一个充满动荡危险却又迷人的世界。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2153",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

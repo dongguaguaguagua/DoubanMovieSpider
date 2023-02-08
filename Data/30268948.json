@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "星溪的3次奇遇",
+  "url": "/subject/30268948/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2625228845.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320665/",
+      "name": "竹原青 Yuan Qing"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320665/",
+      "name": "竹原青 Yuan Qing"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381272/",
+      "name": "许芳铱 Fangyi Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050264/",
+      "name": "帕斯卡尔·格雷戈里 Pascal Greggory"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398350/",
+      "name": "黄若熙 Ribbon Ooi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408853/",
+      "name": "甘家旗 Jacky Kam"
+    }
+  ]
+,
+  "datePublished": "2018-09-06",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H40M",
+  "description": "中国女孩夏星溪（许芳铱饰）独自来到马来西亚北部小城亚罗士打（Alor Setar)，因为自行车爆胎，她经历了三段截然不同的奇遇，先后遇到了本地女孩爱玲（黄若熙饰），三个闲汉，以及作家皮埃尔（帕斯卡尔·...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1867",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

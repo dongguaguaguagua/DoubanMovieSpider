@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "福斯特家园 Foster Home Seance",
+  "url": "/subject/30381182/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2540272221.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1261898/",
+      "name": "弗兰克·鲍沃斯 Frank Powers"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381439/",
+      "name": "贡萨洛·罗伯斯 Gonzalo Robles"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1261898/",
+      "name": "弗兰克·鲍沃斯 Frank Powers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381439/",
+      "name": "贡萨洛·罗伯斯 Gonzalo Robles"
+    }
+  ]
+,
+  "datePublished": "2018-10-31",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "When a Foster Home is stricken by tragedy the few remaining children make a pact to always keep in t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

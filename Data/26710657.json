@@ -1,0 +1,142 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "芬妮的旅程 Le voyage de Fanny",
+  "url": "/subject/26710657/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2457733322.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282536/",
+      "name": "萝拉·多尔伦 Lola Doillon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397994/",
+      "name": "芬妮·班·艾米 Fanny Ben-Ami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282536/",
+      "name": "萝拉·多尔伦 Lola Doillon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398002/",
+      "name": "安妮·佩尔埃涅 Anne Peyrègne"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398004/",
+      "name": "莱奥尼·西索德 Léonie Souchaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386133/",
+      "name": "芳汀·阿杜安 Fantine Harduin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398009/",
+      "name": "朱莉安娜·勒普罗 Juliane Lepoureau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398011/",
+      "name": "赖恩·布罗迪 Ryan Brodie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398012/",
+      "name": "安妮·梅林格 Anaïs Meiringer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398013/",
+      "name": "卢·拉布雷希特 Lou Lambrecht"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009435/",
+      "name": "塞西尔·德·弗朗斯 Cécile De France"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315973/",
+      "name": "玛龙·莱瓦纳 Malonn Lévana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361888/",
+      "name": "马丁·斯威比 Martin Swabey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395903/",
+      "name": "伊戈尔·凡·德塞尔 Igor van Dessel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335061/",
+      "name": "斯特凡·德·胡特 Stéphane De Groodt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1154609/",
+      "name": "Eric Soubelet Eric Soubelet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291231/",
+      "name": "奥利维尔·马萨特 Olivier Massart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1271593/",
+      "name": " Thomas Demarez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340187/",
+      "name": "Pascaline Crêvecoeur Pascaline Crêvecoeur"
+    }
+  ]
+,
+  "datePublished": "2016-05-18",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H34M",
+  "description": "1943年法国维希政府时期，一群犹太儿童在儿童庇护所生活了几年后必须避开德国纳粹的逮捕逃往瑞士，为了避开逮捕不得不与他们信任的成年人分开。这一群犹太孩子踏上了一条一切靠自己的逃亡之旅。 本片根据真人真...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "37707",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.6"
+  }
+}

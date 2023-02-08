@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "自盗 Laal Rang",
+  "url": "/subject/26830520/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2364545750.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343487/",
+      "name": "赛义德·艾哈迈德·阿夫扎尔 Syed Ahmed Afzal"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343487/",
+      "name": "赛义德·艾哈迈德·阿夫扎尔 Syed Ahmed Afzal"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270241/",
+      "name": "拉杰内什·杜加尔 Rajneesh Duggal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325358/",
+      "name": "兰迪普·弘达 Randeep Hooda"
+    }
+  ]
+,
+  "datePublished": "2016-04-22",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT2H27M",
+  "description": "一部充满黑色幽默的社会剧，讲述的是一个刚入大学的印度新生，意外相遇盗血黑手党，被其人格魅力所折服，最终难以抵挡金钱的诱惑，染指并深陷其中...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异教徒 The Heretics",
+  "url": "/subject/27069639/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2498513371.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415861/",
+      "name": "查德·阿奇博尔德 Chad Archibald"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1168060/",
+      "name": "威尔·金 Will King"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381335/",
+      "name": "威尔·金 Will King"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422575/",
+      "name": "安娜·简·埃德蒙兹 Anna Jane Edmonds"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422576/",
+      "name": "凯伦·斯科比 Karen Scobie"
+    }
+  ]
+,
+  "datePublished": "2017-03-22",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H27M",
+  "description": "A cult kidnaps a young girl and sacrifices themselves by the locust moon. The girl awakes, surrounde...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "206",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

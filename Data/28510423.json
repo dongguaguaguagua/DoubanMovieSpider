@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一个忠诚的男人 L&#39;homme fidèle",
+  "url": "/subject/28510423/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2540640743.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018067/",
+      "name": "路易·加瑞尔 Louis Garrel"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050366/",
+      "name": "让-克劳德·卡里埃尔 Jean-Claude Carrière"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018067/",
+      "name": "路易·加瑞尔 Louis Garrel"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018067/",
+      "name": "路易·加瑞尔 Louis Garrel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045026/",
+      "name": "莱蒂西娅·卡斯塔 Laetitia Casta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342384/",
+      "name": "莉莉-罗丝·德普 Lily-Rose Melody Depp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419605/",
+      "name": "约瑟夫·恩格尔 Joseph Engel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419606/",
+      "name": "黛安娜·科维尔 Diane Courseille"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419607/",
+      "name": "维拉迪斯拉夫·加拉德 Vladislav Galard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419405/",
+      "name": "巴卡里·桑加雷 Bakary Sangaré"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419608/",
+      "name": "凯拉·卡瑞尔 Kiara Carrière"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415277/",
+      "name": "达利·本萨拉赫 Dali Benssalah"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342204/",
+      "name": "亚瑟·伊瓜尔 Arthur Igual"
+    }
+  ]
+,
+  "datePublished": "2018-09-09",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H15M",
+  "description": "亚博（路易斯·加瑞尔 Louis Garrel 饰）和玛丽安（蕾蒂莎·科斯塔 Laetitia Casta 饰）相识于大学校园之中，情窦初开的两人一见钟情，很快就走到了一起，并且搬到了同一屋檐下，开始...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1112",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

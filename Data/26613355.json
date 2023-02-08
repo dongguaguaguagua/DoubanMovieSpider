@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "赚够一千万",
+  "url": "/subject/26613355/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2411538128.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434195/",
+      "name": "蔡峻峰 Junfeng Cai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434195/",
+      "name": "蔡峻峰 Junfeng Cai"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-01-09",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H20M",
+  "description": "出品单位: 龙腾视界文化传媒（北京）
+一对幸福的小两口，在偶然的机会遇到一个能吐钱的茶壶，从而被茶壶控制，最后在梅博士的帮助下脱离控制，从中明白了人生的道理和幸福的含义……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

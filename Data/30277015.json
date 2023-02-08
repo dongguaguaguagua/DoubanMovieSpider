@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "尼古拉代码 Ark: Nicola Code",
+  "url": "/subject/30277015/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335861/",
+      "name": "崔磊 Lei Cui"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335861/",
+      "name": "崔磊 Lei Cui"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333164/",
+      "name": "霸易 Alexandre Bailly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364555/",
+      "name": "安东尼·加瓦德 Anthony Gavard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397568/",
+      "name": "牛钸斯 Herman Lau"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ac\u7591"],
+  "duration": "",
+  "description": "2020年人们制造出了一台人工智能机器人，但却不料发生了试验事故。在事故调查中这台机器人作为唯一的一名现场目击者却向人们说出了三个不同版本的事件经过，且每一个事件过程都符合逻辑毫无破绽。到真相如何？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

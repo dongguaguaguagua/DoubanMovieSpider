@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "霜冻将至 Før frosten",
+  "url": "/subject/30111905/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2545518148.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328562/",
+      "name": "迈克尔·诺尔 Michael Noer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328562/",
+      "name": "迈克尔·诺尔 Michael Noer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048248/",
+      "name": "加斯帕·克里斯滕森 Jesper Christensen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1109069/",
+      "name": "马格努斯·克雷佩 Magnus Krepper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1130520/",
+      "name": "格茜塔·诺比 Ghita Nørby"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411126/",
+      "name": "克拉拉·罗萨杰 Clara Rosager"
+    }
+  ]
+,
+  "datePublished": "2018-09-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H44M",
+  "description": "梵高〈吃馬鈴薯的人〉意象恍如活現光影中，深焦鏡頭替代蒼勁筆觸，昏燈殘照老農夫溝壑縱橫的面容，他心知飯桌上的薯泥，不足以一家四口度過寒冬。拼盡老命亦難敵天地不仁，求存只剩一途：把土地拱手讓予富有地主，為...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "147",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.1"
+  }
+}

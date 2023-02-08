@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "复仇之火 Bad Day for the Cut",
+  "url": "/subject/26863099/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456902479.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383058/",
+      "name": "克里斯·波 Chris Baugh"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383059/",
+      "name": "Brendan Mullin Brendan Mullin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383058/",
+      "name": "克里斯·波 Chris Baugh"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018158/",
+      "name": "苏珊·林奇 Susan Lynch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348640/",
+      "name": "乔瑟夫·帕夫洛夫斯基 Józef Pawlowski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285282/",
+      "name": "斯图尔特·格雷厄姆 Stuart Graham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348641/",
+      "name": "安娜·普洛克尼亚克 Anna Próchniak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355601/",
+      "name": "斯特拉·麦克考斯克 Stella McCusker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314667/",
+      "name": "伊恩·麦克尔希尼 Ian McElhinney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328873/",
+      "name": "莱勒·罗迪 Lalor Roddy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355985/",
+      "name": "瑞安·麦克法兰 Ryan McParland"
+    }
+  ]
+,
+  "datePublished": "2017-10-20",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H39M",
+  "description": "一位爱尔兰的中年农民，仍然住在家里与他的母亲同住，当某一天老太太被谋杀之后，他开始了复仇的计划。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "152",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

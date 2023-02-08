@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "糖果店 Candy Store",
+  "url": "/subject/24698532/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045122/",
+      "name": "斯蒂芬·加汉 Stephen Gaghan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045122/",
+      "name": "斯蒂芬·加汉 Stephen Gaghan"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "The Candy Store interweaves several storylines set against a dynamic criminal underworld in Brighton...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

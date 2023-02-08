@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "星河战队：火星叛国者 Starship Troopers: Traitor of Mars",
+  "url": "/subject/27064923/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2461966324.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1060219/",
+      "name": "荒牧伸志 Shinji Aramaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380306/",
+      "name": "松本松子 Masaru Matsumoto"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293076/",
+      "name": "爱德华·诺麦尔 Edward Neumeier"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036399/",
+      "name": "卡斯帕·范·迪恩 Casper Van Dien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036357/",
+      "name": "迪娜·迈耶 Dina Meyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319925/",
+      "name": "德雷·戴维斯 DeRay Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1069743/",
+      "name": "露西·克里斯蒂安 Luci Christian"
+    }
+  ]
+,
+  "datePublished": "2017-08-21",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u52a8\u753b"],
+  "duration": "PT1H28M",
+  "description": "故事讲述约翰尼·里科(卡斯帕·凡·迪恩配音)降级发配到火星偏僻空间站，他本和士兵安稳培训，不料众人被一大批外星昆虫包围，战争一触即发。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6996",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

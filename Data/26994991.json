@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伯纳德小姐说。TV未放送13话 バーナード嬢曰く。 おふろ読書",
+  "url": "/subject/26994991/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2449238157.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276137/",
+      "name": "喜多村英梨 Eri Kitamura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321981/",
+      "name": "小松未可子 Mikako Komatsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356125/",
+      "name": "市来光弘 Mitsuhiro Ichiki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325749/",
+      "name": "洲崎绫 Aya Suzaki"
+    }
+  ]
+,
+  "datePublished": "2017-01-20",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT0H3M",
+  "description": "TV未放送13话。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "90",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

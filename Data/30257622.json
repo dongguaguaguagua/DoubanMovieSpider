@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "献给珍妮佛 For Jennifer",
+  "url": "/subject/30257622/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2530654181.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025191/",
+      "name": "多米尼克·斯万 Dominique Swain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1138200/",
+      "name": "费莉莎·罗斯 Felissa Rose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270497/",
+      "name": "亨特·约翰逊 Hunter Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1262286/",
+      "name": "马丁·威廉·哈里斯 Martin William Harris"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "Jennifer, Joey, and Stefanie are just making a movie. It&#39;s not like anyone&#39;s going to die.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "永远的一天 ابد و یک روز",
+  "url": "/subject/26771832/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2355872662.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420447/",
+      "name": "赛义德·鲁斯塔伊 Saeed Roustayi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420447/",
+      "name": "赛义德·鲁斯塔伊 Saeed Roustayi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314289/",
+      "name": "佩曼·莫阿迪 Peyman Moadi"
+    }
+  ]
+,
+  "datePublished": "2016-02-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H52M",
+  "description": "The graphic account of a poverty-stricken family living in Tehran through the days before the younge...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

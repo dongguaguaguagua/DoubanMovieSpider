@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Lotzmann und das große Ganze",
+  "url": "/subject/26919096/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2873922561.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326089/",
+      "name": "萨宾·塔布瑞亚 Sabin Tambrea"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291282/",
+      "name": "米谢尔·马蒂切维奇 Misel Maticevic"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

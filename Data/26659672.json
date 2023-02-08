@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "动物学 Zoologiya",
+  "url": "/subject/26659672/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2529485312.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371562/",
+      "name": "伊万·特韦尔多夫斯基 Ivan I. Tverdovskiy"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371562/",
+      "name": "伊万·特韦尔多夫斯基 Ivan I. Tverdovskiy"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371560/",
+      "name": "玛莎·托卡列娃 Masha Tokareva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358163/",
+      "name": "亚历山大·戈尔奇林 Aleksandr Gorchilin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371602/",
+      "name": "德米特里·格罗舍夫 Dmitriy Groshev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371603/",
+      "name": "伊琳娜·奇皮然科 Irina Chipizhenko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371604/",
+      "name": "安娜·阿斯塔什金娜 Anna Astashkina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371601/",
+      "name": "Natalya Pavlenkova Natalya Pavlenkova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425997/",
+      "name": "瓦伦缇娜·波波瓦 Valentina Popova"
+    }
+  ]
+,
+  "datePublished": "2016-06-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "一个平凡的动物饲养员长了一条尾巴，就此改变了她的生活轨迹。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "310",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

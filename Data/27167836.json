@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "苏莱曼山 Сулайман Тоо",
+  "url": "/subject/27167836/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2501739629.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383657/",
+      "name": "伊丽莎维塔·斯蒂肖娃 Elizaveta Stishova"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383657/",
+      "name": "伊丽莎维塔·斯蒂肖娃 Elizaveta Stishova"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-09-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "卡拉巴斯是一名自私的卡车司机，在家乡的传统中，一个男人是可以拥有两名妻子的，卡拉巴斯就拥有两个老婆，其中一个怀有身孕不能外出工作，于是全家人就靠卡拉巴斯和另一个老婆齐帕拉（Perizat Ermanb...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "671",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

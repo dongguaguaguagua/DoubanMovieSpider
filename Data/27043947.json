@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "残酷的彼得 Cruel Peter",
+  "url": "/subject/27043947/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2583822089.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384397/",
+      "name": "Christian Bisceglia Christian Bisceglia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384398/",
+      "name": "Ascanio Malgarini Ascanio Malgarini"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1222720/",
+      "name": "亨利·杜思韦特 Henry Douthwaite"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336870/",
+      "name": "罗茜·费尔纳 Rosie Fellner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1098991/",
+      "name": "加布里埃尔·格雷科 Gabriele Greco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1126214/",
+      "name": "Biagio Pelligra Biagio Pelligra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1146264/",
+      "name": "奥罗拉·夸特罗基 Aurora Quattrocchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449726/",
+      "name": "安东尼奥·阿尔韦里奥 Antonio Alveario"
+    }
+  ]
+,
+  "datePublished": "2019-07-03",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "1908年圣诞节是墨西拿（Messina），地中海最富裕的商人城市之一。彼得（Peter）是一个富有的英国家庭的13岁儿子，因对儿童，动物和仆人的残酷而臭名昭著。一天晚上，他被伏击，并在该市哥特式公墓...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "364",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.1"
+  }
+}

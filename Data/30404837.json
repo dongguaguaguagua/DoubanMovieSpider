@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Se son rose",
+  "url": "/subject/30404837/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542849356.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005802/",
+      "name": "莱奥纳多·皮耶拉乔尼 Leonardo Pieraccioni"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359912/",
+      "name": "菲利波·博洛尼亚 Filippo Bologna"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005802/",
+      "name": "莱奥纳多·皮耶拉乔尼 Leonardo Pieraccioni"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005802/",
+      "name": "莱奥纳多·皮耶拉乔尼 Leonardo Pieraccioni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1227775/",
+      "name": "Michela Andreozzi Michela Andreozzi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049755/",
+      "name": "卡特琳娜·莫里诺 Caterina Murino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041836/",
+      "name": "克劳迪亚·潘多尔菲 Claudia Pandolfi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041589/",
+      "name": "贾布瑞拉·派申 Gabriella Pession"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394985/",
+      "name": "安东尼娅·特波 Antonia Truppo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328549/",
+      "name": "农齐娅·斯基亚诺 Nunzia Schiano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1091643/",
+      "name": "Gianluca Guidi Gianluca Guidi"
+    }
+  ]
+,
+  "datePublished": "2018-11-29",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Leonardo è un cinquantenne ostinatamente single che fa il giornalista di successo sul web occupandos...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

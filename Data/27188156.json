@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "1000杯酒 1000 Mexicans",
+  "url": "/subject/27188156/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2504160152.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303171/",
+      "name": "Arnel Taci Arnel Taci"
+    }
+  ]
+,
+  "datePublished": "2016-10-08",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H21M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

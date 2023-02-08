@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "工心计 Les têtes de l&#39;emploi",
+  "url": "/subject/26888480/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2402730443.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280520/",
+      "name": "Alexandre Charlot Alexandre Charlot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290738/",
+      "name": "Franck Magnier Franck Magnier"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027994/",
+      "name": "艾尔莎·泽贝斯坦 Elsa Zylberstein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041585/",
+      "name": "弗朗克·迪博斯克 Franck Dubosc"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050803/",
+      "name": "弗朗索瓦-格扎维埃·德梅松 François-Xavier Demaison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445253/",
+      "name": "艾尔莎·勒普瓦夫尔 Elsa Lepoivre"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474342/",
+      "name": "莱昂内尔·埃尔多安 Lionel Erdogan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483407/",
+      "name": "斯特凡·佩泽拉 Stéphane Pezerat"
+    }
+  ]
+,
+  "datePublished": "2016-11-16",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "Stéphane, Cathy和Thierry在职业介绍事务所任职。因为他们的“业绩”过于出色，该地区上报的失业人数逐年递减，达到了同期全国最低水平。于是上头决定关闭这家“客户”不足的职业介绍事务所。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

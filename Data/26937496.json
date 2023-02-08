@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冬去春来",
+  "url": "/subject/26937496/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2406795233.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366068/",
+      "name": "雷一松 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366068/",
+      "name": "雷一松 "
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-10-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "徐旺升，一个返乡的高龄民工，因常年在外以及妻子病故的原因，和儿子徐超关系不合。疯女子同徐超两小无猜，后来在外受了刺激。冬至晚上，徐超强奸疯女子时被父亲看到，从此疯女子心里有了徐超。徐旺升遂托人给儿子找...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鲨海 47 Meters Down",
+  "url": "/subject/26845362/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2504892832.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019388/",
+      "name": "约翰内斯·罗伯茨 Johannes Roberts"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019388/",
+      "name": "约翰内斯·罗伯茨 Johannes Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355031/",
+      "name": "欧内斯特·里埃拉 Ernest Riera"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000013/",
+      "name": "曼迪·摩尔 Mandy Moore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1232340/",
+      "name": "克莱尔·霍尔特 Claire Holt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050080/",
+      "name": "克里斯·约翰逊 Chris Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049789/",
+      "name": "雅尼·吉尔曼 Yani Gellman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376094/",
+      "name": "圣地亚哥·瑟甘拉 Santiago Segura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002720/",
+      "name": "马修·莫迪恩 Matthew Modine"
+    }
+  ]
+,
+  "datePublished": "2016-08-02",
+  "genre": ["\u60ca\u609a", "\u5192\u9669"],
+  "duration": "PT1H29M",
+  "description": "Lisa（曼迪·摩尔 Mandy Moore 饰）和Kate（克莱尔·霍尔特 Claire Holt 饰）两姐妹在墨西哥海岸度假，她们在海底观鲨铁笼中潜水观赏鲨鱼时，牵连铁笼的绳子突然断裂，观鲨笼掉落...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "25705",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

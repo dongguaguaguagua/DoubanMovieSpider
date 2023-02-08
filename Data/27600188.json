@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑狱驿站 Stop Over in Hell",
+  "url": "/subject/27600188/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534687458.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1196236/",
+      "name": "纳迪娅·德·圣地亚哥 Nadia de Santiago"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025374/",
+      "name": "恩佐·卡斯特拉里 Enzo G. Castellari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1115784/",
+      "name": "Antonio Mayans Antonio Mayans"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346146/",
+      "name": "马尔滕·丹嫩贝格 Maarten Dannenberg"
+    }
+  ]
+,
+  "datePublished": "2016-10-09",
+  "genre": ["\u60ca\u609a", "\u6050\u6016", "\u72af\u7f6a"],
+  "duration": "PT1H32M",
+  "description": "在狂野西部的一个马车站里，一个名叫&#39;上校&#39;的人的突然访问将改变他们的和平生活",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "93",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

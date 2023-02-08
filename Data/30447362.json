@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的五年级",
+  "url": "/subject/30447362/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2548867905.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304881/",
+      "name": "许同均 Tongjun Xu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406570/",
+      "name": "青夏 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338492/",
+      "name": "崔璨 Can Cui"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5"],
+  "duration": "",
+  "description": "剧情介绍 “土包子”周奋发（崔璨）阴差阳错地转学到上海读书。他初入新学校，不同的文化环境和全新的生活都让他难以适应，而善良的“小公主”叶茜茜（邹天子易）成为了其好朋友。谁料胆怯自卑的他却因一场足球赛而...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

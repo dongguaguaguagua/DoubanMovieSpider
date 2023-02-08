@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "片甲不留",
+  "url": "/subject/27073027/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2471537718.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349944/",
+      "name": "李抒航 Yuhang Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377002/",
+      "name": "刘天明 Tianming Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377003/",
+      "name": "冯钢 Gang Feng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349944/",
+      "name": "李抒航 Yuhang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318242/",
+      "name": "张定涵 Dinghan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048469/",
+      "name": "徐少强 Norman Chu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321148/",
+      "name": "贺生伟 Shengwei He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322767/",
+      "name": "何昊阳 Haoyang He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274718/",
+      "name": "马捷 Jie Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372969/",
+      "name": "牛军 Jun Niu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329234/",
+      "name": "赵英龙 Yinglong Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346493/",
+      "name": "邱云鹤 Yunhe Qiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377005/",
+      "name": "田琳 Lin Tian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377006/",
+      "name": "谭佳佳 Jiajia Tan"
+    }
+  ]
+,
+  "datePublished": "2017-07-14",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u4f20\u8bb0", "\u5386\u53f2", "\u6218\u4e89"],
+  "duration": "PT1H32M",
+  "description": "《片甲不留》改编自作家刘天明的小说《古代才女悲情》，写出了乱世中人的选择，《片甲不留》是一部表现亡国之痛的历史剧。将明末侯云书与秦淮名妓李香君的悲欢离合同南明王朝的兴亡有机地结合在一起，塑造了一系列栩...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

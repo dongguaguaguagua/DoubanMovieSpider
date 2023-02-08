@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的大佬是女王",
+  "url": "/subject/26821456/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2408580927.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359114/",
+      "name": "赵侃 Kan Zhao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1469375/",
+      "name": "康亦涵 Yihan Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359116/",
+      "name": "章绍伟 Shaowei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359117/",
+      "name": "孙小孟 Xiaomeng Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359118/",
+      "name": "周攀 Pan Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359119/",
+      "name": "丁冠中 Guanzhong Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359120/",
+      "name": "吕珊 Shan Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359121/",
+      "name": "李俊彦 Junyan Li"
+    }
+  ]
+,
+  "datePublished": "2016-12-24",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "原本是黑帮大佬的张强，在一场赌局中被人袭击，当其他人都以为张强已经过世的时候，张强却突然现身并且已变身为女人。无法面对现实的张强，找到了“她”的两位好兄弟，开始了带领两位“基友”重返男儿身的爆笑之旅。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

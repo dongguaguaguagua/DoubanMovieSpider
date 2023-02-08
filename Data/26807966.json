@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿露薇 Aruvi",
+  "url": "/subject/26807966/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2483033429.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1057200/",
+      "name": "Mohammad Ali Mohammad Ali"
+    }
+  ]
+,
+  "datePublished": "2016-06-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H11M",
+  "description": "A gentle girl born and brought up amidst the ever growing eco-social-consumeristic environment finds...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "192",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

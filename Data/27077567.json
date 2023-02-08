@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "帝都公主传",
+  "url": "/subject/27077567/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499545778.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397653/",
+      "name": "卢小娟 Xiaojuan Lu"
+    }
+  ]
+,
+  "datePublished": "2017-06-22",
+  "genre": ["\u7231\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H52M",
+  "description": "青釬治乱，倚天定国，长久以来，历代皇帝都以为只要得到青釬和倚天两柄神剑就可夺得天下，但却无一能识破两把宝剑的秘密。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "花火",
+  "url": "/subject/30318018/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2533290361.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345546/",
+      "name": "刘鸿志 Alexander Lau"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345546/",
+      "name": "刘鸿志 Alexander Lau"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-08-22",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5", "\u6218\u4e89"],
+  "duration": "PT0H16M",
+  "description": "讲述抗日战争末期犹如隔世的日军沦陷区里，名为猛子的少年日夜寻找杀父仇人，欲为父报仇。在艺妓花子的帮助下，他也如愿找到了所谓的仇人“斋藤”。终于等到复仇的那天，“斋藤”却又意外被花子所杀，而猛子也被血腥...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

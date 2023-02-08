@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "窃道",
+  "url": "/subject/26977253/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2430622883.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317702/",
+      "name": "钱泳辰 Yongchen Qian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313630/",
+      "name": "吕一 Yi Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317106/",
+      "name": "刘锡明 Sek-Ming Lau"
+    }
+  ]
+,
+  "datePublished": "2017-02-17",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H13M",
+  "description": "商人邱志荣被谋杀，警官萧汉锁定嫌疑人陈耀光，物证却落入商人黄浩坤手中。身背债务的黄浩坤自恃聪明，用陈耀光的杀人证据勒索陈耀光，走投无路的向警方自首。最终警官萧汉诈出了陈耀光的犯罪事实，令其伏法。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

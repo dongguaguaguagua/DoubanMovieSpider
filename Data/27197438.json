@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Dis",
+  "url": "/subject/27197438/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504826920.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1238522/",
+      "name": "小比尔·奥伯斯特 Bill Oberst Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1094354/",
+      "name": "Lori Jo Hendrix Lori Jo Hendrix"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362010/",
+      "name": "彼得·冈萨雷斯·法尔孔 Peter Gonzales Falcon"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H1M",
+  "description": "An ex-soldier with a criminal past takes refuge in the woods. A demonic figure seeks the seed of kil...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

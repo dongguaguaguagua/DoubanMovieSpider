@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Non è un paese per giovani",
+  "url": "/subject/26739228/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2452622244.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300002/",
+      "name": "乔瓦尼·韦罗内西 Giovanni Veronesi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037164/",
+      "name": "赛尔乔·鲁比尼 Sergio Rubini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088910/",
+      "name": "尼诺·弗拉西卡 Nino Frassica"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327733/",
+      "name": "费力博·西吉塔诺 Filippo Scicchitano"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

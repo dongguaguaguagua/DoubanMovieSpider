@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蛇的礼物 The Serpent&#39;s Gift",
+  "url": "/subject/26881660/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2501006791.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433155/",
+      "name": "罗伯托·莱奥尼 Roberto Leoni"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433155/",
+      "name": "罗伯托·莱奥尼 Roberto Leoni"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353069/",
+      "name": "古列尔莫·希拉 Guglielmo Scilla"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1208065/",
+      "name": "亚历桑德拉·迪努 Alexandra Dinu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT1H27M",
+  "description": "Eve is back to unveil the great secret of Eden... ...for centuries it has been hidden in the depths ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

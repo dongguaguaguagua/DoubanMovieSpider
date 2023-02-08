@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "六个气球 6 Balloons",
+  "url": "/subject/26938137/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2516242124.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033068/",
+      "name": "马里加·路易斯·瑞恩 Marja Lewis Ryan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033068/",
+      "name": "马里加·路易斯·瑞恩 Marja Lewis Ryan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017991/",
+      "name": "戴夫·弗兰科 Dave Franco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013872/",
+      "name": "提姆·麦锡森 Tim Matheson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036422/",
+      "name": "简·卡兹玛拉克 Jane Kaczmarek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340707/",
+      "name": "艾比·雅各布森 Abbi Jacobson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357078/",
+      "name": "玛雅·厄斯金 Maya Erskine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357550/",
+      "name": "詹·塔洛克 Jen Tullock"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010046/",
+      "name": "艾米丽·派克 Emily Peck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365356/",
+      "name": "海蒂·索兹蒙 Heidi Sulzman"
+    }
+  ]
+,
+  "datePublished": "2018-03-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H14M",
+  "description": "讲述某天晚上，一个女人开车穿越洛杉矶，带着她两岁的女儿和海洛因成瘾的弟弟寻找戒毒中心，路上发生的一系列故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "157",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

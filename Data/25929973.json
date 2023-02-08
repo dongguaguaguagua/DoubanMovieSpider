@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Welcome to Curiosity",
+  "url": "/subject/25929973/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505604932.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1159975/",
+      "name": "克里斯蒂安·索利诺 Cristian Solimeno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326991/",
+      "name": "爱丽塔·阿察丽娅 Amrita Acharia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1064753/",
+      "name": "Richard Blackwood Richard Blackwood"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1064206/",
+      "name": "凯茜·克拉克 Kacey Clarke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342237/",
+      "name": "杰克·阿什顿 Jack Ashton"
+    }
+  ]
+,
+  "datePublished": "2018-06-08",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H35M",
+  "description": "Nothing is ever what it seems in the sleepy English town of Curiosity as over the course of a never-...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

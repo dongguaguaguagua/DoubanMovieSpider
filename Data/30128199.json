@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Death at a Barbecue",
+  "url": "/subject/30128199/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2512014005.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054246/",
+      "name": "洛伊德·考夫曼 Lloyd Kaufman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218444/",
+      "name": "Seregon O&#39;Dassey Seregon O&#39;Dassey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1271229/",
+      "name": " Eric James Titus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296056/",
+      "name": "Larry Rosen Larry Rosen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453856/",
+      "name": "珍诺薇娃·罗西 Genoveva Rossi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1248742/",
+      "name": " Colleen Slattery"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H36M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

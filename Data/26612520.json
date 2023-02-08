@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狂野 Wild",
+  "url": "/subject/26612520/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2325906448.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050392/",
+      "name": "尼科莱特·克雷比茨 Nicolette Krebitz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050392/",
+      "name": "尼科莱特·克雷比茨 Nicolette Krebitz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041759/",
+      "name": "格奥尔格·弗里德里希 Georg Friedrich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1063515/",
+      "name": "希尔克·波丹班德 Silke Bodenbender"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323645/",
+      "name": "莎斯琪亚·罗森道尔 Saskia Rosendahl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444091/",
+      "name": "乔伊·玛丽亚·白 Joy Maria Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399237/",
+      "name": "尼尔逊 Nelson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399236/",
+      "name": "寇莎 Cossa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376811/",
+      "name": "莉莉丝·斯坦根博格 Lilith Stangenberg"
+    }
+  ]
+,
+  "datePublished": "2016-04-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "On her way home from her uninspiring office job, Ania catches sight of an untamed wolf on the outski...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "339",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

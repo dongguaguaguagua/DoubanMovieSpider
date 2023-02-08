@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "倾城十月 October",
+  "url": "/subject/30199206/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2528535813.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312599/",
+      "name": "舒吉特·瑟加 Shoojit Sircar"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327897/",
+      "name": "朱·查特维迪 Juhi Chaturvedi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325014/",
+      "name": "瓦伦·达万 Varun Dhawan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398093/",
+      "name": "芭妮塔·桑德胡 Banita Sandhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312543/",
+      "name": "吉塔姜利·饶 Gitanjali Rao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401304/",
+      "name": "萨希尔·维多利亚 Sahil Vedoliyaa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387400/",
+      "name": "尼基塔·阿南德 Nikita Anand"
+    }
+  ]
+,
+  "datePublished": "2018-04-13",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H55M",
+  "description": "一个名为舒莉（芭妮塔·桑德胡 饰）的女孩，每年都会热切期盼着十月的到来。那是茉莉盛开的季节，花儿将整夜的飘落，撒满一地。花期是如此的短暂，舒莉最终也如同茉莉般凋零了。多么短暂的美丽啊，就这样匆匆的走了...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "647",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

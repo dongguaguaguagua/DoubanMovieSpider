@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心钠素 Bodysnatch",
+  "url": "/subject/26654457/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2524729958.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1246991/",
+      "name": "艾伦·邦德巴-拉德 Alan Bond-Ballard"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350433/",
+      "name": "里斯·米什勒 Reese Mishler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454452/",
+      "name": "Sarah Davenport Sarah Davenport"
+    }
+  ]
+,
+  "datePublished": "2018-06-12",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "",
+  "description": "Recent college graduates joyride in a stolen cop car only to uncover a secret that will doom mankind...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

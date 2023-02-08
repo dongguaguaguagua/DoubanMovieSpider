@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "只要有希望 Finché c&#39;è Prosecco c&#39;è speranza",
+  "url": "/subject/30257521/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526227520.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010007/",
+      "name": "朱塞佩·巴蒂斯通 Giuseppe Battiston"
+    }
+  ]
+,
+  "datePublished": "2017-10-31",
+  "genre": ["\u559c\u5267", "\u60ac\u7591"],
+  "duration": "PT1H41M",
+  "description": "The film follows Inspector Stucky investigating a series of murders and the theatrical suicide of De...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "致命夺宝",
+  "url": "/subject/30230633/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2524047425.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394040/",
+      "name": "冯铁城 Tiecheng Feng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395581/",
+      "name": "李海超 Haichao Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394041/",
+      "name": "于果儿 Guoer Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394042/",
+      "name": "王可 Ke Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394043/",
+      "name": "大卫·毕加索 David Picazo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394044/",
+      "name": "杨梓艺 Ziyi Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394045/",
+      "name": "王海峰 Haifeng Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394046/",
+      "name": "恩纳 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394047/",
+      "name": "马丽 Li Ma"
+    }
+  ]
+,
+  "datePublished": "2018-06-22",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u5192\u9669"],
+  "duration": "PT1H28M",
+  "description": "这是一对情侣前世今生的纠葛的爱情故事；前世，李卿源（王可 饰）为了保护朱蔓（于果 饰）挡箭而亡；今生，他们因为考古再度相遇，一方为了保护文物不惜付出生命代价，另一方为了抢夺费尽心思，文物最终将落入谁，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

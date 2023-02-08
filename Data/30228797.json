@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "放映员 Bioscopewala",
+  "url": "/subject/30228797/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522791656.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1081372/",
+      "name": "丹尼·邓宗帕 Danny Denzongpa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322231/",
+      "name": "阿迪勒·侯赛因 Adil Hussain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307426/",
+      "name": "蒂丝卡·乔普拉 Tisca Chopra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365269/",
+      "name": "布里杰德拉·卡拉 Brijendra Kala"
+    }
+  ]
+,
+  "datePublished": "2017-10-28",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "A woman meets her dead father&#39;s old friend, who was the operator of a Bioscope show that she loved i...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

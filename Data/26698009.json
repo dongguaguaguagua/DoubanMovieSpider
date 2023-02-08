@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Blanco",
+  "url": "/subject/26698009/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005450/",
+      "name": "阿里尔·弗罗门 Ariel Vromen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005450/",
+      "name": "阿里尔·弗罗门 Ariel Vromen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035643/",
+      "name": "阿诺·施瓦辛格 Arnold Schwarzenegger"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "A formal Naval officer is forced into piloting a Narco submarine for a Mexican drug cartel looking t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

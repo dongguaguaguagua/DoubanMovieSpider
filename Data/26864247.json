@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Shankhachil",
+  "url": "/subject/26864247/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2377482681.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025676/",
+      "name": "哥泰·高斯 Goutam Ghose"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025676/",
+      "name": "哥泰·高斯 Goutam Ghose"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1073187/",
+      "name": "普罗森吉特· 查特吉 Prasenjit Chatterjee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329838/",
+      "name": "乌沙西·查克拉博蒂 Usashi Chakraborty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1191571/",
+      "name": "普里耶修·查特奇 Priyanshu Chatterjee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350611/",
+      "name": "迪潘卡尔·戴伊 Dipankar Dey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390340/",
+      "name": "纳库·韦德 Nakul Vaid"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422970/",
+      "name": "阿林多姆·西勒 Arindam Sil"
+    }
+  ]
+,
+  "datePublished": "2016-04-14",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2"],
+  "duration": "PT2H15M",
+  "description": "This consequences of partition is felt when the daughter of schoolteacher is seriously ill at a bord...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

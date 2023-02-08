@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "待屠之颈 Cocote",
+  "url": "/subject/27009753/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527742137.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398622/",
+      "name": "内尔松·阿里亚斯 Nelson Carlo de Los Santos Arias"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398622/",
+      "name": "内尔松·阿里亚斯 Nelson Carlo de Los Santos Arias"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-08-03",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H46M",
+  "description": "An Evangelical Christian man attends the burial of his father in his hometown, where he has to parti...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "236",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

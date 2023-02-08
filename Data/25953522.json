@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "刑侦队",
+  "url": "/subject/25953522/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2447832987.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351966/",
+      "name": "黎涛 Tao Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319539/",
+      "name": "任伟 Wei Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315289/",
+      "name": "王璐瑶 Luyao Wang"
+    }
+  ]
+,
+  "datePublished": "2016-08-23",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT1H25M",
+  "description": "影片改编自2013年晋江“8·15”特大电信诈骗案，在集中展示当代刑警风貌的同时，特别突出了防骗宣教作用。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "228",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

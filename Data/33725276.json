@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "御林九处之千钧镇",
+  "url": "/subject/33725276/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2707598851.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337222/",
+      "name": "王崴 Wei Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465034/",
+      "name": "边垒 Lei Bian"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350017/",
+      "name": "李易霖 Yilin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442912/",
+      "name": "王星允 Xingyun Wang"
+    }
+  ]
+,
+  "datePublished": "2019-12-03",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ac\u7591", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H27M",
+  "description": "《御林九处之千钧镇》讲述祥和而建的千钧镇，被别有用心之人掌控而成绝境，高一筹与简问心临机应变，终于守住了天下太平的希望。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "索妮 Soni",
+  "url": "/subject/30283656/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545506163.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398046/",
+      "name": "伊凡·埃尔 Ivan Ayr"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398046/",
+      "name": "伊凡·埃尔 Ivan Ayr"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416238/",
+      "name": "基斯莱·基斯莱 Kislay Kislay"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416239/",
+      "name": "吉蒂卡·维迪亚·奥利安 Geetika Vidya Ohlyan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416240/",
+      "name": "萨洛尼·巴特拉 Saloni Batra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416241/",
+      "name": "维卡斯·舒克拉 Vikas Shukla"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416242/",
+      "name": "莫希·查乌汗 Mohit Chauhan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416243/",
+      "name": "希曼什·科赫利 Himanshu Kohli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416244/",
+      "name": "高里·查克拉波蒂 Gauri Chakraborty"
+    }
+  ]
+,
+  "datePublished": "2018-09-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "印度每年有超过二万宗针对女性的暴力罪案，平均每二十二分钟就有一名女性被强暴，每六小时就有一名妇女因家庭暴力丧命。年轻的基层女警索妮与上司卡帕纳在德里一同接手调查不同的女性暴力事件，在办案过程中往往遭受...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "733",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

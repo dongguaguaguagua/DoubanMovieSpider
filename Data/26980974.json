@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你好。再见 你好。再見",
+  "url": "/subject/26980974/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2884119317.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377283/",
+      "name": "李青蓉 Ching-Jung Lee"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275106/",
+      "name": "纪培慧 Teresa Daley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341902/",
+      "name": "禾浩辰 Bruce Hung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347763/",
+      "name": "黄西田 Hsi Tien Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316680/",
+      "name": "龙劭华 Siu Wa Lung"
+    }
+  ]
+,
+  "datePublished": "2016-04-30",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H10M",
+  "description": "父親在捷運局工作的小倢(紀培慧)，人生各個階段，似乎和捷運的發展有著密不可分的關係。然而，與捷運的快速世界不同的是，小倢的世界是慢的，心也是慢的，情感、反應和動作也常被嘲笑慢了世界一秒鐘。
+小倢有兩個...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

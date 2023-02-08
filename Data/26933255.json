@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "上海滩之枪枪走火",
+  "url": "/subject/26933255/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2404698690.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399083/",
+      "name": "卢冠东 Guandong Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421718/",
+      "name": "虞汇源 Huiyuan Yu"
+    }
+  ]
+,
+  "datePublished": "2016-12-14",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H15M",
+  "description": "在上海滩闯荡的保镖三兄弟空有一身本领，但每次受其保护的雇主都会被杀害。为此，屡次受挫的三兄弟想要离开上海滩，却被镐头帮的方仁诱惑去做卧底刺杀斧头帮老大许文雷。三兄弟进入斧头帮，只见管家不见许文雷。三兄...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Cost of Vengeance",
+  "url": "/subject/26386112/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1104354/",
+      "name": "Luke Kearney Luke Kearney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330973/",
+      "name": "瓦内萨·罗斯 Vanessa Ross"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "After his brother is brutally murdered by the infamous fight club champion Thug, Finley his younger ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "西非毒影 Wùlu",
+  "url": "/subject/26728640/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2492310401.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275015/",
+      "name": "奥利维尔·雷堡汀 Olivier Rabourdin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000963/",
+      "name": "基姆·古铁雷斯 Quim Gutiérrez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1181720/",
+      "name": "伊伯拉姆·科马 Ibrahim Koma"
+    }
+  ]
+,
+  "datePublished": "2016-08-24",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H35M",
+  "description": "The thrumming mean streets of Mali’s capital, Bamako, are the setting for writer/director Coulibaly’...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

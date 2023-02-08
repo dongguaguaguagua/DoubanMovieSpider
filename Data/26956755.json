@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿博恶魔 Arbor Demon",
+  "url": "/subject/26956755/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2414064109.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016974/",
+      "name": "Patrick Rea Patrick Rea"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016974/",
+      "name": "Patrick Rea Patrick Rea"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017996/",
+      "name": "杰克·布塞 Jake Busey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1175844/",
+      "name": "菲奥娜·道里夫 Fiona Dourif"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044477/",
+      "name": "Kevin Ryan Kevin Ryan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1213627/",
+      "name": "Bruce Williamson Bruce Williamson"
+    }
+  ]
+,
+  "datePublished": "2017-02-03",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H40M",
+  "description": "一个具有冒险精神的女人想要跟自己的丈夫到森林里野营来联络感情，他们要去的森林里有不明生物杀死了几个猎人，这些不明生物阻止这对夫妇出他们的帐篷，他们必须知道真正的威胁在他们的帐篷里面还是外面。。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "165",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

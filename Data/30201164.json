@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寄生夙愿",
+  "url": "/subject/30201164/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2524534045.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330278/",
+      "name": "高奇 Qi Gao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330297/",
+      "name": "倪慕斯 Musi Ni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403208/",
+      "name": "贾本初 Benchu Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403209/",
+      "name": "王莘迪 Xindi Wang"
+    }
+  ]
+,
+  "datePublished": "2018-04-10",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT1H24M",
+  "description": "知名摄影艺术家陈米在酒吧结识了少女罗琪，陈米因为对摄影艺术的执着，坚持要给罗琪拍照，过程中，二人不打不相识。后来，无意中陈米得知了罗琪的秘密，她患有罕见的病，再加上经纪人霍当午莫名的失踪，误惹怒集团大...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐怖理发店",
+  "url": "/subject/26865690/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2406903891.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360707/",
+      "name": "陆诗雷 Shilei Lu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366595/",
+      "name": "纪然 Ran Ji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360707/",
+      "name": "陆诗雷 Shilei Lu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340984/",
+      "name": "殷果儿 Guoer Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359164/",
+      "name": "任青安 Qingan Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353667/",
+      "name": "姜星丘 SungGoo Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340988/",
+      "name": "陈嘉敏 Jiamin Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353669/",
+      "name": "刘小奇 Xiaoqi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366596/",
+      "name": "孙筱燕 Xiaoyan Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364845/",
+      "name": "蔡翱骏 Aojun Cai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349999/",
+      "name": "姜涛 Tao Jiang"
+    }
+  ]
+,
+  "datePublished": "2017-01-06",
+  "genre": ["\u7231\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H29M",
+  "description": "位于深山小镇的理发店发生的一系列灵异奇闻，殷果儿、任青安、姜星丘等人陷入危难绝境中无法脱身，和理发店有关联的人物接连被惨绝杀害，血腥残暴引来人心惶惶，而抽丝剥茧之后的真相更加令人心惊胆战。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1214",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.1"
+  }
+}

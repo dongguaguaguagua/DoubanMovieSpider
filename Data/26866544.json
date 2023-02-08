@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "失踪的警察",
+  "url": "/subject/26866544/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2377603569.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327874/",
+      "name": "雎安奇 Anqi Ju"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327874/",
+      "name": "雎安奇 Anqi Ju"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350875/",
+      "name": "白晶 Jing Bai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366018/",
+      "name": "厉槟源 Bingyuan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452646/",
+      "name": "龙月 Yue Long"
+    }
+  ]
+,
+  "datePublished": "2016-05-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "1983年夏，一群年轻的艺术家聚集在胡同里举办家庭舞会，正好被一个过路的巡警逮个正着。彼时正值文革后的第一次严打，有一些人因为举行家庭舞会已经被枪毙和判处无期徒刑。警察断喝这是一起有组织有预谋的流氓行...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

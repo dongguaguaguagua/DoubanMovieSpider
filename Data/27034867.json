@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异兽来袭",
+  "url": "/subject/27034867/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457773700.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374834/",
+      "name": "陈海帆 Haifan Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374835/",
+      "name": "王琦垚 Qiyao Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374836/",
+      "name": "甘于晓雪 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315933/",
+      "name": "于博宁 Boning Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356300/",
+      "name": "杨祖青 Zuqing Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349125/",
+      "name": "于佳 Jia Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353422/",
+      "name": "尹大为 Dawei Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365216/",
+      "name": "黄榛 Zhen Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374837/",
+      "name": "王斯琼 Siqiong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374838/",
+      "name": "邢硕 Shuo Xing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362575/",
+      "name": "张军 Jun Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374839/",
+      "name": "诗梓佳 Zijia Shi"
+    }
+  ]
+,
+  "datePublished": "2017-06-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H27M",
+  "description": "莫莫一家三口及李公子等人来到歇业的滑雪场度假，因李公子放烟花惊醒了隐藏于此的外星怪兽，怪兽一路追赶众人，莫莫妈等人相继被害，其余的人在退伍兵马师傅带领下与怪兽殊死搏斗，最终消灭了怪兽。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1014",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

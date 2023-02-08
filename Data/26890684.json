@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鲨鱼星球 Planet of the Sharks",
+  "url": "/subject/26890684/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2388349612.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277545/",
+      "name": "马克·阿特金斯 Mark Atkins"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277545/",
+      "name": "马克·阿特金斯 Mark Atkins"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405406/",
+      "name": "克里斯蒂娜·维瑟 Christia Visser"
+    }
+  ]
+,
+  "datePublished": "2016-07-27",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ca\u609a", "\u707e\u96be"],
+  "duration": "PT1H29M",
+  "description": "不久的將來，全球暖化造成海平面上升，冰河融化淹沒地球上百分之98的陸地，鯊魚因此繁衍興盛。其中，一群由突變鯊魚率領的巨大鯊魚群肆虐全球，人類面臨史上最大的存亡危機",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "620",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

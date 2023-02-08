@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绿洲 Oasis",
+  "url": "/subject/26988128/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2448186913.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040757/",
+      "name": "凯文·麦克唐纳 Kevin Macdonald"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331366/",
+      "name": "马特·查曼 Matt Charman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320684/",
+      "name": "米歇尔·法贝尔 Michel Faber"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314927/",
+      "name": "理查德·麦登 Richard Madden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025137/",
+      "name": "海利·乔·奥斯蒙 Haley Joel Osment"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013932/",
+      "name": "亚尼·卡普 Anil Kapoor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013842/",
+      "name": "安婕·特拉乌 Antje Traue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386465/",
+      "name": "艾斯琳·麦古金 Aislín McGuckin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378922/",
+      "name": "迈克尔·谢弗 Michael Shaeffer"
+    }
+  ]
+,
+  "datePublished": "2017-03-17",
+  "genre": ["\u7231\u60c5", "\u79d1\u5e7b", "\u60ac\u7591"],
+  "duration": "PT1H0M",
+  "description": "彼得（理查德·麦登 Richard Madden 饰）是一位非常虔诚的牧师，他接受了一项特别的任务，告别了心爱的妻子贝雅翠丝（安婕·特拉乌 Antje Traue 饰），彼得来到了刚刚被人类开发的外星...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "246",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

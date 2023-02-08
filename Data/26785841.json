@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猝不及防 Pris de court",
+  "url": "/subject/26785841/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2442773658.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281562/",
+      "name": "埃曼纽尔·库 Emmanuelle Cuau"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281562/",
+      "name": "埃曼纽尔·库 Emmanuelle Cuau"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187894/",
+      "name": "维尔日妮·埃菲拉 Virginie Efira"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1067437/",
+      "name": "玛丽莲·坎托 Marilyne Canto"
+    }
+  ]
+,
+  "datePublished": "2017-03-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "影片讲述了单亲妈妈纳韦尔女士因为儿子保罗被人设计而遭到威胁，被胁迫帮助窃贼盗取宝石的故事。最终纳韦尔女士急中生智，以假乱真，没有让盗贼得逞，而是自己带着真的宝石离开寻找新生活。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "228",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

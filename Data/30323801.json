@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Handy Dandy",
+  "url": "/subject/30323801/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042096/",
+      "name": "杰夫·布罗德史崔特 Jeff Broadstreet"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040632/",
+      "name": "比尔·莫斯利 Bill Moseley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1238522/",
+      "name": "小比尔·奥伯斯特 Bill Oberst Jr."
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A shuttered TV studio in Detroit is haunted by a magician/ventriloquist from a 1960&#39;s children&#39;s sho...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心结",
+  "url": "/subject/30318086/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533305718.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452503/",
+      "name": "陈怡如 Ruby Chen"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H22M",
+  "description": "远嫁广东的中年女人萍，离婚后带着女儿回到山西老家探亲，这是她这些年来第一次回家。因为多年前父亲不同意这个婚姻，萍便与父亲反目离开了家乡，导致父女关系一直没有修复。一年又一年过去了，如今萍再次回到家乡，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

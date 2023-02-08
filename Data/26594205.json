@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "汉娜 Hannah",
+  "url": "/subject/26594205/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512499560.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336286/",
+      "name": "安德烈·帕劳洛 Andrea Pallaoro"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336286/",
+      "name": "安德烈·帕劳洛 Andrea Pallaoro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379160/",
+      "name": "奥兰多·提拉多 Orlando Tirado"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007020/",
+      "name": "夏洛特·兰普林 Charlotte Rampling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166228/",
+      "name": "安德烈·维尔姆斯 André Wilms"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395633/",
+      "name": "斯蒂芬妮·凡·维 Stéphanie Van Vyve"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395634/",
+      "name": "西蒙·毕斯乔普 Simon Bisschop"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395636/",
+      "name": "杰西卡·范汉 Jessica Fanhan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395638/",
+      "name": "法图·特拉奥雷 Fatou Traoré"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394078/",
+      "name": "简·贝尔萨兹 Jean-Michel Balthazar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394077/",
+      "name": "卢卡·艾瓦伦内 Luca Avallone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1271593/",
+      "name": " Thomas Demarez"
+    }
+  ]
+,
+  "datePublished": "2017-09-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "影片细致地刻画了一个忘记了自己身份的女人，如何在自我否定和现实之间摇摆不定。汉娜是一名普通的家政女工，闲暇时间在表演训练班上课，家里养着一条狗，生活看似简单平静，没有人知道她其实过着破碎的人生：她的丈...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1641",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

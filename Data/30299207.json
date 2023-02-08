@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "机甲神七",
+  "url": "/subject/30299207/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2530892511.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355104/",
+      "name": "崔俊杰 Junjie Cui"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401833/",
+      "name": "陈泳旭 Yongxu Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349114/",
+      "name": "彭禺厶 Yusi Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028522/",
+      "name": "李灿森 Sam Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355105/",
+      "name": "朱佳希 Jiaxi Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372922/",
+      "name": "张婉儿 Waner Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370645/",
+      "name": "大勇 Yong Big"
+    }
+  ]
+,
+  "datePublished": "2018-08-26",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "由于基因突变，两兄弟中，弟弟从小体温异于常人，拥有着冰系超能力，而哥哥拥有的则是火系超能力，阴差阳错兄弟二人被分开。哥哥被收养他的日本人培养成了一个强大的杀手，同时中国的一个神秘组织也在联系着弟弟。哥...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

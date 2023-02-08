@@ -1,0 +1,49 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2018亚洲音乐盛典",
+  "url": "/subject/34453183/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574527015.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378214/",
+      "name": "毛不易 Buyi Mao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338239/",
+      "name": "茜拉 Shila Amzah"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274865/",
+      "name": "陈志朋 Julian Chen"
+    }
+  ]
+,
+  "datePublished": "2018-11-29",
+  "genre": ["\u97f3\u4e50", "\u771f\u4eba\u79c0"],
+  "duration": "",
+  "description": "2018亚洲音乐盛典由毛不易获得年度最佳唱作人奖，后弦获得年度原创音乐人奖，汪苏泷斩获年度最佳创作歌手奖，《克制凶猛》则获得年度最佳专辑奖。
+2018年11月29日，2018亚洲音乐盛典在深圳湾“春茧...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "在某人受伤害之前 Before Someone Gets Hurt",
+  "url": "/subject/25915752/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2527688662.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025196/",
+      "name": "迈克·韦尔奇 Michael Welch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376775/",
+      "name": "亚历桑德拉·图申 Alexandra Turshen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341037/",
+      "name": "凯蒂·亨尼 Katie Henney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1144098/",
+      "name": "威尔·罗杰斯 Will Rogers"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Tim and his team are the rising stars of the ghost hunting game. One thing they all like better than...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "144",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "骑行之旅 Sobre Rodas",
+  "url": "/subject/30423529/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2586859358.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311338/",
+      "name": "Marcelo Starobinas Marcelo Starobinas"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385950/",
+      "name": "卡乌昂·马丁斯 Cauã Martins"
+    }
+  ]
+,
+  "datePublished": "2018-03-02",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead", "\u5192\u9669"],
+  "duration": "PT1H12M",
+  "description": "《骑行之旅》是一部公路片。讲述的是十三岁的男孩卢卡斯在小时候因为遭受了一起车祸导致双腿残疾，靠轮椅行走；十二岁的女孩莱斯是他的同班同学，父亲离家出走，再也没回来，他帮着母亲打理自家的早餐店的生意。由于...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "128",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

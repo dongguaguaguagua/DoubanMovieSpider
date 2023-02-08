@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿扎尔 Azar",
+  "url": "/subject/27043887/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2518973044.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041584/",
+      "name": "妮奇·卡里米 Niki Karimi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369575/",
+      "name": "法里德·萨贾蒂·侯赛尼 Farid Sajjadi Hosseini"
+    }
+  ]
+,
+  "datePublished": "2017-11-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "A woman whose husband in jail is trying hardly to manage the cafe restaurant she has opened with her...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "破裂 Rupture",
+  "url": "/subject/26390625/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2369483503.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005101/",
+      "name": "史蒂芬·西恩博格 Steven Shainberg"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293023/",
+      "name": "布莱恩·尼尔森 Brian Nelson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005101/",
+      "name": "史蒂芬·西恩博格 Steven Shainberg"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013796/",
+      "name": "劳米·拉佩斯 Noomi Rapace"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049549/",
+      "name": "彼得·斯特曼 Peter Stormare"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324100/",
+      "name": "凯瑞·碧许 Kerry Bishé"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049631/",
+      "name": "迈克尔·切克利斯 Michael Chiklis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340895/",
+      "name": "阿里•米伦 Ari Millen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1214556/",
+      "name": "摩根·凯利 Morgan Kelly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032219/",
+      "name": "莱丝利·曼维尔 Lesley Manville"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088033/",
+      "name": "塞尔吉奥·齐奥 Sergio Di Zio"
+    }
+  ]
+,
+  "datePublished": "2016-11-04",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H42M",
+  "description": "瑞内是一位和自己12岁儿子住在一起的单身母亲，瑞内最大的恐惧就是蜘蛛。母子俩不知道的是，他们的一举一动都被偷偷的监视着。一天瑞内的车突然坏了下车检查时被一帮人粗暴的绑架而去。24小时后，瑞内发现自己被...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "502",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

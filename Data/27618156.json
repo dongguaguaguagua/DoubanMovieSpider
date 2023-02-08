@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Europa",
+  "url": "/subject/27618156/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2509231903.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1233624/",
+      "name": " Virginie Legeay"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H3M",
+  "description": "Two lovers appeal to each other in the empty streets of Madrid, lost in the first dawn of 2018. Both...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

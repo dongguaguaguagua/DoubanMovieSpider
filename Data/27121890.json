@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "请你记住我",
+  "url": "/subject/27121890/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2541281345.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302335/",
+      "name": "彭小莲 Xiaolian Peng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302335/",
+      "name": "彭小莲 Xiaolian Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405508/",
+      "name": "汪剑 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405509/",
+      "name": "许元 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325753/",
+      "name": "冯文娟 Wenjuan Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275478/",
+      "name": "贾一平 Yiping Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012350/",
+      "name": "黄宗英 Zongying Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316068/",
+      "name": "徐才根 Caigen Xu"
+    }
+  ]
+,
+  "datePublished": "2017-11-03",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H36M",
+  "description": "影片讲述了县剧团的小名角彩云到上海寻找“明星梦”的故事。彩云在上海投靠了从小青梅竹马的朋友——担任摄影助理的阿伟之后，突然明白大上海是如此千变万化的世界，阿伟也只能住在即将拆迁的房子里。梦想变得遥不可...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "311",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

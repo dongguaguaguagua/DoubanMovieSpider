@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "搜索者 Maliglutit",
+  "url": "/subject/26876211/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2381799271.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037578/",
+      "name": "扎克拉尔斯·库纳克 Zacharias Kunuk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353041/",
+      "name": "纳塔·阿格拉奇 Natar Ungalaaq"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303145/",
+      "name": "诺曼·考恩 Norman Cohn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037578/",
+      "name": "扎克拉尔斯·库纳克 Zacharias Kunuk"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371791/",
+      "name": "Benjamin Kunuk Benjamin Kunuk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371792/",
+      "name": "Karen Ivalu Karen Ivalu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371793/",
+      "name": "Jonah Qunaq Jonah Qunaq"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371794/",
+      "name": "Joey Sarpinak Joey Sarpinak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371795/",
+      "name": "Jocelyne Immaroitok Jocelyne Immaroitok"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371796/",
+      "name": "Joseph Uttak Joseph Uttak"
+    }
+  ]
+,
+  "datePublished": "2016-09-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "1913年，努纳武特地区，主人公库纳纳狩猎回家后发现自己的妻子和女儿被绑架，其他家人则全被屠杀。在他父亲精神的帮助下，他得以反转自己的命运，终与家人团聚。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "83",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

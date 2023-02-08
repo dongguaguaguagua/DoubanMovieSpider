@@ -1,0 +1,84 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2017时装之夜年度盛典",
+  "url": "/subject/30128935/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542130797.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337445/",
+      "name": "黄子韬 Zitao Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274227/",
+      "name": "李宇春 Yuchun Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274479/",
+      "name": "唐嫣 Yan Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049732/",
+      "name": "刘亦菲 Yifei Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354503/",
+      "name": "许魏洲 Weizhou Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315729/",
+      "name": "古力娜扎 Coulee Nazha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366890/",
+      "name": "迪玛希·库达依别列根 Dimash Kudaibergen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275432/",
+      "name": "景甜 Tian Jing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347886/",
+      "name": "张大大 Dada Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u97f3\u4e50", "\u771f\u4eba\u79c0"],
+  "duration": "",
+  "description": "2017时装之夜年度盛典，由国际主流时尚杂志《时装L’OFFICIEL》、《时装男士》联合举办，以“时代·唤醒”为题，为这个充满自由叛逆的世界发声。11月29日，当红明星、人气偶像齐聚一堂，用他们的时...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

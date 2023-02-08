@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "林投记 林投記",
+  "url": "/subject/33446429/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2556464847.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421599/",
+      "name": "洪子鹏 Pon Hung"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358329/",
+      "name": "高妙慧 Miao-hui Kao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358327/",
+      "name": "李辰翔 Spark Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312994/",
+      "name": "李亦捷 Yi-Chieh Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327447/",
+      "name": "黄采仪 Alice Tsai-Yi Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318813/",
+      "name": "王彩桦 Lotus Wang"
+    }
+  ]
+,
+  "datePublished": "2017-09-30",
+  "genre": ["\u60ac\u7591", "\u6050\u6016"],
+  "duration": "",
+  "description": "晓曦和母亲美芳相依为命，开著一家小小的花店。美芳有睡眠障碍，晓曦新认识的男友彦豪是位精神科医师，晓曦和母亲看诊后，反而变成两人交往的障碍，彦豪坚持不能公开两人的关係。真正的原因是他还没走出前女友自杀阴...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "455",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

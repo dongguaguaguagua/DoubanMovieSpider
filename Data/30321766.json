@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女人,有时是男人 Women and Sometimes Men",
+  "url": "/subject/30321766/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533709004.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116844/",
+      "name": "琳赛·麦克恩 Lindsey McKeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394405/",
+      "name": "塔莎·埃姆斯 Tasha Ames"
+    }
+  ]
+,
+  "datePublished": "2018-06-05",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "Sara has some questions. Engaged for one day, she decides to call off her marriage. Quirky and beaut...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "109",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

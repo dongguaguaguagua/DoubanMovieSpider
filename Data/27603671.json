@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奇女子之人在江湖",
+  "url": "/subject/27603671/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2536350234.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390200/",
+      "name": "杨易之 Yizhi Yang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390200/",
+      "name": "杨易之 Yizhi Yang"
+    }
+  ]
+,
+  "datePublished": "2018-10-06",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "影片讲述了一位身怀绝技的山村姑娘柳心茹，因为母亲临终前给自己留下的一本笔记而决定下山。初入江湖的柳心茹，阴差阳错的救了一位正在被黑帮追杀的高冷女卧底。两人相遇，相识，相知，腥风血雨中一场江湖救赎也就此...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

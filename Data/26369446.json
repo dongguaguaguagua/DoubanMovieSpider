@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一心逐梦 Mercenaire",
+  "url": "/subject/26369446/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2518103006.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1232567/",
+      "name": "萨沙·沃尔夫 Sacha Wolff"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1232567/",
+      "name": "萨沙·沃尔夫 Sacha Wolff"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-05-18",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H52M",
+  "description": "Soane, a young man of Wallisian origin from New Caledonia, defies his father’s authority to go play ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

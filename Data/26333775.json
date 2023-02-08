@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "妄想的影帝 Stanley a Man of Variety",
+  "url": "/subject/26333775/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2461583252.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354256/",
+      "name": "斯蒂芬·库克森 Stephen Cookson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031872/",
+      "name": "蒂莫西·斯波 Timothy Spall"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031872/",
+      "name": "蒂莫西·斯波 Timothy Spall"
+    }
+  ]
+,
+  "datePublished": "2016-10-07",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H23M",
+  "description": "影片讲述了一个名叫斯坦利的中年男子在监狱中的故事。斯坦利是二十世纪六七十年代经典英国电影和电视的狂热崇拜者。他以莫须有的罪名被关进监狱，在经过多年孤独的监狱生涯后，他开始产生妄想症，再加上他想要获得假...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

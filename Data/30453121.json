@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "持有者 در وجه حامل",
+  "url": "/subject/30453121/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2595699936.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435968/",
+      "name": "巴赫曼·卡姆亚 Bahman Kamyar"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435968/",
+      "name": "巴赫曼·卡姆亚 Bahman Kamyar"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-06-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "The story of life of a woman Mehri who unintentionally enters into an unknown problem and is searchi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

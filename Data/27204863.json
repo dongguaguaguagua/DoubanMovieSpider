@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "同指婚事 The Ring Thing",
+  "url": "/subject/27204863/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512119627.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391686/",
+      "name": "威廉·苏利文 William Sullivan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391686/",
+      "name": "威廉·苏利文 William Sullivan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1086533/",
+      "name": "Pat Dwyer Pat Dwyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391683/",
+      "name": "莎拉·沃尔顿 Sarah Wharton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391684/",
+      "name": "妮可·珀塞尔 Nicole Pursell"
+    }
+  ]
+,
+  "datePublished": "2018-04-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H46M",
+  "description": "影片故事讲述当莎拉(莎拉·沃顿饰)向女友求婚时，她发现自己的期望和伴侣对未来的期望完全不一样，而这让两人踏上探索婚姻是什么的道路。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "212",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

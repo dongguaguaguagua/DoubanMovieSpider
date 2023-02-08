@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "斗·鼓",
+  "url": "/subject/26903764/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2396613934.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318495/",
+      "name": "宋业明 Yeming Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378982/",
+      "name": "靳滨林 Binlin Jin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320287/",
+      "name": "宋禹 Yu Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337599/",
+      "name": "苏濛濛 Mengmeng Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319823/",
+      "name": "赵晓明 Xiaoming Zhao"
+    }
+  ]
+,
+  "datePublished": "2016-10-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H39M",
+  "description": "电影《斗•鼓》改编自长篇小说《鼓魂》，由国家一级导演宋业明执导。该片以陕西安塞民间文化为背景，讲述了上世纪辛亥革命之后发生在高石寨地区两大家族间错综复杂的恩怨情仇故事，呈现出当地的风土人情和民俗文化。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

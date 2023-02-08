@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "倔强甜心",
+  "url": "/subject/27018195/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2512224292.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349777/",
+      "name": "莫寒 Han Mo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354411/",
+      "name": "刘炅然 Jiongran Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354577/",
+      "name": "郝婉晴 Wanqing Hao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426576/",
+      "name": "王钧浩 Jiunhau Wang"
+    }
+  ]
+,
+  "datePublished": "2018-03-06",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H22M",
+  "description": "以运动竞技+甜心少女的另类碰撞，集“素人少女”与“天选偶像”反差双主角人设，讲述了两个身世迥异的少女因拳击比赛而逐渐相知，并为梦想不断搏击的故事",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

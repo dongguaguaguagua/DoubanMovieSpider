@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "嗨天盛焰",
+  "url": "/subject/26862258/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2394661956.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434166/",
+      "name": "夏雷磊 Leilei Xia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354005/",
+      "name": "王石 Shi Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434166/",
+      "name": "夏雷磊 Leilei Xia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321090/",
+      "name": "孙哲 Zhe Sun"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437949/",
+      "name": "迟漠寒 Mohan Chi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355460/",
+      "name": "禾小斗 Xiaodou He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363554/",
+      "name": "潘一飞 Yifei Pan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323106/",
+      "name": "童安格 Angus Tung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443757/",
+      "name": "龙媚 Mei Long"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363551/",
+      "name": "提爱民 Aimin Ti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434166/",
+      "name": "夏雷磊 Leilei Xia"
+    }
+  ]
+,
+  "datePublished": "2016-11-11",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u52a8\u753b"],
+  "duration": "PT1H0M",
+  "description": "《嗨天盛焰》由夏雷磊、王世忠联合执导，王攀宇监制, 迟漠寒、禾小斗、张斌、潘胤蜚、童安格、高上领衔主演, 潘佩佩、吕依、龙媚（中国香港）、提爱民、季节、王熙洋子主演,通过一个情感救赎的故事，反应社会中...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

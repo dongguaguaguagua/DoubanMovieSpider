@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暗黑灯塔 Dark Beacon",
+  "url": "/subject/27092252/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2493400883.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004693/",
+      "name": "艾普萝·皮尔森 April Pearson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218535/",
+      "name": "乔恩·坎普林 Jon Campling"
+    }
+  ]
+,
+  "datePublished": "2017-10-13",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H15M",
+  "description": "An abandoned paramour tracks her lover down to a distant lighthouse. When she finds her beyond hope ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "219",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.3"
+  }
+}

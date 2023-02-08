@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "熟悉的陌生人",
+  "url": "/subject/27005338/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2456191333.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189801/",
+      "name": "陈正道 Leste Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373514/",
+      "name": "卢青雨 Qingyu Lu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346550/",
+      "name": "王真儿 Zhen&#39;er Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315866/",
+      "name": "包贝尔 Bei&#39;er Bao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357128/",
+      "name": "苏鑫 Xin Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373513/",
+      "name": "张沙沙 Shasha Zhang"
+    }
+  ]
+,
+  "datePublished": "2017-04-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H59M",
+  "description": "讲述主人公成伟，因无法走出痛失爱妻的悲伤，意欲放弃生命，可当他再次醒来的时候，却发现自己不但没有死，反而回到了认识妻子佳莹以前......",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2348",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "7女巫 7 Witches",
+  "url": "/subject/27025088/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2456486053.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451989/",
+      "name": "布雷迪·霍尔 Brady Hall"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1043204/",
+      "name": "Ed Dougherty Ed Dougherty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451989/",
+      "name": "布雷迪·霍尔 Brady Hall"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1104219/",
+      "name": "Mike Jones Mike Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452999/",
+      "name": "Megan Hensley Megan Hensley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476333/",
+      "name": "普西芬妮·阿波斯托萝 Persephone Apostolou"
+    }
+  ]
+,
+  "datePublished": "2017-04-12",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H15M",
+  "description": "As their big day approaches Cate and Cody should be celebrating—they’ve got their family with them, ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "76",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

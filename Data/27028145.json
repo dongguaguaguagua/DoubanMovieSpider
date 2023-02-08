@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雪花 Schneeflöckchen",
+  "url": "/subject/27028145/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456540819.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1112634/",
+      "name": "William James William James"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247091/",
+      "name": "戴维·马斯特森 David Masterson"
+    }
+  ]
+,
+  "datePublished": "2017-09-14",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT2H1M",
+  "description": "乱世之下必有狂徒，哥俩好的唐与贾维以为自己最摇摆，在无政府的末日街头走路有风。某日意外发现一本未完成剧本，一读之下赫然发现自己就是剧中人，做过的鸟事、讲过的干话一字不差照着脚本走，而且戏份不多，马上就...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "124",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

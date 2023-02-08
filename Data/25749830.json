@@ -1,0 +1,95 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Labyrinth",
+  "url": "/subject/25749830/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2623507981.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257170/",
+      "name": " John Berardo"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019001/",
+      "name": "詹姆斯·弗兰科 James Franco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040535/",
+      "name": "乔希·佩克 Josh Peck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315255/",
+      "name": "吉姆·帕拉克 Jim Parrack"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004626/",
+      "name": "杰森·雷特 Jason Ritter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031821/",
+      "name": "马特·卢卡斯 Matt Lucas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049697/",
+      "name": "贝丝·格兰特 Beth Grant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1057303/",
+      "name": "卡门·阿尔根齐亚诺 Carmen Argenziano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1089318/",
+      "name": "Flavor Flav Flavor Flav"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329074/",
+      "name": "尼克尔·拉里贝特 Nicole LaLiberte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332878/",
+      "name": "吉娜·科姆帕雷托 Gina Comparetto"
+    }
+  ]
+,
+  "datePublished": "2016-10-18",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "A collection of original shorts exploring the unknown, the unexplained, and the unimaginable.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "波尔卡舞王 The Polka King",
+  "url": "/subject/26791655/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2507780826.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283968/",
+      "name": "玛雅·福布斯 Maya Forbes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301167/",
+      "name": "华莱士·沃洛达斯基 Wallace Wolodarsky"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283968/",
+      "name": "玛雅·福布斯 Maya Forbes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301167/",
+      "name": "华莱士·沃洛达斯基 Wallace Wolodarsky"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049492/",
+      "name": "杰克·布莱克 Jack Black"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1230973/",
+      "name": "珍妮·斯蕾特 Jenny Slate"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009269/",
+      "name": "詹森·舒瓦兹曼 Jason Schwartzman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009520/",
+      "name": "罗伯特·卡普荣 Robert Capron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031932/",
+      "name": "威利·加森 Willie Garson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1161151/",
+      "name": "杰基·韦佛 Jacki Weaver"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316694/",
+      "name": "瓦妮莎·贝尔 Vanessa Bayer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036634/",
+      "name": "J·B·斯穆夫 J.B. Smoove"
+    }
+  ]
+,
+  "datePublished": "2017-01-22",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u4f20\u8bb0"],
+  "duration": "PT1H35M",
+  "description": "该片改编自2009年讲述波尔卡舞王扬·莱万的纪录片，一代波尔卡传奇舞王扬·莱万(布莱克饰)因欺骗粉丝投资“庞氏骗局”最终锒铛入狱。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "224",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "飞鸿笑传",
+  "url": "/subject/26940025/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2407286294.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396758/",
+      "name": "张宴尘 Yanchen Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343338/",
+      "name": "何为 Wei He"
+    }
+  ]
+,
+  "datePublished": "2016-12-30",
+  "genre": ["\u52a8\u4f5c", "\u53e4\u88c5"],
+  "duration": "PT1H8M",
+  "description": "黄麒英中年得子，取名飞鸿。期望飞鸿有所作为，因此对飞鸿从小就很严厉。而飞鸿小时候很顽皮，一直都是利用小聪明练功偷懒。但是医馆里的梁婶，林凯等人又都非常疼爱飞鸿。加上青梅竹马的十三姨，和死党二愣子的掩护...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

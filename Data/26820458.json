@@ -1,0 +1,136 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我是哪吒",
+  "url": "/subject/26820458/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2510412543.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342288/",
+      "name": "舒展 Zhan Shu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360962/",
+      "name": "李珏 Jue Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342288/",
+      "name": "舒展 Zhan Shu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360963/",
+      "name": "王禹博 Yubo Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360965/",
+      "name": "邹超疑 Chaoyi Zou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360964/",
+      "name": "范海滢 Haiying Fan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350677/",
+      "name": "陶典 Dian Tao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360968/",
+      "name": "韩娇娇 Jiaojiao Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360967/",
+      "name": "刘垚 Yao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351145/",
+      "name": "彭博 Bo Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360966/",
+      "name": "邹亮 Liang Zou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360969/",
+      "name": "梁达伟 Dawei Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362786/",
+      "name": "姚彦泽 Yanze Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330933/",
+      "name": "孟祥龙 Xianglong Meng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362787/",
+      "name": "王柏超 Bochao Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348624/",
+      "name": "胡艺 Yi Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362788/",
+      "name": "吴轶飞 Yifei Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362789/",
+      "name": "张焕昭 Huanzhao Zhang"
+    }
+  ]
+,
+  "datePublished": "2016-10-01",
+  "genre": ["\u5267\u60c5", "\u52a8\u753b"],
+  "duration": "PT1H23M",
+  "description": "殷商末年，东海大将夜叉密谋篡权，企图暗害龙王之女以达成他统治东海的目的。不料其阴谋被陈塘关总兵李靖之子哪吒无意撞到。为了掩人耳目，夜叉将暗害龙女的罪名嫁祸给哪吒，将其变为龙族的公敌。而在另外一方，哪吒...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1237",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

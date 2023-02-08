@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "站街女 La Marcheuse",
+  "url": "/subject/26715826/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2316322197.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116798/",
+      "name": "纳埃尔•马朗丹 Naël Marandin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332321/",
+      "name": "Marion Doussot Marion Doussot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355506/",
+      "name": "伯里斯·洛伊坎 Boris Lojkine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116798/",
+      "name": "纳埃尔•马朗丹 Naël Marandin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352470/",
+      "name": "Olivier Torres Olivier Torres"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360351/",
+      "name": "菲利普·赫里森 Philippe Hérisson"
+    }
+  ]
+,
+  "datePublished": "2015-10-03",
+  "genre": ["\u5267\u60c5", "\u60c5\u8272"],
+  "duration": "PT1H17M",
+  "description": "法国第一部由华人女演员饰演女主角的影片，电影讲述一名无证中国女子林爱玉，瞒着14岁女儿秀樱在巴黎美丽城街区卖淫的传奇故事。《站街女》先后参加比利时纳穆尔(NAMUR)、加拿大多伦多以及法国昂热(ANG...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "183",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

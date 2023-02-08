@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "克莱拉 Clara",
+  "url": "/subject/30155101/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529776297.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1200879/",
+      "name": "帕特里克·J·亚当斯 Patrick J. Adams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1062995/",
+      "name": "特罗伊安·艾夫瑞·贝利萨里奥 Troian Avery Bellisario"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014039/",
+      "name": "克里斯汀·哈格 Kristen Hager"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184086/",
+      "name": "恩尼斯·埃斯莫 Ennis Esmer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076238/",
+      "name": "詹妮弗·戴尔 Jennifer Dale"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371390/",
+      "name": "罗伯特·H·托马斯 R.H. Thomson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1233225/",
+      "name": "威尔·宝 Will Bowes"
+    }
+  ]
+,
+  "datePublished": "2018-09-10",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H45M",
+  "description": "本片讲述天文学家伊萨克深信宇宙是个寂静黑暗之地，除了外太空之外，对生活中其他事物缺乏热情。直到伊萨克遇到了艺术家克莱拉，克莱拉点燃了他的激情，他才发现人与人之间的探索也很迷人...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "534",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

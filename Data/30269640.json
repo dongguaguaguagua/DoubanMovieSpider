@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "情系丹江口",
+  "url": "/subject/30269640/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528382316.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397549/",
+      "name": "黎式恒 Shiheng Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397549/",
+      "name": "黎式恒 Shiheng Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343203/",
+      "name": "项斌 Bin Xiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322678/",
+      "name": "邵思涵 Sihan Shao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326047/",
+      "name": "脱一然 Yiran Tuo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375583/",
+      "name": "张润 Run Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355554/",
+      "name": "碰碰胡 Jianlin Hu"
+    }
+  ]
+,
+  "datePublished": "2018-07-24",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H23M",
+  "description": "程好是位于丹江口荷花村的一位年轻有为的青年，大学毕业后在城里做了一名职业律师，他替几百号农民工讨回薪金成为名人。后来他放弃城里的生活回到农村当上了村支书，带领村民们走上了致富的道路，生活一天天变得红火...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

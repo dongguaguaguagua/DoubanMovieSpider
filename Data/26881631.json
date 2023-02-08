@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "浅水 Shallow Water",
+  "url": "/subject/26881631/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2620204555.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023244/",
+      "name": "桑迪·克罗拉 Sandy Collora"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023244/",
+      "name": "桑迪·克罗拉 Sandy Collora"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070768/",
+      "name": "Kurt Carley Kurt Carley"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "A group of adventurers arrive at a fabled fishing spot in Mexico only to realize that they are being...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

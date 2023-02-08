@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "EMO音乐剧 EMO the Musical",
+  "url": "/subject/26965688/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2422260169.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391348/",
+      "name": "杰拉尔丁·维斯瓦纳坦 Geraldine Viswanathan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467983/",
+      "name": "乔治娅·克里斯菲尔德·史密斯 Georgia Crisfield Smith"
+    }
+  ]
+,
+  "datePublished": "2016-08-13",
+  "genre": ["\u540c\u6027", "\u97f3\u4e50"],
+  "duration": "PT1H34M",
+  "description": "病气少年伊森酷爱 Emo 庞克乐，因故被迫转学，加入怪咖云集的反骨 摇滚团，却意外爱上校园死对头福音乐团的萌萌美少女。在爱情与同侪 间拉扯的他，该如何抉择?负能量爆表的青春音乐喜剧，宛如迪斯尼《歌舞青...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

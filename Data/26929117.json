@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "粪 Kuso",
+  "url": "/subject/26929117/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2428150674.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028793/",
+      "name": "飞莲 Flying Lotus"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028793/",
+      "name": "飞莲 Flying Lotus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236732/",
+      "name": "大卫·费尔斯 David Firth"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354114/",
+      "name": "汉尼拔·布勒斯 Hannibal Buress"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004932/",
+      "name": "蒂姆·海德克 Tim Heidecker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325544/",
+      "name": "安德雷斯·霍尔姆 Anders Holm"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009756/",
+      "name": "乔治·克林顿 George Clinton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236732/",
+      "name": "大卫·费尔斯 David Firth"
+    }
+  ]
+,
+  "datePublished": "2017-01-21",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u753b", "\u6050\u6016"],
+  "duration": "PT1H45M",
+  "description": "Events unfold after a devastating earthquake in Los Angeles.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "128",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

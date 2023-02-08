@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "水滴之梦",
+  "url": "/subject/26794101/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2352892347.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357929/",
+      "name": "常晓阳 Xiaoyang Chang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319881/",
+      "name": "崔民 Min Cui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357930/",
+      "name": "张万一 Wanyi Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275967/",
+      "name": "胡明 Ming Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319022/",
+      "name": "石林 Lin Shi"
+    }
+  ]
+,
+  "datePublished": "2016-05-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "影片故事发生在极端自然地理环境的塔克拉玛干沙漠中，讲述世界最长的“移动沙漠公路”两名护路工“寡妇”封小沙和“光棍”王大水奇特而温馨的爱情故事，通过女主人公肝肠寸断般的抉择，展现底层劳动者在极限环境下的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

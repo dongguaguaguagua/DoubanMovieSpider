@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "水满茶香",
+  "url": "/subject/30034381/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475637/",
+      "name": "齐栩楠 Xunan Qi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327418/",
+      "name": "李保安 Baoan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316349/",
+      "name": "霍青 Qing Huo"
+    }
+  ]
+,
+  "datePublished": "2018-01-14",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H36M",
+  "description": "和父母矛盾重重的8岁叛逆男孩林光华，“手机依赖症”重度患者，暑假被父母寄放到家住五指山的爷爷家。林爷爷是红茶厂厂长，睿智有风骨，一直保持重诺诚信的原则经营茶厂，自老伴过世后，林爷爷和自己的儿子儿媳渐渐...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

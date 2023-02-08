@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "珍游记 珍遊記",
+  "url": "/subject/26683685/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2293864362.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328298/",
+      "name": "山口雄大 Yudai Yamaguchi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390563/",
+      "name": "漫☆画太郎 Gatarô Man"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008067/",
+      "name": "松山研一 Ken&#39;ichi Matsuyama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275340/",
+      "name": "仓科加奈 Kana Kurashina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274835/",
+      "name": "沟端淳平 Mizobata Junpei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1026433/",
+      "name": "田山凉成 Ryôsei Tayama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012794/",
+      "name": "笹野高史 Takashi Sasano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021281/",
+      "name": "温水洋一 Yôichi Nukumizu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002495/",
+      "name": "泷正则 Pierre Taki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323638/",
+      "name": "藤本泉 Izumi Fujimoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483318/",
+      "name": "玉野琉那 Luna Tamano"
+    }
+  ]
+,
+  "datePublished": "2016-02-27",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H40M",
+  "description": "以天竺为目标的僧人玄奘（仓科加奈 饰）正行走在漫长而艰辛的旅途之上。这一天，老爷爷（山田凉成 饰）和老婆婆（笹野高史 饰）找到玄奘，希望他能封住不良少年山田太郎（松山研一 饰）的妖力。凭借宝珠的力量，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "878",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

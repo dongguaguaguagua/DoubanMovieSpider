@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Angry Angel",
+  "url": "/subject/27621823/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2509930352.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210583/",
+      "name": "杰米·特拉维斯 Jamie Travis"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274281/",
+      "name": "威尔·古勒 Will Gluck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398418/",
+      "name": "大卫·伊瑟森 David Iserson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044878/",
+      "name": "贾森·比格斯 Jason Biggs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390048/",
+      "name": "安迪·费儒 Andy Favreau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391562/",
+      "name": "米歇尔·麦克劳德 Michelle McLeod"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391563/",
+      "name": "阿纳斯塔西娅·菲利普斯 Anastasia Phillips"
+    }
+  ]
+,
+  "datePublished": "2017-11-27",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u5bb6\u5ead", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "Allison Pyke is a young angel who tries to get back to heaven after she seriously messes up. During ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

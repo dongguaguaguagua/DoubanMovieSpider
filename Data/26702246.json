@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "德布西森林",
+  "url": "/subject/26702246/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2445733225.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319923/",
+      "name": "郭承衢 Cheng Chui Kuo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319923/",
+      "name": "郭承衢 Cheng Chui Kuo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215287/",
+      "name": "桂纶镁 Lunmei Gwei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290389/",
+      "name": "陆弈静 Yi-Ching Lu"
+    }
+  ]
+,
+  "datePublished": "2016-10-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "《德布西森林》是新導演郭承衢的長片，故事描述在城市裡發生了一些事後，母親陸弈靜毅然決然帶著女兒桂綸鎂，拋下一切，躲到無人能找到的深山中！媽媽堅信，這是讓母女能活下去的惟一生路，但入山之後，她們面對的，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "561",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

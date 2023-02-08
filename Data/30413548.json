@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "懦弱的爱 Los amores cobardes",
+  "url": "/subject/30413548/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543690457.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425201/",
+      "name": "Carmen Blanco Carmen Blanco"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392065/",
+      "name": "布兰卡·帕雷斯 Blanca Parés"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407074/",
+      "name": "伊格纳西奥·蒙特斯 Ignacio Montes"
+    }
+  ]
+,
+  "datePublished": "2018-04-20",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H32M",
+  "description": "Eva is a young and independent cartoonist who returns to Málaga (Spain) to spend the summer holidays...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

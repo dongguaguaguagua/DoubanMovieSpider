@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "书剑 書劍",
+  "url": "/subject/26995542/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2446113837.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078102/",
+      "name": "张之亮 Jacob Cheung"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023957/",
+      "name": "阮世生 James Yuen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041404/",
+      "name": "黄晓明 Xiaoming Huang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "香港国际影视展太阳娱乐文化巡礼上，《书剑》导演张之亮透露本片改编自《书剑恩仇录》，编剧阮世生笑说要把压缩精华并加入许多打斗，工作量很大。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

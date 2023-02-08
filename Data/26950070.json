@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "垫底联盟",
+  "url": "/subject/26950070/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2505701555.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367056/",
+      "name": "王文 Wayne Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367056/",
+      "name": "王文 Wayne Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388537/",
+      "name": "张琛 Chen Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382493/",
+      "name": "罗立言 Liyan Luo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362821/",
+      "name": "余玥 Yue Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327262/",
+      "name": "季肖冰 Xiaobing Ji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351458/",
+      "name": "卢蒽洁 Enjie Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328899/",
+      "name": "柏智杰 Zhijie Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322486/",
+      "name": "王栎鑫 Yuexin Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315637/",
+      "name": "潘时七 Sookie Pan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275540/",
+      "name": "方子哥 Zige Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384727/",
+      "name": "本杰明 Benjamin"
+    }
+  ]
+,
+  "datePublished": "2017-11-28",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H37M",
+  "description": "电竞选手小苍在一场比赛中失利，决定退役从事商业活动。后因陷入代言危机,小苍前往“南极镇”寻找“迷之肉松饼”配方,偶遇在同一天遭遇失业打击也回到老家的王泽。王泽为帮父亲还债，必须组织一支战队在全国比赛中...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1319",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.5"
+  }
+}

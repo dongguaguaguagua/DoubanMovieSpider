@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Impuratus",
+  "url": "/subject/27096963/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2494013704.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1168883/",
+      "name": "迪·沃伦斯 Dee Wallace"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049596/",
+      "name": "约翰·萨维奇 John Savage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365954/",
+      "name": "Maria Olsen Maria Olsen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

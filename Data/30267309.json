@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "算死师",
+  "url": "/subject/30267309/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2527412942.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454964/",
+      "name": "岳鹏 Peng Yue"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454964/",
+      "name": "岳鹏 Peng Yue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425610/",
+      "name": "李思典 Sidian Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454989/",
+      "name": "王佳希 Jiaxi Wang"
+    }
+  ]
+,
+  "datePublished": "2018-08-04",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ac\u7591"],
+  "duration": "PT1H33M",
+  "description": "算死师，既算生又算死，但，卦不能算尽，畏天道无常，情不敢至深，恐大梦一场。退隐江湖的算死师良辰（夏望饰），以仵作的身份隐没在小镇当中，直到一起赌场抢劫案将其牵扯其中，引发了一段爱情、复仇、救赎的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

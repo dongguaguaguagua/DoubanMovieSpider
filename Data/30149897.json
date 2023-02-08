@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异教徒 Heretiks",
+  "url": "/subject/30149897/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2555667686.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333659/",
+      "name": "保罗·海厄特 Paul Hyett"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333659/",
+      "name": "保罗·海厄特 Paul Hyett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334696/",
+      "name": "Conal Palmer Conal Palmer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327288/",
+      "name": "迪莲·格温 Dilan Gwyn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007000/",
+      "name": "迈克尔·艾恩塞德 Michael Ironside"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1179521/",
+      "name": "罗希·戴 Rosie Day"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425713/",
+      "name": "弗莱迪·卡特 Freddy Carter"
+    }
+  ]
+,
+  "datePublished": "2018-08-25",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H21M",
+  "description": "英国独立恐怖电影导演保罗海耶兹作品，描述17世纪初一位年轻女子受到神秘的修女院院长的庇护，入住与世隔绝的修女院。年轻女子在院中开始经历到恐怖幻觉，她才惊觉等待她的不是救赎，而是骇人魔物",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "511",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "东京网恋 Tokyo Internet Love",
+  "url": "/subject/27093729/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2493627587.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377377/",
+      "name": "里里花 Ririka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384757/",
+      "name": "今川宇宙 uchusenshi"
+    }
+  ]
+,
+  "datePublished": "2016-08-29",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT0H54M",
+  "description": "なにも知らないひとりの少女が、光る黒い板を手に取り、世界と接続する。そして時が経ち、もうそこにはいない&#34;あの子&#34;を、二人の少年少女が再び探しだす。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

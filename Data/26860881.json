@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的名字是连尼 My Name Is Lenny",
+  "url": "/subject/26860881/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2483582881.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042130/",
+      "name": "Paul Van Carter Paul Van Carter"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1234202/",
+      "name": "乔什·赫尔曼 Josh Helman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027154/",
+      "name": "迈克尔·刚本 Michael Gambon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014074/",
+      "name": "尼克·莫兰 Nick Moran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1241677/",
+      "name": "迈克尔·比斯平 Michael Bisping"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1233194/",
+      "name": "查内尔·克雷斯韦尔 Chanel Cresswell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004587/",
+      "name": "约翰·赫特 John Hurt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032395/",
+      "name": "丽塔·塔欣厄姆 Rita Tushingham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1089126/",
+      "name": "尼古拉·达菲特 Nicola Duffett"
+    }
+  ]
+,
+  "datePublished": "2017-06-09",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H31M",
+  "description": "这部电影记叙了连尼·麦克林的一生。二十世纪七十年代，伦敦东区，连尼是一名年轻的街头斗士，他与罗伊·肖经过三场无执照拳击大赛，最终获得冠军头衔“老大”。1998年，连尼客串了电影&#34;两杆大烟枪&#34;，在票房排...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "159",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

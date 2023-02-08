@@ -1,0 +1,130 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我单纯的兄弟 Simpel",
+  "url": "/subject/27042428/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495573240.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010245/",
+      "name": "马库斯·高勒 Markus Goller"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052753/",
+      "name": "德克·阿内尔 Dirk Ahner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010245/",
+      "name": "马库斯·高勒 Markus Goller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401210/",
+      "name": "玛丽-奥德·缪莱尔 Marie-Aude Murail"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040984/",
+      "name": "大卫·克劳斯 David Kross"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223320/",
+      "name": "弗雷德里克·劳 Frederick Lau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1259423/",
+      "name": "大卫·伯顿 David Berton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1082226/",
+      "name": "安妮特·弗埃尔 Annette Frier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401208/",
+      "name": "马克西姆·科瓦莱夫斯基 Maxim Kovalevski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298800/",
+      "name": "奥斯卡·奥尔特加·桑切斯 Oscar Ortega Sánchez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032531/",
+      "name": "路德格·皮斯特 Ludger Pistor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401209/",
+      "name": "乌维·罗德 Uwe Rohde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1140612/",
+      "name": "安妮克·金·萨尔诺 Anneke Kim Sarnau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351713/",
+      "name": "艾米利亚·舒勒 Emilia Schüle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1150800/",
+      "name": "阿克塞尔·施泰因 Axel Stein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028303/",
+      "name": "大卫·史崔梭德 Devid Striesow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164019/",
+      "name": "蒂姆·维尔德 Tim Wilde"
+    }
+  ]
+,
+  "datePublished": "2017-06-18",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H53M",
+  "description": "本（弗雷德里克·劳 Frederick Lau 饰）和大卫（大卫·史崔梭德 Devid Striesow 饰）是情同手足的兄弟，两人和母亲过着相依为命的生活。和普通人不一样，大卫虽然表面上是一位22岁...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1108",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "世界上最漂亮的女孩 Das schönste Mädchen der Welt",
+  "url": "/subject/30394823/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2541662801.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358475/",
+      "name": "阿伦·莱曼 Aron Lehmann"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033653/",
+      "name": "拉斯·克劳梅 Lars Kraume"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358475/",
+      "name": "阿伦·莱曼 Aron Lehmann"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392893/",
+      "name": "达米安·哈顿 Damian Hardung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322360/",
+      "name": "约翰尼斯·艾麦亚 Johannes Allmayer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037467/",
+      "name": "安克·恩戈尔克 Anke Engelke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352466/",
+      "name": "戈洛·欧拉 Golo Euler"
+    }
+  ]
+,
+  "datePublished": "2018-09-06",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H42M",
+  "description": "Cyril falls head over heel for the new girl in his class. Roxy is drop dead gorgeous and she is cool...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

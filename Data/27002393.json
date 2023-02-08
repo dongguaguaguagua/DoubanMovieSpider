@@ -1,0 +1,73 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "人善被人欺 Bonne Pomme",
+  "url": "/subject/27002393/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555557020.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052140/",
+      "name": "弗罗朗丝·冈丹 Florence Quentin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052140/",
+      "name": "弗罗朗丝·冈丹 Florence Quentin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054511/",
+      "name": "凯瑟琳·德纳芙 Catherine Deneuve"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013845/",
+      "name": "热拉尔·德帕迪约 Gérard Depardieu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327248/",
+      "name": "吉约姆·德·东克戴克 Guillaume de Tonquedec"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402589/",
+      "name": "本杰明·瓦赞 Benjamin Voisin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467933/",
+      "name": "杰德·海诺特 Jade Henot"
+    }
+  ]
+,
+  "datePublished": "2017-08-25",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H41M",
+  "description": "嘉芙蓮丹露與和謝勒狄帕度兩位巨星法國影壇攜手合演這部輕鬆優雅，充滿法國情趣的喜劇。
+為人豁達不計較的謝勒終日被親家佔便宜。
+最終受不了，他決定丟開一切跑到位於法國中部加田尼區的一處鄉村開車房。
+車房對...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "176",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

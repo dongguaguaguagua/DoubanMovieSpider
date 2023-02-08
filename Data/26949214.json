@@ -1,0 +1,49 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "盒中的猫",
+  "url": "/subject/26949214/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2510978824.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342687/",
+      "name": "陈冉 Ran Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342687/",
+      "name": "陈冉 Ran Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342687/",
+      "name": "陈冉 Ran Chen"
+    }
+  ]
+,
+  "datePublished": "2018-02-18",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT0H30M",
+  "description": "来到叶臻的心理咨询室并选择了催眠治疗的少女程若荀，再次睁开双眼的时候，看到的是从未谋面，却自称心理医生的秦至。
+“准备好了吗，来说说吧?”
+“有人要杀我。”
+最简单的开场白，最单薄的信任，却铺陈开一个...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

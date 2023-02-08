@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "那条河",
+  "url": "/subject/30296640/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2530574588.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317569/",
+      "name": "张锐 Rui Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400384/",
+      "name": "林梦楚 Mengchu Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400385/",
+      "name": "张敏俊 Minjun Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300406/",
+      "name": "王庆祥 Qingxiang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314926/",
+      "name": "迟蓬 Peng Chi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317197/",
+      "name": "张杨果而 Guo&#39;er Zhangyang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317998/",
+      "name": "徐囡楠 Nannan Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410988/",
+      "name": "宋歌 Ge Song"
+    }
+  ]
+,
+  "datePublished": "2018-09-07",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H22M",
+  "description": "《那条河》主要通过年轻女孩许小苇丧母后寻父这条线，追述上个世纪六七十年代淠史杭工程修建时，一对年轻男女之间感人肺腑的爱情故事。 许小苇是一名庐剧演员，但她一直觉得自己并不喜欢因母亲之愿而去学习的庐剧。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

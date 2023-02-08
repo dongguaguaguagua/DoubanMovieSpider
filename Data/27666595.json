@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "空房子",
+  "url": "/subject/27666595/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2566495986.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378522/",
+      "name": "杨天翔 Antoine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422031/",
+      "name": "鲍海铭 Haiming Bao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378522/",
+      "name": "杨天翔 Antoine"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421999/",
+      "name": "张骏 Jason"
+    }
+  ]
+,
+  "datePublished": "2018-01-15",
+  "genre": ["\u5267\u60c5", "\u540c\u6027", "\u5bb6\u5ead"],
+  "duration": "PT1H7M",
+  "description": "关于家庭，逃离和回去，压抑和愉快，一切情绪都是短暂和若即若离的，我们常常分不清什么是快乐和虚假美好，也分不清什么是自我和自我欺骗。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

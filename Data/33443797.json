@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Zer",
+  "url": "/subject/33443797/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2556175193.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323534/",
+      "name": "尼克·谢里拉杰 Nik Xhelilaj"
+    }
+  ]
+,
+  "datePublished": "2017-04-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H53M",
+  "description": "Zer is a young man&#39;s journey into his roots, an exploration of a song originated in a village remove...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

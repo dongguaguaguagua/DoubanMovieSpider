@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "山是潜入帷幕的风",
+  "url": "/subject/27191504/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2631399731.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449837/",
+      "name": "吴蔚峰 Wu Weifeng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449837/",
+      "name": "吴蔚峰 Wu Weifeng"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "两个陌生男人在山上相遇，似乎有交流，一个时常感到尴尬，一个时常沉默，直到夜幕降临，他们有了各自的梦：第一个梦关于一连串的前世记忆；第二个梦是喧闹中的孤独，被一只手吸引，潜入山林黑暗，被第一个梦入侵。第...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

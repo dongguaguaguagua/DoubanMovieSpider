@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "甜蜜人生 The Sweet Life",
+  "url": "/subject/26879121/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2449407809.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395613/",
+      "name": "罗布·斯佩拉 Rob Spera"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395614/",
+      "name": "贾里德·拉帕波特 Jared Rappaport"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022680/",
+      "name": "克里斯·梅西纳 Chris Messina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022690/",
+      "name": "阿比盖尔·斯宾赛 Abigail Spencer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1144746/",
+      "name": "布莱恩·肖托尔 Brian Shortall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329261/",
+      "name": "卡兰·索尼 Karan Soni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045016/",
+      "name": "泰森·里特 Tyson Ritter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1086542/",
+      "name": "J·D·埃弗摩尔 J.D. Evermore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344601/",
+      "name": "安德鲁·博尔巴 Andrew Borba"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076076/",
+      "name": "斯科特·迈克尔·坎贝尔 Scott Michael Campbell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025274/",
+      "name": "格伦·普拉默 Glenn Plummer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031994/",
+      "name": "尼克·瑟西 Nick Searcy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252378/",
+      "name": "乔什·平茨 Josh Pence"
+    }
+  ]
+,
+  "datePublished": "2016-06-07",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "肯尼（克里斯·梅西纳 Chris Messina 饰）是一个卖冰淇淋的人，他早就受够了自己枯燥乏味的生活，一天晚上，肯尼邂逅了名叫洛丽塔（阿比盖尔·斯宾赛 Abigail Spencer 饰）的女子，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "252",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

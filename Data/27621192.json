@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "文集 문집",
+  "url": "/subject/27621192/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510047589.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387855/",
+      "name": "李允正 Yoon-jeong Lee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379547/",
+      "name": "申夏恩 Ha-eun Sin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383523/",
+      "name": "郑帝元 Je-won Jung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366071/",
+      "name": "申银秀 Eun-Soo Shin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379336/",
+      "name": "许真 Jin Heo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379938/",
+      "name": "徐现宇 Seo Hyeon-woo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387857/",
+      "name": "孔敏晶 Min-jung Gong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381687/",
+      "name": "卢·苏珊娜 Noh Susanna"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385939/",
+      "name": "宋哈林 송하림"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391396/",
+      "name": "李恩泉 Eun-saem Lee"
+    }
+  ]
+,
+  "datePublished": "2018-01-06",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H15M",
+  "description": "tvN独幕剧系列第六部
+讲述一个少女长大成人后，偶然发现自己学生时代的文集的故事，描写十七岁的记忆及初恋故事，将于1月6日首播",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "13976",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

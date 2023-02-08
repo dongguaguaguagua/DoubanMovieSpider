@@ -1,0 +1,38 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Vesalings elskendur",
+  "url": "/subject/27621662/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2544776089.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1091099/",
+      "name": "Helga Vala Helgadóttir Helga Vala Helgadóttir"
+    }
+  ]
+,
+  "datePublished": "2019-02-14",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H45M",
+  "description": "The brothers Óskar and Maggi both long for love
+but are seemingly doomed to stay single. Óskar
+shies...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

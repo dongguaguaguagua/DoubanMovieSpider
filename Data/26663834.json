@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "In Memory Of",
+  "url": "/subject/26663834/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2283614600.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424101/",
+      "name": "杰基·凯利 Jackie Kelly"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424101/",
+      "name": "杰基·凯利 Jackie Kelly"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

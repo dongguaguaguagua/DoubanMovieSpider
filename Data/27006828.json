@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "A频道 OVA：吃火锅吧 Aチャンネル 鍋を食べよう",
+  "url": "/subject/27006828/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509747655.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314504/",
+      "name": "小野学 Manabu Ono"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236882/",
+      "name": "福原香织 Kaori Fukuhara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001776/",
+      "name": "悠木碧 Aoi Yuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275208/",
+      "name": "寿美菜子 Minako Kotobuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319406/",
+      "name": "内山夕实 Yumi Uchiyama"
+    }
+  ]
+,
+  "datePublished": "2017-09-27",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "新作OVA",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

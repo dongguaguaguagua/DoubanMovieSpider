@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "特工小萌妻",
+  "url": "/subject/30164912/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2518860507.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398414/",
+      "name": "巴晨旭 Chenxu Ba"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327617/",
+      "name": "刘前程 Qiancheng Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398412/",
+      "name": "陈一雯 Yiwen Chen"
+    }
+  ]
+,
+  "datePublished": "2018-03-08",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "冷酷英俊的M国特工陈凯伦在一次秘密行动当中，与勤工俭学的大学生李梦璃在画摊偶然相识，陈凯伦原本想借画摊作为掩护等待嫌疑人落网，但因为小事两人产生了矛，导致嫌疑人逃跑。原以为任务就此失败，陈凯伦却在李梦...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

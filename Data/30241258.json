@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "長壽花，我和她 カランコエの花",
+  "url": "/subject/30241258/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2524608997.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379915/",
+      "name": "今田美樱 Mio Imada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376682/",
+      "name": "笠松将 Sho Kasamatsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374976/",
+      "name": "堀春菜 Haruna Hori"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1466857/",
+      "name": "有佐 Arisa"
+    }
+  ]
+,
+  "datePublished": "2018-07-14",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "",
+  "description": "在一所高中的2年级班，在没有任何预知的情况下进行了LGBT的课程。因为在其他班级里没有相同内容的课，学生们怀疑他们是不是在班里有LGBT的人。多愁善感的时候，他们的心情逐渐混乱，对日常生活产生了影响。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "114",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

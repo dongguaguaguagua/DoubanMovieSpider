@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无名机车",
+  "url": "/subject/30373768/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2539365083.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392548/",
+      "name": "崔守杰 Shoujie Cui"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313463/",
+      "name": "沈航 Hang Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377149/",
+      "name": "苏凡 Fan Su"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H25M",
+  "description": "在一次民间摩托车比赛中，常败将军沈天明又一次输掉了比赛。当他垂头丧气回到营地的时候，沈天明得知前妻去世的消息，并留下了一个7岁大的女儿慧心给他，一直由前妻的妹妹照顾。原来七年前沈天明因为沉迷于摩托车运...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

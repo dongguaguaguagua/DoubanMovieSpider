@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我在黑道那几年",
+  "url": "/subject/26864428/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2377021000.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350019/",
+      "name": "王凯阳 Kaiyang Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314497/",
+      "name": "何中华 Zhonghua He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344879/",
+      "name": "孙蛟龙 Jiaolong Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323159/",
+      "name": "傅隽 Jun Fu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440006/",
+      "name": "张静如 Jingru Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336354/",
+      "name": "王曼妮 Manni Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406523/",
+      "name": "包小平 Xiaoping Bao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT1H0M",
+  "description": "本片讲述了卧底纪沨借助黑道贩毒大佬的小舅子潜伏在乔八身边。他一边查探敌情，一边却陷入了黑道大佬的女儿乔冉冉与当警察时的女友婷婷之间的情感纠葛当中。而作为线人他一边给警队传递消息，一边帮着黑道杀人放火，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

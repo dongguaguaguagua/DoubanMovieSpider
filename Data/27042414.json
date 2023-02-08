@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夫人 Madame",
+  "url": "/subject/27042414/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2519736685.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001691/",
+      "name": "阿曼达·斯特斯 Amanda Sthers"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001691/",
+      "name": "阿曼达·斯特斯 Amanda Sthers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295742/",
+      "name": "马修·罗宾斯 Matthew Robbins"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041108/",
+      "name": "托妮·科莱特 Toni Collette"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048131/",
+      "name": "哈威·凯特尔 Harvey Keitel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050220/",
+      "name": "萝西·德·帕尔马 Rossy de Palma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332722/",
+      "name": "迈克尔·史麦利 Michael Smiley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004805/",
+      "name": "斯坦尼斯拉斯·莫哈 Stanislas Merhar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435448/",
+      "name": "杰伊·本尼迪克特 Jay Benedict"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444778/",
+      "name": "蒂姆·费林汉姆 Tim Fellingham"
+    }
+  ]
+,
+  "datePublished": "2017-06-12",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "安妮（托妮·科莱特 Toni Collette 饰）和鲍勃（哈威·凯特尔 Harvey Keitel 饰）是一对美国上流社会交际圈里的明星夫妇。一天，两人正在筹备一场非常盛大的宴会，邀请了身份十分尊贵...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2150",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

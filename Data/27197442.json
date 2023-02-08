@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "好坏科尼尼 Khoob Bad Jelf",
+  "url": "/subject/27197442/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504821450.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295051/",
+      "name": "Peyman Ghassemkhani Peyman Ghassemkhani"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295051/",
+      "name": "Peyman Ghassemkhani Peyman Ghassemkhani"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283461/",
+      "name": "哈米德·法罗赫内扎德 Hamid Farokhnezhad"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209348/",
+      "name": "维什卡·阿赛什 Vishka Asayesh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310189/",
+      "name": "曼尼·夏希希 Mani Haghighi"
+    }
+  ]
+,
+  "datePublished": "2017-02-16",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H47M",
+  "description": "It&#39;s about a film producer that make a great director use two actors in a crime movie but they are s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

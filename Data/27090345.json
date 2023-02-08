@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "追踪者 Trailers",
+  "url": "/subject/27090345/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2493204865.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1261355/",
+      "name": "鲁兹贝赫·拉希迪 Rouzbeh Rashidi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1261355/",
+      "name": "鲁兹贝赫·拉希迪 Rouzbeh Rashidi"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-11-13",
+  "genre": ["\u60ac\u7591", "\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

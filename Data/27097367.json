@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Second Coming of Christ",
+  "url": "/subject/27097367/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494064810.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040502/",
+      "name": "杰森·伦敦 Jason London"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022617/",
+      "name": "昆东·亚伦 Quinton Aaron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341315/",
+      "name": "娜塔莉·伯恩 Natalie Burn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459673/",
+      "name": "莱昂内尔·克劳德 "
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u5bb6\u5ead"],
+  "duration": "PT1H32M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

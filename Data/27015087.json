@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "替身",
+  "url": "/subject/27015087/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2460349780.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307492/",
+      "name": "周美玲 Zero Chou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307492/",
+      "name": "周美玲 Zero Chou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361864/",
+      "name": "钟瑶 Aviis Zhong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371689/",
+      "name": "卢婕 Jie Lu"
+    }
+  ]
+,
+  "datePublished": "2017-07-09",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H35M",
+  "description": "韩璐（卢婕 饰）的母亲一直希望能够生下一个儿子，所以身为女孩的韩璐，从小到大都是被当成男孩来养活的。长大之后，韩璐成为了柔道队的队长，身手矫捷英姿飒爽的她深受队员们的喜爱和信赖。某日，韩璐在网络上遇见...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1214",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

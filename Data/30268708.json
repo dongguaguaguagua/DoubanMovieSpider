@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱情奇遇记 an hour behind",
+  "url": "/subject/30268708/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2527937331.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044910/",
+      "name": "巴里·沃森 Barry Watson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076533/",
+      "name": "斯科特·克里斯托弗 Scott Christopher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427906/",
+      "name": "K·达诺尔·杰拉德 K. Danor Gerald"
+    }
+  ]
+,
+  "datePublished": "2017-09-20",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "女主相亲前一天晚上把闹钟定错了，结果第二天误打误撞的和另外一个男士约会，他们却意外地谈得来，但是当他们发现这一切都是巧合，两人的爱情又将何去何从？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "149",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

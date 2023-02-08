@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Collusions",
+  "url": "/subject/27084371/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2487139749.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049663/",
+      "name": "汤姆·艾弗瑞特·斯科特 Tom Everett Scott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036617/",
+      "name": "斯蒂文·卡普 Steven Culp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1154076/",
+      "name": "布莱恩泰亚 Brynn Thayer"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H22M",
+  "description": "Follows five people intertwined in the legal and law enforcement world of LA as the story of a beate...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

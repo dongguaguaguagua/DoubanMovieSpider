@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "百分之一 1%",
+  "url": "/subject/27073253/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535819569.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417105/",
+      "name": "斯蒂芬·麦卡勒姆 Stephen McCallum"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333641/",
+      "name": "马特·纳夫莱 Matt Nable"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1262105/",
+      "name": "阿比·丽 Abbey Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333641/",
+      "name": "马特·纳夫莱 Matt Nable"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1186069/",
+      "name": "瑞安·柯尔 Ryan Corr"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317171/",
+      "name": "萨姆·帕尔森森 Sam Parsonson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1171275/",
+      "name": "Eddie Baroo Eddie Baroo"
+    }
+  ]
+,
+  "datePublished": "2019-02-01",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H32M",
+  "description": "1% is set within the primal underworld of outlaw motorcycle club gangs. It follows the heir to the t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

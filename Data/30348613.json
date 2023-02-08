@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱朦胧 L&#39;amour Flou",
+  "url": "/subject/30348613/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2562147933.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022907/",
+      "name": "罗曼娜·波琳热 Romane Bohringer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430152/",
+      "name": "菲利普·雷博 Philippe Rebbot"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022907/",
+      "name": "罗曼娜·波琳热 Romane Bohringer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430152/",
+      "name": "菲利普·雷博 Philippe Rebbot"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022907/",
+      "name": "罗曼娜·波琳热 Romane Bohringer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280298/",
+      "name": "布丽吉特·卡蒂永 Brigitte Catillon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344737/",
+      "name": "奥拉利亚·佩蒂特 Aurélia Petit"
+    }
+  ]
+,
+  "datePublished": "2018-10-10",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H37M",
+  "description": "Romane and Philippe separate. After 10 years together, two children and a dog, they do not love each...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

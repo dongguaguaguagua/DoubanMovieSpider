@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "盛先生的花儿",
+  "url": "/subject/26779337/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2393904861.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358857/",
+      "name": "朱员成 Yuancheng Zhu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358857/",
+      "name": "朱员成 Yuancheng Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330517/",
+      "name": "吴波 Pepper Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040392/",
+      "name": "颜丙燕 Bingyan Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316770/",
+      "name": "王德顺 Deshun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276893/",
+      "name": "艾丽娅 Liya Ai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322682/",
+      "name": "王晴 Qing Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274530/",
+      "name": "李乃文 Naiwen Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338492/",
+      "name": "崔璨 Can Cui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365665/",
+      "name": "郝宏明 Hongming Hao"
+    }
+  ]
+,
+  "datePublished": "2016-06-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "盛琴（艾丽娅 饰）的父亲盛先生（王德顺 饰）患上了老年痴呆症，每况愈下，最终生活无法自理。为了照顾父亲的饮食起居，盛琴雇佣了一位名叫棉花（颜丙燕 饰）的保姆。盛先生的记忆虽然每日都在消减，但唯独念念不...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3234",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

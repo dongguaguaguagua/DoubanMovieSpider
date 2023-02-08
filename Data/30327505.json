@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "东宫毒",
+  "url": "/subject/30327505/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537136228.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336346/",
+      "name": "徐超 Chao Xu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323940/",
+      "name": "李广斌 Guangbin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329886/",
+      "name": "刘婧 Jing Liu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "东宫太子元宵夜微服出宫，误食中毒，御医院束手无策，御医院最高医官龙太医找来平素流连烟花勾栏场所的第九子——龙重九救命。龙重九用了匪夷所思的方法，为太子解毒。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

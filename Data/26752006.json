@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冰河世纪：巨蛋恶作剧 Ice Age: The Great Egg-Scapade",
+  "url": "/subject/26752006/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2525043311.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025202/",
+      "name": "丹尼斯·利瑞 Denis Leary"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049487/",
+      "name": "塔拉吉·P·汉森 Taraji P. Henson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031870/",
+      "name": "奎恩·拉提法 Queen Latifah"
+    }
+  ]
+,
+  "datePublished": "2016-03-20",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H13M",
+  "description": "复活节电视特辑，前半部分是曼尼，迪亚哥和希德找蛋蛋的故事，后半部分是冰河世纪的彩蛋大合集。
+后半部分包括：
+1、鼠奎特之宇宙冒险
+2、消失的坚果
+3、鼠奎特穿越记
+4、鼠奎特之大陆漂移1
+5、鼠奎特之...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3711",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

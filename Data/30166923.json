@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杂技狂人",
+  "url": "/subject/30166923/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2517676892.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323048/",
+      "name": "司小冬 Xiaodong Si"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352739/",
+      "name": "刘冠霖 Guanlin Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384589/",
+      "name": "王俏霖 Qiaolin Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369579/",
+      "name": "侯雪龙 Xuelong Hou"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H26M",
+  "description": "杂技团因车祸而解散，曾经是杂技团演员而因为伤病而退居二线当厨师的陈天亮为了团长的遗愿和自己的梦想，找到曾经的搭档高伟一起重建杂技团。他们克解决人员、资金、技术等重重困难，让杂技团再次演出成功。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

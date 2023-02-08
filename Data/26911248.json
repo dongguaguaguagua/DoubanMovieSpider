@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "了不起的董小姐",
+  "url": "/subject/26911248/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341090/",
+      "name": "何东平 Dongping He"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "父亲有钱的邓励每天用钱证明着自己的存在，当他得知曾经帮助过的坐在轮椅上的女孩董文文得了绝症后，决定要帮助这个女孩度过人生最后的日子，爱的奇迹发生了，董文文痊愈了的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "连锁反应 The Chain",
+  "url": "/subject/27109420/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2519228565.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482417/",
+      "name": "大卫·马丁·珀拉斯 David Martín Porras"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482417/",
+      "name": "大卫·马丁·珀拉斯 David Martín Porras"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049507/",
+      "name": "玛德琳·奇玛 Madeline Zima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349878/",
+      "name": "杰米·克莱顿 Jamie Clayton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019044/",
+      "name": "阿德里安娜·巴比欧 Adrienne Barbeau"
+    }
+  ]
+,
+  "datePublished": "2019-05-15",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H41M",
+  "description": "一名男子想要使用一家协助自杀公司的服务，却发现为了获得这项服务，他必须先杀一个人。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "234",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

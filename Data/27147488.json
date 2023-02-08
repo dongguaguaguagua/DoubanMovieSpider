@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Manamantha",
+  "url": "/subject/27147488/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499618659.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428395/",
+      "name": "维尼拉·基肖尔 Vennela Kishore"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H44M",
+  "description": "The film narrates the life of four persons and their struggle for their survival in differnt situati...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

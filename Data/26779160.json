@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "面条侠 Spaghettiman",
+  "url": "/subject/26779160/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2384509682.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1245824/",
+      "name": " Mark Potts"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394859/",
+      "name": "乔·弗里亚 Joe Fria"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H27M",
+  "description": "Clark doesn&#39;t care about you. He doesn&#39;t care about the world. He barely cares about himself. But af...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "411",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

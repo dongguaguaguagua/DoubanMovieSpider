@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蛇蝎女孩 Scorpion Girl",
+  "url": "/subject/30418980/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2544306996.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007196/",
+      "name": "Ford Austin Ford Austin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401637/",
+      "name": "亚当·梅菲尔德 Adam Mayfield"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413660/",
+      "name": "王抒丹 Shudan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007029/",
+      "name": "洛伦佐·拉马斯 Lorenzo Lamas"
+    }
+  ]
+,
+  "datePublished": "2017-12-02",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "SUVANNY 是一个出身平民区女孩，在她墨西哥家乡被毁后被迫非法偷渡到美国。而后她开始寻找她唯一的亲人亚历山大， 目前正被十分危险的拐卖人口犯罪团伙控制，在这过程中更危险的势力也在想她袭来。",
+  "@type": "TVSeries",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

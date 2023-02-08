@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "音乐脚步 원스텝",
+  "url": "/subject/26930510/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516432750.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311744/",
+      "name": "全宰洪 Jae-Hong Jeon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311744/",
+      "name": "全宰洪 Jae-Hong Jeon"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403713/",
+      "name": "洪雅凛 Ah-reum Hong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339615/",
+      "name": "赵达焕 Dal-hwan Jo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174010/",
+      "name": "朴山多拉 Sandara Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024947/",
+      "name": "韩在硕 Jae-seok Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439014/",
+      "name": "姜睿序 Ye-Seo Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380772/",
+      "name": "赵东仁 Dong-in Cho"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390359/",
+      "name": "金京振 Kyung-jin Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379494/",
+      "name": "赵秀荷 Soo-ha Jo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467885/",
+      "name": "裴龙根 Yong-geun Bae"
+    }
+  ]
+,
+  "datePublished": "2017-04-06",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H27M",
+  "description": "该片讲述的是因为色听而无法听到音乐的诗贤（Dara 饰），与身为知名作曲家却陷入低谷而没办法写歌的志一（韩载锡 饰）通过音乐沟通并成长的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "129",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

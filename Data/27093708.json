@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "十月建造的房屋2 The Houses October Built 2",
+  "url": "/subject/27093708/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2497399411.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1201428/",
+      "name": "Bobby Roe Bobby Roe"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1201428/",
+      "name": "Bobby Roe Bobby Roe"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1201428/",
+      "name": "Bobby Roe Bobby Roe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462970/",
+      "name": "卢卡斯·戈弗雷 Lucas Godfrey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1239804/",
+      "name": " Takeru Kobayashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045710/",
+      "name": "尼克·里昂 Nick Lyon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1156219/",
+      "name": "Christopher Steele Christopher Steele"
+    }
+  ]
+,
+  "datePublished": "2017-09-22",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H41M",
+  "description": "Five haunted-house enthusiast friends are still trying to recover from the trauma of being kidnapped...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "175",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

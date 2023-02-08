@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "自由人 Homem Livre",
+  "url": "/subject/26881736/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2509807453.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223667/",
+      "name": " Pedro Perazzo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209946/",
+      "name": "罗萨妮·穆略兰德 Rosanne Mulholland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051924/",
+      "name": "马西奥·维托 Márcio Vito"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247172/",
+      "name": " Giancarlo Di Tommaso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304295/",
+      "name": "弗拉维奥·保乌拉奇 Flavio Bauraqui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1238589/",
+      "name": "阿尔曼度·巴拜欧伏 Armando Babaioff"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "After spending years in prison for a crime that shocked the country, a former rock star finds refuge...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

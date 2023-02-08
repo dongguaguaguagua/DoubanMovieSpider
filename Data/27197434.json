@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "法拉利 Ferrari",
+  "url": "/subject/27197434/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504821068.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294026/",
+      "name": "坎布兹亚·帕托维 Kambuzia Partovi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1107123/",
+      "name": "Reza Kianian Reza Kianian"
+    }
+  ]
+,
+  "datePublished": "2017-02-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "一位18岁的女孩来到德黑兰与一辆80亿的法拉利拍照，但这却让她惹上了麻烦。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地狱自拍 Selfie from Hell",
+  "url": "/subject/26879462/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2383063969.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333900/",
+      "name": "托尼·吉罗克斯 Tony Giroux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285277/",
+      "name": "马修·格雷厄姆 Matthew Graham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1469319/",
+      "name": "艾莉森·沃克 Alyson Walker"
+    }
+  ]
+,
+  "datePublished": "2018-01-19",
+  "genre": ["\u60ac\u7591", "\u6050\u6016"],
+  "duration": "",
+  "description": "朱莉娅，德国网红，去美国拜访表姐汉娜，她一到就病倒了，不寻常的事情接踵而至……而只有自.拍，才能看到若有若无的鬼影……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "270",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.3"
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "远山的呼唤 遙かなる山の呼び声",
+  "url": "/subject/30143329/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2535830662.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340950/",
+      "name": "朝原雄三 Yûzô Asahara"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1162794/",
+      "name": "山田洋次 Yôji Yamada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319938/",
+      "name": "坂口理子 Riko Sakaguchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277485/",
+      "name": "朝间义隆 Yoshitaka Asama"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012581/",
+      "name": "阿部宽 Hiroshi Abe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045787/",
+      "name": "常盘贵子 Takako Tokiwa"
+    }
+  ]
+,
+  "datePublished": "2018-11-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "山田洋次[远山的呼唤](1980)将打造为剧版，朝原雄三(《钓鱼狂日记2：新入社员滨崎传助》)将担任剧集导演。目前主演锁定为阿部宽、常盘贵子。阿部宽扮演男主角田岛耕作(电影版由高仓健扮演)，常盘贵子饰...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "349",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

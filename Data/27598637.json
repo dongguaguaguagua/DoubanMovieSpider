@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "彼得松和芬杜斯3 Pettersson und Findus - Findus zieht um",
+  "url": "/subject/27598637/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550460640.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385388/",
+      "name": "阿里·萨马迪·阿哈迪 Ali Samadi Ahadi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385384/",
+      "name": "斯文·诺德奎斯特 Sven Nordqvist"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385389/",
+      "name": "托马斯·斯普林格 Thomas Springer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029045/",
+      "name": "施特凡·库尔特 Stefan Kurt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1151535/",
+      "name": "马丽安·萨格布雷特 Marianne Sägebrecht"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1092025/",
+      "name": "马克斯·赫布雷希特 Max Herbrechter"
+    }
+  ]
+,
+  "datePublished": "2018-09-20",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "《派特森与芬达猫》真人版第三部。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

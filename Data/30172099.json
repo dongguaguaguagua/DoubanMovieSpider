@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美好的明天 뷰티풀 투모로우",
+  "url": "/subject/30172099/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516481987.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444321/",
+      "name": "朴孝信 박효신"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444357/",
+      "name": "郑在日 Jae-il Jung"
+    }
+  ]
+,
+  "datePublished": "2017-10-26",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H8M",
+  "description": "与朴孝信七辑&lt;I am A Dreamer&gt;的再一次见面，艺术家朴孝信传递的梦的息&#39;Beautiful tomorrow&#39;。
+这是2016年10月，时隔6年带着7辑&lt;I am A Dreamer&gt;回归...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

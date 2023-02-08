@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "方寸之爱 Love Per Square Foot",
+  "url": "/subject/30132778/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2514100932.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018431/",
+      "name": "阿南德·蒂瓦里 Anand Tiwari"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1266575/",
+      "name": " Asif Ali Zardari"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356746/",
+      "name": "维杰·卡沙尔 Vicky Kaushal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132699/",
+      "name": "拉特纳·帕塔克 Ratna Pathak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390335/",
+      "name": "Angira Dhar Angira Dhar"
+    }
+  ]
+,
+  "datePublished": "2018-02-14",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H13M",
+  "description": "银行职员桑杰与卡莉娜都无法挣到足够的钱购买自己的房子，因此二人决定为了互惠互利假结婚。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2946",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

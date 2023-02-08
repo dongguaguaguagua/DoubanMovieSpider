@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无法触碰的爱",
+  "url": "/subject/27621048/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2509548941.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374456/",
+      "name": "徐艺华 Yihua Xu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314478/",
+      "name": "陈龙 Long Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275739/",
+      "name": "林鹏 Peng Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274652/",
+      "name": "姜超 Chao Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317354/",
+      "name": "高姝瑶 Shuyao Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326228/",
+      "name": "韩张 Zhang Han"
+    }
+  ]
+,
+  "datePublished": "2018-01-12",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H40M",
+  "description": "电影《无法触碰的爱》由陈龙， 林鹏，姜超、高姝瑶、洪紫婷，陈 野，于小澜等偶像明星联袂演绎，讲 述了一位文艺男画家，由于作品不被 认可而穷困潦倒，却在阴差阳错的安 排下，与女主人公相恋，意外中又发 现...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

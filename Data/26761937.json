@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们的战役 Nos batailles",
+  "url": "/subject/26761937/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527446060.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393716/",
+      "name": "吉咏姆·贤内兹 Guillaume Senez"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393716/",
+      "name": "吉咏姆·贤内兹 Guillaume Senez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432172/",
+      "name": "拉斐尔·德斯普尔琴 Raphaëlle Desplechin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332593/",
+      "name": "劳尔·卡拉米 Laure Calamy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380646/",
+      "name": "露西·德拜 Lucie Debay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018093/",
+      "name": "罗曼·杜里斯 Romain Duris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411058/",
+      "name": "巴希尔·格鲁贝格 Basile Grunberger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483395/",
+      "name": "玛丽-克里斯汀·奥里 Marie-Christine Orry"
+    }
+  ]
+,
+  "datePublished": "2018-10-03",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "奥利维尔（罗曼·杜里斯 Romain Duris 饰）和劳拉（露西·德拜 Lucie Debay 饰）结婚多年，两人共同养育着两个孩子，婚姻生活看似幸福美满。奥利维尔是一个非常传统的男人，家里奉行的是...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "158",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

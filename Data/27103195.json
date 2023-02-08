@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "星期8",
+  "url": "/subject/27103195/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506070497.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382368/",
+      "name": "王艺珺 Yijun Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382366/",
+      "name": "刘哲宁 Zhening Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382367/",
+      "name": "宋斯年 Sinian Song"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382553/",
+      "name": "王漪淼 Yimiao Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362971/",
+      "name": "卜冠今 Guanjin Bu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388031/",
+      "name": "李豪 Hao Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382371/",
+      "name": "屈绍春 Shaochun Qu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382372/",
+      "name": "马娇 Jiao Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382373/",
+      "name": "向遨宇 Aoyu Xiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382374/",
+      "name": "武姿 Zi Wu"
+    }
+  ]
+,
+  "datePublished": "2017-11-28",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H35M",
+  "description": "一无是处的胖妹蒋芜，意外得到神奇手环并获得“星期8”时间，通过手环，冒充天使，追求校草，作弊伪装，成为学校风云人物。然而手环被偷导致一切虚假成功化为泡影，蒋芜终于明白，魔法的意义是成长而非佯装。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1424",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

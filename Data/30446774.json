@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "青春至上",
+  "url": "/subject/30446774/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2546739223.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454828/",
+      "name": "李大涛 Datao Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326508/",
+      "name": "李延亮 Yanliang Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336635/",
+      "name": "唐夏娃 Xiawa Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365987/",
+      "name": "廖语辰 Yuchen Liao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320039/",
+      "name": "任泽巍 Zewei Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444413/",
+      "name": "张丛晓 Congxiao Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H27M",
+  "description": "电影《青春至上》讲述了一名叫晓苇的摇滚女孩追求梦想的一段旅程与刻骨铭心的成长经历。此片以晓苇寻找自己的生父展开，对生活充满幻想的她渴望爱情，敢于冒险与尝试，却对生活懵懂未知，因此屡遭打击。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

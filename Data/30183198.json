@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玛塔哈莉：死亡舞蹈 Mata Hari: Tanz mit dem Tod",
+  "url": "/subject/30183198/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535660338.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455880/",
+      "name": "凯·克里斯蒂安森 Kai Christiansen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279535/",
+      "name": "Heike Brückner Heike Brückner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455880/",
+      "name": "凯·克里斯蒂安森 Kai Christiansen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165776/",
+      "name": "娜塔莉亚·沃尔纳 Natalia Wörner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352943/",
+      "name": "诺拉·冯·瓦尔茨特滕 Nora von Waldstätten"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348730/",
+      "name": "弗拉基米尔·布尔拉科夫 Vladimir Burlakov"
+    }
+  ]
+,
+  "datePublished": "2017-06-18",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u6218\u4e89"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "热火番茄",
+  "url": "/subject/30300061/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531005532.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406668/",
+      "name": "赵心 Xin Zhao"
+    }
+  ]
+,
+  "datePublished": "2018-08-16",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H0M",
+  "description": "拥有魔鬼身材的番茄和很多脑残追星粉一样拖着梦想的行李箱来到了北京，并与三位美女主播成为了室友。一次偶然的机会番茄伪装成人气王子纯K的粉丝混进了钻石哥的派对现场，可没想到现场与纯K闹剧百出还意外上了热搜...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

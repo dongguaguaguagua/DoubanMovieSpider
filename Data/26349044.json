@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "维罗纳 Verona",
+  "url": "/subject/26349044/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290532/",
+      "name": "Laurie Lynd Laurie Lynd"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438799/",
+      "name": "尼尔·韦德纳 Neil Widener"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438812/",
+      "name": "加文·詹姆斯 Gavin James"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "索尼影业最近准备买下电影剧本《维罗纳》（Verona），这个由尼尔·怀德纳（Neil Widener）和加文·詹姆斯（Gavin James）共同创作的剧本以一种全新的方式演绎了经典的莎士比亚戏剧《罗...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

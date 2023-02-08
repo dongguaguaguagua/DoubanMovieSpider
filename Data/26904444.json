@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一路夜蒲",
+  "url": "/subject/26904444/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2394011398.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323929/",
+      "name": "张暖雅 Angelina Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365648/",
+      "name": "吴云甫 Owen Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351296/",
+      "name": "杨曼玉 Manyu Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357133/",
+      "name": "黄思思 Sisi Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401048/",
+      "name": "陈缨鑫 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415568/",
+      "name": "朱丽群 Liqun Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420087/",
+      "name": "黄建云 Jianyun Huang"
+    }
+  ]
+,
+  "datePublished": "2016-11-03",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H12M",
+  "description": "袁志杰是个创业者，他创办的内衣公司正在草创阶段，业务一直停滞不前，直至在夜店认识了来自台湾的幸运女神Angel，一切才改变过来，殊不知Angel却是他那抛夫弃子的母亲派来的人；夜店的调酒师Hunter...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

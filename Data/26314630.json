@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "谷粒 Buğday",
+  "url": "/subject/26314630/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2511415132.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301868/",
+      "name": "塞米赫·卡普兰奥卢 Semih Kaplanoglu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301868/",
+      "name": "塞米赫·卡普兰奥卢 Semih Kaplanoglu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395475/",
+      "name": "莱拉·佩克萨 Leyla Ipekci"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027945/",
+      "name": "让-马克·巴尔 Jean-Marc Barr"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174832/",
+      "name": "厄明·布拉沃 Ermin Bravo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1263825/",
+      "name": "吉里格力·多布金 Grigoriy Dobrygin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319734/",
+      "name": "克里斯蒂娜·弗罗托 Cristina Flutur"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314431/",
+      "name": "卢巴纳·阿兹巴尔 Lubna Azabal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395476/",
+      "name": "米拉·伯宁 Mila Böhning"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331577/",
+      "name": "山内春彦 Hal Yamanouchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1119638/",
+      "name": "贾勒斯·J·默茨 Jarreth J. Merz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1180096/",
+      "name": "保司福尔吐纳 Hoji Fortuna"
+    }
+  ]
+,
+  "datePublished": "2017-08-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H3M",
+  "description": "故事发生在遥远的未来，彼时，由于环境不断地遭到破坏，已经到了无法修复的地步，地球上的环境早已经不再适宜人类居住了。充满了毒性的突然令农作物无法种植，人类面临着严重的饥荒危机。艾洛尔（让-马克·巴尔 J...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "654",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

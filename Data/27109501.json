@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "复仇战姬 Revenge",
+  "url": "/subject/27109501/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517754729.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392886/",
+      "name": "科拉莉·法尔雅 Coralie Fargeat"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392886/",
+      "name": "科拉莉·法尔雅 Coralie Fargeat"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334637/",
+      "name": "玛蒂尔达·鲁茨 Matilda Anna Ingrid Lutz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176878/",
+      "name": "凯文·扬森斯 Kevin Janssens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393140/",
+      "name": "文森特·科隆布 Vincent Colombe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385548/",
+      "name": "纪尧姆·布谢德 Guillaume Bouchède"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393293/",
+      "name": "埃文特·斯特朗 Avant Strangel"
+    }
+  ]
+,
+  "datePublished": "2017-09-10",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H48M",
+  "description": "理查德（凯文·詹森斯 Kevin Janssens 饰）、斯坦（文森特·科隆布 Vincent Colombe 饰）和迪米特里（纪尧姆·布谢德 Guillaume Bouchède 饰）每年都要在荒漠...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "13447",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暴走狂花",
+  "url": "/subject/30234966/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2523796706.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394903/",
+      "name": "刘智林 Zhilin Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428181/",
+      "name": "吴谦 Steven Q"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435100/",
+      "name": "郝一美 Yimei Hao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315294/",
+      "name": "赵奕欢 Yihuan Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321296/",
+      "name": "包文婧 Wenjing Bao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318375/",
+      "name": "张天其 Tianqi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376277/",
+      "name": "袁伶嫣 Lingyan Yuan"
+    }
+  ]
+,
+  "datePublished": "2018-06-01",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u60ac\u7591"],
+  "duration": "PT1H25M",
+  "description": "体校不同专业的优秀学生顾蕾和白若楠从大学起就不对付，同在一个宿舍却经常比武斗技，而且每次都被思政老师高婷婷抓个正着。
+赶上学校奖励优秀学生参加夏令营，高婷婷带队和同学们来到泰国，在夜市里与同学们冲散，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "763",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.3"
+  }
+}

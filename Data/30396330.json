@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "婚礼 The Wedding",
+  "url": "/subject/30396330/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542469653.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315917/",
+      "name": "妮可尔·布舍里 Nikohl Boosheri"
+    }
+  ]
+,
+  "datePublished": "2018-11-06",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H15M",
+  "description": "Rami, a young Muslim man, is preparing for his wedding with Sara while fulfilling a queer sexuality ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

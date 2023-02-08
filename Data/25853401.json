@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿代：一个爱情故事 Adé: A Love Story",
+  "url": "/subject/25853401/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2175929596.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022631/",
+      "name": "麦当娜 Madonna"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163537/",
+      "name": "Rebecca Walker Rebecca Walker"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "丽贝卡·沃克（Rebecca Walker）是《紫色》（The Color Purple）作者爱丽丝·沃克（Alice Walker）的女儿，《阿代：一个爱情故事》是她创作的首部小说，故事根据她的个人...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

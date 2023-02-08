@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恋空 Luft",
+  "url": "/subject/30136741/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2536304396.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417841/",
+      "name": "阿纳托尔·舒斯特 Anatol Schuster"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417841/",
+      "name": "阿纳托尔·舒斯特 Anatol Schuster"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467911/",
+      "name": "劳拉·费思  Lara Feith "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342088/",
+      "name": "梅拉妮·富歇 Mélanie Fouché"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467929/",
+      "name": "保拉·赫蒂斯 Paula Hüttisch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434892/",
+      "name": "梅兰妮·斯特劳布 Melanie Straub"
+    }
+  ]
+,
+  "datePublished": "2018-07-24",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u540c\u6027", "\u97f3\u4e50"],
+  "duration": "PT1H32M",
+  "description": "Louk is deep as the sea. Manja is pure as the air. Her love means: No fear. No lie. No trace.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "301",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

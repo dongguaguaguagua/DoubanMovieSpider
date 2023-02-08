@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Roxxy",
+  "url": "/subject/30257410/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2613536004.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334281/",
+      "name": "杰玛·达兰德 Jemma Dallender"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT0H5M",
+  "description": "What happens when vanity goes too far.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "附身实验 The Possession Experiment",
+  "url": "/subject/26438121/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2387221047.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386116/",
+      "name": "布莱德利·纳迪 Bradley Nnadi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401076/",
+      "name": "克里斯·迈纳 Chris Minor"
+    }
+  ]
+,
+  "datePublished": "2016-10-27",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H24M",
+  "description": "20年前，女子特雷西（Kt Fanelli 饰）被恶魔附身，当地教会组织了驱魔仪式，结果仪式失败，两名参与仪式的神父双双丧生，唯一的生还者，是当时担任摄像的特雷西的儿子。一晃眼二十年过去，布兰登（克里...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "358",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.2"
+  }
+}

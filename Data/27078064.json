@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Site 13",
+  "url": "/subject/27078064/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2483500397.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336561/",
+      "name": "Marguerite Sundberg Marguerite Sundberg"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Site 13 is a psychological horror film in the vein of HP Lovecraft. It is the story of a man who awa...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "裘力斯·凯撒 RSC Live: Julius Caesar",
+  "url": "/subject/27043842/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526069540.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044735/",
+      "name": "威廉·莎士比亚 William Shakespeare"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165572/",
+      "name": "安德鲁·伍德尔 Andrew Woodall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1069284/",
+      "name": "James Corrigan James Corrigan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468685/",
+      "name": "瓦利德·埃尔加迪 Waleed Elgadi"
+    }
+  ]
+,
+  "datePublished": "2017-04-26",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Angus Jackson directs Shakespeare’s epic political tragedy, as the race to claim Rome spirals out of...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

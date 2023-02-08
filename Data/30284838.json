@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "穿越东西的小情歌 Adam und Evelyn",
+  "url": "/subject/30284838/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2567988835.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401565/",
+      "name": "安德烈亚斯·戈尔茨坦 Andreas Goldstein"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401565/",
+      "name": "安德烈亚斯·戈尔茨坦 Andreas Goldstein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1232353/",
+      "name": " Ingo Schulze"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074219/",
+      "name": "苏珊娜·布雷德霍夫特 Susanne Bredehöft"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110754/",
+      "name": "莉娜·劳泽米斯 Lena Lauzemis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1186794/",
+      "name": "弗洛里安·特辛梅斯特 Florian Teichtmeister"
+    }
+  ]
+,
+  "datePublished": "2018-09-02",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "1989年夏天，东德。亚当做裁缝，伊芙林做女招待。他们正计划一起度假，当伊芙琳发现亚当对她不忠时，她决定独自去度假。她跟随亚当去了匈牙利。随着与奥地利的边界逐渐缩小，匈牙利的一切都发生了变化。随着亚当...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "246",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

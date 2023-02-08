@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异能者2",
+  "url": "/subject/27013635/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2454311859.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363054/",
+      "name": "李凯诗 Kaishi Li"
+    }
+  ]
+,
+  "datePublished": "2017-05-04",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "拥有特殊技能的人被称为异能者，他们一起对抗邪恶组织营救人质的感人故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

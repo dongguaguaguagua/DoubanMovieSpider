@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "战火扶南 Funan",
+  "url": "/subject/30206264/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2586722270.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009461/",
+      "name": "贝热尼丝·贝乔 Bérénice Bejo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018067/",
+      "name": "路易·加瑞尔 Louis Garrel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1177655/",
+      "name": "Maxime Baudoin Maxime Baudoin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385552/",
+      "name": "席琳·荣特 Céline Ronté"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385553/",
+      "name": "玛佳丽·罗森茨威格 Magali Rosenzweig"
+    }
+  ]
+,
+  "datePublished": "2018-06-11",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H24M",
+  "description": "The survival and the struggle of a young mother during the Khmer Rouge revolution, to find her 4-yea...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "277",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

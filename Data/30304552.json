@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伤害 hurt",
+  "url": "/subject/30304552/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2624139646.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045878/",
+      "name": "桑尼·墨海 Sonny Mallhi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045878/",
+      "name": "桑尼·墨海 Sonny Mallhi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427972/",
+      "name": "汉娜·戈登 Hannah Gordon"
+    }
+  ]
+,
+  "datePublished": "2021-12-10",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

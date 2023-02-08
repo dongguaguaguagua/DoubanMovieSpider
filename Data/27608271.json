@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "빈센트",
+  "url": "/subject/27608271/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510822530.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1093059/",
+      "name": "洪景仁 Kyoung-In Hong"
+    }
+  ]
+,
+  "datePublished": "2017-12-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H39M",
+  "description": "갑작스레 졸부가 된 ‘반만호’. 열등감 컴플렉스를 가지고 있던 시골촌놈 출신이 이 세상의 모든 것을 돈으로 가지려고 한다. 그러나, 세간에 ‘돈 밖에 없는 무식한 놈’ 이라는 소리...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

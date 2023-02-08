@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "当我们活着 Mens vi lever",
+  "url": "/subject/27073301/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2509002133.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395671/",
+      "name": "迈赫迪·阿瓦兹 Mehdi Avaz"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1112393/",
+      "name": " 塞巴斯汀·杰森 Sebastian Jessen"
+    }
+  ]
+,
+  "datePublished": "2017-09-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "克里斯蒂安顺利通过了试用期，正式成为一名船员，他回家亲自下厨，打算与未婚妻好好庆祝一番，而就在此时，五年未见的父亲突然造访，将此前的平静彻底打破。克里斯蒂安童年丧母，父亲因而萎靡不振，父亲的好友彼得和...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "117",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

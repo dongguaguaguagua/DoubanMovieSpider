@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Art of Being",
+  "url": "/subject/30446865/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546609056.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1203133/",
+      "name": "小J.B.古曼 J.B. Ghuman Jr."
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1203133/",
+      "name": "小J.B.古曼 J.B. Ghuman Jr."
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1202336/",
+      "name": "科尔顿·福特 Colton Ford"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1203133/",
+      "name": "小J.B.古曼 J.B. Ghuman Jr."
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b", "\u6b4c\u821e", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT0H46M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

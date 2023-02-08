@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "后燃余震 Afterburn/Aftershock",
+  "url": "/subject/27199951/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2572714457.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302028/",
+      "name": "托斯卡·马斯克 Tosca Musk"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333175/",
+      "name": "唐尼·波阿斯 Donny Boaz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347788/",
+      "name": "安德里亚·波尔多 Andrea Bordeaux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382347/",
+      "name": "盖尔·博尔赫斯 Gail Borges"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318778/",
+      "name": "莎拉· 斯托弗 Sarah Stouffer"
+    }
+  ]
+,
+  "datePublished": "2017-11-03",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H39M",
+  "description": "Businesswoman Gia Rossi is determined to be successful in her new job, but when her ex lover Jax Rut...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

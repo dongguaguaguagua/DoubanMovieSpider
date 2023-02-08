@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑暗之歌 A Dark Song",
+  "url": "/subject/26822127/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2453167629.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373064/",
+      "name": "连恩·盖文 Liam Gavin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373064/",
+      "name": "连恩·盖文 Liam Gavin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1196761/",
+      "name": "史蒂夫·奥拉姆 Steve Oram"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342342/",
+      "name": "马克·休伯曼 Mark Huberman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267722/",
+      "name": "苏珊·洛克南 Susan Loughnane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421051/",
+      "name": "凯瑟琳·沃克 Catherine Walker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460299/",
+      "name": "内森·沃斯 Nathan Vos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460300/",
+      "name": " Martina Nunvarova"
+    }
+  ]
+,
+  "datePublished": "2016-07-08",
+  "genre": ["\u5267\u60c5", "\u6050\u6016"],
+  "duration": "PT1H40M",
+  "description": "A determined young woman and a damaged occultist risk their lives and souls to perform a dangerous r...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "861",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

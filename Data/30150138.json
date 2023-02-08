@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "别走 Don&#39;t Go",
+  "url": "/subject/30150138/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537958503.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037701/",
+      "name": "大卫·格里森 David Gleeson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388241/",
+      "name": "罗南·布拉尼 Ronan Blaney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037701/",
+      "name": "大卫·格里森 David Gleeson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025188/",
+      "name": "斯蒂芬·多尔夫 Stephen Dorff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025179/",
+      "name": "梅利莎·乔治 Melissa George"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282187/",
+      "name": "西蒙·德兰尼 Simon Delaney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037298/",
+      "name": "加文·欧康诺 Gavin O&#39;Connor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328873/",
+      "name": "莱勒·罗迪 Lalor Roddy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338288/",
+      "name": "肖恩·马洪 Sean Mahon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279144/",
+      "name": "夏洛特·布拉德利 Charlotte Bradley"
+    }
+  ]
+,
+  "datePublished": "2018-09-04",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT1H31M",
+  "description": "梅利莎·乔治、斯蒂芬·多尔夫主演的[别走](Don&#39;t Go，暂译)柏林电影节曝光首款剧照。该片故事讲述本(斯蒂芬·多尔夫饰)的女儿在事故中去世，而他相信自己可以在梦里将女儿带回来。本从此陷入现实和虚...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "168",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

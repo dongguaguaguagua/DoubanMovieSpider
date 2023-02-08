@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "End of Term",
+  "url": "/subject/26964213/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2534155931.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1136209/",
+      "name": "Mark Murphy Mark Murphy"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1081439/",
+      "name": "彼得·戴维森 Peter Davison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422232/",
+      "name": "切尔西·艾吉 Chelsea Edge"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Art meets horror in End of Term where history is repeating itself at the Ford Barrington Art School....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

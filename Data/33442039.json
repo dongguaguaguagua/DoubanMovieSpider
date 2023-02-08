@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红色 Krasny",
+  "url": "/subject/33442039/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2555957621.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419919/",
+      "name": "尼古拉·萨尔基索夫 Nick Sarkisov"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419919/",
+      "name": "尼古拉·萨尔基索夫 Nick Sarkisov"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441076/",
+      "name": "伊琳娜·安东年科 Irina Antonenko"
+    }
+  ]
+,
+  "datePublished": "2016-12-21",
+  "genre": ["\u5267\u60c5", "\u897f\u90e8"],
+  "duration": "PT1H26M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

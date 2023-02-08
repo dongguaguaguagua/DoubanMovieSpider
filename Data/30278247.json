@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "加加林旅馆 Hotel Gagarin",
+  "url": "/subject/30278247/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528555466.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210385/",
+      "name": "西蒙尼·斯帕达 Simone Spada"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210385/",
+      "name": "西蒙尼·斯帕达 Simone Spada"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007238/",
+      "name": "克劳迪奥·阿门多拉 Claudio Amendola"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000601/",
+      "name": "卢卡·阿金泰罗 Luca Argentero"
+    }
+  ]
+,
+  "datePublished": "2018-05-24",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Five penniless Italians looking for their big break are sent to shoot a film in Armenia. But when th...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "青春不加糖",
+  "url": "/subject/26855999/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2374251188.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338459/",
+      "name": "吴斌然 Array Wu"
+    }
+  ]
+,
+  "datePublished": "2016-08-11",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H27M",
+  "description": "一帮怀揣梦想的大学毕业生，在梦想的支持下成为了这个繁华都市的创业蚁族。丁哥、阿良去一家音乐公司应聘，结果老师把他们精心排练的“说唱表演”嘲笑为对艺术的亵渎和不尊重。而小琴面对的是一个想“潜规则”的骗子...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

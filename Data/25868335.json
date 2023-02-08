@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Indian Summer",
+  "url": "/subject/25868335/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1105399/",
+      "name": "阿什利·詹森 Ashley Jensen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031972/",
+      "name": "查斯科·斯宾塞 Chaske Spencer"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5bb6\u5ead"],
+  "duration": "",
+  "description": "In the summer of 1967, on a remote sheep farm in the Scottish Highlands, the lives of a grieving boy...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

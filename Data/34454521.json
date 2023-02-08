@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "流氓归来2 Maari 2",
+  "url": "/subject/34454521/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2575240622.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1219536/",
+      "name": "丹努什 Dhanush"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402572/",
+      "name": "赛·帕拉维 Sai Pallavi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426794/",
+      "name": "托维诺·托马斯 Tovino Thomas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427965/",
+      "name": "瓦拉拉克什米·萨拉特库马尔 Varalaxmi Sarathkumar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437725/",
+      "name": "马诺巴拉 Manobala"
+    }
+  ]
+,
+  "datePublished": "2018-12-21",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT2H30M",
+  "description": "Gangster Maari squares off against Beeja, a hardened criminal who considers himself to be the God of...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

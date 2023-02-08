@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "驱魔大师 Kaashmora",
+  "url": "/subject/26975619/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2429472084.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427030/",
+      "name": "卡尔迪 Karthi"
+    }
+  ]
+,
+  "datePublished": "2016-10-28",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u5947\u5e7b"],
+  "duration": "PT2H43M",
+  "description": "卡许莫拉一家都是著名的驱魔师和捉鬼专家，然而他们一家却是十足的大骗子。一次偶然的机会，卡许莫拉进入一座宫殿进行驱鬼，然而他却发现那座宫殿是真的闹鬼。恶灵将卡许莫拉一家引入宫殿，这背后有什么不可告人的阴...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "97",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

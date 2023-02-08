@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "斯科坎 Skokan",
+  "url": "/subject/26727857/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542378659.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274848/",
+      "name": " Petr Václav"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274848/",
+      "name": " Petr Václav"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348843/",
+      "name": "卡丽佳·图尔 Karidja Touré"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Skokan is the story of 28-year-old man who has just been released from prison. He is given the cloth...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

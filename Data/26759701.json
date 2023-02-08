@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异物 Corps étranger",
+  "url": "/subject/26759701/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2449688222.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303157/",
+      "name": "拉贾·阿马里 Raja Amari"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303157/",
+      "name": "拉贾·阿马里 Raja Amari"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036728/",
+      "name": "西娅姆·阿巴斯 Hiam Abbass"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000884/",
+      "name": "萨利姆·克希乌什 Salim Kechiouche"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "Seeking refuge from her Islamist radical brother whom she informed on, a young woman arrives in Fran...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

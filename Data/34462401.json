@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "和谐 Harmony",
+  "url": "/subject/34462401/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2562084032.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1126915/",
+      "name": "科里·皮尔森 Corey Pearson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1126915/",
+      "name": "科里·皮尔森 Corey Pearson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040666/",
+      "name": "杰奎琳·麦根斯 Jacqueline McKenzie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329814/",
+      "name": "埃蒙·法伦 Eamon Farren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1234106/",
+      "name": " Tessa James"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1075459/",
+      "name": "Salvatore Coco Salvatore Coco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460320/",
+      "name": "乔丹·科万 Jordan Cowan"
+    }
+  ]
+,
+  "datePublished": "2018-10-04",
+  "genre": ["\u60ca\u609a", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "Born with an energetic power to absorb fear from others, a young woman must find love to balance the...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

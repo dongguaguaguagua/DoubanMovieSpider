@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "侠丐传奇",
+  "url": "/subject/30337102/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2685159578.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367991/",
+      "name": "赵秋生 Qiusheng Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425547/",
+      "name": "徐少武 Shaowu Xu"
+    }
+  ]
+,
+  "datePublished": "2018-09-28",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "富江从小体弱多病，被父亲逼迫习武。他在烟柳之地为救友人失手杀死小王爷，被判死刑。此时，丐帮选出新任帮主——洪启天，两个少年竟然是同样的相貌。富海为救子，将富江与他掉包，一个弱书生帮主从此带领丐帮勇闯江...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

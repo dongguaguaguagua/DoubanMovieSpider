@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "此时此地 So was von da",
+  "url": "/subject/34438928/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560114097.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368612/",
+      "name": "雅各布·拉斯 Jakob Lass"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368612/",
+      "name": "雅各布·拉斯 Jakob Lass"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-08-16",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u97f3\u4e50"],
+  "duration": "PT1H40M",
+  "description": "一名落魄的音乐俱乐部老闆举办最后一场盛会，找来朋友、敌人和热爱狂欢作乐的怪咖齐聚一堂，共度疯狂跨年夜。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

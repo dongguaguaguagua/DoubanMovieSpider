@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Bazodee",
+  "url": "/subject/26817954/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2359872576.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354070/",
+      "name": "斯塔兹·奈尔 Staz Nair"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016703/",
+      "name": "卡伯·贝迪 Kabir Bedi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1253748/",
+      "name": " Valmike Rampersad"
+    }
+  ]
+,
+  "datePublished": "2016-08-05",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u6b4c\u821e"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

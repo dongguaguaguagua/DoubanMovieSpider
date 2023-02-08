@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "开心球2：金龙的传说 Смешарики. Легенда о золотом драконе",
+  "url": "/subject/26807952/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2357165072.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358572/",
+      "name": "丹尼斯·切尔诺夫 Denis Chernov"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358572/",
+      "name": "丹尼斯·切尔诺夫 Denis Chernov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358571/",
+      "name": "Dmitriy Yakovenko Dmitriy Yakovenko"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358573/",
+      "name": "瓦迪姆·博恰诺夫 Vadim Bochanov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358574/",
+      "name": "Mikhail Chernyak Mikhail Chernyak"
+    }
+  ]
+,
+  "datePublished": "2016-03-17",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H25M",
+  "description": "The lovably simple residents of peaceful Kikoriki Island are thrown kicking and screaming into big a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

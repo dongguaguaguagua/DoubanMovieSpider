@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "M",
+  "url": "/subject/27121261/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2501549411.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320588/",
+      "name": "陈涛 Tao Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320588/",
+      "name": "陈涛 Tao Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320776/",
+      "name": "白彪 Jason Pai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372916/",
+      "name": "王超北 Chaobei Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "一個被激光追殺的男人，最後殺死的可能只是其中一個自己。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

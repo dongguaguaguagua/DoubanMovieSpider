@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "哀乐女子天团",
+  "url": "/subject/27041519/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2472861613.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373978/",
+      "name": "桑木天 Mutian Sang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365843/",
+      "name": "刘博文 Bowen Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375752/",
+      "name": "郭昱德 Adecho Kwok"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373978/",
+      "name": "桑木天 Mutian Sang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365843/",
+      "name": "刘博文 Bowen Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366329/",
+      "name": "杨小兰 Xiaolan Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343944/",
+      "name": "刘頔 Natas Asoka "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350802/",
+      "name": "尹菲 Fei Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376552/",
+      "name": "叶禹含 Yuhan Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376553/",
+      "name": "陈镜依 Jingyi Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376554/",
+      "name": "谭志玲 Zhiling Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358664/",
+      "name": "秦勇 Yong Qin"
+    }
+  ]
+,
+  "datePublished": "2017-06-30",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H26M",
+  "description": "山山、宫和leo，三个坚持音乐梦想的女孩误打误撞来到殡葬现场，被迫和刘翠、春花同台唱丧。在她们搞砸的葬礼上，女孩们开始发现生死的重量、告别的意义，于是开始认真对待唱丧这件事，五个女孩也从陌生敌意相处成...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6806",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

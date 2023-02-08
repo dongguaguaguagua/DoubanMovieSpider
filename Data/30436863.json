@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夺命网红 Vlog Worthy",
+  "url": "/subject/30436863/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545878996.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1480558/",
+      "name": "卡桑德拉·埃斯坎德尔 Kassandra Escandell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1082980/",
+      "name": "Veronica Ericson Veronica Ericson"
+    }
+  ]
+,
+  "datePublished": "2019-06-19",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H15M",
+  "description": "為了尋求更多的追蹤人數，一名網紅付出的代價竟是自己的生命。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

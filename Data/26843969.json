@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "今晚到你 Tonight It&#39;s You",
+  "url": "/subject/26843969/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2369462565.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348696/",
+      "name": "杰克·罗宾斯 Jake Robbins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277106/",
+      "name": "George Alvarez George Alvarez"
+    }
+  ]
+,
+  "datePublished": "2016-07-15",
+  "genre": ["\u60ca\u609a", "\u6050\u6016", "\u540c\u6027"],
+  "duration": "PT0H18M",
+  "description": "CJ ventures out for a late night hook up when things take a dark turn, leading him into something mu...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "354",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

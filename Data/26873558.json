@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冰霜 Šerkšnas",
+  "url": "/subject/26873558/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2504538534.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023215/",
+      "name": "沙鲁纳斯·巴塔斯 Sharunas Bartas"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023215/",
+      "name": "沙鲁纳斯·巴塔斯 Sharunas Bartas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381596/",
+      "name": "安娜·科恩-耶内 Anna Cohen-Yanay"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078738/",
+      "name": "安杰列·查拉 Andrzej Chyra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381597/",
+      "name": "曼托斯·扬古斯卡斯 Mantas Janciauskas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381598/",
+      "name": "莱佳·马克纳维楚特 Lyja Maknaviciute"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036447/",
+      "name": "凡妮莎·帕拉迪丝 Vanessa Paradis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381599/",
+      "name": "鲍里斯·阿布拉莫夫 Boris Abramov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1179257/",
+      "name": "维罗妮卡·罗萨蒂 Weronika Rosati"
+    }
+  ]
+,
+  "datePublished": "2017-05-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H12M",
+  "description": "罗卡斯勇敢地接受了运送物资的志愿服务。他与女友印加一起，前往饱受战争蹂躏的乌克兰提供人道主义援助。这段旅途漫长而动荡，随着二人不断深入战争腹地，他们的对战争的认知也在不断发生着变化。最后，当真正的战争...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "147",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

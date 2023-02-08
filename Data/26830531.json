@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "特工有麻烦 Ambarsariya",
+  "url": "/subject/26830531/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2364546597.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350253/",
+      "name": "劳伦·戈特利布 Lauren Gottlieb"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1219058/",
+      "name": "古丽·帕那格 Gul Panag"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345081/",
+      "name": "Rana Jung Bahadur Rana Jung Bahadur"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350829/",
+      "name": "凯姆利什·吉尔 Kamlesh Gill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418692/",
+      "name": "迪尔吉特·多桑 Diljit Dosanjh"
+    }
+  ]
+,
+  "datePublished": "2016-03-25",
+  "genre": ["\u559c\u5267", "\u60ca\u609a", "\u97f3\u4e50", "\u5bb6\u5ead"],
+  "duration": "PT2H20M",
+  "description": "A secret agent who is posing as an insurance salesman tries to find an assassin, while also trying t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

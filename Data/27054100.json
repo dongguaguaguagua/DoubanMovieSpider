@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "重返青春期",
+  "url": "/subject/27054100/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2460397917.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374571/",
+      "name": "牛中明 Bruce"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362518/",
+      "name": "费伟妮 Weini Fei"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "本片是现实与校园交织的题材，几个女孩在离开校园几年后的现实中，因为现实的无奈让她们对人生产生妥协后，因为一些事情的契机让他们重拾青春校园时期的壮志豪情，给现实生活增加动力的故事。“影片中没有残忍、阴郁...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

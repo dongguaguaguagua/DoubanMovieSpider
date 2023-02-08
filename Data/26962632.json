@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "RS Rising",
+  "url": "/subject/26962632/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319493/",
+      "name": "蒂莫西·V·墨菲 Timothy V Murphy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164947/",
+      "name": "弗农·威尔斯 Vernon Wells"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1082714/",
+      "name": "Anthony De Longis Anthony De Longis"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

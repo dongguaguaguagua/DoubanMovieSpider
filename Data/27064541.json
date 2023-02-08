@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "险物一号 Danger One",
+  "url": "/subject/27064541/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530521404.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1030959/",
+      "name": "Tom Oesch Tom Oesch"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049663/",
+      "name": "汤姆·艾弗瑞特·斯科特 Tom Everett Scott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344272/",
+      "name": "安吉里卡·希拉娅 Angélica Celaya"
+    }
+  ]
+,
+  "datePublished": "2018-09-14",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H41M",
+  "description": "两名护理人员在把一个垂死的人送到医院的时候，发现他的衣服里缝上了一百万美元的现金。当这个人死了，他们决定保留它，让他们走上地狱般的暴力和混乱之夜",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "106",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

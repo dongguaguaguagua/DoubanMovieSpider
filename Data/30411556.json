@@ -1,0 +1,37 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一个欢乐的圣诞 A Joyous Christmas",
+  "url": "/subject/30411556/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356517/",
+      "name": "艾伦·哈蒙 Allan Harmon"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-11-26",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H23M",
+  "description": "Television Film. Hallmark production.
+A young self-help author returns to her hometown during the Ch...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

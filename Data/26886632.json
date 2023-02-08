@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Psycho Magnet",
+  "url": "/subject/26886632/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2386619023.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1173570/",
+      "name": "Travis Shepherd Travis Shepherd"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H36M",
+  "description": "A small town psychic gets in over her head when she becomes entangled with a local serial killer.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

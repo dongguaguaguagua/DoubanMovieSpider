@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冥界 Nightworld",
+  "url": "/subject/26779294/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2499098872.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011170/",
+      "name": "Patricio Valladares Patricio Valladares"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040502/",
+      "name": "杰森·伦敦 Jason London"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019010/",
+      "name": "罗伯特·英格兰德 Robert Englund"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389746/",
+      "name": "洛丽娜·卡姆布罗瓦 Lorina Kamburova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331612/",
+      "name": "黛安娜·柳贝诺娃 Diana Lyubenova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195460/",
+      "name": "阿塔纳斯·斯雷布雷夫 Atanas Srebrev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349097/",
+      "name": "斯蒂芬·施特雷夫 Stefan Shterev"
+    }
+  ]
+,
+  "datePublished": "2017-10-20",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H32M",
+  "description": "前洛杉矶警察布雷特在保加利亚首都索非亚，担任一栋旧公寓大楼的安保主管。布雷特很快发现了一股邪恶力量，打开了冥界与人类世界的大门……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "752",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

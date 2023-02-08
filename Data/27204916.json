@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天上之爱 Celeste",
+  "url": "/subject/27204916/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2551355697.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011211/",
+      "name": "Ben Hackworth Ben Hackworth"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276121/",
+      "name": "比尔·布朗 Bille Brown"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041109/",
+      "name": "拉达·米切尔 Radha Mitchell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348674/",
+      "name": "托马斯·康奎尔 Thomas Cocquerel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1095073/",
+      "name": "娜迪恩·加纳 Nadine Garner"
+    }
+  ]
+,
+  "datePublished": "2018-08-03",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H45M",
+  "description": "Celeste is a love story set in the tropical splendor of far north Queensland. It is a story of a fam...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

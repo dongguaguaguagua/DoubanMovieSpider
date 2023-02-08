@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "致命重聚 Deadly Reunion",
+  "url": "/subject/26802422/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215199/",
+      "name": "杰伊男爵 Baron Jay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1120393/",
+      "name": "Monica Davis Monica Davis"
+    }
+  ]
+,
+  "datePublished": "2019-05-21",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "When a group of college friends reunite after 10 years, a mysterious outsider traps them in the hous...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

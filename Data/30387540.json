@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奇幻梦之旅",
+  "url": "/subject/30387540/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2540952173.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405513/",
+      "name": "高旭 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405514/",
+      "name": "溶奚 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329270/",
+      "name": "宋睿 Rui Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405513/",
+      "name": "高旭 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405515/",
+      "name": "明星 Xing Ming"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405516/",
+      "name": "温浩哲 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405517/",
+      "name": "许升 "
+    }
+  ]
+,
+  "datePublished": "2018-11-30",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H30M",
+  "description": "成功人士王大河遭人陷害，失去一切。在低迷时，王大河意外遇到了灵魂改命人。他为了弥补年少的遗憾，多次喝下后悔药，重走人生……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "食人俱乐部 O Clube dos Canibais",
+  "url": "/subject/30131325/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545121353.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272910/",
+      "name": " Guto Parente"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272910/",
+      "name": " Guto Parente"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1246493/",
+      "name": " Tavinho Teixeira"
+    }
+  ]
+,
+  "datePublished": "2018-01-27",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H21M",
+  "description": "讲述一对拥有私人保全公司的巴西菁英夫妇，有着专吃自家员工的癖好，是「食人俱乐部」的名人会员，当太太意外发现俱乐部主席同时也是国会议员的秘密，不仅他们悠闲吃人的生活不再，连自身性命都危在旦夕。古托帕连奇...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "467",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

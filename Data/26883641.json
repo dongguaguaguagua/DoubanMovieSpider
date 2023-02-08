@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "网络直播 Webcast",
+  "url": "/subject/26883641/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2503928661.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418681/",
+      "name": "保罗·麦克吉 Paul McGhie"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418681/",
+      "name": "保罗·麦克吉 Paul McGhie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418682/",
+      "name": "克里斯·肖 Chris Shaw"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418680/",
+      "name": "萨曼莎·雷德福 Samantha Redford"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1205064/",
+      "name": "约瑟夫·特雷曼 Joseph Tremain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413374/",
+      "name": "尼科拉·赖特 Nicola Wright"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314296/",
+      "name": "尼古拉斯·莱特 Nicolas Wright"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H35M",
+  "description": "When two young filmmakers suspect their neighbours are involved with the abduction of a teenage girl...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

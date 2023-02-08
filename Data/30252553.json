@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "琼台之恋",
+  "url": "/subject/30252553/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2525583039.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275973/",
+      "name": "李静 Jing Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459747/",
+      "name": "李静 Jing Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u77ed\u7247"],
+  "duration": "PT0H19M",
+  "description": "出身于琼台福地的女主角梦田和男主角陈强的爱情故事。梦田因公司派遣，从上海回到故乡，在重游琼台福地时，邂逅昔日恋人陈强，一段痛苦往事由此被揭开。一段因为误会而结束的感情，如今能否破镜重圆。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

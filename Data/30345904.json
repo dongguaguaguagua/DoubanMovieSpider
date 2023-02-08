@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "浮生一梦",
+  "url": "/subject/30345904/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2536473155.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446859/",
+      "name": "王小明 Wiseman Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463224/",
+      "name": "魏军 "
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "一个渴望成为城市白领的乡村女孩，被不同的男人伤害后，幻想着用身体来报复男性社会。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

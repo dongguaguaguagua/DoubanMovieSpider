@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "白国王 The White King",
+  "url": "/subject/26635373/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2428467633.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024769/",
+      "name": "Jörg Tittel Jörg Tittel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368645/",
+      "name": "Alex Helfrecht Alex Helfrecht"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024769/",
+      "name": "Jörg Tittel Jörg Tittel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368645/",
+      "name": "Alex Helfrecht Alex Helfrecht"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019055/",
+      "name": "乔纳森·普雷斯 Jonathan Pryce"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009364/",
+      "name": "费奥纳·肖 Fiona Shaw"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032826/",
+      "name": "奥拉维尔·达里·奥拉夫松 Ólafur Darri Ólafsson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004699/",
+      "name": "格列塔·斯卡奇 Greta Scacchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1217654/",
+      "name": "克莱尔-霍普·阿什蒂 Clare-Hope Ashitey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005000/",
+      "name": "阿格妮丝·迪恩 Agyness Deyn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010724/",
+      "name": "德雷克·德·林特 Derek de Lint"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134716/",
+      "name": "罗斯·帕特里奇 Ross Partridge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368711/",
+      "name": "Lorenzo Allchurch Lorenzo Allchurch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375376/",
+      "name": "路易斯·苏克 Louis Suc"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H29M",
+  "description": "Djata is a care-free 12-year-old growing up in the dystopian Homeland. When he finds out that his fa...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "107",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

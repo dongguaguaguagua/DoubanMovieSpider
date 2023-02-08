@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "例外 The Exception",
+  "url": "/subject/26417545/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457099589.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1186248/",
+      "name": "大卫·莱维奥 David Leveaux"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354635/",
+      "name": "西蒙·伯克 Simon Burke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377206/",
+      "name": "艾伦·贾德 Alan Judd"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318674/",
+      "name": "莉莉·詹姆斯 Lily James"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036321/",
+      "name": "克里斯托弗·普卢默 Christopher Plummer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045011/",
+      "name": "珍妮·麦克蒂尔 Janet McTeer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324668/",
+      "name": "杰·科特尼 Jai Courtney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1122893/",
+      "name": "安东·莱瑟 Anton Lesser"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018192/",
+      "name": "本·丹尼尔斯 Ben Daniels"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361888/",
+      "name": "马丁·斯威比 Martin Swabey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319600/",
+      "name": "马丁·萨维奇 Martin Savage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377207/",
+      "name": "马克·德克斯特 Mark Dexter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020733/",
+      "name": "克里斯·库彭斯 Kris Cuppens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291072/",
+      "name": "埃迪·马森 Eddie Marsan"
+    }
+  ]
+,
+  "datePublished": "2016-09-12",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H47M",
+  "description": "在二战初期，一位德国军官试图查出荷兰抵抗组织是否派了一名间谍打入威廉二世皇帝在荷兰的公馆中，但他却在调查过程中爱上了一位年轻的犹太人荷兰女子。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1999",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

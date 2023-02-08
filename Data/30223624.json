@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "少年忍师—司徒家1",
+  "url": "/subject/30223624/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2634319145.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332448/",
+      "name": "罗誉 Elly Law"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393320/",
+      "name": "孟月 Frankie Mng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332448/",
+      "name": "罗誉 Elly Law"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344922/",
+      "name": "李芳瑶 Fangyao Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393423/",
+      "name": "陈叶玲 Yeling Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347906/",
+      "name": "杨晓波 Xiaobo Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409300/",
+      "name": "郭美林子 Meilinzi Guo"
+    }
+  ]
+,
+  "datePublished": "2018-09-20",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669", "\u6b66\u4fa0"],
+  "duration": "PT1H30M",
+  "description": "《少年忍师》讲述的是一个充满青春热血、奇幻武侠，侠客忍术等多种元素的故事：
+明朝年间，民间有一批行踪诡谲的神秘武士，他们背后是庞大的忍宗室家族；
+世事变迁，这群神秘武士又突然销声匿迹，而围绕忍宗室传承...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

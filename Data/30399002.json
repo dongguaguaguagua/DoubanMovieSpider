@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死亡之铃 Dead Ringer",
+  "url": "/subject/30399002/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542129035.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036371/",
+      "name": "汤姆·塞兹摩尔 Tom Sizemore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329021/",
+      "name": "卢克·怀特 Luke White"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027192/",
+      "name": "白灵 Ling Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019025/",
+      "name": "丹妮尔·哈丽丝 Danielle Harris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340239/",
+      "name": "宾利·卡鲁 Bentley Kalu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147247/",
+      "name": "西妮塔 Sinitta Renay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444777/",
+      "name": "斯蒂芬·博姆 Stefan Boehm"
+    }
+  ]
+,
+  "datePublished": "2018-09-17",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H40M",
+  "description": "This movie is a modern day version of The Prince And The Pauper where one man from a poor background...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

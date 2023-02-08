@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蓝鲸游戏",
+  "url": "/subject/30129035/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2511768248.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382073/",
+      "name": "葛苏展 Gesry"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387800/",
+      "name": "酒叔 xingliwang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382161/",
+      "name": "张泽晨 ZeChen Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275536/",
+      "name": "赵子琪 Ziqi Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319956/",
+      "name": "赵家林 Jialin Zhao"
+    }
+  ]
+,
+  "datePublished": "2018-09-30",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT1H52M",
+  "description": "一位离职的中年刑警因自己的儿子被一种无形的网络游戏所操控而自杀，为了弄清事情的真相，以身犯险，途中经历了诡异的黑夜幽灵，致命的幻觉毒品加上思想上的完美“洗脑”。不惜牺牲自己解救纷纷误入歧途的少年们。最...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

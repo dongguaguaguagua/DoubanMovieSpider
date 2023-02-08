@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "没有好英雄 No Good Heroes",
+  "url": "/subject/30282678/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2529048221.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1204433/",
+      "name": "Tom Beaver Tom Beaver"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1246394/",
+      "name": "Joe Hammerstone Joe Hammerstone"
+    }
+  ]
+,
+  "datePublished": "2018-07-24",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "",
+  "description": "After living peacefully in the caverns of a small town, a stranded group of aliens turn deadly as th...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "175",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.1"
+  }
+}

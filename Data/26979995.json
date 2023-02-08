@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "充气情人",
+  "url": "/subject/26979995/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2432504474.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424478/",
+      "name": "彭凯 Kai Peng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381252/",
+      "name": "李全 Quan Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414511/",
+      "name": "朱可儿 Ke&#39;er Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435184/",
+      "name": "王波文 Bowen Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476839/",
+      "name": "邹旭峰 Xufeng Zou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446428/",
+      "name": "袁宗轩 Zongxuan Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365242/",
+      "name": "李翰臣 Hanchen Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H14M",
+  "description": "潘金莲（朱可儿 饰）时候，因为对前世的感情放不下，所以一直在阴间徘徊，迟迟不能转世投胎，在一次企图逃跑的时候被钟馗捉住，为了惩罚潘金莲，钟馗给了她十日的期限，让她重返人间自断执念，否则就要她魂飞魄散，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "306",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

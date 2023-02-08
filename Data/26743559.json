@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天使驾到之一夜精喜",
+  "url": "/subject/26743559/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2324140216.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460684/",
+      "name": "刘君 Memory"
+    }
+  ]
+,
+  "datePublished": "2016-03-14",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H0M",
+  "description": "美丽天使运用魔法制造了三盒满是爱意的安全套，分别在情人节这个爱意满满的时间偷偷送给了他们，经过一夜的加温，这三对家庭分别收到了天使的意外惊喜，这个从天而降的“惊喜”带来了一系列令人哭笑不得的喜事！",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "129",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.6"
+  }
+}

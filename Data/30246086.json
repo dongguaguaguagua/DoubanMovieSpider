@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "他是一只狗",
+  "url": "/subject/30246086/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2524690349.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346029/",
+      "name": "孙健 Rose Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399291/",
+      "name": "杨昕雨 Xinyu Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399291/",
+      "name": "杨昕雨 Xinyu Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399295/",
+      "name": "许贵源 Guiyuan Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399292/",
+      "name": "雷璐璐 Lulu Lei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399293/",
+      "name": "多多 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399294/",
+      "name": "武正鉌 Zhenghe Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377006/",
+      "name": "谭佳佳 Jiajia Tan"
+    }
+  ]
+,
+  "datePublished": "2018-08-17",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H31M",
+  "description": "一只流浪狗出现在问题少女阿慧的世界。就在流浪狗即将被宰杀的时候，阿慧救回了流浪狗，取名Lucky。Lucky似乎非同寻常，除了聪明可爱、忠心耿耿，竟然对少女主人产生了特殊的情感。一次次危机时刻，Luc...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

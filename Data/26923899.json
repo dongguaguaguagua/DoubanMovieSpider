@@ -1,0 +1,31 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "电影之狂",
+  "url": "/subject/26923899/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2401487150.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-11-25",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H9M",
+  "description": "张道奇是一个怀有电影梦想的导演，曾拍摄过多部亏钱电影后，一度失去了信任、迷茫，欠下一身债务，总结了很多经验，决定再次出发，于是再次找到了投资他电影的投资商丁总，可是丁总已经再也不相信他的花言巧语，要他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

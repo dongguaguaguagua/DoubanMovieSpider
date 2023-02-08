@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "台妹向前冲",
+  "url": "/subject/30267326/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2527413684.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452395/",
+      "name": "马进达 Chin-Ta Ma"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315324/",
+      "name": "曾少宗 Figaro Tseng"
+    }
+  ]
+,
+  "datePublished": "2018-07-05",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT2H1M",
+  "description": "她是乡下单纯善良，自由生长的野花。年轻貌美，有胆敢闯天下！他是城市冷酷睿智，家教森严的公子英俊多金，前路一片光明！但，一场意外让他们相遇，她顺水推舟，刻意的闯进他的生活！他不以为意，不经意走进了她的心...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

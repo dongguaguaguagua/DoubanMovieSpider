@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "八武将",
+  "url": "/subject/27157737/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2509757271.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426253/",
+      "name": "周仲 Zhong Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318375/",
+      "name": "张天其 Tianqi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392447/",
+      "name": "尹玲 Crystal Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338247/",
+      "name": "潘春春 Chunchun Pan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383953/",
+      "name": "屈浩明 "
+    }
+  ]
+,
+  "datePublished": "2017-12-28",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H15M",
+  "description": "魔术师萨利丹发明召唤器——唤灵之墙，能够召唤出历史上的武将。他因此制定了一场战争游戏，规则是召唤8位历史上著名的武将来到现代社会进行厮杀，2个月内最后活下来的武将将会喝下萨利丹熬制的传世之酒，获得重生...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

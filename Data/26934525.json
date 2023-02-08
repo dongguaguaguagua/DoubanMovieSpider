@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "犯罪现场：为之而活 Tatort - Wofür es sich zu leben lohnt",
+  "url": "/subject/26934525/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2405258373.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011167/",
+      "name": "Aelrun Goette Aelrun Goette"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011167/",
+      "name": "Aelrun Goette Aelrun Goette"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332249/",
+      "name": "Sathyan Ramesh Sathyan Ramesh"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1125692/",
+      "name": "埃娃·马特斯 Eva Mattes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066594/",
+      "name": "塞巴斯蒂安·贝策尔 Sebastian Bezzel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1185271/",
+      "name": "罗兰·科赫 Roland Koch"
+    }
+  ]
+,
+  "datePublished": "2016-12-04",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

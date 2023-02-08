@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "淡蓝琥珀",
+  "url": "/subject/27069377/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2548082317.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381116/",
+      "name": "周劼 Jie Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381116/",
+      "name": "周劼 Jie Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381117/",
+      "name": "赵晓秋 Xiaoqiu Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369159/",
+      "name": "须一瓜 Yigua Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346550/",
+      "name": "王真儿 Zhen&#39;er Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274390/",
+      "name": "吕聿来 Yulai Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274576/",
+      "name": "耿乐 Le Geng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318734/",
+      "name": "张瑶 Yao Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276045/",
+      "name": "王彩平 Caiping Wang"
+    }
+  ]
+,
+  "datePublished": "2018-06-20",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H36M",
+  "description": "故事的女主人公荷洁的丈夫意外死于交通事故，得到赔偿却失去一切亲人的她因为一块价值不菲的琥珀陷入了对生命价值的困惑。她在接连靠近肇事者家庭的失控后终释怀，以温柔姿态接受宿命归属。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4088",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

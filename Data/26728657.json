@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "甜蜜寂寞女孩 Sweet, Sweet Lonely Girl",
+  "url": "/subject/26728657/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2387225759.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028996/",
+      "name": "A.D. Calvo A.D. Calvo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028996/",
+      "name": "A.D. Calvo A.D. Calvo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032482/",
+      "name": "奎恩·谢法德 Quinn Shephard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325940/",
+      "name": "埃林·维赫米 Erin Wilhelmi"
+    }
+  ]
+,
+  "datePublished": "2016-09-22",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H16M",
+  "description": "一群无聊的大学生发动残忍的恶魔一边玩骰子游戏由人体关节。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "236",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

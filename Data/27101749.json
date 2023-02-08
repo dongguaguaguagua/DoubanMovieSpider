@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "作家 El autor",
+  "url": "/subject/27101749/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2618695187.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037783/",
+      "name": "曼纽尔·马丁·昆卡 Manuel Martín Cuenca"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401110/",
+      "name": "哈维尔·塞尔加斯 Javier Cercas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343543/",
+      "name": "亚历杭德罗·埃尔南德斯 Alejandro Hernández"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037783/",
+      "name": "曼纽尔·马丁·昆卡 Manuel Martín Cuenca"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014537/",
+      "name": "哈维尔·古铁雷斯 Javier Gutiérrez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1242899/",
+      "name": "玛利亚·莱昂 María León"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401111/",
+      "name": "阿德尔法·卡尔沃 Adelfa Calvo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311307/",
+      "name": "阿德里安娜·帕兹 Adriana Paz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310331/",
+      "name": "特诺切·韦尔塔 Tenoch Huerta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080650/",
+      "name": "安东尼奥·德·拉·托雷 Antonio de la Torre"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365770/",
+      "name": "克雷格·史蒂文森 Craig Stevenson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390049/",
+      "name": "华金·奥尔特加 Joaquín Ortega"
+    }
+  ]
+,
+  "datePublished": "2017-09-08",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H52M",
+  "description": "阿尔瓦罗（哈维尔·古铁雷斯 Javier Gutiérrez 饰）是在公证处里上班的小小职员，拿着一份非常微博的薪水，常年生活在贫穷之中。虽然生活压力巨大，但是阿尔瓦罗依然怀揣着成为作家的梦想，无奈阿...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1001",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "スーパーモーフィン アイアンレンジャー",
+  "url": "/subject/30036141/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2511355157.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387081/",
+      "name": "内村里菜 Rina Uchimura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387675/",
+      "name": "三岛奈津子 Natsuko Mishima"
+    }
+  ]
+,
+  "datePublished": "2017-03-24",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "PT1H20M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

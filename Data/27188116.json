@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "芭比之海豚魔法 Barbie Dolphin Magic",
+  "url": "/subject/27188116/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2517208121.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053620/",
+      "name": "迈克尔·道格拉斯 Michael Douglas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467364/",
+      "name": "康拉德·海伦 Conrad Helten"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324249/",
+      "name": "珊农·陈-肯特 Shannon Chan-Kent"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369967/",
+      "name": "克莱尔·玛格丽特·克里特 Claire Margaret Corlett"
+    }
+  ]
+,
+  "datePublished": "2017-09-18",
+  "genre": ["\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H3M",
+  "description": "芭比和她的姐妹们在一个阳光普照的岛屿度假胜地度过假期时，一只珍稀的宝石海豚不见了。 她和她神秘的新朋友Isla会找到它吗？ 最重要的是，Isla会与Barbie分享她的隐藏的秘密吗？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "896",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Boyfriend Killer",
+  "url": "/subject/27098228/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2519599536.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027344/",
+      "name": "帕特里克·茂顿 Patrick Muldoon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009339/",
+      "name": "杨茜·巴特勒 Yancy Butler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338332/",
+      "name": "埃里克·阿拉贡 Eric Aragon"
+    }
+  ]
+,
+  "datePublished": "2017-01-08",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT2H0M",
+  "description": "When Preston (22) dies in a car crash, his mother Sandra (40), goes through his social media account...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

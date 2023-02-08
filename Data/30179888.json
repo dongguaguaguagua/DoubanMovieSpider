@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "飘离号 Slipaway",
+  "url": "/subject/30179888/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517415818.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398743/",
+      "name": "伊莲恩·帕特罗 Elaine Partnow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329420/",
+      "name": "杰西·佩佩 Jesse Pepe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176818/",
+      "name": "Alisa Vilena Gerstein Alisa Vilena Gerstein"
+    }
+  ]
+,
+  "datePublished": "2017-02-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "芙奥（伊莲恩·帕特罗 Elaine Partnow 饰）是一个离群索居的孤寡老人，独自生活在一艘帆船上，虽然她整日过着形单影只的生活，但性格却十分的开朗热情。一次偶然中，芙奥结识了名叫亚当（杰西·佩佩...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "313",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

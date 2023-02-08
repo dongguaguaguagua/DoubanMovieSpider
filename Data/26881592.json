@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "作家的洞穴 La madriguera",
+  "url": "/subject/26881592/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2392695172.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210139/",
+      "name": "Francisco Conde Francisco Conde"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1072814/",
+      "name": "克里斯汀娜·卡斯达尼奥 Cristina Castaño"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252743/",
+      "name": "阿德里亚娜·托雷维哈诺 Adriana Torrebejano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1231965/",
+      "name": " Javier Mora"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210139/",
+      "name": "Francisco Conde Francisco Conde"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H42M",
+  "description": "卡洛斯是个自从妻子去世以后就再也离不开家也再也写不出什么东西的犯罪小说家。出版社派了一个助手去他家帮助他写作。卡洛斯将她幻想成自己的亡妻，不想让这第二次爱情的机会溜走，他决定不惜付出一切代价把她留在自...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

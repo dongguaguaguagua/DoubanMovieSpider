@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "功夫四侠",
+  "url": "/subject/26831514/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2404849428.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359893/",
+      "name": "刘邦邦 Bangbang Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359894/",
+      "name": "孙友树 Youshu Sun"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359918/",
+      "name": "李金保 Jinbao Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359893/",
+      "name": "刘邦邦 Bangbang Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359919/",
+      "name": "俞君茹 Junru Yu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359920/",
+      "name": "徐康 Kang Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345272/",
+      "name": "朱蓉蓉 Rongrong Zhu"
+    }
+  ]
+,
+  "datePublished": "2016-12-17",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u513f\u7ae5", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H30M",
+  "description": "电影《功夫四侠》讲述了在一个遥远的神佑之地，风格迥异的四位侠客联手抵制邪恶力量，开启了神秘奇幻之旅的热血故事。
+在一个神佑之地，一个被邪恶侵蚀的国王企图抢夺人鱼族生命之泉获得永生，危难之时独行侠阿凯、...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

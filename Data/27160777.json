@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "24小时契约",
+  "url": "/subject/27160777/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475996/",
+      "name": "范野子 Yezi Fan"
+    }
+  ]
+,
+  "datePublished": "2017-10-01",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H21M",
+  "description": "女大学生依依深陷裸贷风波被迫辍学，在街头偶遇白领张章，回到张章家恰逢其前女友露露回家去东西，依依转身离去。露露发现黑帮老大一笔巨款，将其据为己有，向张章发小关平求助帮她取回在张章家的身份证和护照，关平...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

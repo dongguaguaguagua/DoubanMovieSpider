@@ -1,0 +1,124 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "火花",
+  "url": "/subject/26974725/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2461727054.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012727/",
+      "name": "板尾创路 Itsuji Itao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012727/",
+      "name": "板尾创路 Itsuji Itao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315669/",
+      "name": "丰田利晃 Toyoda Toshiaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338899/",
+      "name": "又吉直树 Naoki Matayoshi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274418/",
+      "name": "菅田将晖 Masaki Suda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006292/",
+      "name": "桐谷健太 Kenta Kiritani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315257/",
+      "name": "木村文乃 Fumino Kimura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391981/",
+      "name": "川谷修士 Shûji Kawatani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1043336/",
+      "name": "三浦诚己 Masaki Miura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348584/",
+      "name": "加藤谅 Ryô Katô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052665/",
+      "name": "高桥努 Tsutomu Takahashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348370/",
+      "name": "日野阳仁 Youjin Hino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035814/",
+      "name": "山崎树范 Shigenori Yamazaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483974/",
+      "name": "田山由起 Yuki Tayama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368152/",
+      "name": "裵明 Jeong Myung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484433/",
+      "name": "岐部公好 Kimiyoshi Kibe"
+    }
+  ]
+,
+  "datePublished": "2017-10-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H1M",
+  "description": "Sparks是一对完全不卖座的青年卖座组合，在某次露天演出中，成员之一德永（菅田将晖 饰）被傻瓜二人组的神谷才藏（桐谷健太 饰）所吸引。神谷同样渴望成名，他空有满脑子的好点子，却始终和这个世界格格不入...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4559",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大鹏戒烟记",
+  "url": "/subject/27157690/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2571806595.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379930/",
+      "name": "张桥梁 Qiaoliang Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1273769/",
+      "name": "杨云 Yun Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318857/",
+      "name": "王光辉 Guanghui Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374908/",
+      "name": "龙馨悦 Xinyue Long"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425889/",
+      "name": "杨云 Yun Yang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT0H20M",
+  "description": "《大鹏戒烟记》讲述了一个幸福的家庭，因吸烟而发生的悲欢离合的故事：父亲老康因多年吸烟致癌离世，儿子康大鹏痛下决心，在妻子小玉的鼓励下，依靠戒烟门诊成功戒烟。微电影直观地再现吸烟对家庭的危害、让烟民引以...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Chakhan eomma",
+  "url": "/subject/30411719/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543564050.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375810/",
+      "name": "真岛薰 Kaoru Majima"
+    }
+  ]
+,
+  "datePublished": "2017-11-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

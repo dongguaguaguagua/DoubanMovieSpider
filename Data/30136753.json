@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无人出名 Nobody Famous",
+  "url": "/subject/30136753/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522747487.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351701/",
+      "name": "莎拉·罗泰拉 Sarah Rotella"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382834/",
+      "name": "阿德里安娜·迪洛纳尔多 Adrianna DiLonardo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382836/",
+      "name": "温妮·克拉克 Winny Clarke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382835/",
+      "name": "贾斯汀·格哈德 Justin Gerhard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410422/",
+      "name": "Evan Giovanni Evan Giovanni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410423/",
+      "name": "Gráinne O&#39;Flynn Gráinne O&#39;Flynn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410424/",
+      "name": "Justine Nelson Justine Nelson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410426/",
+      "name": "Danny Bruzzi Danny Bruzzi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410425/",
+      "name": "Jen Pogue Jen Pogue"
+    }
+  ]
+,
+  "datePublished": "2018-05-25",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "喜剧电影《无人出名》2018 ，故事讲述一群年轻的演员们，假日途中，这群满怀抱负与希望的年轻人里有人发现自己即将一举成名，出演一个轰动的影片角色..这个消息让其他的演员们心生妒忌... 该片由2017...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "114",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

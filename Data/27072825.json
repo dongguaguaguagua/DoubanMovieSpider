@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Own Worst Enemy",
+  "url": "/subject/27072825/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2471957864.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031950/",
+      "name": "詹姆斯·菲尔普斯 James Phelps"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031958/",
+      "name": "奥利弗·菲尔普斯 Oliver Phelps"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1162916/",
+      "name": "马修·沃特斯 Mathew Waters"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "Own Worst Enemy is a pitch black British comedy feature film telling the tale of Andy, an overly fea...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

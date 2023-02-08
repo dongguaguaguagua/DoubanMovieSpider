@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "完美罗曼史 My Perfect Romance",
+  "url": "/subject/30209585/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521069617.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013840/",
+      "name": "朱迪·斯维汀 Jodie Sweetin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041113/",
+      "name": "罗伦·荷莉 Lauren Holly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007042/",
+      "name": "摩根·费尔切尔德 Morgan Fairchild"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014511/",
+      "name": "克里斯托弗·拉塞尔 Christopher Russell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333776/",
+      "name": "金伯利·苏·莫里 Kimberly-Sue Murray"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1213989/",
+      "name": "乔希·迪安 Josh Dean"
+    }
+  ]
+,
+  "datePublished": "2018-02-14",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H31M",
+  "description": "在情人节前夕，一名程序开发人员向新来的 CEO 推销革命性的约会算法，而后者则提出让他俩担当试验对象。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

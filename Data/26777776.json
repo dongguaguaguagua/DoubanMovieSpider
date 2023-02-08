@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "望风警戒 Chouf",
+  "url": "/subject/26777776/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528806638.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014802/",
+      "name": "卡里姆·德里迪 Karim Dridi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014802/",
+      "name": "卡里姆·德里迪 Karim Dridi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358180/",
+      "name": "索菲安·哈米斯 Sofian Khammes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358181/",
+      "name": "富埃·纳布拉 Foued Nabba"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358182/",
+      "name": "奥萨马·阿卜杜勒·阿尔 Oussama Abdul Aal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032485/",
+      "name": "西蒙·阿布卡瑞安 Simon Abkarian"
+    }
+  ]
+,
+  "datePublished": "2016-05-15",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H48M",
+  "description": "“Chouf”在阿拉伯语中是“看”的意思，但它也是马赛贩毒集团守夜人的名字。索菲亚内今年20岁，是一个非常聪明的学生。他回到他出生的地方——马赛贫民区，打算在这度过他的假期。索菲亚内的哥哥，一名毒贩子...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

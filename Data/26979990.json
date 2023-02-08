@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "贞子归来",
+  "url": "/subject/26979990/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2432503378.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476834/",
+      "name": "徐文林 Wenlin Xu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368665/",
+      "name": "苏悦年 Yuenian Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476834/",
+      "name": "徐文林 Wenlin Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446428/",
+      "name": "袁宗轩 Zongxuan Yuan"
+    }
+  ]
+,
+  "datePublished": "2018-05-22",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H48M",
+  "description": "电影《贞子归来》由稻草人影业出品。剧情简介：电影贞子归来讲述抗日战争爆发前，两姐妹贞子和川子随父来到中国，并同时喜欢上一日本男生，出于嫉妒，姐姐川子将妹妹贞子闷死在木箱内，怨气化成厉鬼，多年之后，一学...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

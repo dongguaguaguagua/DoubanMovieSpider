@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "漂流 Drift",
+  "url": "/subject/27132842/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2532741460.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410018/",
+      "name": "海伦娜·维特曼 Helena Wittmann"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410018/",
+      "name": "海伦娜·维特曼 Helena Wittmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410016/",
+      "name": "Theresa George Theresa George"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410016/",
+      "name": "Theresa George Theresa George"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410017/",
+      "name": "Josefina Gill Josefina Gill"
+    }
+  ]
+,
+  "datePublished": "2017-09-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "Two women spend a weekend together at the North Sea. Walks on the beach, fish buns at a snack stand,...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "199",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

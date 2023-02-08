@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "野小子们 Les Garçons sauvages",
+  "url": "/subject/26740543/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2536851432.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383262/",
+      "name": "贝特朗·芒蒂格 Bertrand Mandico"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383262/",
+      "name": "贝特朗·芒蒂格 Bertrand Mandico"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403074/",
+      "name": "保利娜·洛里拉德 Pauline Lorillard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343013/",
+      "name": "维玛拉·庞斯 Vimala Pons"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354322/",
+      "name": "戴安·罗赛尔 Diane Rouxel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403075/",
+      "name": "安纳尔·斯诺克 Anaël Snoek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402743/",
+      "name": "玛蒂尔德·瓦尔尼耶 Mathilde Warnier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395914/",
+      "name": "萨姆·卢维克 Sam Louwyck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1121669/",
+      "name": "埃琳娜·勒文松 Elina Löwensohn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313111/",
+      "name": "娜塔莉·理查德 Nathalie Richard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195365/",
+      "name": "萝拉·克雷顿 Lola Créton"
+    }
+  ]
+,
+  "datePublished": "2017-09-04",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H50M",
+  "description": "法国《电影手册》2018年度期待榜单重点推荐影片之一，影片采用16mm胶片拍摄，具有极致的迷幻色彩，影像超级大胆，故事讲述5个热爱艺术的“野小子”的罪恶之行，让人想到库布里克的《发条橙》，而这5位“野...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5029",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

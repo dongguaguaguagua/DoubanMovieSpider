@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "童年随之而去",
+  "url": "/subject/30232211/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530668136.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322872/",
+      "name": "卢漉 Lu Lu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322872/",
+      "name": "卢漉 Lu Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350161/",
+      "name": "木心 Xin Mu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399147/",
+      "name": "芦展翔 Zhanxiang Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338492/",
+      "name": "崔璨 Can Cui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325181/",
+      "name": "王文娜 Wenna Wang"
+    }
+  ]
+,
+  "datePublished": "2018-08-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H19M",
+  "description": "1936年清明，十岁男孩阿璞随母亲上山祭祖，第一次体会人生中的告别和失去，心灵的磨练与成长就此开始。影片改编自作家木心的同名短篇作品。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1457",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "浪女狂歌 Djam",
+  "url": "/subject/27041760/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497474109.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050171/",
+      "name": "托尼·加列夫 Tony Gatlif"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050171/",
+      "name": "托尼·加列夫 Tony Gatlif"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032485/",
+      "name": "西蒙·阿布卡瑞安 Simon Abkarian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392252/",
+      "name": "达芙妮·帕塔基亚 Daphné Patakia"
+    }
+  ]
+,
+  "datePublished": "2017-05-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "Djam是一位年轻的希腊女孩，他的叔叔Kakourgos是一位老水手，痴迷Rébétiko音乐，请求女孩前往伊斯坦布尔为他寻找修复船只的珍贵零件。她在这里遇到了十八岁的法国女孩Avril。她身无分文，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "134",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

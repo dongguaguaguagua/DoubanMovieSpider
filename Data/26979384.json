@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "宝贝“疯” Baby Phone",
+  "url": "/subject/26979384/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2456605852.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347824/",
+      "name": "梅迪·萨东 Medi Sadoun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007201/",
+      "name": "安·玛丽文 Anne Marivin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336551/",
+      "name": "兰尼克·加特里 Lannick Gautry"
+    }
+  ]
+,
+  "datePublished": "2017-03-08",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

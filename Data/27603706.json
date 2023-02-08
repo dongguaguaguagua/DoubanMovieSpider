@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "剩女斗士",
+  "url": "/subject/27603706/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2507639107.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411462/",
+      "name": "李振飞 Zhenfei Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375885/",
+      "name": "杨婕 Chieh Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327869/",
+      "name": "陈晓雪 Xiaoxue Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411461/",
+      "name": "杨琪芳 Qifang Yang"
+    }
+  ]
+,
+  "datePublished": "2017-12-17",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H12M",
+  "description": "宅女唐可甜与宅男肖张本是游戏里一对恩爱的小情侣，没想到现实中万年不出门的唐可甜一出门就误将出门躲避老妈的肖张认做小偷，不仅苦口婆心的劝解，并且阴差阳错下还放走了真的小偷。游戏里恩爱，游戏外互不相识的两...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

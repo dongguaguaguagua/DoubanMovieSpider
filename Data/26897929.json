@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "勇士之路 Warrior Road",
+  "url": "/subject/26897929/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2391412882.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1170456/",
+      "name": "艾迪·哈塞尔 Eddie Hassell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1230197/",
+      "name": "卡丽莎·卡波比安科 Carissa Capobianco"
+    }
+  ]
+,
+  "datePublished": "2016-12-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "An adventure of the soul. JOSEPH is a young, painfully shy writer in the waterlands of South Carolin...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

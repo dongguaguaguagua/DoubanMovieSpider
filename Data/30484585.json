@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "侠肝义胆",
+  "url": "/subject/30484585/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2871371861.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353433/",
+      "name": "孙传林 Chuanlin Sun"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327104/",
+      "name": "佴文 Wen Nai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318199/",
+      "name": "马骏超 Junchao Ma"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ac\u7591", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H29M",
+  "description": "东厂白督主与宁王勾结，妄图谋朝篡位，崇明和27号发现了蛛丝马迹，却让锦衣卫和锦衣卫指挥使沈大人陷入危险，事情将会如何发展？崇明又将会何去何从？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

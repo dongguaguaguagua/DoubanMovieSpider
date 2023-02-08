@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "曼迪传奇娃娃 Mandy The Haunted Doll",
+  "url": "/subject/27166244/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2519559056.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1120445/",
+      "name": "塔拉·麦高兰 Tara MacGowran"
+    }
+  ]
+,
+  "datePublished": "2017-11-04",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Three burglars will soon realise they are not alone in a manor house when they discover a doll myste...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

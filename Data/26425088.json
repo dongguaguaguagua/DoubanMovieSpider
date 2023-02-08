@@ -1,0 +1,130 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一切都好",
+  "url": "/subject/26425088/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2295237788.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314120/",
+      "name": "张猛 Meng Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341082/",
+      "name": "刘雅 Keyra Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357205/",
+      "name": "宋啸 Xiao Song"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015115/",
+      "name": "张国立 Guoli Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029395/",
+      "name": "姚晨 Chen Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274225/",
+      "name": "窦骁 Shawn Dou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316732/",
+      "name": "叶一云 Qianyun Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313841/",
+      "name": "陈赫 He Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274261/",
+      "name": "贾樟柯 Zhangke Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275554/",
+      "name": "张一白 Yibai Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004773/",
+      "name": "邬君梅 Vivian Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274224/",
+      "name": "周冬雨 Dongyu Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314827/",
+      "name": "王千源 Qianyuan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051526/",
+      "name": "范伟 Wei Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275455/",
+      "name": "张歆艺 Xinyi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274761/",
+      "name": "张译 Yi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415637/",
+      "name": "任溯 Su Ren"
+    }
+  ]
+,
+  "datePublished": "2016-01-01",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H45M",
+  "description": "影片翻拍自意大利电影《天伦之旅》，讲述了一个心系儿女的父亲只身辗转各地，只为探望他那些“自以为是”的“大孩子”们，期间发生了很多令人笑中带泪的故事。 管清（姚晨 饰）虽然在职场上叱咤风云，却在婚姻生活...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "18938",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

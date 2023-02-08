@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "1921",
+  "url": "/subject/27666895/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2521578822.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005483/",
+      "name": "维克拉姆·哈特 Vikram Bhatt"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267282/",
+      "name": "莎任·可汗 Zarine Khan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387790/",
+      "name": "曼吉特·辛格 Manjit Singh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005483/",
+      "name": "维克拉姆·哈特 Vikram Bhatt"
+    }
+  ]
+,
+  "datePublished": "2018-01-12",
+  "genre": ["\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT2H24M",
+  "description": "这部电影以1921年为背景，讲述了阿尤什和罗斯与被诅咒的冷酷灵魂所创造的极端超自然现象相斗争的故事。这场斗争也许会让他们获得最终救赎，也许会让他们走向灭亡。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

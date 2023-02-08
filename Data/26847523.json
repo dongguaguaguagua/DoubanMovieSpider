@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "盲少爷的小女仆",
+  "url": "/subject/26847523/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2370881529.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360847/",
+      "name": "禇会林 Huilin Chu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360853/",
+      "name": "李新雨 Xinyu Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360845/",
+      "name": "冯芷墨 Zhimo Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360846/",
+      "name": "刘泯廷 Minting Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386635/",
+      "name": "金泊含 Bohan Jin"
+    }
+  ]
+,
+  "datePublished": "2016-08-03",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H44M",
+  "description": "女孩阮清恬（冯芷墨 饰）有着十分悲惨的身世，自幼失去了母亲的她过着寄人篱下的生活，继母将她派往名为任浩铭（刘泯延 饰）的总裁身边，成为了照顾他衣食起居的小小助理。任浩铭因为患有眼疾而失去了视力，性格因...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "655",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.3"
+  }
+}

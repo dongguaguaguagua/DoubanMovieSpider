@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "游泳 Schwimmen",
+  "url": "/subject/30319539/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554889052.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401584/",
+      "name": "卢齐厄·卢斯 Luzie Loose"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385421/",
+      "name": "丽莎·维卡里 Lisa Vicari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1087339/",
+      "name": "雅丽珊德拉·芬德 Alexandra Finder"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "Elisa and Anthea support each other through the difficulties of adolescence. But their innocent frie...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

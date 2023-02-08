@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿鼻",
+  "url": "/subject/34777754/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564283575.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439185/",
+      "name": "林志 Zhi Lin"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT2H6M",
+  "description": "一名男子因未知原因被锁在一个废弃的旧电影院。当他醒来时，他发现这里还有另一个人。为什么他们留在这里谁做了这个？这两个人开始寻找答案。在搜索时，他们意识到他们都失去了一些记忆，这是发现真相的关键",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

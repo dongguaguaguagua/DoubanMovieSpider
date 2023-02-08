@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "回家的日子 Isla Blanca",
+  "url": "/subject/30304507/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2537521516.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367557/",
+      "name": "西奥多·佩尔兰 Théodore Pellerin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403001/",
+      "name": "夏洛特·奥宾 Charlotte Aubin"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "玛蒂离家多年，弟弟担负起照顾家中重病母亲的责任。无数的日子过去，玛蒂的房间仍维持原样，时间好似因思念而静止在她离家的那一刻。有天玛蒂突然返家，即便当年的不满情绪依然存在，面对母亲即将不久人世，过往相处...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

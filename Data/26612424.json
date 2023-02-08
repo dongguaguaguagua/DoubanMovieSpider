@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "复仇者 The Revenger",
+  "url": "/subject/26612424/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274906/",
+      "name": "鲁本·弗雷斯彻 Ruben Fleischer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025213/",
+      "name": "托马斯·列农 Thomas Lennon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049815/",
+      "name": "罗伯特·本·加兰特 Robert Ben Garant"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031220/",
+      "name": "连姆·尼森 Liam Neeson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "连姆·尼森将出演动作喜剧片《复仇者》。该片由《僵尸之地》导演鲁本·弗雷斯彻执导，并由环球影业发行。汤玛斯·蓝诺和罗伯特·本·加兰特操刀剧本。两位编剧当属好莱坞的黄金搭档，共同撰写完成过《博物馆奇妙夜》...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

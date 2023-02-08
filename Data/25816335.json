@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "生命速递 Traffic",
+  "url": "/subject/25816335/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2379574551.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292207/",
+      "name": "皮尤什·米什拉 Piyush Mishra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319711/",
+      "name": "苏雷什·奈尔 Suresh Nair"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319670/",
+      "name": "帕拉姆巴拉塔·查特吉 Parambrata Chatterjee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036945/",
+      "name": "吉米·舍尔吉勒 Jimmy Shergill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028101/",
+      "name": "迪维亚·达塔 Divya Dutta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1060895/",
+      "name": "马诺杰·巴杰帕伊 Manoj Bajpai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1073187/",
+      "name": "普罗森吉特· 查特吉 Prasenjit Chatterjee"
+    }
+  ]
+,
+  "datePublished": "2016-05-06",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H44M",
+  "description": "An emotional thriller based on a road trip from Mumbai to Pune. Inspired from the real events that h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

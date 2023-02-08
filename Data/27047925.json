@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "风流刺客",
+  "url": "/subject/27047925/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2459697452.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343945/",
+      "name": "焦洋 Stephen Jiao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343945/",
+      "name": "焦洋 Stephen Jiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401833/",
+      "name": "陈泳旭 Yongxu Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280577/",
+      "name": "陈虎 Tiger Hu Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355105/",
+      "name": "朱佳希 Jiaxi Zhu"
+    }
+  ]
+,
+  "datePublished": "2017-06-09",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u6b66\u4fa0"],
+  "duration": "PT1H30M",
+  "description": "网络大电影《风流刺客》是一部由陈泳旭编剧、焦洋导演的电影作品，影片主要讲述了职业杀手林虎追杀周二，在云岭遇到被王府追杀的沈蓉，二人误认周二为恩人，林虎还立下杀契，结果反复遭到暗算。好在追杀势力到来时，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

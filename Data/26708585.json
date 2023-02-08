@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "福岛之恋 Grüße aus Fukushima",
+  "url": "/subject/26708585/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2382801542.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018434/",
+      "name": "多丽丝·德里 Doris Dörrie"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018434/",
+      "name": "多丽丝·德里 Doris Dörrie"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023974/",
+      "name": "罗莎莉·托马斯 Rosalie Thomass"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002867/",
+      "name": "桃井薰 Kaori Momoi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364648/",
+      "name": "娜美蒲田 Nami Kamata"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364649/",
+      "name": "摩西·科恩 Moshe Cohen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314507/",
+      "name": "入月彩 Aya Irizuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364650/",
+      "name": "娜奥米·卡马拉 Naomi Kamara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364651/",
+      "name": "托马斯·福尔 Thomas Lettow"
+    }
+  ]
+,
+  "datePublished": "2016-03-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H46M",
+  "description": "A young German woman bonds with an elderly Japanese woman while touring the Fukushima region of Japa...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "279",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

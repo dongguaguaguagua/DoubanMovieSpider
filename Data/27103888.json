@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Further Ed",
+  "url": "/subject/27103888/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495392089.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355599/",
+      "name": "乔治·韦伯斯特 George Webster"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355599/",
+      "name": "乔治·韦伯斯特 George Webster"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355642/",
+      "name": "乔什·坎贝尔 Josh Campbell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384061/",
+      "name": "苏菲·里德 Sophie Reid"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H33M",
+  "description": "A young, vibrant, character driven comedy set against the backdrop of a British University. Two stud...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

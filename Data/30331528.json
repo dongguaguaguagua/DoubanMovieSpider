@@ -1,0 +1,31 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Bloom",
+  "url": "/subject/30331528/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT0H5M",
+  "description": "寒冷的冬季一个巨人来到树林里看望一位老妇人，老妇人孤独地生活在自己的小木屋里，巨人帮助老妇人在这寒冷的冬季获得一片温暖。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

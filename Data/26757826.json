@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "花芯",
+  "url": "/subject/26757826/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2378200165.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018918/",
+      "name": "安藤寻 Hiroshi Ando"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047937/",
+      "name": "濑户内寂听 Harumi Setouchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333027/",
+      "name": "黑泽久子 Hisako Kurosawa"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315880/",
+      "name": "村川绘梨 Eri Murakawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038106/",
+      "name": "林遣都 Kento Hayashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045426/",
+      "name": "安藤政信 Masanobu Andô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323638/",
+      "name": "藤本泉 Izumi Fujimoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315181/",
+      "name": "落合扶树 Motoki Ochiai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353121/",
+      "name": "奥野瑛太 Eita Okuno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003182/",
+      "name": "毬谷友子 Tomoko Mariya"
+    }
+  ]
+,
+  "datePublished": "2016-08-06",
+  "genre": ["\u5267\u60c5", "\u60c5\u8272"],
+  "duration": "PT1H35M",
+  "description": "在父母亲的安排之下，园子（村川绘梨 饰）嫁给了名为雨宫（林遣都 饰）的青年，从此告别了少女时代，步入了家庭主妇的行列。然而，园子的内心里对于雨宫没有丝毫的感情，她的丈夫对于她来说，不过是和自己住在同一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "7493",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超速驾驶 Overdrive",
+  "url": "/subject/6529890/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457160959.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1128712/",
+      "name": "安东尼奥·奈格列 Antonio Negret"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027578/",
+      "name": "迈克尔·布拉德特 Michael Brandt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009697/",
+      "name": "德里克·哈斯 Derek Haas"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000188/",
+      "name": "斯科特·伊斯特伍德 Scott Eastwood"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363759/",
+      "name": "弗莱迪·索普 Freddie Thorp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045259/",
+      "name": "安娜·德·阿玛斯 Ana de Armas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336776/",
+      "name": "盖娅·威斯 Gaia Weiss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032485/",
+      "name": "西蒙·阿布卡瑞安 Simon Abkarian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320236/",
+      "name": "克雷蒙斯·施伊克 Clemens Schick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275901/",
+      "name": "亚伯拉罕·布拉甲 Abraham Belaga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328913/",
+      "name": "安娜斯·莫诺里 Anaïs Monory"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290586/",
+      "name": "茂萨·马斯克里 Moussa Maaskri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1480636/",
+      "name": "莱斯特·马克登斯基 Lester Makedonsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482053/",
+      "name": "让-克洛德·拉格尼兹 Jean-Claude Lagniez"
+    }
+  ]
+,
+  "datePublished": "2017-06-15",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u72af\u7f6a", "\u5192\u9669"],
+  "duration": "PT1H33M",
+  "description": "今日，据外媒报道，曾主演《最长的旅程》的当红小生斯科特·伊斯特伍德即将主演一部新动作片《Overdrive》。影片将由《飓风营救》的导演皮埃尔·莫瑞尔担任制作人，并将在多伦多国际电影节上寻找买家。 影...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2622",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的女儿 Figlia mia",
+  "url": "/subject/26892545/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2514853357.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355038/",
+      "name": "劳拉·比斯普里 Laura Bispuri"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355038/",
+      "name": "劳拉·比斯普里 Laura Bispuri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372675/",
+      "name": "弗朗塞斯卡·马尼里 Francesca Manieri"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027247/",
+      "name": "瓦莱丽亚·戈利诺 Valeria Golino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1259070/",
+      "name": "阿尔芭·罗尔瓦赫尔 Alba Rohrwacher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390976/",
+      "name": "撒拉·卡苏 Sara Casu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027867/",
+      "name": "乌多·基尔 Udo Kier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395449/",
+      "name": "米歇尔·卡尔博尼 Michele Carboni"
+    }
+  ]
+,
+  "datePublished": "2018-02-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "影片讲述了一个女儿在两位母亲之间的撕裂与挣扎的故事，一位是用爱抚养她成长的养母Tina、，另一个则是与她有着血缘关系的亲生母亲Angelica。三个人因爱与伤痛而产生了纽带关系，但被爱围困的女儿究竟该...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "323",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

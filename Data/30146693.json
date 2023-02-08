@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神奇奥妙或卡尔施密特的回归 Magical Mystery oder die Rückkehr des Karl Schmidt",
+  "url": "/subject/30146693/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534857159.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418521/",
+      "name": "阿尔内·菲尔杜森 Arne Feldhusen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015345/",
+      "name": "斯文·雷根纳 Sven Regener"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1201328/",
+      "name": "查理·哈纳 Charly Hübner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037184/",
+      "name": "德特勒夫·布克 Detlev Buck"
+    }
+  ]
+,
+  "datePublished": "2017-08-31",
+  "genre": ["\u559c\u5267", "\u97f3\u4e50"],
+  "duration": "PT1H51M",
+  "description": "Hamburg in the mid-1990s: following a breakdown and a stay in a psychiatric ward, Charly Schmidt liv...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

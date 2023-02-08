@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "逃亡 The Escape",
+  "url": "/subject/26908009/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2519119226.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296755/",
+      "name": "多米尼克·塞维奇 Dominic Savage"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296755/",
+      "name": "多米尼克·塞维奇 Dominic Savage"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016670/",
+      "name": "杰玛·阿特登 Gemma Arterton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017901/",
+      "name": "多米尼克·库珀 Dominic Cooper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061705/",
+      "name": "弗兰西斯·巴贝 Frances Barber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004984/",
+      "name": "玛尔特·克勒尔 Marthe Keller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050468/",
+      "name": "加里·勒斯培 Jalil Lespert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022814/",
+      "name": "蒙特瑟拉特·朗巴德 Montserrat Lombard"
+    }
+  ]
+,
+  "datePublished": "2017-09-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "Tara热爱家庭，但总感觉被束缚，无法使生活充实。家人和朋友对于她的沮丧情绪并没有给予回应和帮助，Tara决定离开丈夫和孩子，开启发现自我的旅程。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "317",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

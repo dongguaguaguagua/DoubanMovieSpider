@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Great Grand Masti",
+  "url": "/subject/26882618/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2571437501.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319880/",
+      "name": "吐沙·希拉南达尼 Tushar Hiranandani"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339619/",
+      "name": "玉尔娃希.拉吾塔拉 Urvashi Rautela"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343779/",
+      "name": "印德拉妮·查克拉博迪 Indrani Chakraborty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292208/",
+      "name": "桑杰·米什拉 Sanjay Mishra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424455/",
+      "name": "普佳·玻色 Puja Bose"
+    }
+  ]
+,
+  "datePublished": "2016-07-15",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H14M",
+  "description": "Amar, Meet and Prem go into a small town where they encounter a &#39;femme fatale&#39; in the form of Ragini...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

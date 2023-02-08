@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "筹款风波 زرد",
+  "url": "/subject/27042494/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2562428199.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375266/",
+      "name": "穆斯塔法·塔吉扎德赫 Mostafa Taghizadeh"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375266/",
+      "name": "穆斯塔法·塔吉扎德赫 Mostafa Taghizadeh"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314287/",
+      "name": "萨瑞·巴亚特 Sareh Bayat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1219891/",
+      "name": "巴哈拉姆·拉丹 Bahram Radan"
+    }
+  ]
+,
+  "datePublished": "2017-06-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "萨哈伯、纳哈尔、哈麦德等五人在科学领域天赋异禀，并且已经拥有了一项发明专利，正准备从伊朗移民到欧洲。然而就在他们即将前往意大利时，哈麦德突然因病昏迷，急需做肝脏移植手术。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "216",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

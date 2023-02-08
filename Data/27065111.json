@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "咏春女孩",
+  "url": "/subject/27065111/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2514855746.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316212/",
+      "name": "徐冬梅 Dongmei Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353673/",
+      "name": "许景媛 Jingyuan Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328771/",
+      "name": "罗曼雅 Manya Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390384/",
+      "name": "赵泓晨 Hongchen Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380028/",
+      "name": "毛翔宇 Xiangyu Mao"
+    }
+  ]
+,
+  "datePublished": "2017-09-18",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H31M",
+  "description": "3个女孩与1个男孩都是同一家公司的。女孩们是保镖，男孩则是负责电脑控制、跟踪定位器的技术主管。为了执行各种任务，几人之间发生了一系列惊险、离奇、可笑的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "极乐 The Bliss",
+  "url": "/subject/30327806/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534596247.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481929/",
+      "name": "詹姆斯·贝尔 James Bell"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-09-15",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "提托与鸟儿们 Tito e os Pássaros",
+  "url": "/subject/30309270/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553041869.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014405/",
+      "name": "马修斯·纳克加勒 Matheus Nachtergaele"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1081127/",
+      "name": "丹妮斯·弗拉加 Denise Fraga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1212955/",
+      "name": "马德伍斯·索兰诺 Mateus Solano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1056596/",
+      "name": "Otávio Augusto Otávio Augusto"
+    }
+  ]
+,
+  "datePublished": "2018-06-11",
+  "genre": ["\u5267\u60c5", "\u52a8\u753b", "\u5947\u5e7b"],
+  "duration": "PT1H13M",
+  "description": "提托是个害羞的十岁男孩，和母亲住在一起。突然间，一种闻所未闻的流行病开始蔓延——人们只要感到恐惧，就会生病。疫情蔓延全城，社会陷入恐慌之中，传染病愈发肆虐。提托很快发现这种病的治疗方法与他失踪的父亲对...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "418",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

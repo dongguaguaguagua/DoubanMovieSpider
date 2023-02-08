@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "意识入侵",
+  "url": "/subject/27160723/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2501675097.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1458471/",
+      "name": "郑安坚 Anjian Zheng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476834/",
+      "name": "徐文林 Wenlin Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465728/",
+      "name": "武阳 Yang Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327684/",
+      "name": "祝涛 Tao Zhu"
+    }
+  ]
+,
+  "datePublished": "2017-04-15",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "心理学教授孟逸飞在女儿生命危险之际，利用自己的意识疗法挽救女儿，却不料意识对接后，孟逸飞反而坠入了女儿更深层次的潜意识当中。经过数次的努力，孟逸飞才最终挽救回女儿的生命。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

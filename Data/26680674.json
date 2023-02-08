@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神探阿飞之完美杀手",
+  "url": "/subject/26680674/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2397641975.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352992/",
+      "name": "赵国燕王 Yan Zhao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352992/",
+      "name": "赵国燕王 Yan Zhao"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT1H31M",
+  "description": "神探阿飞因一场绑架案发现一件惊天大案",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

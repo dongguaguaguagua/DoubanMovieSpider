@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "#funnyFACE",
+  "url": "/subject/30326133/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534156870.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1266537/",
+      "name": "Marcel Walz Marcel Walz"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-12-03",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H15M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

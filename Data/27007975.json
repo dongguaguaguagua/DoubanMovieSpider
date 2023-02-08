@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "关于爱 О любви",
+  "url": "/subject/27007975/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2453093028.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045703/",
+      "name": "弗拉基米尔·博尔特科 Vladimir Bortko"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045703/",
+      "name": "弗拉基米尔·博尔特科 Vladimir Bortko"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332854/",
+      "name": "安娜·奇波夫斯卡娅 Anna Chipovskaya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132417/",
+      "name": "德米特里·佩夫佐夫 Dmitriy Pevtsov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176579/",
+      "name": "阿雷克西·查多夫 Aleksey Chadov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124564/",
+      "name": "玛丽亚·米罗诺娃 Mariya Mironova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1121405/",
+      "name": "亚历山大·里科夫 Aleksandr Lykov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002187/",
+      "name": "恩斯特·罗曼诺夫 Ernst Romanov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474833/",
+      "name": "尼基塔·巴尔苏科夫 Nikita Barsukov"
+    }
+  ]
+,
+  "datePublished": "2017-03-23",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H37M",
+  "description": "妮娜（安娜·车波夫斯卡 Anna Chipovskaya 饰）和丈夫亚历山大（阿雷克西·查多夫 Aleksei Chadov 饰）之间的感情非常要好，两个人一个拥有美丽的样貌，一个拥有丰富的学识，他们...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3623",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

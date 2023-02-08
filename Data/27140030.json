@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心动之夜 밤치기",
+  "url": "/subject/27140030/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512407250.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377726/",
+      "name": "郑佳映 Ga-young Jeong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377726/",
+      "name": "郑佳映 Ga-young Jeong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1485115/",
+      "name": "邢瑟佑 Hyung Seul-woo"
+    }
+  ]
+,
+  "datePublished": "2018-11-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "韓國女導演鄭佳映繼《Bitch On the Beach》後再度自導自演，引用和朋友之間的親身經歷，以男女不同的思考模式與心理攻防為主調，加入《春逝》的想像橋段，談談情、說說性，用輕鬆黑色幽默的手法探...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

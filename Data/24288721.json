@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Captured",
+  "url": "/subject/24288721/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2454911112.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1200506/",
+      "name": "布莱特妮·柯伦 Brittany Curran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027214/",
+      "name": "克丽斯滕·齐恩 Kirsten Zien"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

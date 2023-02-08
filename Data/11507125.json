@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "远山在呼唤",
+  "url": "/subject/11507125/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2327279534.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325285/",
+      "name": "杨渡 Du Yang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323831/",
+      "name": "侯骏桀 Junjie Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325177/",
+      "name": "杨玥 Yue Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318456/",
+      "name": "赵彦民 Yanmin Zhao"
+    }
+  ]
+,
+  "datePublished": "2016-03-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "电影《远山在呼唤》讲述的是“文革”后期发生在深山道班两个养路人和逃亡少女之间的感人故事，由中国国际文艺家协会副主席远山担任导演，赵彦民、侯骏桀、任晗联合主演。影片将巧妙地通过三个人物在深山里产生的情感...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

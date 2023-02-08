@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海吉拉",
+  "url": "/subject/30242164/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2524187708.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390326/",
+      "name": "蔡宓洁 Mi-chieh Tsai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357629/",
+      "name": "邵慧婷 Hui-ting Shao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364539/",
+      "name": "许光汉 Greg Hsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351444/",
+      "name": "姚爱寗 Pi Pi Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377290/",
+      "name": "林意箴 Diane Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365036/",
+      "name": "焦曼婷 Manting Chiao"
+    }
+  ]
+,
+  "datePublished": "2018-06-10",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H23M",
+  "description": "面对不可抵抗的改变后，自己究竟是她？还是他？
+两个性格迥异的女性却意外成了最好的姐妹——何希真、刘宛婷，他们同时喜欢上文棠生，但其实文棠生早就注意到刘宛婷，在好友希真的让步下，婉婷跟棠生进入交往，三人...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "61261",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

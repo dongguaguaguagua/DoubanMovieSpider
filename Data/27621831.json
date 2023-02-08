@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Algo Muy Gordo",
+  "url": "/subject/27621831/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509712305.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247131/",
+      "name": "哈维尔·博泰特 Javier Botet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330859/",
+      "name": "卡洛斯·阿雷塞斯 Carlos Areces"
+    }
+  ]
+,
+  "datePublished": "2017-11-04",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "The star of SOMETHING HUGE, Berto Romero, after years of success in film &amp; TV wants to explore &#39;a ne...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

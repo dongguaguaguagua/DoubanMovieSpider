@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "保卫养老院",
+  "url": "/subject/26971182/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2797476246.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344116/",
+      "name": "朱时春 Shichun Zhu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354407/",
+      "name": "昃文江 Wenjiang Ze"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318179/",
+      "name": "姚居德 Jude Yao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "张大河违反合同，要将村养老院改为农家乐。老人们各寻住所，只剩孤寡老人“树爷”。为逼走树爷，张大河歪招频出。树爷见招拆招，带领大家通过审查，得到政府资助，保住养老院，并帮被人诈骗的张大河走出了困境。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

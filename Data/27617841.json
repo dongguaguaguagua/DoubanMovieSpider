@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "合约情侣",
+  "url": "/subject/27617841/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477714/",
+      "name": "赵毅然 zhao yiran"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-12-30",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H29M",
+  "description": "王萧和好友沈丑合伙开了一个男友租赁公司，一对好朋友严甜和小青分别怀着不同的目的前来租赁男友，严甜租了王萧，小青租了沈丑。沈丑在网上认识了一个女孩子黄海燕，让他没想到的是，黄海燕是个酒托，害沈丑上当受骗...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

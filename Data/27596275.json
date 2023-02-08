@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的跨年之婚 Shaadi Mein Zaroor Aana",
+  "url": "/subject/27596275/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2506702104.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430290/",
+      "name": "阿比吉特·辛格 Abhijeet Singh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470334/",
+      "name": "卡兰维尔·沙尔马 Karanvir Sharma"
+    }
+  ]
+,
+  "datePublished": "2017-11-10",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT2H17M",
+  "description": "Satyendra aka Sattu (Rajkummar Rao) and Aarti (Kriti Kharbanda) meet for a proposed arranged marriag...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

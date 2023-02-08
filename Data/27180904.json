@@ -1,0 +1,38 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拐点",
+  "url": "/subject/27180904/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503264287.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417876/",
+      "name": "雷丹 Dan Lei"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-10-25",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H10M",
+  "description": "本片根据郑州市公安局高新区公安分局，打击拐卖妇女儿童犯罪专项斗争中广泛展开的众多真实案例进行改编。
+一次成功“帮助处理”婴儿事件，使得赵宝刚深陷犯罪深渊而不自觉，手段也越来越有套路…
+事情败露，宝刚逃...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

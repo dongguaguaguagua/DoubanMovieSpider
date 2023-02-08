@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱情客人 L&#39;ospite",
+  "url": "/subject/30276447/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528425098.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422495/",
+      "name": "Duccio Chiarini Duccio Chiarini"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422495/",
+      "name": "Duccio Chiarini Duccio Chiarini"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H44M",
+  "description": "A bitter-sweet late coming of age about the problems of modern-day love.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

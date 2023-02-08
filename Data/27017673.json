@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "犬舍惊魂 Dogman",
+  "url": "/subject/27017673/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520156309.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028035/",
+      "name": "马提欧·加洛尼 Matteo Garrone"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008366/",
+      "name": "乌戈·奇蒂 Ugo Chiti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028035/",
+      "name": "马提欧·加洛尼 Matteo Garrone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284619/",
+      "name": "马西莫·高迪奥索 Massimo Gaudioso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411193/",
+      "name": "达米亚诺·迪诺森佐 Damiano D&#39;Innocenzo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393496/",
+      "name": "马尔切洛·丰特 Marcello Fonte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401449/",
+      "name": "爱德华多·佩谢 Edoardo Pesce"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328549/",
+      "name": "农齐娅·斯基亚诺 Nunzia Schiano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392604/",
+      "name": "亚当·迪奥尼西 Adamo Dionisi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401450/",
+      "name": "弗朗西斯科·阿克夸利 Francesco Acquaroli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401451/",
+      "name": "阿利达·巴尔达里·卡拉布里亚 Alida Baldari Calabria"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328546/",
+      "name": "阿涅洛·阿雷纳 Aniello Arena"
+    }
+  ]
+,
+  "datePublished": "2018-05-16",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H42M",
+  "description": "一个平凡的意大利小镇上，中年男子马塞洛开着一家名为“dogman”的宠物清洁店。马塞洛是一个好人，他尊重弱小，认真工作，在友人邻里中有着不错的人缘。虽然女儿跟随前妻生活，但他依然和女儿保持着良好的父女...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6020",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

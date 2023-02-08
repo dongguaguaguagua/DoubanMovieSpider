@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "最后的传说 The Last Fiction",
+  "url": "/subject/26834201/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2365882540.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286212/",
+      "name": "蕾拉·哈塔米 Leila Hatami"
+    }
+  ]
+,
+  "datePublished": "2017-08-01",
+  "genre": ["\u52a8\u753b", "\u5386\u53f2", "\u6218\u4e89"],
+  "duration": "PT2H0M",
+  "description": "与地狱世界进行了一场战斗之后，波斯国王决心将恶魔铲除，他将王位赐予了王子Zahak。然而邪恶的一面在Zahak的灵魂中再现，铁匠Kaveh为此发起了革命，这场光明与黑暗的战役谁能获得胜利呢？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

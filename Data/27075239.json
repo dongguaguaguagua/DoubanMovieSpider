@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "欢喜拍档",
+  "url": "/subject/27075239/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498304048.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381532/",
+      "name": "金利军 Joyxh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429640/",
+      "name": "沐泽 Ze Mu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403125/",
+      "name": "柴陆 Lu Chai"
+    }
+  ]
+,
+  "datePublished": "2017-09-08",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H20M",
+  "description": "影片讲述了两个小人物二宝和三宝，因偶然参演了一部抗日神剧，从陕西农村一路追到广州寻找剧组而发生的令人捧腹又笑中带泪的故事。
+一心想成为世界赌王的二宝（李璐兵饰），和视周星驰为偶像的三宝（柴陆饰），因偶...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

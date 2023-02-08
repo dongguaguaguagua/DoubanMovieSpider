@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猫妖 Pyewacket",
+  "url": "/subject/27113766/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517491917.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118065/",
+      "name": "亚当·麦克唐纳 Adam MacDonald"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118065/",
+      "name": "亚当·麦克唐纳 Adam MacDonald"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016615/",
+      "name": "梅西·帕瑞格兰 Missy Peregrym"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036452/",
+      "name": "劳瑞·侯登 Laurie Holden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308605/",
+      "name": "妮可·穆尼奥斯 Nicole Muñoz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352950/",
+      "name": "埃里克·奥斯本 Eric Osborne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116108/",
+      "name": "詹姆斯·麦克格温 James McGowan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1143744/",
+      "name": "维多利亚·桑切斯 Victoria Sanchez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244022/",
+      "name": "尼尔·怀特利 Neil Whitely"
+    }
+  ]
+,
+  "datePublished": "2017-09-11",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "一个沮丧,不安的少女在森林某处醒来,她天真地举行一项神秘的宗教仪式,想要召唤一个女巫杀死她的母亲。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "397",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.2"
+  }
+}

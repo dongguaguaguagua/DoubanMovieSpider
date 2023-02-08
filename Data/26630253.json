@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杰克回家了 Jack Goes Home",
+  "url": "/subject/26630253/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2376448336.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013771/",
+      "name": "托马斯·戴克 Thomas Dekker"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013771/",
+      "name": "托马斯·戴克 Thomas Dekker"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000088/",
+      "name": "布丽特·罗伯森 Britt Robertson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000096/",
+      "name": "娜塔莎·雷昂 Natasha Lyonne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044705/",
+      "name": "妮基·瑞德 Nikki Reed"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022643/",
+      "name": "黛维·切斯 Daveigh Chase"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276530/",
+      "name": "林·沙烨 Lin Shaye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009278/",
+      "name": "罗瑞·卡尔金 Rory Culkin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316079/",
+      "name": "路易斯·亨特 Louis Hunter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341422/",
+      "name": "迈克尔·希罗 Michael Sirow"
+    }
+  ]
+,
+  "datePublished": "2016-10-14",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H40M",
+  "description": "在父亲于一场车祸中丧生后，杰克回到故乡卡罗拉多照顾他在车祸中受伤的母亲。在那里，他渐渐发现有关家族被埋藏许久的秘密，关于他的家人、朋友甚至他自己真正的身份。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "104",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "梭哈人生",
+  "url": "/subject/27156899/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2512233323.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321907/",
+      "name": "郑来志 Laizhi Zheng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321907/",
+      "name": "郑来志 Laizhi Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385398/",
+      "name": "孙天禾 Tianhe Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385399/",
+      "name": "吕杰 Jie Lü"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323815/",
+      "name": "谭佑铭 Youming Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314249/",
+      "name": "施予斐 Yufei Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329785/",
+      "name": "赵樱子 Yingzi Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315195/",
+      "name": "孟智超 Zhichao Meng "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358960/",
+      "name": "李林轩 Linxuan Li"
+    }
+  ]
+,
+  "datePublished": "2018-01-30",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "一个来自乡间的男人在经历失业、身无分文、女友出走的变故后，是意志消沉下去还是选择迎刃而上改变现状？重新找到工作后女上司的刁难、男同事的半路截单是否会把他击倒，在这座城市旧爱与新欢、回家和创业又如何选择...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "602",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

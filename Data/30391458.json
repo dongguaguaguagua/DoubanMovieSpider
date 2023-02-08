@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "午夜废墟",
+  "url": "/subject/30391458/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2556153951.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345666/",
+      "name": "胡韵 Yun Hu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389580/",
+      "name": "张圣岳 Shengyue Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350800/",
+      "name": "常奕然 Yiran Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350864/",
+      "name": "刘俊峰 Junfeng Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354039/",
+      "name": "曾漪莲 Yilian Zeng"
+    }
+  ]
+,
+  "datePublished": "2019-05-24",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H31M",
+  "description": "落魄画家成子皓被旧日好友苏菲叫去调查话剧社后辈们排练《夜半歌声》时频频出现的诡异事件，这也是他们当年曾经排练过的剧目，同时也是他心中挥之不去的隐痛，是他所有噩梦的源泉。调查过程中波折不断，甚至把成子皓...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

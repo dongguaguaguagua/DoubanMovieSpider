@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "惊天大翻盘",
+  "url": "/subject/25890925/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494894187.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314644/",
+      "name": "段国云 Guoyun Duan"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315294/",
+      "name": "赵奕欢 Yihuan Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275275/",
+      "name": "王姬 Ji Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325661/",
+      "name": "高丽雯 Liwen Gao"
+    }
+  ]
+,
+  "datePublished": "2017-07-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H52M",
+  "description": "该片是以现在的 商界奇才“史玉柱”为原型人物的创业 故事进行多次改编而成。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

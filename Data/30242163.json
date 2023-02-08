@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "少女picaresque 少女ピカレスク",
+  "url": "/subject/30242163/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527345169.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012557/",
+      "name": "井口升 Noboru Iguchi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012557/",
+      "name": "井口升 Noboru Iguchi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352221/",
+      "name": "椎名光 Hikari Shina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364341/",
+      "name": "长泽茉里奈 Marina Nagasawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327841/",
+      "name": "上坂堇 Sumire Uesaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349300/",
+      "name": "武田玲奈 Rena Takeda"
+    }
+  ]
+,
+  "datePublished": "2018-06-23",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H19M",
+  "description": "以自拍为题材的内心被黑暗吞噬的偶像们的形象。梦想成为顶级偶像的新人偶像的小光（椎名光 饰），为了让大家知道自己的存在，通过直播每天都与粉丝展开了密切的交流。有一天，她在新曲的PV拍摄中与作为舞者参加的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

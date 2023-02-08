@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "救赎之路 Landgericht",
+  "url": "/subject/26951711/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456751318.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005811/",
+      "name": "马蒂亚斯·格拉斯纳 Matthias Glasner"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310640/",
+      "name": "海德·施瓦霍夫 Heide Schwochow"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314667/",
+      "name": "伊恩·麦克尔希尼 Ian McElhinney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328162/",
+      "name": "莎卡亚·瑞丝 Saskia Reeves"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282399/",
+      "name": "凯特·迪基 Kate Dickie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372751/",
+      "name": "菲利克斯·克莱尔 Felix Klare"
+    }
+  ]
+,
+  "datePublished": "2017-01-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT3H23M",
+  "description": "1938年的柏林，纳粹对犹太人实行了严苛的政策。犹太人理查德和他的德国妻子克莱尔将一双儿女通过犹太儿童保护组织送到了英国北部。随后，理查德拿到一张移民证，离开妻子来到古巴，开始了新的生活，却留克莱尔独...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "71",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.1"
+  }
+}

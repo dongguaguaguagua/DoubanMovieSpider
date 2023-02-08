@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "隐居者 Die Einsiedler",
+  "url": "/subject/26845014/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2501981870.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387892/",
+      "name": "罗尼·托克 Ronny Trocker"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387892/",
+      "name": "罗尼·托克 Ronny Trocker"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316111/",
+      "name": "安德烈·鲁斯特 Andreas Lust"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1072574/",
+      "name": "英格里德·布尔克哈德 Ingrid Burkhard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118244/",
+      "name": "Peter Mitterrutzner Peter Mitterrutzner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1095745/",
+      "name": "汉斯·皮特·哈尔瓦赫斯 Hans Peter Hallwachs"
+    }
+  ]
+,
+  "datePublished": "2016-09-02",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "提名威尼斯电影节地平线单元最佳影片的《隐居者》于10月12日登陆德国院线。这部导演处女作展现了阿尔卑斯高山农场里远离喧嚣城市的生活图景：由于担心儿子因山区的寂寞而崩溃，母亲向儿子阿尔伯特隐瞒其父亲的离...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "171",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

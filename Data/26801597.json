@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海伦娜的手提包 Helena Handbag",
+  "url": "/subject/26801597/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022587/",
+      "name": "凯文·史密斯 Kevin Smith"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022587/",
+      "name": "凯文·史密斯 Kevin Smith"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u753b"],
+  "duration": "",
+  "description": "Mankind teams up with Hell to save existence from extinction at the hands of a rapturing giant Jesus...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "十步杀",
+  "url": "/subject/30198701/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2797592927.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320889/",
+      "name": "高博 Bo Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403142/",
+      "name": "丁旸明 Yangming Ding"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434637/",
+      "name": "张晓飞 Xiaofei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325825/",
+      "name": "李欣颖 Xinying Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391216/",
+      "name": "郑锡龙 Xilong Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334491/",
+      "name": "叶鹏 Peng Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318313/",
+      "name": "韩月乔 Yueqiao Han"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "影片讲述了宋朝年间，侠盗关炼被判死刑，总捕头陆钦，有感于关炼的孝道和救母之恩，私放其回乡探母，约定七日后关炼返回监牢伏法收刑的故事。在这七日之中，关炼和陆钦都面临着重重杀机和内心挣扎的双重考验。本片传...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

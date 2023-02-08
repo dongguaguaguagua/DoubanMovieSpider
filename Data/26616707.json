@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "格陵兰之旅 Le voyage au Groenland",
+  "url": "/subject/26616707/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2399758941.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015725/",
+      "name": "塞巴斯蒂安·贝蓓德 Sébastien Betbeder"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015725/",
+      "name": "塞巴斯蒂安·贝蓓德 Sébastien Betbeder"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272412/",
+      "name": "汤姆·布兰查德 Tom Blanchard"
+    }
+  ]
+,
+  "datePublished": "2016-05-15",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H38M",
+  "description": "Thomas and Thomas are going through a rough patch: they are both thirty-something actors living in P...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "194",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

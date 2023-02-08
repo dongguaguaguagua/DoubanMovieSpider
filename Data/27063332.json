@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "金珠玛米",
+  "url": "/subject/27063332/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505777061.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315638/",
+      "name": "杨蕊 Rui Yang "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315638/",
+      "name": "杨蕊 Rui Yang "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385713/",
+      "name": "单禹 Yu Shan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385714/",
+      "name": "达真 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308818/",
+      "name": "多布杰 Duobujie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317348/",
+      "name": "王紫逸 Ziyi Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351583/",
+      "name": "杨秀措 Yangshik Tso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341855/",
+      "name": "洛桑念扎 Lobsang Namdak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339505/",
+      "name": "阿旺仁青 Ngawang Rinchen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407713/",
+      "name": "钢特木尔 Gangtemuer"
+    }
+  ]
+,
+  "datePublished": "2017-06-21",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2", "\u897f\u90e8"],
+  "duration": "PT1H37M",
+  "description": "1950年，西藏仍是与外界阻隔的秘境绝地，在解放军进军西藏途中，士兵华山只身落入藏区腹地，以一个热血方刚的汉族青年的身份懵懵懂懂卷入了一场蓄谋已久的血雨腥风。尽管被严密封锁，牧场上贵族老爷的马仍被一匹...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "801",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

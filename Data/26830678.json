@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "萌犬流浪记 언더독",
+  "url": "/subject/26830678/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531021307.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327772/",
+      "name": "吴成允 Seong-yun Oh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407306/",
+      "name": "李春白 Chun-Baek Lee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327772/",
+      "name": "吴成允 Seong-yun Oh"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336965/",
+      "name": "都暻秀 Kyung-soo Doh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343344/",
+      "name": "朴素丹 So-dam Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218750/",
+      "name": "朴哲民 Cheol-min Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331785/",
+      "name": "李俊赫 Lee Joon-Hyuk"
+    }
+  ]
+,
+  "datePublished": "2018-07-12",
+  "genre": ["\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H40M",
+  "description": "有一天突然被遗弃的流浪狗‘蒙奇’，瞬间被人类改变了命运，但它不屈服命运，为了生存的自由，寻找‘没有人类的地方’，并且获得流浪狗的爱情和友情，以及英勇无比的流浪故事。 由吴承允、李春白执导，韩国第一动漫...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "86",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.1"
+  }
+}

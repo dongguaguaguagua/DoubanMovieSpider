@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "怨婴惊魂 Karu",
+  "url": "/subject/30210388/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520955738.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315650/",
+      "name": "维杰 Vijay"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315650/",
+      "name": "维杰 Vijay"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402572/",
+      "name": "赛·帕拉维 Sai Pallavi"
+    }
+  ]
+,
+  "datePublished": "2018-04-27",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT2H2M",
+  "description": "Karu is a Tamil drama starring Sai Pallavi and Naga Shourya and directed by A. L. Vijay.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "米拉 Milla",
+  "url": "/subject/27597104/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2520570852.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382685/",
+      "name": "瓦莱丽·玛萨迪昂 Valérie Massadian"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382685/",
+      "name": "瓦莱丽·玛萨迪昂 Valérie Massadian"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382685/",
+      "name": "瓦莱丽·玛萨迪昂 Valérie Massadian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410620/",
+      "name": "吕克·切塞尔 Luc Chessel"
+    }
+  ]
+,
+  "datePublished": "2017-08-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H8M",
+  "description": "讲述了一个平凡女人米拉爱上了一个流浪男人里奥，两人从相知相识到同居在一起，里奥不得不忙于生计，而米拉也得像一段平凡婚姻中的女人那样，生子育儿，这便是最平凡的爱情，亦是最真实的生活",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "107",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

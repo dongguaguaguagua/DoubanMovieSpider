@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "布雷肯莫尔 Brackenmore",
+  "url": "/subject/27002774/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2449981144.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363773/",
+      "name": "苏菲·霍普金斯 Sophie Hopkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428603/",
+      "name": "乔·肯纳德 Joe Kennard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481862/",
+      "name": "伊莱恩·肯尼迪 Elaine Kennedy"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

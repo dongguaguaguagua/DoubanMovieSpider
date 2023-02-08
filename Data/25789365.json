@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "现场直播",
+  "url": "/subject/25789365/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528279050.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312835/",
+      "name": "李呈媛 Chengyuan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317289/",
+      "name": "张晓龙 Xiaolong Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315239/",
+      "name": "张国柱 Kuo-Chu Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275369/",
+      "name": "莫小奇 Monica Mok"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315471/",
+      "name": "阚清子 Qingzi Kan"
+    }
+  ]
+,
+  "datePublished": "2018-07-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "电影《现场直播》讲述的是一场 发生在电台演播室中的抢劫案件，李 呈媛在片中饰演女主播“罗湘湘”，是 张晓龙饰演警察“柯日生”的未婚妻， 俩人的感情一直很要好，直到有一天 在罗湘湘工作的演播室发生了抢劫...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

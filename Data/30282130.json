@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "斯普林斯汀：百老汇音乐会 Springsteen on Broadway",
+  "url": "/subject/30282130/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2545131807.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301753/",
+      "name": "托姆·齐穆尼 Thom Zimny"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027393/",
+      "name": "布鲁斯·斯普林斯汀 Bruce Springsteen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027393/",
+      "name": "布鲁斯·斯普林斯汀 Bruce Springsteen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023085/",
+      "name": "Patti Scialfa Patti Scialfa"
+    }
+  ]
+,
+  "datePublished": "2018-12-15",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "PT2H33M",
+  "description": "The intimate, final performance of Bruce Springsteen&#39;s 236-show run at Jujamcyn&#39;s Walter Kerr Theatr...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

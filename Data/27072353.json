@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "基石",
+  "url": "/subject/27072353/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504473719.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383883/",
+      "name": "邱士杰 Shih-chieh Chiu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT0H7M",
+  "description": "青少年在接受一段基要主義的信仰後，開始見到種種詭異與恐怖的現象。他所身處的世界非黑即白，不是良善的東西就必定被視為邪惡的，所有人似乎得遵照信仰的規則走，身在這樣極端保守與封閉的環境下，讓他內心的衝突越...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

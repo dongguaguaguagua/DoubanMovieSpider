@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Red River",
+  "url": "/subject/30237626/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036304/",
+      "name": "杰克逊·拉斯波恩 Jackson Rathbone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017936/",
+      "name": "杰森·帕特里克 Jason Patric"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1067891/",
+      "name": "恩里克·克兰东尼 Enrico Colantoni"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A military wife contracts a mysterious infection from her GI husband, plunging her into a nightmare ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

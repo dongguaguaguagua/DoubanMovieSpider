@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "陶托纳 TauTona",
+  "url": "/subject/25942546/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2193552489.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340897/",
+      "name": "威廉·尤班克 William Eubank"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340897/",
+      "name": "威廉·尤班克 William Eubank"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342554/",
+      "name": "卡莱尔·尤班克 Carlyle Eubank"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023940/",
+      "name": "大卫·弗里杰里奥 David Frigerio"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "华纳兄弟公司最近买下了一个新剧本，这个剧本的故事是以世界上最深的金矿——南非陶托纳金矿（TauTona）为背景的，华纳计划将其制作成一部带有科幻元素的惊悚片。
+南非的陶托纳金矿深度达到了4公里，是地球...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

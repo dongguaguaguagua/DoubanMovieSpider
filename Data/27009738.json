@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "年轻女子 Jeune femme",
+  "url": "/subject/27009738/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2503564701.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374664/",
+      "name": "蕾欧诺·瑟哈伊 Léonor Séraille"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400186/",
+      "name": "克伦门斯·卡瑞 Clémence Carré"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400187/",
+      "name": "巴斯蒂安·达雷特 Bastien Daret"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374664/",
+      "name": "蕾欧诺·瑟哈伊 Léonor Séraille"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387960/",
+      "name": "利蒂希亚·多施 Laetitia Dosch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400188/",
+      "name": "索莱曼·塞·迪耶 Souleymane Seye Ndiaye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400190/",
+      "name": "格雷·蒙赛京 Grégoire Monsaingeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400189/",
+      "name": "让-克里斯托夫·弗里 Jean-Christophe Folly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313111/",
+      "name": "娜塔莉·理查德 Nathalie Richard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355190/",
+      "name": "埃里卡圣 Erika Sainte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377797/",
+      "name": "利拉-萝丝·吉尔贝蒂 Lila-Rose Gilberti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439490/",
+      "name": "莱尼·西玛加 Léonie Simaga"
+    }
+  ]
+,
+  "datePublished": "2017-05-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "宝拉（利蒂希亚·多施 Laetitia Dosch 饰）在20岁那年就认识男友了，两人携手一路走过了漫长的十年，本以为这个男人一定会牵着自己的手走入婚礼的殿堂，没想到在她30岁这一年，男友无情而且不可...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4044",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

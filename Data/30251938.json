@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "克林顿鬼道 Clinton Road",
+  "url": "/subject/30251938/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557457387.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000233/",
+      "name": "理查德·格里克 Richard Grieco"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011169/",
+      "name": "Noel Ashman Noel Ashman"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002670/",
+      "name": "埃里克·罗伯茨 Eric Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054631/",
+      "name": "艾斯-T Ice-T"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018198/",
+      "name": "文森特·杨 Vincent Young"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421039/",
+      "name": "莎拉·普里比斯 Sarah Pribis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421040/",
+      "name": "凯蒂·莫里森 Katie Morrison"
+    }
+  ]
+,
+  "datePublished": "2019-02-25",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H17M",
+  "description": "A widowed firefighter seeks closure after his wife goes missing on an actual haunted road in rural N...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "170",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.7"
+  }
+}

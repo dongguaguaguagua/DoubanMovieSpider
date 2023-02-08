@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "古典时代 Classical Period",
+  "url": "/subject/30141399/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2585588585.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431202/",
+      "name": "泰德·芬特 Ted Fendt"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431202/",
+      "name": "泰德·芬特 Ted Fendt"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H2M",
+  "description": "这是导演的第二部长片，讲述了关于理智主义与孤独的故事。一个阅读小组的成员如此热衷于相互交换关于文学和文化的观点，以至于他们从来不去谈论生活中的任何事情。这是他们逃离现代世界的一种努力，还是他们个体孤独...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

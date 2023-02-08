@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "守边人",
+  "url": "/subject/27175974/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2502755165.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316020/",
+      "name": "方军亮 Junliang Fang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319881/",
+      "name": "崔民 Min Cui"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274585/",
+      "name": "刘佩琦 Peiqi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314268/",
+      "name": "刘园媛 Yuanyuan Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372160/",
+      "name": "吴楠 Nan Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398817/",
+      "name": "蒋君燕 Junyan Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328522/",
+      "name": "李悦铭 Yueming Li"
+    }
+  ]
+,
+  "datePublished": "2017-10-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "电影《守边人》以全国“时代楷模”魏德友的先进事迹改编创作，艺术展现了新疆公安边防总队护边员魏德友50多年坚守萨尔布拉克草原无人区，护边戍边的感人故事，谱写了平凡人的伟大爱国情怀，是我国第一部反映民兵驻...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "762",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

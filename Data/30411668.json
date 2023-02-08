@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Killer Video",
+  "url": "/subject/30411668/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2543534372.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423648/",
+      "name": "Carl J. Sukenick Carl J. Sukenick"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

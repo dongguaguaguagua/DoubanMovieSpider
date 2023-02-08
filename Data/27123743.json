@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Nightmare on 34th Street",
+  "url": "/subject/27123743/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2497550072.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036895/",
+      "name": "露西·萍德 Lucy Pinder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367467/",
+      "name": "卡罗琳·博尔顿 Caroline Boulton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445114/",
+      "name": "拉菲·怀尔德 Rafi Wilder"
+    }
+  ]
+,
+  "datePublished": "2017-11-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H50M",
+  "description": "A mysterious Santa arrives on 34th Street, to recall three interconnected horror stories which will ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

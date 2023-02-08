@@ -1,0 +1,124 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "宁静的热情 A Quiet Passion",
+  "url": "/subject/24299620/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2327174165.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041482/",
+      "name": "特伦斯·戴维斯 Terence Davies"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041482/",
+      "name": "特伦斯·戴维斯 Terence Davies"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002678/",
+      "name": "辛西娅·尼克松 Cynthia Nixon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012506/",
+      "name": "詹妮弗·艾莉 Jennifer Ehle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368531/",
+      "name": "邓肯·达夫 Duncan Duff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025211/",
+      "name": "基思·卡拉丹 Keith Carradine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044968/",
+      "name": "乔迪·梅 Jodhi May"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368532/",
+      "name": "乔安娜·培根 Joanna Bacon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014680/",
+      "name": "凯瑟琳·贝利 Catherine Bailey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036640/",
+      "name": "艾玛·贝尔 Emma Bell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368533/",
+      "name": "本杰明·温赖特 Benjamin Wainwright"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277669/",
+      "name": "安妮特·白兰特 Annette Badland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353077/",
+      "name": "罗斯·威廉姆斯 Rose Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368535/",
+      "name": "诺米·沙伦斯 Noémie Schellens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147432/",
+      "name": "米尔斯·理查森 Miles Richardson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368534/",
+      "name": "埃里克·罗兰 Eric Loren"
+    }
+  ]
+,
+  "datePublished": "2016-02-14",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT2H5M",
+  "description": "影片展现美国传奇诗人艾米莉·狄金森的一生。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5255",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

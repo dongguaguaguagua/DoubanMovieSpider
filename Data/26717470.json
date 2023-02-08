@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狼和羊 Wolf and Sheep",
+  "url": "/subject/26717470/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2354825032.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415297/",
+      "name": "沙赫巴努·萨达 Shahrbanoo Sadat"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415297/",
+      "name": "沙赫巴努·萨达 Shahrbanoo Sadat"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-05-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H26M",
+  "description": "漫天尘飞中，男孩打闹间练习掷石驱狼；女孩叼着麦杆漫聊闲话。村里老人讲述着奇幻故事：「传说中，喀什米尔狼能站立行走，狼皮下是个绿色裸体妖精…」突然虚实跨了界，分野不再清晰。新锐女导演克服拍摄地政局紊乱的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "110",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

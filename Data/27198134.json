@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "太白剑",
+  "url": "/subject/27198134/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2569143021.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325191/",
+      "name": "周敬峰 Jingfeng Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325191/",
+      "name": "周敬峰 Jingfeng Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339998/",
+      "name": "汤君慈 Bruce Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314262/",
+      "name": "梁俊一 Anson Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392666/",
+      "name": "许诗晨 Shichen Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403619/",
+      "name": "杨乾龙 Qianlong Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468537/",
+      "name": "唐浩 Vito"
+    }
+  ]
+,
+  "datePublished": "2019-09-20",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H10M",
+  "description": "李笑（汤君慈饰）、彩月、唐小樱、赵成龙几人背负着不同的身份使命以及爱恨情仇闯入暗影森林，经过重重危机来到玄冥城。在城中却被人追杀，他们为寻求真相，展开调查，却被彩月出卖，诱导进入玄冥洞遇到赤炼毒人方誉...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

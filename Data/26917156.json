@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "高空 Altitude",
+  "url": "/subject/26917156/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2456886431.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454851/",
+      "name": "亚历克斯·梅金 Alex Merkin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004601/",
+      "name": "丹妮丝·理查兹 Denise Richards"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328294/",
+      "name": "格里尔·格拉默 Greer Grammer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036637/",
+      "name": "查克·林德尔 Chuck Liddell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040508/",
+      "name": "杜夫·龙格尔 Dolph Lundgren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425712/",
+      "name": "尼克·普林西比 Nick Principe"
+    }
+  ]
+,
+  "datePublished": "2017-04-14",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H28M",
+  "description": "美国联邦调查局特工格雷琴正在前往华盛顿哥伦比亚特区的飞机上，坐在她旁边的男子突然提出了一个不寻常的交易。他解释说他们的飞机马上就要被劫持了，并承诺付给她七千五百万美元，前提是她可以让他安全回到地面。当...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "494",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

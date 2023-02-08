@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "X Was Here",
+  "url": "/subject/26731362/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223494/",
+      "name": "凯莎·卡斯特-休伊斯 Keisha Castle-Hughes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025310/",
+      "name": "约翰·贾瑞特 John Jarratt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280302/",
+      "name": "迈克尔·卡顿 Michael Caton"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Rory is a professional photographer taking the best pictures of his life, but he&#39;s not where he thou...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

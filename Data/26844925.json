@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "羽毛 Piuma",
+  "url": "/subject/26844925/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2377498169.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360566/",
+      "name": "罗恩·约翰逊 Roan Johnson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360566/",
+      "name": "罗恩·约翰逊 Roan Johnson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307429/",
+      "name": "米雪拉·塞尚 Michela Cescon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438747/",
+      "name": "Blu Yoshimi Blu Yoshimi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472223/",
+      "name": "弗兰西斯卡·安东内利 Francesca Antonelli"
+    }
+  ]
+,
+  "datePublished": "2016-09-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "2016年威尼斯电影节主竞赛单元入围作品~青春的时候很有可能混乱，焦躁，犯错，尽管发生的每件事都可能让人抓狂，但永远不要放弃对待人生的希望，勇敢面对自己所犯下的错，所要承担的责任，生活终究会有太阳升起...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "155",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

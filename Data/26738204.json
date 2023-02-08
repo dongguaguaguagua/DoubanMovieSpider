@@ -1,0 +1,96 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "村戏",
+  "url": "/subject/26738204/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2516300806.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314208/",
+      "name": "郑大圣 Dasheng Zheng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359929/",
+      "name": "李保罗 Baoluo Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326791/",
+      "name": "吴滨 Bin Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381090/",
+      "name": "贾大山 Dashan Jia"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359927/",
+      "name": "李志兵 Zhibing Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359926/",
+      "name": "梁春柱 Chunzhu Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359925/",
+      "name": "王春明 Chunming Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359924/",
+      "name": "吕爱华 Aihua Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359923/",
+      "name": "张慧娟 Huijuan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359922/",
+      "name": "张亚豪 Yahao Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359921/",
+      "name": "陈晨 Chen Chen"
+    }
+  ]
+,
+  "datePublished": "2017-06-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H39M",
+  "description": "1982年，隆冬时节，苍茫大地，人们在渴望春天的到来（包产到户）。
+王支书要村里恢复演出老戏。“戏篓子”路老鹤，安排杨志刚演男主角，女儿路小芬不情愿。女儿的意中是奎疯子的儿子王树满。
+在奎疯子眼里，花...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "14639",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.0"
+  }
+}

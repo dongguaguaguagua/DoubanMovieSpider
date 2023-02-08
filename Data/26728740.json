@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "洛特 Lotte",
+  "url": "/subject/26728740/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2423714559.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390963/",
+      "name": "Julius Schultheiß Julius Schultheiß"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1266020/",
+      "name": "Karin Hanczewski Karin Hanczewski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1235345/",
+      "name": " Christine Knispel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390964/",
+      "name": "Zita Aretz Zita Aretz"
+    }
+  ]
+,
+  "datePublished": "2016-02-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "洛特是个冲动易怒，浑身棱角的女人。在柏林的街道上花天酒地的她，一晚偶遇了一位几乎都要忘记的马塞尔。就在马塞尔认出洛特的时候，她却匆匆离开，逃到了朋友家。第二天在医院工作时，一个叫格蕾塔的年轻女孩受伤进...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "46",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

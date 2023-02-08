@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "若非青春常在",
+  "url": "/subject/27073094/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2492833668.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381906/",
+      "name": "罗欣馨 Xinxin Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470130/",
+      "name": "崔栋凯 "
+    }
+  ]
+,
+  "datePublished": "2017-06-16",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H12M",
+  "description": "阳光灿烂的一天，高中重点班，迎来新同学：兰若非，她的转学而来，深深吸引了该班的班草常在。常在和死党雷潇涵，侯林组成了“神剑局”组合，他们有自己一直隐藏在心中的梦想，那是对他们而言，遥不可及，他们却努力...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

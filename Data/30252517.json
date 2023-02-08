@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "吾神",
+  "url": "/subject/30252517/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2526118016.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396134/",
+      "name": "刘冬雪 Frida Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396134/",
+      "name": "刘冬雪 Frida Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-07-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H27M",
+  "description": "继《中邪》后，又一部类型化影片进行中国本土化尝试，刘冬雪《吾神》围绕发生在中国东北村庄光怪陆离的故事，是对信仰的拷问。有评审评价为“中国农村的精神电影”。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "846",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

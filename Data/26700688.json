@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阴影之下 Under the Shadow",
+  "url": "/subject/26700688/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2304802483.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359977/",
+      "name": "巴巴克·安瓦里 Babak Anvari"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359977/",
+      "name": "巴巴克·安瓦里 Babak Anvari"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342609/",
+      "name": "阿米德·加瓦丹 Hamid Djavadan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308577/",
+      "name": "娜格斯·拉什迪 Narges Rashidi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1226899/",
+      "name": "鲍比·纳德利 Bobby Naderi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308549/",
+      "name": "毕扬·丹斯曼 Bijan Daneshmand"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365383/",
+      "name": "艾文·曼莎迪 Avin Manshadi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399992/",
+      "name": "贝希·贾纳蒂·阿泰 Behi Djanati Atai"
+    }
+  ]
+,
+  "datePublished": "2016-01-22",
+  "genre": ["\u5267\u60c5", "\u6050\u6016"],
+  "duration": "PT1H24M",
+  "description": "故事发生在两伊战争期间，业已成家生子的Shideh（Narges Rashidi  饰）渴望回到大学校园完成学业，然而历史问题使她的学业之梦彻底破灭。她的丈夫Iraj（Bobby Naderi	饰）是...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6053",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

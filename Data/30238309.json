@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "胜者为王",
+  "url": "/subject/30238309/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523785250.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397619/",
+      "name": "孙浩然 Haoran Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477278/",
+      "name": "李炎 Yan Li "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423989/",
+      "name": "秦臻 Zhen Qin"
+    }
+  ]
+,
+  "datePublished": "2018-05-30",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591"],
+  "duration": "PT1H21M",
+  "description": "四海帮新任帮主阿辉是一个极其神秘的人物，除了从小看自己长大的坛主外，没人见过他的真面目。阿辉为了帮派能在本地称王，进入警局卧底。阿辉发现自己的上司（李sir）在四海帮内部安插了卧底，经过数次交锋阿辉终...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

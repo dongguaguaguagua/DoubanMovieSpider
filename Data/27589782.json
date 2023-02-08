@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "四手联弹 Die Vierhändige",
+  "url": "/subject/27589782/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2512901385.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352188/",
+      "name": "克里斯托夫·列克托斯基 Christoph Letkowski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1259751/",
+      "name": "弗里德里克·贝希特 Friederike Becht"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025592/",
+      "name": "德特勒夫·博特 Detlef Bothe"
+    }
+  ]
+,
+  "datePublished": "2017-11-30",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "",
+  "description": "儿时的杰西卡和苏菲亲眼目睹了父母惨死在他人手下。20年后，杰西卡不幸意外身故，而苏菲一方面为姐姐的不幸感到悲伤，但另一方面在长期忍受杰西卡病态偏执之后，她又希望自己能从此过上正常的生活。然而此后她却频...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "67",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

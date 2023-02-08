@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Whisper",
+  "url": "/subject/27181789/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503238869.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396703/",
+      "name": "阿伦·布莱克 Arron Blake"
+    }
+  ]
+,
+  "datePublished": "2018-10-13",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "这是死亡事系列中的第7部，也是恐怖医序室！",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

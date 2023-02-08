@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无敌 짱",
+  "url": "/subject/30377724/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540640074.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404505/",
+      "name": "宋在德 Jae-duk Song"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404467/",
+      "name": "文智厚 Ji-hoo Moon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404503/",
+      "name": "李麟 Rin Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388997/",
+      "name": "金秀京 Soo-kyung Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404504/",
+      "name": "魏光勋 Gwang-hoon Wi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405007/",
+      "name": "朴亚成 Ah-sung Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426432/",
+      "name": "赵美女 Mi-nyeo Jo"
+    }
+  ]
+,
+  "datePublished": "2018-11-29",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H34M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Badmaash (Kannada)",
+  "url": "/subject/26881617/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427947/",
+      "name": "阿丘特·库马尔 Achyuth Kumar"
+    }
+  ]
+,
+  "datePublished": "2016-02-14",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "Set against an urban backdrop, &#34;Badmaash&#34; is a romantic thriller about Vijay, an intelligent, playfu...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

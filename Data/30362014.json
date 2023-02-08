@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "脑洞少女",
+  "url": "/subject/30362014/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2538045058.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375404/",
+      "name": "胡东升 Dongsheng Hu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394055/",
+      "name": "方岚 Lan Fang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476218/",
+      "name": "苏宥辰 Youchen Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484859/",
+      "name": " "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484860/",
+      "name": "程金铭 Jinming Cheng"
+    }
+  ]
+,
+  "datePublished": "2018-11-15",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H17M",
+  "description": "酷爱幻想的大四女学生罗曼蒂刚遭遇了一场失恋，沮丧中将一个可乐瓶子踢飞，不料竟致使一辆名贵跑车撞车！车主玄彬开口索赔要十五万，无奈之下，罗曼蒂与他签订了一个《24小时贴身保姆契约》。在接下来的100天里...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

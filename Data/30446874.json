@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "早安 غود مورنينغ",
+  "url": "/subject/30446874/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2546609111.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417682/",
+      "name": "巴伊·霍杰 Bahij Hojeij"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417682/",
+      "name": "巴伊·霍杰 Bahij Hojeij"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371675/",
+      "name": "Rodrigue Sleiman Rodrigue Sleiman"
+    }
+  ]
+,
+  "datePublished": "2018-10-25",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H27M",
+  "description": "在贝鲁特一个街角的咖啡店二楼，有一面大大的转角窗和一台电视机，一位78岁的退伍将军和一位81岁的退伍军医每天早上都会在这里碰面，看着街角车来人往，做着填字游戏，以此对抗阿茨海默综合症。伴随两位老人的玩...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "119",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

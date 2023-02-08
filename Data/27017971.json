@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "妈咪宝贝 Mon poussin",
+  "url": "/subject/27017971/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2510671911.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334978/",
+      "name": "弗雷德里克·弗赖斯 Frédéric Forestier"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007192/",
+      "name": "伊莎贝尔·南蒂 Isabelle Nanty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318339/",
+      "name": "托马·索利韦尔 Thomas Solivéres"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344150/",
+      "name": "彼埃尔·弗兰斯科·马丁·拉弗尔 Pierre-François Martin-Laval"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421154/",
+      "name": "汤姆·里布 Tom Leeb"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1178220/",
+      "name": "琳达·哈蒂 Linda Hardy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384897/",
+      "name": "让-米歇尔·拉米 Jean-Michel Lahmi"
+    }
+  ]
+,
+  "datePublished": "2017-06-28",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H37M",
+  "description": "一位保护过度的母亲帮助她二十岁的儿子分手，却忽略了自己的婚姻。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "91",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

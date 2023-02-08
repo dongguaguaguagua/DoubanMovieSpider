@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "下一年 Zwischen den Jahren",
+  "url": "/subject/26965731/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2422293660.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302914/",
+      "name": "Lars Henning Lars Henning"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003782/",
+      "name": "彼得·库尔特 Peter Kurth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050288/",
+      "name": "卡尔·马克维斯 Karl Markovics"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1160023/",
+      "name": "卡特琳·施特里贝克 Catrin Striebeck"
+    }
+  ]
+,
+  "datePublished": "2017-03-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "贝克（彼得·库尔思 Peter Kurth 饰）曾经失手杀死了富翁达汉姆（卡尔·马克维斯 Karl Markovics 饰）的妻女，为此，他锒铛入狱，在铁窗之后服刑了大半生。如今，贝克重新获得了自由，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "150",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

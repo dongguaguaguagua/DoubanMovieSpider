@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱在马德里 Remember Me",
+  "url": "/subject/26836756/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2601326299.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1220352/",
+      "name": "马丁·罗塞特 Martín Rosete"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296359/",
+      "name": "拉法·鲁索 Rafa Russo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019069/",
+      "name": "布鲁斯·邓恩 Bruce Dern"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019027/",
+      "name": "布莱恩·考克斯 Brian Cox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1141452/",
+      "name": "卡罗利娜·西奥尔 Caroline Sihol"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370173/",
+      "name": "本·坦普尔 Ben Temple"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037245/",
+      "name": "贝罗尼卡·福尔克 Verónica Forqué"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031810/",
+      "name": "西耶娜·盖尔利 Sienna Guillory"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407157/",
+      "name": "杰斯·维达尔 Jesús Vidal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468491/",
+      "name": "安珀·莎娜·威廉斯 Amber Shana Williams"
+    }
+  ]
+,
+  "datePublished": "2019-08-08",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H28M",
+  "description": "Upon learning that the love of his life from long ago has Alzheimer&#39;s, an elderly widower fakes his ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

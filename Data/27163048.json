@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Fikkefuchs",
+  "url": "/subject/27163048/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2501049378.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016981/",
+      "name": "简·亨瑞克·斯塔伯格 Jan Henrik Stahlberg"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016981/",
+      "name": "简·亨瑞克·斯塔伯格 Jan Henrik Stahlberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468392/",
+      "name": "沃尔夫拉姆·弗莱施豪尔 Wolfram Fleischhauer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016981/",
+      "name": "简·亨瑞克·斯塔伯格 Jan Henrik Stahlberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352964/",
+      "name": "弗兰茨·罗戈夫斯基 Franz Rogowski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074219/",
+      "name": "苏珊娜·布雷德霍夫特 Susanne Bredehöft"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1259781/",
+      "name": "萨拉丽莎·沃尔姆 Saralisa Volm"
+    }
+  ]
+,
+  "datePublished": "2017-06-23",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H41M",
+  "description": "There was a time when Rocky could have it all. He played French chansons and the women just melted. ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

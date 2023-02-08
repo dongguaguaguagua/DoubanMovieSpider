@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "古惑镇激斗少年2",
+  "url": "/subject/26910853/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2396110710.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351954/",
+      "name": "徐芳依 Fangyi Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354221/",
+      "name": "李鸿禾 Honghe Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338247/",
+      "name": "潘春春 Chunchun Pan"
+    }
+  ]
+,
+  "datePublished": "2016-11-13",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H2M",
+  "description": "旧的江湖归你们，新的归我们。今年夏天，堪称小镇青年入门指南的《古惑镇激斗少年》大热江湖。11月，《古惑镇激斗少年2》热血归来，再度延续后现代黑帮喜剧的IP风格，该片由北大原班人马制作，创造社、北岛极光...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "他人之屋 სხვისი სახლი",
+  "url": "/subject/26807632/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2401568533.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372830/",
+      "name": "卢苏丹·格鲁吉泽 Russudan Glurjidze"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372830/",
+      "name": "卢苏丹·格鲁吉泽 Russudan Glurjidze"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1250650/",
+      "name": "亚姆泽·苏基塔什威利 Iamze Sukhitashvili"
+    }
+  ]
+,
+  "datePublished": "2016-07-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "They managed to survive the war and, as winners, they are assigned houses that were swiftly abandone...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "240",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

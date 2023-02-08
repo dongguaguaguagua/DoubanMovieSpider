@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "双剑合璧",
+  "url": "/subject/30402178/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2557951451.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390651/",
+      "name": "朱维俐 Weili Zhu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431985/",
+      "name": "李小艺 Xiaoyi Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340059/",
+      "name": "罗立群 Liqun Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420510/",
+      "name": "王子恒 Ziheng Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H28M",
+  "description": "本片讲述了分属两个政治集团的夫妻狄云和凌雪之间，在面对婚姻危机之后，共同找回属于两个人的爱情，并最终同仇敌忾，将倒卖国家火器的西厂提督刘保绳之以法的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

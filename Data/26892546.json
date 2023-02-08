@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "双面情人 L&#39;amant double",
+  "url": "/subject/26892546/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2458352184.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053578/",
+      "name": "弗朗索瓦·欧容 François Ozon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018817/",
+      "name": "乔伊斯·卡罗尔·欧茨 Joyce Carol Oates"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053578/",
+      "name": "弗朗索瓦·欧容 François Ozon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367807/",
+      "name": "菲利普·皮亚佐 Philippe Piazzo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328329/",
+      "name": "玛丽恩·瓦科特 Marine Vacth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014162/",
+      "name": "杰瑞米·雷乃 Jérémie Renier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049605/",
+      "name": "杰奎琳·比塞特 Jacqueline Bisset"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1068577/",
+      "name": "米丽娅姆·博耶 Myriam Boyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295511/",
+      "name": "多米尼克·雷蒙 Dominique Reymond"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379832/",
+      "name": "安托万·德·拉·莫利内利 Antoine de La Morinerie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375713/",
+      "name": "让-保尔·米埃尔 Jean-Paul Muel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284931/",
+      "name": "贝诺提·吉欧斯 Benoît Giros"
+    }
+  ]
+,
+  "datePublished": "2017-05-26",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H47M",
+  "description": "女孩克洛伊（玛丽恩·瓦斯 Marine Vacth 饰）胃痛寻医无果，医生推断她的病情乃心病所致，推荐她去看心理医生，就这样，克洛伊成为了保罗（杰瑞米·雷乃 Jérémie Renier 饰）的患者。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "16735",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "离魂恶魔 Discarnate",
+  "url": "/subject/26607684/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2515129032.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1204047/",
+      "name": "Mario Sorrenti Mario Sorrenti"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1204047/",
+      "name": "Mario Sorrenti Mario Sorrenti"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332419/",
+      "name": "贝克斯·泰勒-克劳斯 Bex Taylor-Klaus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040578/",
+      "name": "娜丁·维拉兹盖兹 Nadine Velazquez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049595/",
+      "name": "托马斯·克莱舒曼 Thomas Kretschmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004844/",
+      "name": "乔什·斯图沃特 Josh Stewart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1250890/",
+      "name": "克里斯·科伊 Chris Coy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045014/",
+      "name": "杰西卡·莫里斯 Jessica Morris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413355/",
+      "name": "Olivier De Sagazan Olivier De Sagazan"
+    }
+  ]
+,
+  "datePublished": "2018-10-23",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H24M",
+  "description": "A neuroscientist&#39;s obsession with a drug that expands the human mind inadvertently unleashes a deadl...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "85",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

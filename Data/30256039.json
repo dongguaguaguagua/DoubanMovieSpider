@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "周末旅行团",
+  "url": "/subject/30256039/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2526084945.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399565/",
+      "name": "黄文礼 Wenli Huang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399565/",
+      "name": "黄文礼 Wenli Huang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-06-25",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "",
+  "description": "冬日的清晨，一辆旅游巴士准时出发，车上是24名有着不同身份和背景的游客。旅行途中，一个无人认领的手机响起，打断了他们的玩乐。而手机里面的陌生人与游客的对话，引起了这24个人的争论。在网络上，参与讨论的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

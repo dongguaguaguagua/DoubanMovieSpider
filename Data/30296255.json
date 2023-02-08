@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "把它漆成红色 Paint It Red",
+  "url": "/subject/30296255/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530764445.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292785/",
+      "name": "Paul T. Murray Paul T. Murray"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1106243/",
+      "name": "马丁·科夫 Martin Kove"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1169792/",
+      "name": "可比·毕丝·布兰顿 Kirby Bliss Blanton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041245/",
+      "name": "莎莉·柯克兰德 Sally Kirkland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1220707/",
+      "name": "凯茜·斯蒂尔 Cassie Steele"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022799/",
+      "name": "兰迪·韦恩 Randy Wayne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004770/",
+      "name": "科里奥·托马斯 Khleo Thomas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313133/",
+      "name": "杰克·麦吉 Jack McGee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439910/",
+      "name": "唐·斯克里布纳 Don Scribner"
+    }
+  ]
+,
+  "datePublished": "2018-08-07",
+  "genre": ["\u559c\u5267", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H21M",
+  "description": "A pair of bank robbers knock off Bohemian tenants in search for their stolen loot.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

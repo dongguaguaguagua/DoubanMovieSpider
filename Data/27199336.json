@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我感觉很好 I Feel good",
+  "url": "/subject/27199336/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534622520.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050807/",
+      "name": "伯努瓦·德雷平 Benoît Delépine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303251/",
+      "name": "古斯塔弗·科文 Gustave Kervern"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050807/",
+      "name": "伯努瓦·德雷平 Benoît Delépine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303251/",
+      "name": "古斯塔弗·科文 Gustave Kervern"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018213/",
+      "name": "让·杜雅尔丹 Jean Dujardin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032335/",
+      "name": "友兰达·梦露 Yolande Moreau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356288/",
+      "name": "让娜·比蒂诺娃 Jana Bittnerova"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H43M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

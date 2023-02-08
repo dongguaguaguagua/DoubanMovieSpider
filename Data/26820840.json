@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冬天里",
+  "url": "/subject/26820840/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2360734981.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359759/",
+      "name": "彭士刚 Shigang Peng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359759/",
+      "name": "彭士刚 Shigang Peng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359760/",
+      "name": "刘文礼 Wenli Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359761/",
+      "name": "潘凤志 Fengzhi Pan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359762/",
+      "name": "刘喜山 Xishan Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359763/",
+      "name": "刘永慧 Yonghui Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421091/",
+      "name": "彭士勇 Shiyong Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421092/",
+      "name": "许桂菊 Guiju Xu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "70多岁的农民老刘被儿女无情地赶出了家门，寒冷的冬天里他一个人在生死之间艰难挣扎、选择，他和仅有的一头老牛一起感受着人生最后的悲凉⋯⋯",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "594",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

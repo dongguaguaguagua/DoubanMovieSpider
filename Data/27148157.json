@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猛虎嗅蔷薇之舞“盗”团",
+  "url": "/subject/27148157/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2685157867.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353433/",
+      "name": "孙传林 Chuanlin Sun"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373503/",
+      "name": "王俊彭 Junpeng Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355266/",
+      "name": "于小琬 Xiaowan Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367991/",
+      "name": "赵秋生 Qiusheng Zhao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H27M",
+  "description": "影片主要讲述了谈虎失踪一整年，采薇决定去欧洲不再回来。临上船前夕，林麒麟告诉她，有了谈虎的消息——此刻，谈虎人在上海的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

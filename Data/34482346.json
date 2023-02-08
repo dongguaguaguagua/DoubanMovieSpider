@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "肉食诱惑 Sedução da Carne",
+  "url": "/subject/34482346/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2562825967.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008190/",
+      "name": "朱利奥·布雷萨内 Júlio Bressane"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008190/",
+      "name": "朱利奥·布雷萨内 Júlio Bressane"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052011/",
+      "name": "玛丽安娜·利马 Mariana Lima"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H10M",
+  "description": "A delicate and tenacious writer, widowed three years ago, engages in frequent conversations with a p...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

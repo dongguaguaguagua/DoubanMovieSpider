@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美国史迹 Americanah",
+  "url": "/subject/25901742/",
+  "image": "https://img1.doubanio.com/f/movie/03d3c900d2a79a15dc1295154d5293a2d5ebd792/pics/movie/tv_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308787/",
+      "name": "丹娜·奎里拉 Danai Gurira"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252328/",
+      "name": " Chimamanda Ngozi Adichie"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334862/",
+      "name": "露皮塔·尼永奥 Lupita Nyong&#39;o"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331706/",
+      "name": "乌佐·阿杜巴 Uzo Aduba"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341485/",
+      "name": "科里·霍金斯 Corey Hawkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420711/",
+      "name": "扎克瑞·莫莫 Zackary Momoh"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "露皮塔·尼永奥将主演10集HBO限定剧《美国史迹》(Americanah，暂译)。该剧改编自Chimamanda Ngozi Adichie的畅销小说，讲述了一名埃塞俄比亚女子来到美国，在爱情、心痛、...",
+  "@type": "TVSeries",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

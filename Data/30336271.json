@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "皮鞋",
+  "url": "/subject/30336271/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535284984.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401607/",
+      "name": "宋遥平 Yaoping Song"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401607/",
+      "name": "宋遥平 Yaoping Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402525/",
+      "name": "屈定琴 Dingqin Qu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328363/",
+      "name": "杨猛 Meng Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313836/",
+      "name": "李菁菁 Jingjing Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354454/",
+      "name": "张贵生 Guisheng Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-10-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "本片从成功企业家宋水阳从北京回乡祭祖的一段回忆开始，以80年代初改革开放为背景，讲述家境贫寒的农村父子俩为实现梦想努力奋斗，最后获得成功的励志故事。
+父亲宋德旺本是一个老实巴交的农民，壮年丧妻，家里穷...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

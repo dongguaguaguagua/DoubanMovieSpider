@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三天两夜 3天2夜",
+  "url": "/subject/30400620/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559708260.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416577/",
+      "name": "林浩溥 Hao-pu Lin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416577/",
+      "name": "林浩溥 Hao-pu Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290389/",
+      "name": "陆弈静 Yi-Ching Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416589/",
+      "name": "李梦苡桦 Rimong Ihwar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325029/",
+      "name": "庄益增 Cres Chuang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316677/",
+      "name": "柯一正 I-Chen Ko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358342/",
+      "name": "张再兴 Tsai-Hsing Chang"
+    }
+  ]
+,
+  "datePublished": "2018-12-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "收到媽媽從山上寄來的蜜蘋果，小月計算著，媽媽已經在外工作許久了，媽媽的搖籃曲總是在耳邊呼喚著。『你媽多久沒回來了？』是小月（13歲）與碧艷（15歲）兩個小女孩彼此關心的話語。
+初踏入青春期的小月來自弱...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "安菟！安菟！ OVA",
+  "url": "/subject/30223566/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522274524.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481983/",
+      "name": "龚震华 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334351/",
+      "name": "皇贞季 Zhen Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317669/",
+      "name": "季冠霖 Guanlin Ji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320632/",
+      "name": "张杰 Jie Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345276/",
+      "name": "小连杀 Jing Xu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u753b"],
+  "duration": "PT0H36M",
+  "description": "上京市是一座存在于虚构世界的虚构大都市，也是安菟故事的主舞台。在这个虚构世界里，娱乐产业将世界沟通结合成一个整体，这使得上京这座东西方文化融合、娱乐产业发达的城市成为了世界中心。绪能，一种更为清洁的能...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

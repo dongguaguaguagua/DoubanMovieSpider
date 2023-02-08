@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "江南皮革厂",
+  "url": "/subject/26820838/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2379776760.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359197/",
+      "name": "许飞青 Feiqing Xu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364906/",
+      "name": "戴正阳 Zhengyang Dai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364907/",
+      "name": "常乐 Le Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364908/",
+      "name": "高大拙 Dazhuo Gao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364900/",
+      "name": "范玮 Wei Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364902/",
+      "name": "赵灵 Ling Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364901/",
+      "name": "施艳文 Yanwen Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364903/",
+      "name": "崔尔康 Erkang Cui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364904/",
+      "name": "刘广厚 Guanghou Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364905/",
+      "name": "袁志颖 Zhiying Yuan"
+    }
+  ]
+,
+  "datePublished": "2016-08-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H1M",
+  "description": "由中视恒语文化传媒、峰尚影视、北京放牛班文化传媒共同出品，由许飞青导演的电影《江南皮革厂》开机",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "179",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

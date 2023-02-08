@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "缅因 Maine",
+  "url": "/subject/26897937/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2539365551.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415103/",
+      "name": "马修·布朗 Matthew Brown"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415103/",
+      "name": "马修·布朗 Matthew Brown"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272859/",
+      "name": "托马斯·曼 Thomas Mann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348722/",
+      "name": "莱娅·柯丝达 Laia Costa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415103/",
+      "name": "马修·布朗 Matthew Brown"
+    }
+  ]
+,
+  "datePublished": "2018-12-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "托马斯·曼同莱娅·柯丝达出演马修·布朗自编自导新作《缅因州》(Maine，暂译)。西班牙的已婚女人蓝鸟(柯丝达饰)穿越阿巴拉契亚山道时偶遇年轻的美国徒步旅行者莱克(曼饰)，在这隐匿的自然之境，两个陌生...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

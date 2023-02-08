@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Kathakali",
+  "url": "/subject/26830524/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2364546198.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426748/",
+      "name": "维绍尔 Vishal"
+    }
+  ]
+,
+  "datePublished": "2016-01-14",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT3H0M",
+  "description": "An honest, simple common man is caught in a web of problems when is he accused of killing the leader...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

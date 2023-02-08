@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2016辽宁卫视春节联欢晚会",
+  "url": "/subject/26724840/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2317810982.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351649/",
+      "name": "尹琪 Qi Yin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274392/",
+      "name": "六小龄童 Jinlai Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038045/",
+      "name": "周华健 Emil Wakin Chau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316688/",
+      "name": "郭冬临 Donglin Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314704/",
+      "name": "宋小宝 Xiaobao Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312922/",
+      "name": "张靓颖 Jane Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354671/",
+      "name": "鸟叔 Psy"
+    }
+  ]
+,
+  "datePublished": "2016-02-06",
+  "genre": ["\u6b4c\u821e", "\u771f\u4eba\u79c0"],
+  "duration": "PT4H36M",
+  "description": "2016辽宁卫视春晚完整版，罗志祥、霍尊、周华健、张靓颖、柳岩、郎朗、宋小宝、田娃，还有丹东歌手徐子崴、韩国人气歌手鸟叔PSY、六小龄童金猴闹春，一个都不少，这台小品最多、最搞笑的春节晚会一举集合了宋...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "595",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.4"
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "从天而降 Tombé du Ciel",
+  "url": "/subject/26785763/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2453223407.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371673/",
+      "name": "维桑·沙拉夫 Wissam Charaf"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371673/",
+      "name": "维桑·沙拉夫 Wissam Charaf"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338362/",
+      "name": "玛里埃特·黛塞尔 Mariette Désert"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371674/",
+      "name": "Raed Yassin Raed Yassin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371675/",
+      "name": "Rodrigue Sleiman Rodrigue Sleiman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371676/",
+      "name": "Said Serhan Said Serhan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371677/",
+      "name": "尤娜·马尔万 Yumna Marwan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371678/",
+      "name": "George Melki George Melki"
+    }
+  ]
+,
+  "datePublished": "2016-05-14",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H10M",
+  "description": "In today’s Lebanon, Omar, a bodyguard, has his first client to protect : Yasmine, a punk singer who ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

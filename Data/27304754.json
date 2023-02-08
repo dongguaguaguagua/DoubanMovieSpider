@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "记忆暗线",
+  "url": "/subject/27304754/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506035660.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363028/",
+      "name": "杨峻 Jun Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363028/",
+      "name": "杨峻 Jun Yang"
+    }
+  ]
+,
+  "datePublished": "2017-12-04",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H29M",
+  "description": "剧作家肖克某天醒来，发现记忆全无。这时电话响起，电话那头的人告诉他，电脑里有视频，记录了他最近做的事。肖克打开电脑，里面果然有自己的记录。
+原来，肖克为了写作需要，开始尾随陌生人，因此卷进了一宗错综复...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

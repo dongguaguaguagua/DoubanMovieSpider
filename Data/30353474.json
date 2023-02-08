@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "追击铁帽子王",
+  "url": "/subject/30353474/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537239112.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367157/",
+      "name": "佟小虎 Xiaohu Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473081/",
+      "name": "李牧谣 "
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u53e4\u88c5"],
+  "duration": "PT1H31M",
+  "description": "嘉庆年间，海州之地官商勾结腐败严重，乡绅刘德高与日本人串通走私鸦片残害百姓。刑部尚书敖青密令洪涛前往特查此案。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

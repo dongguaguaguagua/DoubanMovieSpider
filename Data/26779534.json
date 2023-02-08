@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "硬盘少女",
+  "url": "/subject/26779534/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2339705480.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325659/",
+      "name": "沈沁源 Qinyuan Shen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419561/",
+      "name": "李染宁 Ranning Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381876/",
+      "name": "周运海 Yunhai Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356804/",
+      "name": "王蕴凡 Yunfan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446542/",
+      "name": "马瑶瑶 Yaoyao Ma"
+    }
+  ]
+,
+  "datePublished": "2016-04-23",
+  "genre": ["\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H7M",
+  "description": "该片主要讲述了人工智能、技术宅男金刚意外邂逅从未来时空而来的小八，陪她一起寻找身份之谜的爱情故事。影片融合动漫元素、游戏元素及喜剧元素，是一部带有浓重日漫风格的科幻爱情片[1]  。
+该片于2016年...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "166",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

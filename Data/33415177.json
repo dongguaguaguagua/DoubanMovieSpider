@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的好中国同胞 My Good Chinese Countrymen",
+  "url": "/subject/33415177/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553889937.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334515/",
+      "name": "唐娄彝 Louyi Tang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334515/",
+      "name": "唐娄彝 Louyi Tang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357052/",
+      "name": "王北龙 Beilong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385049/",
+      "name": "罗蓬 Peng Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408256/",
+      "name": "郝晨 Chen Hao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426349/",
+      "name": "王一婷 Yiting Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "My Good Chinese Countrymen tells a story about a struggling American writer who goes to China&#39;s far ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

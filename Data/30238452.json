@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女巫布莱尔的传奇故事 The Blair Witch Legacy",
+  "url": "/subject/30238452/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2874013203.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257838/",
+      "name": " Gil Luna"
+    }
+  ]
+,
+  "datePublished": "2018-03-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H38M",
+  "description": "1999年，一部电影永远改变了恐怖片的历程。布莱尔女巫项目是一个很好的骗局 - 或者是？一部纪录片小组前往马里兰州Burkittsville找出布莱尔女巫项目背后的真相。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

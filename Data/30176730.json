@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马路大 Maruta",
+  "url": "/subject/30176730/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2517016104.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389831/",
+      "name": "王沛璋 Wang Peizhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389832/",
+      "name": "汪小溪 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383934/",
+      "name": "高嵩 Song Gao"
+    }
+  ]
+,
+  "datePublished": "2017-07-04",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "",
+  "description": "最残忍的不是挣扎后的选择，而是完全不知道何谓残忍。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

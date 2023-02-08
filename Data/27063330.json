@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "喜马拉雅之灵",
+  "url": "/subject/27063330/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2461975452.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380212/",
+      "name": "曾云辉 YunhuiI Zeng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380212/",
+      "name": "曾云辉 YunhuiI Zeng"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-06-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "《喜马拉雅之灵》是一部为拯救部落，勇士在藏地历经磨难的传奇史诗，是一段启发身心灵的生命希望之旅；第一部讲述中国少数民族珞巴族的影片，展现千年前珞巴原始部落文化；也是中国第一部讲述藏医药传奇的影片。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,124 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "列夫·朗道 Дау",
+  "url": "/subject/5331284/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2588146299.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356985/",
+      "name": "伊利亚·赫尔扎诺夫斯基 Ilya Khrzhanovsky"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356985/",
+      "name": "伊利亚·赫尔扎诺夫斯基 Ilya Khrzhanovsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338644/",
+      "name": "苏珊·玛丽安 Susanne Marian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024322/",
+      "name": "弗拉基米尔·索罗金 Vladimir Sorokin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398100/",
+      "name": "特奥特·库伦特基斯 Teodor Kurentzis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399662/",
+      "name": "瓦莱里·切斯普拉诺娃 Valery Tscheplanowa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1142838/",
+      "name": "彼得·塞拉斯 Peter Sellars"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360465/",
+      "name": "山姆·布罗梅尔 Sam Bromell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1095985/",
+      "name": "奥列格·加尔库沙 Oleg Garkusha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292868/",
+      "name": "Maria Nafpliotou Maria Nafpliotou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187390/",
+      "name": "Aleksandr Efimov Aleksandr Efimov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438797/",
+      "name": "Nikolay Voronov Nikolay Voronov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438653/",
+      "name": "拉德米拉·谢戈列瓦 Radmila Shegoleva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438606/",
+      "name": "塔季扬娜·波罗基伊 Tatyana Polozhiy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438539/",
+      "name": "叶卡捷琳娜·尤斯皮娜 Ekaterina Yuspina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432116/",
+      "name": "叶卡特琳娜·奥特尔 Jekaterina Oertel"
+    }
+  ]
+,
+  "datePublished": "2019-01-24",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u5386\u53f2"],
+  "duration": "PT5H30M",
+  "description": "DAU是一个正在进行的实验，它从关于苏联物理学家的传记开始演变成一个大规模的项目，一部分是电影循环，一部分是行为实验，涉及来自世界各地的数百名参与者。 它结合了电影，戏剧，科学，心理学，建筑，视觉艺术...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "536",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "少女夜蒲",
+  "url": "/subject/26720343/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2318260601.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349562/",
+      "name": "杜泓达 Hongda Du"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349562/",
+      "name": "杜泓达 Hongda Du"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349114/",
+      "name": "彭禺厶 Yusi Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340006/",
+      "name": "李洛伊 Luoyi Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443928/",
+      "name": "谭树明 Shuming Tan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H14M",
+  "description": "狄拉与姐妹4人生活在一起，每天晚上都以特殊的方式演绎着自己的狂欢。一次剧组生活中一直梦想演绎特工的叶铭与狄拉相识并一见钟情，自此一路追随着狄拉姐妹团的生活。这样的生活却因为狄拉的性情大变而打乱，姐妹四...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "68",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

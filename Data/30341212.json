@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暴露 Exposure",
+  "url": "/subject/30341212/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2536332507.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454173/",
+      "name": "Carmen Anello Carmen Anello"
+    }
+  ]
+,
+  "datePublished": "2018-10-02",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H17M",
+  "description": "In an attempt to reconcile the problems in their relationship, Myra (Carmen Anello) and James (Owen ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "问道于盲",
+  "url": "/subject/30212137/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2522845042.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403947/",
+      "name": "张骁腾 Xiaoteng Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403947/",
+      "name": "张骁腾 Xiaoteng Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371777/",
+      "name": "巩金国 Jinguo Gong"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u9ed1\u8272\u7535\u5f71"],
+  "duration": "PT2H7M",
+  "description": "入围ciff14“广阔天地”单元",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

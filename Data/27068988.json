@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的木偶男友",
+  "url": "/subject/27068988/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462749149.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376823/",
+      "name": "高明 Ming Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409300/",
+      "name": "郭美林子 Meilinzi Guo"
+    }
+  ]
+,
+  "datePublished": "2017-06-25",
+  "genre": ["\u7231\u60c5", "\u60ca\u609a", "\u5947\u5e7b"],
+  "duration": "PT1H16M",
+  "description": "唐梦瑶在“木偶人”穆天辰的陪伴下长大成人，并与之相爱，却遭来花花公子林泽的嫉妒，林泽诬陷穆天辰是邪灵，是吞噬了唐梦瑶外婆的灵魂才能化成人形，悲痛不已的唐梦瑶失手将林泽请来的符纸贴在了穆天辰身上，穆天辰...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

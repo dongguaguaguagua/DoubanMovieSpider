@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "西蒙和喜多 Simon et Théodore",
+  "url": "/subject/30170793/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516446590.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445252/",
+      "name": "让-查理·克里切特 Jean-Charles Clichet"
+    }
+  ]
+,
+  "datePublished": "2017-11-15",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H24M",
+  "description": "Simon就快当爸爸了，这件事令这个年轻、烂漫、感情脆弱的大男孩欣喜万分，与此同时，他又对自己能否胜任好爸爸这个角色忐忑不已。Theodore是个缺少父爱的坏脾气少年。在这一夜，两个叛逆之徒将共同踏上...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "81",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

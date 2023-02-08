@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "维特 Royal Opera House Live Cinema Season 2015/16: Werther",
+  "url": "/subject/30425523/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2545001127.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007210/",
+      "name": "伯努瓦·雅克 Benoît Jacquot"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050481/",
+      "name": "歌德 Johann Wolfgang Goethe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1121497/",
+      "name": "Jules Massenet Jules Massenet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1120876/",
+      "name": "Paul Milliet Paul Milliet"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360220/",
+      "name": "维托里奥·格里高洛 Vittorio Grigòlo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339483/",
+      "name": "乔伊斯·迪多纳托 Joyce DiDonato"
+    }
+  ]
+,
+  "datePublished": "2016-06-27",
+  "genre": ["\u97f3\u4e50", "\u620f\u66f2"],
+  "duration": "",
+  "description": "Werther loves Charlotte, but she promised her mother on her deathbed that she would marry Albert. Af...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

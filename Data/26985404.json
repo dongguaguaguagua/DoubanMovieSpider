@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "当下完美 แค่นี้ก็ดีแล้ว",
+  "url": "/subject/26985404/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2436322959.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447703/",
+      "name": "阿努孙·薛萨-尼 Anusorn Soisa-Ngim"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447703/",
+      "name": "阿努孙·薛萨-尼 Anusorn Soisa-Ngim"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445187/",
+      "name": "克里萨纳·马鲁卡斯提 Kritsana Maroukasonti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447702/",
+      "name": "阿迪孙·塔那瓦尼 Adisorn Tonawanik"
+    }
+  ]
+,
+  "datePublished": "2017-03-09",
+  "genre": ["\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H46M",
+  "description": "小拓（Midori Tamate 饰）刚刚结束一段失败的恋情，尚且还处于失恋的痛苦之中的他决定前往日本北海道的一座小镇里旅游散心，在那里，他租了一间房子，过着离群索居的生活并且心情并没有因此而有所变好...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "410",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

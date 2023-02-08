@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地狱山 Hell Mountain",
+  "url": "/subject/27191128/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2504242321.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031952/",
+      "name": "泰勒·杜雷 Taylor Dooley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012990/",
+      "name": "Markus Innocenti Markus Innocenti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410848/",
+      "name": "凯瑟琳·利德斯通 Catherine Lidstone"
+    }
+  ]
+,
+  "datePublished": "2018-10-09",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H32M",
+  "description": "A young reporter falls prey to a mysterious ailment after investigating an abandoned house; a place ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

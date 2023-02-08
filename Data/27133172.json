@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "网红是怎样炼成的",
+  "url": "/subject/27133172/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2498542624.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423370/",
+      "name": "张柏玲 Boling Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437949/",
+      "name": "迟漠寒 Mohan Chi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1464093/",
+      "name": "关妙甜 "
+    }
+  ]
+,
+  "datePublished": "2017-09-08",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H15M",
+  "description": "今年刚毕业的林雪在报到当天被公司辞退，难以在北京生存的她在闺蜜兼网红张小翼、李翠华的帮助下，走上了直播之路。开始木讷害羞的性格，让她受到了网友的轮番指责。之后她越挫越勇，苦练才艺，逐渐受到粉丝的喜爱。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

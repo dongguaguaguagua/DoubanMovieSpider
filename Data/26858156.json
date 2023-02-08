@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寻侠英雄传之阴阳爪",
+  "url": "/subject/26858156/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2511230401.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361549/",
+      "name": "丁野 Ye Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337256/",
+      "name": "张植绿 Zhilü Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361550/",
+      "name": "楚月 Chuyue"
+    }
+  ]
+,
+  "datePublished": "2016-08-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "唐积德是一个普通的书生，一个充满幻想的武侠迷，自幼惯看武侠小说，虽手无缚鸡之力，却梦想成侠。唐积德、叶彤、小可三人在平安镇竹林遭到玄风卫狙杀，被一个面具人相救。之后几人展开了一场正义与邪恶的决战。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "94",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.6"
+  }
+}

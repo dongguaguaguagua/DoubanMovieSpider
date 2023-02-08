@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "克拉拉幽魂 Clara&#39;s Ghost",
+  "url": "/subject/27609937/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2536214695.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358570/",
+      "name": "布赖德·埃利奥特 Bridey Elliott"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358570/",
+      "name": "布赖德·埃利奥特 Bridey Elliott"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019077/",
+      "name": "克里斯·艾略特 Chris Elliott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1242969/",
+      "name": "艾比·艾略特 Abby Elliott"
+    }
+  ]
+,
+  "datePublished": "2018-01-21",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H20M",
+  "description": "Set over the course of a single evening in the Reynolds family home in suburban Connecticut, Clara&#39;s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

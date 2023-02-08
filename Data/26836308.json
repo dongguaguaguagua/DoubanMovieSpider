@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "人类之巅 El auge del humano",
+  "url": "/subject/26836308/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2433510849.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325079/",
+      "name": "爱德华多·威廉姆斯 Eduardo Williams"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325079/",
+      "name": "爱德华多·威廉姆斯 Eduardo Williams"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-08-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "In Buenos Aires, Exe (25) loses his job and doesn’t want to look yet for another. His neighbourhood ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "80",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

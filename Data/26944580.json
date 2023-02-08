@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新生鬼儿 FirstBorn",
+  "url": "/subject/26944580/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2408669319.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1479287/",
+      "name": "肖恩·霍根 Sean Hogan  "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314886/",
+      "name": "安东尼娅·托马斯 Antonia Thomas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018150/",
+      "name": "乔纳森·海德 Jonathan Hyde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348893/",
+      "name": "卢克·诺里斯 Luke Norris"
+    }
+  ]
+,
+  "datePublished": "2016-06-19",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A young couples lives are turned upside down when the birth of their first child is accompanied by t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

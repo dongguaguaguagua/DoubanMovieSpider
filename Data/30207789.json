@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "志愿军 Volontaire",
+  "url": "/subject/30207789/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520568239.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045484/",
+      "name": "埃莱娜·菲利埃 Hélène Fillières"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045484/",
+      "name": "埃莱娜·菲利埃 Hélène Fillières"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354322/",
+      "name": "戴安·罗赛尔 Diane Rouxel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025263/",
+      "name": "朗贝尔·维尔森 Lambert Wilson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282294/",
+      "name": "阿莱克斯·德斯卡 Alex Descas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002859/",
+      "name": "若西安·巴拉斯科 Josiane Balasko"
+    }
+  ]
+,
+  "datePublished": "2018-06-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "Laure a 23 ans. Elle se cherche. C’est dans la Marine Nationale qu’elle va trouver un cadre, une str...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

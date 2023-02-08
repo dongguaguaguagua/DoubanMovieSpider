@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "导演不让说",
+  "url": "/subject/26697693/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2503293911.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408001/",
+      "name": "崔菁菁 Jingjing Cui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346426/",
+      "name": "李正 Zheng Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362802/",
+      "name": "张子夜 Ziye Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368638/",
+      "name": "韩锐 Rui Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378185/",
+      "name": "王筱沫 Xiomo Wang"
+    }
+  ]
+,
+  "datePublished": "2017-10-27",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H12M",
+  "description": "都市深夜，恐怖的气息四处蔓延。地下停车场，发生了一起离奇凶杀案件，死者是一名美貌女子，尸体全裸，红唇娇艳，洁白的肌肤上却没有一丝受到伤害的痕迹。警方调取监控录像发现，女子死前几天行迹可疑，但死因却成了...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

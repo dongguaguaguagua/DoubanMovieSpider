@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一夜再成名",
+  "url": "/subject/27170611/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289862/",
+      "name": "梁华生 James Leung"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035579/",
+      "name": "竹中直人 Naoto Takenaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009922/",
+      "name": "藤原纪香 Norika Fujiwara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315821/",
+      "name": "佐藤二朗 Jirô Satô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008604/",
+      "name": "石黑贤 Ken Ishiguro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006400/",
+      "name": "中村雅俊 Masatoshi Nakamura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003755/",
+      "name": "岩城滉一 Kouichi Iwaki"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

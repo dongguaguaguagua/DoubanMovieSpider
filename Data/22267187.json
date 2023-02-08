@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "毁灭者 The Destroyer",
+  "url": "/subject/22267187/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036569/",
+      "name": "沙恩·布莱克 Shane Black"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000662/",
+      "name": "吉姆·乌尔斯 Jim Uhls"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "",
+  "description": "电影改编自1970年代的动作冒险小说系列，讲述警官Remo Williams的故事。Remo是一名被判处“死刑”的警官，但实际上加入了政府的秘密组织，执行法律之外的“刺杀”行动，该小说曾被改编成电影《...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

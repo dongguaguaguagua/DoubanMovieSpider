@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "他人之肤 Die Haut der Anderen",
+  "url": "/subject/30289922/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543968536.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410399/",
+      "name": "伊莎贝尔·提尔昊 Isabel Thierauch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118892/",
+      "name": "奥利弗·莫姆森 Oliver Mommsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407961/",
+      "name": "索尼娅·克斯克斯 Sonja Kerskes"
+    }
+  ]
+,
+  "datePublished": "2018-04-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H53M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

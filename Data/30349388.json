@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Udenfor",
+  "url": "/subject/30349388/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2536827670.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411114/",
+      "name": "克里斯蒂安·伊伯勒 Kristian Ibler"
+    }
+  ]
+,
+  "datePublished": "2018-10-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H16M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

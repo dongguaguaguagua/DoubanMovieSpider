@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "仙侠学院",
+  "url": "/subject/26737053/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2375529979.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417037/",
+      "name": "叶树 Shu Ye"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339697/",
+      "name": "南笙 Sheng Nan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337610/",
+      "name": "江奇霖 Qilin Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361364/",
+      "name": "姜萌轩 Michelle Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366550/",
+      "name": "王以纶 Riley Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387126/",
+      "name": "赵无悠 Wuyou Zhao"
+    }
+  ]
+,
+  "datePublished": "2016-08-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H19M",
+  "description": "淘梦影业出品的网络大电影《仙侠学院》",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "267",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

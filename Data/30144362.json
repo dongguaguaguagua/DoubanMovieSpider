@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暗流 The KAOS Brief",
+  "url": "/subject/30144362/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2513189992.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388671/",
+      "name": "德鲁·利普森 Drew Lipson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388678/",
+      "name": "查理·摩根·巴顿 Charlie Morgan Patton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388679/",
+      "name": "马可·德尔维奇奥 Marco DelVecchio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388680/",
+      "name": "阿卡尼莫·埃约 Akanimo Eyo"
+    }
+  ]
+,
+  "datePublished": "2017-05-04",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "Hacked footage reveals mysterious events surrounding the abduction of four teenagers.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "118",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.4"
+  }
+}

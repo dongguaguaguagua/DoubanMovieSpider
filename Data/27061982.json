@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "治疗 Therapie",
+  "url": "/subject/27061982/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2461539809.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420330/",
+      "name": "伦纳德·昆兹 Leonard Kunz"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H57M",
+  "description": "艾莉雅是一名23岁的女性重罪犯，在服刑四年后终于重获自由。她想要把过往都抛开，一心一意照顾年仅12岁的弟弟，但她被强制要求先进行心理治疗。为她进行治疗的医生叫施泰纳赫，他喜欢用录像机作为治疗的一部分，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "30",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

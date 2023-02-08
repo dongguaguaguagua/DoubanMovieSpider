@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "这一刻，我要世界看见",
+  "url": "/subject/27132379/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2499135562.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381095/",
+      "name": "殷敬峰 jingfeng Yin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381095/",
+      "name": "殷敬峰 jingfeng Yin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370237/",
+      "name": "刘峻纬 Awayne Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381096/",
+      "name": "陈曼青 Vela Blue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381097/",
+      "name": "张伟晋 Regent Cheung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321309/",
+      "name": "周定纬 Judy Chou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314959/",
+      "name": "利晴天 Sky Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275651/",
+      "name": "冼色丽 Seli Xian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366487/",
+      "name": "刘道玄 Tao-Hsuan Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316605/",
+      "name": " "
+    }
+  ]
+,
+  "datePublished": "2017-09-20",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H25M",
+  "description": "本片讲述的是一群年轻人在生活、社会、情感的重压之下，仍旧义无反顾的追求自己音乐梦想的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

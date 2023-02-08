@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天上的孩子",
+  "url": "/subject/30301304/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2687386000.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413636/",
+      "name": "许磊 Lei Xu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413636/",
+      "name": "许磊 Lei Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315233/",
+      "name": "许还幻 Huanhuan Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413637/",
+      "name": "师清峰 Qingfeng Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385159/",
+      "name": "冯浩 Hao Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461548/",
+      "name": "宋承轩 Chengxuan Song"
+    }
+  ]
+,
+  "datePublished": "2021-09-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H55M",
+  "description": "《天上的孩子》是由胡玫导演监制的第一部电影作品，该片取材于真实的人物故事，讲述了一对山里的年轻夫妇，四岁的儿子得了绝症后的一系列感人故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

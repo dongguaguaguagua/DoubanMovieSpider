@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "原子鲨鱼 Atomic Shark",
+  "url": "/subject/27030977/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2456894534.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049947/",
+      "name": "格里夫·弗斯特 Griff Furst"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036461/",
+      "name": "杰夫·法赫 Jeff Fahey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247033/",
+      "name": "瑞秋·布鲁克·史密斯 Rachele Brooke Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031980/",
+      "name": "大卫·福斯蒂诺 David Faustino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032177/",
+      "name": "鲍比·坎波 Bobby Campo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049947/",
+      "name": "格里夫·弗斯特 Griff Furst"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457259/",
+      "name": "Charlotte Lilt Charlotte Lilt"
+    }
+  ]
+,
+  "datePublished": "2016-07-24",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

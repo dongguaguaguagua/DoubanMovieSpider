@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "越谷最棒了 越谷サイコー",
+  "url": "/subject/30174778/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516915877.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348586/",
+      "name": "佐久间由衣 Yui Sakuma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315821/",
+      "name": "佐藤二朗 Jirô Satô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051745/",
+      "name": "竹下景子 Keiko Takeshita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384660/",
+      "name": "饭岛宽骑 Hiroki Iijima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313944/",
+      "name": "今野浩喜 Hiroki konno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1188175/",
+      "name": "吉泽瞳 Hitomi Yoshizawa"
+    }
+  ]
+,
+  "datePublished": "2018-02-28",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT0H59M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

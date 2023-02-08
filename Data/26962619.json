@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寄生虫 Parasites",
+  "url": "/subject/26962619/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2417922572.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000713/",
+      "name": "Chad Ferrin Chad Ferrin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-01-24",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H21M",
+  "description": "Three friends find themselves lost on Skid Row and are captured by an angry homeless gang.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

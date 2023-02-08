@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Possessed",
+  "url": "/subject/26781466/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274695/",
+      "name": "比利·布莱尔 Billy Blair"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1161999/",
+      "name": "莉萨·威尔科克斯 Lisa Wilcox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124361/",
+      "name": "Jason Lively Jason Lively"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481209/",
+      "name": "Rebekah Lynn Bruflodt Rebekah Lynn Bruflodt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483290/",
+      "name": "Alexis Arnold Alexis Arnold"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483362/",
+      "name": "Jessica Felice Jessica Felice"
+    }
+  ]
+,
+  "datePublished": "2016-06-30",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Ever since she suffered from a failed exorcism, Karen Avalon has been rebuilding her life far away f...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

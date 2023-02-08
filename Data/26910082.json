@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你好，吸血鬼小姐1",
+  "url": "/subject/26910082/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2396410699.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398596/",
+      "name": "王浩奕 Haoyi Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354688/",
+      "name": "任娇 Jiao Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427618/",
+      "name": "杜憬仪 Jingyi Du"
+    }
+  ]
+,
+  "datePublished": "2016-11-11",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H5M",
+  "description": "影片主要讲述了一百年前，在青岛德占时期被西方吸血鬼转化的方墨，成为了历史上第一个东方吸血鬼，身上兼具吸血鬼与东方萨满两种血统，成为了超级吸血鬼。一方面，方墨躲藏在大学校园中渴望平凡人的生活，并试图忘记...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

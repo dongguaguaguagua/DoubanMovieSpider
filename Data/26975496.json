@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀戮游戏",
+  "url": "/subject/26975496/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2493507470.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362990/",
+      "name": "王启超 Qichao Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362990/",
+      "name": "王启超 Qichao Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441964/",
+      "name": "刘航宇 Hangyu Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381717/",
+      "name": "钟曼洋 ManYang Zhong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374559/",
+      "name": "谭博文 "
+    }
+  ]
+,
+  "datePublished": "2017-07-20",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "PT1H10M",
+  "description": "城市中发生了几起失踪事件，警方怀疑是凶杀，但又一直没找到尸体和任何迹象。
+陪酒女姗姗在跟经理谭添争吵的过程中发生了冲突，黄哲凯出现救了她。黄哲凯给她了一张纸巾让她擦掉嘴边的血迹，没想到是纸里有迷药。
+...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

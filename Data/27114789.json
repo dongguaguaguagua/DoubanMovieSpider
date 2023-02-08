@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "深宅谜影",
+  "url": "/subject/27114789/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2496421253.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381821/",
+      "name": "马丹阳 Danyang Ma"
+    }
+  ]
+,
+  "datePublished": "2018-04-17",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "民国时期，身为探长的男主角随女友去看望在达官显贵之家做仆佣的姨妈，不料却遇上豪宅内的诡异命案。血案背后的凶手，指向金枝玉叶的贵小姐、美艳风骚的二太太、精明历练的管家婆甚至是隐忍卑微的佣人……疑云重重中...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

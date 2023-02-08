@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天才医仙",
+  "url": "/subject/27038925/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2458619402.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321568/",
+      "name": "马史 Shi Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373654/",
+      "name": "冯启 Qi Feng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321568/",
+      "name": "马史 Shi Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390662/",
+      "name": "吴朕朕 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339447/",
+      "name": "杨默 Mo Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322073/",
+      "name": "何文辉 Wenhui He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315575/",
+      "name": "李健仁 Kin-Yan Lee"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H20M",
+  "description": "根据网络作家一桶浆糊的网络超级IP小说《天才医仙》，以及点击5亿的同名IP漫画改编而成的电影。孙子轩，华夏医学院新生，爷爷曾是中医高手却因中医丧命，所以他励志学习西医。一场意外，孙子轩有了能看到鬼魂的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

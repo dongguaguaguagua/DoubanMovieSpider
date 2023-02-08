@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无效申请",
+  "url": "/subject/26898859/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2516839104.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319081/",
+      "name": "曲江涛 Jiangtao Qu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275864/",
+      "name": "丁海峰 Haifeng Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316854/",
+      "name": "孙涛 Tao Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318750/",
+      "name": "李依馨 Yixin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365696/",
+      "name": "马泽涵 Zehan Ma"
+    }
+  ]
+,
+  "datePublished": "2016-10-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "剧情改编自我军交通运输行业系统的真人真事，讲述了一位铁路军代表躬耕于军交事业的感人故事，他为兼顾家庭与使命，在面临人生抉择时，最终以军人特有的坚毅品质和大爱情怀感动家人。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

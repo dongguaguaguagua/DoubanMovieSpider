@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "铭心岁月",
+  "url": "/subject/27605572/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2577609043.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370092/",
+      "name": "钱泠泠 Lingling Qian"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326919/",
+      "name": "郎云 Yun Lang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326075/",
+      "name": "吴婷 Ting Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315688/",
+      "name": "于滨 Bin Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442284/",
+      "name": "余骁睿 Xiaorui Yu"
+    }
+  ]
+,
+  "datePublished": "2018-11-23",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u5386\u53f2"],
+  "duration": "PT1H28M",
+  "description": "电影《铭心岁月》记录了开国中将刘忠将军及其夫人伍兰英在邓小平召开“上河会议”前后，在阳城经历的艰难曲折而又富于传奇的抗日斗争经历。特别是伍兰英同志，是有名的红军女战士、双枪女八路，不仅在“上河会议”期...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

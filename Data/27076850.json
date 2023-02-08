@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "花园里 Trädgårdsgatan",
+  "url": "/subject/27076850/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2525674355.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1245668/",
+      "name": "西蒙·J·伯杰 Simon J. Berger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320046/",
+      "name": "琳达 · 莫林 Linda Molin"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H50M",
+  "description": "Eric和Elin小时候父母都吸毒成瘾，他们度过了几个月如家人般的日子，本片就从两位成年之后的第一次见面展开。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "86",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

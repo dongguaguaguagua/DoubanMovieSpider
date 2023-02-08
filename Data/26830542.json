@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Shivalinga",
+  "url": "/subject/26830542/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433139/",
+      "name": "西瓦·拉吉库马尔 Shivarajkumar"
+    }
+  ]
+,
+  "datePublished": "2016-02-12",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT2H31M",
+  "description": "Shivalinga is story weaved around a murder mystery. Who killed Rahim? Why was he killed? Is it murde...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

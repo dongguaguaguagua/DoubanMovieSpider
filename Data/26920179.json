@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "同步 SYNCHRONIZER",
+  "url": "/subject/26920179/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2494231391.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290842/",
+      "name": "万田邦敏 Kunitoshi Manda"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416403/",
+      "name": "竹内里纱 Takeuchi Risa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290842/",
+      "name": "万田邦敏 Kunitoshi Manda"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012871/",
+      "name": "中原翔子 Shôko Nakahara"
+    }
+  ]
+,
+  "datePublished": "2017-02-11",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H23M",
+  "description": "长谷川高志是一名研究员，在未经允许的情况下，他偷偷地研究着人与生物之间的同步脑电波。他的同事木下萌知道他的这项“地下研究”能够推动对于大脑方面疾病的研究治疗，两人私下也彼此深深相爱着。除此之外，木下萌...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

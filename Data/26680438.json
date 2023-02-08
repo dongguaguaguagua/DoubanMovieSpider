@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "二次元侦探",
+  "url": "/subject/26680438/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2299217942.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357778/",
+      "name": "胡利峰 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357777/",
+      "name": "胡利峰 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353707/",
+      "name": "熊语真 Yuzhen Xiong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354438/",
+      "name": "薛渊 Xue Yuan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314657/",
+      "name": "霍政谚 Zhengyan Huo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321437/",
+      "name": "徐立 Li Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354438/",
+      "name": "薛渊 Xue Yuan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u7231\u60c5", "\u79d1\u5e7b", "\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H8M",
+  "description": "美女侦探小说家徐小曼遭遇写作困境，于是从自己室友霍顿身上汲取灵感。小说中，徐小曼将自己幻想成为高冷犯罪心理学家徐曼，将霍顿幻想成威猛勇敢的型男侦探霍胜，两人在虚构的小说世界中开启了侦探生涯。小说中，两...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "105",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

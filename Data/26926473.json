@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "人生有时 Sila Samayangalil",
+  "url": "/subject/26926473/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523762810.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432715/",
+      "name": "阿肖克·塞尔万 Ashok Selvan"
+    }
+  ]
+,
+  "datePublished": "2018-04-30",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "七个素不相识的人焦急地等待着他们的 HIV 检测结果。为提早获知消息，他们贿赂了前台，从而得知有一人的诊断结果为阳性。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

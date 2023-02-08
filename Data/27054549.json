@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绑架马云上",
+  "url": "/subject/27054549/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2460576668.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415205/",
+      "name": "隆莎 Sha Long"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427624/",
+      "name": "白希 Xi Bai"
+    }
+  ]
+,
+  "datePublished": "2017-05-26",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H12M",
+  "description": "男主角马云上是一名纨绔子弟，在遭到一次绑架后奋力脱逃，却不幸撞上了自己的女神--同事梦璐，醒来后马云上惊奇地发现自己竟然与梦璐互换了身体，自己变成女人，梦璐变成了男人，马云上该如何面对这一切？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,38 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寄伴",
+  "url": "/subject/27191341/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1458426/",
+      "name": "张玮庭 Wei-ting Chang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT0H4M",
+  "description": "机器人在天空邮局工作，日复一日整理邮件的生活单调无趣。突然邮包掉下一个男孩，他们彼此相伴，成为贴心的另类家庭伙伴，也把他们的爱，邮递到世界所有角落。
+2016 放视大赏 动画类 大会特别奖
+2016青...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

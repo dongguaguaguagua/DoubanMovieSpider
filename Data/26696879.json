@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你好，疯子！",
+  "url": "/subject/26696879/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2408394301.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326752/",
+      "name": "饶晓志 Xiaozhi Rao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326752/",
+      "name": "饶晓志 Xiaozhi Rao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357083/",
+      "name": "雷志龙 Zhilong Lei"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315477/",
+      "name": "万茜 Qian Wan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276085/",
+      "name": "周一围 Yiwei Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326390/",
+      "name": "王自健 Zijian Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275482/",
+      "name": "金士杰 Shih-Chieh King"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357084/",
+      "name": "李虹辰 Hongchen Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275369/",
+      "name": "莫小奇 Monica Mok"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313480/",
+      "name": "刘亮佐 Liang-tso Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337942/",
+      "name": "曹卫宇 Weiyu Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375802/",
+      "name": "王戈 Ge Wang"
+    }
+  ]
+,
+  "datePublished": "2016-12-30",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u60ac\u7591"],
+  "duration": "PT1H47M",
+  "description": "七个互不认识的正常人莫名奇妙被关进了疯人院，为了逃脱这七个人费尽了心思：能把“死人说活”的话唠律师马睿（王自健 饰）、出口成章但性格懦弱的历史老师萧乃恩（金士杰 饰）、“混不吝”的记者李正（周一围 饰...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "98706",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

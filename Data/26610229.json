@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "方形 The Square",
+  "url": "/subject/26610229/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495377597.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332211/",
+      "name": "鲁本·奥斯特伦德 Ruben Östlund"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332211/",
+      "name": "鲁本·奥斯特伦德 Ruben Östlund"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1067129/",
+      "name": "克拉斯·邦 Claes Bang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022566/",
+      "name": "伊丽莎白·莫斯 Elisabeth Moss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027173/",
+      "name": "多米尼克·韦斯特 Dominic West"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341026/",
+      "name": "泰瑞·诺塔里 Terry Notary"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381172/",
+      "name": "克里斯托弗·莱索 Christopher Læssø"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1194504/",
+      "name": "玛丽娜·希彭蔻 Marina Schiptjenko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1479492/",
+      "name": " Moa Stefansdotter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293270/",
+      "name": "约翰努德林 John Nordling"
+    }
+  ]
+,
+  "datePublished": "2017-05-20",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H31M",
+  "description": "克里斯蒂安（克拉斯·邦 Claes Bang 饰）和妻子离婚后，带着小女儿（Lilianne Mardon 饰）开始了全新的生活。克里斯蒂安在一间艺术馆里担任策展人的职位，最近，他正在筹划一项名为“方...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "45128",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

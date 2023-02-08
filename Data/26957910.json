@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "A Room to Die For",
+  "url": "/subject/26957910/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2414390127.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1065858/",
+      "name": "瓦斯·布莱克伍德 Vas Blackwood"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218535/",
+      "name": "乔恩·坎普林 Jon Campling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474524/",
+      "name": "弗雷德里克·冯·路提考 Frederik von Lüttichau"
+    }
+  ]
+,
+  "datePublished": "2017-01-16",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H24M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

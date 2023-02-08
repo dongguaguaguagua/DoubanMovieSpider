@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雨中的女人 雨にゆれる女",
+  "url": "/subject/26358548/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2375617150.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285985/",
+      "name": "半野喜弘 Yoshihiro Hanno"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285985/",
+      "name": "半野喜弘 Yoshihiro Hanno"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318594/",
+      "name": "青木崇高 Munetaka Aoki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317519/",
+      "name": "大野丝 Ito Ôno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337544/",
+      "name": "冈山天音 Okayama Amane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1241262/",
+      "name": "地曳豪 Gô Jibiki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318963/",
+      "name": "森冈龙 Ryû Morioka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418397/",
+      "name": "十贯寺梅轩 Baiken Jukkanji"
+    }
+  ]
+,
+  "datePublished": "2016-11-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "半野喜弘の初監督映画『雨にゆれる女』が、2016年に公開される。
+同作は、エレクトロニックミュージックやオーケストラ作品に加え、ホウ・シャオシェン監督、ジャ・ジャンクー監督らの映画音楽など、国内外で幅...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "112",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

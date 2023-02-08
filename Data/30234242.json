@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "她是茱莉娅 Júlia ist",
+  "url": "/subject/30234242/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2523360665.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448530/",
+      "name": "埃琳娜·马丁 Elena Martín"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1117162/",
+      "name": "Elena Martín Elena Martín"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448530/",
+      "name": "埃琳娜·马丁 Elena Martín"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1117162/",
+      "name": "Elena Martín Elena Martín"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1117162/",
+      "name": "Elena Martín Elena Martín"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294972/",
+      "name": "Oriol Puig Oriol Puig"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448530/",
+      "name": "埃琳娜·马丁 Elena Martín"
+    }
+  ]
+,
+  "datePublished": "2017-06-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "茱莉娅是一名21岁的建筑学学生，她对自己的未来非常清晰。但去柏林做交换生以后，头一次自己孤身在外，她开始怀疑对自我的认识，对未来也变得茫然。她要在柏林这个熙熙攘攘的大都市重建自己的新生活。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "好友请求 Friend Request",
+  "url": "/subject/26373527/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2277065823.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018484/",
+      "name": "西蒙·范霍文 Simon Verhoeven"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1062821/",
+      "name": "马修·巴伦 Matthew Ballen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334319/",
+      "name": "菲利普·科赫 Philip Koch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018484/",
+      "name": "西蒙·范霍文 Simon Verhoeven"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341013/",
+      "name": "阿莉西娅·戴柏南·凯里 Alycia Debnam Carey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044875/",
+      "name": "威廉·莫斯里 William Moseley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009369/",
+      "name": "康勒·帕奥罗 Connor Paolo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1251626/",
+      "name": "布里特·摩根 Brit Morgan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381726/",
+      "name": "布鲁克·马卡姆 Brooke Markham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010744/",
+      "name": "西恩·马奎特 Sean Marquette"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381727/",
+      "name": "莉斯尔·阿勒斯 Liesl Ahlers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1093388/",
+      "name": "沙沙维恩·豪尔 Shashawnee Hall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368579/",
+      "name": "苏珊·丹福特 Susan Danford"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381728/",
+      "name": "丽·拉维夫 Lee Raviv"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327562/",
+      "name": "尼古拉斯·鲍林 Nicholas Pauling"
+    }
+  ]
+,
+  "datePublished": "2016-01-07",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H32M",
+  "description": "学校里的风云人物劳拉，善于交际，热爱脸书。某日，劳拉与她在脸书上认识的女孩“玛丽娜”发生争执，怒而取关，玛丽娜自杀。从这时起，劳拉的好友开始离奇惨死。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "8705",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

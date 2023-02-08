@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Adam",
+  "url": "/subject/26882694/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2503990812.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1225455/",
+      "name": "道格拉斯·C·威廉姆斯 Douglas C. Williams"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "A retired detective is faced with one last interrogation of a mysterious confessed serial killer.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

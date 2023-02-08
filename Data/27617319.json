@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "李秀与情夫 변강쇠 VS 어우동",
+  "url": "/subject/27617319/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2509091991.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378602/",
+      "name": "李秀 Soo Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378603/",
+      "name": "英秀 Soo Yeong"
+    }
+  ]
+,
+  "datePublished": "2017-10-31",
+  "genre": ["\u5267\u60c5", "\u60c5\u8272"],
+  "duration": "PT1H31M",
+  "description": "&#34;그 둘의 소문은 그 이상 이였다!&#34;
+관아에 쫓기는 몸이 된 어우동은 한 마을에 숨어들게 되고 그의 옆집에는 소문이 자자한 조선 최고의 대물 변강쇠가 살고 있다. 변강쇠와 어우동은...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "127",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "收获灵魂 Harvest of Souls",
+  "url": "/subject/26721470/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2334698662.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314394/",
+      "name": "内尔·德贞 Neil Dudgeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1268856/",
+      "name": "格威利姆·李 Gwilym Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080982/",
+      "name": "菲奥娜·多尔曼 Fiona Dolman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348368/",
+      "name": "大卫·叶兰德 David Yelland"
+    }
+  ]
+,
+  "datePublished": "2016-02-17",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H30M",
+  "description": "The annual harvest fair and the daredevil riders of the Wall of Death come to Midsomer village Whitc...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

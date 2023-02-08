@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "瘦长鬼影 Slender",
+  "url": "/subject/26756118/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2432381582.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174492/",
+      "name": "Joel Petrie Joel Petrie"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174492/",
+      "name": "Joel Petrie Joel Petrie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399038/",
+      "name": "维克多·苏格 Victor Surge"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174492/",
+      "name": "Joel Petrie Joel Petrie"
+    }
+  ]
+,
+  "datePublished": "2016-03-18",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "Two filmmakers searching for the perfect documentary subject stumble across a story that even they d...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

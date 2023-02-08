@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "窥镜 Looking Glass",
+  "url": "/subject/26878991/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2511863843.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362674/",
+      "name": "杰瑞·拉普 Jerry Rapp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352632/",
+      "name": "马修·怀尔德 Matthew Wilder"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054455/",
+      "name": "尼古拉斯·凯奇 Nicolas Cage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017933/",
+      "name": "罗宾·汤尼 Robin Tunney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013793/",
+      "name": "马克·布鲁卡斯 Marc Blucas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007101/",
+      "name": "厄尼·里夫利 Ernie Lively"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382293/",
+      "name": "雅克·格雷 Jacque Gray"
+    }
+  ]
+,
+  "datePublished": "2018-02-16",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H43M",
+  "description": "尼古拉斯·凯奇出演独立制作惊悚片《窥镜》(Looking Glass，暂译)。导演为曾拍摄多部MV及广告的多里·奥斯科维兹，编剧杰里·莱普、马修·怀尔德。一对夫妇在经历生活伤痛后买下了荒郊僻壤一处汽车...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "802",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.4"
+  }
+}

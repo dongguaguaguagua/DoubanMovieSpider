@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "街滑子",
+  "url": "/subject/30323158/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322645/",
+      "name": "乔禹涵 Yuhan Qiao"
+    }
+  ]
+,
+  "datePublished": "2018-09-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H1M",
+  "description": "廖学兵出狱后，不被家人所接受。无奈投靠当年的‘街滑子’大哥陈继诚。却不知陈继诚经营的汽车修理场正面临拆迁。协商拆迁协议时，发现拆迁公司的老板，正是廖学兵当年的死对头罗胜越。幕后地产公司的老板，是曾经暗...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

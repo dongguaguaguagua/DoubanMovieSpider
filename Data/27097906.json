@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "回家过年",
+  "url": "/subject/27097906/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2565824380.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378204/",
+      "name": "冯胜杰 Shengjie Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378203/",
+      "name": "余建群 Jianqun Yu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378203/",
+      "name": "余建群 Jianqun Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377743/",
+      "name": "刘良峰 Liang Feng Liu"
+    }
+  ]
+,
+  "datePublished": "2016-02-18",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H18M",
+  "description": "某房地产老总千金小姐唐梦梦酷爱小说创作，为了找创作灵感扮成乞丐戏弄在她老爸公司应聘的山村打工仔万士豪，万士豪是个忠厚老实，面对唐梦梦的百般刁难依然诚恳面对并安排唐梦梦吃大餐住酒店，不料唐梦梦在与万士豪...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

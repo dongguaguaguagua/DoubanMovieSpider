@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "第68届NHK红白歌会 第68回NHK紅白歌合戦",
+  "url": "/subject/27198137/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2509629907.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018351/",
+      "name": "二宫和也 Kazunari Ninomiya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275528/",
+      "name": "有村架纯 Kasumi Arimura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011858/",
+      "name": "内村光良 Teruyoshi Uchimura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483351/",
+      "name": "桑子真帆 Maho Kuwako"
+    }
+  ]
+,
+  "datePublished": "2017-12-31",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "PT4H30M",
+  "description": "本届红白是安室奈美惠和AKB48的渡边麻友的最后的红白舞台，也是superfly复出的舞台，各种思绪交织着。让我们一起歌唱梦想吧！爱笑聚祝大家新年快乐",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2525",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.4"
+  }
+}

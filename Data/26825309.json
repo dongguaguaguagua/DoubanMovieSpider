@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "周末夫妇 주말부부",
+  "url": "/subject/26825309/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2362828046.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363456/",
+      "name": "安昭希 So-hee Ahn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364148/",
+      "name": "姜艺娜 Kang Ye-na"
+    }
+  ]
+,
+  "datePublished": "2016-07-12",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H25M",
+  "description": "小林和阿红在大学时代是一对恩爱情侣，毕业后各分东西。但多年后， 他们恰为一家公司同事，两人旧情复燃，尽管他们都已有了爱人。所以他俩决定只做一对「周末夫妇」，但遇到重重阻挠，最后为了对方的幸福，长谈并尽...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "393",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "比鲁的心魔 Bilu: A demon within",
+  "url": "/subject/26881798/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2566441271.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422194/",
+      "name": "乔伊·森古普多 Joy Sengupta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425572/",
+      "name": "柯妮尼卡·班纳吉 Koneenica Banerjee"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b"],
+  "duration": "PT2H8M",
+  "description": "The story of &#34;Bilu Rakkhosh&#34; revolves around the central protagonist &#34;Bilu&#34; who is a direct product ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

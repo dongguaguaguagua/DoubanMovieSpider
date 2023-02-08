@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新聊斋之僵尸新娘",
+  "url": "/subject/27079404/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2479275530.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404508/",
+      "name": "孙振鹏 Zhenpeng Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414826/",
+      "name": "邱士鉴 Shijian Qiu"
+    }
+  ]
+,
+  "datePublished": "2017-07-06",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H40M",
+  "description": "影片讲述了雨夜，李晓的车陷进了荒野路上的水洼里，冒雨走入附近一座破旧的寺庙，本想寻求帮助，可四下无人。在寺庙的祠堂里，李晓遇到一个同样来避雨的女孩，两人发现了一本记录捉鬼传说的日记《民国灵异录》，开启...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "265",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

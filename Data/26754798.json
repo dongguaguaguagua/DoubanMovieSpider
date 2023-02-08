@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "洛杉矶东大街 Streets of East L.A.",
+  "url": "/subject/26754798/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2327390382.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041204/",
+      "name": "戴米恩·查帕 Damian Chapa"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041204/",
+      "name": "戴米恩·查帕 Damian Chapa"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049647/",
+      "name": "帕兹·德拉维尔塔 Paz de la Huerta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055076/",
+      "name": "威廉·麦克纳马拉 William McNamara"
+    }
+  ]
+,
+  "datePublished": "2016-03-21",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H22M",
+  "description": "Chicano gangster Micky Solis finds that his family has been slaughtered by the Chinese mob. His whol...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

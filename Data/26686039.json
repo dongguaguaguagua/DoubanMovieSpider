@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "אמור",
+  "url": "/subject/26686039/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2369486570.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1148064/",
+      "name": "Raphael Rebibo Raphael Rebibo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1148064/",
+      "name": "Raphael Rebibo Raphael Rebibo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008142/",
+      "name": "李伦·勒夫 Liron Levo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1104904/",
+      "name": "摩西·伊夫吉 Moshe Ivgy"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "八月中的三天 Three Days in August",
+  "url": "/subject/26966752/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2423179427.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070528/",
+      "name": "Johnathan Brownlee Johnathan Brownlee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070528/",
+      "name": "Johnathan Brownlee Johnathan Brownlee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1179939/",
+      "name": "Luis Albert Acevedo Jr. Luis Albert Acevedo Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054792/",
+      "name": "梅格·福斯特 Meg Foster"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018144/",
+      "name": "玛丽特·哈莉 Mariette Hartley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032093/",
+      "name": "巴瑞·波斯威克 Barry Bostwick"
+    }
+  ]
+,
+  "datePublished": "2016-04-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "An adopted Irish American artist confronts her past when both sets of parents come together over a w...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

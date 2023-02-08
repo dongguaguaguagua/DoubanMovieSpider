@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "时间怪客 Time Freak",
+  "url": "/subject/27019570/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541351507.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324877/",
+      "name": "安德鲁·鲍勒 Andrew Bowler"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324877/",
+      "name": "安德鲁·鲍勒 Andrew Bowler"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000220/",
+      "name": "阿萨·巴特菲尔德 Asa Butterfield"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318962/",
+      "name": "苏菲·特纳 Sophie Turner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009602/",
+      "name": "斯凯勒·吉桑多 Skyler Gisondo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1254188/",
+      "name": "奥布雷·雷诺兹 Aubrey Reynolds"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406824/",
+      "name": "约瑟夫·朴 Joseph Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406825/",
+      "name": "凯登·J·格雷戈尔 Caden J. Gregoire"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406826/",
+      "name": "科洛尔·钱伯斯 Coral Chambers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394511/",
+      "name": "马克·布洛克维奇 Mark Blockovich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394504/",
+      "name": "玛丽莲·米勒 Marilyn Miller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342820/",
+      "name": "威廉·佩尔茨 william peltz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394507/",
+      "name": "Gerry Garcia Gerry Garcia"
+    }
+  ]
+,
+  "datePublished": "2018-11-09",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H44M",
+  "description": "一个心碎的物理学生（Asa Butterfield），当他的女友Debbie（Sophie Turner）和他分手后，他发明了一台时间机器。试图回到过去解决恋情中的错误...改编自导演Andrew B...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3730",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

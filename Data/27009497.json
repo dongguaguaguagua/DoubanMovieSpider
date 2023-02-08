@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "特洛伊奥德赛 Troy the Odyssey",
+  "url": "/subject/27009497/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2453314147.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037142/",
+      "name": "Eric Forsberg Eric Forsberg"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187726/",
+      "name": "迪伦沃克斯 Dylan Vox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1083364/",
+      "name": "埃里克·保罗·埃里克森 Eric Paul Erickson"
+    }
+  ]
+,
+  "datePublished": "2017-10-15",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H20M",
+  "description": "Based on the Epic Greek Poem as sung by Homer.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "259",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

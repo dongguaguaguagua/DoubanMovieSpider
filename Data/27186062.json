@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "麦克白 National Theatre Live: Macbeth",
+  "url": "/subject/27186062/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2514063667.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327446/",
+      "name": "鲁弗斯·诺里斯 Rufus Norris"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044735/",
+      "name": "威廉·莎士比亚 William Shakespeare"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187874/",
+      "name": "罗里·金尼尔 Rory Kinnear"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027243/",
+      "name": "安-玛莉·杜芙 Anne-Marie Duff"
+    }
+  ]
+,
+  "datePublished": "2018-05-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H22M",
+  "description": "麦克白将军（罗里·金尼尔 Rory Kinnear 饰）是苏格兰国王邓肯的表弟，在外抵御外敌平反谋乱，战功赫赫，某日归国途中，遇见了三个女巫，女巫预言麦克白将会加官进爵，此言令麦克白心中蠢蠢欲动。然而...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "262",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

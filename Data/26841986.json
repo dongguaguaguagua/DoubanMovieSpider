@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "公民战士 Citizen Soldier",
+  "url": "/subject/26841986/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2368775769.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296554/",
+      "name": "David Salzberg David Salzberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309752/",
+      "name": "Christian Tureaud Christian Tureaud"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-08-30",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H45M",
+  "description": "本片从士兵的角度讲述了俄克拉荷马州陆军国民警卫队第45旅级战斗群，在派遣到阿富汗的96天里的经历。通过大量录像，战地记录从另一个角度让我们审视阿富汗战争。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

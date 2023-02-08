@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "看不见的恋人·下",
+  "url": "/subject/30318221/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2533304481.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390526/",
+      "name": "彭德松 Desong Peng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390527/",
+      "name": "张晖 Hui Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390529/",
+      "name": "张艺航 Yihang Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385985/",
+      "name": "王越 Yue Wang"
+    }
+  ]
+,
+  "datePublished": "2018-09-13",
+  "genre": ["\u7231\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H7M",
+  "description": "《看不见的恋人》是彭德松导演执导的爱情题材网络电影，由搜狐视频独家授权播出的网络电影。讲述男主吴大卫为给女友小刀筹钱治病，身陷工作“潜规则”，在种种危机下又坠入金钱诱惑的沼泽中不能自拔…",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

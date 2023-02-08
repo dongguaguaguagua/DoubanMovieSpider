@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "白七",
+  "url": "/subject/30378813/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539932888.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366247/",
+      "name": "戴津 Jin Dai"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342717/",
+      "name": "程耀辉 Yaohui Cheng"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H24M",
+  "description": "北宋末年延州城隐居侠客白七受乡绅赵老大委托调查一桩儿童失踪案件在赵老大与白七同门师弟宋捕头的引导下查出了贩卖儿童的幕后黑手木老爷并将其一举捣毁白七惩治了恶人带着解救出来的孩子秀儿走向了光明与希望。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

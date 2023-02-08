@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "温迪 Wendy",
+  "url": "/subject/26965137/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2421637823.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244319/",
+      "name": "罗尔夫·伯格 Rolf Berg"
+    }
+  ]
+,
+  "datePublished": "2017-01-26",
+  "genre": ["\u559c\u5267", "\u513f\u7ae5"],
+  "duration": "PT1H31M",
+  "description": "12岁的小女孩Wendy对于要按照父母的决定来到祖父母破旧的马场“罗森堡”过暑假这件事并不开心。Wendy自从在一次骑马意外受伤后就再也没有骑过马，但当Wendy结识了一只饱受折磨的马Dixie后，她...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

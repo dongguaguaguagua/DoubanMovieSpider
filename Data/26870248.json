@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血色劫持 Blood Heist",
+  "url": "/subject/26870248/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1200356/",
+      "name": "珍娜·卡瓦列 Jenna Cavelle"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019001/",
+      "name": "詹姆斯·弗兰科 James Franco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329598/",
+      "name": "伊迪·加内姆 Edy Ganem"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343367/",
+      "name": "卡利托·奥利维罗 Carlito Olivero"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368092/",
+      "name": "詹姆斯·麦克马明 James McMenamin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378648/",
+      "name": "切尔西·洛佩兹 Chelsea Lopez"
+    }
+  ]
+,
+  "datePublished": "2017-07-28",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

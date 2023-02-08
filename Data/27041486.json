@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "群狗 Los Perros",
+  "url": "/subject/27041486/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2458857726.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420270/",
+      "name": "玛塞拉·萨义德 Marcela Said"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327141/",
+      "name": "阿尔佛莱德·卡斯特罗 Alfredo Castro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327142/",
+      "name": "安东尼娅·泽格斯 Antonia Zegers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052812/",
+      "name": "Alejandro Sieveking Alejandro Sieveking"
+    }
+  ]
+,
+  "datePublished": "2017-05-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "Mariana (42) is part of that Chilean upper class that takes privilege for granted. Despised by both ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "114",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

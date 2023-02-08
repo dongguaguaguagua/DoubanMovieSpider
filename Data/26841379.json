@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Chemist",
+  "url": "/subject/26841379/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2601842061.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000233/",
+      "name": "理查德·格里克 Richard Grieco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1114894/",
+      "name": "萨沙米切尔 Sasha Mitchell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025297/",
+      "name": "帕特里克·基尔帕特里克 Patrick Kilpatrick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027980/",
+      "name": "罗伯特·米亚诺 Robert Miano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022977/",
+      "name": "奥利弗·古鲁内尔 Olivier Gruner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1227094/",
+      "name": " Diegodiego"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474272/",
+      "name": "Stephanie Gerard Stephanie Gerard"
+    }
+  ]
+,
+  "datePublished": "2016-08-02",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "The Chemist is a gritty action thriller about an aging assassin who is double crossed by his employe...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

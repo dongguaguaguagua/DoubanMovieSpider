@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异类之行走的古堡",
+  "url": "/subject/26891561/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2388719668.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328161/",
+      "name": "朱睿 Rui Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280598/",
+      "name": "郑继宗 Andy Cheng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328161/",
+      "name": "朱睿 Rui Zhu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329519/",
+      "name": "维妮 ViNi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369578/",
+      "name": "高瀚宇 Hanyu Gao"
+    }
+  ]
+,
+  "datePublished": "2016-10-17",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u7231\u60c5", "\u79d1\u5e7b", "\u60ca\u609a", "\u5947\u5e7b"],
+  "duration": "PT1H10M",
+  "description": "三百年前，邪恶的奥茨星球研制出数以千计的异能生物体，它们被锁在黑洞之中。意外的颠簸，令时间墙破裂，它们逃往地球。时过境迁，它们中的一部分被人类同化，与人类和平共处。但另一部分却是危险分子，是人类之外的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的阿恰 阿恰",
+  "url": "/subject/28513633/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2680786118.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335854/",
+      "name": "胡明钢 Minggang Hu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380396/",
+      "name": "宋乃刚 Naigang Song"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "“帮助别人，就是帮助自己”这是主人公常挂在嘴边的话。故事的起因是尤玉英刚到新疆饥饿无助时，得到了麦麦提无私的帮助。透过互帮互助的点点滴滴，影片再现了民族团结一家亲的真实写照。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

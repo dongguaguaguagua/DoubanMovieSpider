@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一起入魔 Let&#39;s Be Evil",
+  "url": "/subject/26835461/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2370637025.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420129/",
+      "name": "马丁·欧文 Martin Owen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420129/",
+      "name": "马丁·欧文 Martin Owen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420131/",
+      "name": "伊丽莎白·莫里斯 Elizabeth Morris"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420131/",
+      "name": "伊丽莎白·莫里斯 Elizabeth Morris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395529/",
+      "name": "布鲁克·约翰斯顿 Brooke Johnston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366505/",
+      "name": "艾略特·詹姆斯·朗格里奇 Elliot James Langridge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1154942/",
+      "name": "卡拉·托恩顿 Kara Tointon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326084/",
+      "name": "伊莎贝尔·艾伦 Isabelle Allen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420129/",
+      "name": "马丁·欧文 Martin Owen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368070/",
+      "name": "Jules Brown Jules Brown"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172392/",
+      "name": "James McNeill James McNeill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428384/",
+      "name": "索菲·威利斯 Sophie Willis"
+    }
+  ]
+,
+  "datePublished": "2016-10-28",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H23M",
+  "description": "三个年轻人应聘到一个地下实验室，照顾一群高智商儿童的学习和生活，随着项目进展，孩子们出现各种异样举动，基地的设备和智能向导频发故障，恐怖的游戏开始了。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "343",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

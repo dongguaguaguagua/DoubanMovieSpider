@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暹罗厨房 Prig Kaeng",
+  "url": "/subject/27193311/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520369978.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303096/",
+      "name": "尼鲁·西里詹亚 Nirut Sirijanya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335429/",
+      "name": "彭帕克·西里古尔 Penpak Sirikul"
+    }
+  ]
+,
+  "datePublished": "2016-08-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "由万蒂公司发行，泰国三位青年导演共同导演的一部电影。影片讲述的是两个泰国饮食界的家族企业对于泰国菜烹饪的热爱以及追求。他们努力做到让食客们品尝到最正宗、最原汁原味的泰国菜。影片呈现方式真实且生动，表现...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "178",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

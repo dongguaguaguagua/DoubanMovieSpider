@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Mission Pays Basque",
+  "url": "/subject/27035439/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2462475736.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431178/",
+      "name": "卢德维克·伯尔纳 Ludovic Bernard"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088014/",
+      "name": "艾洛蒂·丰唐 Élodie Fontan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1129412/",
+      "name": "丹尼尔·普雷沃 Daniel Prévost"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468033/",
+      "name": "尼可拉斯·布里代 Nicolas Bridet"
+    }
+  ]
+,
+  "datePublished": "2017-07-12",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H38M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

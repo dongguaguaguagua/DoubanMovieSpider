@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "怨恨3 杀手 Killer",
+  "url": "/subject/30242682/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2524244486.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307185/",
+      "name": "斯蒂文·梅纳 Stevan Mena"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307185/",
+      "name": "斯蒂文·梅纳 Stevan Mena"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019044/",
+      "name": "阿德里安娜·巴比欧 Adrienne Barbeau"
+    }
+  ]
+,
+  "datePublished": "2018-10-12",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H29M",
+  "description": "Martin Bristol returns to where it all began: the home where he was kidnapped from. But he is not th...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "408",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.3"
+  }
+}

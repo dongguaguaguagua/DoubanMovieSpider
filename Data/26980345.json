@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱情热力学定律 Las leyes de la termodinámica",
+  "url": "/subject/26980345/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2512105422.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028176/",
+      "name": "马特奥·希尔 Mateo Gil"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363319/",
+      "name": "Berta Vázquez Berta Vázquez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028269/",
+      "name": "伊琳娜·埃斯柯拉 Irene Escolar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344260/",
+      "name": "奇诺·达林 Chino Darín"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1471428/",
+      "name": "胡安·贝坦柯特 Juan Betancourt"
+    }
+  ]
+,
+  "datePublished": "2018-03-13",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H40M",
+  "description": "一位物理学家用热力学定律来描述浪漫感情，但他的理论却被自己的爱情生活所证伪。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "171",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Simiente y Reja",
+  "url": "/subject/30272127/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527836690.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163081/",
+      "name": "罗伯托·阿尔瓦雷斯 Roberto Álvarez"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163081/",
+      "name": "罗伯托·阿尔瓦雷斯 Roberto Álvarez"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032298/",
+      "name": "贝伦·鲁埃达 Belén Rueda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365969/",
+      "name": "卡洛斯·桑托斯 Carlos Santos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1211589/",
+      "name": "娜塔莉亚·罗德里奎 Natalia Rodríguez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453755/",
+      "name": "何塞·路易斯·德马达里亚加 José Luis de Madariaga"
+    }
+  ]
+,
+  "datePublished": "2018-11-16",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "Two seemingly unconnected parallel stories. A kidnapping and a murder. A mother loses her son the sa...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

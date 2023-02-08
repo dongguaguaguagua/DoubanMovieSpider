@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "散养时代",
+  "url": "/subject/27102499/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494719009.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328353/",
+      "name": "王钧 Jun Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328353/",
+      "name": "王钧 Jun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413740/",
+      "name": "高城 Cheng Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413741/",
+      "name": "李弘 Hong Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321589/",
+      "name": "李梦男 Mengnan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413744/",
+      "name": "张弘博 Hongbo Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318750/",
+      "name": "李依馨 Yixin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413745/",
+      "name": "姚心怡 Xinyi Yao"
+    }
+  ]
+,
+  "datePublished": "2021-08-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "十二岁的金豆最大的心愿就是让自己的父亲金阿贵-春风镇电影院的放映员为全镇的孩子们免费放映一场《少林寺》，而此时，镇电影院面临倒闭的危机，承受着巨大压力的金阿贵无暇顾及金豆的期许。金阿贵以自己的形式对抗...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "笑澳江湖2",
+  "url": "/subject/30272881/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2527980213.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468384/",
+      "name": "张振东 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380628/",
+      "name": "詹牧 Mu Zhan"
+    }
+  ]
+,
+  "datePublished": "2018-07-10",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u60ac\u7591", "\u5192\u9669"],
+  "duration": "PT1H32M",
+  "description": "20世纪60年代初的澳门，此时澳门博彩业逐渐正规化，表面上虽是欣欣向荣一片祥和的景象，但人心叵测，总有一些人会为了自己的利益而不择手段。在这个鱼龙混杂的年代，澳门的江湖之中又将掀起一段血雨腥风的故事。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

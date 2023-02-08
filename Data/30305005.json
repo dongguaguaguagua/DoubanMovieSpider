@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三英大闹桃花源",
+  "url": "/subject/30305005/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541629438.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315440/",
+      "name": "黄一山 Gabriel Wong"
+    }
+  ]
+,
+  "datePublished": "2018-08-31",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H15M",
+  "description": "故事讲述桃花村里的杀马特男青年刘辈意外发现自己的侄子单身汉刘协暴毙于家中,并对于他的死产生了很大怀疑。此时村子里面也来了一位不速之客,他就是地产开发商曹猛德，他向各位乡亲提出高价收购土地的提议。村长董...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

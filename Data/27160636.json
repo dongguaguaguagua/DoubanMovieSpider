@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "各自的美食 각자의 미식",
+  "url": "/subject/27160636/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2550666346.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319174/",
+      "name": "曹圣奎 David Cho"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319174/",
+      "name": "曹圣奎 David Cho"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349000/",
+      "name": "朴奎利 Gyu-ri Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383518/",
+      "name": "李圭会 Lee Kyoo-hoi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "「各自的美食」为2018年平昌冬季奥运会的纪念电影，由江陵文化基金会支持创作。该片以江陵为背景，讲述的是主人公素恩负责制作江陵宣传视频，揭开对于美食每个人的回忆，慢慢理解对方的过程故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

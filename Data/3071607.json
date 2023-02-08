@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乡间路 Back Roads",
+  "url": "/subject/3071607/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541902629.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035645/",
+      "name": "亚历克斯·帕蒂弗 Alex Pettyfer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032182/",
+      "name": "阿德里安·莱恩 Adrian Lyne"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035645/",
+      "name": "亚历克斯·帕蒂弗 Alex Pettyfer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274253/",
+      "name": "妮可拉·佩尔茨 Nicola Peltz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000022/",
+      "name": "詹妮弗·莫里森 Jennifer Morrison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358721/",
+      "name": "基娅拉·奥利勒拉 Chiara Aurelia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049663/",
+      "name": "汤姆·艾弗瑞特·斯科特 Tom Everett Scott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017914/",
+      "name": "朱丽叶特·刘易斯 Juliette Lewis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339076/",
+      "name": "达妮卡·亚罗什 Danika Yarosh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041135/",
+      "name": "罗伯特·帕特里克 Robert Patrick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395027/",
+      "name": "加文·沃伦 Gavin Warren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406690/",
+      "name": "哈拉·芬利 Hala Finley"
+    }
+  ]
+,
+  "datePublished": "2018-04-20",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "&#34;Back Roads&#34; centers on a young man stuck in the Pennsylvania backwoods caring for his three younger...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "305",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

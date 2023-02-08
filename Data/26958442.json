@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的蛇精女友",
+  "url": "/subject/26958442/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2428722721.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362474/",
+      "name": "都钊 Zhao Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367976/",
+      "name": "岳辛 Xin Yue"
+    }
+  ]
+,
+  "datePublished": "2017-01-17",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H9M",
+  "description": "故事开始于数千年前，白蛇被法海压在了金山寺之下，悲痛之中，许下含恨而终，投胎转世成为了女儿身，名叫许萱（岳辛 饰）。那边厢，好不容易重获自由的白蛇依然没有忘记内心里对于许仙的情谊，发誓无论他现在身处何...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "499",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "飞行员槑舄",
+  "url": "/subject/30283287/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528970056.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408457/",
+      "name": "曹天恺 Tiankai Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331889/",
+      "name": "刘雪涛 Xuetao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373451/",
+      "name": "韩昕妤 Xinyu Han"
+    }
+  ]
+,
+  "datePublished": "2018-07-26",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H33M",
+  "description": "影片中槑舄（发音同：没戏）是一位其貌不扬的飞行员，他生活窘迫，但却会苦中作乐，体现了现代都市男女的一种生活方式，尽管外表光鲜靓丽，但其中的艰辛只有自己明白，而一切的努力也是为了不辜负自己，在虚幻的纸醉...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

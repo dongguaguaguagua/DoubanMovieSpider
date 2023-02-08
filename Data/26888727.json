@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "La Mina",
+  "url": "/subject/26888727/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2387548577.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247581/",
+      "name": " Luis Moya"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346181/",
+      "name": "吉米·肖 Jimmy Shaw"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402727/",
+      "name": "恩尼科·萨伽多伊 Eneko Sagardoy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468047/",
+      "name": "阿尔巴·吉莱拉 Alba Guilera"
+    }
+  ]
+,
+  "datePublished": "2016-07-29",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H34M",
+  "description": "After two years in prison by a affair with drugs, Jack Mayfield come backs to his tome together his ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

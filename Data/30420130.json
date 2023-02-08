@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "启航2019",
+  "url": "/subject/30420130/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2544584174.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312865/",
+      "name": "温岚 Landy Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407879/",
+      "name": "赵聪 Cong Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005575/",
+      "name": "张卫健 Dicky Cheung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011384/",
+      "name": "罗大佑 Tayu Lo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274942/",
+      "name": "郁可唯 Yisa Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333834/",
+      "name": "林志炫 Terry Lin"
+    }
+  ]
+,
+  "datePublished": "2018-12-31",
+  "genre": ["\u6b4c\u821e", "\u771f\u4eba\u79c0"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

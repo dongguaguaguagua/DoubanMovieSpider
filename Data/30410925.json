@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "离恨歌",
+  "url": "/subject/30410925/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2558533678.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391174/",
+      "name": "徐飞 Fei Xu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391177/",
+      "name": "赖涵 Han Lai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321304/",
+      "name": "黄柏钧 Denny Huang"
+    }
+  ]
+,
+  "datePublished": "2018-12-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "东国公主五鹿飞凰，为报杀父亡国之仇，入宫接近北耀国王炎漠，却被炎漠生死兄弟离山识破。飞凰设计让炎漠爱上自己并离间炎漠离山，导致离山受刑。后离山找炎漠寻死，离山被杀。炎漠得知真相后挥刀自尽，飞凰登基称王...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

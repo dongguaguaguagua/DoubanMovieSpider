@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海之梦 Dreams by the Sea",
+  "url": "/subject/26759718/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2544163493.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1271887/",
+      "name": "Sakaris Stora Sakaris Stora"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1271887/",
+      "name": "Sakaris Stora Sakaris Stora"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-10-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "On an isolated island, Ester goes about her mundane life, quietly obeying her religious parents. One...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

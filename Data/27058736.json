@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "茜莱丝特·加西亚的奇妙之旅 El Viaje Extraordinario de Celeste García",
+  "url": "/subject/27058736/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554888361.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401551/",
+      "name": "阿图罗·因凡特 Arturo Infante"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401551/",
+      "name": "阿图罗·因凡特 Arturo Infante"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1086590/",
+      "name": "玛利亚·迪亚兹 María Isabel Díaz"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "129",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

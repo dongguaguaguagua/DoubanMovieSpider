@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "佳人有约 The Rendezvous",
+  "url": "/subject/26800456/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2355267359.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033131/",
+      "name": "阿敏·马塔广 Amin Matalqa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014866/",
+      "name": "安娜玛丽·雅西尔 Annemarie Jacir"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044731/",
+      "name": "斯坦娜·卡蒂克 Stana Katic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275052/",
+      "name": "拉扎·杰夫里 Raza Jaffrey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334635/",
+      "name": "梅格·西奥妮 Meg Cionni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346468/",
+      "name": "格伦·弗莱舍尔 Glenn Fleshler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210701/",
+      "name": "达比·斯坦奇菲尔德 Darby Stanchfield"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023103/",
+      "name": "罗纳德·格特曼 Ronald Guttman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296774/",
+      "name": "纳迪姆·萨瓦哈 Nadim Sawalha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014397/",
+      "name": "阿方索·巴萨维 Alfonso Bassave"
+    }
+  ]
+,
+  "datePublished": "2016-10-08",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT1H32M",
+  "description": "A romantic adventure with an intriguing blend of modern and classic touches, THE RENDEZVOUS throws t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

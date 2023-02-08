@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的青春有点二",
+  "url": "/subject/30245358/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2524606159.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395344/",
+      "name": "唐皓 Hao Tang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395344/",
+      "name": "唐皓 Hao Tang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416386/",
+      "name": "吴宣萱 Xuanxuan Wu"
+    }
+  ]
+,
+  "datePublished": "2018-06-15",
+  "genre": ["\u559c\u5267", "\u97f3\u4e50"],
+  "duration": "PT1H17M",
+  "description": "为了能顺利考上哈佛，尹嘉薰（吴宣萱饰）转学到了一所国际高中。为了拿到180个课外学分以提高被哈佛录取的几率，积极投奔学校的各种课外活动，并成功进入话剧社。但是，慢慢地，嘉薰发现，其他人只是因为真心喜欢...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

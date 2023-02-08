@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玛丽莲 Marilyn",
+  "url": "/subject/30141469/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512860579.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389526/",
+      "name": "Martín Rodríguez Redondo Martín Rodríguez Redondo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389526/",
+      "name": "Martín Rodríguez Redondo Martín Rodríguez Redondo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014545/",
+      "name": "卡塔利娜·萨韦德拉 Catalina Saavedra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373697/",
+      "name": "赫尔曼·德·席尔瓦 Germán de Silva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1234845/",
+      "name": " Santos Lontoya"
+    }
+  ]
+,
+  "datePublished": "2018-02-20",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H20M",
+  "description": "在成为玛莉莲以前，马可在自家农场压抑着渴望。虽然穿上洋装后的他，姿色足以让人神魂颠倒，然而乡间里农夫、枪枝与摩托车的压抑氛围却打压着他的变装实验，暴力一触即发。本片改编自真实事件，就像是除去华丽表演的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "227",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

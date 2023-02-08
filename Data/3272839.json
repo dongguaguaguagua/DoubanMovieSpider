@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "禁忌星球 Forbidden Planet",
+  "url": "/subject/3272839/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033279/",
+      "name": "西里尔·休谟 Cyril Hume"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044735/",
+      "name": "威廉·莎士比亚 William Shakespeare"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009530/",
+      "name": "J·迈克尔·斯特拉辛斯基 J. Michael Straczynski"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "外媒报道，著名的【华纳兄弟电影公司】将把1956年经典科幻恐怖片《禁忌星球》改编成新版，并且聘请了《雷神1》的编剧【J·迈克尔·斯特拉辛斯基】编写新版的剧本，导演和演员未定",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

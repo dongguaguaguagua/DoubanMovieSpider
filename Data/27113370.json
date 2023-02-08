@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "缺陷 Defective",
+  "url": "/subject/27113370/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2496203321.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1237145/",
+      "name": "里斯·埃文森 Reese Eveneshen"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1190634/",
+      "name": "科林·帕拉迪恩 Colin Paradine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1200303/",
+      "name": "Nick Smyth Nick Smyth"
+    }
+  ]
+,
+  "datePublished": "2017-10-17",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H41M",
+  "description": "在不久的將來，瑞德墨菲和他疏遠的妹妹珍目睹了一間邪惡企業的黑暗秘密，被迫選擇逃離充滿失控武裝警察的州。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

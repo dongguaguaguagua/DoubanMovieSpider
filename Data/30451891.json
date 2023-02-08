@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红色 Red",
+  "url": "/subject/30451891/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2539296912.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353395/",
+      "name": "迈克尔·格兰达吉 Michael Grandage"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118279/",
+      "name": "约翰·洛根 John Logan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036782/",
+      "name": "阿尔弗雷德·伊诺奇 Alfred Enoch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017897/",
+      "name": "阿尔弗雷德·莫里纳 Alfred Molina"
+    }
+  ]
+,
+  "datePublished": "2018-11-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "“我的一生中只害怕一件事，就是有一天，黑色会吞没红色。”
+这部《红色》由著名编剧约翰·洛根（John Logan）根据美国抽象派画家马克·罗斯科（Mark Rothko）的人生经历创作，该剧如罗斯科本...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1981",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.6"
+  }
+}

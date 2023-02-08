@@ -1,0 +1,78 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2018年北京台春晚",
+  "url": "/subject/34678416/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2563763401.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054531/",
+      "name": "成龙 Jackie Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041404/",
+      "name": "黄晓明 Xiaoming Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276032/",
+      "name": "关晓彤 Xiaotong Guan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274255/",
+      "name": "冯小刚 Xiaogang Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275044/",
+      "name": "张嘉益 Jiayi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017207/",
+      "name": "徐帆 Fan Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000525/",
+      "name": "吴京 Jing Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274247/",
+      "name": "潘长江 Changjiang Pan"
+    }
+  ]
+,
+  "datePublished": "2018-02-16",
+  "genre": ["\u6b4c\u821e", "\u771f\u4eba\u79c0"],
+  "duration": "PT3H14M",
+  "description": "2018年北京台春晚将于正月初一（2月16日）播出，以“最美新时代最爱中国年”为晚会主题邀请黄晓明、关晓彤、冯小刚、徐帆、成龙、张嘉译、靳东等明星加盟助阵。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

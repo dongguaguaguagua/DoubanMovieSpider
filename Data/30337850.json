@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "锁",
+  "url": "/subject/30337850/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535451435.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410936/",
+      "name": "刘潇阳 Xiaoyang Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420540/",
+      "name": "张笑影 Xiaoying Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439825/",
+      "name": "梁卓美 Cheok Mei Leong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387623/",
+      "name": "莫伟文 Bert Mok"
+    }
+  ]
+,
+  "datePublished": "2019-05-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H23M",
+  "description": "刚刚出狱的丰年（伍伟生 饰）回到了曾经居住过的旧家，开始他的新生活。母亲的离世，父亲的再婚，邻里关系的伪善和冷漠，与社会间的隔离让他的新生活变得寸步难行。某一天的清晨，这栋楼里发生了大事，邻居许太太出...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

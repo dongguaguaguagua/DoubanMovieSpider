@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "机器人妈妈",
+  "url": "/subject/26930547/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2403550367.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365569/",
+      "name": "张智焜 Zhikun Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365569/",
+      "name": "张智焜 Zhikun Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-12-23",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b", "\u5bb6\u5ead", "\u513f\u7ae5"],
+  "duration": "PT1H5M",
+  "description": "讲述一位小矮人单亲母亲，含辛茹苦把女儿拉扯长大，用爱心陪伴孩子成长，在女儿叛逆期间，她真正的母亲出现在她们的生活中，要求女儿回到她的身边，养母也愿意让孩子和生母一起生活，就在这时发生了一系列的事情。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

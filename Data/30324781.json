@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Areta, investigación",
+  "url": "/subject/30324781/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2630223771.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008075/",
+      "name": "何塞·路易斯·加尔西 José Luis Garci"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008075/",
+      "name": "何塞·路易斯·加尔西 José Luis Garci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027667/",
+      "name": "Javier Muñoz Javier Muñoz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192414/",
+      "name": "宝拉·艾切瓦莉亚 Paula Echevarría"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1133145/",
+      "name": "米格尔·安赫尔·穆尼奥斯 Miguel Ángel Muñoz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1217378/",
+      "name": "贝伦·洛佩兹 Belén López"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1068126/",
+      "name": "维克托克拉维霍 Víctor Clavijo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1087903/",
+      "name": "菲奥雷利亚·法尔托亚诺 Fiorella Faltoyano"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

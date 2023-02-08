@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猎爱大师",
+  "url": "/subject/26909645/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2395678679.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375912/",
+      "name": "彭龙 Long Peng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365183/",
+      "name": "刘康 Kang Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373097/",
+      "name": "谢其均 Qijun Xie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388748/",
+      "name": "李若宁 Ruoning Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375912/",
+      "name": "彭龙 Long Peng"
+    }
+  ]
+,
+  "datePublished": "2016-11-03",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H7M",
+  "description": "著名影评人伍岳在京城非常有名气，只要他说好的电影，票房一定大卖。著名美食评论家黄珊也非常有名气，人送外号：活的大众点评。这两个人虽然各自频繁约会，但就是不结婚。这天，伍岳出门开车散心，黄珊赌气开车出家...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

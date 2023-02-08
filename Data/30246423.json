@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绽放",
+  "url": "/subject/30246423/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2524724345.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396019/",
+      "name": "袁子航 memory"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-06-10",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5"],
+  "duration": "PT0H40M",
+  "description": "电影《绽放》根据真实故事改编，讲述了一个学校（北方工业大学附属学校）在体育教学改革的浪潮下，从校长到老师再到学生们的成长绽放的故事，本片的所有演员均来自于本校的领导、老师、学生和家长，是五四青年戏剧联...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

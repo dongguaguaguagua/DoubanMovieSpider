@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Juanita",
+  "url": "/subject/30458097/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2885638161.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046002/",
+      "name": "费尔南多·巴尔维德 Fernando Valverde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1182260/",
+      "name": "Milly Quezada Milly Quezada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1203004/",
+      "name": "Mario Lebrón Mario Lebrón"
+    }
+  ]
+,
+  "datePublished": "2018-12-27",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "Juanita, a loud 35 year old mulata, returns to her homeland to spend Christmas with their loved ones...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

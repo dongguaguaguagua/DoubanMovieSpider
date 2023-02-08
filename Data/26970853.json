@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "情人节恋事 It Happened One Valentine&#39;s",
+  "url": "/subject/26970853/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2432024973.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272220/",
+      "name": "杰克·赫尔格恩 Jake Helgren"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272220/",
+      "name": "杰克·赫尔格恩 Jake Helgren"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349156/",
+      "name": "詹姆斯·马斯洛 James Maslow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036737/",
+      "name": "海雷·韦伯 Haley Webb"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1253874/",
+      "name": "布丽特妮·安德伍德 Brittany Underwood"
+    }
+  ]
+,
+  "datePublished": "2017-02-07",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H32M",
+  "description": "When ambitious reporter Allie Rusch is recruited by vindictive music manager Vivian Cartwright to pl...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

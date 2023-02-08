@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Like Lambs",
+  "url": "/subject/26876320/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013883/",
+      "name": "连姆·艾肯 Liam Aiken"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H21M",
+  "description": "When economic Apocalypse strikes America, students at the elite Hopkins House Academy take matters i...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

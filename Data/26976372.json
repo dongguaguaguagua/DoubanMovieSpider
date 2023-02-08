@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Slasher.com",
+  "url": "/subject/26976372/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2430204512.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1190777/",
+      "name": "Chip Gubera Chip Gubera"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1190777/",
+      "name": "Chip Gubera Chip Gubera"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147699/",
+      "name": "朱厄尔·谢泼德 Jewel Shepard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311857/",
+      "name": "Adam Boster Adam Boster"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425708/",
+      "name": "R·A·米海洛夫 R.A. Mihailoff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080042/",
+      "name": "Delious Delious"
+    }
+  ]
+,
+  "datePublished": "2017-01-16",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "After meeting online, Jack and Kristy go on a weekend getaway to the woodlands of rural Missouri. Wh...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

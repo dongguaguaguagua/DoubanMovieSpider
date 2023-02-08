@@ -1,0 +1,55 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "住在海边的猫头鹰",
+  "url": "/subject/30271856/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2527817991.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354299/",
+      "name": "韩志硕 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355845/",
+      "name": "欧宇宁 Yuning Ou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325777/",
+      "name": "翟小兴 Xiaoxing Zhai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421254/",
+      "name": "迟宁宁 Ningning Chi"
+    }
+  ]
+,
+  "datePublished": "2018-07-21",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H18M",
+  "description": "内地青年郭天豪是一名动物饲养员。在被未婚妻悔婚后他辞职来到海南，寻找儿时爷爷口中象征幸福的“会微笑的猫头鹰”。
+精灵般神秘女孩吴梦晨的出现，打破了天豪在海南平淡的生活。天豪逐渐被这个敢想敢干，胆大妄为...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

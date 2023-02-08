@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "音乐人生 Music of My Life",
+  "url": "/subject/33444739/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2556273661.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017067/",
+      "name": "田畑智子 Tomoko Tabata"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319356/",
+      "name": "山中崇 Takashi Yamanaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337180/",
+      "name": "高野志穗 Shiho Takano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1043529/",
+      "name": "东风万智子 Machiko Kochi"
+    }
+  ]
+,
+  "datePublished": "2017-10-07",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H17M",
+  "description": "2018年是Sing Like Talking出道30年，他們的音樂以及粉絲所寫的信是這部電影的故事來源，2016年8月6日在東京日比谷的野外大音樂堂裡舉辦Sing Like Talking Prem...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

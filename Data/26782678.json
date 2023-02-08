@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "决不姑息",
+  "url": "/subject/26782678/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2442121012.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329492/",
+      "name": "黄河 He Huang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455783/",
+      "name": "龙振宇 Zhenyu Long"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274228/",
+      "name": "侯勇 Yong Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1196361/",
+      "name": "成泰燊 Taishen Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316349/",
+      "name": "霍青 Qing Huo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315639/",
+      "name": "王嘉 Jia Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "清江县残联主席庞清因重大违纪问题，被清州市纪委常委汪海洋突破，却在和汪海洋谈话后回家的当天跳楼自杀……
+清江县主管水利的副县长姚柏青向清州市纪委实名反映县水利局水政水资源科在维修一批老旧水库中存在贪腐...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "325",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

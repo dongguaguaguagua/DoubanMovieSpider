@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狼的爱情",
+  "url": "/subject/26870668/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2378764066.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397928/",
+      "name": "海歌 Hai Ge"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349852/",
+      "name": "梅俪儿 Li-er Mei"
+    }
+  ]
+,
+  "datePublished": "2016-09-07",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H9M",
+  "description": "董雪海外归来，收到的不是鲜花与拥抱，却是未婚夫曾辉分手的信件，但董雪始终相信他们的爱情，认为曾辉和自己分手一定是另有隐情，便暗中调查，了解到事情的真相是曾辉在自己出国后的一次事故中成了植物人，他的父亲...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

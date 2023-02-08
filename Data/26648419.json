@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "贾斯珀·琼斯 Jasper Jones",
+  "url": "/subject/26648419/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2406896410.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294297/",
+      "name": "蕾切尔·帕金斯 Rachel Perkins"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368248/",
+      "name": "肖恩·格兰特 Shaun Grant"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339891/",
+      "name": "莱维·米勒 Levi Miller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040994/",
+      "name": "雨果·维文 Hugo Weaving"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041108/",
+      "name": "托妮·科莱特 Toni Collette"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331626/",
+      "name": "丹·威利 Dan Wyllie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184934/",
+      "name": "麦尔斯·珀拉德 Myles Pollard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334837/",
+      "name": "安格瑞·赖斯 Angourie Rice"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465709/",
+      "name": "库珀·范格鲁特尔 Cooper van Grootel"
+    }
+  ]
+,
+  "datePublished": "2017-03-02",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H45M",
+  "description": "本片改编自克雷格·西尔维撰写的同名畅销小说。讲述了查理·巴克辛——一个充满书卷气的14岁澳洲男孩的冒险故事。 1969年的某个酷热的夏夜，镇上的混血流浪者贾斯帕·琼斯突然出现在查理的窗边。贾斯帕带着查...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "446",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑水谭之巢",
+  "url": "/subject/30279889/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2528640923.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397846/",
+      "name": "钟永波 Yongbo Zhong"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-07-01",
+  "genre": ["\u52a8\u753b", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "城市里出现了一群怪鸟，他们开始筑巢，而人们被慢慢的吸引到巢里居住。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

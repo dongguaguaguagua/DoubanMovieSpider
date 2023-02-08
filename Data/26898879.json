@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "中国异能青年",
+  "url": "/subject/26898879/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2392078883.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379897/",
+      "name": "张维鹏 Zhang Weipeng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379897/",
+      "name": "张维鹏 Zhang Weipeng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380423/",
+      "name": "付波 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380424/",
+      "name": "王宇 Yu Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380011/",
+      "name": "沈正中 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380423/",
+      "name": "付波 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380424/",
+      "name": "王宇 Yu Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5947\u5e7b", "\u9ed1\u8272\u7535\u5f71"],
+  "duration": "PT1H2M",
+  "description": "两个南下打工的青年，因为一场离奇的车祸相识，死里逃生之后其中一位获得了特异功能，但他只剩下5天的命，必须在5天之内搞到50万做手术，于是一场荒唐魔幻的冒险旅程便展开了……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

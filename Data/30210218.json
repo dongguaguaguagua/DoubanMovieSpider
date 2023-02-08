@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "算账",
+  "url": "/subject/30210218/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520950997.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387822/",
+      "name": "潘润南 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376110/",
+      "name": "段冉 Ran Duan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352985/",
+      "name": "苏德伦 Delun Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373968/",
+      "name": "储毅 Yi Chu"
+    }
+  ]
+,
+  "datePublished": "2017-12-23",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT0H27M",
+  "description": "《算账》虽然是一个小故事，时间跨度短，人物少，然而却有丰富的内涵融入其中，本片以查账为明线，以算账为暗线，两条线交织在一起，矛盾冲突此起彼伏，亲情、欲望、国法时刻冲击着每个人的心灵，剧中每个人都有一本...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

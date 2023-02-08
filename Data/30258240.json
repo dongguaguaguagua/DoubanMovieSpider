@@ -1,0 +1,39 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "文人相亲",
+  "url": "/subject/30258240/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355803/",
+      "name": "赵迎利 Yingli Zhao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "该片是旅美作家胡曼荻编剧作品。
+故事讲述了两位中年作家通过网络为各自儿女找对象，在线下见面时闹出了一系列笑话，令人啼笑皆非。
+《文人相亲》是微电影《我想静静》的姐妹篇。
+由何英民导演工作室带领原班人马...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

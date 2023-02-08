@@ -1,0 +1,31 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Des gens bien",
+  "url": "/subject/30449486/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2546857523.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-05-02",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H27M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

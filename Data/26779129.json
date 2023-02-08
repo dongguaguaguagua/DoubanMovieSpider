@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鬼女艾拉 Ayla",
+  "url": "/subject/26779129/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2492636161.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019979/",
+      "name": "Elias Elias"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1168883/",
+      "name": "迪·沃伦斯 Dee Wallace"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258761/",
+      "name": "崔斯坦·瑞斯克 Tristan Risk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428122/",
+      "name": "Sarah Schoofs Sarah Schoofs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1238522/",
+      "name": "小比尔·奥伯斯特 Bill Oberst Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328820/",
+      "name": "安德鲁·山斯尼格 Andrew Sensenig"
+    }
+  ]
+,
+  "datePublished": "2017-10-06",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "A man haunted by the mysterious death of his 4-year-old sister brings her back to life thirty years ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "320",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.8"
+  }
+}

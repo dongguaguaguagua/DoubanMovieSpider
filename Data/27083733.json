@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "看不见的主角",
+  "url": "/subject/27083733/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2486175496.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411228/",
+      "name": "冷现辉 Xianhui Leng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411228/",
+      "name": "冷现辉 Xianhui Leng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362233/",
+      "name": "李春啸 Chunxiao Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392472/",
+      "name": "安静 "
+    }
+  ]
+,
+  "datePublished": "2017-10-22",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

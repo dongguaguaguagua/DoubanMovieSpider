@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灯塔 The Lighthouse",
+  "url": "/subject/27056441/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2460588564.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1208463/",
+      "name": "迈克尔·吉普森 Michael Jibson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339389/",
+      "name": "马克·路易斯·琼斯 Mark Lewis Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1208463/",
+      "name": "迈克尔·吉普森 Michael Jibson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1148983/",
+      "name": "伊恩·维果 Ian Virgo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457718/",
+      "name": "杰拉尔德·泰勒 Gerald Tyler"
+    }
+  ]
+,
+  "datePublished": "2016-07-08",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H42M",
+  "description": "本片改编于臭名昭著的斯莫尔斯小岛事件。Thomas Howell和Thomas Griffith被派往位于斯莫尔斯小岛的灯塔驻守，这里与世隔绝，四周环绕着冰冷刺骨的海水，起初一切还算顺利，然而风暴的降...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "247",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

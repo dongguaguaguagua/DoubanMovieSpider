@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Killer Ink",
+  "url": "/subject/5152925/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2405165661.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044983/",
+      "name": "彼德·梅犹 Peter Mayhew"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209893/",
+      "name": "Dave Wilder Dave Wilder"
+    }
+  ]
+,
+  "datePublished": "2016-10-11",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H32M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

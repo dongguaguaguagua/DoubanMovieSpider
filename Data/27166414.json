@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "隐形同盟 Die Unsichtbaren",
+  "url": "/subject/27166414/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2501603351.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402967/",
+      "name": "克劳斯·拉夫勒 Claus Räfle"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402967/",
+      "name": "克劳斯·拉夫勒 Claus Räfle"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267794/",
+      "name": "露比·欧·菲 Ruby O. Fee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282135/",
+      "name": "爱丽丝·德维尔 Alice Dwyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315530/",
+      "name": "马克斯·毛夫 Max Mauff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042662/",
+      "name": "艾伦·阿尔塔拉斯 Aaron Altaras"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401509/",
+      "name": "维多利亚·舒尔茨 Victoria Schulz"
+    }
+  ]
+,
+  "datePublished": "2017-10-26",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H50M",
+  "description": "1943年2月，德国纳粹政府宣布首都柏林已经“清除了犹太人”。此时此刻，有7000名犹太人成功转入地下生活。最终有近1700名犹太人在战时柏林的恐怖氛围中活了下来。《隐形同盟》讲述了四位至今仍健在的历...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1135",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

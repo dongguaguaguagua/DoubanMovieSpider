@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夺命五头鲨 5-Headed Shark Attack",
+  "url": "/subject/27025538/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2461180587.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032251/",
+      "name": "克里斯·布鲁诺 Chris Bruno"
+    }
+  ]
+,
+  "datePublished": "2017-07-30",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H29M",
+  "description": "海星状的怪物，五头鲨（头部四个头、尾部一个头）入侵了波多黎各海滩，危及一片和平的天堂岛屿。水生物研究所的几个研究员准备活捉五头鲨，结果损失惨重。没办法的情况下，和警察联手，最后彻底炸死五头鲨。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3365",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "虚拟情人",
+  "url": "/subject/26782714/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2352169664.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396542/",
+      "name": "王奕丁 Yiding Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428920/",
+      "name": "邢翊然 Yiran Xing"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411898/",
+      "name": "吴民凡 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416909/",
+      "name": "涂善存 Charles Tu"
+    }
+  ]
+,
+  "datePublished": "2015-05-05",
+  "genre": ["\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H0M",
+  "description": "这是一个能让所有男性荷尔蒙爆棚，让所有女性为之疯狂的故事。当第三者成为不受道德禁锢捆绑的二次元恋人，当你日夜相对的爱人有了不可告人的秘密，当信任成为你们之间一把双刃之剑，当一双看不见的手将你们的欲望玩...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "271",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

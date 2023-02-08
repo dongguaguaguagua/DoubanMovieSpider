@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Cockpit",
+  "url": "/subject/27199713/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505076172.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423307/",
+      "name": "哥莫雷肖尔·穆克吉 Kamaleswar Mukherjee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423307/",
+      "name": "哥莫雷肖尔·穆克吉 Kamaleswar Mukherjee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421822/",
+      "name": "戴夫 Dev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1271340/",
+      "name": "柯艾尔·穆里克 Koyel Mullick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423308/",
+      "name": "茹契妮·莫伊特罗 Rukmini Maitra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1073187/",
+      "name": "普罗森吉特· 查特吉 Prasenjit Chatterjee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422290/",
+      "name": "普里扬卡·肖卡尔 Priyanka Sarkar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384303/",
+      "name": "拉兹·查克拉博蒂 Raj Chakraborty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423167/",
+      "name": "帕兰·班纳吉 Paran Banerjee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425296/",
+      "name": "莎尤尼·高什 Saayoni Ghosh"
+    }
+  ]
+,
+  "datePublished": "2017-09-22",
+  "genre": ["\u5267\u60c5", "\u5192\u9669"],
+  "duration": "PT2H20M",
+  "description": "Cockpit is a story inspired by true incidents. The story follows a flight that is going from Mumbai ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

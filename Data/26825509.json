@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Dreaming Purple Neon",
+  "url": "/subject/26825509/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2362886193.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371456/",
+      "name": "Todd Sheets Todd Sheets"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209329/",
+      "name": "Eli DeGeer Eli DeGeer"
+    }
+  ]
+,
+  "datePublished": "2016-10-31",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "新兴致幻剂“紫色霓虹”，据说是可以召唤恶魔的神药",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

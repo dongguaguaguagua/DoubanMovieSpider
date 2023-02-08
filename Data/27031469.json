@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "20:16",
+  "url": "/subject/27031469/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2458941089.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001950/",
+      "name": "吕列 Ann Lu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001950/",
+      "name": "吕列 Ann Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373939/",
+      "name": "叶子涓 Zujuan Ye"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028689/",
+      "name": "刘松仁 Damian Lau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330093/",
+      "name": "吕星辰 Xingchen Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315986/",
+      "name": "吴俊余 Junyu Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348169/",
+      "name": "王厦 Xia Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013705/",
+      "name": "姜大卫 David Chiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420909/",
+      "name": "毕宏 Hong Bi"
+    }
+  ]
+,
+  "datePublished": "2017-05-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "影片根据香港化工大王叶志成的真实经历改编。叶海鹏因为少年时期输掉的一场乒乓球赛断送了自己的职业运动员梦想，于是凛然去香港另谋生路。30年后，事业有成的叶海鹏因相识了怀揣梦想的女记者夏雨晴。夏雨晴因工作...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

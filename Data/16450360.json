@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱情的士",
+  "url": "/subject/16450360/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322777/",
+      "name": "张一鸣 Yiming Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316368/",
+      "name": "乔杉 Shan Qiao"
+    }
+  ]
+,
+  "datePublished": "2017-12-13",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H13M",
+  "description": "影片讲述的是一个“富二代”王万，在一次意外事情发生后，母亲毅然决定给他一辆出租车，自己赚钱养活自己，并限他在一个月内把乱花掉的钱和从公司保险柜里偷花掉的钱全部偿还。王万无奈地接受了妈妈的命令，在担任出...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

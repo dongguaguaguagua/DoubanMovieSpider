@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "监禁外太空",
+  "url": "/subject/30223671/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2522277482.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379515/",
+      "name": "袁哲 Fox Yuan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379515/",
+      "name": "袁哲 Fox Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415255/",
+      "name": "杨笑一 Xiaoyi Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336105/",
+      "name": "王辰昊 Chen-hao Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336641/",
+      "name": "陈圆 Yuan Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407122/",
+      "name": "邢昀 Yun Xing"
+    }
+  ]
+,
+  "datePublished": "2020-07-02",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591"],
+  "duration": "PT1H18M",
+  "description": "女演员文青被困在一艘狭小的太空船内，并对外实况直播，上演一出真实的生存秀。在太空、反派与观众的三重考验下，她发现破除困境最终的办法，就是抛开虚伪的伪装，坦然面对最真实的自己。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

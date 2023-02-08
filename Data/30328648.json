@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "薇薇安",
+  "url": "/subject/30328648/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2536340912.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403064/",
+      "name": "马咏贤 Yongxian Ma"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402294/",
+      "name": "周子熙 Zixi Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379785/",
+      "name": "易水 Yi Sui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324094/",
+      "name": "邹笨笨 Benben Zou"
+    }
+  ]
+,
+  "datePublished": "2018-10-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H1M",
+  "description": "影片中，沈薇薇(周子熙饰)是一个父母早逝、孤单安静的女孩。某一天，沈薇薇的目 光被刚转学来的叛逆少女凌安(易水饰)吸引。对沈薇薇“一见钟情”的凌安强行跟她成了同桌，两人逐渐形影不离。凌安教沈薇薇画画，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

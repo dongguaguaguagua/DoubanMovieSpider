@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "回娘家 Retour chez ma mère",
+  "url": "/subject/26737916/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2357139714.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432667/",
+      "name": "埃里克·拉维纳 Eric Lavaine"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432667/",
+      "name": "埃里克·拉维纳 Eric Lavaine"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002859/",
+      "name": "若西安·巴拉斯科 Josiane Balasko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028139/",
+      "name": "亚历山德拉·拉米 Alexandra Lamy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014333/",
+      "name": "玛蒂尔德·瑟妮 Mathilde Seigner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304135/",
+      "name": "菲利普·莱夫布瓦尔 Philippe Lefebvre"
+    }
+  ]
+,
+  "datePublished": "2016-06-01",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H37M",
+  "description": "On aime tous nos parents, mais de là à retourner vivre chez eux quand on est adulte, c&#39;est une autre...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "289",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

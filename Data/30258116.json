@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "辣妹甜心",
+  "url": "/subject/30258116/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2532418499.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459071/",
+      "name": "陈凌 Ling Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459071/",
+      "name": "陈凌 Ling Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403394/",
+      "name": "盛英豪 Yinghao Sheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388012/",
+      "name": "贾超 Chao Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405904/",
+      "name": "黄一嘉 Air Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416386/",
+      "name": "吴宣萱 Xuanxuan Wu"
+    }
+  ]
+,
+  "datePublished": "2018-09-04",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5947\u5e7b"],
+  "duration": "PT1H28M",
+  "description": "本片讲述了一个从小生长在老城区小吃店但痞气十足的女孩和一个出生优渥且自命不凡的白富美校花，因为一次意外事件，让原本截然不同的人生进行了交换。她们互相嫌弃，却又不得不承载着对方的身躯前行。
+在一次又一次...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

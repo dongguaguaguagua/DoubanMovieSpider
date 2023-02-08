@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "音乐江湖",
+  "url": "/subject/19998201/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2395894660.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390758/",
+      "name": "聂鑫 Xin Nie"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317294/",
+      "name": "薛之谦 Zhiqian Xue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316706/",
+      "name": "黄龄 Ling Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324187/",
+      "name": "黄一琳 Yilin Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406041/",
+      "name": "熊汝霖 Shawn Rolli"
+    }
+  ]
+,
+  "datePublished": "2016-11-09",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H17M",
+  "description": "电影《音乐江湖》讲述一批80后音乐学院毕业的学生离开校园以后各自打拼中的生活及情感经历以及执着追求音乐梦想的故事。
+音乐学院毕业的几个好朋友，陈浩、周萌萌、古力、刚子怀揣着梦想踏入了音乐江湖。古力经营...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

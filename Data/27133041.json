@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你是我兄弟之牌王",
+  "url": "/subject/27133041/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499438259.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355847/",
+      "name": "吴俊贤 Junxian Wu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378663/",
+      "name": "王小源 Xiaoyuan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275451/",
+      "name": "曾江 Kenneth Tsang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326238/",
+      "name": "刘美含 Meihan Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323774/",
+      "name": "袁新 Xin Yuan"
+    }
+  ]
+,
+  "datePublished": "2017-09-29",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H12M",
+  "description": "某天，在孤儿院儿一起长大的四人组老三斯隆告诉图灵，在孤儿院时相依为命的好兄弟大哥千手在龙城虎门镇的地下赌场出老千被抓，被打断了双腿，还欠了黑道大佬坤沙一大笔钱，且必须在七天内偿还五百万，否则就要以命抵...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

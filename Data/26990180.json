@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "她在身后",
+  "url": "/subject/26990180/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501790176.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368680/",
+      "name": "孟煦城 Messiah"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368680/",
+      "name": "孟煦城 Messiah"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362968/",
+      "name": "周玥 Yue Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371400/",
+      "name": "李佳璐 Anny"
+    }
+  ]
+,
+  "datePublished": "2017-05-14",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "校园女鬼若兰在生前生活不如意，心含怨气死后向有关人员报复。生前若兰性格孤僻，不善言辞，因此很难交到知心好友。在若兰觉得大学生活十分不如意，想跟男友倾诉的时候，若兰被一个强奸犯尾随强奸，若兰心中满是怨恨...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "深渊世界",
+  "url": "/subject/27083674/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2514212207.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359086/",
+      "name": "张玲玲 Lingling Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359086/",
+      "name": "张玲玲 Lingling Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383706/",
+      "name": "张伟 Wei Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT2H0M",
+  "description": "深渊世界是由张玲玲，闵怡睿[1]  编著指导作品，该剧讲述了生存或是死亡，你所在的地方就是深渊。重生于诡异而残酷的游戏世界他只有两个选择——吞噬，或被吞噬，但这是人类的力量所能构建的世界吗？重生于诡异...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

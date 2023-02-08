@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Ventilator",
+  "url": "/subject/30232674/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010638/",
+      "name": "佩丽冉卡·曹帕拉 Priyanka Chopra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005093/",
+      "name": "阿素托史·哥瓦力克 Ashutosh Gowariker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036940/",
+      "name": "博曼·伊拉尼 Boman Irani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410055/",
+      "name": "苏梅德·穆德格尔克尔 Sumedh Mudgalkar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474044/",
+      "name": "斯内哈尔·塔德 Snehal Tarde"
+    }
+  ]
+,
+  "datePublished": "2016-11-04",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H23M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

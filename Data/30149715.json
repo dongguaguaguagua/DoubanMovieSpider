@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "对生活的渴望 La soif de vivre",
+  "url": "/subject/30149715/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2513878928.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378450/",
+      "name": "尼古拉斯·库奇 Nicolas Cuche"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338338/",
+      "name": "Lorenzo Gabriele Lorenzo Gabriele"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009844/",
+      "name": "克莱尔·凯姆 Claire Keim"
+    }
+  ]
+,
+  "datePublished": "2017-02-04",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "丽莎是11岁的托马斯和一个新生婴儿的母亲，她正逐渐被酗酒所吞噬。她爱自己的孩子，但围绕着这种疾病的禁忌正在拖累这个家庭。她的丈夫文森特忙于自己的事业，低估了形势的严重性，只是避而不谈。托马斯独自照顾他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "62",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

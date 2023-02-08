@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Trust",
+  "url": "/subject/3637248/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2502024002.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1273105/",
+      "name": " Richard Peters"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036855/",
+      "name": "埃里克·艾特巴里 Eric Etebari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041318/",
+      "name": "Daz Crawford Daz Crawford"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164782/",
+      "name": "克莱格·罗伯特·扬 Craig Robert Young"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1232005/",
+      "name": "Jenny Spain Jenny Spain"
+    }
+  ]
+,
+  "datePublished": "2018-12-31",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "这部电影是死亡事第10部，同时这是绞肉机第四部的完结篇。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

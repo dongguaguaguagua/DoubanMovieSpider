@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Cassius and Clay",
+  "url": "/subject/26673877/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000020/",
+      "name": "蕾克·贝尔 Lake Bell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041135/",
+      "name": "罗伯特·帕特里克 Robert Patrick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054392/",
+      "name": "苏珊·萨兰登 Susan Sarandon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315126/",
+      "name": "凯蒂·米克松 Katy Mixon"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u753b"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,101 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "德州棉花 Texas Cotton",
+  "url": "/subject/30381485/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540279167.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302602/",
+      "name": "Jameel Khaja Jameel Khaja"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404916/",
+      "name": "乔治·哈迪 George Hardy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404917/",
+      "name": "杰森·道格拉斯 Jason Douglas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049883/",
+      "name": "蒂凡妮·谢皮斯 Tiffany Shepis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399964/",
+      "name": "吉因·琼斯 Gene Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149667/",
+      "name": "卢·坦普尔 Lew Temple"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1255438/",
+      "name": " Torrence Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336037/",
+      "name": "贾德·罗德曼 Judd Lormand"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385512/",
+      "name": "朱丽叶塔·丹妮埃拉 Juliette Danielle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1077984/",
+      "name": "盖尔·克罗纳奥尔 Gail Cronauer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1170902/",
+      "name": "Beau Smith Beau Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018872/",
+      "name": "Corey Foxx Corey Foxx"
+    }
+  ]
+,
+  "datePublished": "2018-10-28",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a", "\u897f\u90e8"],
+  "duration": "PT1H28M",
+  "description": "一位年迈的老警察深信在他小镇上被捕的神秘陌生人是无辜的，进而展开的调查就像捅了马蜂窝一样，将永远改变这个镇子。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "200",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

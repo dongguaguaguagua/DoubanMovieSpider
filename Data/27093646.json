@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地面部队 Boots on the Ground",
+  "url": "/subject/27093646/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2493614475.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355985/",
+      "name": "瑞安·麦克法兰 Ryan McParland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1148983/",
+      "name": "伊恩·维果 Ian Virgo"
+    }
+  ]
+,
+  "datePublished": "2017-08-26",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "The story of five British soldiers trying to stay alive on the last night of the Afghan War, facing ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

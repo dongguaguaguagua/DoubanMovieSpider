@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "五十而立 Marie-Francine",
+  "url": "/subject/27028991/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456604869.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032476/",
+      "name": "瓦莱丽·勒梅西埃 Valérie Lemercier"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032476/",
+      "name": "瓦莱丽·勒梅西埃 Valérie Lemercier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1095422/",
+      "name": "萨比娜·奥德潘 Sabine Haudepin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032476/",
+      "name": "瓦莱丽·勒梅西埃 Valérie Lemercier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050911/",
+      "name": "海伦·文森特 Hélène Vincent"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048414/",
+      "name": "德尼·波达利德斯 Denis Podalydès"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012645/",
+      "name": "帕特里克·坦西 Patrick Timsit"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350645/",
+      "name": "洛伊奇·勒让德 Loïc Legendre"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423204/",
+      "name": "泽维尔·勒梅特 Xavier Lemaître"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483502/",
+      "name": "玛丽·佩蒂特 Marie Petiot"
+    }
+  ]
+,
+  "datePublished": "2017-05-31",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "玛莉·法兰辛遭到丈夫抛弃，工作也丢了。被迫在50岁这年，搬去和父母同住。他们把她当作小孩，还帮她开了一家电子烟店让她管理。在那里，她邂逅了米格尔，是一名大厨，和她有相似遭遇却不敢承认。迈入中年后，要保...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "385",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

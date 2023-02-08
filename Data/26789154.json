@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "揍他一顿",
+  "url": "/subject/26789154/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2481133069.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373382/",
+      "name": "杨科 KenYang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373382/",
+      "name": "杨科 KenYang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370640/",
+      "name": "黄礼丰 Leo Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476895/",
+      "name": "储榢逸 Chia-Yi Chu"
+    }
+  ]
+,
+  "datePublished": "2017-06-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H24M",
+  "description": "故事发生在台湾的高中校园内，张世豪是一个性格非常内向，又很胆小怕事的男孩，有一个漂亮又温柔的女朋友，可正因为如此，他在爱情里总是觉得非常没有安全感，害怕女朋友会离他而去。人生，就是你越害怕什么，什么就...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "388",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

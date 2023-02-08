@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "芦苇荡的时光 A Moment in the Reeds",
+  "url": "/subject/27165059/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2509231583.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403759/",
+      "name": "米科·马克拉 Mikko Makela"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403759/",
+      "name": "米科·马克拉 Mikko Makela"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396841/",
+      "name": "嘉尼·普斯汀 Janne Puustinen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403760/",
+      "name": "布迪·卡巴尼 Boodi Kabbani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403762/",
+      "name": "米卡·麦仑登 Mika Melender"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403761/",
+      "name": "维尔比·劳特西亚拉 Virpi Rautsiala"
+    }
+  ]
+,
+  "datePublished": "2017-10-06",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H48M",
+  "description": "乐维（嘉尼·普斯汀 Janne Puustinen 饰）和父亲之间的关系一直都非常的紧张，他从未体会过所谓的和父辈之间的天伦之乐是一种怎样的滋味。今年夏天，乐维要从巴黎回到位于芬兰的老家，因为他答应帮...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3633",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

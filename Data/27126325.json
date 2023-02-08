@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "哈斯巴根的天骄",
+  "url": "/subject/27126325/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539869517.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318926/",
+      "name": "王晓民 Xiaomin Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379396/",
+      "name": "苏世一 Shiyi Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274702/",
+      "name": "萨日娜 Rina Sa"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "电影《哈斯巴根的天骄》是一部由王晓民编剧的电影作品，影片主要讲述了研究生李瞳从北京到内蒙古牧区小学支教，牧区学校教育也在与时俱进，力求让牧民的孩子们插上高科技的翅膀，飞出草原，飞向全世界。李瞳觉得：草...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

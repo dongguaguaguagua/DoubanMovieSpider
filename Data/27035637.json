@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神奇泰国无所不有 Thailand Only",
+  "url": "/subject/27035637/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2457905763.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327530/",
+      "name": "伊萨拉·纳迪 Isara Nadee"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1197528/",
+      "name": "查理·瑞纳 Charlie Trairat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329026/",
+      "name": "巴东·颂桑 Padung Songsang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341566/",
+      "name": "纳塔奇·司隶朋通 Natouch Siripongthon"
+    }
+  ]
+,
+  "datePublished": "2017-04-27",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "电影故事讲述了以Jazz为首的无厘头三人组，觉得做旅游是个不错的行当，尤其是接待中国游客赚钱很多也很快，于是他们开了个“小作坊”，专门接待中国游客，当然他们开的这个所谓的旅行社是非正规的。三人组配上一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

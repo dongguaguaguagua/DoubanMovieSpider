@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "危险警告 Caveat",
+  "url": "/subject/30232710/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2622273964.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394173/",
+      "name": "达米安·麦卡锡 Damian Mc Carthy"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394173/",
+      "name": "达米安·麦卡锡 Damian Mc Carthy"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333343/",
+      "name": "本·卡普兰 Ben Caplan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459152/",
+      "name": "乔纳森·法兰西 Jonathan French"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459154/",
+      "name": "莉拉·赛克斯 Leila Sykes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459153/",
+      "name": "康纳·德万 Conor Dwane"
+    }
+  ]
+,
+  "datePublished": "2020-10-04",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H28M",
+  "description": "一个患有部分失忆的孤独漂泊者接受了一份工作，在一个孤岛上一所废弃的房子里照顾一个心理有问题的女人。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2191",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

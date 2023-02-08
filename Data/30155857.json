@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "七十七公里",
+  "url": "/subject/30155857/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2514865871.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389094/",
+      "name": "孙浩洋 Haoyang Sun"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389094/",
+      "name": "孙浩洋 Haoyang Sun"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365029/",
+      "name": "阿云嘎 Ayanga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327163/",
+      "name": "乌吉穆 Jimu Wu"
+    }
+  ]
+,
+  "datePublished": "2018-02-26",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "酷爱越野的海澜，在事业和情感压力下毅然前往乌审草原参加越野赛。与当地青年的交往过程中，她深入了解蒙区，逐渐体悟到越野的意义和人生真谛。海澜渐渐释怀，她的心灵得到净化与成长，也结下了深厚的友谊。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

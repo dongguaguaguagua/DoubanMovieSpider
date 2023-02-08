@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天气预报员 La Tempête",
+  "url": "/subject/27172144/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502155029.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415351/",
+      "name": "马克西姆·皮克特 Maxime Picot"
+    }
+  ]
+,
+  "datePublished": "2017-11-03",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT0H16M",
+  "description": "Léo fantasizes about his weather forecaster. His obsession may be realized when he meets Luca. The n...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "上流社会 High Society",
+  "url": "/subject/27129743/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2498213986.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354470/",
+      "name": "阿妮卡·德克尔 Anika Decker"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354470/",
+      "name": "阿妮卡·德克尔 Anika Decker"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041469/",
+      "name": "卡蒂娅·里曼 Katja Riemann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001129/",
+      "name": "杰尼斯·纽沃纳 Jannis Niewöhner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351713/",
+      "name": "艾米利亚·舒勒 Emilia Schüle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359978/",
+      "name": "雅尼克·许曼 Jannik Schümann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055338/",
+      "name": "伊赫斯·贝尔本 Iris Berben"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366472/",
+      "name": "马克·本雅明 Marc Benjamin"
+    }
+  ]
+,
+  "datePublished": "2017-09-14",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H40M",
+  "description": "A wealthy socialite&#39;s daughter discovers she was switched at birth.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "497",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

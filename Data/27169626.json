@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐怖玩具 Sick for Toys",
+  "url": "/subject/27169626/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501776744.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370590/",
+      "name": "大卫·德尔·里奥 David Del Rio"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325523/",
+      "name": "安德鲁·詹姆斯·斯科特 Andrew James Scott"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1148835/",
+      "name": "梅兰妮·汤普森 Melanie Thompson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321545/",
+      "name": "卡米尔·蒙哥马利 Camille Montgomery"
+    }
+  ]
+,
+  "datePublished": "2018-05-05",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "&#34;Roy is the nice guy who finishes last. Sick of his current situation, he accepts an invitation to h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

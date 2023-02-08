@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爸爸的红丝带",
+  "url": "/subject/27596667/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351737/",
+      "name": "姜中元 Zhongyuan Jiang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324951/",
+      "name": "曲海峰 Haifeng Qu"
+    }
+  ]
+,
+  "datePublished": "2017-06-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "姚大龙因救人感染上艾滋病，二楞子同大龙吵架，让大龙把建养牛基地的钱还给大伙，秋红制止并给大家讲艾滋病知识。大龙因救人受到表彰，为大伙修自来水去了死人谷摔伤，自来水安装好了，众人感谢大龙，唱起了二人转。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

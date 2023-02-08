@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "跳舞吧！鼓棒",
+  "url": "/subject/27175975/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396830/",
+      "name": "郑永岳 Ark Zheng"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": [],
+  "duration": "",
+  "description": "描述热爱打鼓的青年阿岳，在乐团解散后背负了巨额债务。他在逃避讨债集团时，途中遇见身上带不少钱，打算去台北参加跳舞比赛的男孩小胖。阿岳假意陪小胖去比赛，打算半途把钱骗走，却发现小胖参赛只是为了唤回父母的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "创性纪 Genèse",
+  "url": "/subject/30271169/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534425488.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397089/",
+      "name": "菲利浦·勒萨吉 Philippe Lesage"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397089/",
+      "name": "菲利浦·勒萨吉 Philippe Lesage"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376488/",
+      "name": "诺亚·阿比塔 Noée Abita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375342/",
+      "name": "Paul Ahmarani Paul Ahmarani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1230019/",
+      "name": "布瑞特·迪尔 Brett Dier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377398/",
+      "name": "皮埃尔-卢克·冯克 Pier-Luc Funk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387715/",
+      "name": "迈伦娜·麦凯 Mylène Mackay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367557/",
+      "name": "西奥多·佩尔兰 Théodore Pellerin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1148286/",
+      "name": "Tomas Ross Tomas Ross"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377397/",
+      "name": "爱德华·特伦布莱·格雷尼尔 Édouard Tremblay-Grenier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441943/",
+      "name": "埃米莉·比埃 Emilie Bierre"
+    }
+  ]
+,
+  "datePublished": "2018-08-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H9M",
+  "description": "Guillaume, his stepsister Charlotte and Félix experience the turmoils of first love. Following THE D...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

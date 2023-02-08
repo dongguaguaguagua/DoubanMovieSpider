@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Midnight Massacre",
+  "url": "/subject/26964170/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2420406672.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192727/",
+      "name": "Travis Bowen Travis Bowen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1077815/",
+      "name": "Byron Cherry Byron Cherry"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192727/",
+      "name": "Travis Bowen Travis Bowen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210496/",
+      "name": "Susie Feldman Susie Feldman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022776/",
+      "name": "琳达·哈里逊 Linda Harrison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078211/",
+      "name": "唐佩德罗·科利 Don Pedro Colley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027858/",
+      "name": "米丝蒂·蒙达伊 Misty Mundae"
+    }
+  ]
+,
+  "datePublished": "2020-12-18",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

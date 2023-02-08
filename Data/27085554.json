@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "追凶往事",
+  "url": "/subject/27085554/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2793432287.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442026/",
+      "name": "童抒伟 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462529/",
+      "name": "陈仕贤 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317880/",
+      "name": "班杰 Benjamin H. Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H30M",
+  "description": "影片讲述了主人公邱明亲眼目睹暗恋已久的女上司美英惨遭暴徒轮奸，懦弱的他非但没有上前阻止，反而在暴徒离开后，对昏迷不醒的美英再次施以暴行。事后他非常后悔，决定跟随美英的父亲——一个来自东北的猎人，踏上追...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

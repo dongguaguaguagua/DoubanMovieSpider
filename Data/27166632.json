@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "写真",
+  "url": "/subject/27166632/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501473894.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382525/",
+      "name": "张新润 Xinrun Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382525/",
+      "name": "张新润 Xinrun Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead", "\u4f20\u8bb0"],
+  "duration": "PT0H13M",
+  "description": "“我”梦到年轻时候的父亲、年迈的父亲、年幼的自己、年迈的母亲、逝世的外婆、外公在一起的时候，还虚构出父亲少年的样子，时间虽然不可抗拒，也正是他迷人的地方，我开始重塑出一个想象中的世界，在这个空间内，我...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "115",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

@@ -1,0 +1,142 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "柠檬水 Lemonade",
+  "url": "/subject/26779555/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2339616226.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1113823/",
+      "name": "碧昂丝 Beyoncé"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040823/",
+      "name": "乔纳斯·阿克伦德 Jonas Åkerlund"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365477/",
+      "name": "卡希尔·约瑟夫 Kahlil Joseph"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049687/",
+      "name": "马克·罗曼尼克 Mark Romanek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014998/",
+      "name": "梅丽娜·马苏卡斯 Melina Matsoukas"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365478/",
+      "name": "华沙·希雷 Warsan Shire"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1113823/",
+      "name": "碧昂丝 Beyoncé"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036552/",
+      "name": "杰斯 Jay-Z"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1191981/",
+      "name": "克洛伊·贝利 Chloe Bailey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1194645/",
+      "name": "海莉·贝利 Halle Bailey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335464/",
+      "name": "米凯拉·迪普利斯 Michaela Deprince"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357554/",
+      "name": "马修·诺尔斯 Mathew Knowles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014310/",
+      "name": "蒂娜·诺尔斯 Tina Knowles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032159/",
+      "name": "理查德·劳森 Richard Lawson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321319/",
+      "name": "奎文赞妮·瓦利斯 Quvenzhané Wallis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027474/",
+      "name": "塞蕾娜·威廉姆斯 Serena Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325576/",
+      "name": "赞达亚 Zendaya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320554/",
+      "name": "阿曼德拉·斯坦伯格  Amandla Stenberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404341/",
+      "name": "温妮·哈洛 Winnie Harlow"
+    }
+  ]
+,
+  "datePublished": "2016-04-23",
+  "genre": ["\u97f3\u4e50"],
+  "duration": "PT1H5M",
+  "description": "Beyoncé第六张录音室专辑《LEMONADE》音乐电影。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2290",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.6"
+  }
+}

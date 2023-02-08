@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鬼屋 Ghost House",
+  "url": "/subject/26965005/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498357509.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071517/",
+      "name": "丝柯·泰勒-考普顿 Scout Taylor-Compton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1234233/",
+      "name": "詹姆斯·兰德里·赫伯特 James Landry Hébert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032104/",
+      "name": "小马克·布恩 Mark Boone Junior"
+    }
+  ]
+,
+  "datePublished": "2017-08-25",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H40M",
+  "description": "吉姆（杰姆斯·赫伯特 James Hebert 饰）和朱莉（丝柯·泰勒-考普顿 Scout Taylor-Compton 饰）是一对交往多年的情侣，某日，两人结伴前往泰国旅游，想好好的享受享受这里的异...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1158",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血袋 Blood Bags",
+  "url": "/subject/30368047/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2545918819.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429380/",
+      "name": "麦肯娜·盖勒 Makenna Guyler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454357/",
+      "name": "Denitza Diakovska Denitza Diakovska"
+    }
+  ]
+,
+  "datePublished": "2018-11-13",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H23M",
+  "description": "A monster stalks the corridors of an abandoned mansion, targeting those curious enough to find thems...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

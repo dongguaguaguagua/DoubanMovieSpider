@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卖命",
+  "url": "/subject/30237515/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2524834342.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401833/",
+      "name": "陈泳旭 Yongxu Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401833/",
+      "name": "陈泳旭 Yongxu Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400769/",
+      "name": "郑权 Quan Zheng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325516/",
+      "name": "董博 Bo Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040352/",
+      "name": "淳于珊珊 Shanshan Chunyu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275979/",
+      "name": "赵燕国彰 Yanguozhang Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404508/",
+      "name": "孙振鹏 Zhenpeng Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377740/",
+      "name": " "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482950/",
+      "name": "孔雀哥哥 kongquegege"
+    }
+  ]
+,
+  "datePublished": "2018-06-19",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H25M",
+  "description": "《卖命》讲述了一个好吃懒做的保险业务员时光遇到一个用金钱买时间的时间商人，随即陷入卖时间换钱、用生命还钱的万丈深渊的故事。
+好吃懒做的男主人公时光，因为赌博欠下了高利贷，被黑社会油仔暴力催债，被吓尿的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "辣身舞 Dirty Dancing",
+  "url": "/subject/26682918/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2511222825.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037896/",
+      "name": "韦恩·布莱尔 Wayne Blair"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022653/",
+      "name": "黛博拉·梅辛 Debra Messing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025142/",
+      "name": "阿比盖尔·布雷斯林 Abigail Breslin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036376/",
+      "name": "萨拉·海蓝德 Sarah Hyland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346363/",
+      "name": "柯尔特·帕拉特 Colt Prattes"
+    }
+  ]
+,
+  "datePublished": "2017-05-24",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT2H10M",
+  "description": "由Patrick Swayze和Jennifer Grey主演的热门电影《Dirty Dancing》即将登陆小荧幕。ABC目前预订了Abigail Breslin主演的电视电影《Dirty Danc...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "86",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

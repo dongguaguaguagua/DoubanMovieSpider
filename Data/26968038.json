@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "康福特 Comfort",
+  "url": "/subject/26968038/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2423613120.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023575/",
+      "name": "马克海德堡 Mark Heidelberger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303280/",
+      "name": "布瑞尔特·杰克布森 Brett Jacobsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342894/",
+      "name": "余朝汉 Kelvin Han Yee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440714/",
+      "name": "迈克尔·鲍 Michael Bow"
+    }
+  ]
+,
+  "datePublished": "2016-03-05",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H43M",
+  "description": "A late night courier boy agrees to pick up the feisty daughter of an important client. The two young...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

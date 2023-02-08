@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "弥天之谎",
+  "url": "/subject/26888771/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2577473016.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322294/",
+      "name": "周伟 Wei Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411552/",
+      "name": "张伟国 Weiguo Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328788/",
+      "name": "麻杨扬 Yangyang Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314443/",
+      "name": "高亚麟 Yalin Gao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316799/",
+      "name": "郭晓峰 Xiaofeng Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327599/",
+      "name": "王翊丹 Yidan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328092/",
+      "name": "孙锡堃 Xikun Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341681/",
+      "name": "耿懿 Yi Geng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354519/",
+      "name": "张宛庭 Wanting Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374315/",
+      "name": "张旭洲 Xuzhou Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H27M",
+  "description": "电影《弥天之谎》被誉为“中国首部涉及电信诈骗题材的警匪动作电影”，其中对于电信诈骗实际案例的描写必不可少，导演周伟也表示，电影中的烧脑情节来自一场精心策划的“骗中骗”，扑朔迷离的案情与紧张刺激的剧情绝...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "493",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

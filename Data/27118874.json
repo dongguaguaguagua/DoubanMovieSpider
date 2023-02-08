@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "惊夷少女心",
+  "url": "/subject/27118874/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409873/",
+      "name": "曾格格 Gege Zeng"
+    }
+  ]
+,
+  "datePublished": "2017-08-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "23岁文静漂亮的女大学生王姍瑶在网上看见风景如画的黔江区小南海镇十三寨女儿谷，土家族村民朴实善良，但地处偏远，交通不便利，于是就萌生了作为志愿者去当地支教的想法。在十三寨女儿谷村主任的帮助下和村民们特...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

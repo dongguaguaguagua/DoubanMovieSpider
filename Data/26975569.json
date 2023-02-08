@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "自拍拉贾 Selfie Raja",
+  "url": "/subject/26975569/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2429457392.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426752/",
+      "name": "阿拉里·纳列什 Allari Naresh"
+    }
+  ]
+,
+  "datePublished": "2016-07-15",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H8M",
+  "description": "有个自拍狂,他会遭遇什么奇遇呢.让我们来拭目以待！",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

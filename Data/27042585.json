@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "公主成人礼 Princess Cyd",
+  "url": "/subject/27042585/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2507405296.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270526/",
+      "name": "斯蒂芬·柯尼 Stephen Cone"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270526/",
+      "name": "斯蒂芬·柯尼 Stephen Cone"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339746/",
+      "name": "瑞贝卡·斯宾塞 Rebecca Spence"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389227/",
+      "name": "杰西·平尼克 Jessie Pinnick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389217/",
+      "name": "马力克·怀特 Malic White"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035109/",
+      "name": "泰勒·罗斯 Tyler Ross"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389221/",
+      "name": "Matthew Quattrocki Matthew Quattrocki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389218/",
+      "name": "布莱斯·甘格尔 Bryce Gangel"
+    }
+  ]
+,
+  "datePublished": "2017-05-04",
+  "genre": ["\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H36M",
+  "description": "《孩子本色》、《亨利生日派对》导演 Stephen Cone 载誉归来，向香港同志影展观众呈献全新成长电影《公主成人礼》。年少丧母、与郁郁寡欢的父亲同住的主角Cyd一直渴望能离家透透气。到了十六岁这年...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "436",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

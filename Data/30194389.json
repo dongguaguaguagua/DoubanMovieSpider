@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "下半场",
+  "url": "/subject/30194389/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2677761436.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336346/",
+      "name": "徐超 Chao Xu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403142/",
+      "name": "丁旸明 Yangming Ding"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323940/",
+      "name": "李广斌 Guangbin Li"
+    }
+  ]
+,
+  "datePublished": "2018-04-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "讲述了一个因为踢假球坐了八年牢的足球运动员程拓，在出狱后重新振作带领一支民办大学足球队踢大学生联赛的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

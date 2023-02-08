@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们的艺术 The Art of Us",
+  "url": "/subject/27062891/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2461637777.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044962/",
+      "name": "泰勒·科尔 Taylor Cole"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384423/",
+      "name": "吉洁特 Gidget"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315395/",
+      "name": "史蒂夫·隆德 Steve Lund"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009443/",
+      "name": "柯里·瑟威尔 Corey Sevier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472782/",
+      "name": "布伦达·克里奇洛 Brenda Crichlow"
+    }
+  ]
+,
+  "datePublished": "2017-05-20",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT2H0M",
+  "description": "Sparks fly when a dog walker with hidden artistic talent becomes the subject of an art history profe...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "77",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

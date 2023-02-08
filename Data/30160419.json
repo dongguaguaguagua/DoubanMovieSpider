@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狡猾的保姆 The Au Pair",
+  "url": "/subject/30160419/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2534986394.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376074/",
+      "name": "德文·唐斯 Devon Downs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376073/",
+      "name": "肯尼·盖奇 Kenny Gage"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022748/",
+      "name": "米歇尔·博斯 Michelle Borth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014291/",
+      "name": "安东尼奥·库普 Antonio Cupo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032066/",
+      "name": "奥莱斯雅·鲁林 Olesya Rulin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260044/",
+      "name": "迈克尔·罗克 Michael Roark"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1100199/",
+      "name": "尼古拉斯·格斯特 Nicholas Guest"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1182482/",
+      "name": "沃尔夫冈·韦伯 Wolfgang Weber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400144/",
+      "name": "丽莎·隆恩 Lisa Long"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347687/",
+      "name": "乔丹·詹姆斯·史密斯 Jordan James Smith"
+    }
+  ]
+,
+  "datePublished": "2018-03-02",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "在丈夫和保姆有婚外情后，一个女人试图保护她的家庭。当她丈夫的同事被杀时，她发现一切并非表面上的样子。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "103",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

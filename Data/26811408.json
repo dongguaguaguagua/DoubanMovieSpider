@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "相信我 Vertraue mir",
+  "url": "/subject/26811408/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375670/",
+      "name": "克里斯托夫·施奇杰 Christoph Schechinger"
+    }
+  ]
+,
+  "datePublished": "2016-06-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H27M",
+  "description": "Elena Wagner arbeitet bei einer Investmentbank und befürchtet ihre Entlassung. Man will ihr Fehler d...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "再次取胜 Azhar",
+  "url": "/subject/26827404/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2363515917.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050149/",
+      "name": "朴拉琪·黛塞 Prachi Desai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000338/",
+      "name": "拉腊·杜塔 Lara Dutta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323236/",
+      "name": "娜吉丝·法克利 Nargis Fakhri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189752/",
+      "name": "埃朗·哈斯米 Emraan Hashmi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470334/",
+      "name": "卡兰维尔·沙尔马 Karanvir Sharma"
+    }
+  ]
+,
+  "datePublished": "2016-05-13",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u8fd0\u52a8"],
+  "duration": "PT2H10M",
+  "description": "Indian biographical sports film directed by Tony D&#39;Souza based on the life of the former Indian inte...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

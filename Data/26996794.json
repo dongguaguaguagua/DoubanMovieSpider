@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Aminas breve",
+  "url": "/subject/26996794/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2446659163.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444447/",
+      "name": "安德斯·奥尔霍尔姆 Anders Ølholm"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393450/",
+      "name": "Evrim Benli Evrim Benli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350137/",
+      "name": "莎拉-索菲·波斯妮娜 Sarah-Sofie Boussnina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395499/",
+      "name": "丽莎·卡勒希德 Lisa Carlehed"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1072614/",
+      "name": "Julie Carlsen Julie Carlsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365940/",
+      "name": "Anne Voigt Christiansen Anne Voigt Christiansen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1090821/",
+      "name": "Flemming Enevold Flemming Enevold"
+    }
+  ]
+,
+  "datePublished": "2017-03-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "During Janus stay at a psychiatric hospital, the letters from Amina was what kept him alive. Now the...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

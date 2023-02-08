@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "咖啡未冷前 コーヒーが冷めないうちに",
+  "url": "/subject/30164711/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526785147.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340676/",
+      "name": "冢原亚由子 Ayuko Tsukahara"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275946/",
+      "name": "奥寺佐渡子 Satoko Okudera"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275528/",
+      "name": "有村架纯 Kasumi Arimura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350151/",
+      "name": "伊藤健太郎 Kentaro Ito"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275819/",
+      "name": "波瑠 Haru"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038106/",
+      "name": "林遣都 Kento Hayashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312904/",
+      "name": "深水元基 Motoki Fukami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034382/",
+      "name": "松本若菜 Wakana Matsumoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018783/",
+      "name": "药师丸博子 Hiroko Yakushimaru"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316808/",
+      "name": "吉田羊 Yô Yoshida"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016968/",
+      "name": "松重丰 Yutaka Matsushige"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028681/",
+      "name": "石田百合子 Yuriko Ishida"
+    }
+  ]
+,
+  "datePublished": "2018-09-21",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H56M",
+  "description": "故事发生在一家从昭和时代就开始经营至今的咖啡店中，在这家咖啡店里有一个神奇的座位，坐在这个座位上的人能够回到他们想要回到的过去某一日，重温旧日时光，而时限就是一杯咖啡从滚烫到冷却的那么长时间。回到过去...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "7375",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

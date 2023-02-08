@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "古城片警",
+  "url": "/subject/30345720/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2536463926.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322142/",
+      "name": "肖莫庸 Moyong Xiao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322142/",
+      "name": "肖莫庸 Moyong Xiao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349806/",
+      "name": "阎维文 Weiwen Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326050/",
+      "name": "黄品沅 Ruomeng Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330833/",
+      "name": "孟秀 Xiu Meng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336052/",
+      "name": "李振宇 Zhenyu Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424601/",
+      "name": "肖骁 Xiao Xiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424602/",
+      "name": "李佳桐 Jiatong Li"
+    }
+  ]
+,
+  "datePublished": "2018-10-04",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "根据山西省忻州市公安局直属分局新建路派出所民警、全国公安系统二级英雄模范骆国泉的真实事迹改编，讲述了普通民警工作和生活中的故事。
+描述了老民警马国能解救被拐儿童、五台山执勤抓捕小偷、救助群众、处置挟持...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

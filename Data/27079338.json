@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "噬魂镜",
+  "url": "/subject/27079338/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2475681634.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323524/",
+      "name": "王栎昂 Yue`ang Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341569/",
+      "name": "罗翔 Xiang Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377566/",
+      "name": "叶常清 Changqing Ye"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "电影由中艺英纳影业、中影传奇影业、安迪影视联合出品，刘鸿制片，王良导演，罗翔领衔主演的青春校园惊悚院线电影。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

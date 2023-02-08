@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不想回家的男孩",
+  "url": "/subject/30359190/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2552666253.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403225/",
+      "name": "徐本宸 BenChen Xu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403225/",
+      "name": "徐本宸 BenChen Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414200/",
+      "name": "王子怡 Ziyi Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H10M",
+  "description": "谎称迷路的男人博文遇见了在肯德基过夜的女孩园园，他们是旧相识。园园帮助博文回到他家，但博文却坚称那不是他家，家中的那对中年夫妻也不是他爸妈，只是长得像他爸妈而已。园园一直在外流浪，博文便跟着园园长住宾...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

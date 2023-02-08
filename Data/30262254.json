@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "傀儡 The Golem",
+  "url": "/subject/30262254/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531978990.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459669/",
+      "name": "多温·普兹 Doron Paz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459672/",
+      "name": "约亚夫·普兹 Yoav Paz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459669/",
+      "name": "多温·普兹 Doron Paz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303886/",
+      "name": "哈尼·弗森伯格 Hani Furstenberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352599/",
+      "name": "伊赛·戈兰 Ishai Golan"
+    }
+  ]
+,
+  "datePublished": "2019-01-24",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H35M",
+  "description": "聚焦犹太传说中的怪物“泥人”，讲述一个拉比(智者)的儿子的妻子Hanna为保护她的家族，抵御外来侵略者，召唤了一种极其危险的存在。而她从泥土中创造并赋予生命的这种东西，却以可怕的方式与她悲惨的过去相连...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "274",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

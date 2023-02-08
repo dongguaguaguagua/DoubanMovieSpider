@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大闹布达佩斯 Budapest",
+  "url": "/subject/30149899/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531038831.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045180/",
+      "name": "泽维尔·吉恩斯 Xavier Gens"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1227880/",
+      "name": "马努·佩埃特 Manu Payet"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1227880/",
+      "name": "马努·佩埃特 Manu Payet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332591/",
+      "name": "乔纳森·科恩 Jonathan Cohen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1485022/",
+      "name": "奥古斯丁·博耶 Augustin Boyer "
+    }
+  ]
+,
+  "datePublished": "2018-07-04",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H43M",
+  "description": "两个好伙伴在匈牙利举办了夸张刺激的单身派对的业务，结果让他们的职业生涯和婚姻面临险境",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "245",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

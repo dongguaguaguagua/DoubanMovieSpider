@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "千年之约",
+  "url": "/subject/30419602/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575971479.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386024/",
+      "name": "陈维亚 Weiya Chen"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403487/",
+      "name": "殷硕 Shuo Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1175483/",
+      "name": "弗拉基米尔·普京 Vladimir Putin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401350/",
+      "name": "杨舞 Wu Yang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6b4c\u821e", "\u771f\u4eba\u79c0"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

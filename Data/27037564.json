@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "跨国大追捕：博物馆的谜案",
+  "url": "/subject/27037564/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2601399274.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328741/",
+      "name": "钟海 Hai Zhong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333160/",
+      "name": "凌文 Wen Ling"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315908/",
+      "name": "郭家铭 Jiaming Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352307/",
+      "name": "张永庆 Yongqing Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H30M",
+  "description": "小木匠石勇在俄罗斯打工不仅没挣到钱，反而卷入了一起凶杀案中。身在异国走投无路的石勇得到警察雷霄的帮助。令雷霄没想到的是，警方一直在寻找的那把绥芬河博物馆丢失的日本名刀就在石勇身上。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

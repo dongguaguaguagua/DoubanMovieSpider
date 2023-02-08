@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "秋日之光 Autumn Lights",
+  "url": "/subject/26434942/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2367871544.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244567/",
+      "name": "盖·肯特 Guy Kent"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315178/",
+      "name": "玛塔·加丝蒂妮 Marta Gastini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355536/",
+      "name": "斯温·奥拉维尔·冈纳松 Sveinn Ólafur Gunnarsson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101913/",
+      "name": "Sveinn Geirsson Sveinn Geirsson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373063/",
+      "name": "Thora Bjorg Helga Thora Bjorg Helga"
+    }
+  ]
+,
+  "datePublished": "2016-10-21",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H38M",
+  "description": "An American photographer on assignment in a remote Icelandic community becomes entangled with an eni...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "79",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

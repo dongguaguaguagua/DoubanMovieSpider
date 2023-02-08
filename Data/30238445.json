@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "九面怪侠",
+  "url": "/subject/30238445/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2593131066.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435073/",
+      "name": "陆春伟 Chunwei Lu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008125/",
+      "name": "梁家仁 Ka-Yan Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327277/",
+      "name": "楼学贤 Jackson Lau Hok-Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360237/",
+      "name": "秦天宇 Tianyu Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364577/",
+      "name": "王子辰 Zichen Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435074/",
+      "name": "李智雪 Zhixue Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H28M",
+  "description": "《九面怪侠》讲述了一个梦想在江湖上出人头地的“二傻青年”花天仇(秦天宇饰)，杂炼各派武功时走火入魔，分身为九个武林高手，两正七邪，在一大漠客栈里狭路争锋。突破多重魔障，最终邪不压正，战胜了魔教少主秦羿...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "归顺 Submission",
+  "url": "/subject/26699822/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2512629482.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338171/",
+      "name": "理查德·莱文 Richard Levine"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338171/",
+      "name": "理查德·莱文 Richard Levine"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040517/",
+      "name": "斯坦利·图齐 Stanley Tucci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218973/",
+      "name": "艾狄森·蒂姆林 Addison Timlin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025201/",
+      "name": "凯拉·塞吉维克 Kyra Sedgwick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027823/",
+      "name": "詹妮安·加罗法洛 Janeane Garofalo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071529/",
+      "name": "里特奇·科斯特 Ritchie Coster"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061211/",
+      "name": "Alison Bartlett Alison Bartlett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1158257/",
+      "name": "亨利·斯特拉姆 Henry Stram"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420710/",
+      "name": "蔻碧·米纳菲 Colby Minifie"
+    }
+  ]
+,
+  "datePublished": "2017-10-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H46M",
+  "description": "斯坦利·图齐饰演一位已婚大学教授，爱迪生·蒂姆林饰演其门下写作天赋非常厉害的女学生，在一对一的写作教学中两人逐渐对彼此心生爱意，一段不可避免的“师生恋”就此展开。电影由理查德·莱文执导，詹妮安·加罗法...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "384",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "同颜小姐",
+  "url": "/subject/30413116/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2543641461.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391391/",
+      "name": "刘德甫 Defu Liu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339697/",
+      "name": "南笙 Sheng Nan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348537/",
+      "name": "寺田拓哉 TAKUYA"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390859/",
+      "name": "李昀锐 Yunrui Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332976/",
+      "name": "许峰 Feng Xu"
+    }
+  ]
+,
+  "datePublished": "2018-12-23",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H20M",
+  "description": "学业受挫的中国女博士于娜娜（南笙 饰）在收到一封神秘信件后来到童话般美好的日本温泉小镇由布市，并邂逅了年轻总裁合田武志（寺田拓哉 饰），萌生爱意之时，娜娜却意外发现自己与武志多年前已故的未婚妻容颜相同...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

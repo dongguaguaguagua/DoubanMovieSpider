@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的外星女友",
+  "url": "/subject/27098637/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2494272333.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304876/",
+      "name": "元秋 Qiu Yuen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297367/",
+      "name": "邵音音 Yin-Yin Shaw"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108968/",
+      "name": "罗家英 Kar-Ying Law"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327646/",
+      "name": "徐忠信 Alan Chui Chung San"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346322/",
+      "name": "郑文辉 Man-Fai Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349263/",
+      "name": "黄晖翔 Patrick Wong"
+    }
+  ]
+,
+  "datePublished": "2017-07-31",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H33M",
+  "description": "影片讲述了从遥远外星来到地球的Angela为了寻找因爱而离家出走的哥哥，无意间遇到她命运中的宿命-天意，她的灵魂寄托在人类的身体里最多三天，尽管Angela每次变身成不同身份后都对天意加以戏弄及欺骗，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

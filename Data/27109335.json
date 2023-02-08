@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Lake of Shadows",
+  "url": "/subject/27109335/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2883781051.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438298/",
+      "name": "谢里·戴维斯 Sheri Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1479290/",
+      "name": "吉凡娜·卡萨诺娃 Geovonna Casanova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481099/",
+      "name": "Dawn Wildsmith Dawn Wildsmith"
+    }
+  ]
+,
+  "datePublished": "2017-07-18",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Three aspiring film makers venture to a mysterious lake resort to uncover a story on a local legend....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

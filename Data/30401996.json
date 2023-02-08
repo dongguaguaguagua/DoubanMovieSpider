@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "特种保镖2",
+  "url": "/subject/30401996/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542464529.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387353/",
+      "name": "张小帅 Xiaoshuai Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356152/",
+      "name": "李雨阳 Eddie Li Yu Yeung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461388/",
+      "name": "袁红阳 Hongyang Yuan"
+    }
+  ]
+,
+  "datePublished": "2018-12-22",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "《特种保镖2》以丛林中无人区的兵工厂为故事展开的据点，讲述了佣兵小队因任务要求前往荒无人烟、危险重重的工厂，竟遭遇刀枪不入的“不死军队”的包围，全员陷入危机仍浴血奋战的故事...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

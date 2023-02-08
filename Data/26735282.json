@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美丽之星 美しい星",
+  "url": "/subject/26735282/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2447246491.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274443/",
+      "name": "吉田大八 Daihachi Yoshida"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014573/",
+      "name": "三岛由纪夫 Yukio Mishima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274443/",
+      "name": "吉田大八 Daihachi Yoshida"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042693/",
+      "name": "中川雅也 Lily Franky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032800/",
+      "name": "龟梨和也 Kazuya Kamenashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275733/",
+      "name": "桥本爱 Ai Hashimoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1130017/",
+      "name": "中岛朋子 Tomoko Nakajima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006339/",
+      "name": "佐佐木藏之介 Kuranosuke Sasaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1273953/",
+      "name": "樋井明日香 Asuka Hinoi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387471/",
+      "name": "今村美乃 Yoshino Imamura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335146/",
+      "name": "绿友利惠 Yurie Midori"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101131/",
+      "name": "春田纯一 Jun&#39;ichi Haruta"
+    }
+  ]
+,
+  "datePublished": "2017-05-26",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT2H7M",
+  "description": "三岛由纪夫唯一的科幻小说，1962年发表的《美丽之星》将翻拍电影。小说讲述主人公因看到飞碟而认为自己和家人是从火星、木星等不同星球来的，因此要带领家人肩负起拯救地球的使命。影片由中川雅也、龟梨和也、桥...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2120",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

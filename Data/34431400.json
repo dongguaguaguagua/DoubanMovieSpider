@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "他们 Loro",
+  "url": "/subject/34431400/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2559471196.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018303/",
+      "name": "保罗·索伦蒂诺 Paolo Sorrentino"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018303/",
+      "name": "保罗·索伦蒂诺 Paolo Sorrentino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281164/",
+      "name": "翁贝托·康塔罗 Umberto Contarello"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023140/",
+      "name": "托尼·塞尔维洛 Toni Servillo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000979/",
+      "name": "艾莱娜·索菲亚·里奇 Elena Sofia Ricci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040841/",
+      "name": "里卡多·斯卡马乔 Riccardo Scamarcio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022632/",
+      "name": "卡夏·斯穆特尼亚克 Kasia Smutniak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1233246/",
+      "name": "奇亚拉·伊兹 Chiara Iezzi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473158/",
+      "name": "杰西卡·皮科罗·瓦莱拉尼 Jessica Piccolo Valerani"
+    }
+  ]
+,
+  "datePublished": "2018-09-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H30M",
+  "description": "野心勃勃的年轻商人塞吉欧（里卡多史卡马西奥 饰），常以金钱美色贿赂政客名流，成功称霸商场。为求更上层楼，塞吉欧决定进入政坛，他得先趋炎附势、再趁机窜出揽权，放眼政坛只有一人握有至高无上的权力，那正是掌...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1432",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

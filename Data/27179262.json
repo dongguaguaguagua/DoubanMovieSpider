@@ -1,0 +1,95 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "娱乐之家 Funhouse",
+  "url": "/subject/27179262/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2644593848.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439731/",
+      "name": "杰森·威廉·李 Jason William Lee"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314868/",
+      "name": "瓦尔特·斯卡斯加德 Valter Skarsgård"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413997/",
+      "name": "哈米莎·威尔希尔 Khamisa Wilsher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434300/",
+      "name": "吉吉·索尔·格雷罗 Gigi Saul Guerrero"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439168/",
+      "name": "杰罗姆·韦林斯基 Jerome Velinsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439167/",
+      "name": "戴利·尼尔森 Dayleigh Nelson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439165/",
+      "name": "马蒂亚斯·雷塔马尔 Mathias Retamal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439159/",
+      "name": "杰夫·库珀 Jeff Cooper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439156/",
+      "name": "阿曼达·豪威尔斯 Amanda Howells"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439155/",
+      "name": "卡罗琳娜·贝尼菲尔德 Karolina Benefield"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074194/",
+      "name": "Gerard Christopher Gerard Christopher"
+    }
+  ]
+,
+  "datePublished": "2019-10-25",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H46M",
+  "description": "当邀请来自全球的8位名人参加在线真人秀比赛时，他们很快意识到，他们为自己的生命而战，因为那些被选出的人遭受了可怕的后果，并向全世界直播",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "901",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

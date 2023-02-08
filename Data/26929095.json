@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伏特 Volt",
+  "url": "/subject/26929095/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2496611742.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330914/",
+      "name": "Anna Bederke Anna Bederke"
+    }
+  ]
+,
+  "datePublished": "2017-02-02",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H20M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

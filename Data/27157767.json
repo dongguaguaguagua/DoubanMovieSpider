@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "请爱我的女朋友",
+  "url": "/subject/27157767/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2642546482.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324901/",
+      "name": "郭春晖 Choon Hooi Ker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330831/",
+      "name": "林清振 Ching-Chen Lin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382899/",
+      "name": "林纯华 Chunhua Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325416/",
+      "name": "张怀秋 Harry Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315296/",
+      "name": "梁正群 Danny Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331133/",
+      "name": "项瑾 Jin Xiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315045/",
+      "name": "张书豪 Bryan Shu-Hao Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326751/",
+      "name": "谢佳见 Melvin Sia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315622/",
+      "name": "夏如芝 Cherry Hsia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348863/",
+      "name": "薛仕凌 Simon Hsueh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322564/",
+      "name": "詹子晴 Yako Chan"
+    }
+  ]
+,
+  "datePublished": "2017-10-20",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "蓓蓓（项瑾 饰）、许乐（张怀秋 饰）和许治（梁正群 饰）是感情十分要好的朋友，与此同时，蓓蓓和许治还是一对恩爱的情侣，两人都认定了对方就是自己要携手步入婚礼殿堂的那一个人。大学毕业之后，三人决定合伙开...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "309",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

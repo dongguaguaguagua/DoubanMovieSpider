@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯狂希莉娅",
+  "url": "/subject/26909402/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2401114704.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354771/",
+      "name": "傅筱 Xiao Fu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374930/",
+      "name": "顾权 Quan Gu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449168/",
+      "name": "思潮 Si Chao"
+    }
+  ]
+,
+  "datePublished": "2016-11-25",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "PT1H0M",
+  "description": "《疯狂希莉娅》讲述了一个跟地球环境相似的时空，有人的地方就有爱情故事，有爱的世界总是让人充满希望。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

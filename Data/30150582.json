@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "满月 Vollmond",
+  "url": "/subject/30150582/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2513981253.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051187/",
+      "name": "Andreas Arnstedt Andreas Arnstedt"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051187/",
+      "name": "Andreas Arnstedt Andreas Arnstedt"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025518/",
+      "name": "奥列佛·斯托科斯基 Oliver Stokowski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354647/",
+      "name": "施特凡·格罗斯曼 Stephan Grossmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025424/",
+      "name": "马修·加里瑞 Mathieu Carrière"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328434/",
+      "name": "David C. Bunners David C. Bunners"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1106686/",
+      "name": "克里斯蒂安·卡赫曼 Christian Kahrmann"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

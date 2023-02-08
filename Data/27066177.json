@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小妇人 Little Women",
+  "url": "/subject/27066177/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2529589362.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037345/",
+      "name": "路易莎·梅·奥尔科特 Louisa May Alcott"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019014/",
+      "name": "莉·汤普森 Lea Thompson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036512/",
+      "name": "卢卡斯·格拉比 Lucas Grabeel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066370/",
+      "name": "伊恩·鲍汉 Ian Bohen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404028/",
+      "name": "斯图尔特·埃奇 Stuart Edge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449744/",
+      "name": "帕丽斯·沃纳 Paris Warner"
+    }
+  ]
+,
+  "datePublished": "2018-09-28",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT2H12M",
+  "description": "独立制作[小女人](Little Women，暂译)公布新卡司。伊恩·鲍汉确认加盟[小女人]，该片根据路易莎·梅·阿尔克特同名小说改编，将在2018年上映。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "93",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

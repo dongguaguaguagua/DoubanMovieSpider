@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "山区小社",
+  "url": "/subject/26579995/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540942495.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368494/",
+      "name": "董祁明 Qiming Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405287/",
+      "name": "祯襄 Xiang Zhen"
+    }
+  ]
+,
+  "datePublished": "2017-10-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "由山西影视集团、山西电影制片厂联合摄制的国内第一部以农村信用社为题材的电影 《山区小社》在昔阳县举行开机仪式。该影片以花果湾村老叶书记一心要让贫穷的乡亲们富裕起来为主线，以农村信用社作为立足农村、扶持...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

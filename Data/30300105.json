@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "麦子的盖头",
+  "url": "/subject/30300105/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531213712.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318442/",
+      "name": "鲁坚 Jian Lu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318442/",
+      "name": "鲁坚 Jian Lu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342926/",
+      "name": "徐岑子 Cenzi Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314471/",
+      "name": "王挺 Ting Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040928/",
+      "name": "刘孜 Zi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317859/",
+      "name": "彭波 Bo Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409905/",
+      "name": "吾晟赫 Andy Wu"
+    }
+  ]
+,
+  "datePublished": "2018-12-13",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H52M",
+  "description": "麦子的丈夫马豆根在煤矿事故中受了伤，完全瘫痪不能治愈，由此引发出麦子跟马豆根和矿主老于之间充满悬疑色彩的一场人性较量，麦子用她的坚贞和执着发现了美丽谎言背后的真相，她对未来的生活也不知会做出怎样的选择...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

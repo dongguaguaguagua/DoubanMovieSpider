@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夺命稻草人",
+  "url": "/subject/26835906/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2367855422.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317050/",
+      "name": "尔玛依娜 Ermayina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386175/",
+      "name": "李子游 Ziyou Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409050/",
+      "name": "张俊明 Junming Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449300/",
+      "name": "庞国昌 Guochang Pang"
+    }
+  ]
+,
+  "datePublished": "2016-07-13",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H15M",
+  "description": "老公回老家探亲却突然神秘失踪，袁茵带着女儿一路寻来，却发现村里正闹鬼，只要谁家出现鬼脸稻草人，谁家就会死人!稀松平常的日常所在，却隐藏着一个令人胆寒的骇人秘密！村里的人一个接一个离奇死去，这个不到10...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "102",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "公共教育 Public Schooled",
+  "url": "/subject/27073324/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2520638431.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356747/",
+      "name": "凯尔·赖德奥特 Kyle Rideout"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356747/",
+      "name": "凯尔·赖德奥特 Kyle Rideout"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1178948/",
+      "name": "乔希·艾普斯汀 Josh Epstein"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009256/",
+      "name": "朱迪·格雷尔 Judy Greer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392524/",
+      "name": "丹尼尔·多尼 Daniel Doheny"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337937/",
+      "name": "西沃恩·威廉姆斯 Siobhan Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031936/",
+      "name": "朴敏庆 Grace Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049491/",
+      "name": "米歇尔·威廉姆斯 Michelle Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383501/",
+      "name": "安德鲁·海尔 Andrew Herr"
+    }
+  ]
+,
+  "datePublished": "2017-09-09",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H26M",
+  "description": "崇拜霍金的連恩希普生長在一個單親家庭，由於媽媽的過度保護，連恩一直以來都在家自學，為了完成「去劍橋跟霍金一起唸書，成為史上第二有名的天文學家」的心願，他得先通過高中同等資格的學力測驗。這天，他來到了位...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "130",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

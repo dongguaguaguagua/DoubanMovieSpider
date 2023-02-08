@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海湾别墅 La villa",
+  "url": "/subject/26789192/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2495942015.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037329/",
+      "name": "罗贝尔·盖迪吉昂 Robert Guédiguian"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037329/",
+      "name": "罗贝尔·盖迪吉昂 Robert Guédiguian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395450/",
+      "name": "瑟奇·瓦莱蒂 Serge Valletti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007190/",
+      "name": "安东·契诃夫 Anton Chekhov"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028424/",
+      "name": "阿丽亚娜·阿斯卡里德 Ariane Ascaride"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037192/",
+      "name": "让-皮埃尔·达鲁森 Jean-Pierre Darroussin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382423/",
+      "name": "杰勒德·梅朗 Gérard Meylan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395451/",
+      "name": "雅克·布代 Jacques Boudet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028178/",
+      "name": "阿娜伊斯·德穆斯蒂埃 Anaïs Demoustier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032868/",
+      "name": "罗班松·斯泰弗南 Robinson Stévenin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149157/",
+      "name": "扬·特雷古埃特 Yann Trégouët"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118922/",
+      "name": "杰纳维夫·马尼奇 Geneviève Mnich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349747/",
+      "name": "Dioucounda Koma Dioucounda Koma"
+    }
+  ]
+,
+  "datePublished": "2017-09-03",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H47M",
+  "description": "一位老者拥有在马赛附近小海湾上的一座别墅。他的三个孩子在他弥留之际回到他身边陪伴他:安吉拉是一位演员，现住在巴黎;约瑟夫爱上了一个只有他年龄一半的女人;阿曼德是唯一留在马赛经营家族小餐馆的孩子。他们是...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "392",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

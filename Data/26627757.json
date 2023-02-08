@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "At elske Pia",
+  "url": "/subject/26627757/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2415617261.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328678/",
+      "name": "丹尼尔·博格曼 Daniel Borgman"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328678/",
+      "name": "丹尼尔·博格曼 Daniel Borgman"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-02-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

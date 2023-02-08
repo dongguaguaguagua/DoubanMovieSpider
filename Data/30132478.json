@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "罗曼蒂克振兴史",
+  "url": "/subject/30132478/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2530306131.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351294/",
+      "name": "陈宇星 Yuxing Chen"
+    }
+  ]
+,
+  "datePublished": "2018-03-12",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H15M",
+  "description": "怀有音乐梦想而郁郁不得志的小宁自从邂逅了具有天然破坏能力的中二女孩唐雨晴之后，各种糗事麻烦不断，二人在互掐互闹中碰撞出爱的火花。雨晴陪伴着小宁度过一番挫折，二人却在其梦想快要实现之时，面临了极大的爱情...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

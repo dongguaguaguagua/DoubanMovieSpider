@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "独城 I Married a 15-Year-old Girl",
+  "url": "/subject/26876193/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2382159878.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372342/",
+      "name": "刘常贺 Changhe Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373390/",
+      "name": "何金 Jin He"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373390/",
+      "name": "何金 Jin He"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H17M",
+  "description": "即将年满30岁的医学院教授潘亮，落入了一场买卖婚姻的闹剧。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

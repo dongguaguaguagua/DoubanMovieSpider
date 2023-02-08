@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "活着 Alive",
+  "url": "/subject/30257478/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2615858398.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431200/",
+      "name": "罗伯·格兰特 Rob Grant"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176053/",
+      "name": "Jules Vincent Jules Vincent"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348674/",
+      "name": "托马斯·康奎尔 Thomas Cocquerel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049554/",
+      "name": "安古斯·麦克菲登 Angus Macfadyen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423481/",
+      "name": "Chantal Perron Chantal Perron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258147/",
+      "name": "格里克·温斯顿 Gerrick Winston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484196/",
+      "name": "Camille Stopps Camille Stopps"
+    }
+  ]
+,
+  "datePublished": "2019-03-30",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H31M",
+  "description": "A severely injured man and woman awake in an abandoned sanitarium only to discover that a sadistic c...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

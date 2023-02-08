@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "中场大师 Spielmacher",
+  "url": "/subject/30201157/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2519866211.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013842/",
+      "name": "安婕·特拉乌 Antje Traue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166578/",
+      "name": "娜塔莉·爱娃隆 Natalia Avelon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000806/",
+      "name": "伯勒尔·戴斯托捏 Blerim Destani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426160/",
+      "name": "保罗·法格斯纳赫特 Paul Faßnacht"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454634/",
+      "name": "安东·威尔 Anton Weil"
+    }
+  ]
+,
+  "datePublished": "2018-04-12",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a", "\u8fd0\u52a8"],
+  "duration": "PT1H39M",
+  "description": "讲述德国足球地下du球黑幕，男主抱得美人归外加带一个颇具足球天赋的儿子",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "91",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

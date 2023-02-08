@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "遗忘诗行 Los versos del olvido",
+  "url": "/subject/27123688/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2499583951.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381089/",
+      "name": "阿利雷扎·哈塔米 Alireza Khatami"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381089/",
+      "name": "阿利雷扎·哈塔米 Alireza Khatami"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381436/",
+      "name": "胡安·马加略 Juan Margallo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381438/",
+      "name": "托马斯·德尔·伊思塔 Tomás del Estal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127231/",
+      "name": "曼努埃尔·莫龙 Manuel Morón"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1186203/",
+      "name": "伊西娅尔·艾斯普鲁 Itziar Aizpuru"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287965/",
+      "name": "胡利奥·晶 Julio Jung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368226/",
+      "name": "安帕罗·诺格拉 Amparo Noguera"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381439/",
+      "name": "贡萨洛·罗伯斯 Gonzalo Robles"
+    }
+  ]
+,
+  "datePublished": "2017-09-02",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "The elderly caretaker of a remote morgue possesses an impeccable memory for everything but names. He...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3064",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.0"
+  }
+}

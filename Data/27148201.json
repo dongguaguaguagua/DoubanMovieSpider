@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们的青春岁月",
+  "url": "/subject/27148201/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2521126831.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352309/",
+      "name": "周刚 Gang Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325753/",
+      "name": "冯文娟 Wenjuan Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344880/",
+      "name": "吴旭东 Xudong Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321252/",
+      "name": "关新伟 Xinwei Guan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472537/",
+      "name": "刘其元 Eagle Liu"
+    }
+  ]
+,
+  "datePublished": "2018-05-04",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "二十世纪六十年代初期，数万上海青年来到新疆军区生产建设兵团支援边疆建设，这些年轻人满怀豪情，从黄浦江畔来到荒凉的戈壁大漠投身到兵团的各个团场参加生产建设，奉献青春，甘洒热血为新疆和兵团的发展做出了历史...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

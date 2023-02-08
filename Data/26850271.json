@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "审判 Terror – Ihr Urteil",
+  "url": "/subject/26850271/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2502371572.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033653/",
+      "name": "拉斯·克劳梅 Lars Kraume"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051019/",
+      "name": "Oliver Berben Oliver Berben"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033653/",
+      "name": "拉斯·克劳梅 Lars Kraume"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049928/",
+      "name": "马蒂娜·格德克 Martina Gedeck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199296/",
+      "name": "弗洛里安·大卫·菲茨 Florian David Fitz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327342/",
+      "name": "拉斯·艾丁格 Lars Eidinger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050334/",
+      "name": "布尔格哈特·克劳斯纳 Burghart Klaußner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278861/",
+      "name": "赖纳·博克 Rainer Bock"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309359/",
+      "name": "耶迪斯·特里贝尔 Jördis Triebel"
+    }
+  ]
+,
+  "datePublished": "2016-10-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "恐怖分子劫持了一架民航客机，逼迫机长将目的地设往一座坐满了观众的运动场。在紧要关头，一名德国战斗机飞行员不顾上级指令，在民航机撞向体育场前先行将其击落。他拯救了数万名无辜的观众，却牺牲了飞机上所有的乘...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "567",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

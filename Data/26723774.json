@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暗网 Darkweb",
+  "url": "/subject/26723774/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2317653031.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022977/",
+      "name": "奥利弗·古鲁内尔 Olivier Gruner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010571/",
+      "name": "丹尼·格洛弗 Danny Glover"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443102/",
+      "name": "尼娜·绍伊尔 NINA SEUL"
+    }
+  ]
+,
+  "datePublished": "2016-03-08",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H29M",
+  "description": "A mysterious group has created a sadistic venture. Kidnapping young women, they auction the rights t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

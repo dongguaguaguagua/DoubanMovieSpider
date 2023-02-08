@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "当森林繁茂 Kaadu Pookkunna Neram",
+  "url": "/subject/26864309/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559464729.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320620/",
+      "name": "比朱·达莫达兰 Bijukumar Damodaran"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320622/",
+      "name": "Indrajith Indrajith"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "路过未来",
+  "url": "/subject/26909423/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519031460.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275599/",
+      "name": "李睿珺 Ruijun Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275599/",
+      "name": "李睿珺 Ruijun Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312862/",
+      "name": "杨子姗 Zishan Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340310/",
+      "name": "尹昉 Fang Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274639/",
+      "name": "李勤勤 Qinqin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350012/",
+      "name": "王婷 Ting Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292855/",
+      "name": "娜仁花 Renhua Na"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319320/",
+      "name": "周波 Bo Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375964/",
+      "name": "陈雨锶 Yusi Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320639/",
+      "name": "周云蓬 Yunpeng Zhou"
+    }
+  ]
+,
+  "datePublished": "2017-05-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H9M",
+  "description": "耀婷（杨子姗 饰）是在深圳出生长大的甘肃人，除了办理身份证外她再没去过甘肃。如今在深圳打工二十多年的父母决定返回甘肃农村老家生活，耀婷看到父母在村子里生活并不如意，她想通过自己的努力把父母重新接回深圳...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "7107",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "水晶天鹅 Хрусталь",
+  "url": "/subject/30241694/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543582385.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417683/",
+      "name": "达里娅·楚克 Darya Zhuk"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417683/",
+      "name": "达里娅·楚克 Darya Zhuk"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366410/",
+      "name": "尤里·鲍里索夫 Yuriy Borisov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441934/",
+      "name": "Alina Nasibullina Alina Nasibullina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472522/",
+      "name": "伊利亚·卡帕聂兹 Ilya Kapanets"
+    }
+  ]
+,
+  "datePublished": "2018-07-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "故事发生在1996年的白俄罗斯，低迷的经济让年轻的女孩维尔亚（Alina Nasibullina 饰）失去了自己的工作，她决定移民美国。想要移民，维尔亚必须有一个正式的工作，她伪造了就业证明，并且提供...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "600",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

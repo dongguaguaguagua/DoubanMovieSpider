@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "villain",
+  "url": "/subject/27615595/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2509954969.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054489/",
+      "name": "莫哈恩拉 Mohanlal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278579/",
+      "name": "维夏·巴德瓦杰 Vishal Bhardwaj"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164831/",
+      "name": "曼珠·瓦里尔 Manju Warrier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1214866/",
+      "name": "汉西卡·莫瓦妮 Hansika Motwani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426748/",
+      "name": "维绍尔 Vishal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426793/",
+      "name": "阿朱·瓦尔吉斯 Aju Varghese"
+    }
+  ]
+,
+  "datePublished": "2017-10-27",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT2H23M",
+  "description": "A killer who teases the entire police department with his flawless crimes, gets chased by a retired ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

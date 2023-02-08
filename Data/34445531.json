@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Lotte Jäger und das tote Mädchen",
+  "url": "/subject/34445531/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560925066.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1063515/",
+      "name": "希尔克·波丹班德 Silke Bodenbender"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023191/",
+      "name": "安娜·玛丽亚·穆埃 Anna Maria Mühe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389577/",
+      "name": "塞巴斯蒂安·胡克 Sebastian Hülk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247129/",
+      "name": "伊索尔达·戴查克 Isolda Dychauk"
+    }
+  ]
+,
+  "datePublished": "2016-09-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

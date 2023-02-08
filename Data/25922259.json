@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "在雨中",
+  "url": "/subject/25922259/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2347505338.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357567/",
+      "name": "唐永康 Yongkang Tang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357567/",
+      "name": "唐永康 Yongkang Tang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349944/",
+      "name": "李抒航 Yuhang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326973/",
+      "name": "王玥 Yue Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346493/",
+      "name": "邱云鹤 Yunhe Qiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357569/",
+      "name": "詹俊林 Junlin Zhan"
+    }
+  ]
+,
+  "datePublished": "2016-05-20",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "李伟（李抒航 饰）喜欢温柔恬静的卢倩倩（王玥 饰），卢倩倩也对李伟产生好感，却因李伟家境不好而被母亲百般阻拦，二人面对残酷的现实压力。李伟的好兄弟陈刚（邱云鹤 饰）与李伟从小情义深厚，陈刚对卢倩倩一见...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "71",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

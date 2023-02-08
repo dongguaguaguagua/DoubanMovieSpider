@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天梦",
+  "url": "/subject/26682831/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2518649401.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391288/",
+      "name": "许文琦 Wenqi Xu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392544/",
+      "name": "任云 Yun Ren"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312856/",
+      "name": "金巧巧 Qiaoqiao Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314497/",
+      "name": "何中华 Zhonghua He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355345/",
+      "name": "张雨霏 Yufei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392545/",
+      "name": "宋邦春 Bangchun Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392546/",
+      "name": "沈居辉 Juhui Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392547/",
+      "name": "姜斐 Fei Jiang"
+    }
+  ]
+,
+  "datePublished": "2018-05-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "苏钦跟赵志远开了家建筑设计院，妻子张兰心，本是市舞蹈队的种子选手，却因怀孕生子被开除，生下女儿苏木槿后，跟着丈夫回到家乡从事服装设计工作。在苏木槿8岁生日的那一天，赵志远开车载着苏钦和苏木槿，不幸在途...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

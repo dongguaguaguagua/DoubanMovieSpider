@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "京囧",
+  "url": "/subject/26949197/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2412816295.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367383/",
+      "name": "周影 Ying Zhou"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H10M",
+  "description": "吴有志是一个普通的农村青年，由于高考成绩不理想而落榜，当他回到家中看到家里窘迫的生活现状和父亲苍老的面容，他很受触动，暗自发誓要让家人都过上好日子，他听说同村的发小王远飞在北京混得不错，不但有房有车还...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

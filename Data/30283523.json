@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "金发野兽 Bêtes blondes",
+  "url": "/subject/30283523/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2549298599.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423470/",
+      "name": "托马斯·西梅卡 Thomas Scimeca"
+    }
+  ]
+,
+  "datePublished": "2018-09-02",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H40M",
+  "description": "The former star of a short-lived television sitcom, Fabien, drinks too much to remember everything h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "284",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

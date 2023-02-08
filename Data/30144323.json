@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Last Breakfast Club",
+  "url": "/subject/30144323/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2513186696.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345466/",
+      "name": "加勒特·克莱顿 Garrett Clayton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475594/",
+      "name": "乔纳·普拉特 Jonah Platt"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6b4c\u821e"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

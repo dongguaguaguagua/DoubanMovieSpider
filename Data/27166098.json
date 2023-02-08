@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "200小时 200 Hours",
+  "url": "/subject/27166098/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501481155.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027389/",
+      "name": "布瑞亚·格兰特 Brea Grant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369705/",
+      "name": "史蒂芬·埃利斯 Stephen Ellis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395353/",
+      "name": "詹姆斯·霍尔 James Hoare"
+    }
+  ]
+,
+  "datePublished": "2018-10-02",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H31M",
+  "description": "“治癒”睡眠，挑战人类清醒极限！",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

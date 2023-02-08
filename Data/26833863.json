@@ -1,0 +1,61 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "EVIL IDOL SONG",
+  "url": "/subject/26833863/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2613740356.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323603/",
+      "name": "大畑創 Hajime Ohata"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323603/",
+      "name": "大畑創 Hajime Ohata"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366802/",
+      "name": "藤田恵名 Ena Fujita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326999/",
+      "name": "屋敷纮子 Hiroko Yashiki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429376/",
+      "name": "近藤笑菜 Emina Kondô"
+    }
+  ]
+,
+  "datePublished": "2016-08-20",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H18M",
+  "description": "藤崎佳奈はグラビアをやりながらも、
+シンガーソングライターとしても活動する売れないアイドル。
+プロダクションは歌手としては売れない彼女を業界のプロデューサーに枕営業をさせようとしている。
+そして彼女は...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

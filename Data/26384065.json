@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "龙门驿站之狼武士",
+  "url": "/subject/26384065/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2510956104.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050979/",
+      "name": "张智霖 Julian Cheung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011268/",
+      "name": "文颂娴 Annie Man"
+    }
+  ]
+,
+  "datePublished": "2018-02-16",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "导      演:朱弈龙
+编      剧:邵洋、黄浩华
+主      演:张智霖、文颂娴、刘家辉、赵柯、曾沙、彭波
+片      种:故事片
+类      型:古装、动作
+出品单位:北京世纪华融文化...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

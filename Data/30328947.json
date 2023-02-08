@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三面娜迦2 นาคี ๒",
+  "url": "/subject/30328947/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2538004295.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302648/",
+      "name": "彭拍·瓦奇拉班桌 Pongpat Wachirabunjong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302087/",
+      "name": "罗宁·提姆 Kongkiat Khomsiri"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313322/",
+      "name": "纳得克·库吉米亚 Nadech Kugimiya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316779/",
+      "name": "乌拉萨雅·斯帕邦德 Urassaya Sperbund"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314839/",
+      "name": "娜塔玻·提米露克 Nataporn Taemeeruk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322497/",
+      "name": "朴朴·彭帕努 Phupoom Phongpanu"
+    }
+  ]
+,
+  "datePublished": "2018-10-18",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H33M",
+  "description": "平靜的東北村莊，幾周以來不斷發生駭人聽聞的殺人事件，死者各個面目猙獰、死狀悽慘。
+憤怒又害怕的村長和村民們議論紛紛、憶起多年前「娜迦發怒毀村事件」，巫師指稱平日侍奉娜迦神殿的索伊就是娜迦的化身，為免去...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "293",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

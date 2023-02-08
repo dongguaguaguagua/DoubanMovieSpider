@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "9 Ways to Hell",
+  "url": "/subject/27179204/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2502946584.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475943/",
+      "name": "艾米莉·基利安 Emily Killian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399800/",
+      "name": "阿尔·伯克 Al Burke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045998/",
+      "name": "乔·卡斯特罗 Joe Castro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463532/",
+      "name": "Varda Appleton Varda Appleton"
+    }
+  ]
+,
+  "datePublished": "2022-05-13",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H44M",
+  "description": "A descent down the 9 Circles of Dante&#39;s Inferno. Limbo: A criminal on the run reaches the end of the...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

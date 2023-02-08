@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "100颗子弹 100 Bullets",
+  "url": "/subject/25943168/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2383547513.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398086/",
+      "name": "布莱恩·阿扎瑞罗 Brian Azzarello"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370325/",
+      "name": "克里斯托弗·博雷利 Christopher Borrelli"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "",
+  "description": "新线电影公司计划将布莱恩·阿扎雷洛（Brian Azzarello）与爱德华多·瑞索（Eduardo Risso）的经典漫画作品《100颗子弹》（100 Bullets）搬上大银幕。汤姆·哈迪将担任制...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

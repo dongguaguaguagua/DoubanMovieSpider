@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "毡匠和他的女儿",
+  "url": "/subject/30346011/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2660169853.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316020/",
+      "name": "方军亮 Junliang Fang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402564/",
+      "name": "郝国忱 Guochen Hao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428551/",
+      "name": "林又临 Youlin Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274637/",
+      "name": "董勇 Yong Dong"
+    }
+  ]
+,
+  "datePublished": "2018-10-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "故事描写技术精湛的擀毡匠人巴特尔努力寻找擀毡技艺传承人，并将这项技艺传给女儿宝迪，宝迪通过自己努力学习最终成为优秀的擀毡匠的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

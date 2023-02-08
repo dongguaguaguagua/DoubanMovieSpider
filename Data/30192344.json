@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我和格瓦拉的故事 Moi et le Che",
+  "url": "/subject/30192344/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2518851285.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033024/",
+      "name": "帕特里克·薛内斯 Patrick Chesnais"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048459/",
+      "name": "芬尼·科腾肯 Fanny Cottençon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384215/",
+      "name": "洛朗·巴图 Laurent Bateau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025131/",
+      "name": "狄迪尔·弗拉蒙 Didier Flamand"
+    }
+  ]
+,
+  "datePublished": "2018-05-30",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "格尔是一位德高望重、有着多年教学经验的老教授，他不仅对当今时事和政治充满关切，对世风日下的社会充满忧虑，而且还积极地活跃在社会活动的前线，通过社会和政治活动维护自己的主张。他不甘于像身边其他衣食无忧的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

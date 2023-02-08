@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伦敦城 London Town",
+  "url": "/subject/26658871/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2381337528.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037195/",
+      "name": "德瑞克·伯特 Derrick Borte"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357543/",
+      "name": "马特·布朗 Matt Brown"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009705/",
+      "name": "科斯汀·谢里丹 Kirsten Sheridan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012518/",
+      "name": "乔纳森·莱斯·梅耶斯 Jonathan Rhys Meyers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036368/",
+      "name": "多格雷·斯科特 Dougray Scott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036358/",
+      "name": "娜塔莎·麦克艾霍恩 Natascha McElhone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326977/",
+      "name": "丹尼尔·赫特斯通 Daniel Huttlestone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274552/",
+      "name": "汤姆·休斯 Tom Hughes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333556/",
+      "name": "保罗·布莱克维尔 Paul Blackwell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348633/",
+      "name": "内尔·威廉姆斯 Nell Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005062/",
+      "name": "麦乐迪斯·奥斯特姆 Meredith Ostrom"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358048/",
+      "name": "凯莉·霍华德 Kerry Howard"
+    }
+  ]
+,
+  "datePublished": "2016-06-03",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "上世纪70年代伦敦，14岁男孩经由疏远母亲的引荐与冲撞乐队结识，他的人生也就此改变。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

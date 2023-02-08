@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2018北京卫视元宵晚会",
+  "url": "/subject/30164694/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543720940.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276032/",
+      "name": "关晓彤 Xiaotong Guan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274247/",
+      "name": "潘长江 Changjiang Pan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360678/",
+      "name": "任嘉伦 Jialun Ren"
+    }
+  ]
+,
+  "datePublished": "2018-03-02",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "PT1H32M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寻亲之旅 À 2 heures de Paris",
+  "url": "/subject/30272463/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527895549.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1123546/",
+      "name": "瓦莱莉·迈蕾丝 Valérie Mairesse"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048459/",
+      "name": "芬尼·科腾肯 Fanny Cottençon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1087303/",
+      "name": "蒂埃里·弗雷蒙 Thierry Frémont"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1129622/",
+      "name": "弗雷德里克·皮耶罗 Frédéric Pierrot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468033/",
+      "name": "尼可拉斯·布里代 Nicolas Bridet"
+    }
+  ]
+,
+  "datePublished": "2018-06-27",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Sidonie, a young air hostess, raises her 15 year old daughter Lolo alone as the father is unknown. I...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

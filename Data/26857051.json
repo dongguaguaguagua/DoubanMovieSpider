@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "军号密码",
+  "url": "/subject/26857051/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2374331111.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352809/",
+      "name": "曹利民 Limin Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361122/",
+      "name": "许晨 Chen Xu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361122/",
+      "name": "许晨 Chen Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361123/",
+      "name": "马嘉铭 Jiaming Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361124/",
+      "name": "王陈怡娴 I-hsian Wangchen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361125/",
+      "name": "黄天崎 Tianqi Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1466122/",
+      "name": "吕清超 Qingchao Lu"
+    }
+  ]
+,
+  "datePublished": "2016-08-18",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H32M",
+  "description": "《军号密码》以发生在江南新四军纪念碑前的“碑前放鞭炮，空中响军号”的富于传奇色彩的新闻入手，描写了一个在南京大屠杀中被日军杀害父母而逃出魔窟的少年李小亮在新四军队伍里成长为抗日小英雄的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

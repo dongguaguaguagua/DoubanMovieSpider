@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死神契约之潘多拉魔盒",
+  "url": "/subject/26923012/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455131926.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410286/",
+      "name": "程润坤 Runkun Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357970/",
+      "name": "江佳桐 Jiatong Jiang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016", "\u72af\u7f6a"],
+  "duration": "PT1H26M",
+  "description": "影片以金融集资诈骗、电信诈骗和虐待儿童的真实社会故事为背景，阐述社会中人的欲壑难填，从而最终走向以身犯险的犯罪道路的故事",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

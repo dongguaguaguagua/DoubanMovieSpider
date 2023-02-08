@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "就这样吧！ C&#39;est tout pour moi",
+  "url": "/subject/27600180/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2507108813.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387669/",
+      "name": "娜威尔·玛达尼 Nawell Madani"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387669/",
+      "name": "娜威尔·玛达尼 Nawell Madani"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054351/",
+      "name": "弗朗索瓦·贝莱昂 François Berléand"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483407/",
+      "name": "斯特凡·佩泽拉 Stéphane Pezerat"
+    }
+  ]
+,
+  "datePublished": "2017-11-29",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H39M",
+  "description": "Lila had a dream to become a dancer since she&#39;s a little. She went to Paris trying to make her dream...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

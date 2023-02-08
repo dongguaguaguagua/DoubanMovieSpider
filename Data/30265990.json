@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "跳动的心 Dhadak",
+  "url": "/subject/30265990/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527149549.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399646/",
+      "name": "艾萨·安哈尔 Ishaan Khattar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295204/",
+      "name": "阿舒托史.拉纳 Ashutosh Rana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420003/",
+      "name": "贾维·卡普尔 Janhvi Kapoor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423479/",
+      "name": "卡拉吉·穆克吉 Kharaj Mukherjee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1466089/",
+      "name": "维什瓦纳特·查特吉 Vishwanath Chatterjee"
+    }
+  ]
+,
+  "datePublished": "2018-07-20",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT2H17M",
+  "description": "马杜（艾萨·安哈尔 Ishaan Khattar 饰）是一个非常善良的小伙子，他的梦中情人是名叫帕缇维（贾维·卡普尔 Janhvi Kapoor 饰）的姑娘。帕缇维的父亲是一名老谋深算的政治家，正在进...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "75",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.9"
+  }
+}

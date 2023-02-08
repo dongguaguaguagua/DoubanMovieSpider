@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "因爱结缘 Date with Love",
+  "url": "/subject/26800739/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2364954086.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391358/",
+      "name": "拉丽莎·阿尔布开克 Larissa Albuquerque"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1234464/",
+      "name": "安德里亚·布鲁克斯 Andrea Brooks"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280322/",
+      "name": "卡罗琳·凯芙 Caroline Cave"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027242/",
+      "name": "拜莉·麦迪逊 Bailee Madison"
+    }
+  ]
+,
+  "datePublished": "2016-05-21",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H24M",
+  "description": "当一个小镇男孩的邀请约会视频网上爆红，它得分他与他的名人迷恋舞会约会。当名人落入男孩的老师的名下时，就会出现并发症。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

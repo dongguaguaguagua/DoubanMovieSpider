@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "曼谷之夜 バンコクナイツ",
+  "url": "/subject/26684909/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2412652430.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319229/",
+      "name": "富田克也 Katsuya Tomita"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326622/",
+      "name": "相泽虎之助 Toranosuke Aizawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319229/",
+      "name": "富田克也 Katsuya Tomita"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319229/",
+      "name": "富田克也 Katsuya Tomita"
+    }
+  ]
+,
+  "datePublished": "2016-08-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT3H3M",
+  "description": "曼谷，是一个大都市，也是一座不夜城。城市的中心泰尼亚路是一片红灯区，这里的路边随处可见一些日本男人。露克是红灯区的头牌之一。她一个人独自住在曼谷的豪华公寓中，用在这边挣到的钱，负担起她远在老挝边境的原...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "483",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

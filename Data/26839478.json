@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的空姐女友",
+  "url": "/subject/26839478/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2376125450.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326739/",
+      "name": "杜俊泽 Junze Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353571/",
+      "name": "何静 Jing He"
+    }
+  ]
+,
+  "datePublished": "2016-09-19",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "《浪漫在云端之三号空姐》讲述的是年轻貌美的空姐林茜（何静饰）与高富帅韩子杰（杜俊泽饰）之间的浪漫爱情故事。林茜出身优越，有良好的音乐素养，但她不愿意按照父母的期待去做一个音乐家，而是梦想着去当一名空姐...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "妈妈，母亲和我 Moi, maman, ma mère et moi",
+  "url": "/subject/30366652/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2544409755.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289588/",
+      "name": "Christophe Le Masne Christophe Le Masne"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289588/",
+      "name": "Christophe Le Masne Christophe Le Masne"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403693/",
+      "name": "格雷戈里·蒙泰尔 Grégory Montel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076141/",
+      "name": "洛丽塔·夏马 Lolita Chammah"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345489/",
+      "name": "奥利维亚·科特 Olivia Côte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328165/",
+      "name": "Dominique Valadié Dominique Valadié"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016792/",
+      "name": "菲利普·纳翁 Philippe Nahon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373591/",
+      "name": "伊冯·马丁 Yvon Martin"
+    }
+  ]
+,
+  "datePublished": "2018-08-25",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H27M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

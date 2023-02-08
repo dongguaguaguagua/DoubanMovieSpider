@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "赛尔号大电影6：圣者无敌",
+  "url": "/subject/26969037/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531652478.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330788/",
+      "name": "王章俊 Zhangjun Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330788/",
+      "name": "王章俊 Zhangjun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330911/",
+      "name": "邓磊 Lei Deng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321912/",
+      "name": "罗玉婷 Yuting Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320013/",
+      "name": "翟巍 Wei Zhai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332379/",
+      "name": "王晓彤 Xiaotong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326522/",
+      "name": "李晔 Ye Li"
+    }
+  ]
+,
+  "datePublished": "2017-08-18",
+  "genre": ["\u52a8\u753b", "\u513f\u7ae5", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H38M",
+  "description": "从前，在神秘森林里有个外星小孩儿，他带着面具，机灵古怪，终日与吹泡泡的毛猴儿们为伴。
+某日，一群凶残至极的鲨齿狼冲进森林，只见头狼身上坐着宇宙精灵捕手克拉，与正在寻找圣者谱尼的SPT队员们撞个正着。
+...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1865",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "婚姻诊疗 O Amor no Divã",
+  "url": "/subject/26966749/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2423179234.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1136431/",
+      "name": "泽泽·保利萨 Zezé Polessa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088267/",
+      "name": "丹尼尔·丹特斯 Daniel Dantas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1131787/",
+      "name": "费尔南达·佩斯·莱玛 Fernanda Paes Leme"
+    }
+  ]
+,
+  "datePublished": "2016-12-08",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H28M",
+  "description": "Malka Stein (Zezé Polessa) is a renowned psychologist and therapist who specializes in developing co...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "刺杀",
+  "url": "/subject/27013271/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2456569343.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422924/",
+      "name": "曾晓禹 Xiaoyu Zeng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413800/",
+      "name": "赵宇钟 Woo-jong Jo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353220/",
+      "name": "佟瑞敏 Ruimin Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356349/",
+      "name": "李瑞超 Ruichao Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342807/",
+      "name": "吴晴 Qing Wu"
+    }
+  ]
+,
+  "datePublished": "2017-04-01",
+  "genre": ["\u52a8\u4f5c", "\u6b66\u4fa0"],
+  "duration": "",
+  "description": "本片讲述雍正年间的文字狱，一个女子吕四娘的父亲在文字狱中被满门抄斩，所幸她与姐姐幸免于难，后来在一个道观与师傅学艺，终于练得一身好武艺，决定下山为全家报仇，于是来到宫内做了雍正的御前侍卫，在为了报仇的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

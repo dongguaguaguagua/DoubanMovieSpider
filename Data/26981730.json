@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "湖南卫视2016-2017跨年演唱会",
+  "url": "/subject/26981730/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2433619715.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378017/",
+      "name": "王恬 Tian Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041404/",
+      "name": "黄晓明 Xiaoming Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045243/",
+      "name": "王力宏 Lee-Hom Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011562/",
+      "name": "刘涛 Tao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018248/",
+      "name": "莫文蔚 Karen Mok"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354130/",
+      "name": "王一博 Yibo Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313023/",
+      "name": "何炅 Jiong He"
+    }
+  ]
+,
+  "datePublished": "2016-12-31",
+  "genre": ["\u6b4c\u821e", "\u771f\u4eba\u79c0"],
+  "duration": "PT4H3M",
+  "description": "湖南卫视2017跨年演唱会于2016年12月31日在爱奇艺联合播出，爱奇艺VIP会员同步观看现场直播，2017年1月1日24点后完整版免费回看，李易峰、TFBOYS，王力宏，黄晓明，贾乃亮、张智霖、袁...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

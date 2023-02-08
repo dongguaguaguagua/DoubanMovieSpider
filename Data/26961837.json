@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "We Are Savvy",
+  "url": "/subject/26961837/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027242/",
+      "name": "拜莉·麦迪逊 Bailee Madison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359872/",
+      "name": "Lennon Stella Lennon Stella"
+    }
+  ]
+,
+  "datePublished": "2016-07-01",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Three tween girls make a web show to show their interests, make DIY&#39;s and connect with people around...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

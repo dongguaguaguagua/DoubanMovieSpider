@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "袭击 Raid",
+  "url": "/subject/30172883/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517124960.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401310/",
+      "name": "拉杰·库马尔·古普塔 Raj Kumar Gupta"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319729/",
+      "name": "瑞提什·沙阿 Ritesh Shah"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1085455/",
+      "name": "阿贾耶·德乌干 Ajay Devgan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276100/",
+      "name": "沙鲁巴·舒克拉 Saurabh Shukla"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325052/",
+      "name": "伊利亚娜·狄克鲁兹 Ileana D&#39;Cruz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401311/",
+      "name": "阿米特·西亚尔 Amit Sial"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374337/",
+      "name": "拉维·汗维尔卡尔 Ravi Khanvilkar"
+    }
+  ]
+,
+  "datePublished": "2018-03-16",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT2H2M",
+  "description": "在有人神秘地将他的注意力吸引到了证据之后，一位无所畏惧的所得税官员袭击了勒克瑙最有权势的人的宅邸。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1429",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

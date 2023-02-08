@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "La consolation",
+  "url": "/subject/26892550/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2433702645.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341830/",
+      "name": "科琳娜·马谢罗 Corinne Masiero"
+    }
+  ]
+,
+  "datePublished": "2017-04-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H18M",
+  "description": "当亲人离世时，当生命中出现了巨大且无法弥补的空缺时，除了时间，还有什么可以治愈受伤的心灵？痛苦也许会被时间慢慢冲淡，但有些东西却会在时间里历久弥新。离开并不意味着失去，相反它正在给那些幸存者传递更多的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

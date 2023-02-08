@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血色烽烟之出生入死",
+  "url": "/subject/26969714/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519992170.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001955/",
+      "name": "李作楠 Tso Nam Lee"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332806/",
+      "name": "刘峰超 Fengchao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392550/",
+      "name": "王梁双全 Liangshuangquan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398810/",
+      "name": "满林 Lin Man"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318076/",
+      "name": "徐箭 Jian Xu"
+    }
+  ]
+,
+  "datePublished": "2016-05-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

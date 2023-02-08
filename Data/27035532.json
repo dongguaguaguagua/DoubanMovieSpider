@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "邂逅 Encounter",
+  "url": "/subject/27035532/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2457757253.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333356/",
+      "name": "卢克·海姆斯沃斯 Luke Hemsworth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108620/",
+      "name": "安娜·哈彻森 Anna Hutchison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009506/",
+      "name": "克里斯托弗·肖尔曼 Christopher Showerman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340924/",
+      "name": "格伦·基奥 Glenn Keogh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325928/",
+      "name": "维森特·M.沃德 Vincent M. Ward"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1057083/",
+      "name": "汤姆·阿特金斯 Tom Atkins"
+    }
+  ]
+,
+  "datePublished": "2018-12-09",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H32M",
+  "description": "A group of friends make a remarkable discovery in a rural field. When they bring the otherworldly ob...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "二十四周 24 Wochen",
+  "url": "/subject/26712793/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2394304914.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354630/",
+      "name": "安娜•左拉•贝哈赫德 Anne Zohra Berrached"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364216/",
+      "name": "卡尔·格柏 Carl Gerber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354630/",
+      "name": "安娜•左拉•贝哈赫德 Anne Zohra Berrached"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032327/",
+      "name": "尤莉亚·延奇 Julia Jentsch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1222605/",
+      "name": "比亚内·梅德尔 Bjarne Mädel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284612/",
+      "name": "约翰娜·加斯多夫 Johanna Gastdorf"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364218/",
+      "name": "艾米莉亚·派斯克 Emilia Pieske"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311476/",
+      "name": "玛丽亚·德拉格斯 Maria Dragus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1207360/",
+      "name": "卡瑞娜·普拉赫特卡 Karina Plachetka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379752/",
+      "name": "莎彬·沃尔夫 Sabine Wolf"
+    }
+  ]
+,
+  "datePublished": "2016-02-14",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H42M",
+  "description": "阿斯崔德（朱丽娅·耶恩奇 Julia Jentsch 饰）是一位在事业上颇有建树的女演员，拥有众多的粉丝。与此同时，她和丈夫马库斯（比亚内·梅德尔 Bjarne Mädel 饰）之间的感情也非常要好，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1049",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

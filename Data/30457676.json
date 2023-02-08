@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Woven",
+  "url": "/subject/30457676/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2547853114.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1157178/",
+      "name": "瑞恩·史帕恩 Ryan Spahn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353172/",
+      "name": "克里斯汀·哈吉 Kristin Hanggi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393950/",
+      "name": "瑞恩·欧南 Ryan O&#39;Nan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1157178/",
+      "name": "瑞恩·史帕恩 Ryan Spahn"
+    }
+  ]
+,
+  "datePublished": "2016-07-04",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H36M",
+  "description": "Ethiopian-born Elenie struggles to integrate her mother&#39;s traditions with her own American dreams. W...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

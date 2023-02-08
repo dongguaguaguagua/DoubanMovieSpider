@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "礼仪老师 매너선생님",
+  "url": "/subject/26875245/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2381242181.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346361/",
+      "name": "卢镇秀 Jin-soo Noh"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346361/",
+      "name": "卢镇秀 Jin-soo Noh"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363006/",
+      "name": "吕敏贞 Yeo Min-jeong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361621/",
+      "name": "金民起 Kim Min-gi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440473/",
+      "name": "拉希 La Hee"
+    }
+  ]
+,
+  "datePublished": "2016-09-22",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H18M",
+  "description": "이상기획 대리 현무(김민기)는 매너의 기본도 모르는 직장인이다. 이에 회사 사장은 직원들의 매너교육을 위해 팀장에게 매너선생님을 고용하라고 지시한다. 그러던 어느 날 갑자기 현무 ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "378",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.2"
+  }
+}

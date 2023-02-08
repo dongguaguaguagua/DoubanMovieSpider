@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "スパンデクサーVSグリーンデビル",
+  "url": "/subject/27666655/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2510770965.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370273/",
+      "name": "西条琉璃 Ruri Saijo"
+    }
+  ]
+,
+  "datePublished": "2017-10-01",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT2H2M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

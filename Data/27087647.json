@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "按摩侠",
+  "url": "/subject/27087647/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2492765368.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366595/",
+      "name": "纪然 Ran Ji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445171/",
+      "name": "安雪雁 Xueyan An"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274639/",
+      "name": "李勤勤 Qinqin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317859/",
+      "name": "彭波 Bo Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350010/",
+      "name": "徐小琴 Xiaoqin Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340987/",
+      "name": "李卓远 Zhuoyuan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403125/",
+      "name": "柴陆 Lu Chai"
+    }
+  ]
+,
+  "datePublished": "2017-07-21",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H9M",
+  "description": "青龙集团董事长过世后，给青龙集团太子爷留下了镇帮之宝：一支可以号令整个青龙集团所有人的大哥大手提电话。一日，太子爷独自去按摩院按摩，青龙公司一群起了异心的小人得到消息后，来到按摩院准备劫持太子爷，夺走...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

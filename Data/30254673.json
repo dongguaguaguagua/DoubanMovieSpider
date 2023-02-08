@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱人 Mehbooba",
+  "url": "/subject/30254673/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2525861547.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028651/",
+      "name": "普里·贾加纳斯 Puri Jagannath"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028651/",
+      "name": "普里·贾加纳斯 Puri Jagannath"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-05-11",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT2H32M",
+  "description": "1971年第三次印巴战争背景下的一个爱情故事",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

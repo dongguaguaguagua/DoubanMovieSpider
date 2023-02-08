@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大片 Блокбастер",
+  "url": "/subject/27602120/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2507388958.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1206334/",
+      "name": "赛佛兰娜·科契柯娃 Svetlana Khodchenkova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019742/",
+      "name": "尤利娅·斯尼吉尔 Yuliya Snigir"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332854/",
+      "name": "安娜·奇波夫斯卡娅 Anna Chipovskaya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046321/",
+      "name": "斯维特兰娜··乌斯蒂诺娃 Svetlana Ustinova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358163/",
+      "name": "亚历山大·戈尔奇林 Aleksandr Gorchilin"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H50M",
+  "description": "女主持人Liza陷入了事业危机。这天，失落的她独自在餐厅吃饭，不曾想，却遇到了抢劫犯的袭击……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

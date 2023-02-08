@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "开膛手杰克 Jack the Ripper",
+  "url": "/subject/26815984/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2402345421.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020531/",
+      "name": "塞巴斯蒂安·尼曼 Sebastian Niemann"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323450/",
+      "name": "法尔克·亨特切尔 Falk Hentschel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314355/",
+      "name": "尼古拉斯·法瑞尔 Nicholas Farrell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1256848/",
+      "name": "桑雅·杰哈特 Sonja Gerhardt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326089/",
+      "name": "萨宾·塔布瑞亚 Sabin Tambrea"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348730/",
+      "name": "弗拉基米尔·布尔拉科夫 Vladimir Burlakov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1248388/",
+      "name": " Funda Vanroy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284853/",
+      "name": "彼得·吉尔伯特 Peter Gilbert"
+    }
+  ]
+,
+  "datePublished": "2016-11-29",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H40M",
+  "description": "该片已于2016年11月29日在德国上映。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1247",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

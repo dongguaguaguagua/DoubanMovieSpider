@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "71号公寓",
+  "url": "/subject/30166999/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2517030361.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390526/",
+      "name": "彭德松 Desong Peng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390527/",
+      "name": "张晖 Hui Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360468/",
+      "name": "王笑天 Xiaotian Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381084/",
+      "name": "陈奕妃 Yifei Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390528/",
+      "name": "孙弋惟 Yiwei Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390529/",
+      "name": "张艺航 Yihang Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390530/",
+      "name": "宗昊 Hao Zong"
+    }
+  ]
+,
+  "datePublished": "2018-03-22",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H7M",
+  "description": "影片讲述了准备参加试镜的演员张天被人迷晕，醒来后发现自己被困在一栋偏僻的别墅中。别墅里还住着几个看似毫无关系，却身份神秘的人，每天夜里张天都能听到奇怪的争吵，别墅里也怪事频发，甚至有人离奇死亡。就在男...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

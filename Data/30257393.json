@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地下 Beneath Us",
+  "url": "/subject/30257393/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561583368.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019006/",
+      "name": "琳恩·柯林斯 Lynn Collins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359967/",
+      "name": "里戈·桑切斯 Rigo Sanchez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022781/",
+      "name": "詹姆士·塔珀 James Tupper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1206804/",
+      "name": "罗伯托·桑切斯 Roberto &#39;Sanz&#39; Sanchez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014054/",
+      "name": "尼古拉斯·冈萨雷斯 Nicholas Gonzalez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329598/",
+      "name": "伊迪·加内姆 Edy Ganem"
+    }
+  ]
+,
+  "datePublished": "2019-04-11",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "許多外國移民都會來到一家五金店前排隊，只為了替一些未曾謀面的人工作，賺取微薄的生活費。其中有些沒有工作簽證的人被誘拐到莉絲羅德斯家中工作，他們萬萬沒想到在前面等待的是可怕的命運。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "460",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

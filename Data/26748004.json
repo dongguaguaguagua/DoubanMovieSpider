@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "盗墓女",
+  "url": "/subject/26748004/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2325261045.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436603/",
+      "name": "吕乐 Yue Lu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379902/",
+      "name": "徐福来 Fulai Xu"
+    }
+  ]
+,
+  "datePublished": "2016-03-11",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT2H3M",
+  "description": "电影讲述了混血儿刘佳的离奇出生，之后被农村老人收养。高考认识由李东翰饰演的医学世家富家公子刘嘉，两人产生爱情,由吕乐饰演的刘佳为爱学医学,遭受医学世家刘嘉父母的万般阻挠，刘佳为学业爱情吃尽苦头.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

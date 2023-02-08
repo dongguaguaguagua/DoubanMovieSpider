@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "警察老曾的一天",
+  "url": "/subject/30331483/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2543094253.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372970/",
+      "name": "李育生 Yusheng Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380396/",
+      "name": "宋乃刚 Naigang Song"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H17M",
+  "description": "该微电影讲述了强戒所特种病人救治中心老警察曾建国值完夜班之后，准备回家休息之际，救治中心的病人突发急症，需要送往强戒所合作医院进行抢救，曾建国顾不上休息赶往医院参与救治。此时，他的女儿生了孩子，恰好也...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

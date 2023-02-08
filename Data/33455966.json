@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "La belle occasion",
+  "url": "/subject/33455966/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2557275656.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040851/",
+      "name": "伊希尔·勒·贝斯柯 Isild Le Besco"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040851/",
+      "name": "伊希尔·勒·贝斯柯 Isild Le Besco"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040851/",
+      "name": "伊希尔·勒·贝斯柯 Isild Le Besco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327750/",
+      "name": "Yara Pilartz Yara Pilartz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338357/",
+      "name": "保罗·巴特尔 Paul Bartel"
+    }
+  ]
+,
+  "datePublished": "2017-04-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H19M",
+  "description": "La Belle Occasion centers around Sarena, a young woman whose entire life has been closely linked to ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

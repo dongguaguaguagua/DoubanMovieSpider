@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海难边缘 Les naufragés",
+  "url": "/subject/26715200/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2313435604.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309327/",
+      "name": "David Charhon David Charhon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309327/",
+      "name": "David Charhon David Charhon"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007064/",
+      "name": "丹尼尔·奥特伊 Daniel Auteuil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019457/",
+      "name": "劳伦特·斯托克 Laurent Stocker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468045/",
+      "name": "洛朗·波瓦特诺 Laurent Poitrenaux"
+    }
+  ]
+,
+  "datePublished": "2016-02-17",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "Jean-Louis Brochard, escroc de la finance en fuite et William Boulanger, teinturier cocu tout juste ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "加勒比黑帮 Le Gang des Antillais",
+  "url": "/subject/26656459/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2456479901.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1039810/",
+      "name": "Thomas Cheysson Thomas Cheysson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282967/",
+      "name": "艾瑞克·艾伯纳尼 Eriq Ebouaney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350909/",
+      "name": "吕西安·让-巴蒂斯特 Lucien Jean-Baptiste"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "A gun to be heard, a pen to make yourself understood. The identical course of four young West Indian...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

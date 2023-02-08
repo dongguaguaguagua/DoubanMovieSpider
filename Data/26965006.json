@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Horror Show",
+  "url": "/subject/26965006/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2421563098.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258162/",
+      "name": " Giovanni Igneri"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258162/",
+      "name": " Giovanni Igneri"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036417/",
+      "name": "泰勒·梅恩 Tyler Mane"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "When a group of aspiring horror film directors get picked to appear on a new horror themed reality g...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

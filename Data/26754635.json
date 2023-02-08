@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "After Louise",
+  "url": "/subject/26754635/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2637256203.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307287/",
+      "name": "David Scheinmann David Scheinmann"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1135264/",
+      "name": "迈克尔·穆勒 Michael Müller"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044976/",
+      "name": "格雷·怀斯 Greg Wise"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346447/",
+      "name": "爱丽丝·塞克斯 Alice Sykes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1136629/",
+      "name": "泰莎·皮科-琼斯 Tessa Peake-Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1125786/",
+      "name": "马丁·马尔克斯 Martin Marquez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432681/",
+      "name": "Lewis Rainer Lewis Rainer"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Kath (Sykes), a shy young woman who runs out on her wedding to go in search of her mother whom she h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

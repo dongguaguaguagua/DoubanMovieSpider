@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Most Dangerous Man",
+  "url": "/subject/30301283/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1094857/",
+      "name": "Jack Holmes Jack Holmes"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116116/",
+      "name": "保罗·罗根 Paul Logan"
+    }
+  ]
+,
+  "datePublished": "2018-08-17",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "Sgt. Max Gunn, retired leader of a black-ops commando unit, is reinstated to lead a team of elite sp...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

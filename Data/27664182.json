@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "落跑罗曼史 Runaway Romance",
+  "url": "/subject/27664182/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2575706166.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005466/",
+      "name": "Brian Herzlinger Brian Herzlinger"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1169541/",
+      "name": "特雷弗·多诺万 Trevor Donovan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324999/",
+      "name": "凯兰崔尔·斯蒂尼曼 Galadriel Stineman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040556/",
+      "name": "塔图姆·奥尼尔 Tatum O&#39;Neal"
+    }
+  ]
+,
+  "datePublished": "2018-01-07",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "A reality TV star leaves Hollywood and finds herself in Amish country where she must decide between ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

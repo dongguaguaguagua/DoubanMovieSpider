@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "睡美人 La belle dormant",
+  "url": "/subject/26700322/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2381835580.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1057959/",
+      "name": "阿道夫·艾瑞艾塔 Adolfo Arrieta"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1057959/",
+      "name": "阿道夫·艾瑞艾塔 Adolfo Arrieta"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314060/",
+      "name": "尼尔斯·施内德 Niels Schneider"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323347/",
+      "name": "阿珈特·波尼茨 Agathe Bonitzer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040679/",
+      "name": "马修·阿马立克 Mathieu Amalric"
+    }
+  ]
+,
+  "datePublished": "2016-11-19",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5947\u5e7b"],
+  "duration": "PT1H22M",
+  "description": "In the Kingdom of Letonia, Prince Egon has only one thing in mind: finding Sleeping Beauty and break...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "154",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

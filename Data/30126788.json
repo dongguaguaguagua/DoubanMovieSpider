@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "江湖赌霸",
+  "url": "/subject/30126788/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346062/",
+      "name": "唐大刚 Dagang Tang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-01-26",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H10M",
+  "description": "本片讲述张文强在警校期间素有战狼之称，所以被上级选中去执行卧底任务，期望一举端掉关豹等赌场黑恶势力。为了心中的正义，张文强忍痛与心爱的女人周娜分手，用上级给他安排的新身份，去到了关豹的对手陆老板的阵营...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

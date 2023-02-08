@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Wrapped Up In Christmas",
+  "url": "/subject/30345196/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2536370577.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004640/",
+      "name": "塔缇娜·阿里 Tatyana Ali"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040563/",
+      "name": "布兰登·费尔 Brendan Fehr"
+    }
+  ]
+,
+  "datePublished": "2017-11-25",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H35M",
+  "description": "A mall manager is tasked with cancelling the leases of underperforming stores at Christmas. She soon...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

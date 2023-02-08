@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "两只鸽子 Two Pigeons",
+  "url": "/subject/27123731/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499857928.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310779/",
+      "name": "Rae Brunton Rae Brunton"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247131/",
+      "name": "哈维尔·博泰特 Javier Botet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328220/",
+      "name": "曼蒂普·迪伦 Mandeep Dhillon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1122816/",
+      "name": "迈克尔麦凯尔 Michael McKell"
+    }
+  ]
+,
+  "datePublished": "2017-03-10",
+  "genre": ["\u559c\u5267", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "An oily, amoral estate agent is preyed upon by one of his victims, who quietly moves into his flat a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

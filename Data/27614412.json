@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "全民战神",
+  "url": "/subject/27614412/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388748/",
+      "name": "李若宁 Ruoning Li"
+    }
+  ]
+,
+  "datePublished": "2017-12-23",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H17M",
+  "description": "国际比赛的赛场上面，经历了漫长的bo5之后，一群少年眼看着自己的水晶在眼前爆照，台下响起震耳欲聋的欢叫声，但是台上面的五个少年却已经听不见了，他们只能傻傻的看着屏幕上面亮起失败的字样比赛的失败他们有苦...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

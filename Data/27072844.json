@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "BnB Hell",
+  "url": "/subject/27072844/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2464349950.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324336/",
+      "name": "安德里亚·哈里森 Andrea Harrison"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-06-15",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "A young woman’s hunt for her missing sister ends at a rundown bed and breakfast in the Hollywood hil...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

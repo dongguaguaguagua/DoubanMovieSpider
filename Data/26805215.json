@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "僵尸归来3：风吹头弯",
+  "url": "/subject/26805215/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2356605174.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376015/",
+      "name": "秦教授 Professor Qin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376015/",
+      "name": "秦教授 Professor Qin"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-06-04",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H0M",
+  "description": "该片是继《僵尸归来之尸鬼虐恋》，《僵尸归来2消失的御林军》后，《僵尸归来》系列剧第三部。
+影片讲述自从冬生得到紫流霜项链之后，每日都梦见女鬼索命。在玉儿的新书签售会上，冬生接到关于紫流霜项链神秘电话。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "389",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "囚禁 The Capture",
+  "url": "/subject/30306064/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531862580.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331440/",
+      "name": "吉姆·阿格纽 Jim Agnew"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331440/",
+      "name": "吉姆·阿格纽 Jim Agnew"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331441/",
+      "name": "Sean Keller Sean Keller"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319208/",
+      "name": "乔纳森·霍华德 Jonathan Howard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210392/",
+      "name": "诺拉简·努恩 Nora-Jane Noone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036615/",
+      "name": "阿曼达·怀斯 Amanda Wyss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193693/",
+      "name": "詹妮弗·因格拉姆 Jennifer Ingrum"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147303/",
+      "name": "罗德尼·罗兰德 Rodney Rowland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1091867/",
+      "name": "Zay Harding Zay Harding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331441/",
+      "name": "Sean Keller Sean Keller"
+    }
+  ]
+,
+  "datePublished": "2018-08-22",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "",
+  "description": "In an attempt to prove there is life after death a group of scientists perform an experiment in whic...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

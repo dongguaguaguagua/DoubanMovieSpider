@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迷失天堂 Paraíso Perdido",
+  "url": "/subject/30238375/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537667933.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024478/",
+      "name": "Monique Gardenberg Monique Gardenberg"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024478/",
+      "name": "Monique Gardenberg Monique Gardenberg"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298999/",
+      "name": "Lee Taylor Lee Taylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277238/",
+      "name": "儒利奥·安德拉德 Júlio Andrade"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018330/",
+      "name": "塞乌·乔奇 Seu Jorge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074071/",
+      "name": "Erasmo Carlos Erasmo Carlos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014630/",
+      "name": "艾米拉·盖德斯 Hermila Guedes"
+    }
+  ]
+,
+  "datePublished": "2018-05-31",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H50M",
+  "description": "Paraíso Perdido é um clube noturno gerenciado por José (Erasmo Carlos) e movimentado por apresentaçõ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

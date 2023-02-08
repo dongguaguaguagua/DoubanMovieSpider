@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美梦贩售栈",
+  "url": "/subject/30329631/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534533219.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323769/",
+      "name": "李柏谊 Baiyi Li"
+    }
+  ]
+,
+  "datePublished": "2019-09-26",
+  "genre": ["\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H14M",
+  "description": "《美梦贩售栈》以男主人公墨非烟为专食人类梦境的梦貘身份展开，讲述了墨非烟与女主角白玫因梦结缘，因梦相爱，上演了一场甜虐的寻爱之旅。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

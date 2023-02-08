@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女儿 دختر",
+  "url": "/subject/26771830/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2363949299.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292181/",
+      "name": "赛义德·雷扎·米尔-卡里米 Seyyed Reza Mir-Karimi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320615/",
+      "name": "法尔哈德·阿斯兰尼 Farhad Aslani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165578/",
+      "name": "梅里拉·扎雷伊 Merila Zare&#39;i"
+    }
+  ]
+,
+  "datePublished": "2016-06-28",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "A young girl leaves her hometown in south of Iran for a half day trip without permission of her stri...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

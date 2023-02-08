@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猎艳笔记",
+  "url": "/subject/26803800/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2356033090.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351449/",
+      "name": "杨丹 Dan Yang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u9ed1\u8272\u7535\u5f71"],
+  "duration": "PT1H1M",
+  "description": "惊心动魄的夜晚，意外频出，接二连三出事，这是一起无法控制的事件，大大超出想象。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

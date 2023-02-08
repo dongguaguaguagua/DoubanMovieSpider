@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "烈士 Martyr",
+  "url": "/subject/27119566/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497046789.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409245/",
+      "name": "马赞·哈立德 Mazen Khaled"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409245/",
+      "name": "马赞·哈立德 Mazen Khaled"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-09-01",
+  "genre": ["\u5267\u60c5", "\u540c\u6027", "\u5bb6\u5ead"],
+  "duration": "PT1H24M",
+  "description": "哈山是一名出身自黎巴嫩貝魯特貧民區的年輕男子，他感到人生已毫無意義，只能和一群死黨共同分享被社會排擠和絕望的感覺。他在海邊意外溺斃身亡引發一陣恐慌，讓死黨的友誼分崩離析，迫使他們沉重面對好友的冰冷遺體...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "146",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灵魂契约",
+  "url": "/subject/30319598/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534554319.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400588/",
+      "name": "王辰六 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400589/",
+      "name": "桑旭 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347759/",
+      "name": "杨宁 Ning Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400590/",
+      "name": "王小岩 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323817/",
+      "name": "陆翊 Yi Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372822/",
+      "name": "王廷晖 Tinghui Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369590/",
+      "name": "贾明瑛 Mingying Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400594/",
+      "name": "梁海韵 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400593/",
+      "name": "胡军 Jun Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400595/",
+      "name": "朱俏儿 "
+    }
+  ]
+,
+  "datePublished": "2018-10-26",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H29M",
+  "description": "一对儿相依为命的双胞胎姐妹，姐姐经营酒吧为生，支持妹妹的文学创作。妹妹的创作遭遇瓶颈，在好友陪伴下去一个海岛散心，却遭遇并撞翻了海葬的尸体。一时间恶灵归来，先成梦魇，妹妹被恶灵纠缠，发生一系列恐怖事件...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "花岗岩之歌 Song of Granite",
+  "url": "/subject/27066426/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510147528.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1129993/",
+      "name": "莱尼·帕克 Leni Parker"
+    }
+  ]
+,
+  "datePublished": "2017-11-15",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT1H37M",
+  "description": "Acclaimed filmmaker Pat Collins brings the dramatic life story of legendary seannós singer Joe Heane...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

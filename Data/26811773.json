@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Hi，高考君",
+  "url": "/subject/26811773/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2373850709.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327101/",
+      "name": "张馨 Xin Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322500/",
+      "name": "张冰 Bing Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312836/",
+      "name": "倪景阳 Jingyang Ni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315092/",
+      "name": "孙松 Song Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314443/",
+      "name": "高亚麟 Yalin Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316266/",
+      "name": "郑卫莉 WeiLi Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318074/",
+      "name": "郭东文 Dongwen Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359135/",
+      "name": "王楚 Chu Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313848/",
+      "name": "董慧 Hui Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319193/",
+      "name": "张恩齐 Enqi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359136/",
+      "name": "周文 Wen Zhou"
+    }
+  ]
+,
+  "datePublished": "2016-08-19",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "讲述的是青年教师沈星（倪景阳 饰）受聘来到A市华威中学担任高三毕业班的语文老师，通过接触沈星惊奇的发现，这个盛名远扬的高考状元班就像是一条没有生命的尖子生的生产线。所有的孩子拥有相差无几的高智商和应考...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "720",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死亡电梯 Deadlocked",
+  "url": "/subject/27173608/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2627352103.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457002/",
+      "name": "索菲·吉贝尔森 Sophie Giberson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457003/",
+      "name": "威廉·普尔 William Poole"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457004/",
+      "name": "凯尔·英格利希 Kyle English"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457019/",
+      "name": "Nick Champa Nick Champa"
+    }
+  ]
+,
+  "datePublished": "2020-12-01",
+  "genre": ["\u60ac\u7591", "\u6050\u6016"],
+  "duration": "",
+  "description": "As a zombie virus breaks out, one ragtag group of trapped elevator passengers must pull together for...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "100",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

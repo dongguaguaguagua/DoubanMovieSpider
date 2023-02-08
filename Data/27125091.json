@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "风回路转",
+  "url": "/subject/27125091/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2717373521.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386526/",
+      "name": "兰城序 Chengxu Lan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386526/",
+      "name": "兰城序 Chengxu Lan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401324/",
+      "name": "雷濛 Meng Lei"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "本片通过替人要账的女孩卓一和在夜场唱歌的歌手静雅为双主角。卓一老大装有非法数据的项链给了静雅，而静雅迫于面子接受后，又转手邮寄给了原来大山的朋友。卓一为了替老大取回项链，带着静雅一起去偏远的山区，卓一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

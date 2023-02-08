@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一场糟糕的婚礼 A Very Sordid Wedding",
+  "url": "/subject/27139379/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498990909.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048235/",
+      "name": "莱斯利·乔丹 Leslie Jordan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041120/",
+      "name": "乌比·戈德堡 Whoopi Goldberg"
+    }
+  ]
+,
+  "datePublished": "2017-03-10",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u540c\u6027"],
+  "duration": "",
+  "description": "本片描繪當婚姻平權議題來到美國南方德州小鎮時所發生的問題、擔憂、偏見和餘波盪漾，同時也不是每個人都準備好接受這個議題。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

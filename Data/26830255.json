@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "飞行侠 A Flying Jatt",
+  "url": "/subject/26830255/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2364435650.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304006/",
+      "name": "里寞 Remo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319880/",
+      "name": "吐沙·希拉南达尼 Tushar Hiranandani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346470/",
+      "name": "马尤尔·普里 Mayur Puri"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022750/",
+      "name": "内森·琼斯 Nathan Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050395/",
+      "name": "凯·凯·门农 Kay Kay Menon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360774/",
+      "name": "泰戈·什罗夫 Tiger Shroff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018310/",
+      "name": "杰奎琳·费南德斯 Jaqueline Fernandes"
+    }
+  ]
+,
+  "datePublished": "2016-08-25",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5947\u5e7b"],
+  "duration": "PT2H31M",
+  "description": "Tiger Shroff is a Flying Jatt whose aim is to save the world.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

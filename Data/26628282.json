@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "宠儿 The Favourite",
+  "url": "/subject/26628282/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2532012274.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289439/",
+      "name": "欧格斯·兰斯莫斯 Yorgos Lanthimos"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400461/",
+      "name": "德博拉·戴维斯 Deborah Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303592/",
+      "name": "托尼·麦克纳马拉 Tony McNamara"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004900/",
+      "name": "奥利维娅·科尔曼 Olivia Colman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040506/",
+      "name": "艾玛·斯通 Emma Stone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018989/",
+      "name": "蕾切尔·薇兹 Rachel Weisz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036341/",
+      "name": "尼古拉斯·霍尔特 Nicholas Hoult"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348117/",
+      "name": "乔·阿尔文 Joe Alwyn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027973/",
+      "name": "马克·加蒂斯 Mark Gatiss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372631/",
+      "name": "蒂莫西·英纳斯 Timothy Innes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362142/",
+      "name": "珍妮·莱恩斯福德 Jenny Rainsford"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344549/",
+      "name": "詹姆斯·史密斯 James Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358974/",
+      "name": "詹姆斯·梅尔维尔 James Melville"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383670/",
+      "name": "杰克·维尔 Jack Veal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410120/",
+      "name": "巴兹尔·伊登贝茨 Basil Eidenbenz"
+    }
+  ]
+,
+  "datePublished": "2018-08-30",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u540c\u6027", "\u4f20\u8bb0"],
+  "duration": "PT1H59M",
+  "description": "故事发生在十八世纪早期的英格兰，安妮（奥莉薇娅·柯尔曼 Olivia Colman 饰）是大不列颠王国的女王，她和自己的青梅竹马莎拉公爵夫人（蕾切尔·薇兹 Rachel Weisz 饰）一直保持着秘密...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "80790",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

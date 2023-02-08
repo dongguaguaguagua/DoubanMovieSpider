@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "霹雳舞 Break",
+  "url": "/subject/30277021/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528302115.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333397/",
+      "name": "Marc Fouchard Marc Fouchard"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037511/",
+      "name": "萨巴纳·奥扎尼 Sabrina Ouazani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365042/",
+      "name": "凯文·米契尔 Kevin Mischel"
+    }
+  ]
+,
+  "datePublished": "2018-07-18",
+  "genre": ["\u559c\u5267", "\u6b4c\u821e"],
+  "duration": "PT1H36M",
+  "description": "Lucie, a young dancer suffers an accident. When she wakes up from a coma, she and her partner start ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

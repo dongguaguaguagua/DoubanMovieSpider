@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "虎女 Tiger Girl",
+  "url": "/subject/26963640/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2424749360.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368612/",
+      "name": "雅各布·拉斯 Jakob Lass"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368612/",
+      "name": "雅各布·拉斯 Jakob Lass"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368614/",
+      "name": "艾拉·朗夫 Ella Rumpf"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352964/",
+      "name": "弗兰茨·罗戈夫斯基 Franz Rogowski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311476/",
+      "name": "玛丽亚·德拉格斯 Maria Dragus"
+    }
+  ]
+,
+  "datePublished": "2017-02-10",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H30M",
+  "description": "凡妮娜是一个尚未找到自己人生目标的女孩，她只想穿上警服并享受警服带来的使命感。然而她并未通过警校考试，只好在一家私人保安公司工作。保安公司的同事虎女信奉一条人生原则——强者为王，凡是她想得到的就一定要...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "154",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

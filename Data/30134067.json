@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心动咖啡馆 Love Struck Cafe",
+  "url": "/subject/30134067/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512161158.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295754/",
+      "name": "麦克·罗伯 Mike Robe"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295754/",
+      "name": "麦克·罗伯 Mike Robe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045990/",
+      "name": "Robert Tate Miller Robert Tate Miller"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000313/",
+      "name": "萨拉·简·莫里斯 Sarah Jane Morris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1191098/",
+      "name": "安德鲁·W·沃克 Andrew W. Walker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1075277/",
+      "name": "加里·切克 Gary Chalk"
+    }
+  ]
+,
+  "datePublished": "2017-10-14",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H24M",
+  "description": "Megan Quinn, an aspiring architect, finds herself faced with multiple tasks. She gets sent to her ho...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

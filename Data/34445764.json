@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "和我跳舞 Танцуй со мной",
+  "url": "/subject/34445764/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560824950.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420340/",
+      "name": "米哈伊尔·舍夫丘克 Mikhail Shevchuk"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420340/",
+      "name": "米哈伊尔·舍夫丘克 Mikhail Shevchuk"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1096821/",
+      "name": "诺娜·格丽莎娃 Nonna Grishaeva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483450/",
+      "name": " anar khalilov"
+    }
+  ]
+,
+  "datePublished": "2016-07-14",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H36M",
+  "description": "抱有夢想的年輕的芭蕾舞演員卡佳，參加了一部由著名導演路卡自導自演的電影試鏡，電影情節改編自路卡的青春回憶。成功獲得女主角並開始拍攝後，卡佳與電影男主角，同時也是街舞高手的尼基塔，在日常相處中慢慢產生情...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

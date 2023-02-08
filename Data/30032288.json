@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "萌姑也疯狂",
+  "url": "/subject/30032288/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2511459532.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344116/",
+      "name": "朱时春 Shichun Zhu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325514/",
+      "name": "叶倩 Qian Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313275/",
+      "name": "朱时茂 Shimao Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314405/",
+      "name": "王思懿 Siyi Wang"
+    }
+  ]
+,
+  "datePublished": "2018-01-25",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "因为寺庙被拆迁，武功高强的小尼姑妙静和“拆迁队”发生冲突，差点闹出人命，小尼姑的师傅借此机会告诉了妙静她的身世，并让她踏上了“寻找亲生父母之旅”，未涉世事的妙静在下山之后却连遭暗算，其因竟涉及豪门恩怨...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "重磅炸弹 Blockbuster",
+  "url": "/subject/25766389/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512701667.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345490/",
+      "name": "赛勒斯·萨赫迪 Syrus Shahidi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332589/",
+      "name": "爱丽丝·波尔 Alice Pol"
+    }
+  ]
+,
+  "datePublished": "2018-01-24",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "为了让病重的父亲开心杰若米制作了一部视频，却因此被女友抛弃。万分心痛的他想出了一项缜密的计划以挽回他那热爱超级英雄的女友萝拉。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

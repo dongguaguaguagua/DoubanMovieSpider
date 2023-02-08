@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的美好欲望 After School Special",
+  "url": "/subject/27077991/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2472199735.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332142/",
+      "name": "贾瑞德·科恩 Jared Cohn"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1211418/",
+      "name": "戴维·基尔 David Gere"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257669/",
+      "name": "凯登·克劳丝 Kayden Kross"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040502/",
+      "name": "杰森·伦敦 Jason London"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417567/",
+      "name": "瑞秋·艾里格 Rachel Alig"
+    }
+  ]
+,
+  "datePublished": "2017-06-27",
+  "genre": ["\u559c\u5267", "\u72af\u7f6a", "\u5192\u9669"],
+  "duration": "PT1H18M",
+  "description": "Teen stepbrothers, Danny, a wannabe entrepreneur, and Ajay, an artistic dreamer, pull off an elabora...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

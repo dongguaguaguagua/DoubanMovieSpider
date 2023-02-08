@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亲爱的野兽 Beloved Beast",
+  "url": "/subject/27042593/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2458935060.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463318/",
+      "name": "Meredith Binder Meredith Binder"
+    }
+  ]
+,
+  "datePublished": "2018-10-25",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A young girl befriends a dangerous escaped mental patient after the death of her parents.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

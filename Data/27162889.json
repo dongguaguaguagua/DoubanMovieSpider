@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Qualcosa di nuovo",
+  "url": "/subject/27162889/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501011515.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382237/",
+      "name": "爱德华多·瓦达尔尼尼 Eduardo Valdarnini"
+    }
+  ]
+,
+  "datePublished": "2016-10-13",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H33M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

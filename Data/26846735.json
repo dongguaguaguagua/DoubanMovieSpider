@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "发囧",
+  "url": "/subject/26846735/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457007358.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373014/",
+      "name": "林可昕 tino"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1251954/",
+      "name": "杨思琦 Sze-kei Yeung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337130/",
+      "name": "海鸣威 Mingwei Hai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420100/",
+      "name": "张金龙 Jinlong Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "Andy在海边醒来发现自己的样子变成另一个人，诧异的他回想起前一天晚上在酒吧玩乐时重遇深爱的前女友姗姗，而姗姗已经有了新男友，低落的他和好兄弟老艾因跟班Edison的挑拨而发生起争执。酒后心情烦躁的a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

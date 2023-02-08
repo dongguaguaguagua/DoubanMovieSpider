@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "坏小子的街巷 Dayveon",
+  "url": "/subject/26849777/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508640970.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360692/",
+      "name": "安曼·阿巴西 Amman Abbasi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360692/",
+      "name": "安曼·阿巴西 Amman Abbasi"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-01-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H15M",
+  "description": "《坏小子的街巷》讲述的是一个13岁男孩（Devin Blackmon饰演）如何试着从哥哥去世的阴影中走出来的故事。主人公夹在关爱并照顾他的姐姐（Chasity Moore饰演）和向他提供归属感的街头帮...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

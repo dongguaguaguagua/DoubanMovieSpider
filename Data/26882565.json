@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "#Slaughterhouse",
+  "url": "/subject/26882565/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2500849353.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260148/",
+      "name": " Karina Clark"
+    }
+  ]
+,
+  "datePublished": "2016-10-01",
+  "genre": ["\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "",
+  "description": "A romantic spring getaway turns sinister when unexpected visitors join the party in a high-tech hous...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冰肤传说 Cold Skin",
+  "url": "/subject/3148967/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494691269.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045180/",
+      "name": "泽维尔·吉恩斯 Xavier Gens"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390833/",
+      "name": "赫苏斯·奥尔莫 Jesús Olmo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390834/",
+      "name": "埃伦·希恩 Eron Sheean"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390835/",
+      "name": "艾伯特·桑切斯·皮诺 Albert Sánchez Piñol"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019007/",
+      "name": "雷·史蒂文森 Ray Stevenson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027450/",
+      "name": "大卫·奥克斯 David Oakes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1265576/",
+      "name": "奥拉·加里多 Aura Garrido"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390836/",
+      "name": "温斯洛·M·岩城 Winslow M. Iwaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367420/",
+      "name": "约翰·本菲尔德 John Benfield"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370173/",
+      "name": "本·坦普尔 Ben Temple"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101638/",
+      "name": "伊凡·冈萨雷斯 Iván González"
+    }
+  ]
+,
+  "datePublished": "2017-09-10",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a", "\u5192\u9669"],
+  "duration": "PT1H48M",
+  "description": "1914年第一次世界大战前夕，一名气象学家被派往南极孤岛上做气候观测。然而他很快发现，岛上除了他和一个疯疯癫癫的灯塔员，还有其它生物的存在... 影片改编自同名小说。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4515",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大侦探 Thupparivaalan",
+  "url": "/subject/30277023/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528302116.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426748/",
+      "name": "维绍尔 Vishal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339212/",
+      "name": "安德列·杰里迈亚 Andrea Jeremiah"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1063207/",
+      "name": "K. Bhagyaraja K. Bhagyaraja"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1156564/",
+      "name": "西姆兰 Simran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428572/",
+      "name": "阿努·厄玛努尔 Anu Emmanuel"
+    }
+  ]
+,
+  "datePublished": "2017-09-14",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT2H31M",
+  "description": "Mysterious deaths happens continuously, at the same time a private detective is waiting for an inter...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

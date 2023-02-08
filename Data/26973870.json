@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Ink &amp; Rain",
+  "url": "/subject/26973870/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2428301476.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330207/",
+      "name": "达拉斯·金 Dallas King"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330207/",
+      "name": "达拉斯·金 Dallas King"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022681/",
+      "name": "司徒少英 Nikki SooHoo"
+    }
+  ]
+,
+  "datePublished": "2018-04-26",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "Set in the post-apocalypse, a group of fighters believe they&#39;re fighting for their freedom, until th...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

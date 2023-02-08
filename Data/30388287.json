@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣诞树7 Ёлки Последние",
+  "url": "/subject/30388287/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541030628.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009398/",
+      "name": "提莫·贝克曼贝托夫 Timur Bekmambetov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433228/",
+      "name": "若拉·克雷若夫尼科夫 Zhora Kryzhovnikov"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433228/",
+      "name": "若拉·克雷若夫尼科夫 Zhora Kryzhovnikov"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1225013/",
+      "name": "伊凡·乌尔甘特 Ivan Urgant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321345/",
+      "name": "谢尔盖·斯维特拉科夫 Sergey Svetlakov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199283/",
+      "name": "德米特里·纳吉耶夫 Dmitriy Nagiev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447874/",
+      "name": "叶卡捷琳娜·艾吉娃 Ekaterina Ageeva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389314/",
+      "name": "瓦伦蒂娜·马祖尼纳 Valentina Mazunina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1458424/",
+      "name": "安东·波格达诺夫 Anton Bogdanov"
+    }
+  ]
+,
+  "datePublished": "2018-12-27",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

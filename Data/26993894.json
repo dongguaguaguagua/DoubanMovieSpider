@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鬼姐姐 ນ້ອງຮັກ",
+  "url": "/subject/26993894/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2444753402.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335403/",
+      "name": "马蒂·杜 Mattie Do"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318528/",
+      "name": "Tambet Tuisk Tambet Tuisk"
+    }
+  ]
+,
+  "datePublished": "2016-09-25",
+  "genre": ["\u5267\u60c5", "\u6050\u6016"],
+  "duration": "PT1H41M",
+  "description": "故事讲述一个穷女孩去照顾她失明的富表姐，这个表姐尽管看不见，却可以与鬼魂交流。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "219",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

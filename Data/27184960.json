@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "落花凋零 Evil Under the Skin",
+  "url": "/subject/27184960/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2618983262.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1157769/",
+      "name": "海伦妮·尤迪 Helene Udy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277696/",
+      "name": "卡尔·贝利 Carl Bailey"
+    }
+  ]
+,
+  "datePublished": "2019-06-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "一对母女计划周末一起去偏僻的地方联系母女之间的感情。没想到，她们居住的房子却拥有可怕的历史，吸引各种奇怪的事物，而这对母女也因此陷入疯狂的周末假期。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

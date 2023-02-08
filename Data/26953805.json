@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "荣耀之殇 Le Prix du succès",
+  "url": "/subject/26953805/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2494662171.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1471030/",
+      "name": "特迪·吕西斯-莫德斯托 Teddy Lussi-Modeste"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1230948/",
+      "name": "丽贝卡·兹罗托斯基 Rebecca Zlotowski"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009428/",
+      "name": "塔哈·拉希姆 Tahar Rahim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028097/",
+      "name": "罗什迪·泽姆 Roschdy Zem"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000208/",
+      "name": "麦温 Maïwenn"
+    }
+  ]
+,
+  "datePublished": "2017-08-30",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H37M",
+  "description": "描寫演藝界和當中的人為演藝圈所作的犧牲與讓步。
+巴謙是一名剛剛成名的棟篤笑藝人。
+他之所以成功全賴他的努力，以及他對蓮達的愛。作為一個好兒子，他一直都很照顧家人。但他若希望能長久地走紅，就必須犧牲他那...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

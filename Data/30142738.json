@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "槲寄生承诺 The Mistletoe Promise",
+  "url": "/subject/30142738/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2512999662.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044874/",
+      "name": "杰米·金 Jaime King"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176931/",
+      "name": "卢克·马可法莱恩 Luke Macfarlane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327185/",
+      "name": "克里斯蒂·莱恩 Christie Laing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127899/",
+      "name": "洛奇林·莫罗 Lochlyn Munro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394424/",
+      "name": "萨拉·史密斯 Sarah Smyth"
+    }
+  ]
+,
+  "datePublished": "2016-11-05",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H24M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

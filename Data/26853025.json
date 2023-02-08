@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Chouquette",
+  "url": "/subject/26853025/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284995/",
+      "name": "帕特里克·古多 Patrick Godeau"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280198/",
+      "name": "纳塔利·卡特 Nathalie Carter"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050282/",
+      "name": "萨宾·阿泽玛 Sabine Azéma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019162/",
+      "name": "米歇尔·拉罗克 Michèle Laroque"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292472/",
+      "name": "米歇尔·莫雷蒂 Michèle Moretti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040679/",
+      "name": "马修·阿马立克 Mathieu Amalric"
+    }
+  ]
+,
+  "datePublished": "2017-08-02",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H23M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

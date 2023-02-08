@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Lune de miel",
+  "url": "/subject/30405071/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2547962174.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315149/",
+      "name": "茱迪丝·谢拉 Judith Chemla"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342204/",
+      "name": "亚瑟·伊瓜尔 Arthur Igual"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028574/",
+      "name": "布里吉特·罗安 Brigitte Roüan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1466512/",
+      "name": "玛尔塔·奇切夫斯卡 Marta Chyczewska"
+    }
+  ]
+,
+  "datePublished": "2018-08-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

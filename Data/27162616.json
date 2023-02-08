@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Z类生 Classe Z",
+  "url": "/subject/27162616/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2500990080.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042496/",
+      "name": "圭多·凯撒 Guido Chiesa"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382231/",
+      "name": "弗朗西斯科·罗素 Francesco Russo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382232/",
+      "name": "安德里亚·皮萨尼 Andrea Pisani"
+    }
+  ]
+,
+  "datePublished": "2017-03-30",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

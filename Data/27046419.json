@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "可怕的战争 Le guerre horrende",
+  "url": "/subject/27046419/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2459750997.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1075097/",
+      "name": "科西莫·奇涅里 Cosimo Cinieri"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5947\u5e7b"],
+  "duration": "PT1H16M",
+  "description": "电影《可怕的战争》讲述了一个关于战争和记忆的充满黑暗的神话传说。在意大利东北部城市维琴察的一片神秘森林中，居住着一位忠诚的退役老兵和他的一个年轻侍从。突然有一天，原本只有两个人的森林里出现了不速之客—...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Landrauschen",
+  "url": "/subject/30400045/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542280573.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1121182/",
+      "name": "Lisa Miller Lisa Miller"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "After years Toni and Rosa meet again in their old home village in southern Germany. While the villag...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

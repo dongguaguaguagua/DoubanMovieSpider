@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐怖浴室",
+  "url": "/subject/30212351/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521135070.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274565/",
+      "name": "陆诗雨 Shiyu Lu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274565/",
+      "name": "陆诗雨 Shiyu Lu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363689/",
+      "name": "张星阑 Xinglan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392326/",
+      "name": "刘国光 Guoguang Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392328/",
+      "name": "宋天湙 Tianyi Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383942/",
+      "name": "臧鸿飞 Hongfei Zang"
+    }
+  ]
+,
+  "datePublished": "2018-06-08",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "富家少女崔淼在浴室遭遇“水鬼”袭击，惊慌失措，心力憔悴。别墅内不时有诡异暗影飘过，窗棂处传来令人不安的声音，浴室更成了家人望而却步的场所。是母亲自杀的灵魂归来制造麻烦，还是父亲忏悔的心理导致变态行为，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1206",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.2"
+  }
+}

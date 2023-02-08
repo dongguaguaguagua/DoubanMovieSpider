@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冬日假期 One Winter Weekend",
+  "url": "/subject/30126658/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2531205364.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301438/",
+      "name": "加里·耶茨 Gary Yates"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044962/",
+      "name": "泰勒·科尔 Taylor Cole"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350204/",
+      "name": "杰克·特纳 Jack Turner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1198437/",
+      "name": "鲁奇娅·伯纳德 Rukiya Bernard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335251/",
+      "name": "Dewshane Williams Dewshane Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1201708/",
+      "name": "克里斯汀·哈里斯 Kristen Harris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386789/",
+      "name": "碧·桑托斯 Bea Santos"
+    }
+  ]
+,
+  "datePublished": "2018-01-20",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H24M",
+  "description": "Cara, a women&#39;s magazine writer who gets burned by her boyfriend on New Years&#39; Eve, decides to go on...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

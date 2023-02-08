@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐怖五角星 Pentagram",
+  "url": "/subject/30155136/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2591218106.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1122816/",
+      "name": "迈克尔麦凯尔 Michael McKell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061613/",
+      "name": "Nicholas Ball Nicholas Ball"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445415/",
+      "name": "克洛伊·法恩沃斯 Chloe Farnworth"
+    }
+  ]
+,
+  "datePublished": "2019-08-08",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A group of teenagers must somehow survive the night when they find themselves trapped within a penta...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

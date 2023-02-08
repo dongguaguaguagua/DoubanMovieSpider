@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "革命留给我的一切 Tout ce qu&#39;il me reste de la révolution",
+  "url": "/subject/30416838/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543964114.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275903/",
+      "name": "朱迪斯·戴维斯 Judith Davis"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275903/",
+      "name": "朱迪斯·戴维斯 Judith Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1030291/",
+      "name": "塞西尔·瓦尔加夫蒂 Cécile Vargaftig"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275903/",
+      "name": "朱迪斯·戴维斯 Judith Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274959/",
+      "name": "马立克·兹迪 Malik Zidi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042050/",
+      "name": "米雷耶·佩里耶 Mireille Perrier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365044/",
+      "name": "亚辛·侯伊卡 Yasin Houicha"
+    }
+  ]
+,
+  "datePublished": "2018-08-22",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H28M",
+  "description": "Angela was 8 years old when the first McDonald&#39;s opened in East Berlin - Since then, she has been fi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

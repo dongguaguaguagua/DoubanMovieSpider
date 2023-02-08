@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "惊悚 Thriller",
+  "url": "/subject/30257397/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553455659.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006121/",
+      "name": "Ken Rance Ken Rance"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031912/",
+      "name": "麦凯尔泰·威廉逊 Mykelti Williamson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388774/",
+      "name": "切尔茜·兰顿 Chelsea Rendon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1202503/",
+      "name": "Paige Hurd Paige Hurd"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009393/",
+      "name": "罗伯特·菲茨杰拉德·迪格斯 RZA"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066980/",
+      "name": "瓦妮莎·贝尔·卡洛威 Vanessa Bell Calloway"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040652/",
+      "name": "特昆·里奇蒙德 Tequan Richmond"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1100435/",
+      "name": "马斯托罗·哈雷尔 Maestro Harrell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1204844/",
+      "name": "Valery M. Ortiz Valery M. Ortiz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389998/",
+      "name": "米切尔·爱德华兹 Mitchell Edwards"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "A childhood prank that comes back to haunt a clique of South Central Los Angeles teens when their vi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "王牌案件 Ace the Case",
+  "url": "/subject/26673874/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2288864780.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338291/",
+      "name": "利普丽·索博 Ripley Sobo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054392/",
+      "name": "苏珊·萨兰登 Susan Sarandon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118178/",
+      "name": "马克·门查卡 Marc Menchaca"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371014/",
+      "name": "安东尼·威尔斯 Anthony Wills Jr."
+    }
+  ]
+,
+  "datePublished": "2016-08-26",
+  "genre": ["\u60ac\u7591", "\u5bb6\u5ead"],
+  "duration": "PT1H34M",
+  "description": "When 10-year old Olivia&#39;s Mom goes on a business trip for the weekend, she leaves Olivia home alone ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "183",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

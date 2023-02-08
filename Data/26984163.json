@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "多乐路",
+  "url": "/subject/26984163/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457280890.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369893/",
+      "name": "杨龙澄 Lung-Ching Yeung"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369893/",
+      "name": "杨龙澄 Lung-Ching Yeung"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315976/",
+      "name": "巴图 Batu Ying"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276157/",
+      "name": "刘雅瑟 Yase Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358119/",
+      "name": "徐子力 Zili Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316450/",
+      "name": "李淳 Mason Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356949/",
+      "name": "汪小敏 Xiaomin Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322460/",
+      "name": "汪飏 Yang Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "该片讲述了一场交通事故令在“啥都一样盲人按摩”工作的众人与一对情侣有了交集，在平行时空中，每个人的人生千差万别，或欢喜或哀怨。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

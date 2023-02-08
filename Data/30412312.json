@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寻娃总动员",
+  "url": "/subject/30412312/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543565064.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407976/",
+      "name": "郎宏伟 Hongwei Lang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407977/",
+      "name": "刘玮婷 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344248/",
+      "name": "穆怀鹏 Huaipeng Mu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352698/",
+      "name": "霍舒哲 Susie Huo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354685/",
+      "name": "徐玺涵 Xihan Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333573/",
+      "name": "张天柏 Tian Bo Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-12-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "一个老板，为人好色刻薄；一个职业拳击手，血性方刚；另一名流浪歌手，因为各种不顺多次自杀未遂。三个不负责任的男人各自收到了一封快递，说他们有个女儿而且丢失了，于是他们开始了一段寻找女儿的路程。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

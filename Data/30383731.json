@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐怖湖3 Lake Fear 3",
+  "url": "/subject/30383731/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540503860.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481276/",
+      "name": "Shanon Snedden Shanon Snedden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452202/",
+      "name": "KateLynn E. Newberry KateLynn E. Newberry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172095/",
+      "name": "James D. Pruitt James D. Pruitt"
+    }
+  ]
+,
+  "datePublished": "2018-10-02",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H19M",
+  "description": "雷明顿（约书亚·温奇）逃脱了邪恶的小屋，但是现在邪恶继续跟随着他，破坏了他所到之处，因为克洛伊（凯特琳·纽伯里）和瑞夫（Shanon Snedden）寻找失踪的姐姐去了邪恶的小屋。上一期。两人会晤了一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

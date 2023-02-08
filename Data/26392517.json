@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狼在门外 The Wolves at the Door",
+  "url": "/subject/26392517/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2391339442.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012546/",
+      "name": "约翰·R·莱昂耐迪 John R. Leonetti"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036318/",
+      "name": "凯蒂·卡西迪 Katie Cassidy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324799/",
+      "name": "伊丽莎白·亨斯屈奇 Elizabeth Henstridge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209734/",
+      "name": "亚当·坎贝尔 Adam Campbell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009681/",
+      "name": "麦尔斯·费舍 Miles Fisher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483045/",
+      "name": "Nina Boyer Nina Boyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483169/",
+      "name": "香农·拉克 Shannon Lark"
+    }
+  ]
+,
+  "datePublished": "2016-10-21",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H13M",
+  "description": "影片是根据1969年震惊全美的曼森家族杀人案改编，这个杀人案的被害人是当时著名的好莱坞女星莎朗·塔特和她的4位好友。1969年的8月9日，因为丈夫罗曼·波兰斯基远在欧洲拍片，已有8个月身孕的莎朗邀请4...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "111",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

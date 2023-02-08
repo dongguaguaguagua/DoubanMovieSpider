@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "休假 휴가",
+  "url": "/subject/26945029/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2408805278.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346422/",
+      "name": "李洙成 Soo-seong Lee"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361030/",
+      "name": "高媛 Won Ko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385208/",
+      "name": "文英东 Young-dong Moon"
+    }
+  ]
+,
+  "datePublished": "2016-12-08",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H14M",
+  "description": "影片讲述了小时候扔下自己走的母亲快要临终了 医院给女儿打电话，女儿原本不想去看母亲但最终还是去了 然后明白了母亲有多爱她讲述了母亲和子女之间的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "126",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.4"
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "taranta on the road",
+  "url": "/subject/27615592/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2632385133.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305832/",
+      "name": "Luca de Benedittis Luca de Benedittis"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322594/",
+      "name": "赫尔米·德里迪 Helmi Dridi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357152/",
+      "name": "比安卡·纳皮 Bianca Nappi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449735/",
+      "name": "艾曼纳·艾曼 Emmanuele Aita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472190/",
+      "name": "詹多梅尼科·库帕约洛 Giandomenico Cupaiuolo"
+    }
+  ]
+,
+  "datePublished": "2017-08-24",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u97f3\u4e50"],
+  "duration": "PT1H20M",
+  "description": "A man and a woman, illegal immigrants with nothing in common, find themselves to travelling together...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

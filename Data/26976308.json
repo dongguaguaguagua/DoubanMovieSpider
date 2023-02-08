@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "自由 Freiheit",
+  "url": "/subject/26976308/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2494382674.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336034/",
+      "name": "扬·斯派肯巴赫 Jan Speckenbach"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336034/",
+      "name": "扬·斯派肯巴赫 Jan Speckenbach"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032215/",
+      "name": "约翰娜·沃卡莱克 Johanna Wokalek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1228640/",
+      "name": "伊嘉·比肯费尔德 Inga Birkenfeld"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215406/",
+      "name": "翁德里·科瓦奇 Ondrej Koval"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425170/",
+      "name": "格奥尔格·阿姆斯 Georg Arms"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "A mother walks out on her husband and two children without a word of explanation. She’s driven by an...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

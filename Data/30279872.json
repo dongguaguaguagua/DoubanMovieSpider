@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "太阳王 Roi Soleil",
+  "url": "/subject/30279872/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541000119.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274920/",
+      "name": "阿尔伯特·塞拉 Albert Serra"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416847/",
+      "name": "吕伊斯·塞拉 Lluís Serrat"
+    }
+  ]
+,
+  "datePublished": "2018-07-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H1M",
+  "description": "Louis XIV is no newcomer to Albert Serra’s filmography, the hero of his latest opus to date, The Dea...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "119",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐惧避难所/当灯灭时 Asylum of Fear",
+  "url": "/subject/26766847/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503199040.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1264079/",
+      "name": " Craig Deering"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1264079/",
+      "name": " Craig Deering"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-01-09",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H50M",
+  "description": "A group of ghost hunters, locked inside an abandoned psychiatric hospital, attempt to solve a myster...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

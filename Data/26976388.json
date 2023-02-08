@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "报童传奇 Disney&#39;s Newsies the Broadway Musical",
+  "url": "/subject/26976388/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2430015800.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298631/",
+      "name": "Brett Sullivan Brett Sullivan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283543/",
+      "name": "杰克·菲尔德曼 Jack Feldman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009583/",
+      "name": "艾伦·曼肯 Alan Menken"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470403/",
+      "name": "安东尼·诺曼 Anthony Norman"
+    }
+  ]
+,
+  "datePublished": "2017-02-16",
+  "genre": ["\u6b4c\u821e"],
+  "duration": "PT2H29M",
+  "description": "Filmed live on stage at the Pantages Theatre in Hollywood, CA, this not-to-be-missed high energy sho...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "470",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.8"
+  }
+}

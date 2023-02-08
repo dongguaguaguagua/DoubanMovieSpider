@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拳皇高校",
+  "url": "/subject/26790848/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2350515748.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376581/",
+      "name": "孙志翔 Zhixiang Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369917/",
+      "name": "陈意涵 Estelle Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375680/",
+      "name": "原维 Wei Yuan"
+    }
+  ]
+,
+  "datePublished": "2016-05-13",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H15M",
+  "description": "影片以热血少年“高凌风”与恶名远播的不良学生之间的斗争为主线，讲述了高一学生“高凌风”因父亲欠下高利贷的惨痛经历，对校园暴力深恶痛绝，年轻气盛的他自恃拳头强硬，妄图凭借一举之力彻底清除校园暴力。然而，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阳光以西 West of Sunshine",
+  "url": "/subject/27126609/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2497879175.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381088/",
+      "name": "贾森·拉夫托波洛斯 Jason Raftopoulos"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381088/",
+      "name": "贾森·拉夫托波洛斯 Jason Raftopoulos"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423913/",
+      "name": "埃莉扎·德苏扎 Eliza D&#39;Souza"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437479/",
+      "name": "戴米恩·希尔 Damian Hill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437489/",
+      "name": "泰·佩勒姆 Ty Perham"
+    }
+  ]
+,
+  "datePublished": "2017-09-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H18M",
+  "description": "Separated from his family and caught in a cycle of gambling and debt, Jim has less than a day to rep...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "69",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

@@ -1,0 +1,73 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "列侬报道 The Lennon Report",
+  "url": "/subject/26888217/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2387421190.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340192/",
+      "name": "伊万·乔尼凯特 Evan Jonigkeit"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274264/",
+      "name": "大卫·札亚斯 David Zayas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041144/",
+      "name": "理查德·坎德 Richard Kind"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014102/",
+      "name": "戴文·雷特瑞 Devin Ratray"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340120/",
+      "name": "斯黛芬·道森 Stef Dawson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368089/",
+      "name": "艾德丽安·C·摩尔 Adrienne C. Moore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371750/",
+      "name": "塔玛·菲利安加 Tama Filianga"
+    }
+  ]
+,
+  "datePublished": "2016-04-06",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u5386\u53f2"],
+  "duration": "PT1H27M",
+  "description": "1980年12月8日晚10点49分，约翰列侬在他的公寓前被枪杀，倒在血泊之中。
+本片将从那些亲眼见证列侬离世的人们的角度着手，还原他生命的最后时刻。Alan Weiss是一名年轻的新闻制作人，因为一场...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "79",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

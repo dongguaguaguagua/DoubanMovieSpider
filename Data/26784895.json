@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不存在的人",
+  "url": "/subject/26784895/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2413680838.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462110/",
+      "name": "冯子莱 Zilai Feng"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT0H4M",
+  "description": "The idea of making this film came from two separate stories from middle school: The first one was du...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "184",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

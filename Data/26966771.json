@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "山门",
+  "url": "/subject/26966771/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2423184775.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483455/",
+      "name": "徐生宝 Shengbao Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387987/",
+      "name": "宋恩逸 Enyi Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364592/",
+      "name": "程龙 Long Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483455/",
+      "name": "徐生宝 Shengbao Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422051/",
+      "name": "王宇 Yu Wang"
+    }
+  ]
+,
+  "datePublished": "2018-07-26",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H30M",
+  "description": "铁山寺的道观，住着一位青衣道士，收养着一个八年前遗弃在道观的女童，每日念经扫地，打理寺里的香火杂事，过着平淡而安宁的日子，直到有一天，寺里来了一个女子和一群不速之客打破了铁山寺所有的宁静..........",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

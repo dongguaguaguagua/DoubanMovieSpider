@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Chubby Funny",
+  "url": "/subject/26784341/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2460137557.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1221389/",
+      "name": "哈里·米歇尔 Harry Michell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1221389/",
+      "name": "哈里·米歇尔 Harry Michell"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049960/",
+      "name": "奥古斯图斯·珀如 Augustus Prew"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327130/",
+      "name": "伊莎贝拉·拉夫兰德 Isabella Laughland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012584/",
+      "name": "杰夫·劳勒 Jeff Rawle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049807/",
+      "name": "戴维·鲍姆伯 David Bamber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328486/",
+      "name": "菲比·尼克尔斯 Phoebe Nicholls"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1221389/",
+      "name": "哈里·米歇尔 Harry Michell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1129285/",
+      "name": "Dave Benson Phillips Dave Benson Phillips"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407787/",
+      "name": "阿西姆·乔杜里 Asim Chaudhry"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Oscar thinks he&#39;s special. He isn&#39;t. He thinks it&#39;s everyone else&#39;s fault. It&#39;s not. Moving to Londo...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

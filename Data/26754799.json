@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "妈咪的小女孩 Mommy&#39;s Little Girl",
+  "url": "/subject/26754799/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2436149424.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324667/",
+      "name": "菲奥娜·嘉伯曼 Fiona Gubelmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1097258/",
+      "name": "詹姆士格兰恩德斯 James Gallanders"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385949/",
+      "name": "伊娃·林克 Eva Link"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419330/",
+      "name": "萨姆·阿什·阿诺德 Sam Ashe Arnold"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450134/",
+      "name": "凯特·芬顿 Kate Fenton"
+    }
+  ]
+,
+  "datePublished": "2016-03-01",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "Growing up under terrible circumstances in a loveless home, a girl who finally finds happiness refus...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

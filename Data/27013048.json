@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你是最美",
+  "url": "/subject/27013048/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2617650611.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443910/",
+      "name": "王晓虎 Tiger Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386173/",
+      "name": "黄丹 Dan Huang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315639/",
+      "name": "王嘉 Jia Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317056/",
+      "name": "马元 Yuan Ma"
+    }
+  ]
+,
+  "datePublished": "2020-09-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "“闯海人”谢大海是一名出租车司机，有机会获得一辆出租车的经营权，谢大海和妻子符娟倒班开，夫妻二人盘算着未来的买房计划，兴奋不已。
+作为一个新手，符娟在谢大海的帮助下进步飞速，得到乘客和公司领导的称赞。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

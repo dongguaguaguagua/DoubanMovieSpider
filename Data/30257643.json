@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "米尔布鲁克的召唤 1st Summoning",
+  "url": "/subject/30257643/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541002680.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349025/",
+      "name": "海莉·洛维特 Hayley Lovitt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124700/",
+      "name": "杰森·麦克唐纳 Jason MacDonald"
+    }
+  ]
+,
+  "datePublished": "2019-02-22",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H37M",
+  "description": "Four student filmmakers set out to explore an abandoned building famous for its connection with the ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

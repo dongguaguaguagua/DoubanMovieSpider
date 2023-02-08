@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "楼下的男孩 The Boy Downstairs",
+  "url": "/subject/27007274/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2510906733.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414711/",
+      "name": "索菲·布鲁克斯 Sophie Brooks"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414711/",
+      "name": "索菲·布鲁克斯 Sophie Brooks"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326427/",
+      "name": "佐莎·马梅特 Zosia Mamet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353342/",
+      "name": "马修·希尔 Matthew Shear"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293381/",
+      "name": "迪尔德丽·奥康奈尔 Deirdre O&#39;Connell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223527/",
+      "name": "莎拉·拉莫斯 Sarah Ramos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027850/",
+      "name": "艾利斯·霍华德 Arliss Howard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328704/",
+      "name": "黛博拉·奥夫纳 Deborah Offner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300443/",
+      "name": "杰夫·沃德 Jeff Ward"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327392/",
+      "name": "娜塔莉·豪尔 Natalie Hall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334273/",
+      "name": "Diana Irvine Diana Irvine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050308/",
+      "name": "大卫·沃尔 David Wohl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108641/",
+      "name": "莉斯·拉森 Liz Larsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1068062/",
+      "name": "法布里齐奥·布里恩扎 Fabrizio Brienza"
+    }
+  ]
+,
+  "datePublished": "2017-04-23",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H31M",
+  "description": "From first-time writer-director Sophie Brooks, this original romantic comedy is the coming-of-age ta...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

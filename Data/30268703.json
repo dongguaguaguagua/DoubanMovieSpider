@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Intlo Dayyam Nakemi Bhayam",
+  "url": "/subject/30268703/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2527469344.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426752/",
+      "name": "阿拉里·纳列什 Allari Naresh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1073035/",
+      "name": "婆罗门·安达姆 Brahmanandam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012731/",
+      "name": "拉詹德拉·普拉萨德 Rajendraprasad"
+    }
+  ]
+,
+  "datePublished": "2016-12-30",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

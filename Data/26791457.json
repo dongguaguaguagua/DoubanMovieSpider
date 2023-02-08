@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "性侵犯 The Libertine",
+  "url": "/subject/26791457/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002732/",
+      "name": "布莱特·拉特纳 Brett Ratner"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054456/",
+      "name": "约翰尼·德普 Johnny Depp"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u4f20\u8bb0"],
+  "duration": "",
+  "description": "布莱特·拉特纳将携手约翰尼·德普拍摄传记片《性侵犯》(The Libertine，暂译)。故事源自前国际货币基金组织总经理多米尼克·斯特劳斯-卡恩性侵女服务员事件。阿贝尔·费拉拉拍摄过杰拉尔·德帕迪约...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

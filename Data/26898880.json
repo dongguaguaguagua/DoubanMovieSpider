@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的丧尸女友",
+  "url": "/subject/26898880/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2392063549.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402122/",
+      "name": "贲放 Fang Ben"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416390/",
+      "name": "于士博 Shibo Yu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360118/",
+      "name": "徐子鹿 Zilu Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376280/",
+      "name": "尚文答 Wenda Shang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402570/",
+      "name": " "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461591/",
+      "name": "高语芯 Yuexin Gao  "
+    }
+  ]
+,
+  "datePublished": "2016-12-29",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H5M",
+  "description": "一场灾难降临，大多数的人类被丧尸病毒吞噬，人类在变成丧尸的早期会残损人性与部分记忆。恩泽在独自前往×中学寻找疫苗时意外发现了丧尸女孩小希，善良而美丽的小希让恩泽不忍下手。恩泽在小希的帮助下，发现疫苗实...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

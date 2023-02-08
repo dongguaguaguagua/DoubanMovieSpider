@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神树之叶 Leaves Of The Tree",
+  "url": "/subject/27200607/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505425911.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041118/",
+      "name": "肖恩·杨 Sean Young"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027842/",
+      "name": "阿曼德·阿山特 Armand Assante"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071303/",
+      "name": "费德里克·卡斯特鲁西奥 Federico Castelluccio"
+    }
+  ]
+,
+  "datePublished": "2016-10-24",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u5bb6\u5ead"],
+  "duration": "",
+  "description": "Patrick Messina是一名专利律师，在他的专业领域他有着极高的权利及威望。然而他却被诊断出患了不治之症，这无疑是晴天霹雳。在面对他的最后一名顾客时，他得知这名顾客是一个医生，来自西西里岛，在...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

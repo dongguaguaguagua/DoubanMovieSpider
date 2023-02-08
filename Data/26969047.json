@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大学一年级 Première année",
+  "url": "/subject/26969047/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2528931982.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348845/",
+      "name": "托马斯·利蒂 Thomas Lilti"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348845/",
+      "name": "托马斯·利蒂 Thomas Lilti"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325955/",
+      "name": "文森特·拉科斯特 Vincent Lacoste"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356491/",
+      "name": "威廉·勒布吉欧 William Lebghil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422394/",
+      "name": "米歇尔·勒鲁梭 Michel Lerousseau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422395/",
+      "name": "达丽娜·奥乔迪 Darina Al Joundi"
+    }
+  ]
+,
+  "datePublished": "2018-09-12",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H32M",
+  "description": "当安端即将展开他的「第三次」医学院第一学年时，认识了刚从高中毕业的班杰明，刚搬到巴黎正对一切新生活感到兴奋的班杰明很快地发现，原来这所新学校并不是「由你玩四年」。为了在大一最后顺利取得少数的医学系资格...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1030",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

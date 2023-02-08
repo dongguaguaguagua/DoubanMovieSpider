@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美少女危机",
+  "url": "/subject/27608427/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2508636053.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365148/",
+      "name": "郭玮洁 Weijie Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427284/",
+      "name": "孙煌辰 Huangchen Sun"
+    }
+  ]
+,
+  "datePublished": "2017-12-29",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "叫兽易小星监制，使徒子监修",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

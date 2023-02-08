@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱很简单",
+  "url": "/subject/26856349/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2374048025.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335890/",
+      "name": "王子 Wang Zi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335890/",
+      "name": "王子 Wang Zi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335889/",
+      "name": "胡雅娟 Yajuan Hu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-06-26",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H10M",
+  "description": "影片讲诉了叶然和水诺两个人从隔阂、误解到相互包容，由相识、相知到相爱的心路过程。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

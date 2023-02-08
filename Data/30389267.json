@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "交换记忆",
+  "url": "/subject/30389267/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2541097272.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374456/",
+      "name": "徐艺华 Yihua Xu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364759/",
+      "name": "薛祺 Qi Xue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414177/",
+      "name": "蒿雨雨 Yuyu Hao"
+    }
+  ]
+,
+  "datePublished": "2018-12-06",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "栗子致力于研究记忆交换技术，男友钟瀚非常支持。科学家白堂武秘密研究克隆人，却只能搞出没有灵魂的空壳，他意识到记忆交换技术是他最需要的。但栗子不愿与白堂武合作。白堂武将钟瀚变成“白痴”骗栗子帮钟瀚恢复情...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

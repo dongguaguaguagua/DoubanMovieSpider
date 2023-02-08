@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Einmal bitte alles",
+  "url": "/subject/27604242/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2507683856.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419126/",
+      "name": "路易斯·海耶尔 Luise Heyer"
+    }
+  ]
+,
+  "datePublished": "2017-07-20",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "Isi (27) is stucked in a quater-life-crisis. With a graphic diploma in one hand and a drink in the o...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

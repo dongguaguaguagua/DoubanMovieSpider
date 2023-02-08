@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "共享房间 Shared Rooms",
+  "url": "/subject/26879523/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2383091830.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046906/",
+      "name": "罗伯·威廉姆斯 Rob Williams"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046906/",
+      "name": "罗伯·威廉姆斯 Rob Williams"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361003/",
+      "name": "Alec Manley Wilson Alec Manley Wilson"
+    }
+  ]
+,
+  "datePublished": "2016-05-14",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H15M",
+  "description": "SHARED ROOMS explores the meaning of home and family through three interrelated stories of gay men f...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "359",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

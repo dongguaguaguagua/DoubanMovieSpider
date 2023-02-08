@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "罪爱古尔冈 Gurgaon",
+  "url": "/subject/26917099/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2626390833.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310859/",
+      "name": "Shanker Raman Shanker Raman"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355604/",
+      "name": "潘卡·特里帕蒂 Pankaj Tripathi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313215/",
+      "name": "阿米尔·巴希尔 Aamir Bashir"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313209/",
+      "name": "莎利尼·瓦察 Shalini Vatsa"
+    }
+  ]
+,
+  "datePublished": "2017-08-04",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "Kehri Singh is a poor farmer, who buries his new born girl child while she was still alive, because ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

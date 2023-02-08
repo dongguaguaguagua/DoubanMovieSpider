@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Nove lune e mezza",
+  "url": "/subject/27163071/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2501058702.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456978/",
+      "name": "卡特琳娜·格拉马利亚 Caterina Gramaglia"
+    }
+  ]
+,
+  "datePublished": "2017-10-12",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

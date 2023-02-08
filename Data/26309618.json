@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "当我们17岁 Quand on a 17 ans",
+  "url": "/subject/26309618/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2326512386.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032421/",
+      "name": "安德烈·泰希内 André Téchiné"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042117/",
+      "name": "瑟琳·席安玛 Céline Sciamma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032421/",
+      "name": "安德烈·泰希内 André Téchiné"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032419/",
+      "name": "桑德琳娜·基贝兰 Sandrine Kiberlain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331232/",
+      "name": "卡西·莫泰·克莱恩 Kacey Mottet Klein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362916/",
+      "name": "柯朗坦·菲拉 Corentin Fila"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341876/",
+      "name": "亚历谢斯·罗莱特 Alexis Loret"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362917/",
+      "name": "让·弗罗内德 Jean Fornerod"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362918/",
+      "name": "Mama Prassinos Mama Prassinos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362919/",
+      "name": "Gérard Labelle Gérard Labelle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362920/",
+      "name": "Vanessa Duran Vanessa Duran"
+    }
+  ]
+,
+  "datePublished": "2016-02-14",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H56M",
+  "description": "十七岁的达米安（卡西·莫泰·克莱恩 Kacey Mottet Klein 饰）是一名孤独的少年，他的父亲内森（亚历谢斯·罗莱特 Alexis Loret 饰）由于工作的原因常年不在家，父子两人聚少离多...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4881",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

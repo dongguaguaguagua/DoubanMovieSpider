@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "柏林危机 Berlin Falling",
+  "url": "/subject/26707674/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2462487453.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002838/",
+      "name": "肯·杜肯 Ken Duken"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002838/",
+      "name": "肯·杜肯 Ken Duken"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306140/",
+      "name": "诺伯特·肯尼斯尔 Norbert Kneissl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399682/",
+      "name": "克里斯托弗·米勒 Christoph Mille"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018504/",
+      "name": "汤姆·弗拉席亚 Tom Wlaschiha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354009/",
+      "name": "玛莎 莱奥妮 巴赫 Marisa Leonie Bach"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002838/",
+      "name": "肯·杜肯 Ken Duken"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399683/",
+      "name": "理查德·艾沃特 Ricardo Ewert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399684/",
+      "name": "艾米莉·普拉斯-琳克 Amelie Plaas-Link"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193319/",
+      "name": "基达·拉马丹 Kida Khodr Ramadan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164019/",
+      "name": "蒂姆·维尔德 Tim Wilde"
+    }
+  ]
+,
+  "datePublished": "2017-06-20",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H31M",
+  "description": "德国男星肯·杜肯自导自演的惊悚片处女作，精神创伤的精英战士在前往柏林探望女儿的途中搭载了一名面善的拦车者，却没料到后者正酝酿着一起柏林恐怖袭击。伴随多次视角转换和对善恶问题的拷问，在逐步揭开极端的意识...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "538",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

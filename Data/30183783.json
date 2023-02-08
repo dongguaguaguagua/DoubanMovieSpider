@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "去伪存真",
+  "url": "/subject/30183783/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2539923305.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390651/",
+      "name": "朱维俐 Weili Zhu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431985/",
+      "name": "李小艺 Xiaoyi Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318647/",
+      "name": "袁中方 Zhongfang Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390652/",
+      "name": "程妮 Ni Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390655/",
+      "name": "于效辰 Xiaochen Yu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H26M",
+  "description": "大明万历二十年，日本突然入侵朝鲜，并迅速占领了朝鲜王朝。朝廷令李如松为东征提督，集四万兵马援朝，与日军展开了长达数年的鏖战。万历二十八年初，战争进入了白热化阶段，朝廷下旨内府监火器局向明军供给新型火器...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

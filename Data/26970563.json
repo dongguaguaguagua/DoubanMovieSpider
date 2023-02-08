@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "刺透 Piercing",
+  "url": "/subject/26970563/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542942403.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1227278/",
+      "name": "尼古拉斯·佩谢 Nicolas Pesce"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1128115/",
+      "name": "村上龙 Ryû Murakami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1227278/",
+      "name": "尼古拉斯·佩谢 Nicolas Pesce"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327710/",
+      "name": "克里斯托弗·阿波特 Christopher Abbott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025135/",
+      "name": "米娅·华希科沃斯卡 Mia Wasikowska"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348722/",
+      "name": "莱娅·柯丝达 Laia Costa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365594/",
+      "name": "奥利维亚·邦德 Olivia Bond"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1186354/",
+      "name": "玛丽亚·迪齐亚 Maria Dizzia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317472/",
+      "name": "马琳·爱尔兰 Marin Ireland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411891/",
+      "name": "达科塔·卢斯提克 Dakota Lustick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132957/",
+      "name": "维德尔·皮尔斯 Wendell Pierce"
+    }
+  ]
+,
+  "datePublished": "2018-01-20",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H21M",
+  "description": "该片故事讲述一名变态杀手（克里斯托弗·阿波特 饰）计划在酒店招妓（米娅·华希科沃斯卡 饰），并将其谋杀。然而他计划却失败了。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1536",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

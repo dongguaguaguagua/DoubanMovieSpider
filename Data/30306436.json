@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大蛇",
+  "url": "/subject/30306436/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2628211076.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370100/",
+      "name": "林珍钊 Zhenzhao Lin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410951/",
+      "name": "张圣帆 Shengfan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370100/",
+      "name": "林珍钊 Zhenzhao Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409838/",
+      "name": "黄凯伦 Kailun Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409839/",
+      "name": "郑跃 Yue Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365988/",
+      "name": "奚美丽 Meili Xi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402700/",
+      "name": "杨永 Yong Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400886/",
+      "name": "安峻岐 Junqi An"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391133/",
+      "name": "脑门额尔德尼 Naomen Eerdeni"
+    }
+  ]
+,
+  "datePublished": "2018-09-04",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT1H20M",
+  "description": "林奇为救身患绝症的女儿，加入了富豪齐腾、医学专家岚若、地质学家胖子及雇佣兵团等组成的冒险小队，踏上了寻找“生命之果”的旅程。在这片危险密布的丛林中，险象接踵而至，队员接二连三遇难身亡，暗处似乎还潜伏着...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3485",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.3"
+  }
+}

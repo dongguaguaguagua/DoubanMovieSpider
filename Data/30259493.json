@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑暗深处之惊魂夜",
+  "url": "/subject/30259493/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533904688.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396470/",
+      "name": "玉素 Su Yu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395439/",
+      "name": "林潇 Xiao Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389869/",
+      "name": "沐岚 Lan Mu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396473/",
+      "name": "李劲峰 Jinfeng Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396475/",
+      "name": "邹洁仪 Jieyi Zou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396472/",
+      "name": "高志刚 Zhigang Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396471/",
+      "name": "崔小田 Xiaotian Cui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368501/",
+      "name": "刘冰峰 Bingfeng Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396474/",
+      "name": "梦颖 "
+    }
+  ]
+,
+  "datePublished": "2018-10-19",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "原本对生活怀有希望的吴子晗，在遭遇命运不公彻底发生转变，他的身影渐渐消失在那栋阴森恐怖的房子里，黑暗深处他始终被恶魔缠身，周而复始要寻找一个可以附身的躯体，摆脱恶魔，但远远没有那么简单……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

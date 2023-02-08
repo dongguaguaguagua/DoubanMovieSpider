@@ -1,0 +1,38 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "련희와 연희",
+  "url": "/subject/30172148/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516492939.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384384/",
+      "name": "韩利进 Yi-jin Han"
+    }
+  ]
+,
+  "datePublished": "2017-12-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H16M",
+  "description": "조국에서 탈출한 련희, 집에서 탈출한 연희
+남과 북 두 여자의 운명적인 만남 &lt;련희와 연희&gt;
+&lt;련희와 연희&gt;는 탈북하는 도중 아이를 잃은 김련희는 무거운 죄책감을 안고 하루하루를 ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

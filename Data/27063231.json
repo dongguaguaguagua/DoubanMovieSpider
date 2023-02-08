@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鬼屋惊魂 The Child Remains",
+  "url": "/subject/27063231/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503194130.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280933/",
+      "name": "苏珊娜·克莱蒙 Suzanne Clément"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314654/",
+      "name": "艾伦·霍科 Allan Hawco"
+    }
+  ]
+,
+  "datePublished": "2017-06-17",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H53M",
+  "description": "本片受到《黄油盒婴儿》真实故事的启发，是一部曲折的超自然惊悚片，也是向《闪灵》、《罗丝玛丽的婴儿》、《9号谋杀案》等经典慢热恐怖片的致敬。影片讲述了一对夫妇为了给妻子庆祝生日来到一个乡村酒店度周末，但...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

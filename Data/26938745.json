@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大鳄魔 Blood Surf",
+  "url": "/subject/26938745/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501063975.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375243/",
+      "name": "妮娜·列提 Nina Ljeti"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375243/",
+      "name": "妮娜·列提 Nina Ljeti"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019001/",
+      "name": "詹姆斯·弗兰科 James Franco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339907/",
+      "name": "罗蕾莱·林克莱特 Lorelei Linklater"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383990/",
+      "name": "雅各布·罗博 Jacob Loeb"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

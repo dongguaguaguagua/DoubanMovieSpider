@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Жених",
+  "url": "/subject/26948098/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2410070457.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321345/",
+      "name": "谢尔盖·斯维特拉科夫 Sergey Svetlakov"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321345/",
+      "name": "谢尔盖·斯维特拉科夫 Sergey Svetlakov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1229388/",
+      "name": "菲利普·莱因哈特 Philippe Reinhardt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382233/",
+      "name": "斯韦特兰娜·斯米尔诺娃-马尔钦克维奇 Svetlana Smirnova-Martsinkevich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327719/",
+      "name": "谢尔盖·布鲁诺夫 Sergey Burunov"
+    }
+  ]
+,
+  "datePublished": "2016-09-15",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "German guy Helmut visits Russia to propose to beautiful Russian girl Aljona, whom he met in Berlin. ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

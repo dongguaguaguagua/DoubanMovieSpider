@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "胡奇才决战新开岭",
+  "url": "/subject/26827615/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2530027618.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322303/",
+      "name": "高力强 Liqiang Gao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326044/",
+      "name": "袁满 Man Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364199/",
+      "name": "张继波 Jibo Zhang"
+    }
+  ]
+,
+  "datePublished": "2016-06-29",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H28M",
+  "description": "故事主要描写我辽东军区第四纵队司令员胡奇才在东北新开岭一带，全歼号称千里驹的国民党第二十五师的战斗故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

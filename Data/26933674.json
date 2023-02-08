@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大海与天使",
+  "url": "/subject/26933674/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2404910073.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384137/",
+      "name": "张荣生 Rongsheng Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372814/",
+      "name": "宋沐泽 Muze Song"
+    }
+  ]
+,
+  "datePublished": "2016-12-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "影片讲述的是海军上尉唐岩在探亲时意外救助一位被拐卖、沦为乞丐的盲童如光，如光病愈后唐岩把他送进军民共建单位市盲人学校读书，唐岩在盲校做义工的过程中与学校美丽善良的音乐老师乔娅互生爱慕，最终有情人终成眷...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

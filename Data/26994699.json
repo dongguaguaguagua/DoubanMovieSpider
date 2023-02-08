@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "二宝闯江湖",
+  "url": "/subject/26994699/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2447292673.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370296/",
+      "name": "李小兵 Xiaobing Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370289/",
+      "name": "何欣遥 Xinyao He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315575/",
+      "name": "李健仁 Kin-Yan Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314455/",
+      "name": "汤镇宗 Chun-Chung Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400038/",
+      "name": "魏劲松 Jinsong Wei"
+    }
+  ]
+,
+  "datePublished": "2017-03-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "大宝（女）和小宝（男）是一对情侣，两人爱慕虚荣、好吃懒做，整天异想天开、梦想不劳而获。小宝对大宝言听计从、马首是瞻。大宝决定利用诈骗手段来闯荡所谓的江湖。一笨一傻两个活宝先是利用街头诈骗手段来行骗，没...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

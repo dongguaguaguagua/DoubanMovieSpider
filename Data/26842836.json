@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "遗失的美好",
+  "url": "/subject/26842836/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2369135870.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312749/",
+      "name": "邢爱娜 Aina Xing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335650/",
+      "name": "王渤钧 Bojun Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-07-27",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H43M",
+  "description": "驯兽师方永俊（杨金承饰）在结婚当天，女友子游（陆媛媛饰）离奇失踪，多方寻找无果，一筹莫展的永俊只能报警。宅男王可正在家中测试游戏，突然前女友子游闯入，子游仿佛停留在两年前未分手时的状态，正当王可一头雾...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "84",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

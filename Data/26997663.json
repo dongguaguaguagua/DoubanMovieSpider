@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寂静之地 A Quiet Place",
+  "url": "/subject/26997663/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2518852413.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027146/",
+      "name": "约翰·卡拉辛斯基 John Krasinski"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052734/",
+      "name": "布莱恩·伍兹 Bryan Woods"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029358/",
+      "name": "斯科特·贝克 Scott Beck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027146/",
+      "name": "约翰·卡拉辛斯基 John Krasinski"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041022/",
+      "name": "艾米莉·布朗特 Emily Blunt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027146/",
+      "name": "约翰·卡拉辛斯基 John Krasinski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374192/",
+      "name": "米利森特·西蒙兹 Millicent Simmonds"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356120/",
+      "name": "诺亚·尤佩 Noah Jupe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391338/",
+      "name": "凯德·伍德沃德 Cade Woodward"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1137729/",
+      "name": "里昂·拉瑟姆 Leon Russom"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388388/",
+      "name": "桃乐丝·麦卡锡 Doris McCarthy"
+    }
+  ]
+,
+  "datePublished": "2018-03-09",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "一个大规模的入侵行动发生，让地球几乎全灭，幸存的这一家人过着安静无声的生活，一发出声音就会被怪物抓走。《寂静之地》中的家庭必须时时保持安静，这一家人必须搞清楚哪些声音可以发出，哪些不行。父亲铺了沙子路...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "295857",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

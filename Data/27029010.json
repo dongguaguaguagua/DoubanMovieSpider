@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Irada",
+  "url": "/subject/27029010/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2456609884.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010658/",
+      "name": "纳萨鲁丁·沙 Naseeruddin Shah"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000551/",
+      "name": "阿尔沙德·瓦尔西 Arshad Warsi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1231706/",
+      "name": "Sagarika Ghatge Sagarika Ghatge"
+    }
+  ]
+,
+  "datePublished": "2017-02-17",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "",
+  "description": "A mysterious bomb blast in a business tycoon&#39;s factory prompts the state CM to hire an NIA officer. ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "33天 33 días",
+  "url": "/subject/10521892/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2306448681.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016731/",
+      "name": "卡洛斯·绍拉 Carlos Saura"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016731/",
+      "name": "卡洛斯·绍拉 Carlos Saura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042927/",
+      "name": "Elías Querejeta Elías Querejeta"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022582/",
+      "name": "安东尼奥·班德拉斯 Antonio Banderas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018985/",
+      "name": "格温妮斯·帕特洛 Gwyneth Paltrow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101560/",
+      "name": "巴巴拉·戈纳加 Bárbara Goenaga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045531/",
+      "name": "伊马诺尔·阿里亚斯 Imanol Arias"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "Pablo Picasso&#39;s emotional turmoil as he worked on the mural &#34;Guernica&#34; and his relationship with art...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

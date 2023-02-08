@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣女贞德 National Theatre Live: Saint Joan",
+  "url": "/subject/26979493/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2432133157.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356416/",
+      "name": "乔西·洛克 Josie Rourke"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025410/",
+      "name": "萧伯纳 George Bernard Shaw"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346522/",
+      "name": "费塞友·阿金那德 Fisayo Akinade"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016670/",
+      "name": "杰玛·阿特登 Gemma Arterton"
+    }
+  ]
+,
+  "datePublished": "2017-02-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT4H0M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "142",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

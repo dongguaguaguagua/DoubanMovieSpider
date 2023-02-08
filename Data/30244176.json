@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "181号储物柜 Storage Locker 181",
+  "url": "/subject/30244176/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2524419544.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036399/",
+      "name": "卡斯帕·范·迪恩 Casper Van Dien"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036399/",
+      "name": "卡斯帕·范·迪恩 Casper Van Dien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1243667/",
+      "name": "卡西·汤普森 Cassi Thomson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022799/",
+      "name": "兰迪·韦恩 Randy Wayne"
+    }
+  ]
+,
+  "datePublished": "2016-03-14",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H29M",
+  "description": "当两个女性朋友决定试着把手放进储藏柜拍卖时，他们在不知不觉中继承了一个属于一个危险的连环杀手的更衣柜。他们很快发现自己在一个绝望的种族，以揭露真相的更衣室之前，杀手跟踪他们。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "147",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

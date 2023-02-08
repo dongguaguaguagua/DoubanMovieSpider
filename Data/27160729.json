@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "那年青春正年少",
+  "url": "/subject/27160729/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2501785739.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357821/",
+      "name": "李瑞雪 Ruixue Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454271/",
+      "name": "文鸿毅 Hongyi Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357821/",
+      "name": "李瑞雪 Ruixue Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408771/",
+      "name": "埃米尔 Amro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409370/",
+      "name": "张宸溢 Chenyi Zhang"
+    }
+  ]
+,
+  "datePublished": "2017-09-25",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H10M",
+  "description": "当初的愿望，实现了吗？年少的我们总是无法把握一些遗憾。后来成功成为编剧的张帆，一次在片场拍戏看到了一位女演员蓝小蝶，让他想到了多年前自己得初恋女友白雪，那是一个像雪花一样纯洁干净的女孩，曾经一起经历了...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玩命爱一个姑娘",
+  "url": "/subject/26707761/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2350561679.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460945/",
+      "name": "宋小君 Xiaojun Song"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460945/",
+      "name": "宋小君 Xiaojun Song"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "《玩命爱一个姑娘》讲述了一个为爱付出的故事，男主四张讲述了他与“青梅竹马”何玉的往事。两人虽是一起长大，但并没有意识到爱情，而四张也一直以何玉守护神身份出现在她最需要的地方，经历过了种种喜泪交织的事件...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

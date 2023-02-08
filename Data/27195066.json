@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "临星之夜",
+  "url": "/subject/27195066/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523779663.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385177/",
+      "name": "张金帅 Jinshuai Zhang "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385177/",
+      "name": "张金帅 Jinshuai Zhang "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470321/",
+      "name": "王沚渊 Zhiyuan Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H20M",
+  "description": "直播女郎范丽雯被凶手残忍的杀害。遇害之前她曾答应一位导演去参加新电影的试镜，目的是为了一笔钱。她希望通过这笔钱逃离自己现在的生活。警察找到了范丽雯的母亲范静。但是范静不相信自己的女儿已经死了。因为她刚...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

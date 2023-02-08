@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Devil&#39;s Well",
+  "url": "/subject/27160690/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2869618313.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477242/",
+      "name": "库蒂斯·斯皮勒 Kurtis Spieler"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477242/",
+      "name": "库蒂斯·斯皮勒 Kurtis Spieler"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477242/",
+      "name": "库蒂斯·斯皮勒 Kurtis Spieler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477252/",
+      "name": "布莱恩·曼利·戴维斯 Bryan Manley Davis"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Karla Marks mysteriously vanishes while conducting a paranormal investigation with her husband. A ye...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冯梦龙传奇",
+  "url": "/subject/27067697/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2470014314.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319184/",
+      "name": "高峰 Feng Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326919/",
+      "name": "郎云 Yun Lang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349806/",
+      "name": "阎维文 Weiwen Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375533/",
+      "name": "胡哲行 Zhexing Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328605/",
+      "name": "侯岩松 Yansong Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316547/",
+      "name": "吴卫东 Weidong Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346493/",
+      "name": "邱云鹤 Yunhe Qiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317855/",
+      "name": "郑昊 Hao Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364199/",
+      "name": "张继波 Jibo Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314489/",
+      "name": "刘小宁 Xiaoning Liu"
+    }
+  ]
+,
+  "datePublished": "2017-06-30",
+  "genre": ["\u4f20\u8bb0", "\u5386\u53f2", "\u53e4\u88c5"],
+  "duration": "PT1H40M",
+  "description": "冯梦龙，苏州人，明代著名文学家、思想家、戏曲家，他的作品有近3000多万字，尤以《喻世明言》、《警世通言》、《醒世恒言》等著述创造了中国通俗文学的新高度。除了艺术方面的造诣，冯梦龙也以其在福建寿宁为官...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2019",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

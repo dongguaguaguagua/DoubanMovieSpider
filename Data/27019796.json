@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Bir Bikram",
+  "url": "/subject/27019796/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2461819088.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350657/",
+      "name": "Arpan Thapa Arpan Thapa"
+    }
+  ]
+,
+  "datePublished": "2016-08-19",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5", "\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "PT2H16M",
+  "description": "Fun-filled rhythmic dialogues, action and the acting make Bir Bikram a worthy watch. The story of fr...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

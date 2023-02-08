@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "班卓琴缘 Banjo",
+  "url": "/subject/26881161/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2384067402.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385160/",
+      "name": "尼基尔·麦罗特拉 Nikhil Mehrotra"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1208519/",
+      "name": "瑞提希·德希穆克 Riteish Deshmukh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323236/",
+      "name": "娜吉丝·法克利 Nargis Fakhri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350256/",
+      "name": "Dharmesh Yelande Dharmesh Yelande"
+    }
+  ]
+,
+  "datePublished": "2016-09-23",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5", "\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "PT2H17M",
+  "description": "塔拉对班卓琴十分热爱，她对艺术家克里斯十分看重，为此她从纽约一路来到孟买。想要把克里斯的音乐带上国际舞台，但基于不同的经济状况和社会背景，塔拉能成功吗？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

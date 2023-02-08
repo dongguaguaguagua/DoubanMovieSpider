@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "巴黎，12点",
+  "url": "/subject/26924103/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2402823613.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365806/",
+      "name": "邱汐岩 QIU XIYAN"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365807/",
+      "name": "刘晓霏 LIU XIAOFEI"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365820/",
+      "name": "玛丽·奥布兰 Marie Orblin"
+    }
+  ]
+,
+  "datePublished": "2016-12-06",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ac\u7591", "\u5947\u5e7b"],
+  "duration": "PT1H2M",
+  "description": "生活在深圳的大龄剩女刘晓霏（刘晓霏饰），有一天醒来突然发现自己在巴黎的一间公寓中。 在这个世界中的她，不仅有令人羡慕的工作，更收获了在巴黎学美食的年轻帅气小鲜肉男友林壑（邱汐岩饰）。 正当她开始探索和...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

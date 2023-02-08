@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小玉的中二魂 - 我想拍电影 たまえのスーパーはらわた",
+  "url": "/subject/30266527/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2541786595.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396813/",
+      "name": "上田慎一郎 Shin&#39;ichirô Ueda"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396813/",
+      "name": "上田慎一郎 Shin&#39;ichirô Ueda"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315337/",
+      "name": "工藤绫乃 Ayano Kudô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391037/",
+      "name": "齐藤慎二 Shinji Saitô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391036/",
+      "name": "太田博久 Hirohisa Ota"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391046/",
+      "name": "欧塔克 Otake"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462092/",
+      "name": "白石優愛 Yua Shiraishi"
+    }
+  ]
+,
+  "datePublished": "2018-04-20",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT0H45M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

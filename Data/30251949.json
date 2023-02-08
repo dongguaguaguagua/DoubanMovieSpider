@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暗咒 Father of Flies",
+  "url": "/subject/30251949/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2689329026.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050009/",
+      "name": "卡米拉·拉瑟福德 Camilla Rutherford"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388658/",
+      "name": "戴维·桑托斯 Davi Santos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1226841/",
+      "name": "尼古拉斯·图齐 Nicholas Tucci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439270/",
+      "name": "桑德拉·安德雷伊斯 Sandra Andreis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442854/",
+      "name": "佩吉·鲁思 Page Ruth"
+    }
+  ]
+,
+  "datePublished": "2021-10-14",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H18M",
+  "description": "A haunting tale of family life. A vulnerable young boy finds his mother pushed out of the family hom...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "122",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.4"
+  }
+}

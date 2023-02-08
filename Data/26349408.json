@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜歌 Mobile Etoile",
+  "url": "/subject/26349408/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2326605204.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292867/",
+      "name": "拉菲尔·纳加里 Raphaël Nadjari"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292867/",
+      "name": "拉菲尔·纳加里 Raphaël Nadjari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358606/",
+      "name": "文森特·帕尔米耶 Vincent Poymiro"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014389/",
+      "name": "热拉尔丁娜·帕亚 Géraldine Pailhas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028463/",
+      "name": "吕克·皮卡德 Luc Picard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066625/",
+      "name": "多萝蒂·贝里曼 Dorothée Berryman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414248/",
+      "name": "托马斯∙瓦利埃 Thomas Vallieres"
+    }
+  ]
+,
+  "datePublished": "2015-04-27",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H59M",
+  "description": "Hannah and Daniel are in their 40&#39;s , both musicians. She is french and he is quebecer living in Mon...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

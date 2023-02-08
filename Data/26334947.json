@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "空山异客",
+  "url": "/subject/26334947/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2418672524.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311700/",
+      "name": "杨恒 Heng Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311700/",
+      "name": "杨恒 Heng Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401291/",
+      "name": "唐胜刚 Shenggang Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401292/",
+      "name": "梁宇 Yu Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401293/",
+      "name": "尚美彤 Meitong Shang"
+    }
+  ]
+,
+  "datePublished": "2017-02-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "刚刚出狱的中年男子，在离家多年后，重新回到了家乡，他找到了儿时的朋友，曾经的女友，多年不见的兄长，他似乎在寻找什么，结果却是一无所获，他在过去和现在之间失去了联系，他无法看到未来，他只能走在路上，直到...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "511",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

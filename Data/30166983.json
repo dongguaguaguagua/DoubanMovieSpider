@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不管妈妈多么讨厌我 母さんがどんなに僕を嫌いでも",
+  "url": "/subject/30166983/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2523963216.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334402/",
+      "name": "御法川修 Osamu Minorikawa"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319077/",
+      "name": "仲野太贺 Taiga Nagano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316808/",
+      "name": "吉田羊 Yô Yoshida"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369068/",
+      "name": "森崎温 Win Morisaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359052/",
+      "name": "秋月三佳 Mika Akizuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482225/",
+      "name": "小山春朋 Harutomo Koyama"
+    }
+  ]
+,
+  "datePublished": "2018-11-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "该片根据漫画家歌川泰司的漫画文章改编，歌川泰司讲述的是真实发生在自己身上的经历。从预告片中可以看到，妈妈的嫌弃可不是开玩笑的，已经涉及到虐待的范畴，斥责、辱骂、殴打都用上了，但儿子还是很喜欢妈妈。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "920",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

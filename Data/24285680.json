@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马尔代夫遇贱爱",
+  "url": "/subject/24285680/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2234396941.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280599/",
+      "name": "马楚成 Jingle Ma"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003495/",
+      "name": "张柏芝 Cecilia Cheung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027577/",
+      "name": "古天乐 Louis Koo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "曾执导过电影《十全九美》的导演王岳伦，继与星光国际合作拍摄电影《乐翻天》之后，将二度合作，打造浪漫爱情喜剧《马尔代夫遇见爱》，也是首部展现马尔代夫异域风光的国产影片。该片计划在国内和马尔代夫两地拍摄，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

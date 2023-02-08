@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "第六位朋友 The 6th Friend",
+  "url": "/subject/25740426/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546440010.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308085/",
+      "name": "Letia Miller Letia Miller"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025191/",
+      "name": "多米尼克·斯万 Dominique Swain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451581/",
+      "name": "Chantelle Albers Chantelle Albers"
+    }
+  ]
+,
+  "datePublished": "2017-09-28",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "六位大学的好朋友举办了他们自己的私人毕业派对，当一位不速之客到来时，派对发生了不可思议的事情。五年后，女孩们再次聚在一起，一个更加恐怖和流血的夜晚等待着她们。
+反正欧美恐怖片套路就是作死小分队，逐个杀...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "122",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.6"
+  }
+}

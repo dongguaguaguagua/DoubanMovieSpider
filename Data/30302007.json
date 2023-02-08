@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "酷寒 Frig",
+  "url": "/subject/30302007/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2531223934.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347912/",
+      "name": "安东尼·希克林 Antony Hickling"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347912/",
+      "name": "安东尼·希克林 Antony Hickling"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406869/",
+      "name": "伽拉·贝松 Gala Besson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408403/",
+      "name": "阿瑟·吉莱 Arthur Gillet"
+    }
+  ]
+,
+  "datePublished": "2018-09-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H0M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

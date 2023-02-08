@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大烟炮！一千八！",
+  "url": "/subject/26870262/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540673594.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363151/",
+      "name": "于兰 Lan Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404688/",
+      "name": "江涛 Tao Jiang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335926/",
+      "name": "刘星 Xing Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404689/",
+      "name": "张艳荣 Yanrong Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363151/",
+      "name": "于兰 Lan Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325824/",
+      "name": "赵滨 Bin Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320512/",
+      "name": "樊蕊 Rui Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408543/",
+      "name": "李至强 Zhiqiang Li"
+    }
+  ]
+,
+  "datePublished": "2018-12-04",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "一个白山黑水的小村庄，有两个小有 名气的女人，女民兵连长“大烟炮”，“恨嫁” 的美人“一千八”。偶然的机会，“一千八”闯 入了“大烟炮”看似平静的家庭生活。恩与恨， 爱与仇，轮回与冤孽。谁又赢了？谁又...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "371",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

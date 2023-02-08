@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Monochrome",
+  "url": "/subject/30216112/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2521507865.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1226425/",
+      "name": " Devin Leigh"
+    }
+  ]
+,
+  "datePublished": "2019-04-08",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H13M",
+  "description": "Traded and sold like currency, the outcast people known as &#34;Hues&#34;, are hunted down in a black and wh...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

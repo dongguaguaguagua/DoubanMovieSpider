@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "看不见的女儿 The Unseen",
+  "url": "/subject/26848678/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2371148289.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295362/",
+      "name": "Geoff Redknap Geoff Redknap"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295362/",
+      "name": "Geoff Redknap Geoff Redknap"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301520/",
+      "name": "阿登·杨 Aden Young"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332566/",
+      "name": "茱莉亚·莎拉·斯通 Julia Sarah Stone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361246/",
+      "name": "艾登·朗沃斯 Aiden Longworth"
+    }
+  ]
+,
+  "datePublished": "2016-07-17",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H44M",
+  "description": "A man, who years earlier mysteriously abandoned his family and isolated himself in a small northern ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

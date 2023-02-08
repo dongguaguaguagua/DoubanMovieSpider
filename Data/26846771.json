@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奔跑吧！裤衩",
+  "url": "/subject/26846771/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2370656886.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343046/",
+      "name": "叶小舟 Xiaozhou Ye"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369033/",
+      "name": "李天佑 Tianyou Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359474/",
+      "name": "林琪 Qi Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379310/",
+      "name": "马大明 Daming Ma"
+    }
+  ]
+,
+  "datePublished": "2016-08-05",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H10M",
+  "description": "YY当红主播天佑在事业上风生水起之时，感情却惨遭相恋多年女友穆小南的抛弃。王冕虽也为主播，但心中却有着不灭的电影梦。在相识了投资人马总后终于如愿得到拍摄电影的机会。马总却提出条件天佑出演男主角，王冕才...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "127",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

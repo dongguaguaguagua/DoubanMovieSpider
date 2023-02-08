@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "怪物 Monster X",
+  "url": "/subject/27104184/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494949799.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412066/",
+      "name": "肖恩·范·莱金霍斯特 Sean van Leijenhorst"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412066/",
+      "name": "肖恩·范·莱金霍斯特 Sean van Leijenhorst"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-03-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H10M",
+  "description": "Two friends hide in an old theater to escape ravenous hordes of vampires, zombies and werewolves.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

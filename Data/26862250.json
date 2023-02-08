@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "编剧工坊 L&#39;Atelier",
+  "url": "/subject/26862250/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2498064296.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018406/",
+      "name": "劳伦·冈泰 Laurent Cantet"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279984/",
+      "name": "罗宾·坎皮略 Robin Campillo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018406/",
+      "name": "劳伦·冈泰 Laurent Cantet"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005164/",
+      "name": "玛琳娜·佛伊丝 Marina Foïs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381363/",
+      "name": "马蒂厄·卢奇 Matthieu Lucci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395502/",
+      "name": "弗洛里安·博让 Florian Beaujean"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396743/",
+      "name": "Doudou Masta Doudou Masta"
+    }
+  ]
+,
+  "datePublished": "2017-05-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H53M",
+  "description": "安东来到法国南部的拉西奥塔小镇，参加一个暑期编剧工坊，他们将在知名作家奥莉维亚的帮助下写出一本犯罪悬疑小说。过程中需要大家去回忆感受小镇的工业历史，在这个跨种族的团队中，聪明且勇于发言的安东经常发表充...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2173",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "孤狼行动",
+  "url": "/subject/27611562/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510527958.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320465/",
+      "name": "张德晖 Dehui Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323625/",
+      "name": "任天野 Tianye Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335598/",
+      "name": "李飞 Fei Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357484/",
+      "name": "陈国良 Guoliang Chen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "故事讲述一次缉毒侦查行动，因为情报泄露，导致长丰（任天野饰演）在内的数名特战队员牺牲，副队长林肖寒（张瀚文饰演）是唯一存活下来的人。因为行动失败，林肖寒自责不已，为了给牺牲的战友讨回一个公道，林肖寒独...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

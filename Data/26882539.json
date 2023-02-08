@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "In Flames, Sounds from the Heart of Gothenburg",
+  "url": "/subject/26882539/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2512461743.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1207428/",
+      "name": "Anders Fridén Anders Fridén"
+    }
+  ]
+,
+  "datePublished": "2016-09-23",
+  "genre": ["\u97f3\u4e50"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

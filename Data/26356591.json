@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狼警2 WolfCop II",
+  "url": "/subject/26356591/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2797941567.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1062474/",
+      "name": "亚尼克·比森 Yannick Bisson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483827/",
+      "name": "Leo Fafard Leo Fafard"
+    }
+  ]
+,
+  "datePublished": "2016-09-25",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H22M",
+  "description": "当一个具有恶意的古怪商人在这部荒唐的恐怖喜剧续集中引诱了一个新啤酒厂和曲棍球队的伍德黑文居民时，酒鬼狼人警察卢加劳开始行动起来。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

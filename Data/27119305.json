@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "了不起的小家伙们",
+  "url": "/subject/27119305/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497020248.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379754/",
+      "name": "张进 Jin Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379755/",
+      "name": "张挺 Ting Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348834/",
+      "name": "阿琳娜·萨沃斯提科娃 Alena Savostikova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379758/",
+      "name": "JT 梵可丽 JT Vancollie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379759/",
+      "name": "艾丽西亚·巴里 Alesia Barry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379761/",
+      "name": "张笑威 Xiaowei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379762/",
+      "name": "张博超 BochaoZhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379764/",
+      "name": "顾耀中 Yaozhong Gu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379765/",
+      "name": "李田田 Tiantian Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379766/",
+      "name": "邢汉 Han Xing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379768/",
+      "name": "赵亮 Liang Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379770/",
+      "name": "罗伯特·范克特 Robert Factor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379772/",
+      "name": "Leann Lei Leann Lei"
+    }
+  ]
+,
+  "datePublished": "2017-10-14",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5", "\u5947\u5e7b"],
+  "duration": "PT1H23M",
+  "description": "故事讲述了“瓦伦丁星球面临毁灭危机，传说中能够拯救瓦伦丁星球的人将是地球上一位了不起的孩子，于是星球的使者玫瑰仙子来到地球，开始寻找这位能够拯救他们家园的小英雄”的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

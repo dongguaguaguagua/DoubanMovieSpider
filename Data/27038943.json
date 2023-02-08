@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我可爱的宾杜 Meri Pyaari Bindu",
+  "url": "/subject/27038943/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2458426179.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322598/",
+      "name": "帕丽莱蒂·曹帕拉 Parineeti Chopra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327903/",
+      "name": "阿尤斯曼·库拉纳 Ayushmann Khurrana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422969/",
+      "name": "阿珀拉吉塔·阿多 Aparajita Adhya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423311/",
+      "name": "罗卓达普·道特 Rajatabha Dutta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423473/",
+      "name": "朱恩·玛利亚 June Malia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423479/",
+      "name": "卡拉吉·穆克吉 Kharaj Mukherjee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423900/",
+      "name": "比肖吉特·查克拉博蒂 Biswajit Chakraborty"
+    }
+  ]
+,
+  "datePublished": "2017-05-12",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u97f3\u4e50"],
+  "duration": "PT2H25M",
+  "description": "Fed up with the lack of critical appreciation despite being a successful writer, Abhimanyu Roy (Ayus...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

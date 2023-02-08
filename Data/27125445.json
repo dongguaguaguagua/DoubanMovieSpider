@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "札札亚 Cacaya",
+  "url": "/subject/27125445/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2501784569.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380195/",
+      "name": "Peter Azen Peter Azen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380195/",
+      "name": "Peter Azen Peter Azen"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "Set in contemporary New York City, Cacaya is the story of a young Brazilian woman, who ends her tumu...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

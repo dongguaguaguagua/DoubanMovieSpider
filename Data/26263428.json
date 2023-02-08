@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "为什么猫都叫不来 猫なんかよんでもこない。",
+  "url": "/subject/26263428/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2267508677.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330255/",
+      "name": "山本透 Toru Yamamoto"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328969/",
+      "name": "林民夫 Tamio Hayashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330255/",
+      "name": "山本透 Toru Yamamoto"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020600/",
+      "name": "风间俊介 Shunsuke Kazama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314713/",
+      "name": "鹤野刚士 Takeshi Tsuruno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320978/",
+      "name": "松冈茉优 Mayu Matsuoka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034148/",
+      "name": "市川实和子 Miwako Ichikawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275800/",
+      "name": "矢柴俊博 Toshihiro Yashiba"
+    }
+  ]
+,
+  "datePublished": "2016-01-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "光雄（风间俊介 饰）一心想要成为一名拳击手，为此付出了自己全部的精力和时间，希冀有朝一日能够获得世界冠军的荣耀。某日，光雄的哥哥（鹤野刚士 饰）将两只小猫托付给了光雄照顾，它们一只名叫小黑，另一只叫小...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "12478",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

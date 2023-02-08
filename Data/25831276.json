@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Jet Trash",
+  "url": "/subject/25831276/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2498746891.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040957/",
+      "name": "查尔斯·亨瑞·拜勒韦尔 Charles Henri Belleville"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340802/",
+      "name": "西蒙·路易斯 Simon Lewis"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013911/",
+      "name": "罗伯特·席安 Robert Sheehan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199057/",
+      "name": "索菲亚·波多拉 Sofia Boutella"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009893/",
+      "name": "加斯帕·帕科农 Jasper Pääkkönen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338864/",
+      "name": "奥赛·伊克希尔 Osy Ikhile"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315125/",
+      "name": "克雷格·帕金森 Craig Parkinson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327509/",
+      "name": "阿德拉约·阿德达约 Adelayo Adedayo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345263/",
+      "name": "乔蕾·科斯 Joelle Koissi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396800/",
+      "name": "巴拉特·巴蒂 Bharat Bhatia"
+    }
+  ]
+,
+  "datePublished": "2016-12-07",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H25M",
+  "description": "影片改编自小说Go,主角Lee(Robert Sheehan饰演)在伦敦莫名卷入一系列麻烦中，由此展开一段疯狂的逃亡之旅...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,124 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "愤怒 Indignation",
+  "url": "/subject/26604675/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2357335597.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050276/",
+      "name": "詹姆斯·夏慕斯 James Schamus"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1143774/",
+      "name": "菲利普·罗斯 Philip Roth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050276/",
+      "name": "詹姆斯·夏慕斯 James Schamus"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000183/",
+      "name": "莎拉·加顿 Sarah Gadon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053583/",
+      "name": "罗根·勒曼 Logan Lerman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009889/",
+      "name": "崔西·莱茨 Tracy Letts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1089156/",
+      "name": "琳达·伊蒙 Linda Emond"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336709/",
+      "name": "本·罗森菲尔德 Ben Rosenfield"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187845/",
+      "name": "蒂胡纳·里克斯 Tijuana Ricks"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364422/",
+      "name": "诺亚·罗宾斯 Noah Robbins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338222/",
+      "name": "皮可·亚历山大 Pico Alexander"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277946/",
+      "name": "乔安娜·巴隆 Joanne Baron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223057/",
+      "name": "丹尼·伯斯坦 Danny Burstein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360475/",
+      "name": "菲利普·埃丁格 Philip Ettinger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363629/",
+      "name": "理查德·托普尔 Richard Topol"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364370/",
+      "name": "布莱恩·伯顿 Bryan Burton"
+    }
+  ]
+,
+  "datePublished": "2016-01-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H50M",
+  "description": "影片改编自菲利普·罗斯2008年出版的同名小说，故事围绕上世纪50年代美国一名犹太裔男青年马科斯·梅思纳的苦闷与彷徨展开。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3204",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱在爱之后 Love After Love",
+  "url": "/subject/26965136/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2515609432.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353301/",
+      "name": "罗素·哈尔伯 Russell Harbaugh"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041941/",
+      "name": "埃里克·门德尔松 Eric Mendelsohn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353301/",
+      "name": "罗素·哈尔伯 Russell Harbaugh"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031755/",
+      "name": "克里斯·奥多德 Chris O&#39;Dowd"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048128/",
+      "name": "安迪·麦克道威尔 Andie MacDowell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1214379/",
+      "name": "朱丽叶·赖伦斯 Juliet Rylance"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037051/",
+      "name": "德丽·海明威 Dree Hemingway"
+    }
+  ]
+,
+  "datePublished": "2017-04-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "格雷与妻子苏珊娜同为大学的戏剧老师，两人幸福地生活在一起。格雷罹患癌症弥留之际，他叫来儿子克里斯、尼克以及一众学生一同聚会。悉心照顾父亲的尼克却和与自己一同前来的女友丽贝卡产生矛盾，出言不逊，难以调和...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "144",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

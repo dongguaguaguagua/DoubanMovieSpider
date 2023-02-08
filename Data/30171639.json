@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "이 사랑도 전해질까요",
+  "url": "/subject/30171639/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516503429.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332747/",
+      "name": "金东贤 Dong-hyun Kim"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385202/",
+      "name": "金智安 Kim Ji-an"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316689/",
+      "name": "朴敏雨 Min-woo Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465735/",
+      "name": "金址晏 Kim Ji An"
+    }
+  ]
+,
+  "datePublished": "2017-06-21",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H32M",
+  "description": "내 마음을 고쳐준 그런 사랑...
+손편지 쓰기 대행을 직업으로 둔 여자와 애인대행을 직업으로 둔 남자. 그들은 운명의 장난처럼 만나게 되고, 서로에게 잊지못하는 사랑의 상처가 있는...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

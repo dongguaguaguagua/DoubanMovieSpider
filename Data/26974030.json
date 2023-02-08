@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "弓马啸西风",
+  "url": "/subject/26974030/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2430134564.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368639/",
+      "name": "旭泽 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465294/",
+      "name": "编剧 王煜 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321108/",
+      "name": "李艺科 Yike Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325661/",
+      "name": "高丽雯 Liwen Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372321/",
+      "name": "沈驰 Chi Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391133/",
+      "name": "脑门额尔德尼 Naomen Eerdeni"
+    }
+  ]
+,
+  "datePublished": "2017-02-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "九·一八事变前夕，日本人原田以经商为名在巴林草原频繁活动，游说王爷与关东军合作，大肆购买战马，欲使草原成为关东军的战略补给大后方。自幼随家人被放逐的白狼带着一支押镖的马队经过这里，生长在这片草原的他，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "263",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

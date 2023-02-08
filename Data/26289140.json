@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灿烂这一刻",
+  "url": "/subject/26289140/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504820927.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000726/",
+      "name": "陈果 Fruit Chan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000726/",
+      "name": "陈果 Fruit Chan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275778/",
+      "name": "张敬轩 Hins Cheung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042568/",
+      "name": "郝蕾 Lei Hao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274279/",
+      "name": "林雪 Suet Lam"
+    }
+  ]
+,
+  "datePublished": "2016-12-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "余梦辉（张敬轩 饰）是学校的拉丁舞老师，带领着校队参加了一场十分重要的比赛。领导要求余梦辉和他的舞蹈队必须在比赛中拿下三连胜，这几乎是不可能完成的任务。然而，余梦辉却不愿意放弃希望，而是变本加厉的训练...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "763",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

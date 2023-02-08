@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "8遗迹 8 Remains",
+  "url": "/subject/30387616/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540958417.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1255301/",
+      "name": " Maja-Celiné Probst"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357617/",
+      "name": "凯文·莱斯利 Kevin Leslie"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "Preceding her death a young woman relives her life in a mirror world, giving her the chance to fight...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

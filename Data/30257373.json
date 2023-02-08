@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Sunday Night Slaughter",
+  "url": "/subject/30257373/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2532852907.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051679/",
+      "name": "Edward Payson Edward Payson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051679/",
+      "name": "Edward Payson Edward Payson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051934/",
+      "name": "查德·阿德蒂森 Chad Addison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393167/",
+      "name": "玛利亚·奥尔森 Maria Olsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009240/",
+      "name": "科里·费尔德曼 Corey Feldman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1138200/",
+      "name": "费莉莎·罗斯 Felissa Rose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1190743/",
+      "name": "德瓦尼·平 Devanny Pinn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326090/",
+      "name": "凯特琳·詹金斯 Kaitlyn Jenkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384784/",
+      "name": "凯文·卡利伯 Kevin Caliber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336796/",
+      "name": "泰勒·格里芬 Tyler Griffin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1186533/",
+      "name": "Andy Gates Andy Gates"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1175106/",
+      "name": "Dolores Quintana Dolores Quintana"
+    }
+  ]
+,
+  "datePublished": "2018-12-31",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "An anthology horror film following 3 stories including demons, cannibals, psychopaths and demigods a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

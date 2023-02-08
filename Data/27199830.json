@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "百年长安",
+  "url": "/subject/27199830/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546769885.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275705/",
+      "name": "王志飞 Zhifei Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398154/",
+      "name": "乐轩 Xuan Le"
+    }
+  ]
+,
+  "datePublished": "2017-11-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "110年前，在八闽大地全社会和海外华侨的强力支持下，闽籍著名教育家、溥仪皇帝老师陈宝琛历经千辛万苦创办了全闽师范学堂，后改名福建优级师范学堂，也就是今天的福建师范大学，展现了一百多年前八闽人民的风采。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

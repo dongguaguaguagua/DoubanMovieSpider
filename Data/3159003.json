@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "维齐尔 Wazir",
+  "url": "/subject/3159003/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2307364347.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316464/",
+      "name": "阿希贾特·乔希 Abhijat Joshi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276666/",
+      "name": "维德胡·维诺德·乔普拉 Vidhu Vinod Chopra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187977/",
+      "name": "Supriya Kelkar Supriya Kelkar"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027845/",
+      "name": "阿米达普·巴强 Amitabh Bachchan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320446/",
+      "name": "阿娣提·拉奥·希达里 Aditi Rao Hydari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014189/",
+      "name": "法尔汉·阿赫塔尔 Farhan Akhtar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014243/",
+      "name": "尼尔·尼汀·穆科什 Neil Nitin Mukesh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036581/",
+      "name": "约翰·亚伯拉罕 John Abraham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353717/",
+      "name": "普拉卡什·贝尔拉迪 Prakash Belawadi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455857/",
+      "name": "西玛·帕瓦 Seema Bhargava"
+    }
+  ]
+,
+  "datePublished": "2016-01-08",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H42M",
+  "description": "故事围绕一位国际象棋大师和一名侦探之间的友谊，两人都失去了自己的女儿，不久之后，国际象棋大师也被谋杀，于是侦探力图找到其中真相。最后发现答案隐藏在一场生者与死者之间的未完游戏中...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "270",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

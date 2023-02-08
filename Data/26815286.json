@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迷失亚美尼亚 Celui qu&#39;on attendait",
+  "url": "/subject/26815286/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2359159136.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037498/",
+      "name": "塞尔吉·艾维迪吉安 Serge Avedikian"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037498/",
+      "name": "塞尔吉·艾维迪吉安 Serge Avedikian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033562/",
+      "name": "Laurent Firode Laurent Firode"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1085997/",
+      "name": "让-弗朗索瓦·德雷克 Jean-François Dérec"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033024/",
+      "name": "帕特里克·薛内斯 Patrick Chesnais"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050122/",
+      "name": "阿欣妮·哈尼安 Arsinée Khanjian"
+    }
+  ]
+,
+  "datePublished": "2016-06-08",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "在边境演出结束后，一位笑星被遗弃在亚美尼亚的一个小村庄里。在没有电话，语言不通的条件下，他要在当地村民的帮助下回家。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "178",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

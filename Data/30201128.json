@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寻味秘盗",
+  "url": "/subject/30201128/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2519865642.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359696/",
+      "name": "李锦伦 Jackie Lee"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274420/",
+      "name": "吴启华 Lawrence Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355926/",
+      "name": "元武 Wu Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451693/",
+      "name": "李一峰 Yifeng Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374930/",
+      "name": "顾权 Quan Gu"
+    }
+  ]
+,
+  "datePublished": "2018-04-25",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H13M",
+  "description": "山东某个偏僻的小镇上，老郭（郭诚）独自经营着一家烤鱼店。鱼店生意普通。尽管如此，老郭依然坚守着这份事业。比烤鱼店更让他头疼的是独生女郭一鸣的叛逆。大学辍学的郭一鸣整天在无所事事，老郭想把手艺传给女儿，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

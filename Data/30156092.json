@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "野百合女孩",
+  "url": "/subject/30156092/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2514813318.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392611/",
+      "name": "刘艳臣 Yanchen Liu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327315/",
+      "name": "徐源 Yuan Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362527/",
+      "name": "晨媛儿 Yuaner Chen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "该片以新邵县安义学校初二学生何芹姣事迹为原型改编。何芹姣是新邵县寸石镇青山村人，2010年以来，在父病母走家庭条件极其贫困的情况下，她坚持四年背送患肌神经萎缩症的同班同学何颖慧上学直到小学毕业。201...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的舞林江湖",
+  "url": "/subject/27068528/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2494630672.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379402/",
+      "name": "高跃铭 Yueming Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379403/",
+      "name": "汤蓉 Rong Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379404/",
+      "name": "於悦 Yue Yu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326577/",
+      "name": "陈承 Cheng Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359068/",
+      "name": "郑智勋 Shine Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379405/",
+      "name": "叶禹彤 Yutong Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379406/",
+      "name": "王雅静 Yajing Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379407/",
+      "name": "李为民 Weimin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379408/",
+      "name": "齐希儿 Xier Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354639/",
+      "name": "齐浠儿 Giselle Chia"
+    }
+  ]
+,
+  "datePublished": "2017-08-22",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "著名舞蹈编导林嘉瑞受命前往北方舞蹈团帮助该团排练大型舞剧。主演陈蝶儿、彭蕊琪、安雪在排演的过程中分别战胜各自弱点，成功挑起舞剧的大梁，书写了女孩子执着于舞蹈的梦想……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

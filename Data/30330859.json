@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Fühlen Sie sich manchmal ausgebrannt und leer",
+  "url": "/subject/30330859/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2538809675.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047389/",
+      "name": "Philipp Pfeiffer Philipp Pfeiffer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1201328/",
+      "name": "查理·哈纳 Charly Hübner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1090239/",
+      "name": "本诺·菲尔曼 Benno Fürmann"
+    }
+  ]
+,
+  "datePublished": "2018-03-08",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H34M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

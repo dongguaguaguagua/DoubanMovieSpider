@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Sivalinga",
+  "url": "/subject/30351386/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537049249.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450885/",
+      "name": "劳伦斯·拉格哈文德拉 Lawrence Raghavendra"
+    }
+  ]
+,
+  "datePublished": "2017-04-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H36M",
+  "description": "A detective with some unusual qualities investigates a murder.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

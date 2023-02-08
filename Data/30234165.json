@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "失去了什么 Nada a Perder",
+  "url": "/subject/30234165/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523751920.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334998/",
+      "name": "斯蒂芬·P·林赛 Stephen P. Lindsey"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1091225/",
+      "name": "贝丝·古拉特 Beth Goulart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1158026/",
+      "name": "达尔顿·维格 Dalton Vigh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1094980/",
+      "name": "安德烈·贡萨尔维斯 André Gonçalves"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345038/",
+      "name": "马尔塞洛·艾罗蒂 Marcello Airoldi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386586/",
+      "name": "里昂纳多·佛朗哥 Leonardo Franco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1092646/",
+      "name": "Petronio Gontijo Petronio Gontijo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394807/",
+      "name": "Laurent Andruet Laurent Andruet"
+    }
+  ]
+,
+  "datePublished": "2018-03-29",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT2H14M",
+  "description": "Self-financed biopic of Brazilian evangelical bishop Edir Macedo, founder of the Universal Church of...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

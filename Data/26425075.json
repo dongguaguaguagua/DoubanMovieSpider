@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜色撩人",
+  "url": "/subject/26425075/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2429466533.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285109/",
+      "name": "夏钢 Gang Xia"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358313/",
+      "name": "孟朱 Zhu Meng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369159/",
+      "name": "须一瓜 Yigua Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314827/",
+      "name": "王千源 Qianyuan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050430/",
+      "name": "余男 Nan Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1225641/",
+      "name": "南宫珉 Nam Koongmin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316365/",
+      "name": "潘斌龙 Binlong Pan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361299/",
+      "name": "陈志雄 Zhixiong Chen"
+    }
+  ]
+,
+  "datePublished": "2017-03-10",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H44M",
+  "description": "芥子（余男 饰）与丈夫钟桥北（南宫珉 饰）是一对年轻的成功人士，某夜家中发生抢劫，身为丈夫的钟桥北没能保护妻子，从此平静的生活被打破。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4524",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

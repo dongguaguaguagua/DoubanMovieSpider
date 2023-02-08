@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "侠义金枪客",
+  "url": "/subject/30373787/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2717368382.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322142/",
+      "name": "肖莫庸 Moyong Xiao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375815/",
+      "name": "王欢 Huan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369845/",
+      "name": "崔友斌 Youbin Cui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346493/",
+      "name": "邱云鹤 Yunhe Qiu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H31M",
+  "description": "清光绪年间西北小镇，尔嘎为报杀父之仇，集结四位江湖朋友对付诚信镖局侯氏兄弟。其昔日恋人连秀之夫侯一先屡次暗中派人刺杀尔嘎等人。连秀得知老公侯一先罪行后，帮助尔嘎救出同伴，杀死侯氏兄弟，并为救尔嘎而死。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

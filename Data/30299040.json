@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "树上有个好地方",
+  "url": "/subject/30299040/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2530884300.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335336/",
+      "name": "张忠华 Zhonghua Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335336/",
+      "name": "张忠华 Zhonghua Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444225/",
+      "name": "杜旭光 Xuguang Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444226/",
+      "name": "刘盼 Pan Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444227/",
+      "name": "张新锋 Xinfeng Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444228/",
+      "name": "马银秀 Yinxiu Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444229/",
+      "name": "许小周 Xiaozhou Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444230/",
+      "name": "陈骊山 Lishan Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335336/",
+      "name": "张忠华 Zhonghua Zhang"
+    }
+  ]
+,
+  "datePublished": "2019-10-09",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5bb6\u5ead", "\u513f\u7ae5"],
+  "duration": "PT1H36M",
+  "description": "本故事讲述的是上世纪90年代末发生在陕西关中农村的童年故事。在以成绩高低作为评判学生好坏的环境中，小学生巴王超过在老师与家长的眼中是那种不学无术的“渣滓”。得不到家长和老师认同的巴王超过，将田野里一棵...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "25616",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

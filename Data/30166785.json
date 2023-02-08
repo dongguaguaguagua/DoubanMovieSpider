@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "梦游者 Sleepwalkers",
+  "url": "/subject/30166785/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519344258.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1234621/",
+      "name": "劳伦·斯特凡尼 Lauren Steffany"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1269370/",
+      "name": "辛西娅·肖 Cynthia Shaw"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394858/",
+      "name": "杰西卡·迪吉奥瓦尼 Jessica DiGiovanni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1466689/",
+      "name": "杰夫·罗南 Jeff Ronan"
+    }
+  ]
+,
+  "datePublished": "2016-08-05",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u79d1\u5e7b", "\u5947\u5e7b"],
+  "duration": "PT1H31M",
+  "description": "本是一名严重的梦游症患者。他每天晚上只要一睡着就会开始梦游，并且第二天醒来后完全不记得自己做了什么事，也不承担后果和责任。直到有一天他遇到了通宵用餐的艾莉森，他才被迫的意识到人生中对他重要的是什么。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

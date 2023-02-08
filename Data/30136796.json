@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一年中的那个时候 Den Tid På Året",
+  "url": "/subject/30136796/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2533398763.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041280/",
+      "name": "帕普丽卡·斯汀 Paprika Steen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041280/",
+      "name": "帕普丽卡·斯汀 Paprika Steen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041280/",
+      "name": "帕普丽卡·斯汀 Paprika Steen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411121/",
+      "name": "范妮·博内代尔 Fanny Bornedal"
+    }
+  ]
+,
+  "datePublished": "2018-09-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "From Danish director and actor Paprika Steen comes a caustic comedy about the deep-rooted grievances...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

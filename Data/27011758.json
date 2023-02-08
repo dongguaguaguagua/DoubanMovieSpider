@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超重警官 Oversize Cops",
+  "url": "/subject/27011758/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2465560025.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388561/",
+      "name": "普万尼特·弗迪 Phuwanit Pholdee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388562/",
+      "name": "查农·英永 Chanon Yingyong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388561/",
+      "name": "普万尼特·弗迪 Phuwanit Pholdee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000367/",
+      "name": "杰佳·亚宁 JeeJa Yanin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400453/",
+      "name": "颂裕·玛徒雷 Somyos Matures"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462761/",
+      "name": "普拉莫·帕坦 Pramote Pathan"
+    }
+  ]
+,
+  "datePublished": "2017-11-02",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H40M",
+  "description": "自从因为太胖抓不到抢匪而登上头条，“阿康”和他三个朋友就成了泰国警界的耻辱。这四个胖警察必须在三个月内甩掉肥肉，否则就会被惩处！当美丽的尊巴舞教练“小敏”加入之后，训练变得令人兴奋。然而，抢案持续发生...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "906",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "星光 Star Light",
+  "url": "/subject/30228775/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574680544.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408672/",
+      "name": "米切尔·阿尔蒂里 Mitchell Altieri"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408672/",
+      "name": "米切尔·阿尔蒂里 Mitchell Altieri"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071517/",
+      "name": "丝柯·泰勒-考普顿 Scout Taylor-Compton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390574/",
+      "name": "拉哈特·亚当斯 Rahart Adams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355181/",
+      "name": "盖瑞特·韦斯顿 Garrett Westton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049883/",
+      "name": "蒂凡妮·谢皮斯 Tiffany Shepis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349173/",
+      "name": "布雷特·罗伯茨 Bret Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042019/",
+      "name": "杰弗·卡伦 Geoff Callan"
+    }
+  ]
+,
+  "datePublished": "2020-02-18",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "一名青少年在奔跑中帮助一位举世闻名的流行歌星逃脱暴力追捕者时，生活被颠倒了",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

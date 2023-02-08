@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "哑孩儿",
+  "url": "/subject/26700894/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2310856755.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390200/",
+      "name": "杨易之 Yizhi Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390200/",
+      "name": "杨易之 Yizhi Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054282/",
+      "name": "午马 Wu Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275276/",
+      "name": "孙桂田 Guitian Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314488/",
+      "name": "谢孟伟 Mengwei Xie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354093/",
+      "name": "常若熙 Ruoxi Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352477/",
+      "name": "陈佳阳 JiaYang Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354095/",
+      "name": "郭展月 Zhanyue Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354094/",
+      "name": " "
+    }
+  ]
+,
+  "datePublished": "2016-03-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "电影《哑孩儿》根据真实故事改编，丫丫(常若熙 饰)是个听障儿童，她因为先天听力残疾不能和其他孩子一样到学校上学。刚毕业的大学生方燕(熊珂饰)决定去山区支教，认识丫丫后发现她非常聪明并渴望学习，方燕决定...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "283",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Snarling",
+  "url": "/subject/30294960/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2530396968.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014560/",
+      "name": "克里斯·西蒙斯 Chris Simmons"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452991/",
+      "name": "丽贝卡·加德纳·蒂尔德斯利 Rebecca Gardner-Tildesley"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H23M",
+  "description": "A sleepy English village is invaded by the cast and crew of a new zombie horror film, but the horror...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

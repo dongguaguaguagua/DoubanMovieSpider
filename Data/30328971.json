@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美酒人生",
+  "url": "/subject/30328971/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2667259831.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412585/",
+      "name": "王澍 Shu Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448638/",
+      "name": "柴楚然 Churan Chai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385831/",
+      "name": "孙昊 Hao Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326916/",
+      "name": "张倩如 Qianru Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421006/",
+      "name": "王子彤 Zitong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457396/",
+      "name": "周义晟 "
+    }
+  ]
+,
+  "datePublished": "2018-09-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "该片讲述晚清末期，小混混崔灿(孙昊饰演)为还债，千里迢迢从香港来到北京城，冒充酿酒世家陈家的少爷陈灿，却没想到自己真是陈氏子孙，最终陈家众人用勇气和爱找回酿酒秘方，捍卫了民族尊严，赢得与俄国人比赛的胜...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

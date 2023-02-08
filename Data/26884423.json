@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "等待野蛮人 En attendant les barbares",
+  "url": "/subject/26884423/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2519246871.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285360/",
+      "name": "尤金·格林 Eugène Green"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285360/",
+      "name": "尤金·格林 Eugène Green"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-11-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H15M",
+  "description": "Six strangers - fleeing hordes of much-feared, but never-glimpsed barbarians - seek refuge in the an...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

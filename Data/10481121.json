@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "尸控警戒 Redcon-1",
+  "url": "/subject/10481121/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522223495.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478210/",
+      "name": "张志强 Chee Keong Cheung"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-09-28",
+  "genre": ["\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "",
+  "description": "一批特种部队士兵被送往一座活死人佔据的城市执行自杀任务，目标是救出一名掌握人类存亡关键的科学家。究竟他们能否顺利完成任务？人类的未来就看这一战！",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1129",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

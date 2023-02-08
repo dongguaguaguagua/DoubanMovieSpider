@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "欢喜社区 News From Neigborhood",
+  "url": "/subject/30203033/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559635078.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1094413/",
+      "name": "斯坦芬·卢卡 Stephan Luca"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1138512/",
+      "name": "Julia Richter Julia Richter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005122/",
+      "name": "费莉西塔斯·沃尔 Felicitas Woll"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H27M",
+  "description": "从家庭Börner搬进他们在Grünfeld的新家已经一年过去了。与此同时，所有家里的四个人都已经适应了当地的环境，受益于定居生活的节奏，并于周边奇怪的邻居建立了友好关系。但是Jan和Anne依然没有...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "68",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "四人组 Flock of Four",
+  "url": "/subject/27200992/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505207260.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127385/",
+      "name": "迈克尔·纳德 Michael Nader"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384411/",
+      "name": "Gregory Caruso Gregory Caruso"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004898/",
+      "name": "布里登·勒马斯特斯 Braeden Lemasters"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252786/",
+      "name": "尤赖亚·谢尔顿 Uriah Shelton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247044/",
+      "name": "迪伦·莱利·斯奈德 Dylan Riley Snyder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1077481/",
+      "name": "雷格·E·凯蒂 Reg E. Cathey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1238165/",
+      "name": "肖恩·哈珀 Shane Harper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352135/",
+      "name": "加特林 葛宁 Gatlin Green"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406555/",
+      "name": "艾萨克·杰伊 Isaac Jay"
+    }
+  ]
+,
+  "datePublished": "2017-10-28",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u97f3\u4e50", "\u5386\u53f2", "\u5192\u9669"],
+  "duration": "PT1H20M",
+  "description": "Four best friends search for a legendary jazz musician on Central Avenue, Los Angeles in 1959.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "莫娣 Maudie",
+  "url": "/subject/25938803/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2431089276.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300355/",
+      "name": "艾斯林·沃什 Aisling Walsh"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368259/",
+      "name": "谢丽·怀特 Sherry White"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044915/",
+      "name": "莎莉·霍金斯 Sally Hawkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018984/",
+      "name": "伊桑·霍克 Ethan Hawke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000118/",
+      "name": "卡瑞·玛切特 Kari Matchett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296049/",
+      "name": "加布里埃尔·罗斯 Gabrielle Rose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007095/",
+      "name": "扎卡里·贝内特 Zachary Bennett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118324/",
+      "name": "比利·麦克莱伦 Billy MacLellan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377951/",
+      "name": "劳伦斯·巴里 Lawrence Barry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1115191/",
+      "name": "格雷戈·马龙 Greg Malone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327981/",
+      "name": "玛丝·伯纳德 Marthe Bernard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377952/",
+      "name": "大卫·菲恩 David Feehan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360778/",
+      "name": "凯特·罗斯 Kate Ross"
+    }
+  ]
+,
+  "datePublished": "2016-09-02",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT1H55M",
+  "description": "真人真事改编，描述在加拿大美丽的大西洋省份新斯科舍省（Nova Scotia），一位患有关节炎的民间艺术家莫娣·刘易斯(Maud Lewis)，对艺术不懈的追求，与她的丈夫相识，并以艺术、贩卖作品为生...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "125934",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "9.1"
+  }
+}

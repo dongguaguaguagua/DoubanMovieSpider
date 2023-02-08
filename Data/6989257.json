@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迅雷突袭 Thunder Run",
+  "url": "/subject/6989257/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300732/",
+      "name": "西蒙·韦斯特 Simon West"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293241/",
+      "name": "肯·诺兰 Ken Nolan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294752/",
+      "name": "罗伯特·大卫·波特 Robert David Port"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u6218\u4e89"],
+  "duration": "",
+  "description": "975人成功拿下一座500万人口的城市，这是2003年伊拉克战争期间美军创造的一项现代战争史上的奇迹。2003年4月，美军兵临巴格达城下，指挥部放弃了稳固包围然后夺取巴格达的计划，转而下达了单刀直入、...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "赏金 The Reward",
+  "url": "/subject/30204593/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298823/",
+      "name": "Kamal Tabrizi Kamal Tabrizi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H36M",
+  "description": "影片讲述了人性抉择的故事。女孩考上了自己梦寐以求的艺术学校却因为没钱不能如愿。这时劣迹斑斑的哥哥出现在自己的面前，哥哥因为坏事做多而被通缉。女孩到底应该举报哥哥拿到赏金去上学还是珍惜家人团聚的短暂时光...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

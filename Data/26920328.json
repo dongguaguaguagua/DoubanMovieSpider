@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卖笑的蒂姆 Timm Thaler oder das verkaufte Lachen",
+  "url": "/subject/26920328/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2447829530.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025469/",
+      "name": "安德里亚斯·德里森 Andreas Dresen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042229/",
+      "name": "Alexander Adolph Alexander Adolph"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1103631/",
+      "name": "James Krüss James Krüss"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037141/",
+      "name": "尤斯图斯·冯·多赫纳尼 Justus von Dohnányi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000864/",
+      "name": "阿克西尔·普拉尔 Axel Prahl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1201328/",
+      "name": "查理·哈纳 Charly Hübner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404031/",
+      "name": "阿韦德·弗里斯 Arved Friese"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385308/",
+      "name": "达恩·伦纳德·利布伦茨 Daan Lennard Liebrenz"
+    }
+  ]
+,
+  "datePublished": "2017-02-02",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead", "\u5192\u9669"],
+  "duration": "PT1H42M",
+  "description": "蒂姆是个从小失去母亲的孩子，父亲再娶后，他经常受到继母的虐待，这令他的生活分外压抑，只有星期天由爸爸陪着去赛马场时才感到快乐。不幸的是，他的爸爸不久在建筑工地上被木板砸死了，他失去了唯一的温暖和安慰。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "375",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

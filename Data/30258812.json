@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绝命逃亡 Eye for an Eye",
+  "url": "/subject/30258812/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2526397011.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1107770/",
+      "name": "George Kaplan George Kaplan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393379/",
+      "name": "John Demakas John Demakas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393373/",
+      "name": "威廉·W·巴伯 William W. Barbour"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1248924/",
+      "name": " William Ramos Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189926/",
+      "name": "David Chattam David Chattam"
+    }
+  ]
+,
+  "datePublished": "2019-03-27",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H31M",
+  "description": "影片讲述了前CIA成员因为手握重要情报，遭到了各方势力的追杀的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

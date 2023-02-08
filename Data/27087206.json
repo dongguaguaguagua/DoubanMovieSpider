@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "富丽秀 National Theatre Live: Follies",
+  "url": "/subject/27087206/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2493916408.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366161/",
+      "name": "多米尼克·库克 Dominic Cooke"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-11-16",
+  "genre": ["\u6b4c\u821e"],
+  "duration": "PT2H32M",
+  "description": "Stephen Sondheim’s legendary musical is staged for the first time at the National Theatre and broadc...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1335",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.8"
+  }
+}

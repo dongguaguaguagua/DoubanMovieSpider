@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寻找黎明 The Dawnseeker",
+  "url": "/subject/30301067/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531109691.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326118/",
+      "name": "Ordan Matlock Ordan Matlock"
+    }
+  ]
+,
+  "datePublished": "2018-08-16",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H22M",
+  "description": "In 2245, the Earth’s sun has dwindled and no longer provides the energy needed to sustain human life...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "287",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.5"
+  }
+}

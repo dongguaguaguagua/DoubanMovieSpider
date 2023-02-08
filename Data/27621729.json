@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "挪威乐队 Los Bando",
+  "url": "/subject/27621729/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554628839.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353393/",
+      "name": "乔纳斯·霍夫·奥夫特布洛 Jonas Hoff Oftebro"
+    }
+  ]
+,
+  "datePublished": "2018-02-16",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H34M",
+  "description": "Los Bando Immortale is a crazy road movie about a young band from Norway who set out on a journey ac...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

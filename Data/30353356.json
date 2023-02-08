@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "韬瓴秘术",
+  "url": "/subject/30353356/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2584497389.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340821/",
+      "name": "杨竣羽 Junyu Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365460/",
+      "name": "彭静 Jing Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342292/",
+      "name": "刘倬廷 Zhuoting Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350241/",
+      "name": "戴子翔 Zixiang Dai"
+    }
+  ]
+,
+  "datePublished": "2018-10-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "武德四年，吐谷浑小王子掌灯为了躲避哥哥的追杀，带着兵书《秘术》和国王扳指潜逃至长安，在危难之时偶遇了李御风。大王子勾结李元吉，化妆成商队潜入长安，并设计引掌灯现身。李御风为了友情，展开了对掌灯的营救。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

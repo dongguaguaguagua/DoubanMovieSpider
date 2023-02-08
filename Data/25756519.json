@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Deserted",
+  "url": "/subject/25756519/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2519095643.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335691/",
+      "name": "金伯利·惠伦 Kimberly Whalen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451257/",
+      "name": "Meredith Shank Meredith Shank"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

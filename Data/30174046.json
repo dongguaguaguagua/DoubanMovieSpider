@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Rainbow Fields",
+  "url": "/subject/30174046/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2516780274.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390340/",
+      "name": "纳库·韦德 Nakul Vaid"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

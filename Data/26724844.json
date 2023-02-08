@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2016年东方卫视春节联欢晚会",
+  "url": "/subject/26724844/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2318239826.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354597/",
+      "name": "陈观慧 Guanhui Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1138836/",
+      "name": "雅沙·里克特 Jascha Richter"
+    }
+  ]
+,
+  "datePublished": "2016-02-08",
+  "genre": ["\u6b4c\u821e", "\u5bb6\u5ead"],
+  "duration": "PT6H0M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

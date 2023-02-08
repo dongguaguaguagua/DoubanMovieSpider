@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Rouges étaient les lilas",
+  "url": "/subject/33441998/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555956197.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054475/",
+      "name": "让-皮埃尔·莫基 Jean-Pierre Mocky"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054475/",
+      "name": "让-皮埃尔·莫基 Jean-Pierre Mocky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1219189/",
+      "name": " Frédéric Dieudonné"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040503/",
+      "name": "德尔菲娜·尚内亚克 Delphine Chanéac"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387670/",
+      "name": "爱丽丝·杜富尔 Alice Dufour"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1063871/",
+      "name": "玛丽安娜·巴斯莱 Marianne Basler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1090080/",
+      "name": "格拉丝·德卡皮塔尼 Grace De Capitani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048449/",
+      "name": "多米尼克·拉冯纳特 Dominique Lavanant"
+    }
+  ]
+,
+  "datePublished": "2016-10-14",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

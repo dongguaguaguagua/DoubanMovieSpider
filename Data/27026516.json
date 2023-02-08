@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我不是女巫 I Am Not a Witch",
+  "url": "/subject/27026516/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2504856252.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355041/",
+      "name": "伦加诺·尼奥尼 Rungano Nyoni"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355041/",
+      "name": "伦加诺·尼奥尼 Rungano Nyoni"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267034/",
+      "name": "格洛丽亚·胡威勒 Gloria Huwiler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385589/",
+      "name": "玛姬·穆鲁巴 Maggie Mulubwa"
+    }
+  ]
+,
+  "datePublished": "2017-05-25",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H33M",
+  "description": "在赞比亚的偏远村庄，时常沉默的小女孩舒拉突然被指控为女巫，她必须选择加入女巫群体，否则便会化身成一只山羊。《我不是女巫》是出生于赞比亚，成长于威尔士的导演朗加诺·尼奥尼为我们描述的一个大胆讽刺性别偏见...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "372",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

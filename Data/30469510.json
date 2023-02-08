@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "开错车 Wrong Side of the Tracks",
+  "url": "/subject/30469510/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2574225141.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1106508/",
+      "name": "马库斯·艾尔 Marcus Iron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279867/",
+      "name": "雪伦·凯恩 Sharon Kane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308766/",
+      "name": "Trevor Knight Trevor Knight"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236216/",
+      "name": " Tyler Riggz"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u540c\u6027", "\u72af\u7f6a"],
+  "duration": "PT2H0M",
+  "description": "2 young women looking for a weekend of fun get more than they bargained for on the &#39;Wrong Side of Th...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

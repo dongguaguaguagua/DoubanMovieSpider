@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "午夜惊魂梦 Minutes Past Midnight",
+  "url": "/subject/26879127/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2382845652.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376179/",
+      "name": "欧文·麦克唐纳 Owen McDonnell"
+    }
+  ]
+,
+  "datePublished": "2016-10-18",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H38M",
+  "description": "As midnight falls, all manner of terror invades the Earth. Demons, cannibals, killers, ghosts and mo...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无间父子情",
+  "url": "/subject/27073034/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530603996.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403023/",
+      "name": "赵京 Jing Zhao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328605/",
+      "name": "侯岩松 Yansong Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387373/",
+      "name": "张捷 Jie Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449100/",
+      "name": "赵少康 Shaokang Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327428/",
+      "name": "赵小川 Xiaochuan Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318698/",
+      "name": "赵雍 Yong Zhao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H31M",
+  "description": "陈保丰二十年卧底警察，不辜负神圣盾牌。为打入贩毒内部，不惜尝试毒品。为严守纪律、保守秘密，不惜被家人朋友误解，维护社会平安、宪法尊严，不惜以付出生命为代价。完成他作为一名警察的崇高使命,捍卫忠诚诺言。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

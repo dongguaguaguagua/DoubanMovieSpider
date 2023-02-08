@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "欢·爱",
+  "url": "/subject/22621034/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1902629181.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359744/",
+      "name": "黄尧 Yao Huang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359744/",
+      "name": "黄尧 Yao Huang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274230/",
+      "name": "郭晓东 Xiaodong Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050430/",
+      "name": "余男 Nan Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326628/",
+      "name": "应岱臻 Alex Ying"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346566/",
+      "name": "孙怡 Yi Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411260/",
+      "name": "裘晓洁 Xiaojie Qiu"
+    }
+  ]
+,
+  "datePublished": "2016-01-22",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "电影讲述了成熟女人胡雅婕（余男 饰）和青涩男孩江南（应岱臻 饰）的虐恋伦理故事，以及中年熟男江南（郭晓冬 饰）和小萝莉胡雅婕（孙怡 饰）的忘年恋。人物之间错综的关系通过蒙太奇的叙事方式跨越时间和空间维...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "245",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

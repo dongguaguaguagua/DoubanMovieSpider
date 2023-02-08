@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "包宿",
+  "url": "/subject/27073026/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381906/",
+      "name": "罗欣馨 Xinxin Luo"
+    }
+  ]
+,
+  "datePublished": "2017-06-16",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H26M",
+  "description": "一间县份的黑网吧内，魏何像往常一样在网吧一边看着自己喜欢的女神鱼小宝直播一边守夜。伴随着12点的到来，魏何拉下了卷帘门，却不知道厕所里的王老二和李狗蛋正预谋着抢劫网吧弄点吃饭的钱。刚在白天抢劫完XX珠...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

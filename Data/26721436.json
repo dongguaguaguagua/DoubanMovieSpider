@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Le Accelerator",
+  "url": "/subject/26721436/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2315865106.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010775/",
+      "name": "大卫·樱井 David Sakurai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1242497/",
+      "name": "Darren Burridge Darren Burridge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055212/",
+      "name": "达·范·汉森德 Dan van Husen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037232/",
+      "name": "吉姆·范贝贝尔 Jim Van Bebber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1139076/",
+      "name": "Bobby Rhodes Bobby Rhodes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101459/",
+      "name": "Erik Holmey Erik Holmey"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "",
+  "description": "An assassin goes on a spiritual journey. The fear of death follows from the the fear of life. A man ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

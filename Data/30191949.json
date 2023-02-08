@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "相忘于江湖",
+  "url": "/subject/30191949/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2679848694.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320878/",
+      "name": "海涛 Tao Hai"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337025/",
+      "name": "寇智国 Zhiguo Kou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365460/",
+      "name": "彭静 Jing Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391376/",
+      "name": "李常宏 Changhong Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301368/",
+      "name": "许凝 Rick Xu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H26M",
+  "description": "凌霄和烈无双曾是江湖上一对令人艳羡的侠侣，他们与孟保元相识于微时，凌霄与孟保元惺惺相惜，成为结拜兄弟，孟保元心有雄图大志，希望凌霄和烈无双能够辅佐自己登上皇位，建一个太平盛世。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

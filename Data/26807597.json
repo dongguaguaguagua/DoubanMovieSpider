@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "风吹心头 心に吹く風",
+  "url": "/subject/26807597/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2634518501.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021527/",
+      "name": "尹锡湖 Seok-ho Yun"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021527/",
+      "name": "尹锡湖 Seok-ho Yun"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394419/",
+      "name": "驹井莲 Ren Komai"
+    }
+  ]
+,
+  "datePublished": "2017-03-04",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H47M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

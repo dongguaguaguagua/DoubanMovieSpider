@@ -1,0 +1,101 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "动物之家婚礼记 Gaspard va au mariage",
+  "url": "/subject/26789070/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509387495.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281276/",
+      "name": "安东尼·寇迪耶 Antony Cordier"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281276/",
+      "name": "安东尼·寇迪耶 Antony Cordier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338363/",
+      "name": "朱莉·皮耶尔 Julie Peyr"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412930/",
+      "name": "娜塔丽·纳杰姆 Nathalie Najem"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321393/",
+      "name": "费利克斯·莫阿蒂 Félix Moati"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387960/",
+      "name": "利蒂希亚·多施 Laetitia Dosch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009784/",
+      "name": "克丽丝塔·特瑞特 Christa Theret"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005164/",
+      "name": "玛琳娜·佛伊丝 Marina Foïs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286385/",
+      "name": "约翰·海尔登贝格 Johan Heldenbergh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325344/",
+      "name": "纪尧姆·谷伊 Guillaume Gouix"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000471/",
+      "name": "埃洛迪·布歇 Élodie Bouchez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390697/",
+      "name": "艾尔莎·霍本 Elsa Houben"
+    }
+  ]
+,
+  "datePublished": "2017-10-23",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H45M",
+  "description": "法国金奖提名导演安东尼寇迪耶动物系喜剧。《印象雷诺瓦》克莉丝塔特瑞特熊性大发，凯萨奖法国当红小生菲利斯莫阿提喜感演出。
+新鲜、难得一见的动物、人与家族的爱情喜剧！我们一家都是动物系，相爱相撕，与生自由...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "517",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

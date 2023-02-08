@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "盲眼杀机 Blindsided",
+  "url": "/subject/27169612/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2621493731.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049820/",
+      "name": "路易·曼迪勒 Louis Mandylor"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049820/",
+      "name": "路易·曼迪勒 Louis Mandylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049669/",
+      "name": "科斯塔斯·曼迪勒 Costas Mandylor"
+    }
+  ]
+,
+  "datePublished": "2017-01-01",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "眼盲的教授杰克经历了一场极具实验性的手术来恢复视力，但捐赠给他的那双眼睛却是来自一位心狠手辣的杀人魔，彷彿被附身的杰克因此性情大变，而他的妻子也被迫面临这失控的一切。
+",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "189",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

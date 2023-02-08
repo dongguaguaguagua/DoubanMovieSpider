@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "7:02死亡派对 7:02 Only the Righteous",
+  "url": "/subject/30257624/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2555061525.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174229/",
+      "name": "卡琳娜·博纳菲尔 Karina Bonnefil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385742/",
+      "name": "斯泰西·安·萝丝 Stacy Ann Rose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1256984/",
+      "name": "尼古拉斯·西蒙斯 Nicholas Simmons"
+    }
+  ]
+,
+  "datePublished": "2018-03-27",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H14M",
+  "description": "The party was supposed to start at 7:02 pm. It was election night 2008. The first African- American ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

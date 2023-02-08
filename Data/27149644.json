@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阴阳小子",
+  "url": "/subject/27149644/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2503256696.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274420/",
+      "name": "吴启华 Lawrence Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323750/",
+      "name": "王兆祥 Zhaoxiang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314911/",
+      "name": "涂黎曼 Liman Tu"
+    }
+  ]
+,
+  "datePublished": "2017-09-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H1M",
+  "description": "毛小凤天生有种怪病，不能接近女色，进入大学之后跟损友一起偷看洗澡，结果无意中开启“阴阳眼”。从此以后，毛小凤能够看见很多常人看不见的“东西”。校园里连发诡异死亡事件，毛小凤卷入其中，发现事情并不是表面...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

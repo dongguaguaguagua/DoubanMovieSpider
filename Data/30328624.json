@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "五卢比恩仇录 Aravindha Sametha Veera Raghava",
+  "url": "/subject/30328624/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2534467774.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339224/",
+      "name": "Trivikram Srinivas Trivikram Srinivas"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339224/",
+      "name": "Trivikram Srinivas Trivikram Srinivas"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358884/",
+      "name": "普嘉·海婅 Pooja Hegde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1203592/",
+      "name": "小老虎 Junior N.T.R."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366456/",
+      "name": "苏尼尔 Suneel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391797/",
+      "name": "布拉玛吉 Brahmaji"
+    }
+  ]
+,
+  "datePublished": "2018-10-10",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT2H42M",
+  "description": "Two villages in Rayalaseema, Nallagudi and Kommadi are engaged in a feud for decades lead by Basi Re...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

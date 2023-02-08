@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血浆故事会 Herschell Gordon Lewis&#39; BloodMania",
+  "url": "/subject/27072769/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2464368432.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019203/",
+      "name": "赫舍尔·戈登·刘易斯 Herschell Gordon Lewis"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019203/",
+      "name": "赫舍尔·戈登·刘易斯 Herschell Gordon Lewis"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-07-01",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H36M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

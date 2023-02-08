@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "为情所困 Éperdument",
+  "url": "/subject/26313641/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2336452640.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414332/",
+      "name": "皮埃尔·戈多 Pierre Godeau"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414332/",
+      "name": "皮埃尔·戈多 Pierre Godeau"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328876/",
+      "name": "阿黛尔·艾克萨勒霍布洛斯 Adèle Exarchopoulos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1093702/",
+      "name": "圭洛姆·加里尼 Guillaume Gallienne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037492/",
+      "name": "玛丽·里维埃 Marie Rivière"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358264/",
+      "name": "斯蒂芬妮·科蕾欧 Stéphanie Cléau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411645/",
+      "name": "索玛耶·博库姆 Soumaye Bocoum"
+    }
+  ]
+,
+  "datePublished": "2016-03-02",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H50M",
+  "description": "Une histoire d&#39;amour en prison, entre le directeur de prison et la détenue...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "966",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

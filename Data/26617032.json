@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "另一半 The Other Half",
+  "url": "/subject/26617032/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2393385497.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336869/",
+      "name": "乔伊·克莱恩 Joey Klein"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336869/",
+      "name": "乔伊·克莱恩 Joey Klein"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1225652/",
+      "name": "塔提阿娜·玛斯拉尼 Tatiana Maslany"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316843/",
+      "name": "汤姆·库伦 Tom Cullen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007013/",
+      "name": "亨利·科泽尼 Henry Czerny"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280933/",
+      "name": "苏珊娜·克莱蒙 Suzanne Clément"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027411/",
+      "name": "马克·兰道尔 Mark Rendall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339272/",
+      "name": "黛拉格·坎贝尔 Deragh Campbell"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "A bipolar woman and a grief-stricken man struggle to forge a simple life.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

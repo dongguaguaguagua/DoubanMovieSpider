@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红线2017",
+  "url": "/subject/27034899/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2464048648.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375905/",
+      "name": "王野 Ye Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375906/",
+      "name": "贺志诚 Zhicheng He"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313559/",
+      "name": "郝平 Ping Hao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318425/",
+      "name": "张潮 Chao Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375907/",
+      "name": "陈奕鸣 Yiming Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375908/",
+      "name": "王一峰 Yifeng Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364679/",
+      "name": "李思睿 Sirui Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375909/",
+      "name": "张京海 Jinghai Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375910/",
+      "name": "张万喆 Wanzhe Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352739/",
+      "name": "刘冠霖 Guanlin Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375911/",
+      "name": "王波 Bo Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375912/",
+      "name": "彭龙 Long Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422726/",
+      "name": "郑鑫 Xin Zheng"
+    }
+  ]
+,
+  "datePublished": "2017-06-22",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H46M",
+  "description": "著名上市公司车间失火，瞒报重大人员伤亡；副市长充当保护伞，只手遮天意图掩盖真相；抢劫、凶杀、围攻政府接踵而至……《红线2017》改编自真实事件，以一名安监局长需要在72小时内解决3起不同类型的安全事故...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

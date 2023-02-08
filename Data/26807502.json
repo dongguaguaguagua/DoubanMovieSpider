@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "撒坦 Satanic",
+  "url": "/subject/26807502/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2356982380.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005790/",
+      "name": "杰弗里·G.亨特 Jeffrey G. Hunt"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303384/",
+      "name": "安东尼·贾斯温斯基 Anthony Jaswinski"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036376/",
+      "name": "萨拉·海蓝德 Sarah Hyland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322431/",
+      "name": "斯蒂文·克鲁格 Steven Krueger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018021/",
+      "name": "全知泰 Justin Chon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345257/",
+      "name": "苏菲·杜拉 Sophie Dalah"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005790/",
+      "name": "杰弗里·G.亨特 Jeffrey G. Hunt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215402/",
+      "name": "吉姆·杰普森 Jim Jepson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1190743/",
+      "name": "德瓦尼·平 Devanny Pinn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358376/",
+      "name": "克莱拉·马梅特 Clara Mamet"
+    }
+  ]
+,
+  "datePublished": "2016-07-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "Four friends on their way to Coachella stop off in Los Angeles to tour true-crime occult sites, only...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "114",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.5"
+  }
+}

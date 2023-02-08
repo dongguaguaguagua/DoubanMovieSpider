@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "坚不可摧 Tough as They Come",
+  "url": "/subject/26948405/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2618035318.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047996/",
+      "name": "西尔维斯特·史泰龙 Sylvester Stallone"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047996/",
+      "name": "西尔维斯特·史泰龙 Sylvester Stallone"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u4f20\u8bb0", "\u6218\u4e89"],
+  "duration": "",
+  "description": "西尔维斯特·史泰龙、亚当·德赖弗联袂出演新片《坚不可摧》(Tough as They Come，暂译)，史泰龙还将任该片导演。影片根据美国军人特拉维斯·米尔斯的回忆录改编，讲述了米尔斯经历过惨痛战争后...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

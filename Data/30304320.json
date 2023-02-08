@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神威女骑士·阿尔忒弥斯2 マイティーナイト・アルテミス2",
+  "url": "/subject/30304320/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2574601430.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370095/",
+      "name": "莲实克蕾儿 Kurea Hasumi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364350/",
+      "name": "春原未来 Miki Sunohara"
+    }
+  ]
+,
+  "datePublished": "2018-07-22",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "PT1H15M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "罗马 Roma",
+  "url": "/subject/1950330/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555541430.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036409/",
+      "name": "阿方索·卡隆 Alfonso Cuarón"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036409/",
+      "name": "阿方索·卡隆 Alfonso Cuarón"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400464/",
+      "name": "雅利扎·阿巴里西奥 Yalitza Aparicio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282087/",
+      "name": "玛丽娜·德·塔维拉 Marina de Tavira"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406782/",
+      "name": "迭戈·科蒂娜·奥特里 Diego Cortina Autrey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406783/",
+      "name": "卡洛斯·佩拉尔塔 Carlos Peralta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406784/",
+      "name": "马科·格拉夫 Marco Graf"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406785/",
+      "name": "丹妮拉·德米萨 Daniela Demesa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406786/",
+      "name": "南茜·加西亚 Nancy García"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406787/",
+      "name": "维罗妮卡·加西亚 Verónica García"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406788/",
+      "name": "安迪·科特斯 Andy Cortés"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406789/",
+      "name": "费尔南多·格雷迪亚加 Fernando Grediaga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406790/",
+      "name": "豪尔赫·安东尼奥·格雷罗 Jorge Antonio Guerrero"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236799/",
+      "name": "拉丁·洛弗 Latin Lover"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439173/",
+      "name": "Enoc Leaño Enoc Leaño"
+    }
+  ]
+,
+  "datePublished": "2018-08-30",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT2H15M",
+  "description": "故事发生在墨西哥城的一个中产阶级社区“罗马”，讲述年轻女佣克里奥（雅利扎·阿巴里西奥饰）在雇主索菲亚（玛丽娜·德·塔维拉饰）家中工作，该家中索菲亚的丈夫长期在外，由女佣克里奥照顾索菲的四个孩子。突如其...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "141652",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.2"
+  }
+}

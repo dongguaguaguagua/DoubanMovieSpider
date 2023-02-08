@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯魔将至",
+  "url": "/subject/26966598/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2423137901.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368311/",
+      "name": "超越 Vincent Chao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368311/",
+      "name": "超越 Vincent Chao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327337/",
+      "name": "赵玉莹 Yuying Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423465/",
+      "name": "刘池树 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374309/",
+      "name": "赵子络 Ziluo Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321588/",
+      "name": "于东江 Dongjiang Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460862/",
+      "name": "黄甯诗 "
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "家族性遗传精神分裂症，一个恐怖的魔咒，盘桓在少女段艾的头顶，无法逃脱，令人绝望。母亲是在她这个岁数发病杀死了她的父亲；姥姥也是在她这个岁数发病勒死了她姥爷；姥姥的二姨同样在这个岁数发病枪杀亲夫……现在...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

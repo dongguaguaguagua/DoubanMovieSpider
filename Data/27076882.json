@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你是阿爸！ Lola Pater",
+  "url": "/subject/27076882/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2495029254.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292294/",
+      "name": "娜迪·穆奈殊 Nadir Moknèche"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292294/",
+      "name": "娜迪·穆奈殊 Nadir Moknèche"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002812/",
+      "name": "芬妮·阿尔丹 Fanny Ardant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329952/",
+      "name": "陶菲克·杰拉巴 Tewfik Jallab"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362914/",
+      "name": "让-亨利·康佩尔 Jean-Henri Compère"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481157/",
+      "name": "劳伦斯·瓦林 Lawrence Valin"
+    }
+  ]
+,
+  "datePublished": "2017-08-09",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H35M",
+  "description": "青年季诺在办完母亲的丧礼后，动身寻找当年抛弃妻子的渣父，却只找到疑似小三的肚皮舞娘萝拉。殊不知这位美丽的小三，二十五年前就是季诺要找的「他」。萝拉当年的绝情缺席，让季诺难以释怀。面对毫不知情的儿子，萝...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

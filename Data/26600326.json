@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Oxford",
+  "url": "/subject/26600326/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2518058211.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325786/",
+      "name": "埃利森·博耐特 Allison Burnett"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323409/",
+      "name": "梅莉莎·班诺伊 Melissa Benoist"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1182341/",
+      "name": "萨姆·修汉 Sam Heughan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "Soon after arriving at Oxford U, an American Rhodes Scholar student falls for an arrogant teaching a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

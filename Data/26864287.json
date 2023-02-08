@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "风的触摸 Prikosnovenie vetra",
+  "url": "/subject/26864287/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2499251202.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1058795/",
+      "name": "尤利娅·奥格 Yuliya Aug"
+    }
+  ]
+,
+  "datePublished": "2016-08-07",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u60ac\u7591"],
+  "duration": "PT1H17M",
+  "description": "A TOUCH OF WIND - a new Russian experimental film, which combines fiction and documentary scenes in ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

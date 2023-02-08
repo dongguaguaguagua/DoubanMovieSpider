@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "浮世千",
+  "url": "/subject/26869903/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2385432909.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393712/",
+      "name": "魏书钧 Shujun Wei"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006702/",
+      "name": "王超 Chao Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327120/",
+      "name": "唐小然 Xiaoran Tang"
+    }
+  ]
+,
+  "datePublished": "2016-10-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "影片讲述了李亦欢、文杰、杨丹三个年轻人的一场青春梦。经常厮混在一起的三人，随着富二代李亦欢的破产，走头无路的他们踏上了逃难之旅。一路的逃亡也是三个年轻人打开心扉、自我寻找的旅途。一次情感的交融，在各自...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

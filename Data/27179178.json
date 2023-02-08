@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "豹之子 Son of Jaguar",
+  "url": "/subject/27179178/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2503022756.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307267/",
+      "name": "豪尔赫·R·古铁雷斯 Jorge R. Gutierrez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018596/",
+      "name": "简·皮克瓦 Jan Pinkava"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307267/",
+      "name": "豪尔赫·R·古铁雷斯 Jorge R. Gutierrez"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307267/",
+      "name": "豪尔赫·R·古铁雷斯 Jorge R. Gutierrez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1179939/",
+      "name": "Luis Albert Acevedo Jr. Luis Albert Acevedo Jr."
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u753b"],
+  "duration": "PT0H9M",
+  "description": "曾经强大的蒙面摔跤手豹之子，在他生命中最重要的比赛中，需要面临他的未来，他的家人，和什么才是自己人生中最重要的选择……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

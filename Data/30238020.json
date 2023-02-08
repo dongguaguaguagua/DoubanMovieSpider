@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "五台山儿女英雄传",
+  "url": "/subject/30238020/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523806823.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350127/",
+      "name": "杜晓天 Xiaotian Du"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350127/",
+      "name": "杜晓天 Xiaotian Du"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337948/",
+      "name": "薛斐 Fei Xue"
+    }
+  ]
+,
+  "datePublished": "2018-08-01",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H37M",
+  "description": "在到五台山的国道旁，有一座看上不去不太起眼的滑石片战役纪念碑，镌刻着1938年这里发生了一场激烈的战斗，八路军歼灭了数百日寇，缴获了不少战利品，这个石碑看上去似乎也被人们淡忘很多年了。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

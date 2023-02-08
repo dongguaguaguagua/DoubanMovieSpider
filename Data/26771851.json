@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "孟买围城 The Siege",
+  "url": "/subject/26771851/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325342/",
+      "name": "贾斯汀·库泽尔 Justin Kurzel"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344819/",
+      "name": "安东尼·麦卡滕 Anthony McCarten"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "",
+  "description": "Mumbai, 2008. On the night of November 26, Lashkar-e-Toiba terrorists attacked targets throughout th...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

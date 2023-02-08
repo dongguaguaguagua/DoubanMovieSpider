@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "FE特工局",
+  "url": "/subject/27007681/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2508627405.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336344/",
+      "name": "房程程 Chengcheng Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351877/",
+      "name": "蒋欣奇 Xinqi Jiang"
+    }
+  ]
+,
+  "datePublished": "2017-12-29",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "《FE特工局》讲述了一段想象大胆的科幻故事：一个从小“天赋异禀”的女网红因为初恋卷入到一场特工纷争中！在这个过程中，她坚持自己的信念，不断的让自己努力成长，从一个网红转变为一个信念坚定的特工，从清纯可...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

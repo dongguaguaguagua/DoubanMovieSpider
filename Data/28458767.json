@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "如此疯狂的心 Dieses bescheuerte Herz",
+  "url": "/subject/28458767/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2511089827.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050507/",
+      "name": "马克·罗特蒙德 Marc Rothemund"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046020/",
+      "name": "玛吉·皮尔斯 Maggie Peren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330083/",
+      "name": "安迪·罗格哈根 Andi Rogenhagen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018334/",
+      "name": "埃利亚斯·穆巴里克 Elyas M&#39;Barek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369728/",
+      "name": "尤韦·普罗伊斯 Uwe Preuss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149743/",
+      "name": "尤根·汤克 Jürgen Tonkel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316362/",
+      "name": "麦克斯·阿伯蒂 Max Alberti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101746/",
+      "name": "Sebastian Gerold Sebastian Gerold"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187751/",
+      "name": "利奥波德·霍尔农 Leopold Hornung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1104165/",
+      "name": "乔·科恩 Jo Kern"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1239748/",
+      "name": " Lena Meckel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1155240/",
+      "name": "卡琳·泰勒 Karin Thaler"
+    }
+  ]
+,
+  "datePublished": "2017-12-21",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H44M",
+  "description": "An irresponsible man is forced by his father to take care of an ailing teanager.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "225",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

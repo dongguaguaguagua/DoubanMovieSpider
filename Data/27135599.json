@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "忽梦少年事",
+  "url": "/subject/27135599/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2564060560.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399562/",
+      "name": "张云鹤 Yunhe Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399562/",
+      "name": "张云鹤 Yunhe Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-06-04",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H22M",
+  "description": "你可能说你看不到五分钟，我只能说你错过了最后五分钟。
+有些人错过了就是一辈子，有些人爱上了也是一辈子。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

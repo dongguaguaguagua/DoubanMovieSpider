@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神秘工作 La mécanique de l&#39;ombre",
+  "url": "/subject/26948747/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2410361061.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460049/",
+      "name": "托马斯·克鲁伊托夫 Thomas Kruithof"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365749/",
+      "name": "雅恩·戈斯兰 Yann Gozlan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460049/",
+      "name": "托马斯·克鲁伊托夫 Thomas Kruithof"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376938/",
+      "name": "马克·西里加 Marc Syrigas"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050210/",
+      "name": "弗朗索瓦·克鲁塞 François Cluzet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048414/",
+      "name": "德尼·波达利德斯 Denis Podalydès"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045427/",
+      "name": "塞米·鲍亚吉拉 Sami Bouajila"
+    }
+  ]
+,
+  "datePublished": "2016-08-25",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H28M",
+  "description": "The unemployed Duval is contacted by a mysterious organization to transcribe intercepted calls. He a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "449",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

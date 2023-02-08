@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Alien Crystal Palace",
+  "url": "/subject/27602334/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2544431722.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048267/",
+      "name": "阿丽尔·朵巴丝勒 Arielle Dombasle"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283690/",
+      "name": "雅克·菲耶斯基 Jacques Fieschi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317471/",
+      "name": "约瑟芬·德·拉·波美 Joséphine de La Baume"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022553/",
+      "name": "让-皮埃尔·利奥德 Jean-Pierre Léaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048267/",
+      "name": "阿丽尔·朵巴丝勒 Arielle Dombasle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325754/",
+      "name": "乔安娜·普莱斯 Joana Preiss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354317/",
+      "name": "米歇尔·富 Michel Fau"
+    }
+  ]
+,
+  "datePublished": "2019-01-23",
+  "genre": ["\u6b4c\u821e"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

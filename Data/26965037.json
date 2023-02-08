@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "生日愿望 The Birthday Wish",
+  "url": "/subject/26965037/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2421540110.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040609/",
+      "name": "皮特·德路易斯 Peter DeLuise"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1183841/",
+      "name": "朱莉·佩罗特 Julie Perreault"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013941/",
+      "name": "洁西·斯克拉姆 Jessy Schram"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176931/",
+      "name": "卢克·马可法莱恩 Luke Macfarlane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349335/",
+      "name": "马库斯·罗斯纳 Marcus Rosner"
+    }
+  ]
+,
+  "datePublished": "2017-01-21",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H24M",
+  "description": "Gwen, a director of television commercials, has mapped out her life in an attempt to be in control. ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

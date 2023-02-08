@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "尸鬼 Draug",
+  "url": "/subject/27188117/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503920430.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1093502/",
+      "name": "Thomas Hedengran Thomas Hedengran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349699/",
+      "name": "马蒂·博斯泰特 Matti Boustedt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424041/",
+      "name": "艾娜·卡尔森 Elna Karlsson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424082/",
+      "name": "妮娜·菲尼莫什基娜 Nina Filimoshkina"
+    }
+  ]
+,
+  "datePublished": "2017-11-11",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "In the 11th century a missionary goes missing somewhere in the huge forests bordering the northern p...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

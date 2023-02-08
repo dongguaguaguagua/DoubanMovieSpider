@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "孤岛游戏",
+  "url": "/subject/26846758/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2371014350.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326725/",
+      "name": "张馨心 Xinxin Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364941/",
+      "name": "王永峰 Yongfeng Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H0M",
+  "description": "亚丽等人参加了一个荒岛生存的游戏，本来以为是一个普通的小清新的活动，但他们很快发现这一切并不简单，自己的同伴似乎是经过精心挑选的，几人的行动轨迹也被安排过，夜幕降临整个小岛开始变化，怪物出现，同伴开始...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

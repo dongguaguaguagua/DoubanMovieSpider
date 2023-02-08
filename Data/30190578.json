@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "多英 다영씨",
+  "url": "/subject/30190578/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540131466.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462102/",
+      "name": "高奉秀 Ko Bong Soo"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447983/",
+      "name": "申敏宰 Shin Min jae"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H2M",
+  "description": "宅男送貨員Min-jae開著他的摩托車，偶爾迷路或失手派錯件，每天只為送件予他暗戀的年輕 OL Da-young ，但總是不敢直望著女神。另一方面，Da-young覺得自己在公司無前途，老闆不會給她升...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

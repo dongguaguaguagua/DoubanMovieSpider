@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "3 Dev",
+  "url": "/subject/30210374/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2520989052.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278582/",
+      "name": "Asad Bhopali Asad Bhopali"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010834/",
+      "name": "Karan Singh Grover Karan Singh Grover"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339129/",
+      "name": "Siddharth Roy Kapur Siddharth Roy Kapur"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050395/",
+      "name": "凯·凯·门农 Kay Kay Menon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307426/",
+      "name": "蒂丝卡·乔普拉 Tisca Chopra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1141468/",
+      "name": "拉伊玛·森 Raima Sen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1073187/",
+      "name": "普罗森吉特· 查特吉 Prasenjit Chatterjee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424455/",
+      "name": "普佳·玻色 Puja Bose"
+    }
+  ]
+,
+  "datePublished": "2018-06-01",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

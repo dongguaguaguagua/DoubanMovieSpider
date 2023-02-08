@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "达尼·布恩：我来自法国北方 Dany Boon: Des Hauts-De-France",
+  "url": "/subject/30210680/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2532037591.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009442/",
+      "name": "丹尼·伯恩 Dany Boon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009442/",
+      "name": "丹尼·伯恩 Dany Boon"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-05-04",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的校花妹妹3",
+  "url": "/subject/26786437/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2346584442.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374565/",
+      "name": "代艺霖 Yilin Dai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352990/",
+      "name": "王博 Bo Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352990/",
+      "name": "王博 Bo Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352990/",
+      "name": "王博 Bo Wang"
+    }
+  ]
+,
+  "datePublished": "2016-05-06",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H25M",
+  "description": "《我的校花妹妹3》讲述的是一个再婚家庭关于兄妹之间爱情的故事，经历了种种事件后，这对儿没有血缘关系的兄妹终于在一起了，但是事情却没有那么顺利，朋友田晓的重病，公司的危机，都时刻影响着这对儿兄妹的感情，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

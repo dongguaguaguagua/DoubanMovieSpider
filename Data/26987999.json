@@ -1,0 +1,130 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿曼达 Amanda",
+  "url": "/subject/26987999/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2556683772.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006274/",
+      "name": "米夏埃尔·艾斯 Mikhaël Hers"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347582/",
+      "name": "莫德·阿美林 Maud Ameline"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006274/",
+      "name": "米夏埃尔·艾斯 Mikhaël Hers"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325955/",
+      "name": "文森特·拉科斯特 Vincent Lacoste"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419404/",
+      "name": "伊苏尔·穆特里尔 Isaure Multrier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334729/",
+      "name": "斯塔西·马汀 Stacy Martin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376534/",
+      "name": "欧菲莉亚·科尔布 Ophélia Kolb"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1063871/",
+      "name": "玛丽安娜·巴斯莱 Marianne Basler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332591/",
+      "name": "乔纳森·科恩 Jonathan Cohen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389624/",
+      "name": "娜比哈·阿卡瑞 Nabiha Akkari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004699/",
+      "name": "格列塔·斯卡奇 Greta Scacchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419405/",
+      "name": "巴卡里·桑加雷 Bakary Sangaré"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339836/",
+      "name": "克莱尔·陈 Claire Tran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014657/",
+      "name": "埃莉·梅黛洛斯 Elli Medeiros"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346464/",
+      "name": "柔伊·布鲁诺 Zoé Bruneau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357701/",
+      "name": "拉斐尔·蒂里 Raphaël Thierry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481157/",
+      "name": "劳伦斯·瓦林 Lawrence Valin"
+    }
+  ]
+,
+  "datePublished": "2018-08-31",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H47M",
+  "description": "Mikhael Hers执导的[阿曼达](Amanda，暂译)将于8月2日开机。该片由斯塔西·马汀([敬畏])、文森特·拉科斯特([希波克拉底])主演。影片故事发生在巴黎，20岁的大卫是个活在当下的空...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2943",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

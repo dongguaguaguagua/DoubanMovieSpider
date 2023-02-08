@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "埃兹拉 Ezra",
+  "url": "/subject/27025004/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2455961538.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1204177/",
+      "name": "普利特维拉吉·苏库玛兰 Prithviraj Sukumaran "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387115/",
+      "name": "普莱亚·阿南德 Priya Anand"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426794/",
+      "name": "托维诺·托马斯 Tovino Thomas"
+    }
+  ]
+,
+  "datePublished": "2017-02-10",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT2H27M",
+  "description": "A newly married woman brings an antique Jewish box into her home, unaware that the box contains the ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

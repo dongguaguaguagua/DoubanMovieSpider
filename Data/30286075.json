@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Dansa först",
+  "url": "/subject/30286075/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529383918.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429980/",
+      "name": "乔安娜·科隆 Johanna Colón"
+    }
+  ]
+,
+  "datePublished": "2018-07-26",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u97f3\u4e50"],
+  "duration": "PT1H27M",
+  "description": "A romantic journey through Stockholm&#39;s swing dance world. A dramatic comedy about love, music and da...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

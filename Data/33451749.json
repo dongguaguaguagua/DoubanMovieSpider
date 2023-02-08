@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "歌词大师卢国沾作品演唱会",
+  "url": "/subject/33451749/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2584967593.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357346/",
+      "name": "张德兰 Teresa Cheung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359205/",
+      "name": "卢国沾 Jimmy Lo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373138/",
+      "name": "叶振棠 Chun Tong Yip"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038521/",
+      "name": "罗嘉良 Gallen Law"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u97f3\u4e50", "\u771f\u4eba\u79c0"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

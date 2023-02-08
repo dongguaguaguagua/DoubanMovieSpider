@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的侏儒父亲 Auf Augenhöhe",
+  "url": "/subject/26850103/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2449937168.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127606/",
+      "name": "乔丹·普林蒂斯 Jordan Prentice"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473181/",
+      "name": "玛雅·波特 Maya Bothe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481227/",
+      "name": "路易斯·沃巴赫 Luis Vorbach"
+    }
+  ]
+,
+  "datePublished": "2016-06-26",
+  "genre": ["\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H38M",
+  "description": "米奇是一个居住在托儿所里的11岁男孩。有一天，他意外地发现了一封已故的母亲给一位名叫汤姆的人写的信。读完信后米奇断言：这个汤姆就是他的亲生父亲。因此他迫不及待地开始寻找父亲，但是汤姆出现在他的视线里的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

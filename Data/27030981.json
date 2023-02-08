@@ -1,0 +1,56 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们 アタシラ。",
+  "url": "/subject/27030981/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2624763894.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338260/",
+      "name": "森野美咲 Misaki Morino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372879/",
+      "name": "根本正胜 Nemoto Masakazu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372880/",
+      "name": "高崎翔太 Shota Takasaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373973/",
+      "name": "中园侑奈 Yuna Nakazono"
+    }
+  ]
+,
+  "datePublished": "2017-03-04",
+  "genre": ["\u60ac\u7591", "\u60c5\u8272"],
+  "duration": "PT1H46M",
+  "description": "我是不了解自己是谁的孤独的天才。
+你知道自己是谁吗？
+当问到你「你自己是谁」的时候，你一定会一时不知如何回答。这是因为所有人都不是因由自己的意识降生于世。所以，人在描述自己是谁的时候会用上「我是谁谁家...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1024",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "别盯着我的盘子 Ne gledaj mi u pijat",
+  "url": "/subject/26881179/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2394345671.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362769/",
+      "name": "哈娜·贾西克 Hana Jusic"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362769/",
+      "name": "哈娜·贾西克 Hana Jusic"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045096/",
+      "name": "扎特科·巴瑞克 Zlatko Buric"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1217767/",
+      "name": "Arijana Culina Arijana Culina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1214863/",
+      "name": "达丽娅·洛伦西 Daria Lorenci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476516/",
+      "name": "安基卡·巴希奇 Ankica Basic"
+    }
+  ]
+,
+  "datePublished": "2016-09-02",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "Marijana&#39;s life revolves around her family, whether she likes it or not. They live on top of one ano...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

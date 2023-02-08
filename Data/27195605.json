@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "塔杜萨克女孩 Tadoussac",
+  "url": "/subject/27195605/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504680529.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381148/",
+      "name": "马丁·拉罗什 Martin Laroche"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381148/",
+      "name": "马丁·拉罗什 Martin Laroche"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278740/",
+      "name": "伊莎贝尔·布莱 Isabelle Blais"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019360/",
+      "name": "朱丽叶特·高斯林 Juliette Gosselin"
+    }
+  ]
+,
+  "datePublished": "2017-11-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "18 岁的女孩克洛伊在冬季最寒冷的时节从蒙特利尔出走，一路搭便车来到了魁北克的塔杜萨克，一个风景优美、但由于天气原因而人迹罕至的小村庄。和许多年轻人一样，她在当地一家旅社打工换宿。但克洛伊的行为举止有...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "76",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

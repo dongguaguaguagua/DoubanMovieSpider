@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "失落者 Verlorene",
+  "url": "/subject/30152041/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2514396441.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395635/",
+      "name": "Felix Hassenfratz Felix Hassenfratz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395635/",
+      "name": "Felix Hassenfratz Felix Hassenfratz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311476/",
+      "name": "玛丽亚·德拉格斯 Maria Dragus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320236/",
+      "name": "克雷蒙斯·施伊克 Clemens Schick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199494/",
+      "name": "安娜维尹柯内希特 Anne Weinknecht"
+    }
+  ]
+,
+  "datePublished": "2018-02-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "18岁的玛利亚尽力实现着别人对她的期望，努力成为一个保护者，一个好姐姐和父亲的乖女儿。甚至为此放弃了自己的梦想。然而，一个四处旅行的年轻木匠瓦伦丁来到了父亲的公司任职，事情也随之发生了改变。玛利亚第一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

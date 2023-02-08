@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超级东北人",
+  "url": "/subject/26775515/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2354658618.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366306/",
+      "name": "林云翔 Yunxiang Lin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344888/",
+      "name": "陈昊明 Haoming Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394939/",
+      "name": "高海宝 Haibao Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413513/",
+      "name": "赵梓含 Zihan Zhao"
+    }
+  ]
+,
+  "datePublished": "2016-05-18",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "东北爷们儿王大拿、陈汁、马葫芦三兄弟到日本游玩，泡温泉过程中解救了被山口组纠缠的中国女孩，却意外穿越到二战前的日本，被日本女孩山田光子所救。另一方面，前往日本签订协议的张大帅惨遭绑架，与他外貌类似的王...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Life After Man",
+  "url": "/subject/30368051/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2538767443.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1075617/",
+      "name": "杰克·查尔斯 Jack Charles"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "An infectious disease causing the dead to rise again has wiped out most of humanity. On a small outb...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

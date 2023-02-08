@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "前任战略 Les Ex",
+  "url": "/subject/27076831/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2469124036.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005269/",
+      "name": "让-保罗·卢弗 Jean-Paul Rouve"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426873/",
+      "name": "克劳迪娅·塔格博 Claudia Tagbo"
+    }
+  ]
+,
+  "datePublished": "2017-06-21",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "影片由各位不同角色和他们的Ex故事的穿插起来，角色之间两两之间有各种联系。故事探讨了各个角色和前任们各种不同的关系。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

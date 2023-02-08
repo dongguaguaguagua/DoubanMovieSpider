@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "可见黑暗 Darkness Visible",
+  "url": "/subject/27192365/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2523249976.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278704/",
+      "name": "尼尔·比斯瓦斯 Neil Biswas"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278704/",
+      "name": "尼尔·比斯瓦斯 Neil Biswas"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364400/",
+      "name": "沙尤尼·古普塔 Sayani Gupta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278699/",
+      "name": "希玛·比斯瓦斯 Seema Biswas"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "Londoner Ronnie embarks on a journey to India when his mother, Suleka, goes missing and mysteriously...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

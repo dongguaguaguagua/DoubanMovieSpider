@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Neeli",
+  "url": "/subject/30411504/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543520865.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441075/",
+      "name": "玛玛塔·莫汉达斯 Mamta Mohandas"
+    }
+  ]
+,
+  "datePublished": "2018-08-11",
+  "genre": ["\u5267\u60c5", "\u6050\u6016"],
+  "duration": "",
+  "description": "As Lakshmi learns to accept the setbacks and begins a new chapter in her life, her daughter, Thara g...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

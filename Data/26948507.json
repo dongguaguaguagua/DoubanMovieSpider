@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀手离沫",
+  "url": "/subject/26948507/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2410288607.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449552/",
+      "name": "冯宝宁 Baoning Feng"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318281/",
+      "name": "刘娜萍 Naping Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314959/",
+      "name": "利晴天 Sky Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037662/",
+      "name": "李子雄 Waise Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327889/",
+      "name": "闵政 Zheng Min"
+    }
+  ]
+,
+  "datePublished": "2017-01-17",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H25M",
+  "description": "泰国边境，1997年。
+金娱会帮派内部分裂、互相残杀，导致帮派老大惨死于家中，其女离沫四处逃亡，最终被杀手组织所救。三年后，她在组织的安排下先后铲除了自己的杀父仇人，同时也破坏了金娱会在湄公河的毒品交...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "356",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

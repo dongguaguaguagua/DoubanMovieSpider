@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "离骚",
+  "url": "/subject/30212139/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521119960.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392403/",
+      "name": "苏世斌 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392403/",
+      "name": "苏世斌 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392403/",
+      "name": "苏世斌 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460370/",
+      "name": "徐晓鹏 Arvin"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H1M",
+  "description": "入围ciff14“广阔天地”单元",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

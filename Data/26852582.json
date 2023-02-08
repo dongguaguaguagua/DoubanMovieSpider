@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Till dess din vrede upphör",
+  "url": "/subject/26852582/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360630/",
+      "name": "埃达·英格薇 Ida Engvoll"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1089393/",
+      "name": "萨穆埃尔·弗洛勒 Samuel Fröler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1090669/",
+      "name": "Niklas Engdahl Niklas Engdahl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1142150/",
+      "name": "古尼拉·劳尔 Gunilla Röör"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118305/",
+      "name": "拉尔斯·林德 Lars Lind"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

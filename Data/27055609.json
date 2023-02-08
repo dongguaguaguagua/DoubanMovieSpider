@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "英珠 영주",
+  "url": "/subject/27055609/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537936161.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422430/",
+      "name": "车成德 Sung-duk Cha"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422430/",
+      "name": "车成德 Sung-duk Cha"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276094/",
+      "name": "金香起 Hyang-ki Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1114573/",
+      "name": "金浩贞 Ho-jung Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388625/",
+      "name": "汤峻相 Joon-sang Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376010/",
+      "name": "刘在明 Jae-myung Yoo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414462/",
+      "name": "张慧珍 Hye-jin Jang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453610/",
+      "name": "朴玉出 Ok-chool Park"
+    }
+  ]
+,
+  "datePublished": "2018-11-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "《没有秘密》编剧的导演处女作，讲述双亲因交通事故死亡艰难生活的英珠寻找导致父母双亡的加害者的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "524",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

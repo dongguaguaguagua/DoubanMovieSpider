@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "花神 Flora",
+  "url": "/subject/27109376/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2495666623.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432788/",
+      "name": "迈尔斯·G·杰克森 Miles G. Jackson"
+    }
+  ]
+,
+  "datePublished": "2017-04-29",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b", "\u6050\u6016", "\u5386\u53f2", "\u5192\u9669"],
+  "duration": "PT1H45M",
+  "description": "In 1929, an expedition of university botanists enter an uncharted forest where they discover, and mu...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "175",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

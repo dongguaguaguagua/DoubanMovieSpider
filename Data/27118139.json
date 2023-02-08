@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "情迷意大利",
+  "url": "/subject/27118139/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496839649.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360605/",
+      "name": "邱晓军 Xiaojun Qiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379693/",
+      "name": "曲远巍 Yuanwei Qu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379693/",
+      "name": "曲远巍 Yuanwei Qu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351499/",
+      "name": "索墨 Mo Suo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379694/",
+      "name": "赵柏尔 Birgit"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320845/",
+      "name": "邱箫婵 Xiaochan Qiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023948/",
+      "name": "万梓良 Alex Man"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384081/",
+      "name": "杨明逸 Mingyi Yang"
+    }
+  ]
+,
+  "datePublished": "2017-08-28",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H29M",
+  "description": "留学米兰的富二代唐浩（博尔吉特 饰）与哥们定下赌约，苦追意外邂逅的意大利美女克劳迪娅，历经各种事情后，意外遭遇家道中落。为此他整日意志消沉，喝酒买醉。后在好友洛熙（邱箫婵 饰）和克劳迪娅的帮助下，最终...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

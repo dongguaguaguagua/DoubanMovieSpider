@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "独身向前 Seuls",
+  "url": "/subject/26944589/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2408677569.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172518/",
+      "name": "大卫·莫罗 David Moreau"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172518/",
+      "name": "大卫·莫罗 David Moreau"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358816/",
+      "name": "让-斯坦·杜·帕克 Jean-Stan Du Pac"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315806/",
+      "name": "托马斯·多雷 Thomas Doret"
+    }
+  ]
+,
+  "datePublished": "2017-02-08",
+  "genre": ["\u79d1\u5e7b", "\u5947\u5e7b"],
+  "duration": "PT1H37M",
+  "description": "莉拉16岁的早晨，就跟往常一样，不小心贪睡了一点，但今天稍微有些不一样，没人敲她房门催促她快点起床。等她终于清醒，却遍寻不着她的父母。莉拉出门却发现不但邻居、整个小镇、社区甚至整个城市，都找不到半个活...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "821",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

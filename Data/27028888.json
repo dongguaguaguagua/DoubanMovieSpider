@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绿雾 The Green Fog",
+  "url": "/subject/27028888/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542667108.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032270/",
+      "name": "盖伊·马丁 Guy Maddin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355451/",
+      "name": "埃文·约翰逊 Evan Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438551/",
+      "name": "加伦·约翰逊 Galen Johnson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032270/",
+      "name": "盖伊·马丁 Guy Maddin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355451/",
+      "name": "埃文·约翰逊 Evan Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438551/",
+      "name": "加伦·约翰逊 Galen Johnson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438551/",
+      "name": "加伦·约翰逊 Galen Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1130086/",
+      "name": "Brent Neale Brent Neale"
+    }
+  ]
+,
+  "datePublished": "2017-04-16",
+  "genre": ["\u559c\u5267", "\u60ac\u7591"],
+  "duration": "PT1H3M",
+  "description": "以三藩市为背景的《迷魂记》（1958）被誉为希治阁巅峰作。佳麦甸（《非请勿进》，39 届）应邀为三藩市国际电影节创作电影，自然想起《迷魂记》。念念不忘金露华身上那团绿雾，他甚至认为《迷魂记》就是电影和...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "462",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

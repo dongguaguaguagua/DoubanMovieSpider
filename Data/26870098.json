@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "春川，春川 춘천, 춘천",
+  "url": "/subject/26870098/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533904254.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343680/",
+      "name": "张佑振 Woo-jin Jang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343680/",
+      "name": "张佑振 Woo-jin Jang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1105881/",
+      "name": "金敏贞 Min-jung Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385203/",
+      "name": "禹志贤 Woo Ji-hyeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450440/",
+      "name": "杨兴州 Heung-ju Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353127/",
+      "name": " "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476346/",
+      "name": "李世朗 Lee Se-rang"
+    }
+  ]
+,
+  "datePublished": "2018-09-26",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H18M",
+  "description": "Jihyun is 29 years old and dreams of escaping her hometown of Chuncheon and finding a job in Seoul. ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

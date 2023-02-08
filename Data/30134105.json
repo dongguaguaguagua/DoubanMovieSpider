@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "甜蜜圣诞节 The Sweetest Christmas",
+  "url": "/subject/30134105/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2512164126.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472782/",
+      "name": "布伦达·克里奇洛 Brenda Crichlow"
+    }
+  ]
+,
+  "datePublished": "2017-11-11",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

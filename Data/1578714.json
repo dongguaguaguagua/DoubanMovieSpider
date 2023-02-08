@@ -1,0 +1,256 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神奇女侠 Wonder Woman",
+  "url": "/subject/1578714/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2460006593.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023041/",
+      "name": "派蒂·杰金斯 Patty Jenkins"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338199/",
+      "name": "艾伦·海因伯格 Allan Heinberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031904/",
+      "name": "扎克·施奈德 Zack Snyder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032466/",
+      "name": "贾森·福克斯 Jason Fuchs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046034/",
+      "name": "威廉·马斯顿 William M. Marston"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044996/",
+      "name": "盖尔·加朵 Gal Gadot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053621/",
+      "name": "克里斯·派恩 Chris Pine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009298/",
+      "name": "康妮·尼尔森 Connie Nielsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002676/",
+      "name": "罗宾·怀特 Robin Wright"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031862/",
+      "name": "大卫·休里斯 David Thewlis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333426/",
+      "name": "丹尼·赫斯顿 Danny Huston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010590/",
+      "name": "埃伦娜·安纳亚 Elena Anaya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013960/",
+      "name": "露茜·戴维斯 Lucy Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010660/",
+      "name": "萨伊德·塔格马奥 Saïd Taghmaoui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004679/",
+      "name": "艾文·布莱纳 Ewen Bremner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374872/",
+      "name": "尤金·布雷弗·洛克 Eugene Brave Rock"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374910/",
+      "name": "莉莉·阿斯佩尔 Lilly Aspell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374915/",
+      "name": "艾米丽·凯里 Emily Carey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346489/",
+      "name": "丽莎·洛文·孔斯利 Lisa Loven Kongsli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374913/",
+      "name": "安·奥戈博莫 Ann Ogbomo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357653/",
+      "name": "弗洛伦丝·卡松巴 Florence Kasumba"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004790/",
+      "name": "杜晨·科洛斯 Doutzen Kroes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031904/",
+      "name": "扎克·施奈德 Zack Snyder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310160/",
+      "name": "艾丽西娅·维拉-贝利 Alicia Vela-Bailey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019110/",
+      "name": "詹姆斯·科兹莫 James Cosmo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330077/",
+      "name": "萨曼莎·乔 Samantha Win"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278861/",
+      "name": "赖纳·博克 Rainer Bock"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1130386/",
+      "name": "蕾切尔·皮卡普 Rachel Pickup"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367755/",
+      "name": "芙洛·费拉科 Flor Ferraco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1113132/",
+      "name": "沃尔夫·卡赫勒 Wolf Kahler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386449/",
+      "name": "布鲁克·恩斯 Brooke Ence"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374879/",
+      "name": "彼得·斯塔克 Peter Stark"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389280/",
+      "name": "萨米·海曼 Sammy Hayman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362809/",
+      "name": "马丁·贝肖普 Martin Bishop"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408636/",
+      "name": "嘎娜·巴亚尔赛汗 Gana Bayarsaikhan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425713/",
+      "name": "弗莱迪·卡特 Freddy Carter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455297/",
+      "name": "安.沃夫 Ann Wolfe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430847/",
+      "name": "杰玛·摩尔 Jemma Moore"
+    }
+  ]
+,
+  "datePublished": "2017-05-30",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT2H21M",
+  "description": "戴安娜（盖尔·加朵 Gal Gadot 饰）是女王希波吕忒（康妮·尼尔森 Connie Nielsen 饰）的女儿，自幼生活在天堂岛上。巨大的屏障将这座岛屿同外界的纷纷扰扰隔开犹如一个世外桃源，而岛上...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "458614",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

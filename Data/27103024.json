@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "深海 Deep",
+  "url": "/subject/27103024/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503579720.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338041/",
+      "name": "史蒂文·休斯 Stephen Hughes"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016698/",
+      "name": "杰斯·哈梅尔 Jess Harnell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007036/",
+      "name": "菲尔·拉马 Phil LaMarr"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1064239/",
+      "name": "杰夫·贝内特 Jeff Bennett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1065267/",
+      "name": "鲍伯·伯根 Bob Bergen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1216282/",
+      "name": "简·泰勒 Jen Taylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1148057/",
+      "name": "威廉·赛莱耶 William Salyers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322373/",
+      "name": "路易斯·麦克劳德 Lewis Macleod"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338041/",
+      "name": "史蒂文·休斯 Stephen Hughes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372665/",
+      "name": "贾斯汀·费尔宾格 Justin Felbinger"
+    }
+  ]
+,
+  "datePublished": "2017-06-12",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H32M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

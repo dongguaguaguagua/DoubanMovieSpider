@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "扯蛋圣诞史 Cunk on Christmas",
+  "url": "/subject/26959749/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2868555186.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468431/",
+      "name": "洛里·鲍尔斯 Lorry Powles"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032348/",
+      "name": "查理·布鲁克 Charlie Brooker"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376085/",
+      "name": "戴安·摩根 Diane Morgan"
+    }
+  ]
+,
+  "datePublished": "2016-12-29",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT0H30M",
+  "description": "这位评论员回到了以节日为主题的特别节目，通过探索异教的冬季节日和耶稣诞生的故事，以她自己独特的方式来研究圣诞节的真正含义。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1611",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.1"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "达格纳姆 Dagenham",
+  "url": "/subject/30209654/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520892909.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385591/",
+      "name": "莉莉·纽马克 Lily Newmark"
+    }
+  ]
+,
+  "datePublished": "2019-04-19",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "A desperate mothers fight against drugs, death and desperation in the deprived town of Dagenham.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

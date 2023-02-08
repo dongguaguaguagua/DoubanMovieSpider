@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "九五二班",
+  "url": "/subject/26910080/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2399225505.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395980/",
+      "name": "魏小也 Xiaoye Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401585/",
+      "name": "刘宇宁 Yuning Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416012/",
+      "name": "隋艺 Yi Sui"
+    }
+  ]
+,
+  "datePublished": "2016-11-17",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H17M",
+  "description": "由沈阳宇兮影视传媒有限公司出品，IFG星图传媒独家发行，九五二班的何涛和几个死党在学校组建了一支乐队，某天何涛因迟到而被老师处罚，恰巧在办公室里化解了九五一班周小可的避孕药误会，因此得知是周小可闺蜜在...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玩偶特工",
+  "url": "/subject/27198136/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2532410496.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415262/",
+      "name": "廖芊婵 Qianchan Liao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399677/",
+      "name": "张诗卉 Shihui Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400555/",
+      "name": "陈熙明 Ximing Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403309/",
+      "name": "王勉 Mian Wang"
+    }
+  ]
+,
+  "datePublished": "2018-08-21",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H31M",
+  "description": "电影讲述一个默默无闻的小编辑亦寒（康凯饰），机缘巧合下邂逅了三个神秘女子，冷艳女特工欣雨（王勉饰）令亦寒神魂颠倒。没有人知道这三个女子的真实身份，只知道她们每日穿梭在黑夜里，除恶扬善。正当亦寒与欣雨为...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

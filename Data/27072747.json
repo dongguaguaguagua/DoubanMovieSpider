@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "云水",
+  "url": "/subject/27072747/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2628502103.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343125/",
+      "name": "曾赠 Zeng Zeng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343125/",
+      "name": "曾赠 Zeng Zeng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341810/",
+      "name": "郑阳 Yang Zheng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274437/",
+      "name": "秦海璐 Hailu Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316331/",
+      "name": "田雨 Yu Tian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313809/",
+      "name": "余皑磊 Ailei Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313991/",
+      "name": "焦刚 Gang Jiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386744/",
+      "name": "杨珊珊 Shanshan Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275152/",
+      "name": "周楚濋 Chu-chu Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366630/",
+      "name": "张珏 Jue Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316471/",
+      "name": "曾美慧孜 Meihuizi Zeng"
+    }
+  ]
+,
+  "datePublished": "2018-01-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "故事围绕三个孤独的男人——王海励、方毅国、参尘展开描述，讲述了性格迥异的他们，各自经历欲望考验，踏上事关信仰的赎罪之旅，为自己寻找一个心安归处的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "368",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

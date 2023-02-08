@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Drifter",
+  "url": "/subject/26905707/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2394366821.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270895/",
+      "name": "Chris von Hoffmann Chris von Hoffmann"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270895/",
+      "name": "Chris von Hoffmann Chris von Hoffmann"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-10-19",
+  "genre": ["\u60ca\u609a", "\u6050\u6016", "\u72af\u7f6a"],
+  "duration": "PT1H26M",
+  "description": "A pair of outlaw brothers seek temporary refuge in a desolate town inhabited by a small family of ps...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

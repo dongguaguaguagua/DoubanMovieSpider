@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "第一名 Numéro Une",
+  "url": "/subject/27109557/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2555448543.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037439/",
+      "name": "托涅·马歇尔 Tonie Marshall"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332321/",
+      "name": "Marion Doussot Marion Doussot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037439/",
+      "name": "托涅·马歇尔 Tonie Marshall"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048261/",
+      "name": "艾曼纽·德芙 Emmanuelle Devos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280933/",
+      "name": "苏珊娜·克莱蒙 Suzanne Clément"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005370/",
+      "name": "班哲明·比欧雷 Benjamin Biolay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055175/",
+      "name": "理查德·贝里 Richard Berry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410740/",
+      "name": "约翰·西希尔 John Sehil"
+    }
+  ]
+,
+  "datePublished": "2017-10-11",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H50M",
+  "description": "艾纽曼（艾曼纽·德芙 Emmanuelle Devos 饰）是一位事业心和能力都非常强的职场精英，在法国一家新能源公司做高管。安西亚公司是巴黎人尽皆知的大企业，它的领导人身患重病时日无多，急需一位新的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "299",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

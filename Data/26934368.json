@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的同学是备胎",
+  "url": "/subject/26934368/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2405203144.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420934/",
+      "name": "鲍柏宇 Boyu Bao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408797/",
+      "name": "李烨彤 Yetong Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412441/",
+      "name": "恒霁 Jiawen Zhang"
+    }
+  ]
+,
+  "datePublished": "2016-12-15",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H8M",
+  "description": "屌丝男生、备胎之王沙冰相貌平平，却发誓要追到校园女神宁萌，在宿舍众基友鹤顶红、车震、高罡帅的鼓励下，采取各种不可描述的手段强势撩妹。沙冰想尽办法接近宁萌，频频出糗死不悔改，更被宁萌室友“傻白甜”章泽甜...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

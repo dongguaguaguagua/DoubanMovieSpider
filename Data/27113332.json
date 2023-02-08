@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "赶牲灵",
+  "url": "/subject/27113332/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2496178862.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379397/",
+      "name": "凌淋 Lin Ling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379398/",
+      "name": "史文 Wen Shi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363817/",
+      "name": "延翔 Xiang Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379399/",
+      "name": "汪碧清 Biqing Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379400/",
+      "name": "厉家兵 Jiabing Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379401/",
+      "name": "杨未希 Weixi Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379397/",
+      "name": "凌淋 Lin Ling"
+    }
+  ]
+,
+  "datePublished": "2017-08-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "影片以陕北民歌《赶牲灵》的创作诞生为原型，讲述了主人公张德义与马翠翠之间纯美而又曲折的爱情故事。赶牲灵的张德义对兄弟重情重义，落魄乡官马贵祥的女儿马翠翠心灵手巧，贤良淑慧。这一对两小无猜的恋人，在黄土...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

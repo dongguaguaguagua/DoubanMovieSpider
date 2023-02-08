@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "谁说女子不如男",
+  "url": "/subject/27616212/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509025184.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377457/",
+      "name": "房伟 Wei Fang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363451/",
+      "name": "卢鑫 Xin Lu"
+    }
+  ]
+,
+  "datePublished": "2018-01-02",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u60ac\u7591", "\u620f\u66f2"],
+  "duration": "PT1H12M",
+  "description": "电影《谁说女子不如男》主要讲述了戏班班主巴三斤(何洋饰)将镇台之宝凤冠拿去抵债，戏痴少女舒怡(杜彩苹饰)为护宝物，与古董商和赌场老板斗智斗勇的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

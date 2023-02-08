@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Liquorice",
+  "url": "/subject/10598518/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2151774197.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336929/",
+      "name": "Natalie Bible&#39; Natalie Bible&#39;"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336929/",
+      "name": "Natalie Bible&#39; Natalie Bible&#39;"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040661/",
+      "name": "玛伊芙·奎因兰 Maeve Quinlan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040547/",
+      "name": "萨米拉·阿姆斯特朗 Samaire Armstrong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314019/",
+      "name": "凯特·法兰奇  Kate French"
+    }
+  ]
+,
+  "datePublished": "2016-11-07",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

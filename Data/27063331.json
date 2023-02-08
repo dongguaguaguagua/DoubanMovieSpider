@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大雪冬至",
+  "url": "/subject/27063331/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510150169.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316562/",
+      "name": "邢潇 Xiao Xing"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316562/",
+      "name": "邢潇 Xiao Xing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386081/",
+      "name": "吴辰泰 Chentai Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386699/",
+      "name": "陈新建 Xinjian Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305487/",
+      "name": "祝希娟 Xijuan Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385600/",
+      "name": "果汁 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315101/",
+      "name": "张桐 Tong Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386343/",
+      "name": "李金斗 Jindou Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386344/",
+      "name": "赵婉瑜 Wanyu Zhao"
+    }
+  ]
+,
+  "datePublished": "2017-06-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H27M",
+  "description": "本片讲述了性格孤僻、垂垂老矣的魏大雪和她的狗生活在北京胡同的一个小四合院里，一切的起点和终结也都这里。日复一日的独居生活平静而乏味，魏大雪与人、与市井生活之间仿佛有一道透明的墙，触之冰冷。突然发生的一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "973",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "浏览效果 The Browsing Effect",
+  "url": "/subject/33218281/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2551354092.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352156/",
+      "name": "梅根·桂南 Megan Guinan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022681/",
+      "name": "司徒少英 Nikki SooHoo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340738/",
+      "name": "加芙列拉·洛佩兹 Gabriela Lopez"
+    }
+  ]
+,
+  "datePublished": "2018-10-19",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H40M",
+  "description": "The seemingly endless possibilities of dating apps send a group of friends into a whirlwind of sex, ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

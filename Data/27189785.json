@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "热水澡是烈性饮料2 Hot Bath an&#39; a Stiff Drink 2",
+  "url": "/subject/27189785/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285331/",
+      "name": "马修·格拉茨纳 Matthew Gratzner"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041135/",
+      "name": "罗伯特·帕特里克 Robert Patrick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036343/",
+      "name": "弗朗基·穆尼兹 Frankie Muniz"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5bb6\u5ead", "\u897f\u90e8"],
+  "duration": "PT1H44M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

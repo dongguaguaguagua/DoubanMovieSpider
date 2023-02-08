@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "酒会 The Party",
+  "url": "/subject/26710371/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2435181930.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050154/",
+      "name": "莎莉·波特 Sally Potter"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050154/",
+      "name": "莎莉·波特 Sally Potter"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047992/",
+      "name": "基里安·墨菲 Cillian Murphy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036322/",
+      "name": "艾米莉·莫迪默 Emily Mortimer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031872/",
+      "name": "蒂莫西·斯波 Timothy Spall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013791/",
+      "name": "派翠西娅·克拉克森 Patricia Clarkson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021997/",
+      "name": "克里斯汀·斯科特·托马斯 Kristin Scott Thomas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040616/",
+      "name": "切莉·琼斯 Cherry Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000247/",
+      "name": "布鲁诺·冈茨 Bruno Ganz"
+    }
+  ]
+,
+  "datePublished": "2017-02-13",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H11M",
+  "description": "珍妮特（克里斯汀·斯科特·托马斯 Kristin Scott Thomas 饰）在政府部门打拼了那么多年，总算坐上了卫生部部长的位子。为了庆祝晋升，她在家中设置了一场聚会，邀请好友们参加。玛莎（切莉·...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "17376",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

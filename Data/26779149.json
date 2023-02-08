@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "成人生活技能 Adult Life Skills",
+  "url": "/subject/26779149/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2368322981.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365379/",
+      "name": "瑞秋·汤纳德 Rachel Tunnard"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365379/",
+      "name": "瑞秋·汤纳德 Rachel Tunnard"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309995/",
+      "name": "朱迪·惠特克 Jodie Whittaker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305558/",
+      "name": "爱德华·霍格 Edward Hogg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327892/",
+      "name": "爱丽丝·洛维 Alice Lowe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285069/",
+      "name": "布雷特·戈尔茨坦 Brett Goldstein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340860/",
+      "name": "洛琳·艾什本 Lorraine Ashbourne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327893/",
+      "name": "伊莲恩·戴维斯 Eileen Davies"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365382/",
+      "name": "博特·高登斯汀 Brett Goldstein"
+    }
+  ]
+,
+  "datePublished": "2016-04-17",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H36M",
+  "description": "Anna is stuck: she&#39;s approaching 30, living like a hermit in her mum&#39;s garden shed and wondering why...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "250",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

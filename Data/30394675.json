@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "西来伏魔传",
+  "url": "/subject/30394675/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2878322495.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447818/",
+      "name": "齐一磊 Yilei Qi"
+    }
+  ]
+,
+  "datePublished": "2018-12-06",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H8M",
+  "description": "四位不同领域的顶尖高手，探险家江峰和他的助手陈玲，以及电脑高手刘小花，文物贩叶大胆，被聚集到了巨天网络公司的总部，被巨天的杨凯总经理邀去西来镇寻找失踪的古物。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

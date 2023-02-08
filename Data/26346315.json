@@ -1,0 +1,124 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "母牛 La vache",
+  "url": "/subject/26346315/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2313435557.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329951/",
+      "name": "穆罕默德·哈米迪 Mohamed Hamidi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278764/",
+      "name": "阿兰-米歇尔·布兰克 Alain-Michel Blanc"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382774/",
+      "name": "法萨·布亚梅 Fatsah Bouyahmed"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329951/",
+      "name": "穆罕默德·哈米迪 Mohamed Hamidi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382774/",
+      "name": "法萨·布亚梅 Fatsah Bouyahmed"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025263/",
+      "name": "朗贝尔·维尔森 Lambert Wilson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018139/",
+      "name": "贾梅尔·杜布兹 Jamel Debbouze"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382775/",
+      "name": "哈吉尔·玛斯都基 Hajar Masdouki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382776/",
+      "name": "费德·本彻姆希 Fehd Benchemsi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382777/",
+      "name": "凯瑟琳·戴夫尼尔 Catherine Davenier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382778/",
+      "name": "阿卜杜拉赫·查基里 Abdellah Chakiri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349745/",
+      "name": "帕特里斯·蒂博 Patrice Thibaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376534/",
+      "name": "欧菲莉亚·科尔布 Ophélia Kolb"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350641/",
+      "name": "茱莉亚·皮亚彤 Julia Piaton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338536/",
+      "name": "马利克·班泽拉 Malik Bentalha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1464339/",
+      "name": "阿兰·查普伊斯 Alain Chapuis"
+    }
+  ]
+,
+  "datePublished": "2016-01-14",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5192\u9669"],
+  "duration": "PT1H31M",
+  "description": "法塔（法萨·布亚梅 Fatsah Bouyahmed 饰）是一位生活在阿尔及利亚的淳朴农民，他生命中最珍贵的东西，就是他所饲养的母牛雅克林娜，法塔的梦想就是能够带着雅克林娜去参加一年一度在巴黎举办的农...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1300",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

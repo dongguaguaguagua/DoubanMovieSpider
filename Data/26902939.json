@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恋恋仙缘",
+  "url": "/subject/26902939/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519524899.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365049/",
+      "name": "苏巍 Wei Su"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391586/",
+      "name": "丁晓晴 Xiaoqing Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391587/",
+      "name": "关夕晓 Xixiao Guan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365048/",
+      "name": "党伟 Wei Dang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364073/",
+      "name": "孙童心 Tongxin Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365815/",
+      "name": "初艳龙 Yanlong Chu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391588/",
+      "name": "李啊伟 Awei Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365813/",
+      "name": "崔菁格 Jingge Cui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365814/",
+      "name": "管云鹏 Yunpeng Guan"
+    }
+  ]
+,
+  "datePublished": "2018-04-27",
+  "genre": ["\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H28M",
+  "description": "七仙女与董永分别千年后，再次来到人间，要让已经忘记她的董永重新爱上他。虽然二郎神、玉帝多方阻挠，二人最终还是凭借千年未改的真爱，感动天地，得以再续前缘。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三个火枪手 Les 3 Mousquetaires",
+  "url": "/subject/33445046/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2556283500.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071168/",
+      "name": "雷内·理查德·西尔 René Richard Cyr"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071168/",
+      "name": "雷内·理查德·西尔 René Richard Cyr"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010795/",
+      "name": "达米安·萨格 Damien Sargue"
+    }
+  ]
+,
+  "datePublished": "2017-06-13",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "PT1H44M",
+  "description": "Le spectacle musical de 2016 ! 300 000 spectateurs sont venus applaudir les 3 Mousquetaires à traver...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "69",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

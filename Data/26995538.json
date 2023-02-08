@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幽浮档案 UFO",
+  "url": "/subject/26995538/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533117096.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306760/",
+      "name": "瑞恩·艾斯林格 Ryan Eslinger"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306760/",
+      "name": "瑞恩·艾斯林格 Ryan Eslinger"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372006/",
+      "name": "艾利克斯·夏普 Alex Sharp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1261575/",
+      "name": "艾拉·珀内尔 Ella Purnell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007009/",
+      "name": "大卫·斯特雷泽恩 David Strathairn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022623/",
+      "name": "吉莲·安德森 Gillian Anderson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387904/",
+      "name": "纳撒尼尔·赛兹莫尔 Nathaniel Sizemore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1197488/",
+      "name": "Benjamin Beatty Benjamin Beatty"
+    }
+  ]
+,
+  "datePublished": "2018-09-04",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H28M",
+  "description": "故事讲述男主在女友、一高等数学教授及FBI特工的帮助下，解开了近期出现不明飞行物的谜团。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "482",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

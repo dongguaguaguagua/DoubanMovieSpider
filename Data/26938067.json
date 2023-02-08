@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "屌丝有话说",
+  "url": "/subject/26938067/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2409473752.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315440/",
+      "name": "黄一山 Gabriel Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333833/",
+      "name": "韩雨洁 Ginnie Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398413/",
+      "name": "徐丁 Ding Xu"
+    }
+  ]
+,
+  "datePublished": "2016-12-22",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H0M",
+  "description": "作为一名电影狂热爱好者以及名副其实的屌丝，20岁的大学生彦宇坚定地梦想成为一名电影导演。一次偶然的机会，彦宇和死党小胖进入了“贵圈”，接到的活却是场工。剧组生活千奇百态，彦宇偶遇且爱上了与其同校的，并...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

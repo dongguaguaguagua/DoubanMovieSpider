@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "星际迷航：际涯 Star Trek: Horizon",
+  "url": "/subject/27625643/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2510667822.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025307/",
+      "name": "吉恩·罗登贝瑞 Gene Roddenberry"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473777/",
+      "name": "卡莉·布塞尔 Callie Bussell"
+    }
+  ]
+,
+  "datePublished": "2016-02-26",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H42M",
+  "description": "故事发生在星际联邦之前的时代。以地球为首的新兴联邦与罗慕伦帝国为了各自的生死存亡展开了一场史诗般的战争。时空穿梭掩蔽不了战场上的滚滚硝烟，扣人心弦的剧情下又交织着怎样的爱恨情仇?",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

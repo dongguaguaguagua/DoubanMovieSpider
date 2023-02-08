@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地下空间 Subterranea",
+  "url": "/subject/26901225/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2392741084.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007047/",
+      "name": "威廉姆·卡特 William Katt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004654/",
+      "name": "巴格·霍尔 Bug Hall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1153401/",
+      "name": "尼古拉斯·特图罗 Nicholas Turturro"
+    }
+  ]
+,
+  "datePublished": "2016-09-13",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H39M",
+  "description": "A man raised in complete isolation his entire life is released into society for the first time as an...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

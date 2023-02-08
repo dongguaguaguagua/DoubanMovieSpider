@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "没有爱 사랑은 없다",
+  "url": "/subject/26825972/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2363092569.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317324/",
+      "name": "朴努植 No-shik Park "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352528/",
+      "name": "金柳妍 Yoo-yeon Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378206/",
+      "name": "郑少英 So-yeong Jeong"
+    }
+  ]
+,
+  "datePublished": "2016-10-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H26M",
+  "description": "사는게 재미없다
+왜 사는지 모르겠다
+작은 바람에 흔들리는
+외로운 영혼들을 위한 찬가
+40대 가장인 동하는 오랜 시간 대표작을 내지 못한, 과거의 영광 속에 사는 영화배우기도 하다....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "也许你认识的人 people you may know",
+  "url": "/subject/30156778/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2514927376.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328387/",
+      "name": "迈克尔·莫汉 Michael Mohan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252978/",
+      "name": "尼克·图恩 Nick Thune"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335913/",
+      "name": "豪斯顿·塞奇 Halston Sage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223084/",
+      "name": "迪伦·兰恩 Dillon Lane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459673/",
+      "name": "莱昂内尔·克劳德 "
+    }
+  ]
+,
+  "datePublished": "2017-04-07",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H32M",
+  "description": "An introvert realizes he can be whomever he wants to be on the Internet.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

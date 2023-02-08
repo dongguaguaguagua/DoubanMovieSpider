@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "缘定三生",
+  "url": "/subject/27102116/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2880752587.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365569/",
+      "name": "张智焜 Zhikun Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365569/",
+      "name": "张智焜 Zhikun Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365569/",
+      "name": "张智焜 Zhikun Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5192\u9669"],
+  "duration": "PT0H15M",
+  "description": "《敦煌梦境》由唐影集团股份有限公司独家出品，张智焜编剧导演，新生代演员张晓旋主演的文艺短片，是佛教四大经典爱情故事之一的《千年的等待》改编而成，整部影片在敦煌取景拍摄完成。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

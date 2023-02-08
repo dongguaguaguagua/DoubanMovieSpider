@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "火魂 Les Hommes Du Feu",
+  "url": "/subject/27031000/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2459198833.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028621/",
+      "name": "皮埃尔·若利韦 Pierre Jolivet"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028097/",
+      "name": "罗什迪·泽姆 Roschdy Zem"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050074/",
+      "name": "艾米莉·德奎恩 Émilie Dequenne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321750/",
+      "name": "迈克尔·阿比特波 Michaël Abiteboul"
+    }
+  ]
+,
+  "datePublished": "2017-07-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "Philippe是南法一所消防营的头儿。夏季炎热炙烤，无论天灾还是人祸，火灾隐患四伏，时有爆发可能。军士长Benedicte来到消防营，与40多岁的老手Xavier同级。营外随时可能有火情危机，营内氛...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

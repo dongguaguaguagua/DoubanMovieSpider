@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "沙海番外之蚌人",
+  "url": "/subject/27180883/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2529507736.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350801/",
+      "name": "秦榛 Zhen Qin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349772/",
+      "name": "徐磊 Lei Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412014/",
+      "name": "窦柏林 Bolin Dou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367182/",
+      "name": "王渊慧 Yuanhui Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374378/",
+      "name": "虞祎杰 Yijie Yu"
+    }
+  ]
+,
+  "datePublished": "2018-08-03",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT1H11M",
+  "description": "由南派三叔担任总策划，从超级IP《盗墓笔记》分裂而来的全新故事《吴山居事件账》系列网络大电影之《蚌人》，讲述了霍有心因手下离奇丧命而前往吴山居兴师问罪，并设计让吴山居经理白蛇也感染了致其手下命丧黄泉的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "916",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

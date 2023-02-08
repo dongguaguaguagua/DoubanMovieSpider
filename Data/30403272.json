@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女皮条客 Pimp",
+  "url": "/subject/30403272/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542836792.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049659/",
+      "name": "柯柯·帕尔莫 Keke Palmer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326714/",
+      "name": "瓦妮莎·摩根 Vanessa Morgan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031923/",
+      "name": "艾迪·盖瑟吉 Edi Gathegi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000229/",
+      "name": "哈莉·拉姆 Haley Ramm"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468380/",
+      "name": "宝拉·拉萨罗 Paola Lázaro"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "An urban love story set on the hard streets of the Bronx. A struggling female Pimp, named Wednesday,...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "274",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

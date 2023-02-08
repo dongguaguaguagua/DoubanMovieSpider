@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "舰姬",
+  "url": "/subject/27034789/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2457636311.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351647/",
+      "name": "探花 Hua Tan"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356804/",
+      "name": "王蕴凡 Yunfan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350859/",
+      "name": "郭依林 Yilin Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351295/",
+      "name": "叶思浵 Sitong Ye"
+    }
+  ]
+,
+  "datePublished": "2017-04-28",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b", "\u513f\u7ae5"],
+  "duration": "PT1H20M",
+  "description": "简介： 在某个世界中，为争夺九个齿轮岛的控制权，各国战火不断，其中主战力是一个特殊的族群——可以幻化为战舰形态的少女们，她们被称之为舰姬。而这个世界，被称之为舰姬世界。 曹天是一个胆小怯懦却充满正义感...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

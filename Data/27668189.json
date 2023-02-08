@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "他们的天堂 TMD天堂",
+  "url": "/subject/27668189/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2611375653.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420459/",
+      "name": "林品君 Pin Chun Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360532/",
+      "name": "蓝苇华 Wei-Hua Lan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331662/",
+      "name": "蔡明修 Ming-shiou Tsai"
+    }
+  ]
+,
+  "datePublished": "2017-04-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H15M",
+  "description": "2017年度电视电影作品《TMD天堂》于4/21（五） 22:00 中视首播。本片是詹京霖监制，练建宏编导，演出一家四口的主要演员为廖慧珍、蓝苇华、谢飞与陈天霖。故事描述受骗北上的老冠一家人因媒体报导...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

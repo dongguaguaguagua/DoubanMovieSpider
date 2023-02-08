@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "牛奶 Milk",
+  "url": "/subject/30301503/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531174381.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341961/",
+      "name": "桑迪亚哥·蒙希尼 Santiago Menghini"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341961/",
+      "name": "桑迪亚哥·蒙希尼 Santiago Menghini"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-03-09",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT0H10M",
+  "description": "On a late night, a young teen goes into the kitchen for a glass of milk. Upon encountering his sleep...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

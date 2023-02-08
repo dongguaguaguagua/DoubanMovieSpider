@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "热土悲歌",
+  "url": "/subject/26871431/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2392464728.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360078/",
+      "name": "崔志敏 Zhimin Cui"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360079/",
+      "name": "邹岱峰 Daifeng Zou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364892/",
+      "name": "邹德江 Dejiang Zou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328606/",
+      "name": "卢倩文 Qianwen Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322072/",
+      "name": "章宇 Yu Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364894/",
+      "name": "姜毅 Yi Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316981/",
+      "name": "李章宇 Jang-woo Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402279/",
+      "name": "梁新展 Xinzhan Liang"
+    }
+  ]
+,
+  "datePublished": "2016-11-25",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H30M",
+  "description": "故事发生在1930年代。面对日本侵略者，燕赵儿女们不畏强暴，奋起反抗，用血肉之躯和民族之魂谱写了一曲慷慨激昂的抗日壮歌。 北方某小村的平静生活被入侵的日军打破了，驻扎在附近的日军经常成群结队出去抢掠粮...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

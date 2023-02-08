@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱在零纬度",
+  "url": "/subject/30336342/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2572231307.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407888/",
+      "name": "王益民 Yimin Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408015/",
+      "name": "章元 Yuan Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359362/",
+      "name": "沈浩 Hao Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407958/",
+      "name": "卜提·阿尤蒂雅 Putri Ayudya"
+    }
+  ]
+,
+  "datePublished": "2018-10-18",
+  "genre": ["\u7231\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H55M",
+  "description": "《爱在零纬度》故事原型是根据中国投资的国华印尼南苏电厂中国员工与印尼姑娘的真实爱情故事改编而成。主人公陈昶与印尼姑娘诺娃相识相爱的恋情，跨越国别、文化、宗教的种种差异，最终修成正果。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

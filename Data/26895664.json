@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "只活一次 Sólo se vive una vez",
+  "url": "/subject/26895664/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2498871633.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281575/",
+      "name": "Federico Cueva Federico Cueva"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1043295/",
+      "name": "Sergio Esquenazi Sergio Esquenazi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010740/",
+      "name": "圣地亚哥·塞古拉 Santiago Segura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045283/",
+      "name": "乌戈·席尔瓦 Hugo Silva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330859/",
+      "name": "卡洛斯·阿雷塞斯 Carlos Areces"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013845/",
+      "name": "热拉尔·德帕迪约 Gérard Depardieu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027560/",
+      "name": "巴勃罗·拉戈 Pablo Rago"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258009/",
+      "name": "皮特·蓝萨尼 Peter Lanzani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280346/",
+      "name": "巴勃罗·塞德隆 Pablo Cedrón"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1219458/",
+      "name": "María Eugenia Suárez Riveiro María Eugenia Suárez Riveiro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363362/",
+      "name": "沃尔特·多纳多 Walter Donado"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1069591/",
+      "name": "路易斯·布兰多尼 Luis Brandoni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1197061/",
+      "name": "Pablo Ini Pablo Ini"
+    }
+  ]
+,
+  "datePublished": "2017-08-03",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "Leo (Peter Lanzani) is the wrong man in the wrong place at the wrong time. After taping a murder and...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "311",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Monsters of Mulberry Street",
+  "url": "/subject/26970527/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2628957896.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002670/",
+      "name": "埃里克·罗伯茨 Eric Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022830/",
+      "name": "李洛·布兰卡托 Lillo Brancato"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1241908/",
+      "name": " Sybelle Silverphoenix"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272753/",
+      "name": "辛蒂·鲁娜缇 Cindy Lunati"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "",
+  "description": "Mario Latona, (Frank Montero) and his crew are young kids with a passion for crime. Mario dreams of ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

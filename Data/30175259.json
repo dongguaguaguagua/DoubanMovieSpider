@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "祭海",
+  "url": "/subject/30175259/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2516920063.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392916/",
+      "name": "宋泉澎 TearGas"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424935/",
+      "name": "郭欣禹 Xinyu Guo"
+    }
+  ]
+,
+  "datePublished": "2018-03-23",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "影片讲述了一艘远航渔船，载着满怀激情高歌的十六名船员开始了航海之行，谁知这却是一条充满死亡和杀戮的不归之路，广阔无垠大海上上演真人版“吃鸡”的故事。渔船登案后唯一的幸存者面对线索的指向，警察的指控，讲...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

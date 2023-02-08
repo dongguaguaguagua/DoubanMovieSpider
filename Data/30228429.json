@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Boogeyman Pop",
+  "url": "/subject/30228429/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564614706.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363543/",
+      "name": "詹姆斯·帕克斯顿 James Paxton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223084/",
+      "name": "迪伦·兰恩 Dillon Lane"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "丑恶之人 Brutti e Cattivi",
+  "url": "/subject/26748146/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496121809.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378457/",
+      "name": "科西莫·高梅茲 Cosimo Gomez"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378457/",
+      "name": "科西莫·高梅茲 Cosimo Gomez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1471273/",
+      "name": "卢卡·恩赫赛 Luca Infascelli"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009766/",
+      "name": "克劳迪奥·桑塔玛利亚 Claudio Santamaria"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475910/",
+      "name": "菲利波·迪尼 Filippo Dini"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "A group of wild, physically disabled gangsters has a plan to rob a bank, but things go terribly wron...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,78 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "第25届东方风云榜音乐盛典",
+  "url": "/subject/34678372/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2563762293.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018248/",
+      "name": "莫文蔚 Karen Mok"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019539/",
+      "name": "容祖儿 Joey Yung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338949/",
+      "name": "张艺兴 Yixing Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374972/",
+      "name": "汪苏泷 Sulong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274727/",
+      "name": "张杰 Jie Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329879/",
+      "name": "胡彦斌 Anson Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333719/",
+      "name": "大张伟 Wowkie Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319807/",
+      "name": "方大同 Khalil Fong"
+    }
+  ]
+,
+  "datePublished": "2018-03-29",
+  "genre": ["\u97f3\u4e50", "\u771f\u4eba\u79c0"],
+  "duration": "PT1H55M",
+  "description": "中国内地原创第一榜——东方风云榜是上海市首批媒体优秀品牌、第十七批著名商标。东方风云榜历史悠久，是内地第一个举办颁奖演唱会的排行榜，颁奖典礼曾在美国、日本、澳大利亚、新加坡、马来西亚以及香港地区、台湾...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

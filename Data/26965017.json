@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "沙丘魔蚁 It Came from the Desert",
+  "url": "/subject/26965017/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2421575778.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1206129/",
+      "name": "Marko Mäkilaakso Marko Mäkilaakso"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1206129/",
+      "name": "Marko Mäkilaakso Marko Mäkilaakso"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1057556/",
+      "name": "马克·阿诺德 Mark Arnold"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192685/",
+      "name": "哈利·莱斯特·史密斯 Harry Lister Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383280/",
+      "name": "凡妮莎·格拉斯 Vanessa Grasse"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "根据80年代的电子游戏&#34;它来自沙漠&#34;改编，向1950年代致敬。本片的特色是沙漠、摩托车英雄和女英雄、沙漠中的派对、秘密地下军事基地...... 当然还有巨型蚂蚁。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "275",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

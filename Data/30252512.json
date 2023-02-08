@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不良女友",
+  "url": "/subject/30252512/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2525579250.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380841/",
+      "name": "罗永强 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375214/",
+      "name": "周丽娟 Lijuan Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-07-01",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H15M",
+  "description": "宅男郝帅为了顺利脱单，向一位世外高人求救，却意外的从诈骗钱财的“世外高人”手中无意获得了一块具有特异功能的玉器，但却引来了一位争夺玉器的“不良女友”，由此而发生了一系列爆笑离奇的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

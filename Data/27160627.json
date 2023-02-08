@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "13号诊室",
+  "url": "/subject/27160627/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2500709155.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364263/",
+      "name": "梁霆炜 Tingwei Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315575/",
+      "name": "李健仁 Kin-Yan Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391202/",
+      "name": "王路晴 Luqing Wang"
+    }
+  ]
+,
+  "datePublished": "2017-10-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H21M",
+  "description": "故事讲述了救儿心切，架不住宣传单上写着的“高效治愈率”，王海燕蒙骗着丈夫高建国，带着上网成瘾的儿子高飞，以“体检”的名义，一家三口来到一个远离城市的网戒中心。在网戒中心里以院长为首的家委会制定了一整套...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

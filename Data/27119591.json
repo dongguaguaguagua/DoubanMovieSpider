@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "虚无的焦点",
+  "url": "/subject/27119591/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2497108714.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384343/",
+      "name": "吴骏超 Junchao Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370640/",
+      "name": "黄礼丰 Leo Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454989/",
+      "name": "王佳希 Jiaxi Wang"
+    }
+  ]
+,
+  "datePublished": "2017-08-26",
+  "genre": ["\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H55M",
+  "description": "该影片改编自同志作者王泡小泡的小说《张先生和张先生》，两位男主人公张哲和张楠经历了十年爱情长跑，在两人相恋十周年的庆祝party上，第三者鸡米闯入带走了张楠。张楠的离去彻底击碎了张哲对爱情和人生的信心...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1849",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

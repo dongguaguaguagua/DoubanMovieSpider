@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "浴缸里的女孩 The Girl in the Bathtub",
+  "url": "/subject/30347049/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543420179.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037034/",
+      "name": "凯伦·孟可芙 Karen Moncrieff"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037034/",
+      "name": "凯伦·孟可芙 Karen Moncrieff"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044954/",
+      "name": "凯特琳·斯塔西 Caitlin Stasey"
+    }
+  ]
+,
+  "datePublished": "2018-10-07",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "The dark, psychological drama &#34;The Girl in the Bathtub&#34; is inspired by the true story of Julia Law (...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

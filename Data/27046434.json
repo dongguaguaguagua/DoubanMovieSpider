@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "尸控曼谷 Kud Krachak Krien",
+  "url": "/subject/27046434/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2459624158.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307490/",
+      "name": "普安农  Poj Arnon"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443525/",
+      "name": "帕沙考恩·桑拉塔纳 Pasakorn Sanrattana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459195/",
+      "name": "塔皮.沃拉猜.斯利倥苏皖 Tape Worrachai Sirikongsuwan"
+    }
+  ]
+,
+  "datePublished": "2017-04-06",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "PT1H43M",
+  "description": "当来自废弃医院的求救电话响起，你会接听吗？身为电动宅的蓝波，生平最大的梦想就是成为一个杀僵战士，每天最重要的事情就是打电动。突然有一天，蓝波接到来自弟弟的求救电话，心急的他立刻召集好友们，一起前往郊外...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

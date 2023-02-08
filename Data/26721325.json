@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "成年人的爱情故事 オトナの恋愛事情",
+  "url": "/subject/26721325/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2321157631.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355175/",
+      "name": "森川圭 Kei Morikawa"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355175/",
+      "name": "森川圭 Kei Morikawa"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322254/",
+      "name": "丸纯子 Junko Maru"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330964/",
+      "name": "间宫夕贵 Yuki Mamiya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378519/",
+      "name": "有马芳彦 Arima Yoshihiko"
+    }
+  ]
+,
+  "datePublished": "2016-02-29",
+  "genre": [],
+  "duration": "PT1H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "673",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

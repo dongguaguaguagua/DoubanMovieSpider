@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "水族魂1944",
+  "url": "/subject/30402068/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542468374.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274736/",
+      "name": "吴军 Jun Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406906/",
+      "name": "张宗铭 Zongming Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274736/",
+      "name": "吴军 Jun Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406907/",
+      "name": "侯瑞祥 Ruixiang Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330297/",
+      "name": "倪慕斯 Musi Ni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447695/",
+      "name": "肖阳 Yang Xiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320007/",
+      "name": "施羽 Yu Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400998/",
+      "name": "姚书豪 Shuhao Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406908/",
+      "name": "赵一霖 Yilin Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474670/",
+      "name": "邓章淞 Deng Zhang Song"
+    }
+  ]
+,
+  "datePublished": "2018-12-21",
+  "genre": ["\u7231\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H31M",
+  "description": "《水族魂1944》电影取材于上世纪40年代抗日战争日本投降前夕，发生在贵州三都水族自治县九阡镇的真实历史事件。编剧多次实地采风走访，在走访了当年亲历者和掌握大量的史实资料后，通过写实的手法再现了当年水...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

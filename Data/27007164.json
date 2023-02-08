@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猛虎上尉 hebbuli",
+  "url": "/subject/27007164/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2452668071.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442402/",
+      "name": "S Krishna S Krishna"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442402/",
+      "name": "S Krishna S Krishna"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320623/",
+      "name": "阿玛拉·保罗 Amala Paul"
+    }
+  ]
+,
+  "datePublished": "2017-02-23",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT2H21M",
+  "description": "保家卫国的印度突击队拉姆上尉，外号“猛虎”，发现他哥哥自杀一案疑云重重，为了给哥哥报仇，他必须与体制相抗衡，与黑势力相搏击……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

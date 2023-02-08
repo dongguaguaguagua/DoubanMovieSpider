@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "嗜血派对 Slasher Party",
+  "url": "/subject/30286072/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546547358.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398306/",
+      "name": "莎拉·麦克丹尼尔 Sarah McDaniel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460422/",
+      "name": "凯尔西 莱夫拉克 Kelsey Laverack"
+    }
+  ]
+,
+  "datePublished": "2019-01-27",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "一群网红去好莱坞山豪宅的派对后，却发现自己成为一个残忍的杀人犯的目标。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

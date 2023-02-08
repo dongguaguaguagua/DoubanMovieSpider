@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Meri Nimmo",
+  "url": "/subject/30412342/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543568199.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387293/",
+      "name": "安佳丽·帕蒂尔 Anjali Patil"
+    }
+  ]
+,
+  "datePublished": "2018-04-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "The story revolves around Nimmo (Patil), who is soon to be wed. Her only friend, and constant compan...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

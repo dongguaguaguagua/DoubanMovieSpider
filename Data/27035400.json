@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Bonheur académie",
+  "url": "/subject/27035400/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2457752323.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332593/",
+      "name": "劳尔·卡拉米 Laure Calamy"
+    }
+  ]
+,
+  "datePublished": "2017-06-28",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H15M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

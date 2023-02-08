@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "贝多芬组曲 베토벤메들리",
+  "url": "/subject/27097889/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494128959.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329065/",
+      "name": "崔承浩 Seung-ho Choi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379138/",
+      "name": "申文成 Mun-sung Shin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400016/",
+      "name": "Hyun-ji Go  Hyun-ji Go"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385487/",
+      "name": "徐镐哲 Ho-chul Seo"
+    }
+  ]
+,
+  "datePublished": "2018-09-19",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H24M",
+  "description": "도심에서 조금 떨어진 한적한 곳에 있는 다소 허름한 모텔. 이 모텔 2층에는 두 남자가 벽하나 사이에 두고 살고 있다. 트로트작곡가 백도빈(남, 40대 중반)과 택시기사 방두식(남...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

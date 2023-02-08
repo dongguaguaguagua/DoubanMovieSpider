@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神探风云",
+  "url": "/subject/30299359/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2530903960.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275625/",
+      "name": "陈荣峻 Wing Chun Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356152/",
+      "name": "李雨阳 Eddie Li Yu Yeung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314247/",
+      "name": "杨臣刚 Chengang Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412183/",
+      "name": "张米辰 Michen Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-08-27",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H20M",
+  "description": "老刑警顾老九接受上级命令，带领文楠和方小米开办无忧事务所掩护身份，追查假钞案件。无忧事务所表面帮助客户排忧解难，解决生活琐事，实则伺机接近假钞案件中心的万家。万家对警方戒备心很强，由于万董事长卧床不起...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

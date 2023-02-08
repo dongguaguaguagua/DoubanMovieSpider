@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "深夜18楼",
+  "url": "/subject/27602083/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376110/",
+      "name": "段冉 Ran Duan"
+    }
+  ]
+,
+  "datePublished": "2017-12-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "老鬼老魔是一对组合搭档的驱魔人。他们来到传说中闹鬼的18号楼。面对楼里时隐时现的女鬼小秋和精神失常的小月，以及带着不法之心的盗墓贼谷牧，老鬼老魔寻根究底，探索了几年前的一桩往事。经过一番挫折，老鬼老魔...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

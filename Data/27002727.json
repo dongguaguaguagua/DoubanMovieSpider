@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Dead End 2",
+  "url": "/subject/27002727/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2449976026.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456260/",
+      "name": "Cynthia Aileen Strahan Cynthia Aileen Strahan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411943/",
+      "name": "韦米蒂娅·埃拉恩 Vermyttya Erahn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1167175/",
+      "name": "Elizabeth Young Elizabeth Young"
+    }
+  ]
+,
+  "datePublished": "2016-10-31",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "It has been almost 2 years since the small town of Santa Carla had suffered in the hands of the ragi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "遗失的假期 Lost Holiday",
+  "url": "/subject/27119472/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2566998802.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422169/",
+      "name": "迈克尔·凯里·马修斯 Michael Kerry Matthews"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337322/",
+      "name": "托马斯·马修 Thomas Matthews"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422169/",
+      "name": "迈克尔·凯里·马修斯 Michael Kerry Matthews"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337322/",
+      "name": "托马斯·马修 Thomas Matthews"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337414/",
+      "name": "凯特·林恩·希尔 Kate Lyn Sheil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018113/",
+      "name": "乔舒华·莱纳德 Joshua Leonard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166193/",
+      "name": "小伊塞亚·维特洛克 Isiah Whitlock Jr."
+    }
+  ]
+,
+  "datePublished": "2019-12-20",
+  "genre": ["\u559c\u5267", "\u60ac\u7591"],
+  "duration": "PT1H15M",
+  "description": "A New York social worker finds herself embroiled in the kidnapping of a Washington DC socialite.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

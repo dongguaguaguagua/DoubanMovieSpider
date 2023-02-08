@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亚利桑那 Arizona",
+  "url": "/subject/24325907/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528233110.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354931/",
+      "name": "乔纳森·沃森 Jonathan Watson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400518/",
+      "name": "乔纳森·沃森 Jonathan Watson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331490/",
+      "name": "卢克·德尔·特雷迪西 Luke Del Tredici"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013797/",
+      "name": "丹尼·麦克布莱德 Danny McBride"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040580/",
+      "name": "罗丝玛丽·德薇特 Rosemarie DeWitt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049503/",
+      "name": "卢克·威尔逊 Luke Wilson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317110/",
+      "name": "伊丽莎白·吉莱丝 Elizabeth Gillies"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022634/",
+      "name": "凯特琳·奥尔森 Kaitlin Olson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400519/",
+      "name": "罗丽·索伦森 Lolli Sorenson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428748/",
+      "name": "崔维斯·汉默 Travis Hammer"
+    }
+  ]
+,
+  "datePublished": "2018-01-20",
+  "genre": ["\u559c\u5267", "\u60ca\u609a"],
+  "duration": "PT1H25M",
+  "description": "A homicidal foreclosure victim kidnaps a real estate agent and plans to kill her in the housing deve...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "335",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

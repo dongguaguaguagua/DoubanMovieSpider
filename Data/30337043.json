@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "仰光黄金梦 Rangoon",
+  "url": "/subject/30337043/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535360189.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427035/",
+      "name": "高达姆·卡尔迪克 Gautham Karthik"
+    }
+  ]
+,
+  "datePublished": "2017-06-09",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT2H6M",
+  "description": "三个怀揣梦想的年轻人想通过从缅甸走私黄金来发家致富。但等待他们的除了金钱与爱情还有危机重重的陷阱。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

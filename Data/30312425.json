@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "丹尼尔·斯洛斯：现场表演 Daniel Sloss: Live Shows",
+  "url": "/subject/30312425/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2533925433.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348886/",
+      "name": "丹尼尔·斯洛斯 Daniel Sloss"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348886/",
+      "name": "丹尼尔·斯洛斯 Daniel Sloss"
+    }
+  ]
+,
+  "datePublished": "2018-09-11",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H58M",
+  "description": "The dark mind of Daniel Sloss is back, and he&#39;s ready to find the funny in some very taboo topics, f...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5610",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "9.3"
+  }
+}

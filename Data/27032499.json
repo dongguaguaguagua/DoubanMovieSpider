@@ -1,0 +1,37 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绯闻III 스캔들III",
+  "url": "/subject/27032499/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2457135724.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355462/",
+      "name": "池恩瑞 Ji Eun-seo"
+    }
+  ]
+,
+  "datePublished": "2017-03-29",
+  "genre": ["\u5267\u60c5", "\u60c5\u8272"],
+  "duration": "PT1H19M",
+  "description": "막장과 비밀 사이, 이제 본격적인 방송이 시작된다!
+솔직하고 대담한 팟캐스트 방송으로 인터넷 실검 1위에 오르는 등 서서히 예전의 명성(?)을 되찾아가고 있는 왕년의 슈퍼스타 혁빈...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "386",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

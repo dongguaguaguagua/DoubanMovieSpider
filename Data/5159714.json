@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "简单的生物 Simple Creature",
+  "url": "/subject/5159714/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2584788585.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313618/",
+      "name": "拉塞尔·霍奇金森 Russell Hodgkinson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337156/",
+      "name": "艾莉西亚·戴尔莫 Alycia Delmore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270221/",
+      "name": " Carollani Sandberg"
+    }
+  ]
+,
+  "datePublished": "2017-07-25",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H32M",
+  "description": "An obliviously modern college student gets into a near-fatal bus accident, but is reborn through hyb...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

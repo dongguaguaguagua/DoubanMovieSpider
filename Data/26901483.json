@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "A Beginner&#39;s Guide to Snuff",
+  "url": "/subject/26901483/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2392829745.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408672/",
+      "name": "米切尔·阿尔蒂里 Mitchell Altieri"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408672/",
+      "name": "米切尔·阿尔蒂里 Mitchell Altieri"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1111085/",
+      "name": "乔伊·科恩 Joey Kern"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1084775/",
+      "name": "卢克·爱德华兹 Luke Edwards"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1225075/",
+      "name": " Bree Williamson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1100354/",
+      "name": "布拉德·格林奎斯特 Brad Greenquist"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127383/",
+      "name": "Perry Laylon Ojeda Perry Laylon Ojeda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316481/",
+      "name": "卡特·麦金太尔 Carter MacIntyre "
+    }
+  ]
+,
+  "datePublished": "2016-03-04",
+  "genre": ["\u559c\u5267", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H27M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

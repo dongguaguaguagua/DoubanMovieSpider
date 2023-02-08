@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灰姑娘 The Small Woman in Grey",
+  "url": "/subject/27185068/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2503646915.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050181/",
+      "name": "布琳克·史蒂文斯 Brinke Stevens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307342/",
+      "name": "Matt Fisher Matt Fisher"
+    }
+  ]
+,
+  "datePublished": "2017-10-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "A group of teenagers go for a partying weekend in the woods. Unknown to them the woods they have cho...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

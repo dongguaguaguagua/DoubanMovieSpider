@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夺魂惧 Inoperable",
+  "url": "/subject/26819079/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2494781426.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019025/",
+      "name": "丹妮尔·哈丽丝 Danielle Harris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328988/",
+      "name": "杰夫·丹顿 Jeff Denton"
+    }
+  ]
+,
+  "datePublished": "2017-12-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "A young woman wakes up in a seemingly evacuated hospital with a hurricane approaching and realizes t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

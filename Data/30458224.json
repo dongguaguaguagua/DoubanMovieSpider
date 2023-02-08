@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们要去的地方 Là où on va",
+  "url": "/subject/30458224/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2547920175.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356285/",
+      "name": "希奥菲尔·巴奎特 Théophile Baquet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440708/",
+      "name": "Lou Gala Lou Gala"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Louis has had mucoviscidosis since his childhood. When his doctor announces that a transplant is nec...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

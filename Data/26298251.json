@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "模特 The Model",
+  "url": "/subject/26298251/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508222080.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210892/",
+      "name": "迈德·麦特森 Mads Matthiesen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210892/",
+      "name": "迈德·麦特森 Mads Matthiesen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356637/",
+      "name": "安德斯·弗里斯夫·奥古斯特 Anders Frithiof August"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356449/",
+      "name": "马丁·赞里维特 Martin Zandvliet"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329130/",
+      "name": "艾德·斯克林 Ed Skrein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339836/",
+      "name": "克莱尔·陈 Claire Tran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1098173/",
+      "name": "蒂埃里·汉西斯 Thierry Hancisse"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333361/",
+      "name": "多米尼克·奥伯恩 Dominic Allburn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1266003/",
+      "name": "马可·艾索 Marco Ilsø"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412093/",
+      "name": "夏洛特·托马斯泽夫斯卡 Charlotte Tomaszewska"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411036/",
+      "name": "玛丽亚·帕尔姆 Maria Palm"
+    }
+  ]
+,
+  "datePublished": "2016-02-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "电影讲述了新晋崭露头角的模特艾玛进军巴黎时尚圈，并陷入对时尚摄影师Shane White痴恋的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "479",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

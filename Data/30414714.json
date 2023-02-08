@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "泰南情歌 มหาลัยวัวชน",
+  "url": "/subject/30414714/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543771929.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340591/",
+      "name": "邦松·纳卡普 Boonsong Nakphoo"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-03-30",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H59M",
+  "description": "A Thai country boy who is passionate about music, lives a youthful romance, but will have to drop ev...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

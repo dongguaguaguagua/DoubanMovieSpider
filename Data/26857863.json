@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "饥饿 The Hunger",
+  "url": "/subject/26857863/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359686/",
+      "name": "卢克·斯科特 Luke Scott"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359686/",
+      "name": "卢克·斯科特 Luke Scott"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "20世纪福克斯最近买下了Alma Katsu下部小说《饥饿》（The Hunger）的电影版权，这部小说以《行尸走肉》的风格叙述了北美历史上最恐怖的一段“食人”历史。
+在美国历史上曾有一段时期，人们从...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

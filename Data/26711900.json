@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "自行车手之死 Breaking the Chain",
+  "url": "/subject/26711900/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2406734008.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302420/",
+      "name": "克里斯·穆雷 Chris Murray"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314394/",
+      "name": "内尔·德贞 Neil Dudgeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1268856/",
+      "name": "格威利姆·李 Gwilym Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080982/",
+      "name": "菲奥娜·多尔曼 Fiona Dolman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428602/",
+      "name": "曼金德·维尔克 Manjinder Virk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353987/",
+      "name": "奥莉维娅·维纳勒 Olivia Vinall"
+    }
+  ]
+,
+  "datePublished": "2016-01-27",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H29M",
+  "description": "An international cycling competition comes to the Midsomer village of Burwood Mantle. When the race ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

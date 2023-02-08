@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鳏夫跨美旅 American Dresser",
+  "url": "/subject/26666065/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2535033673.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017913/",
+      "name": "吉娜·格申 Gina Gershon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019024/",
+      "name": "汤姆·贝伦杰 Tom Berenger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013868/",
+      "name": "佩内洛普·安·米勒 Penelope Ann Miller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019012/",
+      "name": "凯斯·大卫 Keith David"
+    }
+  ]
+,
+  "datePublished": "2018-09-21",
+  "genre": ["\u5267\u60c5", "\u5192\u9669"],
+  "duration": "PT1H37M",
+  "description": "After the sudden death of his wife and a fractured relationship with his two daughters, John Moore a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "155",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

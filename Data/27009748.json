@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "艾娃 Ava",
+  "url": "/subject/27009748/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520395798.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340437/",
+      "name": "蕾雅·梅西斯 Léa Mysius"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340437/",
+      "name": "蕾雅·梅西斯 Léa Mysius"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387655/",
+      "name": "保罗·圭哈姆 Paul Guilhaume"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376488/",
+      "name": "诺亚·阿比塔 Noée Abita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332593/",
+      "name": "劳尔·卡拉米 Laure Calamy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387656/",
+      "name": "胡安·卡诺 Juan Cano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387657/",
+      "name": "塔玛拉·卡诺 Tamara Cano"
+    }
+  ]
+,
+  "datePublished": "2017-05-19",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H45M",
+  "description": "13岁的艾娃长期受视网膜色素病变的眼疾侵扰，失明的恐惧让她变得寂寞又固执。这年夏天，她与单亲的妈妈和年幼的妹妹到海边度假，无论是做着日光浴的男男女女或是母亲的艳遇，周遭的一切都令她不耐，同时，她发现自...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1854",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

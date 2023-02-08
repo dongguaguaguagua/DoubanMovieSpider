@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "王牌总裁霸王花",
+  "url": "/subject/27197131/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348162/",
+      "name": "冯哲 Zhe Feng"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357155/",
+      "name": "张已桂 Yigui Zhang"
+    }
+  ]
+,
+  "datePublished": "2017-11-09",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "富商温如虎得罪了人，为了保证自己的独女温婉不受伤害，于是派自己泰国兄弟历开石的女儿十三媚回国保护，同时和霸道总裁梁山签了保险合同，保护温婉的安全。其实这是历开石和温如虎的计谋，他们利用温婉来骗取梁山的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "丧丧的爱",
+  "url": "/subject/30140748/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2513001254.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439547/",
+      "name": "赵梦娜 Mengna Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448410/",
+      "name": "何奕辰 Yichen He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448411/",
+      "name": " "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448412/",
+      "name": " "
+    }
+  ]
+,
+  "datePublished": "2018-02-05",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H10M",
+  "description": "男主角陈权导演系毕业后，因生活所迫，成为了一名整天穿梭于形形色色人之间的功能性胸贴推销员，而他最初的梦想是想成为一名优秀的导演。经历公司转型和老板的携款潜逃。为了糊口，说了谎话骗大学时代暗恋的师姐罗璃...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

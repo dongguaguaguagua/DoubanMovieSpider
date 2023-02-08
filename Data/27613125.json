@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "独自在死亡之夜 Alone in the Dead of Night",
+  "url": "/subject/27613125/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2688549778.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409269/",
+      "name": "马蒂·卡斯诺 Matty Castano"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409269/",
+      "name": "马蒂·卡斯诺 Matty Castano"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H35M",
+  "description": "Mallory, a depressive, pill-popping art student with a knee injury, must survive the night in her ap...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

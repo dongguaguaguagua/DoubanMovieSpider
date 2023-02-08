@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Caminhos Magnétykos",
+  "url": "/subject/26780157/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2882638078.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1148704/",
+      "name": "埃德加·佩拉 Edgar Pêra"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417535/",
+      "name": "阿尔芭·巴普蒂斯塔 Alba Baptista"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470524/",
+      "name": "艾瑞斯·卡亚特 Iris Cayatte"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Raymond Vachs has been living in Portugal for ages – so long in fact, that his family is more from t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

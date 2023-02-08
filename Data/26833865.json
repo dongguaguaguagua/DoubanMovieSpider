@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "真白之恋 真白の恋",
+  "url": "/subject/26833865/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506827170.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385348/",
+      "name": "坂本欣弘 Yoshihiro Sakamoto"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322093/",
+      "name": "北川亚矢子 Ayako Kitagawa"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385349/",
+      "name": "佐藤美雪 Miyuki Satô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033453/",
+      "name": "高桥真唯 Mai Takahashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331762/",
+      "name": "福地佑介 Yusuke Fukuchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020935/",
+      "name": "长谷川初范 Hatsunori Hasegawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385350/",
+      "name": "山口诗史 Shifumi Yamaguchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385351/",
+      "name": "杉浦文纪 Bunki Sugiura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313501/",
+      "name": "及川奈央 Nao Oikawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385352/",
+      "name": "村上刚基 Kôki Murakami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385353/",
+      "name": "內田桃香 Momoka Uchida"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385354/",
+      "name": "深川格 Kaku Fukagawa"
+    }
+  ]
+,
+  "datePublished": "2016-08-18",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H37M",
+  "description": "片以有着“日本威尼斯”之称的富山县射水市为舞台，讲述了患有轻度认知障碍的女子・真白，初次坠入爱河后的故事。全篇外景都在富山取景拍摄。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2681",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

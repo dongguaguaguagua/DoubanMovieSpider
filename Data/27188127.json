@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猴子农场 Monkey Farm",
+  "url": "/subject/27188127/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2503921134.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195652/",
+      "name": "Chris Douglas Chris Douglas"
+    }
+  ]
+,
+  "datePublished": "2017-10-10",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H56M",
+  "description": "An exploration of what happens when human curiosity and animal rage collide. This low-budget, high-c...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

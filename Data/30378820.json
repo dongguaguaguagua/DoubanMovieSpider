@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "王者攻略",
+  "url": "/subject/30378820/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539933387.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328733/",
+      "name": "苗述 Shu Miao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329270/",
+      "name": "宋睿 Rui Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352020/",
+      "name": "陈霖生 Linsheng Chen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H31M",
+  "description": "墨者巨子屈子野，秉承墨家理想，帮助楚王回国复位，在蔡侯被诱骗至楚国临危受命保护蔡国，蔡国城破纵身跳入火海，三年后他卷土重来，他要不负所托，为蔡侯复仇。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猛兽 Les Fauves",
+  "url": "/subject/27120397/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2541563264.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338389/",
+      "name": "文森特·马希特 Vincent Mariette"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338389/",
+      "name": "文森特·马希特 Vincent Mariette"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1246085/",
+      "name": "玛丽·阿玛苏克里 Marie Amachoukeli-Barsacq"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342384/",
+      "name": "莉莉-罗丝·德普 Lily-Rose Melody Depp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1106952/",
+      "name": "罗兰·拉斐特 Laurent Lafitte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348664/",
+      "name": "卡米尔·科坦 Camille Cottin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368241/",
+      "name": "阿罗伊斯·索维奇 Aloïse Sauvage"
+    }
+  ]
+,
+  "datePublished": "2018-10-02",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "莉莉-罗丝·德普([舞女])、罗兰·拉菲特([她])主演的新片[猛兽](Les Fauves，暂译)将于今秋开拍。该片由文森特·马希特执导，文森特将和玛丽·阿玛苏克里共同担任编剧。影片故事发生在法国多...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "133",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

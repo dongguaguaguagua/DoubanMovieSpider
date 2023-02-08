@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "失去贝拉特斯的波利斯 Boris sans Béatrice",
+  "url": "/subject/26614205/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2458159154.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184096/",
+      "name": "德尼·科泰 Denis Côté"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184096/",
+      "name": "德尼·科泰 Denis Côté"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019240/",
+      "name": "德尼·拉旺 Denis Lavant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037202/",
+      "name": "罗克·拉福蒂纳 Roc LaFortune"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247129/",
+      "name": "伊索尔达·戴查克 Isolda Dychauk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110574/",
+      "name": "布鲁斯·拉布鲁斯 Bruce La Bruce"
+    }
+  ]
+,
+  "datePublished": "2016-02-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "A man begins having an extramarital affair to deal with his emotional and companionship needs while ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "240",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Swinging Lanterns Stories",
+  "url": "/subject/26930390/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020037/",
+      "name": "伊恩·斯托克尔 Ian Stokell"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049495/",
+      "name": "卡拉·古奇诺 Carla Gugino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040527/",
+      "name": "丽贝卡·罗梅恩 Rebecca Romijn"
+    }
+  ]
+,
+  "datePublished": "2018-12-31",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

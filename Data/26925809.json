@@ -1,0 +1,95 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "西班牙之旅 The Trip to Spain",
+  "url": "/subject/26925809/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2678291908.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002728/",
+      "name": "迈克尔·温特伯顿 Michael Winterbottom"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027820/",
+      "name": "史蒂夫·库根 Steve Coogan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078835/",
+      "name": "罗伯·布莱顿 Rob Brydon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346249/",
+      "name": "玛塔·巴里奥 Marta Barrio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319268/",
+      "name": "克莱尔·基兰 Claire Keelan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356178/",
+      "name": "贾斯汀·爱德华兹 Justin Edwards"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346247/",
+      "name": "丽贝卡·约翰逊 Rebecca Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346248/",
+      "name": "蒂莫西·利奇 Timothy Leach"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322372/",
+      "name": "凯瑞·莎勒 Kerry Shale"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335502/",
+      "name": "凯尔·索列尔 Kyle Soller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040626/",
+      "name": "玛戈·斯蒂雷 Margo Stilley"
+    }
+  ]
+,
+  "datePublished": "2017-04-22",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H48M",
+  "description": "史蒂夫·科根和罗伯·布朗（Rob Brydon）在西班牙进行了6场短暂的旅途。 在途中抽取餐厅，餐馆和景点。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "483",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

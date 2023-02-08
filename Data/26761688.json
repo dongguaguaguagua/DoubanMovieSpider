@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "生死之墙 The Wall",
+  "url": "/subject/26761688/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2452532259.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022741/",
+      "name": "道格·里曼 Doug Liman"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378754/",
+      "name": "德温·沃勒尔 Dwain Worrell"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017887/",
+      "name": "亚伦·泰勒-约翰逊 Aaron Taylor-Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044883/",
+      "name": "约翰·塞纳 John Cena"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209787/",
+      "name": "莱斯·纳克里 Laith Nakli"
+    }
+  ]
+,
+  "datePublished": "2017-05-12",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6218\u4e89"],
+  "duration": "PT1H30M",
+  "description": "故事围绕驻扎伊拉克的两名士兵展开，队友受伤，神秘狙击手的穷追不舍，矮墙铸成最后一道生命线。两人将何去何存？一场猫鼠游戏在所难免。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "18283",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

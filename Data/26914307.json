@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "最后的卡式录音带 Final Cassette",
+  "url": "/subject/26914307/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2397435145.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410241/",
+      "name": "邓亮宏 Lianghong Deng"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-06-01",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT0H18M",
+  "description": "一个沉迷于过去的书店老板被迫追查过去的卡带录音，追查当年恋人神秘消失的真相，同时他也要完成一个尘封在记忆深处的奇幻故事..",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三十那年",
+  "url": "/subject/30285932/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529362957.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398490/",
+      "name": "郑小东 Xiaodong Zheng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398490/",
+      "name": "郑小东 Xiaodong Zheng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398491/",
+      "name": "尤天翔 Tianxiang You"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398492/",
+      "name": "张颖冰 Yingbing Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327158/",
+      "name": "秦汉擂 Hanlei Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398493/",
+      "name": "郑梦琪 Mengqi Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315095/",
+      "name": "侯耀华 Yaohua Hou"
+    }
+  ]
+,
+  "datePublished": "2018-08-03",
+  "genre": ["\u7231\u60c5", "\u6b4c\u821e"],
+  "duration": "PT1H32M",
+  "description": "卢鹏程，白天是普通住宅小区里的保安，晚上是酒吧通宵驻唱歌手。 卢鹏程对保安工作毫无兴趣，终日在传达室里晕睡、补觉，甚至个性自视清高，不爱与同事来往。 他有一个歌手梦，但十年来，毫无进展，反复辗转在三流...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

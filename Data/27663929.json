@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "GODDESS＋Messiah",
+  "url": "/subject/27663929/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510805890.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400242/",
+      "name": "堀内秋美 Akemi Horiuchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400293/",
+      "name": "爱原由 Yua Aihara"
+    }
+  ]
+,
+  "datePublished": "2016-06-28",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "PT1H57M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "左滩",
+  "url": "/subject/30261979/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2526771176.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334538/",
+      "name": "张智超 Chih-chao Chang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334538/",
+      "name": "张智超 Chih-chao Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396590/",
+      "name": "陈婉青 Wanqing Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334538/",
+      "name": "张智超 Chih-chao Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353007/",
+      "name": "安然 Ran An"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396591/",
+      "name": "卢喜文 Xiwen Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318647/",
+      "name": "袁中方 Zhongfang Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329090/",
+      "name": "李美慧 Meihui Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364222/",
+      "name": "廖崇儒 Chongru Liao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374911/",
+      "name": "郑小毛 Xiaomao Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396592/",
+      "name": "温广瑜 Guangyu Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396593/",
+      "name": "唐茜 Qian Tang"
+    }
+  ]
+,
+  "datePublished": "2018-07-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "建于70年代的顺德左滩“甘竹滩发电站”是全国唯一一个洪潮水力发电站，老余和渔业村大部分村民一样，当时参加了发电站的建设并见证了发电站几十年的兴衰，老余的儿子顺风童年就在渔村里和同村的阿德和美欣两姐弟一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "热铁皮屋顶上的猫 National Theatre Live: Cat on a Hot Tin Roof",
+  "url": "/subject/27130558/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505741200.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355503/",
+      "name": "本尼迪克特·安德鲁斯 Benedict Andrews"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000329/",
+      "name": "田纳西·威廉斯 Tennessee Williams"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003485/",
+      "name": "西耶娜·米勒 Sienna Miller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022761/",
+      "name": "杰克·奥康奈尔 Jack O&#39;Connell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019029/",
+      "name": "科尔姆·米尼 Colm Meaney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357690/",
+      "name": "海莉·斯奎尔斯 Hayley Squires"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1227388/",
+      "name": "布莱恩·格里森 Brian Gleeson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1144415/",
+      "name": "迈克尔·珊农 Michael Shannon"
+    }
+  ]
+,
+  "datePublished": "2018-02-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Tennessee Williams’ twentieth century masterpiece Cat on a Hot Tin Roof played a strictly limited se...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "74",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "赌注 The Bet",
+  "url": "/subject/27596324/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2580045507.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1125216/",
+      "name": "娜塔莎·里特 Natasha Little"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327055/",
+      "name": "道格拉斯·霍奇斯 Douglas Hodges"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314721/",
+      "name": "科林·萨蒙 Colin Salmon"
+    }
+  ]
+,
+  "datePublished": "2020-03-16",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "A woman makes a bet with her husband that she can get the next man she sees to propose to her.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

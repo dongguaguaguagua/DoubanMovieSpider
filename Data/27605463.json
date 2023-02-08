@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "孤寂 Desolation",
+  "url": "/subject/27605463/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2507739486.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040654/",
+      "name": "大卫·莫斯科 David Moscow"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1093400/",
+      "name": "多米尼克·加西亚-洛里多 Dominik García-Lorido"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354184/",
+      "name": "凯莱·弗莱明 Cailey Fleming"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032043/",
+      "name": "雷蒙德·J·巴里 Raymond J. Barry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192411/",
+      "name": "布洛克·凯利 Brock Kelly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1094303/",
+      "name": "Shawn Michael Howard Shawn Michael Howard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460196/",
+      "name": "玛莎·瓦西列芙斯卡娅 Marsha Vassilevskaia"
+    }
+  ]
+,
+  "datePublished": "2017-10-25",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "与英俊的好莱坞明星一起到他在洛杉矶的住所之后，凯蒂独自呆在他的公寓里，发生了一连串奇怪而可怕的事情……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "327",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

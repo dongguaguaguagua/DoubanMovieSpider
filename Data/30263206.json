@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "李毅大帝",
+  "url": "/subject/30263206/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2526888551.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352667/",
+      "name": "李毅 Yi Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468965/",
+      "name": "苗锟 "
+    }
+  ]
+,
+  "datePublished": "2018-07-03",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "青年球员奎海在即将进入职业队的时刻被教练放弃，相恋多年的女友珍妮也离他而去，陷入了生活的迷茫中。
+奎海来到了一个健身房工作，在清闲而无聊的工作间，他意外的发现了一个神秘的通道，他走进去，突然被通道吸到...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

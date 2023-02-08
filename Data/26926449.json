@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绿野仙踪之奥兹国奇幻之旅 Урфин Джюс и его деревянные солдаты",
+  "url": "/subject/26926449/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2464047128.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375720/",
+      "name": "费多·德米提亚夫 Fyodor Dmitriev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375721/",
+      "name": "达尼那·斯米德 Darina Shmidt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329208/",
+      "name": "维拉迪米尔·托拉普琴 Vladimir Toropchin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375723/",
+      "name": "亚历山大·博亚斯基 Aleksandr Boyarskiy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375724/",
+      "name": "杰弗里·海尔顿 Jeffrey Hylton"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215031/",
+      "name": "德米特里·迪尤舍夫 Dmitriy Dyuzhev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1107328/",
+      "name": "康斯坦丁·哈宾斯基 Konstantin Khabensky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306945/",
+      "name": "谢尔盖·希纳罗维 Sergey Shnurov"
+    }
+  ]
+,
+  "datePublished": "2016-05-11",
+  "genre": ["\u52a8\u753b", "\u5bb6\u5ead", "\u5192\u9669"],
+  "duration": "PT1H32M",
+  "description": "狡猾且诡计多端的Urfin发现了一种神奇的魔法粉，这种魔法粉可以赋予任何事物以生命。Urfin由此制造了听命于自己的木头人士兵队，并凭借庞大的军队统治了翡翠城。但是一个名叫Dorothy的女孩也在这时...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "841",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

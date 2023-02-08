@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "塔玛拉 Tamara",
+  "url": "/subject/26885482/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2386121134.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014218/",
+      "name": "西尔维·泰斯蒂 Sylvie Testud"
+    }
+  ]
+,
+  "datePublished": "2016-10-26",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Tamara, 15 ans, complexée par ses rondeurs, décide à son entrée en seconde de se débarrasser de son ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

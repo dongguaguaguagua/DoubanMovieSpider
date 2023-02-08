@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Tamara Vol. 2",
+  "url": "/subject/30277044/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2529369431.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441823/",
+      "name": "让-弗朗索瓦·凯雷 Jean-François Cayrey"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H42M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

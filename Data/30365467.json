@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "金陵三绝之猾丐",
+  "url": "/subject/30365467/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2538795505.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411802/",
+      "name": "张津涛 Jintao Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315665/",
+      "name": "雷牧 Mu Lei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374932/",
+      "name": "优优 Youyou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387307/",
+      "name": "邵老五 Laowu Shao"
+    }
+  ]
+,
+  "datePublished": "2018-10-30",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H32M",
+  "description": "电影《猾丐》讲述了武状元苏乞儿留下一个金碗传于后人猾丐，江湖传说金碗内藏有重要的秘密，于是江湖各路人马为争夺金碗，设计引出猾丐而引发的一系列搞怪故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "什么是兄弟",
+  "url": "/subject/26855737/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2373881380.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361046/",
+      "name": "赵祥博 Xiangbo Zhao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361093/",
+      "name": "洪国强 Guoqiang Hong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361046/",
+      "name": "赵祥博 Xiangbo Zhao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "与《四平青年》电影的创作理念有相似之处，《什么是兄弟》将采用励志形电影的形式和大家见面。本片主要从农村生活，城市生活，青春，情义，利益，励志等方面入手。
+故事主要围绕七个农村兄弟，从农村打拼到城市的经...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

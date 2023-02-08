@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大街肉 Main Street Meats",
+  "url": "/subject/27181866/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503238467.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407666/",
+      "name": "迈克·普萨特瑞 Mike Pusateri"
+    }
+  ]
+,
+  "datePublished": "2017-08-13",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H50M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

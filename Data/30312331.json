@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Garage Sale Mystery: The Mask Murder",
+  "url": "/subject/30312331/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533446876.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012605/",
+      "name": "梅尔·达米斯基 Mel Damski"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042055/",
+      "name": "克莱格·温曼 Kraig Wenman"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025192/",
+      "name": "洛莉·路格林 Lori Loughlin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1154128/",
+      "name": "莎拉·斯特兰奇 Sarah Strange"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1060911/",
+      "name": "斯蒂夫·巴西奇 Steve Bacic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430086/",
+      "name": "埃娃·布恩 Eva Bourne"
+    }
+  ]
+,
+  "datePublished": "2018-08-12",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT1H24M",
+  "description": "Garage sale guru Jennifer Shannon (Loughlin) discovers a dead body in the storage locker she and bus...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

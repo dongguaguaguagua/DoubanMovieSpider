@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "艳遇也疯狂",
+  "url": "/subject/26692478/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2300305009.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353609/",
+      "name": "陈剑 Jian Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353609/",
+      "name": "陈剑 Jian Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-01-03",
+  "genre": ["\u7231\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H30M",
+  "description": "七夕节的夜晚，深圳电台《相伴到黎明》栏目接到了听众阿雅的求助电话，阿雅称自己的老公阿彬因一段婚外情跟自己的婚姻走到了尽头。通过电台主持人的调解，阿雅承诺只要老公改过自新，愿不计前嫌重新来过。
+富二代阿...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "465",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.2"
+  }
+}

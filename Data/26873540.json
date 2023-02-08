@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "想得美",
+  "url": "/subject/26873540/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2442688357.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360607/",
+      "name": "司卉 Hui Si"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360033/",
+      "name": "峤阳 Yang Jiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318840/",
+      "name": "小汤圆 Xiao Tang Yuan"
+    }
+  ]
+,
+  "datePublished": "2017-03-24",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "讲述了（大花牛影视公司）花总、刘柳、陈木三人想拍电影便找到了富二代贺帅筹集资金，贺帅同意了三人的要求，并亲自担任了这部影片的男主，紧接着这三人找到了有着明星梦的卖花小妹林溪担任这部戏的女主，于是，他们...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

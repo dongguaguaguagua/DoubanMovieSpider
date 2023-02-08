@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地狱的皇帝 امپراطور جهنم",
+  "url": "/subject/30238146/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523767352.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358390/",
+      "name": "Ali Nassirian Ali Nassirian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1288157/",
+      "name": "Mohammad Kasebi Mohammad Kasebi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

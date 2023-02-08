@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灿烂人生 C&#39;est beau la vie quand on y pense",
+  "url": "/subject/27025776/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2462918596.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048281/",
+      "name": "热拉尔·朱尼奥 Gérard Jugnot"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343530/",
+      "name": "盖伊·洛朗 Guy Laurent"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341568/",
+      "name": "罗曼·普罗塔特 Romain Protat"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048281/",
+      "name": "热拉尔·朱尼奥 Gérard Jugnot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019268/",
+      "name": "玛丽·布奈尔 Marie Bunel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048466/",
+      "name": "伊莎贝尔·莫歌特 Isabelle Mergault"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419089/",
+      "name": "弗朗索瓦·德布洛克 François Deblock"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028328/",
+      "name": "贝尔纳·勒科克 Bernard Le Coq"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336776/",
+      "name": "盖娅·威斯 Gaia Weiss"
+    }
+  ]
+,
+  "datePublished": "2017-04-12",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "Loïc Le Tallec est accablé de peine quand il perd son fils dans un accident de la route. Après son d...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

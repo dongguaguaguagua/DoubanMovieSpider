@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魔术师杀人事件 Abrakadabra",
+  "url": "/subject/30354144/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553174266.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414530/",
+      "name": "路西安诺·欧纳提 Luciano Onetti"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414530/",
+      "name": "路西安诺·欧纳提 Luciano Onetti"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434809/",
+      "name": "克拉拉·科瓦西奇 Clara Kovacic"
+    }
+  ]
+,
+  "datePublished": "2018-11-03",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H9M",
+  "description": "In the tradition of giallos of the early 70s a magician finds himself the target of a sadistic seria...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

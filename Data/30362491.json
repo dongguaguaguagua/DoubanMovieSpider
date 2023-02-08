@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "犬神家族 犬神家の一族",
+  "url": "/subject/30362491/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2538065099.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315251/",
+      "name": "泽田镰作 Kensaku Sawada"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360315/",
+      "name": "根本非翟 Nemoto Nonji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021268/",
+      "name": "横沟正史 Seishi Yokomizo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313098/",
+      "name": "加藤成亮 Shigeaki Kato"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275257/",
+      "name": "贺来贤人 Kento Kaku"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028490/",
+      "name": "黑木瞳 Hitomi Kuroki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038032/",
+      "name": "高梨临 Rin Takanashi"
+    }
+  ]
+,
+  "datePublished": "2018-12-24",
+  "genre": ["\u60ac\u7591"],
+  "duration": "",
+  "description": "昭和22年，那须湖畔的一代富豪犬神佐兵卫（里见浩太朗饰）留下巨额遗产离开人世。遗产的分配方式，要等佐兵卫的长女松子（黑木瞳饰）的独生儿子犬神佐清（贺来贤人饰）从战场回来后才能公开。犬神一家等待着佐清的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1015",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

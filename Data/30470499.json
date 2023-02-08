@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Red Room",
+  "url": "/subject/30470499/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2549412603.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390824/",
+      "name": "布赖恩·福琼 Brian Fortune"
+    }
+  ]
+,
+  "datePublished": "2017-10-31",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H36M",
+  "description": "Held hostage in an isolated house, three kidnapped women attempt to escape from their sadistic capto...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

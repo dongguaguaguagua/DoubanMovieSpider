@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "十八盗之云中鹤",
+  "url": "/subject/26918871/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2411753020.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412048/",
+      "name": "窦微 Wei Dou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322415/",
+      "name": "李冰 Bing Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415496/",
+      "name": "韩明熙 Mingxi Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379265/",
+      "name": "杨卿 Qing Yang"
+    }
+  ]
+,
+  "datePublished": "2017-01-05",
+  "genre": ["\u559c\u5267", "\u60ac\u7591", "\u53e4\u88c5"],
+  "duration": "PT1H10M",
+  "description": "万历年间，江洋大盗云中鹤在江南重镇南州屡屡作案，朝廷急命东厂新秀查小男前去抓捕，查小男日夜兼程赶赴南州，遇上民女罗莉在天涯客栈被杀，随身携带的三十斤珍珠不翼而飞，查小男验尸破案，发现案发当晚每个客人都...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

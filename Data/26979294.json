@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Torrey Pines",
+  "url": "/subject/26979294/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2444322978.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307881/",
+      "name": "Webster Crowell Webster Crowell"
+    }
+  ]
+,
+  "datePublished": "2016-10-13",
+  "genre": ["\u52a8\u753b", "\u540c\u6027"],
+  "duration": "PT1H0M",
+  "description": "Torrey Pines is a stop-motion animated feature film by director Clyde Petersen. Based on a true stor...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

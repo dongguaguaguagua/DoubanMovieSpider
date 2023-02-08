@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "明日的我与昨日的你约会 ぼくは明日、昨日のきみとデートする",
+  "url": "/subject/26707472/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2390682054.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274266/",
+      "name": "三木孝浩 Takahiro Miki"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314584/",
+      "name": "吉田智子 Tomoko Yoshida"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375663/",
+      "name": "七月隆文 Takafumi Nanatsuki"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315081/",
+      "name": "福士苍汰 Sôta Fukushi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335340/",
+      "name": "小松菜奈 Nana Komatsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324960/",
+      "name": "东出昌大 Masahiro Higashide"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314939/",
+      "name": "山田裕贵 Yûki Yamada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350196/",
+      "name": "清原果耶 Kaya Kiyohara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375664/",
+      "name": "大鹰明良 Akira Ohtaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037559/",
+      "name": "宫崎美子 Yoshiko Miyazaki"
+    }
+  ]
+,
+  "datePublished": "2016-12-17",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H51M",
+  "description": "美术大学学生南山高寿与福寿爱美电车相遇，他鼓起勇气向女孩表白。在一起后，高寿慢慢发现两人原是旧识，而女孩身上，也隐藏着诸多秘密。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "65384",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

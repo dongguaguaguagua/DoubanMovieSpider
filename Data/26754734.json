@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狼屋 La casa lobo",
+  "url": "/subject/26754734/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534473847.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404703/",
+      "name": "乔奎因·科西纳 Joaquín Cociña"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404704/",
+      "name": "克里斯托弗·列昂 Cristóbal León"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404703/",
+      "name": "乔奎因·科西纳 Joaquín Cociña"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404704/",
+      "name": "克里斯托弗·列昂 Cristóbal León"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404705/",
+      "name": "亚历山德拉·莫法特 Alejandra Moffat"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404706/",
+      "name": "阿玛莉亚·卡西尼 Amalia Kassai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404707/",
+      "name": "雷纳·克劳斯 Rainer Krause"
+    }
+  ]
+,
+  "datePublished": "2018-02-22",
+  "genre": ["\u5267\u60c5", "\u52a8\u753b", "\u6050\u6016"],
+  "duration": "PT1H15M",
+  "description": "曾几何时，智利恶名昭彰的异端组织「尊严殖民地」，由一名恋童的前纳粹份子发起，建立了如同邪教的封闭社区，当中的德国移民，与皮诺切特独裁政权合作， 犯下种种令人发指的罪行。哥西尼亚和里昂合作的定格动画，灵...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4474",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.2"
+  }
+}

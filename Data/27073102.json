@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "古玩鬼",
+  "url": "/subject/27073102/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2499179813.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397812/",
+      "name": "谢毅 Yi Xie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468407/",
+      "name": "李思哿 Sijia Li"
+    }
+  ]
+,
+  "datePublished": "2017-06-20",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H3M",
+  "description": "陕西某村落，一套精美的宋代茶盏面世。古玩专家吴昊天、骗子宋天明、黑社会头目龙哥同时盯紧这套茶盏。几经周折后，吴昊天巧得盏托，宋天明得到茶盏碎片。为凑齐茶盏，宋天明贼心又起，趁夜盗走盏托。另一方面，龙哥...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

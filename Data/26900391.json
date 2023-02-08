@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女他",
+  "url": "/subject/26900391/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516249700.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324774/",
+      "name": "周圣崴 Shengwei Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324774/",
+      "name": "周圣崴 Shengwei Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375177/",
+      "name": "吕伏阳 Fuyang Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324774/",
+      "name": "周圣崴 Shengwei Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426238/",
+      "name": "赵凯欣 "
+    }
+  ]
+,
+  "datePublished": "2018-06-22",
+  "genre": ["\u52a8\u753b", "\u60ca\u609a"],
+  "duration": "PT1H35M",
+  "description": "本片由5万8千张实拍照片组成，耗时6年，是一部表现女性题材的国产纯手工定格动画长片
+在一个不允许女鞋怪物工作的男鞋世界里，因害怕女鞋怪物体内蕴藏的植物原力，新生的女鞋必须立即执行变性手术变为男鞋投入生...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5074",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

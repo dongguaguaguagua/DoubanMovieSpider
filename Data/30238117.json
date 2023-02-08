@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "只有弗洛 Sueño Florianópolis",
+  "url": "/subject/30238117/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2528996743.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042845/",
+      "name": "安娜·卡兹 Ana Katz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042845/",
+      "name": "安娜·卡兹 Ana Katz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1039797/",
+      "name": "Daniel Katz Daniel Katz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050731/",
+      "name": "梅赛黛斯·莫朗 Mercedes Morán"
+    }
+  ]
+,
+  "datePublished": "2018-07-04",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H43M",
+  "description": "Lucrecia, Pedro, and their teenage kids Julian and Florencia set out from Buenos Aires one swelterin...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

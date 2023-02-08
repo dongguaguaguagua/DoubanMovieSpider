@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "毒车 Le convoi",
+  "url": "/subject/26657275/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2299084683.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296943/",
+      "name": "弗雷德里克·施恩多弗 Frédéric Schoendoerffer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296943/",
+      "name": "弗雷德里克·施恩多弗 Frédéric Schoendoerffer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045113/",
+      "name": "伯努瓦·马吉梅尔 Benoît Magimel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005347/",
+      "name": "丽姆·柯里奇 Reem Kherici"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329952/",
+      "name": "陶菲克·杰拉巴 Tewfik Jallab"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484459/",
+      "name": "弗德·阿马拉 Foëd Amara"
+    }
+  ]
+,
+  "datePublished": "2016-01-06",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H41M",
+  "description": "Organisés en go fast, sept hommes, répartis dans quatre voitures, convoient une tonne trois cent de ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "61",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

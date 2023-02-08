@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "欢迎来到马尔利戈蒙 Bienvenue à Marly-Gomont",
+  "url": "/subject/26815265/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2359153956.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451901/",
+      "name": "朱利安·兰博蒂 Julien Rambaldi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024213/",
+      "name": "贝诺伊·格拉芬 Benoît Graffin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451901/",
+      "name": "朱利安·兰博蒂 Julien Rambaldi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348841/",
+      "name": "马克·泽戈 Marc Zinga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1105505/",
+      "name": "乔纳森·朗贝尔 Jonathan Lambert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409202/",
+      "name": "马克西姆·雷诺 Maxime Rennaux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350644/",
+      "name": "塔蒂亚娜·罗乔 Tatiana Rojo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473016/",
+      "name": "Bwanga Pilipi Bwanga Pilipi"
+    }
+  ]
+,
+  "datePublished": "2016-06-08",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u4f20\u8bb0"],
+  "duration": "PT1H36M",
+  "description": "En 1975, Seyolo Zantoko, médecin fraichement diplômé originaire de Kinshasa, saisit l’opportunité d’...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "271",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

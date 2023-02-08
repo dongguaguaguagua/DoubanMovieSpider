@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2017 MTV音乐录影带颁奖典礼 2017 MTV Video Music Awards",
+  "url": "/subject/27130356/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498642808.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041102/",
+      "name": "凯蒂·派瑞 Katy Perry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1129257/",
+      "name": "红粉佳人 Pink"
+    }
+  ]
+,
+  "datePublished": "2017-08-27",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "PT3H5M",
+  "description": "The 2017 MTV Video Music Awards were held on August 27, 2017, at The Forum in Inglewood, California,...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

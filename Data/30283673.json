@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我失去影子的那天 يوم أضعت ظلي",
+  "url": "/subject/30283673/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553194916.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398128/",
+      "name": "苏迪德·卡丹 Soudade Kaadan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398128/",
+      "name": "苏迪德·卡丹 Soudade Kaadan"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-09-03",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "2012年的叙利亚迎来了史上最严酷寒冬，桑娜只希望找个煤气罐为儿子做一顿晚餐。她为了搜寻煤气罐请了一天假，突然发现自己陷入了战乱区；她发现，战争中的人们都没有了影子。本片获第75届威尼斯电影节银狮奖。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "267",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

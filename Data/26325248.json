@@ -1,0 +1,101 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冲动 Urge",
+  "url": "/subject/26325248/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2346463769.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028195/",
+      "name": "杰里·斯塔尔 Jerry Stahl"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316017/",
+      "name": "芭儿·帕丽 Bar Paly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319971/",
+      "name": "亚历克西斯·克纳普 Alexis Knapp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031219/",
+      "name": "皮尔斯·布鲁斯南 Pierce Brosnan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031794/",
+      "name": "阿什丽·格林尼 Ashley Greene"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040530/",
+      "name": "贾斯汀·查特文 Justin Chatwin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031859/",
+      "name": "丹尼·马斯特森 Danny Masterson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040991/",
+      "name": "艾莉森·洛曼 Alison Lohman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1208361/",
+      "name": "克里斯·吉尔 Chris Geere"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054801/",
+      "name": "詹姆斯·德贝罗 James DeBello"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252978/",
+      "name": "尼克·图恩 Nick Thune"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116173/",
+      "name": "欧嘉·梅雷迪斯 Olga Merediz"
+    }
+  ]
+,
+  "datePublished": "2016-06-03",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H29M",
+  "description": "该片讲述四位朋友共同前往一座岛屿度假，期间他们接触一种名为“Urge”的药物，而当四人吸食之后，他们将逐渐走向欲望的深渊。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "335",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

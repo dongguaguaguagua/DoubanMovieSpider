@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女性们 Féminin plurielles",
+  "url": "/subject/33436978/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555644100.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353160/",
+      "name": "Lise Bellynck Lise Bellynck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445908/",
+      "name": "塞布丽娜·莎瓦 Sabrina Seyvecou"
+    }
+  ]
+,
+  "datePublished": "2018-03-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H21M",
+  "description": "Hafsia, Douce, Delphine and Charlotte are four young women who seek to overcome the limits that one ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

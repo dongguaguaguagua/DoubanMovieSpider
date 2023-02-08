@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿兰胡埃斯的美好日子 Les Beaux Jours d&#39;Aranjuez",
+  "url": "/subject/26394684/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2382797701.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054402/",
+      "name": "维姆·文德斯 Wim Wenders"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054402/",
+      "name": "维姆·文德斯 Wim Wenders"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037348/",
+      "name": "彼得·汉德克 Peter Handke"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342703/",
+      "name": "勒达·卡代布 Reda Kateb"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286191/",
+      "name": "延斯·哈泽尔 Jens Harzer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049985/",
+      "name": "尼克·凯夫 Nick Cave"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037348/",
+      "name": "彼得·汉德克 Peter Handke"
+    }
+  ]
+,
+  "datePublished": "2016-09-01",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H37M",
+  "description": "尚且在筹备阶段的维姆·文德斯新片《The Beautiful Days of Aranjuez》已成戛纳香饽饽，交易市场上意大利、巴西、希腊都已超前买下发行权。影片剧本由与文德斯合作《柏林苍穹下》的彼...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "358",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

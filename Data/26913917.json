@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我来也",
+  "url": "/subject/26913917/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2399213916.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476200/",
+      "name": "朱子奇 Ziqi Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365185/",
+      "name": "本李 Ben Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476200/",
+      "name": "朱子奇 Ziqi Zhu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476200/",
+      "name": "朱子奇 Ziqi Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365479/",
+      "name": "陈芳彤 Fangtong Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365480/",
+      "name": "蔡荣 Rong Cai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365481/",
+      "name": "陈烨林 Yelin Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353039/",
+      "name": "胡洁琼 Jieqiong Hu"
+    }
+  ]
+,
+  "datePublished": "2016-11-22",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u53e4\u88c5"],
+  "duration": "PT1H31M",
+  "description": "系列电影《我来也》讲述了天政年间，独眼任侠“我来也”陷入权利斗争，恩人被权倾朝野的大司马杀害，我来也被迫踏上逃亡之路。在被追杀与复仇中，经历了一次又一次与死神擦肩的冒险。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1026",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

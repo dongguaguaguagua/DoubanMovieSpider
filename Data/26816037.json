@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "交易 Traded",
+  "url": "/subject/26816037/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2368037224.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398530/",
+      "name": "玛丽·奥登伯格 Marie Oldenbourg"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": [],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

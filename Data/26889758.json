@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大卫与哥利亚 David and Goliath",
+  "url": "/subject/26889758/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2399336335.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044116/",
+      "name": "Michael Foster Michael Foster"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070845/",
+      "name": "Les Brandt Les Brandt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1083364/",
+      "name": "埃里克·保罗·埃里克森 Eric Paul Erickson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1125678/",
+      "name": "詹姆斯·罗根 James Logan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341244/",
+      "name": "Anthony Marks Anthony Marks"
+    }
+  ]
+,
+  "datePublished": "2016-10-27",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT1H15M",
+  "description": "在两个伟大的古代帝国的十字路口，一个名叫大卫的简单牧羊人变身为一个强大的战士，并遇到了一个可怕的巨人。历史上最具传奇色彩的战斗之一在一个充满勇气和信仰的血腥故事中重演。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜幕低垂 Evening Shadows",
+  "url": "/subject/27197321/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510337280.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307080/",
+      "name": "Sridhar Rangayan Sridhar Rangayan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307080/",
+      "name": "Sridhar Rangayan Sridhar Rangayan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369472/",
+      "name": "莫娜·安伯加卡尔 Mona Ambegaonkar"
+    }
+  ]
+,
+  "datePublished": "2018-09-29",
+  "genre": ["\u5267\u60c5", "\u540c\u6027", "\u5bb6\u5ead"],
+  "duration": "PT1H42M",
+  "description": "Under the &#39;Evening Shadows&#39;, truth often plays hide and seek. Set in South India and Mumbai, &#39;Evenin...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "278",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "他们就是 Onda su onda",
+  "url": "/subject/26728654/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2319556087.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023596/",
+      "name": "罗科·帕帕莱奥 Rocco Papaleo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023596/",
+      "name": "罗科·帕帕莱奥 Rocco Papaleo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308370/",
+      "name": "费代里卡·蓬特雷莫利 Federica Pontremoli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290478/",
+      "name": "Walter Lupo Walter Lupo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032253/",
+      "name": "亚历山德罗·加斯曼 Alessandro Gassmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023596/",
+      "name": "罗科·帕帕莱奥 Rocco Papaleo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1239985/",
+      "name": "卢兹·西普里奥塔 Luz Cipriota"
+    }
+  ]
+,
+  "datePublished": "2016-02-18",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

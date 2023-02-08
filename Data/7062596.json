@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "长江图",
+  "url": "/subject/7062596/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2374818544.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302029/",
+      "name": "杨超 Chao Yang "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302029/",
+      "name": "杨超 Chao Yang "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274463/",
+      "name": "秦昊 Hao Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318720/",
+      "name": "辛芷蕾 Zhilei Xin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319361/",
+      "name": "邬立朋 Lipeng Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319187/",
+      "name": "江化霖 Hualin Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275687/",
+      "name": "谭凯 Kai Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275506/",
+      "name": "王宏伟 Hongwei Wang"
+    }
+  ]
+,
+  "datePublished": "2016-02-15",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H56M",
+  "description": "当代，中国长江沿岸。
+船长高淳（秦昊 饰）在驾驶货船沿长江送货的途中，不断上岸寻找艳遇。但他逐渐发现，这些在不同的码头遇到的女人，好像是同一个人——安陆（辛芷蕾 饰）。只是随着航程的上溯，安陆时而温柔...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "35294",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

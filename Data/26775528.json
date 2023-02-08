@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一种家庭 Una especie de familia",
+  "url": "/subject/26775528/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499176380.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001380/",
+      "name": "迭戈·勒曼 Diego Lerman"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001380/",
+      "name": "迭戈·勒曼 Diego Lerman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044506/",
+      "name": "María Meira María Meira"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000889/",
+      "name": "巴巴拉·莱涅 Bárbara Lennie"
+    }
+  ]
+,
+  "datePublished": "2017-09-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "玛莲娜人到中年，是个事业有成的医生，有一天她接到了一个将要改变她人生的电话：她收养的孩子马上就要出生了。她去往代孕妈妈那里想要带孩子回家，却发现自己被新生儿的亲生父母勒索了。同时，法律站在亲生父母一边...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

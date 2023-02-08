@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卡推女王 Queen of Katwe",
+  "url": "/subject/26265101/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2349703757.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027917/",
+      "name": "米拉·奈尔 Mira Nair"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041993/",
+      "name": "威廉·惠勒 William Wheeler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362911/",
+      "name": "提姆·克洛瑟斯 Tim Crothers"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362912/",
+      "name": "马蒂亚·纳尔万加 Madina Nalwanga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000231/",
+      "name": "大卫·奥伊罗 David Oyelowo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334862/",
+      "name": "露皮塔·尼永奥 Lupita Nyong&#39;o"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362913/",
+      "name": "马汀·卡班泽 Martin Kabanza"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368588/",
+      "name": "泰伦·卡耶兹 Taryn Kyaze"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368589/",
+      "name": "伊凡·雅各布 Ivan Jacobo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368590/",
+      "name": "尼古拉斯·莱韦斯克 Nicolas Levesque"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368591/",
+      "name": "霍普·卡滕德 Hope Katende"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347945/",
+      "name": "阿金·奥莫托索 Akin Omotoso"
+    }
+  ]
+,
+  "datePublished": "2016-09-20",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u8fd0\u52a8"],
+  "duration": "PT2H4M",
+  "description": "本片根据国际象棋神童菲欧娜·木塔西的经历改编而成，菲奥娜出生在乌干达最大的贫民窟卡推，当地教堂为前来学习国际象棋的人提供米粥，菲欧娜为此进入象棋班，极具天赋的她棋艺精进，最终代表国家登上国际棋坛。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3163",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

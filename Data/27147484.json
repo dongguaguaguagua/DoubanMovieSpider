@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Guppy",
+  "url": "/subject/27147484/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499619899.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426794/",
+      "name": "托维诺·托马斯 Tovino Thomas"
+    }
+  ]
+,
+  "datePublished": "2016-08-05",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT2H38M",
+  "description": "The story of a 12 year old boy who sells guppy fish for a living in his colorful beach side colony. ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

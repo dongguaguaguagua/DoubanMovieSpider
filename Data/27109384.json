@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新月 The Crescent",
+  "url": "/subject/27109384/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499431140.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398960/",
+      "name": "赛斯·A·史密斯 Seth A. Smith"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398961/",
+      "name": "达西·斯比德 Darcy Spidle"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398958/",
+      "name": "丹尼卡·凡德斯滕 Danika Vandersteen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398959/",
+      "name": "布里特·洛德 Britt Loder"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H39M",
+  "description": "因为一起意外悲剧，寡妇贝丝带着两岁大的儿子劳文，来到一幢遗世独立的海边小屋，试图缓解失去丈夫的伤痛，诡异难解的怪事却接二连三发生，例如半夜听到墙壁钻孔的噪音，或是一群形容枯槁的陌生人在海滨盯着他们的房...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

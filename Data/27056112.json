@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Move! Dance Your Life",
+  "url": "/subject/27056112/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287640/",
+      "name": "Fanny Jean-Noel Fanny Jean-Noel"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-05-10",
+  "genre": ["\u6b4c\u821e"],
+  "duration": "PT1H16M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

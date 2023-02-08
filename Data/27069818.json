@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "有言在仙",
+  "url": "/subject/27069818/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2501117521.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430974/",
+      "name": "傅闱玮 Weiwei Fu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361349/",
+      "name": "李梓 Zi Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361352/",
+      "name": "李想 Xiang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366996/",
+      "name": "黄恩茹 Enru Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366801/",
+      "name": "陈倩楠 Qian&#39;nan Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383034/",
+      "name": "傅汉源 Hanyuan Fu"
+    }
+  ]
+,
+  "datePublished": "2017-10-06",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H16M",
+  "description": "“当宿命的转盘开始转动，当宅男漫画家遇到下界衰神，是天生一对，还是前世今生?”宅男漫画家陈蓦（傅汉源 饰）路遇软萌可爱的小萝莉静离（李梓 饰），在对方的死缠之下带回了这个意外的“同居”室友，从此开启了...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "890",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

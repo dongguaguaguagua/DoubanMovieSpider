@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Nayagi",
+  "url": "/subject/26881591/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2401748142.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1222381/",
+      "name": "特丽莎·克里希南 Trisha Krishnan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437725/",
+      "name": "马诺巴拉 Manobala"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Story is about a ghost looks for men ,looking on women with bad intentions",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

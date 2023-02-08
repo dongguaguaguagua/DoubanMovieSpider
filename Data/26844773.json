@@ -1,0 +1,96 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马克思和莱昂的疯狂故事 La folle histoire de Max et Léon",
+  "url": "/subject/26844773/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2369767839.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358808/",
+      "name": "格雷瓜尔·鲁迪格 Grégoire Ludig"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002690/",
+      "name": "克里斯多弗·兰伯特 Christopher Lambert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1177090/",
+      "name": "弗洛伦萨·福雷斯蒂 Florence Foresti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340833/",
+      "name": "伯纳尔·法西 Bernard Farcy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329191/",
+      "name": "凯恩·科贾迪 Kyan Khojandi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326357/",
+      "name": "尼古拉·马里耶 Nicolas Marié"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350581/",
+      "name": "巴普蒂斯特·勒卡普兰 Baptiste Lecaplain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1226370/",
+      "name": "爱丽丝·维亚 Alice Vial"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1128740/",
+      "name": "多米尼克·皮侬 Dominique Pinon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363069/",
+      "name": "尼古拉·莫里 Nicolas Maury"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332591/",
+      "name": "乔纳森·科恩 Jonathan Cohen"
+    }
+  ]
+,
+  "datePublished": "2016-10-05",
+  "genre": ["\u559c\u5267", "\u6218\u4e89"],
+  "duration": "PT1H38M",
+  "description": "Max and Léon&#39;s adventures, two childhood friends idle and party-goer, who are trying to escape the S...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "179",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

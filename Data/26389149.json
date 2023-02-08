@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "溺水者 The Drowning",
+  "url": "/subject/26389149/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2459418423.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010080/",
+      "name": "贝蒂·戈登 Bette Gordon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046862/",
+      "name": "帕特·巴克 Pat Barker"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000001/",
+      "name": "朱丽娅·斯蒂尔斯 Julia Stiles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004655/",
+      "name": "阿万·乔贾 Avan Jogia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049551/",
+      "name": "乔西·查尔斯 Josh Charles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022692/",
+      "name": "翠茜·索姆斯 Tracie Thoms"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1084848/",
+      "name": "里奥·菲茨帕特里克 Leo Fitzpatrick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070249/",
+      "name": "罗伯特·克洛赫赛 Robert Clohessy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320584/",
+      "name": "加斯帕·内威尔 Jasper Newell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244122/",
+      "name": "麦克·休斯顿 Mike Houston"
+    }
+  ]
+,
+  "datePublished": "2016-10-08",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H35M",
+  "description": "根据布克奖得主Pat Barker的小说《Border Crossing》(越界)改编，Bette Gordon的这部心理恐怖片讲述了一位犯罪心理学家因为愧疚在多年之后对一桩旧案展开重新调查的故事。男...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "78",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

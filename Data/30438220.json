@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "审查通过 Passed by Censor",
+  "url": "/subject/30438220/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2565305266.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417233/",
+      "name": "塞尔哈特·卡拉斯兰 Serhat Karaaslan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417233/",
+      "name": "塞尔哈特·卡拉斯兰 Serhat Karaaslan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361715/",
+      "name": "伯尔卡依·阿特什 Berkay Ates"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050390/",
+      "name": "萨黛·阿克索伊 Saadet Aksoy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368900/",
+      "name": "Ipek Türktan Ipek Türktan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282228/",
+      "name": "菲松·德米雷尔 Füsun Demirel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394123/",
+      "name": "Banu Fotocan Banu Fotocan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361716/",
+      "name": "穆菲特·卡亚坎 Müfit Kayacan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301451/",
+      "name": "厄康·吉赛尔 Ercan Kesal"
+    }
+  ]
+,
+  "datePublished": "2019-04-26",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "扎基尔在伊斯坦布尔的一所监狱里当审查员。他每天都在审阅别人的信件，小心翼翼地把所有不适合服刑人员阅读的内容涂黑。为逃避工作压力，他报名参加了创意写作课程。然而有一天，老师布置了一个棘手的写作任务——选...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

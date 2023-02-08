@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "青春野兽（电影版） Das Pubertier",
+  "url": "/subject/27195889/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2504732723.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023143/",
+      "name": "扬·约瑟夫·利费斯 Jan Josef Liefers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037184/",
+      "name": "德特勒夫·布克 Detlev Buck"
+    }
+  ]
+,
+  "datePublished": "2017-07-06",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Vivien Hasn&#39;t Been Herself Lately",
+  "url": "/subject/27173602/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348739/",
+      "name": "布莱恩·达菲尔德 Brian Duffield"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u6050\u6016"],
+  "duration": "",
+  "description": "A young married couple struggles to survive against a supernatural entity.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

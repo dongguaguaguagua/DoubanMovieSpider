@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "愚蠢少年心 Hölmö nuori sydän",
+  "url": "/subject/27615421/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543152694.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337979/",
+      "name": "塞尔玛·韦勒嫩 Selma Vilhunen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337980/",
+      "name": "基尔西卡·萨里 Kirsikka Saari"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027753/",
+      "name": "菲拉·维塔拉 Pihla Viitala"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032955/",
+      "name": "威勒·哈派塞罗 Ville Haapasalo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1106733/",
+      "name": "Katja Kukkola Katja Kukkola"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391645/",
+      "name": "Rosa Honkonen Rosa Honkonen"
+    }
+  ]
+,
+  "datePublished": "2018-09-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "An edgy, warm, and raw drama about suburban teenagers who unexpectedly have to deal with grown up pr...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

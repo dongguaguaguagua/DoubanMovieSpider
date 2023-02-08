@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "媒人手册 The Matchmaker&#39;s Playbook",
+  "url": "/subject/30248604/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2525058104.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302028/",
+      "name": "托斯卡·马斯克 Tosca Musk"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1265309/",
+      "name": "尼克·贝特曼 Nick Bateman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341943/",
+      "name": "凯特琳·卡弗 Caitlin Carver"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379191/",
+      "name": "泰勒·A·约翰逊 Tyler A. Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448188/",
+      "name": "特里·塔克 Trey Tucker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454463/",
+      "name": "Bayley Corman Bayley Corman"
+    }
+  ]
+,
+  "datePublished": "2018-03-15",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H29M",
+  "description": "After a career-ending accident, former NFL recruit Ian Hunter is back on campus-and he&#39;s ready to ge...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

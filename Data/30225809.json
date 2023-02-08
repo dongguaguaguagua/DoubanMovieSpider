@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "切肤之痛 Sulla mia pelle",
+  "url": "/subject/30225809/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535215676.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398043/",
+      "name": "亚礼西奥·克里莫尼尼 Alessio Cremonini"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398043/",
+      "name": "亚礼西奥·克里莫尼尼 Alessio Cremonini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408002/",
+      "name": "丽莎·努尔·苏丹 Lisa Nur Sultan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382638/",
+      "name": "亚历桑德罗·博尔吉 Alessandro Borghi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1156272/",
+      "name": "马西米利亚诺·托尔托拉 Massimiliano Tortora"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408003/",
+      "name": "米尔维亚·马里利亚诺 Milvia Marigliano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045359/",
+      "name": "杰丝敏·特丽卡 Jasmine Trinca"
+    }
+  ]
+,
+  "datePublished": "2018-08-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "刚刚结束的第75届威尼斯电影节(2018)地平线单元开幕片，真实事件改编，电影主人公的原型是意大利青年StefanoCucchi，2009年10月15日，他因携带毒品被警方逮捕，但是在被捕后短短六天的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "516",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

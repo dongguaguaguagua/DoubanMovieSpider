@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱上卡夫卡 XOXO卡夫卡",
+  "url": "/subject/30232720/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541293797.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395051/",
+      "name": "陈玉慧 Jade Y. Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395051/",
+      "name": "陈玉慧 Jade Y. Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275617/",
+      "name": "简嫚书 Man-shu Jian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371841/",
+      "name": "林哲熹 JC Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365719/",
+      "name": "朱丽亚·罗伊 Julia Roy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319515/",
+      "name": "游大庆 Da-Ching"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359324/",
+      "name": "魏海敏 Haimin Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280584/",
+      "name": "陈以文 Yiwen Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419728/",
+      "name": "邱比 CHIU PI"
+    }
+  ]
+,
+  "datePublished": "2018-06-20",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H33M",
+  "description": "舞台剧演员林家声正在排练卡夫卡的变形记，戏正在紧锣密鼓，准备上演中，他的法国女友Julie也抵达台北，他们见面之后，二人共渡良宵，第二天人却失踪了。
+林家声被绑匪掳走后，法国女友在家苦等多时，而同时苦...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "95",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

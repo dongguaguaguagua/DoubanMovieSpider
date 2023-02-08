@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "虚拟情人2",
+  "url": "/subject/26969322/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2425273195.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428920/",
+      "name": "邢翊然 Yiran Xing"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402872/",
+      "name": "华千涵 Qianhan Hua"
+    }
+  ]
+,
+  "datePublished": "2017-02-06",
+  "genre": ["\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H6M",
+  "description": "《虚拟情人2》是一个人与虚拟世界之间的故事，影片讲述了闷骚大宅男范建南在被仇家追杀时不慎坠楼身亡。离奇生还后，遇到一个无所不能的虚拟情人“小V”，范建南陶醉在虚拟情人给予他的完美世界之中。此时，范建南...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圆环：冬季点 Les Ronds-points de l&#39;hiver",
+  "url": "/subject/30322996/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533824105.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1222974/",
+      "name": " Louis Seguin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195365/",
+      "name": "萝拉·克雷顿 Lola Créton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004805/",
+      "name": "斯坦尼斯拉斯·莫哈 Stanislas Merhar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042477/",
+      "name": "赛尔日·波宗 Serge Bozon"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

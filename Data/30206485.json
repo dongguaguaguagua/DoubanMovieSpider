@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蒙基特 Mon Ket",
+  "url": "/subject/30206485/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2574813671.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338355/",
+      "name": "弗朗索瓦·达密安 François Damiens"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350644/",
+      "name": "塔蒂亚娜·罗乔 Tatiana Rojo"
+    }
+  ]
+,
+  "datePublished": "2018-05-30",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "Dany Versavel a un souci avec son fils : à 15 ans, Sullivan ne veut plus d&#39;un père qui fait le king ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

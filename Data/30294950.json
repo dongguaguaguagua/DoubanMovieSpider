@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "浮士德 Fausto",
+  "url": "/subject/30294950/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543250360.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398929/",
+      "name": "安德里亚·巴斯曼 Andrea Bussmann"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398929/",
+      "name": "安德里亚·巴斯曼 Andrea Bussmann"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295879/",
+      "name": "加维诺·罗德里格斯 Gabino Rodríguez"
+    }
+  ]
+,
+  "datePublished": "2018-08-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H10M",
+  "description": "太初有道，然後有光，故事就在光的掩映下展開。女孩逃生因而誕生隱秘之地的傳說，一段幽靈和寶藏的縷述，到頭來仍是關於浮士德嗎？不要緊，在墨西哥瓦哈卡海岸，一切敘事都有可能。浪濤、月夜、酒吧、人叢……通向前...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "197",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

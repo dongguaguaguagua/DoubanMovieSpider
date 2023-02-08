@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱迷失 Love, Lost &amp; Found",
+  "url": "/subject/20379461/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2519327993.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448529/",
+      "name": "艾伦·金 Allen King"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448531/",
+      "name": "卡尔文·班克斯 Calvin Banks"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5", "\u60c5\u8272", "\u540c\u6027"],
+  "duration": "PT0H38M",
+  "description": "COCKYBOYS系列新电影“Love &amp; Lost &amp; Found”2018年4月中旬登场。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Маршрут построен",
+  "url": "/subject/26787075/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2407238228.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452484/",
+      "name": "帕维尔·切纳廖夫 Pavel Chinaryov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046321/",
+      "name": "斯维特兰娜··乌斯蒂诺娃 Svetlana Ustinova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386287/",
+      "name": "维塔丽雅·科尔尼扬科 Vitaliya Kornienko"
+    }
+  ]
+,
+  "datePublished": "2016-03-31",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "Прошлой весной произошло страшное преступление - в результате ссоры муж убил жену, расчленил труп и ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

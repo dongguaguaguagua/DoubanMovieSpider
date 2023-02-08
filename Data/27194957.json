@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "月·色",
+  "url": "/subject/27194957/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506313788.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322026/",
+      "name": "王放 Fang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327120/",
+      "name": "唐小然 Xiaoran Tang"
+    }
+  ]
+,
+  "datePublished": "2017-11-09",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H35M",
+  "description": "该片讲述文革时期，壮族少女覃依兰与北京知识青年郭明华的纯真爱情故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

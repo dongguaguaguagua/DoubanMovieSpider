@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "刑柱之地2 The Stakelander",
+  "url": "/subject/26925294/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2457767264.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035177/",
+      "name": "丹·伯克 Dan Berk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380702/",
+      "name": "罗伯特·奥尔森 Robert Olsen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343923/",
+      "name": "尼克·丹米奇 Nick Damici"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009369/",
+      "name": "康勒·帕奥罗 Connor Paolo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343923/",
+      "name": "尼克·丹米奇 Nick Damici"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380703/",
+      "name": "劳拉·艾布拉姆森 Laura Abramsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380704/",
+      "name": "A·C·彼得森 A.C. Peterson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014105/",
+      "name": "史蒂文·威廉姆斯 Steven Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199688/",
+      "name": "邦妮·丹尼森 Bonnie Dennison"
+    }
+  ]
+,
+  "datePublished": "2016-10-14",
+  "genre": ["\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "PT1H21M",
+  "description": "马丁在新伊甸结婚生子，过起了幸福的家庭生活。不料某个夜晚，一个称号母亲的女吸血鬼带领兄弟会和狂暴者血洗了新伊甸，马丁的妻女被杀死。他带着复仇的怒火往南进入危险区寻找先生的帮助，希望联手共同消灭这个女吸...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "763",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

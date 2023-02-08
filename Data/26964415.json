@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "如父如母 Como Nossos Pais",
+  "url": "/subject/26964415/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2511090938.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308593/",
+      "name": "莱斯·博丹斯基 Laís Bodanzky"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308593/",
+      "name": "莱斯·博丹斯基 Laís Bodanzky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015295/",
+      "name": "路易斯·博洛涅西 Luiz Bolognesi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041944/",
+      "name": "玛利亚·瑞贝罗 Maria Ribeiro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1148830/",
+      "name": "保罗·维列纳 Paulo Vilhena"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1056114/",
+      "name": "克拉丽斯·阿布让拉 Clarisse Abujamra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118267/",
+      "name": "乔治·莫特勒 Jorge Mautner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428599/",
+      "name": "安娜拉娜·普拉茨 Annalara Prates"
+    }
+  ]
+,
+  "datePublished": "2017-02-11",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H42M",
+  "description": "罗莎（玛利亚·瑞贝罗 Maria Ribeiro 饰）一晃眼已经迈入了40岁大关，在她很小的时候，父母就离婚了。如今，罗莎自己走入了婚姻，丈夫达度（保罗·维列纳 Paulo Vilhena 饰）是一名...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "288",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

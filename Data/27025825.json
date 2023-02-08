@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿卡普尔科奇遇记 Welcome to Acapulco",
+  "url": "/subject/27025825/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2547658910.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319818/",
+      "name": "吉尔莫·伊万 Guillermo Iván"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024009/",
+      "name": "Garry Charles Garry Charles"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031925/",
+      "name": "威廉·鲍德温 William Baldwin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027816/",
+      "name": "迈克尔·马德森 Michael Madsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040753/",
+      "name": "布拉德利·格雷格 Bradley Gregg"
+    }
+  ]
+,
+  "datePublished": "2019-03-12",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H28M",
+  "description": "When Matt Booth sets off to meet his fiance for a foreign wedding he couldn&#39;t have imagined the dang...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

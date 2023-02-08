@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "青鬼 THE ANIMATION",
+  "url": "/subject/26882314/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2384427427.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425976/",
+      "name": "滨村敏郎 Hamamura Toshirou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483725/",
+      "name": "Noprops Noprops"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320731/",
+      "name": "逢坂良太 Ryota Ohsaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321621/",
+      "name": "水岛大宙 Takahiro Mizushima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276137/",
+      "name": "喜多村英梨 Eri Kitamura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401459/",
+      "name": "森岛秀太 Morishima Shuuta"
+    }
+  ]
+,
+  "datePublished": "2017-02-11",
+  "genre": ["\u52a8\u753b", "\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H0M",
+  "description": "剧场版名为《青鬼 THE ANIMATION》，剧场版的故事将与游戏、电影的故事完全不一样，是一个全新的原创故事，并将塑造一个全新的恐怖又扑朔迷离的青鬼。喜欢恐怖动画的粉丝千万不要错过哦！",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "224",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

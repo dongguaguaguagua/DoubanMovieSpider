@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "万圣节疯狂夜 The Night Before Halloween",
+  "url": "/subject/26961835/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2505652284.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027242/",
+      "name": "拜莉·麦迪逊 Bailee Madison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322597/",
+      "name": "贾斯汀·凯利 Justin Kelly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360691/",
+      "name": "基亚娜·马德拉 Kiana Madeira"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315350/",
+      "name": "安东尼·莱姆克 Anthony Lemke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360560/",
+      "name": "艾丽莎·莫勒切里 Elisa Moolecherry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421463/",
+      "name": "娜塔莉·甘茨霍恩 Natalie Ganzhorn"
+    }
+  ]
+,
+  "datePublished": "2016-10-29",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "On the night before Halloween, seventeen year-old Megan and her group of friends are conned into tak...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

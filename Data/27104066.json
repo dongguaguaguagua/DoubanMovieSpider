@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Delfinen",
+  "url": "/subject/27104066/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2502275333.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1126201/",
+      "name": "劳里茨·茫奇-彼得森 Laurits Munch-Petersen"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-09-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Anna takes her 7-years old son Robert to the beach to finish his swimming course, the DOLPHIN, but s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

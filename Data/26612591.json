@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "米尔顿的秘密 Milton&#39;s Secret",
+  "url": "/subject/26612591/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2393227132.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277717/",
+      "name": "巴尼特·贝恩 Barnet Bain"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277717/",
+      "name": "巴尼特·贝恩 Barnet Bain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1119314/",
+      "name": "Donald C. Martin Donald C. Martin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280516/",
+      "name": "Sara B. Cooper Sara B. Cooper"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004585/",
+      "name": "米娅·科施娜 Mia Kirshner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025174/",
+      "name": "米歇尔·罗德里格兹 Michelle Rodriguez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010556/",
+      "name": "唐纳德·萨瑟兰 Donald Sutherland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018071/",
+      "name": "大卫·萨克莱夫 David Sutcliffe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374786/",
+      "name": "艾拉·巴伦坦 Ella Ballentine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315827/",
+      "name": "斯蒂芬·鲁斯泽 Stephen Huszar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360872/",
+      "name": "珀西·海恩斯·怀特 Percy Hynes White"
+    }
+  ]
+,
+  "datePublished": "2016-09-30",
+  "genre": ["\u5bb6\u5ead"],
+  "duration": "PT1H28M",
+  "description": "A young boy becomes the victim of bullying at his school. Milton&#39;s Secret focuses on 11 year-old Mil...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

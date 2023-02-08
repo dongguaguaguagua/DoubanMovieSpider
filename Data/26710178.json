@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "风口青春",
+  "url": "/subject/26710178/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2310754271.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351460/",
+      "name": "周晓鹏 Xiaopeng Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351456/",
+      "name": "陈伟栋 Weidong Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351458/",
+      "name": "卢蒽洁 Enjie Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331308/",
+      "name": "屠夏岩 Xiayan Tu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351457/",
+      "name": "姜怡伊 Yiyi Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344964/",
+      "name": "侯迪 Di Hou"
+    }
+  ]
+,
+  "datePublished": "2016-01-29",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H28M",
+  "description": "校园时代，邵兵（陈伟栋 饰）和他的同桌罗小鱼（卢蒽洁 饰）情窦初开。邵兵因家庭变故，弃学打工，误打误撞来到一家互联网企业。在这里，邵兵接触到互联网领域并意识到它所产生的巨大商机。 邵兵、张京（屠夏岩 ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "201",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伊蒂 Edie",
+  "url": "/subject/27073232/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2523641415.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018574/",
+      "name": "西蒙·亨特 Simon Hunter"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018574/",
+      "name": "西蒙·亨特 Simon Hunter"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1094162/",
+      "name": "谢拉·汉考克 Sheila Hancock"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335226/",
+      "name": "凯文·格思里 Kevin Guthrie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327859/",
+      "name": "保罗·布兰尼根 Paul Brannigan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316947/",
+      "name": "艾米·曼森 Amy Manson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408621/",
+      "name": "托莉·巴特勒-哈特 Tori Butler-Hart"
+    }
+  ]
+,
+  "datePublished": "2017-06-26",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "为了尝试克服一生的苦涩和怨恨，老太太伊蒂决定爬上苏格兰的一座山，一方面是为了完成她的一个梦想，另一方面，她试图追寻自己生命终点的意义。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "703",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

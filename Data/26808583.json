@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美国寓言 American Fable",
+  "url": "/subject/26808583/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2454214396.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369063/",
+      "name": "安妮·汉密尔顿 Anne Hamilton"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369063/",
+      "name": "安妮·汉密尔顿 Anne Hamilton"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019089/",
+      "name": "理查德·希夫 Richard Schiff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027255/",
+      "name": "琦普·帕杜 Kip Pardue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367272/",
+      "name": "玛茜·米勒 Marci Miller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348899/",
+      "name": "加文·麦克因托什 Gavin MacIntosh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010621/",
+      "name": "祖雷克哈·罗宾逊 Zuleikha Robinson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276532/",
+      "name": "拉丝蒂·休默 Rusty Schwimmer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1150098/",
+      "name": "特丽莎缇莉 Theresa Tilly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369050/",
+      "name": "斯宾塞·莫斯 Spencer Moss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369049/",
+      "name": "佩顿·肯尼迪 Peyton Kennedy"
+    }
+  ]
+,
+  "datePublished": "2016-03-13",
+  "genre": ["\u60ca\u609a", "\u5947\u5e7b"],
+  "duration": "PT1H36M",
+  "description": "When 11-year-old Gitty discovers that her beloved father is hiding a wealthy man in her family&#39;s sil...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "499",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

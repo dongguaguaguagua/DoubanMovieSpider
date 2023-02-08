@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "跑毒",
+  "url": "/subject/27624666/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403394/",
+      "name": "盛英豪 Yinghao Sheng"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "该片关注时下年轻人聚焦的热点话题，以友情、青春、人生、选择、叛逆等关键词为切入点，将为大众呈现一段充满欢笑与泪水的“奇异旅程”。其中，阳光少年盛英豪在片中饰演留学归来的破坏王“布行”，因为本身活泼洒脱...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

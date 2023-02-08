@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "歌从何处来 Quién te cantará",
+  "url": "/subject/26992419/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533985069.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348925/",
+      "name": "卡洛斯·贝尔穆德 Carlos Vermut"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348925/",
+      "name": "卡洛斯·贝尔穆德 Carlos Vermut"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005067/",
+      "name": "纳瓦·尼姆利 Najwa Nimri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1090601/",
+      "name": "卡梅·埃利亚斯 Carme Elias"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341551/",
+      "name": "纳塔利娅·德·莫利纳 Natalia de Molina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193599/",
+      "name": "胡里安·毕亚格兰 Julián Villagrán"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309351/",
+      "name": "英玛·奎瓦斯 Inma Cuevas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010091/",
+      "name": "维多利亚·恩唐戈 Vicenta N&#39;Dongo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407163/",
+      "name": "伊娃·略拉克 Eva Llorach"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419619/",
+      "name": "卡罗琳娜·尤斯特 Carolina Yuste"
+    }
+  ]
+,
+  "datePublished": "2018-09-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H5M",
+  "description": "莉拉（纳瓦·尼姆利 Najwa Nimri 饰）曾是风靡乐坛的传奇巨星，在经历了漫长的十年封麦后，她终于决定复出。然而，就在复出演唱会即将举行之际，莉拉竟然昏倒在海滩，醒来后失去了所有的记忆，其中包括...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "283",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

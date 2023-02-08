@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "沿海出发",
+  "url": "/subject/30162995/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2536465867.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389858/",
+      "name": "殷玉洲 Yuzhou Yin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389858/",
+      "name": "殷玉洲 Yuzhou Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400558/",
+      "name": "周方军 Fangjun Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400557/",
+      "name": "杨璐 Lu Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400812/",
+      "name": "王小雨 Xiaoyu Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402515/",
+      "name": "周业余 Yeyu Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402516/",
+      "name": "殷汝利 Ruli Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402517/",
+      "name": "连建亭 Jianting Lian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402558/",
+      "name": "于飞 Fei Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402559/",
+      "name": "刘爱琴 Aiqin Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402560/",
+      "name": "王晓义 Xiaoyi Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402561/",
+      "name": "刘泓江 Hongjiang Liu"
+    }
+  ]
+,
+  "datePublished": "2018-10-15",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H55M",
+  "description": "北方的沿海小城生活着刘氏一家，脾气固执、恪守规矩独居村中的爷爷刘士堺；嘴硬心软、极爱面子的父亲刘卫国；宠溺儿子、热心公益的母亲王佩芬以及执着摄影梦想，在南方艰难谋生的孙子刘守闯，但一家人已经很久没有一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "425",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

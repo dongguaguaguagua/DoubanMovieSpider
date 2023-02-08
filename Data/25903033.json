@@ -1,0 +1,130 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我是马布里",
+  "url": "/subject/25903033/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2494729086.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335623/",
+      "name": "杨子 Larry Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335623/",
+      "name": "杨子 Larry Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1173696/",
+      "name": "斯蒂芬·马布里 Stephon Marbury"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028237/",
+      "name": "吴尊 Chun Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274825/",
+      "name": "何冰 Bing He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320107/",
+      "name": "郑秀妍 Jessica Jung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300406/",
+      "name": "王庆祥 Qingxiang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000876/",
+      "name": "巴朗·戴维斯 Baron Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1083562/",
+      "name": "洛雷塔·迪瓦恩 Loretta Devine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019102/",
+      "name": "弗兰基·费森 Frankie Faison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313809/",
+      "name": "余皑磊 Ailei Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319584/",
+      "name": "锦荣 Vivian Dawson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1273313/",
+      "name": "高以翔 Godfrey Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315994/",
+      "name": "王阳明 Sunny Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018260/",
+      "name": "阿伦·艾弗森 Allen Iverson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314643/",
+      "name": "高晟晖 Shenghui Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398766/",
+      "name": "尚 Shaune"
+    }
+  ]
+,
+  "datePublished": "2017-06-18",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H47M",
+  "description": "影片根据真实故事改编。被称为“独狼”的NBA球星马布里事业陷入低谷，黯然隐退。在王牌经纪人李楠（吴尊 饰）的邀请和家人的鼓励下，马布里做出了人生中关键的决定——前往中国追寻自己的“篮球梦”。当坐在飞往...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "9030",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

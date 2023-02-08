@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "靠近你 A Closer Walk with Thee",
+  "url": "/subject/27166073/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501482716.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132756/",
+      "name": "艾利克斯·欧文斯-萨尔诺 Alex Owens-Sarno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1202115/",
+      "name": "Vito Trabucco Vito Trabucco"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "The queer erotic horror-comedy A CLOSER WALK WITH THEE follows Jordan, a young Christian missionary ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "71",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

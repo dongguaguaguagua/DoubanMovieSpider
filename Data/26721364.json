@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异星寻爱记",
+  "url": "/subject/26721364/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2315841054.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415582/",
+      "name": "张丰驿 Fengyi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424927/",
+      "name": "李爽 Shuang Li"
+    }
+  ]
+,
+  "datePublished": "2016-01-26",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b"],
+  "duration": "PT1H2M",
+  "description": "讲述了外星人马达来地球寻找“真爱”能量，偶遇卖唱歌手刘飞，从而上演了一次既爆笑又温馨的地球“寻爱”之旅。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

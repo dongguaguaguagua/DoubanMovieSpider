@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亚伦之血 Aaron&#39;s Blood",
+  "url": "/subject/26304333/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2458721813.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308005/",
+      "name": "汤米·斯图瓦尔 Tommy Stovall"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308005/",
+      "name": "汤米·斯图瓦尔 Tommy Stovall"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276140/",
+      "name": "詹姆斯·马丁内斯 James Martinez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1212007/",
+      "name": "卢克·巴内特 Luke Barnett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1205403/",
+      "name": "贾斯汀·罗伯茨 Justin Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375446/",
+      "name": "特里沃·斯图瓦尔 Trevor Stovall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477575/",
+      "name": "迈克尔·基耶福 Michael Chieffo"
+    }
+  ]
+,
+  "datePublished": "2016-05-27",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "A single father fights to save his only child, a 12-year-old bullied hemophiliac boy who becomes inf...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

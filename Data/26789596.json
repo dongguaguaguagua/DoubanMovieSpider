@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的英格兰 England Is Mine",
+  "url": "/subject/26789596/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2478177847.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337981/",
+      "name": "马克·吉尔 Mark Gill"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337981/",
+      "name": "马克·吉尔 Mark Gill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382425/",
+      "name": "威廉·萨克 William Thacker"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344553/",
+      "name": "杰克·劳登 Jack Lowden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1273698/",
+      "name": "杰西卡·布朗·芬德利 Jessica Brown Findlay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338497/",
+      "name": "朱迪·科默 Jodie Comer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005405/",
+      "name": "彼得·麦克唐纳德 Peter McDonald"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382426/",
+      "name": "劳利·基纳斯顿 Laurie Kynaston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382427/",
+      "name": "西蒙妮·柯比 Simone Kirby"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382428/",
+      "name": "亚当·劳伦斯 Adam Lawrence"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375375/",
+      "name": "凯瑟琳·皮尔斯 Katherine Pearce"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382429/",
+      "name": "芬尼·卡西迪 Finney Cassidy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382430/",
+      "name": "格雷姆·霍利 Graeme Hawley"
+    }
+  ]
+,
+  "datePublished": "2017-07-02",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50", "\u4f20\u8bb0"],
+  "duration": "PT1H34M",
+  "description": "关于英国史密斯乐队（The Smiths）主唱莫里西（Morrissey）的传记片，参演《敦刻尔克》的杰克·劳登（Jack Lowden）演绎主唱莫里西的事迹。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1210",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

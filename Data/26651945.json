@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "谎言 Lies We Tell",
+  "url": "/subject/26651945/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2503237971.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015032/",
+      "name": "Ewen Glass Ewen Glass"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044881/",
+      "name": "加布里埃尔·伯恩 Gabriel Byrne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210571/",
+      "name": "茜贝拉·迪恩 Sibylla Deen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013813/",
+      "name": "马克·阿蒂 Mark Addy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348302/",
+      "name": "简阿丁 Jan Uddin"
+    }
+  ]
+,
+  "datePublished": "2017-09-21",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H49M",
+  "description": "一个值得信赖的司机必须和他死去的老板的穆斯林情妇打交道，处理善后问题，却不想卷入了一场纷争。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "135",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

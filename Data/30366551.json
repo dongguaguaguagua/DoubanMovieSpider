@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "真假娇娃 Ana de día",
+  "url": "/subject/30366551/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2538570201.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407155/",
+      "name": "安德里亚·豪列塔 Andrea Jaurrieta"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407155/",
+      "name": "安德里亚·豪列塔 Andrea Jaurrieta"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1060953/",
+      "name": "费尔南多·阿尔比祖 Fernando Albizu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1060100/",
+      "name": "玛利亚-何塞·阿方索 María José Alfonso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348923/",
+      "name": "英格丽·加西亚·荣松 Ingrid García Jonsson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427314/",
+      "name": "莫娜·马丁内斯 Mona Martínez"
+    }
+  ]
+,
+  "datePublished": "2018-04-14",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u60ca\u609a"],
+  "duration": "PT1H50M",
+  "description": "安娜是个渴望激情的女孩，突然间发现生活中出现了另一个和自己长的一模一样的女孩……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

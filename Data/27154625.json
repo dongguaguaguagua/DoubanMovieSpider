@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "曼哈顿群岛 Manhattan Islands",
+  "url": "/subject/27154625/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2500209065.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382139/",
+      "name": "马文迪 Paddy Ma"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382139/",
+      "name": "马文迪 Paddy Ma"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1261772/",
+      "name": " Chasen Joseph Schneider"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382139/",
+      "name": "马文迪 Paddy Ma"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

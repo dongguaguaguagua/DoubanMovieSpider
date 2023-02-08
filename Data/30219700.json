@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黎明 夜明け",
+  "url": "/subject/30219700/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545611704.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400419/",
+      "name": "广濑奈奈子 Nanako Hirose"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400419/",
+      "name": "广濑奈奈子 Nanako Hirose"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051523/",
+      "name": "小林薰 Kaoru Kobayashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000910/",
+      "name": "柳乐优弥 Yûya Yagira"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367639/",
+      "name": "海 YOUNG DAIS"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021383/",
+      "name": "堀内敬子 Keiko Horiuchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376070/",
+      "name": "清水叶月 Hazuki Shimizu"
+    }
+  ]
+,
+  "datePublished": "2018-10-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H53M",
+  "description": "跳出《比海還深》（2016）的助導身位，廣瀨奈奈子繼承恩師是枝裕和一貫家庭缺失主題，以圓熟的敘事技巧，剖開父子關係的思考空間。憑《誰知赤子心》（2004）成為史上最年輕康城影帝的柳樂優彌，經歷過高山低...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "640",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

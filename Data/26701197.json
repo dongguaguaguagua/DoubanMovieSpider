@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地狱 Die Hölle",
+  "url": "/subject/26701197/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2461189317.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014437/",
+      "name": "斯戴芬·卢佐维茨基 Stefan Ruzowitzky"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1059729/",
+      "name": "马丁·安布罗希 Martin Ambrosch"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010755/",
+      "name": "托比亚斯·莫雷蒂 Tobias Moretti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244660/",
+      "name": " Robert Palfrader"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199935/",
+      "name": "萨米·谢伊克 Sammy Sheik"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1168322/",
+      "name": "弗里德里希·冯·图恩 Friedrich von Thun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349451/",
+      "name": "穆拉桑·木苏鲁 Murathan Muslu"
+    }
+  ]
+,
+  "datePublished": "2017-01-19",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H40M",
+  "description": "出租车司机厄兹盖(维奥莱塔·舒赫劳饰)目睹了一场怪异的谋杀，然而等待她的将是无尽的痛苦和折磨。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "238",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

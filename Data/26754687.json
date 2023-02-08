@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Stegman Is Dead",
+  "url": "/subject/26754687/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2326206082.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319132/",
+      "name": "迈克尔·艾克朗德 Michael Eklund"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215093/",
+      "name": "廖碧儿 Bernice Jan Liu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

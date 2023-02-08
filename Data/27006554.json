@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Zakroy glaza",
+  "url": "/subject/27006554/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061330/",
+      "name": "阿纳托利·比利 Anatoliy Belyy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311021/",
+      "name": "斯维特兰娜·伊万诺娃 Svetlana Ivanova"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H41M",
+  "description": "Contemporary Moscow. A mysterious, ghostly night visitor, born of a little boy&#39;s imagination, turns ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

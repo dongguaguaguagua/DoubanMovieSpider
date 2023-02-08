@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "耳かきランデブー",
+  "url": "/subject/30179870/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390706/",
+      "name": "ふくだみゆき Miyuki Fukuda"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390706/",
+      "name": "ふくだみゆき Miyuki Fukuda"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390703/",
+      "name": "二宮芽生 Meu Ninomiya"
+    }
+  ]
+,
+  "datePublished": "2017-04-20",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "耳かきフェチの主人公の唯一の楽しみは、同棲する彼氏の耳かき。そんなとき、主人公の職場に最高の耳を持つ持つ男性が現れる。彼氏以外の男への耳かきが浮気になるかならないかのドタバタラブコメディ。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "感情压制 Rag-e Khab",
+  "url": "/subject/27197440/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2504821241.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286212/",
+      "name": "蕾拉·哈塔米 Leila Hatami"
+    }
+  ]
+,
+  "datePublished": "2017-06-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H44M",
+  "description": "Mina is recently divorced from her drug addict husband. With her mother deceased and estranged from ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

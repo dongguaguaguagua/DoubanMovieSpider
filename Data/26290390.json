@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "精灵王座",
+  "url": "/subject/26290390/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2372863469.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341152/",
+      "name": "宋岳峰 Yuefeng Song"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341154/",
+      "name": "卓然 Ran Zhuo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278992/",
+      "name": "比尔·伯顿 Bill Borden"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362037/",
+      "name": "王梓 Zi Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350677/",
+      "name": "陶典 Dian Tao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317669/",
+      "name": "季冠霖 Guanlin Ji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328708/",
+      "name": "黄莺 Ying Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317294/",
+      "name": "薛之谦 Zhiqian Xue"
+    }
+  ]
+,
+  "datePublished": "2016-08-19",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H44M",
+  "description": "“人类少年小鱼受邀前往遥远神秘的精灵王国，参加精灵女王的婚礼。借此机会，他终于可以见到阔别已久的精灵女友莉雅。 黑暗精灵携大军突然闯入，胁迫女王交出传说中掌控精灵命脉、拥有至高力量的生命宝玉。在遭到反...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "13841",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.9"
+  }
+}

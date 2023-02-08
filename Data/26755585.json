@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "受难记 The Passion",
+  "url": "/subject/26755585/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2328469503.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278000/",
+      "name": "彼得·巴索奇尼 Peter Barsocchini"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278000/",
+      "name": "彼得·巴索奇尼 Peter Barsocchini"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049571/",
+      "name": "泰勒·派瑞 Tyler Perry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1238165/",
+      "name": "肖恩·哈珀 Shane Harper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1242281/",
+      "name": "简卡洛斯·卡纳拉 Jencarlos Canela"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387748/",
+      "name": "杰洛米诺·斯芬克斯 Jeronimo Spinx"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414787/",
+      "name": "朱莉娅·霍特 Julia Holt"
+    }
+  ]
+,
+  "datePublished": "2016-03-20",
+  "genre": ["\u6b4c\u821e"],
+  "duration": "PT2H0M",
+  "description": "The Creator of the universe in human form makes the ultimate sacrifice for all humanity, offering sa...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

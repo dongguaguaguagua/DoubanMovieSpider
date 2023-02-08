@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "#FromJennifer",
+  "url": "/subject/26979272/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2500537772.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048121/",
+      "name": "德里克·梅耶斯 Derek Mears"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045160/",
+      "name": "阿隆·艾布拉姆斯 Aaron Abrams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407655/",
+      "name": "查尔斯·丘达巴拉 Charles Chudabala"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "An actress becomes obsessed with internet fame after her manager drops her for not having enough of ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

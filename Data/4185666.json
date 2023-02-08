@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Troll",
+  "url": "/subject/4185666/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279576/",
+      "name": "约翰·卡尔·伯奇勒 John Carl Buechler"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002694/",
+      "name": "帕特丽夏·阿奎特 Patricia Arquette"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040595/",
+      "name": "诺亚·海瑟威 Noah Hathaway"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252786/",
+      "name": "尤赖亚·谢尔顿 Uriah Shelton"
+    }
+  ]
+,
+  "datePublished": "2016-11-23",
+  "genre": ["\u52a8\u753b", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "Befriended, by a centuries old witch, a young boy enters a parallel world of wizards, witches, and f...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

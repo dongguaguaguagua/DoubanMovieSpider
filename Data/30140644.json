@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灰彩虹",
+  "url": "/subject/30140644/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2566994284.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422145/",
+      "name": "约翰·克朗 John Clang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422145/",
+      "name": "约翰·克朗 John Clang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-01-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "At one and the same moment, at different places in the world, three people find themselves in limbo....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异奇自然 Strange Nature",
+  "url": "/subject/30322909/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2533815042.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046499/",
+      "name": "詹姆斯·奥哈拉 James Ojala"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046499/",
+      "name": "詹姆斯·奥哈拉 James Ojala"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019062/",
+      "name": "斯蒂芬·托布罗斯基 Stephen Tobolowsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1216536/",
+      "name": "约翰·赫宁甘 John Hennigan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1145848/",
+      "name": "莉萨·谢里丹 Lisa Sheridan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1057634/",
+      "name": "卡洛斯·阿拉斯拉奇 Carlos Alazraqui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049883/",
+      "name": "蒂凡妮·谢皮斯 Tiffany Shepis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041349/",
+      "name": "戴维·马特 David Mattey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1097879/",
+      "name": "Ann Hearn Ann Hearn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395756/",
+      "name": "Bruce Bohne Bruce Bohne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402103/",
+      "name": "莉莉·帕塞罗 Lilli Passero"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1241306/",
+      "name": " Justen Overlander"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347603/",
+      "name": "Bryan Daniel Porter Bryan Daniel Porter"
+    }
+  ]
+,
+  "datePublished": "2018-09-22",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H40M",
+  "description": "根据一个真实的未解之谜，成千上万的畸形青蛙出现在明尼苏达州的水域。从一位单亲妈妈和她11岁的儿子的眼中，我们可以看到，当致命的突变扩散到池塘之外时，小镇与未知世界抗争。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "154",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

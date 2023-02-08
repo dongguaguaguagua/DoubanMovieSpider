@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我身记忆 Kucumbu Tubuh Indahku",
+  "url": "/subject/30283679/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531803881.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019906/",
+      "name": "加林·努格罗 Garin Nugroho"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019906/",
+      "name": "加林·努格罗 Garin Nugroho"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053773/",
+      "name": "苏吉沃·特乔 Sujiwo Tejo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374140/",
+      "name": "缇尤库·里夫纳·维卡纳 Teuku Rifnu Wikana"
+    }
+  ]
+,
+  "datePublished": "2018-09-07",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H45M",
+  "description": "充满诗意的影像，四个成长的段落，建构男孩成长的故事。身体欲望的觉醒，在追求男子气概的保守氛围下，痛楚难免。用身体舞动喜乐与爱恨、记载哀痛与自由，这是一个舞者的成长故事：故事发生在1980年代，Juno...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "141",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

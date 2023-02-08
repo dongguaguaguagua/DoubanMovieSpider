@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红海龟 La tortue rouge",
+  "url": "/subject/26376558/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2334278462.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282765/",
+      "name": "迈克尔·度德威特 Michael Dudok de Wit"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282765/",
+      "name": "迈克尔·度德威特 Michael Dudok de Wit"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000956/",
+      "name": "帕斯卡尔·费兰 Pascale Ferran"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-05-18",
+  "genre": ["\u52a8\u753b", "\u5947\u5e7b"],
+  "duration": "PT1H20M",
+  "description": "这部动画由吉卜力工作室与法国合资制作，主要讲述了男主因航船失事流落到了无人岛，存活下的男人企图建造救生筏逃离荒岛，但他的计划却不断被一只神秘的巨型红海龟破坏，在他绝望时，一名神秘女子出现了并挽救其灵魂...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "11293",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

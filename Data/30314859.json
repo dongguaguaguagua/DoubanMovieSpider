@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "成长难题 Hacerse mayor y otros problemas",
+  "url": "/subject/30314859/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534245168.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327155/",
+      "name": "西尔维亚·阿隆索 Silvia Alonso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101560/",
+      "name": "巴巴拉·戈纳加 Bárbara Goenaga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014626/",
+      "name": "玛利亚·艾丝蒂芙 María Esteve"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025408/",
+      "name": "安东尼奥·雷西内斯 Antonio Resines"
+    }
+  ]
+,
+  "datePublished": "2018-04-18",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H36M",
+  "description": "Emma wakes up in her thirties to find herself a loser when her best friend Lola asks her to be the g...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "189",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.1"
+  }
+}

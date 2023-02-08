@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "打给你爸爸 Call Your Father",
+  "url": "/subject/27165758/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501440915.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390700/",
+      "name": "乔丹·菲尔斯特曼 Jordan Firstman"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390700/",
+      "name": "乔丹·菲尔斯特曼 Jordan Firstman"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041499/",
+      "name": "克雷格·切斯特 Craig Chester"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390700/",
+      "name": "乔丹·菲尔斯特曼 Jordan Firstman"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT0H20M",
+  "description": "On Josh and Greg&#39;s first date, they quickly realize that the generational divide between them is the...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "理论的漫长夏日 Der lange Sommer der Theorie",
+  "url": "/subject/30288216/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2529917446.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007271/",
+      "name": "Irene von Alberti Irene von Alberti"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007271/",
+      "name": "Irene von Alberti Irene von Alberti"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

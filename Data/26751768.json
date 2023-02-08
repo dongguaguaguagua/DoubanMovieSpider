@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "邪 Another Evil",
+  "url": "/subject/26751768/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2331316615.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376493/",
+      "name": "卡森·D·梅尔 Carson D. Mell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376493/",
+      "name": "卡森·D·梅尔 Carson D. Mell"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-05-11",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "After encountering a ghost in his family’s vacation home, Dan, a modern artist and his wife Mary hir...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "科班 Cobain",
+  "url": "/subject/26686798/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509276136.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023854/",
+      "name": "娜诺克·利奥波德 Nanouk Leopold"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279028/",
+      "name": "Stienette Bosklopper Stienette Bosklopper"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293599/",
+      "name": "维姆·奥普布鲁克 Wim Opbrouck"
+    }
+  ]
+,
+  "datePublished": "2018-04-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "在《琐事烦心》（Wolfsbergen，2007年论坛单元），《布朗运动》（Brownian Movement，2011年论坛单元）和《一切很安静》（Boven is Het Stil，2013年全景...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

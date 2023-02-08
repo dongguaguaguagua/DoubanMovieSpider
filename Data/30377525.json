@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狗先生追爱记",
+  "url": "/subject/30377525/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2670819784.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358857/",
+      "name": "朱员成 Yuancheng Zhu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327888/",
+      "name": "虢爽 Shuang Guo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404766/",
+      "name": "赵梦迪 Mengdi Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365416/",
+      "name": "陈龙 Long Chen"
+    }
+  ]
+,
+  "datePublished": "2018-11-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H24M",
+  "description": "技术宅男马小明暗恋小模特沙莎，一次意外他与流浪狗豆丁互换了身体，从此进入了沙莎的生活，在人与狗互换的过程中，彼此增进了了解，建立了信任与依赖，最终捕获了女孩的芳心。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

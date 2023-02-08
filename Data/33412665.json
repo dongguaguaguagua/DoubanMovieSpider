@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "围攻者 The Go-Getters",
+  "url": "/subject/33412665/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553756513.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360831/",
+      "name": "杰里米·拉隆德 Jeremy LaLonde"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045160/",
+      "name": "阿隆·艾布拉姆斯 Aaron Abrams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361475/",
+      "name": "布兰登·盖尔 Brendan Gall"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045160/",
+      "name": "阿隆·艾布拉姆斯 Aaron Abrams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344768/",
+      "name": "汤米-安珀·皮里 Tommie-Amber Pirie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353892/",
+      "name": "克里斯蒂安·布鲁恩 Kristian Bruun"
+    }
+  ]
+,
+  "datePublished": "2018-03-02",
+  "genre": ["\u559c\u5267", "\u5192\u9669"],
+  "duration": "PT1H23M",
+  "description": "A deadbeat drunk and a junkie hooker join forces to take on the city, each other, and their own pers...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

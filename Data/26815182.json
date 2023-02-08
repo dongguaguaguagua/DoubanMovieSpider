@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "安乐",
+  "url": "/subject/26815182/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2359138144.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372727/",
+      "name": "林旭坚 Xujian Lin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372727/",
+      "name": "林旭坚 Xujian Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316068/",
+      "name": "徐才根 Caigen Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315477/",
+      "name": "万茜 Qian Wan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H15M",
+  "description": "《安乐》是7位中国新生代导演共同参与的发现公益·红计划（2016）公益短片中的一部，所关注的主题是“临终关怀”。
+身患半身不遂的老殷，在一家叫“安乐”的养老院里居住多年了，并由护工小马照料生活起居。年...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "483",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

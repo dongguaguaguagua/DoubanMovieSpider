@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "最佳好友2 Best F(r)iends: Volume Two",
+  "url": "/subject/30162998/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535303296.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009569/",
+      "name": "格雷戈·赛斯特罗 Greg Sestero"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027327/",
+      "name": "托米·韦素 Tommy Wiseau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009569/",
+      "name": "格雷戈·赛斯特罗 Greg Sestero"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004883/",
+      "name": "保罗·谢尔 Paul Scheer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1086357/",
+      "name": "里克·爱德华兹 Rick Edwards"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323292/",
+      "name": "R·J·Cantu R·J·Cantu"
+    }
+  ]
+,
+  "datePublished": "2018-06-01",
+  "genre": ["\u559c\u5267", "\u60ca\u609a"],
+  "duration": "",
+  "description": "延续第一部风格，继续讲述关乎友谊与忠诚的故事",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "87",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

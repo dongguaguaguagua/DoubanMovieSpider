@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "旋风辣妹",
+  "url": "/subject/27072721/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2464349700.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359696/",
+      "name": "李锦伦 Jackie Lee"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353186/",
+      "name": "秦立洋 Liyang Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364922/",
+      "name": "孙雪宁 Xuening Sun"
+    }
+  ]
+,
+  "datePublished": "2017-06-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "不良少女金灿因为群架伤人事件犯大过，被勒令进入学校最知名的跆拳道校队将功抵过。为了督促女儿，厨子金铁石半路出家，隐瞒父女关系进入校队担任教练。金灿嗤之以鼻。
+金灿在校队浑水摸鱼无心训练，整日只想着撩男...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

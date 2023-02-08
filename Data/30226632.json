@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "脸色苍白的男人 The Pale Man",
+  "url": "/subject/30226632/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522790806.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393767/",
+      "name": "Jay Cullen Jay Cullen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393796/",
+      "name": "Taylor Bostwick Taylor Bostwick"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H38M",
+  "description": "A teachers assistant, trapped in a small town with a strange illness, takes on a local missing perso...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

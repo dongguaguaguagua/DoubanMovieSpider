@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红月亮之武陵山歌",
+  "url": "/subject/26996415/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510686349.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387188/",
+      "name": "卢玉波 Yubo Lu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387189/",
+      "name": "何维嘉 Weijia He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387190/",
+      "name": "王茂久 Maojiu Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387191/",
+      "name": "黄立业 Liye Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387192/",
+      "name": "杨雅荔 Yali Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387193/",
+      "name": "陈靖康 Jingkang Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387194/",
+      "name": "苏远大 Yuanda Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387195/",
+      "name": "冉易居 Juson Ran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387196/",
+      "name": "王珍晶 Zhenjing Wang"
+    }
+  ]
+,
+  "datePublished": "2018-01-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H44M",
+  "description": "
+影片讲述了4名知识青年的人生经历。民族音乐专家纪光明受邀回到爱恨20多年的县城，在收集花灯资料过程中巧遇知青时代的恋人徐静茹的女儿——王明静，由此引出20年前上山下乡的回忆……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

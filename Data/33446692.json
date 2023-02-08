@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "17th音乐会",
+  "url": "/subject/33446692/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2637918344.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314274/",
+      "name": "任家萱 Selina Jen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275479/",
+      "name": "田馥甄 Hebe Tien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313647/",
+      "name": "陈嘉桦 Ella Chen"
+    }
+  ]
+,
+  "datePublished": "2018-09-11",
+  "genre": ["\u97f3\u4e50"],
+  "duration": "PT2H3M",
+  "description": "华语女子天团S.H.E 9月11日迎来出道17周年。9月11日，任家萱Selina、田馥甄Hebe、陈嘉桦Ella将合体在台北举办万人户外《17th音乐会》，腾讯视频LiveMusic全程独家高清直播...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "358",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "9.1"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Man You&#39;re Not",
+  "url": "/subject/26702083/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2870640794.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050114/",
+      "name": "里斯·谢尔史密斯 Reece Shearsmith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048173/",
+      "name": "乔安娜·拉姆利 Joanna Lumley"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

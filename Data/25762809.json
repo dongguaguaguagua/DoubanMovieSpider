@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Blaze of Gory",
+  "url": "/subject/25762809/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2380608750.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334397/",
+      "name": "艾丽·亚历山德拉 Elle Alexandra"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

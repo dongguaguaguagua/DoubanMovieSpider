@@ -1,0 +1,90 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Sick People",
+  "url": "/subject/26360690/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2236790112.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032045/",
+      "name": "杰斯米·盖 Jasmine Guy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036370/",
+      "name": "C·托马斯·豪威尔 C. Thomas Howell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276530/",
+      "name": "林·沙烨 Lin Shaye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004896/",
+      "name": "克里斯汀·达尔顿 Kristen Dalton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149041/",
+      "name": "大卫·李·史密斯 David Lee Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037024/",
+      "name": "阿非莫·奥米拉 Afemo Omilami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336797/",
+      "name": "斯蒂芬·考特尔 Steve Coulter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124700/",
+      "name": "杰森·麦克唐纳 Jason MacDonald"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468195/",
+      "name": "埃里卡·蔡斯 Erika Chase"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477737/",
+      "name": "萝丝·比安科 Rose Bianco"
+    }
+  ]
+,
+  "datePublished": "2016-05-13",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H38M",
+  "description": "A doctor too disturbed to face his own father&#39;s terminal condition hires a morally and ethically ban...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

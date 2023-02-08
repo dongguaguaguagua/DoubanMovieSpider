@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "西关大屋",
+  "url": "/subject/27153690/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522034949.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274733/",
+      "name": "安战军 Zhanjun An"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292855/",
+      "name": "娜仁花 Renhua Na"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317916/",
+      "name": "邬靖靖 Jingjing Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401142/",
+      "name": "李牧 Mu Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356833/",
+      "name": "李琦 Qi Li"
+    }
+  ]
+,
+  "datePublished": "2018-05-13",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H37M",
+  "description": "广州末代西关小姐潘梦蝶，曾是一位绝代佳人，如今住在西关大屋中。在将近一个世纪的时间长河里，她坚守着自己的爱情，坚守着家族的秘密，坚守着属于她自己的祖屋……社区民警马思鹏是一位身手矫健、头脑聪颖、乐于助...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

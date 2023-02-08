@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Lass uns abhauen",
+  "url": "/subject/30394842/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2541664466.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147610/",
+      "name": "塞巴斯蒂安·乌泽多夫斯基 Sebastian Urzendowsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1239580/",
+      "name": " Anja Thiemann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358476/",
+      "name": "阿诺·席姆卡特 Arnd Schimkat"
+    }
+  ]
+,
+  "datePublished": "2019-01-16",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H20M",
+  "description": "Frieda und Oskar haben genug vom Leben, aber mehr haben sie nicht gemeinsam. Sie kann Autos klauen, ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "轮回日2",
+  "url": "/subject/27099254/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495758820.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357821/",
+      "name": "李瑞雪 Ruixue Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454271/",
+      "name": "文鸿毅 Hongyi Wen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454271/",
+      "name": "文鸿毅 Hongyi Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357821/",
+      "name": "李瑞雪 Ruixue Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408771/",
+      "name": "埃米尔 Amro"
+    }
+  ]
+,
+  "datePublished": "2017-07-21",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u5947\u5e7b"],
+  "duration": "PT1H3M",
+  "description": "经历了一番轮回后，苏木回到家发现还有另外一个自己，原来自己还没有从死循环中逃离出来，于是苏木决定带着琳娜和小不点逃离这个地方，可是在途中却发生了车祸，小不点不幸于车祸之中，苏木变决定和琳娜再经历一次死...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

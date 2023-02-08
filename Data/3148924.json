@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鬼追人5 Phantasm: Ravager",
+  "url": "/subject/3148924/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2382553565.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286178/",
+      "name": "大卫·哈特曼 David Hartman"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004916/",
+      "name": "唐·柯斯卡莱利 Don Coscarelli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286178/",
+      "name": "大卫·哈特曼 David Hartman"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-10-07",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H27M",
+  "description": "该系列讲述了一个名叫“高人”的超自然邪恶殡仪员，把死人变成矮僵尸为他卖命，企图占领世界，他遭到了一个名叫麦克的小男孩的抵抗，麦克和哥哥乔迪以及好友雷吉共同面对这一威胁，努力阻止“高人”的邪恶计划。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "235",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "牛 НЮ",
+  "url": "/subject/30344262/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2536325739.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394564/",
+      "name": "杨歌 Yang Ge"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394564/",
+      "name": "杨歌 Yang Ge"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394564/",
+      "name": "杨歌 Yang Ge"
+    }
+  ]
+,
+  "datePublished": "2020-02-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "杨歌执导的影片《牛》成为本届电影节排名最高的15部电影之一，竞逐最高奖项 “圣乔治”金像奖。
+在杨歌执导的电影《牛》（俄语发音与&#34;裸体画&#34;相同，也就是说是表现裸体的文艺体裁--编辑注）中，女主人公是一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

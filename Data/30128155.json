@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "生手 Amatörer",
+  "url": "/subject/30128155/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530468855.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331856/",
+      "name": "加布里埃拉·皮奇勒 Gabriela Pichler"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331856/",
+      "name": "加布里埃拉·皮奇勒 Gabriela Pichler"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-03-16",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H42M",
+  "description": "故事围绕一座瑞典现代小镇Lafors上发生的故事展开。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

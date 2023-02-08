@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "木叶传说",
+  "url": "/subject/26831215/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399464/",
+      "name": "崔炎龙 Channel Choi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399464/",
+      "name": "崔炎龙 Channel Choi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313024/",
+      "name": "杜海涛 Haitao Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406125/",
+      "name": "沈文俊 Wenjun Shen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "影片讲述了赤火校园名列全国第一，而千年老二山土学院为了抢夺生源独霸天下谋求暴利，密谋灭绝赤火校园。为了拯救校园，赤火校园必须赢得比赛才有资格继续经营，否则将面临拆迁的灾难。危在旦夕，校长居然叫光光老师...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "布尔比尔能唱歌 Bulbul Can Sing",
+  "url": "/subject/30319520/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2565674434.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408747/",
+      "name": "丽玛·达斯 Rima Das"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408747/",
+      "name": "丽玛·达斯 Rima Das"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-09-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "印度女孩反对偏见、努力成长的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

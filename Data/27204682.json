@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Becoming Burlesque",
+  "url": "/subject/27204682/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2558707173.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358053/",
+      "name": "伊莉丝·鲍曼 Elise Bauman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381331/",
+      "name": "希娃·尼加 Shiva Negar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388510/",
+      "name": "佩德罗·米盖尔·阿尔斯 Pedro Miguel Arce"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422538/",
+      "name": "莫·尤迪-拉穆尔 Moe Jeudy-Lamour"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

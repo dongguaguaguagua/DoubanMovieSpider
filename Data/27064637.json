@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Auf der anderen Seite ist das Gras viel grüner",
+  "url": "/subject/27064637/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2496913624.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033381/",
+      "name": "佩波·丹科瓦特 Pepe Danquart"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002312/",
+      "name": "Stefan Barth Stefan Barth"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045110/",
+      "name": "杰西卡·施瓦茨 Jessica Schwarz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275571/",
+      "name": "菲琳·罗根 Pheline Roggan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1171232/",
+      "name": "苏珊娜·伍艾斯特 Susanne Wuest"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022949/",
+      "name": "茱莉安·柯勒 Juliane Köhler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392106/",
+      "name": "丹尼尔·舒特 Daniel Schütter"
+    }
+  ]
+,
+  "datePublished": "2017-07-13",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "Frankfurt. Die liebenswerte Chaotin Kati und ihr Ehemann Felix führen eigentlich seit fünf Jahren ei...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

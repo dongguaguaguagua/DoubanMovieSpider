@@ -1,0 +1,148 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小马宝莉大电影 My Little Pony: The Movie",
+  "url": "/subject/26176481/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512418397.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380663/",
+      "name": "杰森·西森 Jayson Thiessen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380664/",
+      "name": "莫汉·麦卡锡 Meghan McCarthy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287032/",
+      "name": "萧丽塔 Rita Hsiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382270/",
+      "name": "迈克尔·沃格尔 Michael Vogel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382271/",
+      "name": "乔·巴拉里尼 Joe Ballarini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283489/",
+      "name": "劳伦·浮士德 Lauren Faust"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331706/",
+      "name": "乌佐·阿杜巴 Uzo Aduba"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041022/",
+      "name": "艾米莉·布朗特 Emily Blunt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388191/",
+      "name": "阿什莉·鲍尔 Ashleigh Ball"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022589/",
+      "name": "克里斯汀·肯诺恩斯 Kristin Chenoweth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013799/",
+      "name": "泰雅·迪格斯 Taye Diggs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1125325/",
+      "name": "安德莉亚·利布曼 Andrea Libman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1131634/",
+      "name": "迈克尔·佩纳 Michael Peña"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047985/",
+      "name": "佐伊·索尔达娜 Zoe Saldana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027151/",
+      "name": "列维·施瑞博尔 Liev Schreiber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1240500/",
+      "name": "希雅 SIA"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388192/",
+      "name": "塔比莎·杰曼 Tabitha St. Germain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078960/",
+      "name": "塔拉·斯特朗 Tara Strong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388193/",
+      "name": "凯西·薇瑟乐克 Cathy Weseluck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088351/",
+      "name": "马克斯·马蒂尼 Max Martini"
+    }
+  ]
+,
+  "datePublished": "2017-10-06",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u6b4c\u821e", "\u5192\u9669"],
+  "duration": "PT1H39M",
+  "description": "一股新黑暗势力威胁到小马谷，六位小伙伴紫悦、苹果嘉儿、云宝、碧琪、柔柔和珍奇离开小马国踏上难忘之旅，在旅途中他们结交新朋友，遇到刺激的挑战，必须通过友谊的魔力拯救自己的家园。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4160",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

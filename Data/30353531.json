@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "两个俏公主",
+  "url": "/subject/30353531/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2537244324.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404239/",
+      "name": "薛玉峥 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-11-10",
+  "genre": ["\u52a8\u753b", "\u513f\u7ae5", "\u5947\u5e7b"],
+  "duration": "PT1H26M",
+  "description": "这是一个少女心满满的童话故事，堂庭国的公主红铃，为了帮助天鹅王子找回圣羽，和乐游国的公主桃茜一起，经历各种险境，最终实现了她们的承诺。她们不仅找回了圣羽，还为象神大陆上两国之间的和平做出了巨大的努力。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

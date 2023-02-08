@@ -1,0 +1,102 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "铁笼",
+  "url": "/subject/30203509/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2520206852.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334489/",
+      "name": "徐捷 Jie Xu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334489/",
+      "name": "徐捷 Jie Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356777/",
+      "name": "宋爱文 Aiwen Song"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334489/",
+      "name": "徐捷 Jie Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356780/",
+      "name": "冯伟力 Weili Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391855/",
+      "name": "景涛 Tao Jing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391857/",
+      "name": "文铭 Ming Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391858/",
+      "name": "郭谯 Qiao Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391859/",
+      "name": "徐曼征 Manzheng Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391860/",
+      "name": "张喜民 Ximin Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391861/",
+      "name": "周平 Ping Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391862/",
+      "name": "王薇 Wei Wang"
+    }
+  ]
+,
+  "datePublished": "2018-07-13",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H45M",
+  "description": "一个人被关在一个铁笼里，破了一个奇案。
+在一个带电的铁笼中，当地封之为“神探”的黄升被关在铁笼里几天几夜，无水无食……
+关押人有一个要求，让黄升讲清楚一年前黄升破的轰动一方的舍利被盗案。随着黄升的讲述...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

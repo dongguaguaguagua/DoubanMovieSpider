@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "安尼亚拉号 Aniara",
+  "url": "/subject/30152072/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2549882330.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334665/",
+      "name": "佩拉·卡格曼 Pella Kågerman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417140/",
+      "name": "雨果·里尔亚 Hugo Lilja"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334665/",
+      "name": "佩拉·卡格曼 Pella Kågerman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417140/",
+      "name": "雨果·里尔亚 Hugo Lilja"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417139/",
+      "name": "艾米莉·强森 Emelie Jonsson"
+    }
+  ]
+,
+  "datePublished": "2018-09-07",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H46M",
+  "description": "阿尼亚拉是众多宇宙飞船中的一艘，用于将地球人口运送到他们的新家园火星。但就在安妮亚拉离开被毁坏的地球时，她与一颗小行星相撞，并被击落。安妮亚拉的乘客慢慢意识到，他们永远也回不去了；他们将永远在一个空旷...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4626",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

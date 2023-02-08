@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大漠雄心",
+  "url": "/subject/27174474/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502396279.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326473/",
+      "name": "强小陆 Xiaolu Qiang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326473/",
+      "name": "强小陆 Xiaolu Qiang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315451/",
+      "name": "张译文 Yiwen Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324955/",
+      "name": "黑雯丽 Wenli Hei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402892/",
+      "name": "谢飞虎 Feihu Xie"
+    }
+  ]
+,
+  "datePublished": "2017-10-18",
+  "genre": ["\u5267\u60c5", "\u897f\u90e8"],
+  "duration": "PT1H32M",
+  "description": "一年一场风，从春刮到冬，从春种到夏，到秋一场空。这是流传在毛乌素沙漠的一首歌谣，是老百姓对当地恶劣自然环境的无奈和叹息。石光银就出生在这个黄沙漫漫的不毛之地。在石光银早年的记忆里，不到三四年，黄沙就要...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

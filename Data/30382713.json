@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大漠巾帼情",
+  "url": "/subject/30382713/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2540414103.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326473/",
+      "name": "强小陆 Xiaolu Qiang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326473/",
+      "name": "强小陆 Xiaolu Qiang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404998/",
+      "name": "高艺嘉 Yijia Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327430/",
+      "name": "王亚军 Yajun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009141/",
+      "name": "沈丹萍 Danping Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404999/",
+      "name": "戴辉瑶 Huiyao Dai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328656/",
+      "name": "黄精一 Jingyi Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405287/",
+      "name": "祯襄 Xiang Zhen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368519/",
+      "name": "范陆 Lu Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468714/",
+      "name": "张梦婕 "
+    }
+  ]
+,
+  "datePublished": "2018-05-31",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "《大漠巾帼情》由国家林业和草原局、中共榆林市委宣传部、中共榆阳区委、榆阳区人民政府、中共榆阳区委宣传部联合摄制，影片以榆阳区补浪河女子民兵治沙连为故事原型，讲述了治沙连四十多年来坚持治沙造林的感人事迹...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

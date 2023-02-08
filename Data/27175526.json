@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "明天有多远",
+  "url": "/subject/27175526/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2524606602.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382856/",
+      "name": "王劲松 Jingsong Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382856/",
+      "name": "王劲松 Jingsong Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317071/",
+      "name": "池华琼 Huaqiong Chi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319028/",
+      "name": "王宇 Yu Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365453/",
+      "name": "何军 Jun He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334338/",
+      "name": "李凤鸣 Fengming Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357192/",
+      "name": "徐鸥仪 Fujing Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361579/",
+      "name": "张梓豫 Ziyu Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422833/",
+      "name": "简思瑶 Siyao Jian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366844/",
+      "name": "叶轩彤 Xuantong Ye"
+    }
+  ]
+,
+  "datePublished": "2018-06-26",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "一部关于禁毒的公益院线电影。
+于兰本有一个幸福快乐的家庭，然而在她一次玩乐时，有人精心安排让她食用了毒品，从此改变了她的生活，沉迷在毒品世界里的她无法自拔，最终让她失去了自我，失去了往日幸福的家庭，当...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

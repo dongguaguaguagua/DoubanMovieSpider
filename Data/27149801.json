@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奇异画师",
+  "url": "/subject/27149801/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2502175626.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404148/",
+      "name": "黄龙芳 Thomas Huang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363562/",
+      "name": "朱庭辰 Tingchen Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403961/",
+      "name": "黄佳军 Jiajun Huang"
+    }
+  ]
+,
+  "datePublished": "2017-09-28",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H4M",
+  "description": "影片《奇异画师》中的男主范斌是一位心理医生，同时也是一名具有神奇魔力的画师。在一间神奇的密室堆满千年古画，范斌只需寥寥几笔即可将画中万物幻化为现实。看似无所不能的他，其实内心深处一直存在一个心结：那就...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

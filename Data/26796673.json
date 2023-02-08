@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱丽丝 Alice T.",
+  "url": "/subject/26796673/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2527909505.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018522/",
+      "name": "拉杜·蒙泰安 Radu Muntean"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018522/",
+      "name": "拉杜·蒙泰安 Radu Muntean"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046308/",
+      "name": "亚历桑德罗·巴丘 Alexandru Baciu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028514/",
+      "name": "勒兹万·勒杜雷斯库 Razvan Radulescu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399039/",
+      "name": "安德拉·古蒂 Andra Guti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353592/",
+      "name": "米哈拉·斯尔布 Mihaela Sirbu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005399/",
+      "name": "玛莉亚·波比丝达舒 Maria Popistasu"
+    }
+  ]
+,
+  "datePublished": "2018-08-04",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "艾莉丝是个态度轻浮、行事鲁莽的红发少女，和妈妈当初领养她时的可爱形象大相径庭。正值叛逆期的艾莉丝完全是个麻烦制造机，一次又一次的脱序行为让妈妈对她非常头痛和失望。笼罩在这样的阴影之下，艾莉丝也承受了巨...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "74",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

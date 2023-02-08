@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "造梦师",
+  "url": "/subject/27168199/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2503046746.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350019/",
+      "name": "王凯阳 Kaiyang Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383519/",
+      "name": "叶蘅 Heng Ye"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383107/",
+      "name": "李俊霆 Junting  Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350012/",
+      "name": "王婷 Ting Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366658/",
+      "name": "郭致诚 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316799/",
+      "name": "郭晓峰 Xiaofeng Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382550/",
+      "name": "王能 Neng Wang"
+    }
+  ]
+,
+  "datePublished": "2017-11-07",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H15M",
+  "description": "一杯神秘的酒，让服装设计师陈梓姗意外来到一百年前的丹阳城，正值日寇强占丹阳，酝酿惊天阴谋；而陈梓姗被警局误认作通缉犯齐雨蒙，更阴差阳错卷入一场针对亲日军阀廖明泽的爱国秘密行动；在经历阴谋背叛、生离死别...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

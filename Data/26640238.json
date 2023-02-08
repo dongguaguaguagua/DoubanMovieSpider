@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Bayou Tales",
+  "url": "/subject/26640238/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2603517301.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276530/",
+      "name": "林·沙烨 Lin Shaye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027287/",
+      "name": "罗杰·巴特 Roger Bart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387744/",
+      "name": "伊恩·卡塞尔伯里 Ian Casselberry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432828/",
+      "name": "托尼·查普曼·斯蒂尔 Toney Chapman Steele"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484030/",
+      "name": "克雷格·莱德克 Craig Leydecker"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

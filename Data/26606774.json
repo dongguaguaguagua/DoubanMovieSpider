@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "关关雎鸠",
+  "url": "/subject/26606774/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2534014342.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455089/",
+      "name": "于鹏 Peng Yu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455089/",
+      "name": "于鹏 Peng Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401060/",
+      "name": "周非 Fei Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316822/",
+      "name": "冯波 Bo Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276088/",
+      "name": "张垒 Lei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314486/",
+      "name": "郝柏杰 Bojie Hao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385633/",
+      "name": "邓燕歌 Yange Deng"
+    }
+  ]
+,
+  "datePublished": "2018-09-21",
+  "genre": ["\u60ac\u7591", "\u5192\u9669"],
+  "duration": "PT1H35M",
+  "description": "公子昊是一位骁勇善战的大将军，爱上画师之女一一桃女。一次胜仗后凯旋归来欲与恋人团聚，却遇朝廷特使带来对公子昊的封赏及对桃女赐死的毒酒，以示封建礼教对门第不合的爱情的封杀。公子昊拒绝高官厚祿，住进自已修...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

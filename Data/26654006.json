@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天蛾人 Moth",
+  "url": "/subject/26654006/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2425594438.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1239442/",
+      "name": " Bálint Egri"
+    }
+  ]
+,
+  "datePublished": "2016-09-19",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H21M",
+  "description": "An enthusiastic lecturer and her student travel to Europe to go after the mythology of the Mothman, ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

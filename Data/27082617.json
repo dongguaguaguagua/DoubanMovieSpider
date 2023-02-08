@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死亡棚屋 Dead Shack",
+  "url": "/subject/27082617/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2484005321.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389229/",
+      "name": "Peter Ricq Peter Ricq"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389229/",
+      "name": "Peter Ricq Peter Ricq"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389228/",
+      "name": "莉兹·博伊斯 Lizzie Boys"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172108/",
+      "name": "田· 薇拉莉 Valerie Tian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041113/",
+      "name": "罗伦·荷莉 Lauren Holly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1178372/",
+      "name": "Donavon Stinson Donavon Stinson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396177/",
+      "name": "琼·B·王尔德 June B. Wilde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429377/",
+      "name": "马修 尼尔森-马胡德 Matthew Nelson-Mahood"
+    }
+  ]
+,
+  "datePublished": "2017-07-02",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "On a weekend getaway at a rundown cabin in the woods, Jason, a cautious teen, his crude best friend ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "312",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

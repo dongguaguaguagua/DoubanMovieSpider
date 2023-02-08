@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "La casa di famiglia",
+  "url": "/subject/27202871/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2505455335.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282074/",
+      "name": "利贝罗·德·瑞恩佐 Libero De Rienzo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "the stalker club",
+  "url": "/subject/27193187/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2590810812.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279961/",
+      "name": "Doug Campbell Doug Campbell"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040661/",
+      "name": "玛伊芙·奎因兰 Maeve Quinlan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1217538/",
+      "name": "克里斯托·艾伦 Crystal Allen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328212/",
+      "name": "詹姆斯·弗瑞斯 James Ferris"
+    }
+  ]
+,
+  "datePublished": "2017-04-15",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "A group of teenagers who take after their parents and join the stalker club during all this drama a ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

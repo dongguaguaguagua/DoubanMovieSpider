@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心灵暗室 Psychomanteum",
+  "url": "/subject/30280996/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2528754971.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465023/",
+      "name": "Lizzie Hiscott Lizzie Hiscott"
+    }
+  ]
+,
+  "datePublished": "2018-04-30",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "这是一部由英国拍摄的几部截然不同的短片恐怖电影组成的长片。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

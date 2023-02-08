@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "这个男人来自外太空 The Man from Outer Space",
+  "url": "/subject/30384745/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540637870.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1096329/",
+      "name": "Ben Hall Ben Hall"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1096329/",
+      "name": "Ben Hall Ben Hall"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307390/",
+      "name": "Christopher Howell Watson Christopher Howell Watson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H14M",
+  "description": "A failing script writer is given one last chance to save his career, yet at what cost?",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

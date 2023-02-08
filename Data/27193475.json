@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "咕噜咕噜美人鱼2",
+  "url": "/subject/27193475/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2508071436.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340240/",
+      "name": "杨广福 Guangfu Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386281/",
+      "name": "黄竞天 Jingtian Huang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386282/",
+      "name": "丁莹莹 Yingying Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356706/",
+      "name": "杨进 Jin Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348773/",
+      "name": "卢瑶 Yao Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358634/",
+      "name": "苏子芜 Ziwu Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348778/",
+      "name": "王琪 Qi Wang"
+    }
+  ]
+,
+  "datePublished": "2017-12-30",
+  "genre": ["\u52a8\u753b", "\u513f\u7ae5", "\u5947\u5e7b"],
+  "duration": "PT1H32M",
+  "description": "故事描述了勇敢善良的美人鱼咕噜，经历一系列冒险以后，帮助小侠鱼回归家园的故事。
+",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

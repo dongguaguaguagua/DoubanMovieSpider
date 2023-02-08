@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Impossible Journey",
+  "url": "/subject/30289501/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2529681273.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343562/",
+      "name": "Abraham López Guerrero Abraham López Guerrero"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343562/",
+      "name": "Abraham López Guerrero Abraham López Guerrero"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

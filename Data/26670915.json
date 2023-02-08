@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "纠葛 Entanglement",
+  "url": "/subject/26670915/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498887408.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339676/",
+      "name": "托马斯·米德蒂奇 Thomas Middleditch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018045/",
+      "name": "杰丝·威克斯勒 Jess Weixler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401785/",
+      "name": "肖娜·约翰尼森 Shauna Johannesen"
+    }
+  ]
+,
+  "datePublished": "2017-10-05",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "While searching for the meaning of his existence, Ben Layton uncovers a family secret that leads him...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

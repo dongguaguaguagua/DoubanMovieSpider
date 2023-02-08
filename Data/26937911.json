@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "信徒X Courier X",
+  "url": "/subject/26937911/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2406600710.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027867/",
+      "name": "乌多·基尔 Udo Kier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1068663/",
+      "name": "詹姆斯·C·伯恩斯 James C. Burns"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406431/",
+      "name": "安东尼·曼加诺 Anthony Mangano"
+    }
+  ]
+,
+  "datePublished": "2016-10-21",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT2H18M",
+  "description": "A surreptitious smuggler gets solicited by the CIA to help cover-up the Nicaraguan blackmail attempt...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

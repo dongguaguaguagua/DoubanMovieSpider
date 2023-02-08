@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Gorenos",
+  "url": "/subject/26653971/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2278540210.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165876/",
+      "name": "Clarence Williams Clarence Williams"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1229429/",
+      "name": " Luis Ugarte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1250186/",
+      "name": " Amy Lyn Howell"
+    }
+  ]
+,
+  "datePublished": "2016-06-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

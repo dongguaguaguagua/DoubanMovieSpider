@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "先亲后杀 Kiss and Kill",
+  "url": "/subject/27591242/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2506047092.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430490/",
+      "name": "梅根·梅德林 Megan Medellin"
+    }
+  ]
+,
+  "datePublished": "2017-08-08",
+  "genre": ["\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H21M",
+  "description": "一个名叫凯蒂的女人，被出轨照片勒索，因为一次莫名其妙的心血来潮。穷途末路之下，唯有致命报复。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "147",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

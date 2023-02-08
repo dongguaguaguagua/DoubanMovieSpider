@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灵异侦探社",
+  "url": "/subject/27091380/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519037359.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443129/",
+      "name": "轩祥杰 Xiangjie Xuan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368665/",
+      "name": "苏悦年 Yuenian Su"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405556/",
+      "name": "刘晋钊 Jinzhao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397799/",
+      "name": "刘亭驿 Tingyi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414924/",
+      "name": "李明轩 Mingxuan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455096/",
+      "name": "赫富有 Fuyou He"
+    }
+  ]
+,
+  "datePublished": "2018-04-02",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5", "\u60ac\u7591", "\u72af\u7f6a", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "神秘工厂深夜突发离奇案件，一名员工离奇惨死，人人都传是不知名异兽所为，一时间案件变得神乎其神。国际知名灵异侦探社接到被害人家属的委托，介入此案调查，却被一系列假线索误导，将凶手锁定在厂长身上，然而厂长...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

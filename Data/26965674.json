@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Malevolent",
+  "url": "/subject/26965674/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502590790.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054222/",
+      "name": "米莎·巴顿 Mischa Barton"
+    }
+  ]
+,
+  "datePublished": "2016-11-03",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

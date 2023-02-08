@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Stadtlandliebe",
+  "url": "/subject/27193252/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2504485921.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032658/",
+      "name": "马可·克罗伊茨派因特纳 Marco Kreuzpaintner"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032658/",
+      "name": "马可·克罗伊茨派因特纳 Marco Kreuzpaintner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302764/",
+      "name": "德利克·荷斯曼 Hendrik Hölzemann"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045110/",
+      "name": "杰西卡·施瓦茨 Jessica Schwarz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189412/",
+      "name": "汤姆·贝克 Tom Beck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134789/",
+      "name": "乌韦·奥克森克内希特 Uwe Ochsenknecht"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009221/",
+      "name": "克莉斯汀·施恩 Christine Schorn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147596/",
+      "name": "霍斯特·扎赫特勒本 Horst Sachtleben"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348730/",
+      "name": "弗拉基米尔·布尔拉科夫 Vladimir Burlakov"
+    }
+  ]
+,
+  "datePublished": "2016-07-07",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H29M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

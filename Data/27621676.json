@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "苏恩之争 Sune vs. Sune",
+  "url": "/subject/27621676/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542651386.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438591/",
+      "name": "乔恩·霍尔姆伯格 Jon Holmberg"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438591/",
+      "name": "乔恩·霍尔姆伯格 Jon Holmberg"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1170404/",
+      "name": "Sissela Benn Sissela Benn"
+    }
+  ]
+,
+  "datePublished": "2018-11-30",
+  "genre": ["\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H29M",
+  "description": "On his first day as a fourth-grader, Sune is welcomed by an unwanted surprise. A new boy is in his s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

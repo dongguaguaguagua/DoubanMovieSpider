@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奥马尔 Omertà",
+  "url": "/subject/27138561/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2552424298.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381765/",
+      "name": "汉萨·梅塔 Hansal Mehta"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381765/",
+      "name": "汉萨·梅塔 Hansal Mehta"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337689/",
+      "name": "拉吉·库玛 Rajkummar Rao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338803/",
+      "name": "拉什·塔朗 Rajesh Tailang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305492/",
+      "name": "Rupinder Nagra Rupinder Nagra"
+    }
+  ]
+,
+  "datePublished": "2017-09-08",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u4f20\u8bb0", "\u72af\u7f6a"],
+  "duration": "PT1H36M",
+  "description": "奧馬爾在倫敦過着富裕生活，還有一年就大學畢業，一 切看似安好。然後忽然一天感召來了，他無法再忍受波斯尼亞大批穆斯林被虐殺的報道和影像，要做點什麼改變世界。真人真事改編，呈現恐怖份子的成魔歷程；不從英美...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

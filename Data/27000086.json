@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "提拉米苏 Tiramisù",
+  "url": "/subject/27000086/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2448496631.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028665/",
+      "name": "法比奥·德·路易吉 Fabio De Luigi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028665/",
+      "name": "法比奥·德·路易吉 Fabio De Luigi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382236/",
+      "name": "安吉洛·杜罗 Angelo Duro"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H34M",
+  "description": "Antonio, a representative of medical supplies with no success, finds a brilliant way to present hims...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

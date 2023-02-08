@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "入口 The Portal",
+  "url": "/subject/27035421/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2457748496.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378274/",
+      "name": "Meg Saricks Meg Saricks"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365627/",
+      "name": "丹尼·泰凯尔 Danny Thykær"
+    }
+  ]
+,
+  "datePublished": "2017-04-25",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H15M",
+  "description": "An anthology of horror shorts about death.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

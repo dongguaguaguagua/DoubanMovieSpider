@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天使的身体 Le corps des anges",
+  "url": "/subject/27664071/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2510423103.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388809/",
+      "name": "盖布瑞欧·伽尼尔 Gabriel Garnier"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT0H30M",
+  "description": "Remi throws himself on the ground, listens to birds and falls asleep in hedges. Gabriel opens his st...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "186",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

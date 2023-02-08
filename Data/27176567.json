@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "斯威湖之歌 The Song of Sway Lake",
+  "url": "/subject/27176567/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503217408.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285022/",
+      "name": "Ari Gold Ari Gold"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410431/",
+      "name": "Elizabeth Bull Elizabeth Bull"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285022/",
+      "name": "Ari Gold Ari Gold"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009278/",
+      "name": "罗瑞·卡尔金 Rory Culkin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013911/",
+      "name": "罗伯特·席安 Robert Sheehan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335916/",
+      "name": "Isabelle McNally Isabelle McNally"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009524/",
+      "name": "玛丽·贝丝·派尔 Mary Beth Peil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027857/",
+      "name": "伊丽莎白·佩纳 Elizabeth Peña"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342708/",
+      "name": "杰克·法拉赫 Jack Falahee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013729/",
+      "name": "布莱恩·丹内利 Brian Dennehy"
+    }
+  ]
+,
+  "datePublished": "2017-06-21",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u6b4c\u821e"],
+  "duration": "PT1H40M",
+  "description": "音乐收藏家奥利·斯韦招募了他唯一的朋友，一个吵闹的俄罗斯流浪者，帮助他从自己家里的庄园里偷了一张78张唱片。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "172",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

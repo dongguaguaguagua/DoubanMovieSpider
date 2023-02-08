@@ -1,0 +1,90 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "咖啡伴侣 커피 메이트",
+  "url": "/subject/26746386/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2423021151.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001188/",
+      "name": "吴智昊 Ji-ho Oh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023410/",
+      "name": "尹珍序 Jin-seo Yun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440973/",
+      "name": "金泰汉 Tae-han Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399172/",
+      "name": "金周宪 Joo-Heon Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391256/",
+      "name": "劉弼蘭 Yoo Pil-ran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382188/",
+      "name": "金振烨 Jin-yeop Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382187/",
+      "name": "金智星 Ji-seong Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381927/",
+      "name": "金河燕 Kim Ha-yeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315063/",
+      "name": "金旼序 Kim Min Seo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474518/",
+      "name": "郑妍心 Jung Yeon Shim"
+    }
+  ]
+,
+  "datePublished": "2017-03-01",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H51M",
+  "description": "Hee-soo and In-yeong come across each other in a cafe. They sympathize with each other through conve...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "335",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

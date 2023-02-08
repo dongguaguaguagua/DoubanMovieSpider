@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "La Deuxième étoile",
+  "url": "/subject/30195229/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2599618529.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350909/",
+      "name": "吕西安·让-巴蒂斯特 Lucien Jean-Baptiste"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350909/",
+      "name": "吕西安·让-巴蒂斯特 Lucien Jean-Baptiste"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431235/",
+      "name": "玛丽-卡斯迪耶·芒颂-沙尔 Marie-Castille Mention-Schaar"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350909/",
+      "name": "吕西安·让-巴蒂斯特 Lucien Jean-Baptiste"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295579/",
+      "name": "菲尔米娜·里夏尔 Firmine Richard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018387/",
+      "name": "安妮·康斯金尼 Anne Consigny"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1093117/",
+      "name": "罗兰·吉罗 Roland Giraud"
+    }
+  ]
+,
+  "datePublished": "2017-12-13",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "Married father of four, Jean-Gabriel is a TV weatherman. And for Christmas this year, he’s decided t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "严肃的月亮 Uprising",
+  "url": "/subject/26336780/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2365931519.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049586/",
+      "name": "布莱恩·辛格 Bryan Singer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028105/",
+      "name": "马克·古根海姆 Marc Guggenheim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009758/",
+      "name": "罗伯特·A·海因莱因 Robert A. Heinlein"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "布莱恩·辛格（Bryan Singer）与20世纪福克斯即将把罗伯特·A·海因莱因（Robert A. Heinlein）雨果奖获奖科幻小说《月亮是一个冷酷的情人》（The Moon is a Har...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

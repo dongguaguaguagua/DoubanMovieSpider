@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "清明",
+  "url": "/subject/27037475/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2631627565.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457361/",
+      "name": "龚和平 Heping Gong"
+    }
+  ]
+,
+  "datePublished": "2021-01-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H24M",
+  "description": "刘铭在监狱里关了3年，今天刑满释放。老杨(父辈)看到他无家可归，便主动接他回自己家住。此时，三峡工程即将把这片土地淹没。刘铭发现父亲的坟墓埋在大山里，在孝心的感染下，决定在离开这里之前，把父亲的骨灰坛...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

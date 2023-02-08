@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "古利亚瓦西亚！ Гуляй, Вася!",
+  "url": "/subject/26990285/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2441176350.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350733/",
+      "name": "索菲娅·莱贝德娃 Sofya Lebedeva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396706/",
+      "name": "埃菲姆·彼得鲁宁 Efim Petrunin"
+    }
+  ]
+,
+  "datePublished": "2017-02-14",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "Mitya and Alisa are set to get married. The problem is that Mitya is still married to Vasya, who ref...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "110",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

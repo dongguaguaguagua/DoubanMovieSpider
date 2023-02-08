@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "200度 200 Degrees",
+  "url": "/subject/26986878/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2459545455.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001030/",
+      "name": "乔治·塞拉菲尼 Giorgio Serafini"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024009/",
+      "name": "Garry Charles Garry Charles"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048148/",
+      "name": "艾里克·巴弗尔 Eric Balfour"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1253600/",
+      "name": "拉里·韦德·卡瑞尔 Larry Wade Carrell"
+    }
+  ]
+,
+  "datePublished": "2017-06-06",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "Ryan Hinds awakes inside a sealed industrial kiln. He is set challenges by a voice with no face, pus...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

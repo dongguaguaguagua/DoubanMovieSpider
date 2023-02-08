@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亲爱的达令 Darling",
+  "url": "/subject/26824037/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2501884099.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029360/",
+      "name": "波吉特·斯塔莫 Birgitte Stærmose"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050925/",
+      "name": "基姆·弗帕兹·艾克森 Kim Fupz Aakeson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040587/",
+      "name": "古斯塔·斯卡斯加德 Gustaf Skarsgård"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036598/",
+      "name": "乌尔里奇·汤姆森 Ulrich Thomsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371709/",
+      "name": "达妮卡· 库尔西奇 Danica Ćurčić"
+    }
+  ]
+,
+  "datePublished": "2017-10-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "达令是世界著名的丹麦芭蕾舞演员。久别之后，她和丈夫弗朗回到哥本哈根的丹麦皇家芭蕾舞团，表演经典芭蕾舞剧《吉赛尔》。她将与弗朗一起担任编舞的角色。在一次排练中，达林痛得倒下了。医生诊断为股骨永久性损伤，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "148",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

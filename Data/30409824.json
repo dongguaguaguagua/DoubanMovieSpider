@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "关于我情敌的一切 드라마 스테이지 - 내 연적의 모든 것",
+  "url": "/subject/30409824/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2543290183.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350107/",
+      "name": "安国真 Gooc-jin Ahn"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412928/",
+      "name": "金伯谦 Bo-kyum Kim"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326766/",
+      "name": "金瑟祺 Seul-gi Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335492/",
+      "name": "朴斗植 Doo-sik Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383972/",
+      "name": "玉子妍 Ja-yeon Ok"
+    }
+  ]
+,
+  "datePublished": "2018-12-15",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H4M",
+  "description": "나만 사랑하겠다던 그놈이 떠났다. 평생 한 명의 남자만 만나온 &#34;오선영&#34;의 첫 실연 극복기
+说只爱我的那个家伙离开了. 一辈子只见一个男人的‘吴善英’的首次失恋克服记。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "647",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

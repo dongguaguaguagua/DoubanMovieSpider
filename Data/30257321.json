@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿蒂克 Artik",
+  "url": "/subject/30257321/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2882631580.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423645/",
+      "name": "Tom Botchii Skowronski Tom Botchii Skowronski"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423645/",
+      "name": "Tom Botchii Skowronski Tom Botchii Skowronski"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260573/",
+      "name": "蔡斯·威廉逊 Chase Williamson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048416/",
+      "name": "杰瑞·G·安格罗 Jerry G. Angelo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319144/",
+      "name": "劳伦·阿什利·卡特 Lauren Ashley Carter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1119228/",
+      "name": "马修·默瑟 Matt Mercer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1139646/",
+      "name": "大卫·罗宾斯 David Robbins"
+    }
+  ]
+,
+  "datePublished": "2019-08-11",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H18M",
+  "description": "一个迷恋漫画书的连环杀人狂教他的儿子如何逃脱一系列残忍的谋杀，直到男孩和一个神秘的男子成为朋友，此人威胁要揭露他们家可怕的秘密。。。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

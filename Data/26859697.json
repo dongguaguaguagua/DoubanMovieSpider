@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "We The Jury",
+  "url": "/subject/26859697/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2376124692.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388648/",
+      "name": "James Acaster James Acaster"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396614/",
+      "name": "里图·阿亚 Ritu Arya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475044/",
+      "name": "薇薇恩·阿昌庞 Vivienne Acheampong"
+    }
+  ]
+,
+  "datePublished": "2016-09-05",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "We The Jury is a comedy about jury duty, something William has dreamt of doing his whole life.
+He’s ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "致命吸引 Deadly Attraction",
+  "url": "/subject/30411362/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543489280.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328603/",
+      "name": "霍丽·迪威奥克斯 Holly Deveaux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1220761/",
+      "name": "布里特妮·威尔逊 Brittney Wilson"
+    }
+  ]
+,
+  "datePublished": "2017-10-01",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H34M",
+  "description": "Ruby Asher is a widow who seduces and murders wealthy politician Nicholas Landon. His vengeful daugh...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "71",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

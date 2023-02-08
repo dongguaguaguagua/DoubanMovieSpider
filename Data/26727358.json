@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伏魔战士",
+  "url": "/subject/26727358/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2323402071.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358088/",
+      "name": "刘帅 Lucas Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314249/",
+      "name": "施予斐 Yufei Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403080/",
+      "name": "郑丹蕾 Danlei Zheng"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u5947\u5e7b"],
+  "duration": "PT1H9M",
+  "description": "影片讲述了现实社会中一个散漫惯了的平凡年轻人芈凡在机缘巧合下救了龙族战士龙樱，本以为天降女神，可以开始一段美妙的爱情，却被龙樱告知自己并不是平凡人，并要把自己训练成伏魔战士的奇遇以及由此引发的一系列爱...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "104",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

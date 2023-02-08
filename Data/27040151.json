@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灵异妙探大电影 Psych: The Movie",
+  "url": "/subject/27040151/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2574467510.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284106/",
+      "name": "史蒂夫·弗兰克斯 Steve Franks"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284106/",
+      "name": "史蒂夫·弗兰克斯 Steve Franks"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000113/",
+      "name": "詹姆斯·罗德 James Roday"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000113/",
+      "name": "詹姆斯·罗德 James Roday"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044936/",
+      "name": "杜勒·希尔 Dulé Hill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132960/",
+      "name": "蒂莫西·奥门德森 Timothy Omundson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1111144/",
+      "name": "玛吉·劳森 Maggie Lawson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049758/",
+      "name": "柯宾·伯恩森 Corbin Bernsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027147/",
+      "name": "扎克瑞·莱维 Zachary Levi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040497/",
+      "name": "拉尔夫·马基奥 Ralph Macchio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040576/",
+      "name": "吉米·辛普森 Jimmi Simpson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355195/",
+      "name": "贾兹敏·西蒙 Jazmyn Simon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108075/",
+      "name": "罗伯特·拉萨多 Robert LaSardo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049882/",
+      "name": "柯特·富勒 Kurt Fuller"
+    }
+  ]
+,
+  "datePublished": "2017-12-07",
+  "genre": ["\u559c\u5267", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H28M",
+  "description": "USA剧集《灵异妙探》(Psych)要以电影形式回归了，该剧将推出2小时的假日电影《灵异妙探：大电影》，今年12月播出，剧集主要演员都回归。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "254",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.1"
+  }
+}

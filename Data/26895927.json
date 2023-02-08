@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猫忍",
+  "url": "/subject/26895927/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2445032790.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300485/",
+      "name": "渡边武 Takeshi Watanabe"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341814/",
+      "name": "永森裕二 Yûji Nagamori"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341813/",
+      "name": "黑木久胜 Hisakatsu Kuroki"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313636/",
+      "name": "大野拓朗 Takuro Ohno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1175193/",
+      "name": "佐藤江梨子 Eriko Satô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323638/",
+      "name": "藤本泉 Izumi Fujimoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011362/",
+      "name": "涩川清彦 Kiyohiko Shibukawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313502/",
+      "name": "铃木福 Fuku Suzuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051674/",
+      "name": "永泽俊矢 Toshiya Nagasawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042056/",
+      "name": "柄本明 Akira Emoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321432/",
+      "name": "磨赤儿 Akaji Maro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275646/",
+      "name": "船越英一郎 Eiichiro Funakoshi"
+    }
+  ]
+,
+  "datePublished": "2017-05-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "《猫忍》由《猫侍》原班人马打造，是世界首部“猫类忍者”动作片。 阳炎太是一个游手好闲的年轻忍者，他的族人认定他知道传说中的卷宗的下落。相传，那上面记载着能够帮助战士赢得胜利的易容术技巧。他随身带着自己...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "277",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

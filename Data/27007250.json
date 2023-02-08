@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "ISM",
+  "url": "/subject/27007250/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2452672390.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028651/",
+      "name": "普里·贾加纳斯 Puri Jagannath"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028651/",
+      "name": "普里·贾加纳斯 Puri Jagannath"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350820/",
+      "name": "塔尼克拉·巴拉尼 Tanikella Bharani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428392/",
+      "name": "卡延·拉姆 Kalyan Ram"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428395/",
+      "name": "维尼拉·基肖尔 Vennela Kishore"
+    }
+  ]
+,
+  "datePublished": "2016-10-07",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT2H12M",
+  "description": "Hackers, lovers, and gangsters collide in this story about the fight against corruption and for love...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

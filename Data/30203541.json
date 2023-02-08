@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迟光",
+  "url": "/subject/30203541/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2539182001.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391887/",
+      "name": "杨慕杨 Muyang Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392014/",
+      "name": "刘家良 Begonia Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404488/",
+      "name": "李雨泽 Yuze Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404489/",
+      "name": "孔德逸 Deyi Kong"
+    }
+  ]
+,
+  "datePublished": "2018-12-22",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H30M",
+  "description": "自打父亲在祠堂的厦子里整出了个卫生所，村洼里的人们才晓得那香火堆里头除了先人还是有个先生在的，从此也没人再记得父亲这位先生姓甚名谁了，连我也时常被人郑重其事地唤一声“小先生”。他像庙里的冰冷又慈祥的山...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

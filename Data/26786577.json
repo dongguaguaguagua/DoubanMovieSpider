@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "1920 伦敦 1920 London",
+  "url": "/subject/26786577/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2427882374.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365262/",
+      "name": "达蒙爪·苏雷什·德赛 Dharmendra Suresh Desai"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032430/",
+      "name": "沙尔曼·乔希 Sharman Joshi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406769/",
+      "name": "米拉·乔普拉 Meera Chopra"
+    }
+  ]
+,
+  "datePublished": "2016-05-06",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT2H0M",
+  "description": "Shivangi (Meera Chopra) lives in London with her husband Veer Singh (Vishal Karwal). One day, he rec...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

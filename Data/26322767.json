@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "薇塔与弗吉尼亚 Vita and Virginia",
+  "url": "/subject/26322767/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2566536718.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359726/",
+      "name": "钱亚·波顿 Chanya Button"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019064/",
+      "name": "艾琳·阿特金斯 Eileen Atkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005491/",
+      "name": "弗吉尼亚·伍尔芙 Virginia Woolf"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1142735/",
+      "name": "薇塔·萨克维尔·维斯特 Vita Sackville-West"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016670/",
+      "name": "杰玛·阿特登 Gemma Arterton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322172/",
+      "name": "伊丽莎白·德比茨基 Elizabeth Debicki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019046/",
+      "name": "伊莎贝拉·罗西里尼 Isabella Rossellini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1136688/",
+      "name": "鲁伯特·彭利-琼斯 Rupert Penry-Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332724/",
+      "name": "彼得·费迪南多 Peter Ferdinando"
+    }
+  ]
+,
+  "datePublished": "2018-09-11",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u540c\u6027", "\u4f20\u8bb0"],
+  "duration": "PT1H50M",
+  "description": "影片背景设定在20年代的伦敦，剧情将会聚焦伍尔芙与韦斯特之间的情事：弗吉尼亚·史蒂芬1912年嫁给伦纳德·伍尔夫，接着遇见了上流社会人士兼作家薇塔·萨克维尔·韦斯特——哈罗德·尼科尔森的妻子。自192...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6741",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

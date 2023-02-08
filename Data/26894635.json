@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恋恋北京",
+  "url": "/subject/26894635/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2678343231.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274652/",
+      "name": "姜超 Chao Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323939/",
+      "name": "赵禹晴 Yuqing Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313471/",
+      "name": "罗京民 Jingmin Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379226/",
+      "name": "计林 Lin Ji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327347/",
+      "name": "池源 Yuan Chi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "年近七旬的一位老人虽在年幼时便离开了北京，远赴台湾，可心中却时时未忘家乡的一切。于是和自己的外孙女回到家乡寻找儿时的记忆。不曾想略带惊喜的一场车祸意外发生使祖孙二人遇见了北京当地的“胡同游”叔侄。因此...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "102",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.1"
+  }
+}

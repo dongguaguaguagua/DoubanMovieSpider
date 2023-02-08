@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Framed for Murder: A Fixer Upper Mystery",
+  "url": "/subject/27007987/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2453094923.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287639/",
+      "name": "Mark Jean Mark Jean"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015133/",
+      "name": "Peter Hume Peter Hume"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018153/",
+      "name": "珠儿 Jewel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010648/",
+      "name": "科林·费格森 Colin Ferguson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027307/",
+      "name": "艾琳·卡普拉克 Erin Karpluk"
+    }
+  ]
+,
+  "datePublished": "2017-02-15",
+  "genre": ["\u60ac\u7591"],
+  "duration": "",
+  "description": "In the small resort town of Lighthouse Cove, everyone knows that the best man for the job is a woman...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

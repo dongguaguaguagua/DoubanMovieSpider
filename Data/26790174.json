@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "机器男友",
+  "url": "/subject/26790174/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2432471628.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448638/",
+      "name": "柴楚然 Churan Chai"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354299/",
+      "name": "韩志硕 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387338/",
+      "name": "赵威霖 Weilin Zhao"
+    }
+  ]
+,
+  "datePublished": "2017-02-19",
+  "genre": ["\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H25M",
+  "description": "电影《机器男友》讲述了对生活充满希望的女主人公辛思娅（蔡蝶饰）莫名地遭遇了一系列倒霉事件，最后遭男友劈腿被分手，就在辛思娅难以承受痛苦选择自杀时，一个从未来穿越回来的机器人（韩志硕饰）从天而降救了辛思...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

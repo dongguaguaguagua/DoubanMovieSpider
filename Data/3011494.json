@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "妮娜 Nina",
+  "url": "/subject/3011494/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2323631856.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018359/",
+      "name": "辛西娅·莫特 Cynthia Mort"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018359/",
+      "name": "辛西娅·莫特 Cynthia Mort"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047985/",
+      "name": "佐伊·索尔达娜 Zoe Saldana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040592/",
+      "name": "迈克·艾普斯 Mike Epps"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000231/",
+      "name": "大卫·奥伊罗 David Oyelowo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023103/",
+      "name": "罗纳德·格特曼 Ronald Guttman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323896/",
+      "name": "玛丽·帕特·格里森 Mary Pat Gleason"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132232/",
+      "name": "玛丽安妮·穆勒雷尔 Marianne Muellerleile"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1098034/",
+      "name": "Siena Goines Siena Goines"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1103527/",
+      "name": "艾拉·乔伊斯 Ella Joyce"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045545/",
+      "name": "安东尼·莫利纳利 Anthony Molinari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045529/",
+      "name": "Allison Sarofim Allison Sarofim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1196348/",
+      "name": "扎克·祖布雷纳 Zack Zublena"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014134/",
+      "name": "玛丽・布莱姬 Mary J. Blige"
+    }
+  ]
+,
+  "datePublished": "2016-04-22",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50", "\u4f20\u8bb0"],
+  "duration": "PT1H30M",
+  "description": "本片讲述了著名爵士名伶、钢琴家妮娜·西蒙的成名经历，以及她与经纪人克利夫顿·亨德森之间的感情故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "81",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

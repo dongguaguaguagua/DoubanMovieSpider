@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不说再见 Прощаться не будем",
+  "url": "/subject/30281194/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528757939.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421066/",
+      "name": "帕维尔·德罗兹多夫 Pavel Drozdov"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1212753/",
+      "name": "安德烈·梅尔兹利金 Andrey Merzlikin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1177358/",
+      "name": "安娜·邱丽娜 Anna Churina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426001/",
+      "name": "安娜·佩斯科娃 Anna Peskova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1466695/",
+      "name": "亚历山大·罗巴克 Aleksandr Robak"
+    }
+  ]
+,
+  "datePublished": "2018-06-21",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H53M",
+  "description": "1941. October. There are thousands of German troops advancing on Kalinin (now Tver), to open a direc...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "167",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

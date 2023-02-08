@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "墨玉太极",
+  "url": "/subject/27601053/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2507375855.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384137/",
+      "name": "张荣生 Rongsheng Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385708/",
+      "name": "姜河泉 Hequan Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385709/",
+      "name": "孙士川 Shichuan Sun"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351294/",
+      "name": "陈宇星 Yuxing Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385710/",
+      "name": "六子 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385711/",
+      "name": "白晶白 Jingbai Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385712/",
+      "name": "颜勤 Qin Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360236/",
+      "name": "费璇 Xuan Fei"
+    }
+  ]
+,
+  "datePublished": "2017-12-13",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "本片讲述了一个风雨交加的夜晚，冯喜（陈宇星 饰）独自走在回家的路上，途径一片树林。冯喜隐约听到有个女子的声音在求他帮忙—— 她崴了脚，需要他扶她回去。女子告诉冯喜，她叫李嫣嫣（费璇 饰），是附近道人的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

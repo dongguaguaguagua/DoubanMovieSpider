@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一夜情 원나잇스탠드",
+  "url": "/subject/30171284/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2516430686.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384986/",
+      "name": "纪吉雄 Kil-woong Ji"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384986/",
+      "name": "纪吉雄 Kil-woong Ji"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-03-28",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H34M",
+  "description": "넘어가선 안 되었던 하룻밤의 유혹!
+인테리어 디자이너인 지연(이자은)은 미술관 공사 마무리로 정신 없이 바쁘다. 결혼까지 앞둔 상태라 몸이 열 개라도 모자랄 지경인데 예비 시아버지...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

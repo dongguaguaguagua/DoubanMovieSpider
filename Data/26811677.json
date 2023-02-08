@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "ミステリー作家朝比奈耕作 花咲村の惨劇",
+  "url": "/subject/26811677/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2490096879.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327793/",
+      "name": "麻生学 Manabu Asou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321416/",
+      "name": "大石哲也 Tetsuya Oishi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1194246/",
+      "name": "小泉孝太郎 Kôtarô Koizumi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316714/",
+      "name": "里见浩太朗 Kotaro Satomi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325908/",
+      "name": "阿南敦子 Atsuko Anan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024103/",
+      "name": "星野真里 Mari Hoshino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325880/",
+      "name": "床嶋佳子 Yoshiko Tokoshima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011226/",
+      "name": "涉谷飞鸟 Asuka Shibuya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390667/",
+      "name": "阿部亮平 Ryôhei Abe"
+    }
+  ]
+,
+  "datePublished": "2016-06-06",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT1H40M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

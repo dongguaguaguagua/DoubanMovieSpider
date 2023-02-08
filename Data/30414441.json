@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "人盾",
+  "url": "/subject/30414441/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543727847.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352292/",
+      "name": "苗韵桐 Yuntong Miao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325829/",
+      "name": "张晶 Jing Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446793/",
+      "name": "魏晓璇 Xiaoxuan Wei"
+    }
+  ]
+,
+  "datePublished": "2018-12-28",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H2M",
+  "description": "加瓦共和国总统遭遇政治刺杀，生命危在旦夕，急需女儿素进行骨髓移植。叶远(苗韵桐饰)带领亚基(张晶饰)、雷暴(魏晓璇饰)等特卫人盾小组，需要在72小时之内护送素(付然饰)和助理雪，平安回到加瓦国内。残余...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "DC超级英雄美少女：年度英雄 DC Super Hero Girls: Hero of the Year",
+  "url": "/subject/26830860/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2378304752.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193346/",
+      "name": "詹妮佛·科伊尔 Jenny Coyle"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1469649/",
+      "name": " Shea Fontana"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1086522/",
+      "name": "格蕾·德丽斯勒 Grey DeLisle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017892/",
+      "name": "梅·惠特曼 Mae Whitman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078960/",
+      "name": "塔拉·斯特朗 Tara Strong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1185244/",
+      "name": "斯蒂芬妮·社 Stephanie Sheh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210466/",
+      "name": "伊薇特·尼科尔·布朗 Yvette Nicole Brown"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1113456/",
+      "name": "汤姆·肯尼 Tom Kenny"
+    }
+  ]
+,
+  "datePublished": "2016-08-23",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H16M",
+  "description": "一年一度的英雄仪式的时候到了，超级英雄的学生们竞相争取最高奖……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "143",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

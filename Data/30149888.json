@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "重生 Reborn",
+  "url": "/subject/30149888/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539524087.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023459/",
+      "name": "朱利安·理查德 Julian Richards"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027873/",
+      "name": "迈克尔·帕尔 Michael Paré"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1062220/",
+      "name": "Chastity Bono Chaz Bono"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014139/",
+      "name": "芭芭拉·克兰普顿 Barbara Crampton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428556/",
+      "name": "凯莉·吉尔伯特 Kayleigh Gilbert"
+    }
+  ]
+,
+  "datePublished": "2018-11-03",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "A morgue attendant kidnaps a stillborn baby girl and brings her back to life with electrokinetic pow...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疲城",
+  "url": "/subject/27125448/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2503884382.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380197/",
+      "name": "孙亮 Liang Sun"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380197/",
+      "name": "孙亮 Liang Sun"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395519/",
+      "name": "马成龙 Chenglong Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364676/",
+      "name": "王大元 Dayuan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396605/",
+      "name": "王建飞 Jianfei Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390454/",
+      "name": "安富强 Fuqiang An"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320036/",
+      "name": "兰颖 Ying Lan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419209/",
+      "name": " "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409947/",
+      "name": "肖利滨 Libin Xiao"
+    }
+  ]
+,
+  "datePublished": "2017-09-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H24M",
+  "description": "工厂停工，张金生无处可去，他独自一人在工厂徘徊，一段古怪的声音把他引入另一个世界，那里时而漫天大雪，时而寂静荒凉，他看到了不同的自己。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "565",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

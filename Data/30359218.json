@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猛犸山 Mammoth",
+  "url": "/subject/30359218/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537782111.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369570/",
+      "name": "马库斯·亨德森 Marcus Henderson"
+    }
+  ]
+,
+  "datePublished": "2018-10-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H23M",
+  "description": "保罗载着无忧无虑身患绝症的兄弟艾略特，踏上了去往加州猛犸 山的告别之旅。而艾略特计划着在猛犸山按照“尊严死亡法案” 来结束自己的生命。保罗不仅承受着极大的悲痛，还要承担起家 庭的责任。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "207",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.9"
+  }
+}

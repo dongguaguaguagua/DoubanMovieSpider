@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "骨头的响声 Bonejangles",
+  "url": "/subject/27064600/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2461946555.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467613/",
+      "name": "韦德·埃弗里特 Wade Everett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482971/",
+      "name": "Hannah Richter Hannah Richter"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H18M",
+  "description": "While transporting the unstoppable killer Bonejangles to an asylum, a group of police officers encou...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

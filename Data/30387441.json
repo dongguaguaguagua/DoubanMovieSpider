@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天方异谈",
+  "url": "/subject/30387441/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540946818.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325324/",
+      "name": "周浩晖 Haohui Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364931/",
+      "name": "傅逸聪 Feel"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325324/",
+      "name": "周浩晖 Haohui Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364931/",
+      "name": "傅逸聪 Feel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423935/",
+      "name": "香无 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409922/",
+      "name": "迟宝华 Baohua Chi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341375/",
+      "name": "葛布 Gabriella"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339968/",
+      "name": "小爱 Hao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345569/",
+      "name": "王初伊 Lingyu Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389032/",
+      "name": "黄垲翔 Kaixiang Huang"
+    }
+  ]
+,
+  "datePublished": "2018-11-23",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u5947\u5e7b"],
+  "duration": "PT1H34M",
+  "description": "一间细思极恐的杂货店，专门收购神奇的东西，拯救生命的腕表，满足愿望的酒，杀人的垃圾桶，摄人魂魄的相机，闻所未闻的一切，都在这里发生……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "18093",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

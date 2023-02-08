@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无名女尸 The Autopsy of Jane Doe",
+  "url": "/subject/26339213/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2407543903.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352843/",
+      "name": "安德烈·艾弗道夫 André Øvredal"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366331/",
+      "name": "伊恩·B·戈德堡 Ian B. Goldberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366332/",
+      "name": "理查德·纳英 Richard Naing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1091230/",
+      "name": "埃里克·伊恩·戈德堡 Eric Ian Goldberg"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040998/",
+      "name": "埃米尔·赫斯基 Emile Hirsch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019027/",
+      "name": "布莱恩·考克斯 Brian Cox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004674/",
+      "name": "奥菲利亚·拉维邦德 Ophelia Lovibond"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291550/",
+      "name": "迈克尔·麦克埃尔哈顿 Michael McElhatton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366252/",
+      "name": "奥尔雯·凯瑟琳·凯莉 Olwen Catherine Kelly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349433/",
+      "name": "帕克·索耶 Parker Sawyers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366333/",
+      "name": "简·佩里 Jane Perry"
+    }
+  ]
+,
+  "datePublished": "2016-09-09",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "奥斯丁（埃米尔·赫斯基 Emile Hirsch 饰）和父亲汤米（布莱恩·考克斯 Brian Cox 饰）同为镇上的验尸官，某天晚上，刑警谢尔顿（迈克尔·麦克埃尔哈顿 Michael McElhatt...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "116377",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

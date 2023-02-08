@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Wann endlich küsst Du mich?",
+  "url": "/subject/26864290/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1075354/",
+      "name": "亚历克斯·布伦德穆尔 Àlex Brendemühl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052118/",
+      "name": "米迦勒·埃普 Michael Epp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352552/",
+      "name": "Marie Rosa Tietjen Marie Rosa Tietjen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467021/",
+      "name": "露易斯·冯·芬克 Luise von Finckh"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拍完就杀人 Cut Shoot Kill",
+  "url": "/subject/27107787/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495500709.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315542/",
+      "name": "迈克尔E.R.沃克 Michael E.R. Walker"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323901/",
+      "name": "亚历珊德拉·索恰 Alexandra Socha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335230/",
+      "name": "菲尔·伯克 Phil Burke"
+    }
+  ]
+,
+  "datePublished": "2017-06-09",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H38M",
+  "description": "名不见经传的小演员瑟琳娜·布鲁克斯（亚历珊德拉·索恰 Alexandra Socha 饰）渴望成名，多次试镜后，他联系到了一名小众导演亚拉巴马·切普曼（艾利克斯·赫特 Alex Hurt 饰），希望能...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "289",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

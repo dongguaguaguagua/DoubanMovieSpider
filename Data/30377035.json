@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "纳粹霸主 Nazi Overlord",
+  "url": "/subject/30377035/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539774059.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418727/",
+      "name": "罗布·帕拉廷 Rob Pallatina"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385952/",
+      "name": "史考特·穆伦 Scotty Mullen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036371/",
+      "name": "汤姆·塞兹摩尔 Tom Sizemore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025191/",
+      "name": "多米尼克·斯万 Dominique Swain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004563/",
+      "name": "安东尼·詹森 Anthony Jensen"
+    }
+  ]
+,
+  "datePublished": "2018-11-13",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016", "\u6218\u4e89"],
+  "duration": "PT1H28M",
+  "description": "A D-Day rescue mission turns ugly when a band of Allied soldiers battle with horrific experiments cr...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "121",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

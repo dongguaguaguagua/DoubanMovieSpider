@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Lyrro",
+  "url": "/subject/27621675/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2536823650.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1143989/",
+      "name": "苏珊娜·勒特 Suzanne Reuter"
+    }
+  ]
+,
+  "datePublished": "2018-10-19",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "人类一直在前进。有时逃离某物，但也经常寻找其他东西。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "僵尸来袭TV版 Wyrmwood 2",
+  "url": "/subject/26409809/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2570388116.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423798/",
+      "name": "凯亚·罗奇-特纳 Kiah Roache-Turner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423799/",
+      "name": "崔斯坦·罗奇-特纳 Tristan Roache-Turner"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423798/",
+      "name": "凯亚·罗奇-特纳 Kiah Roache-Turner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423799/",
+      "name": "崔斯坦·罗奇-特纳 Tristan Roache-Turner"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329989/",
+      "name": "碧安卡·布雷迪 Bianca Bradey"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016", "\u5192\u9669"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

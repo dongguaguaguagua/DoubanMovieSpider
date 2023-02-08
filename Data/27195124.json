@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯狂绑架",
+  "url": "/subject/27195124/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275965/",
+      "name": "杜奕衡 John Do"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427609/",
+      "name": "邓橙子 Chengzi Deng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483643/",
+      "name": "魏之椒 Zhijiao Wei"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591"],
+  "duration": "",
+  "description": "杜奕衡在电影《疯狂绑架》中挑战的角色是才子画家，粉丝认为这与他之前银幕形象有180度大反转。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

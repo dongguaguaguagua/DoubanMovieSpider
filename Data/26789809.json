@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "白天鹅",
+  "url": "/subject/26789809/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2349895662.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336988/",
+      "name": "戈日泰 Ritai Ge"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327374/",
+      "name": "杨珺 Jun Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321908/",
+      "name": "史强 Qiang Shi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357676/",
+      "name": "王艺哲 Yizhe Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313238/",
+      "name": "程媛媛 Yuanyuan Cheng"
+    }
+  ]
+,
+  "datePublished": "2016-04-22",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H10M",
+  "description": "周云朵在母亲白云病逝后，将母亲的骨灰带回遥远的家乡新疆阿勒泰寻找蓝宝石山谷，一路下来，无意得知母亲感人的爱情故事，感受到了草原上的人的善良友爱，并迷恋上了这里，最终找到蓝宝石山谷，并将骨灰撒进了蓝宝石...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

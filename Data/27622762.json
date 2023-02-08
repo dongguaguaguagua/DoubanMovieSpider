@@ -1,0 +1,55 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "挣扎 Marche ou crève",
+  "url": "/subject/27622762/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2540784282.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354322/",
+      "name": "戴安·罗赛尔 Diane Rouxel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018714/",
+      "name": "塞德里克·康 Cédric Kahn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392518/",
+      "name": "巴勃罗·保利 Pablo Pauly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400190/",
+      "name": "格雷·蒙赛京 Grégoire Monsaingeon"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "一个17岁的女孩和她的父亲一起照顾她的精神和身体严重残疾的妹妹。这越来越让人筋疲力尽，因为她不得不牺牲自己的生命和梦想。情绪失控，爱很容易变成恨。怎么过这样的生活？有没有可能在这里找到一个折衷方案？
+...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "第27届金曲奖颁奖典礼 第27屆金曲獎頒獎典禮",
+  "url": "/subject/26794251/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560053567.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317127/",
+      "name": "黄子佼 Mickey Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404344/",
+      "name": "谢震廷 Kevin Hsieh"
+    }
+  ]
+,
+  "datePublished": "2016-06-25",
+  "genre": ["\u97f3\u4e50"],
+  "duration": "PT3H50M",
+  "description": "第27届金曲奖将于2016年6月25日于台北小巨蛋举行典礼.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "151",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

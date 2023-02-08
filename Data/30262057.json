@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "公路老鼠 The Highway Rat",
+  "url": "/subject/30262057/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2631360025.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078835/",
+      "name": "罗伯·布莱顿 Rob Brydon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022694/",
+      "name": "弗朗西斯·德·拉·图瓦 Frances de la Tour"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049625/",
+      "name": "汤姆·霍兰德尔 Tom Hollander"
+    }
+  ]
+,
+  "datePublished": "2017-12-25",
+  "genre": ["\u52a8\u753b", "\u5bb6\u5ead"],
+  "duration": "PT0H25M",
+  "description": "A greedy rat travels the highway in search of other animals&#39; food.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

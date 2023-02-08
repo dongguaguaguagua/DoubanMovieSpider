@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "终极父女",
+  "url": "/subject/25962675/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2377120639.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360089/",
+      "name": "左一阳 Yiyang Zuo"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360089/",
+      "name": "左一阳 Yiyang Zuo"
+    }
+  ]
+,
+  "datePublished": "2016-02-23",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u513f\u7ae5"],
+  "duration": "",
+  "description": "《终极父女》是一部以儿童励志题材的动作喜剧片，影片讲述了无恶不作的三阳收养自己冒险偷来的孩子是个女孩而卖不出，便决定把孩子弃之荒野时孩子哭啼声唤醒其良知决定收养孩子的动人故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

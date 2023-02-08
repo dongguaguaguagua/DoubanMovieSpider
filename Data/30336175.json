@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "忧郁症患者 うつ病患者",
+  "url": "/subject/30336175/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2635974525.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366826/",
+      "name": "吉田芽吹 Mebuki Yoshida"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470037/",
+      "name": "皆川畅二 Yôji Minagawa"
+    }
+  ]
+,
+  "datePublished": "2018-10-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H53M",
+  "description": "尽管毕业于名门大学，和彦的生活过得并不如意。某日，他在一个公共澡堂偶遇了高中的同学百合，机缘巧合之下，他开始在这个澡堂工作。但这个澡堂并不是一间普通的澡堂，开始在这里工作后，和彦发现澡堂在晚上闭店后会...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "618",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

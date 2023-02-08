@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血红岛屿 Red Island",
+  "url": "/subject/33405501/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553272391.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333932/",
+      "name": "艾丽克斯·埃索 Alex Essoe"
+    }
+  ]
+,
+  "datePublished": "2018-02-12",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "一对夫妇被困在孤岛上，一股不可预见的力量找上了他们，而女人正在变得越来越脱离自己，她不再是自己了……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "182",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.3"
+  }
+}

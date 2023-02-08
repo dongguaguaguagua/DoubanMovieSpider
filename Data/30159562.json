@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们都是好孩子",
+  "url": "/subject/30159562/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2515437226.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461072/",
+      "name": "陈里洋 Liyang Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329041/",
+      "name": "李艾佳 Aijia Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329041/",
+      "name": "李艾佳 Aijia Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329039/",
+      "name": "杨杏 Xing Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315813/",
+      "name": "李坤霖 Kunlin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365658/",
+      "name": "方艺 Yi Fang"
+    }
+  ]
+,
+  "datePublished": "2018-03-15",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "这是一部青春、励志、情感电影，讲述一群即将走出大学校园的大四学生的激情和梦想，前卫时尚的再现当代大学生绚丽多彩的校园青春生活。表现她们爱情上的坎坷和在创业上的波折，在经历生活残酷洗礼之后，对未来的人生...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

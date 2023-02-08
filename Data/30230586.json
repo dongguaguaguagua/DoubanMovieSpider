@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "社交网络追爱记 #Roxy",
+  "url": "/subject/30230586/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522975939.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044721/",
+      "name": "丹尼·特雷霍 Danny Trejo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312105/",
+      "name": "杰克·索特 Jake Short"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337290/",
+      "name": "萨拉·费希尔 Sarah Fisher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004580/",
+      "name": "波波·斯图尔特 BooBoo Stewart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166824/",
+      "name": "帕特里西亚·增蒂利 Patricia Zentilli"
+    }
+  ]
+,
+  "datePublished": "2018-08-01",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "Cyrus Nollen, Bergerac High&#39;s resident big-nosed hacker, uses social media to help a handsome star a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "吸血鬼之恋 Drink Slay Love",
+  "url": "/subject/27188112/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2503934165.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302983/",
+      "name": "凡妮莎·帕里斯 Vanessa Parise"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247656/",
+      "name": "西拉·拉米雷斯 Cierra Ramirez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322845/",
+      "name": "格雷格·萨克因 Gregg Sulkin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334636/",
+      "name": "麦克利·米勒 McKaley Miller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1146745/",
+      "name": "苔丝·圣地亚哥 Tessie Santiago"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340543/",
+      "name": "伊凡·埃尔南德斯 Ivan Hernandez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378258/",
+      "name": "莎拉·德贾斯丁 Sarah Desjardins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440801/",
+      "name": "Angelique Rivera Angelique Rivera"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478793/",
+      "name": "John C. MacDonald John C. MacDonald"
+    }
+  ]
+,
+  "datePublished": "2017-09-16",
+  "genre": ["\u7231\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u5947\u5e7b"],
+  "duration": "PT1H30M",
+  "description": "Pearl is a typical sixteen-year-old vampire. Fond of blood, allergic to the sun, and generally prett...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

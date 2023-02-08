@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "羽球英雄",
+  "url": "/subject/30372436/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2670228062.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373916/",
+      "name": "吴奇 Qi Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445346/",
+      "name": "张显敏 Xianmin Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339986/",
+      "name": "宝弟 Andy Ko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358440/",
+      "name": "金尤美 Youmei Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367157/",
+      "name": "佟小虎 Xiaohu Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408299/",
+      "name": "张浩宇 Haoyu Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430367/",
+      "name": "徐梦迪 Mengdi Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470791/",
+      "name": "庄毅 change"
+    }
+  ]
+,
+  "datePublished": "2018-11-05",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H24M",
+  "description": "南天大学羽毛球队与篮球队因为场地发生冲突，如果羽毛球队2个月后不能拿下比赛冠军，场馆就归篮球队所有。羽毛球队缺少队员，丁教练看上了从来没有打过羽毛球的李杰西，而李杰西又与新来的浩宇有过冲突，但他们却要...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美女与怪物",
+  "url": "/subject/30376928/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539767497.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413905/",
+      "name": "刘巴音 Bayin Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315440/",
+      "name": "黄一山 Gabriel Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371621/",
+      "name": "袁洁仪 Kiwi Yuen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397812/",
+      "name": "谢毅 Yi Xie"
+    }
+  ]
+,
+  "datePublished": "2018-11-22",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "牧江村郊野山藏有一怪，赤面獠牙，名曰垃圾人，他身世神秘，以垃圾为食，日遇村妇马秀娟，将其掳掠。马秀娟通过与垃圾人的交往，发现他虽丑陋骇人，却心地单纯。但天不遂人愿，“单纯”的垃圾人却将马秀娟视为配偶，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

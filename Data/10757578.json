@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "坎特维尔的幽灵 The Canterville Ghost",
+  "url": "/subject/10757578/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2182652910.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027987/",
+      "name": "奥斯卡·王尔德 Oscar Wilde"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016672/",
+      "name": "弗莱迪·海默 Freddie Highmore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1109531/",
+      "name": "休·劳瑞 Hugh Laurie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049500/",
+      "name": "斯蒂芬·弗雷 Stephen Fry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1107884/",
+      "name": "托比·琼斯 Toby Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013856/",
+      "name": "艾美达·斯丹顿 Imelda Staunton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275224/",
+      "name": "米兰达·哈特 Miranda Hart"
+    }
+  ]
+,
+  "datePublished": "2017-12-25",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "An American family moves in to the Canterville Chase, a London mansion that has been haunted by the ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "荣誉传承 Tommy&#39;s Honour",
+  "url": "/subject/26611810/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2399412087.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013953/",
+      "name": "杰森·康纳利 Jason Connery"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049525/",
+      "name": "山姆·尼尔 Sam Neill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004674/",
+      "name": "奥菲利亚·拉维邦德 Ophelia Lovibond"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041201/",
+      "name": "彼得·穆兰 Peter Mullan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332724/",
+      "name": "彼得·费迪南多 Peter Ferdinando"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344553/",
+      "name": "杰克·劳登 Jack Lowden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368533/",
+      "name": "本杰明·温赖特 Benjamin Wainwright"
+    }
+  ]
+,
+  "datePublished": "2017-04-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H57M",
+  "description": "In every generation, a torch passes from father to son. And that timeless dynamic is the beating hea...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "260",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

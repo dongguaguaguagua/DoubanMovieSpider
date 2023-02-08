@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "生死96小时",
+  "url": "/subject/26904701/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2394588225.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364239/",
+      "name": "苑本立 Benli Yuan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364240/",
+      "name": "乔忠杰 Zhongjie Qiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364239/",
+      "name": "苑本立 Benli Yuan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275718/",
+      "name": "聂远 Yuan Nie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316732/",
+      "name": "叶一云 Qianyun Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419559/",
+      "name": "朱辉 Hui Zhu"
+    }
+  ]
+,
+  "datePublished": "2016-11-09",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H37M",
+  "description": "讲述一支性格各异、出身各异、年龄各异的红军侦察小分队,接受了为红军大部队战略转移开辟血路的特殊使命，通过在安顺96小时的时间里，经历人生大考,最终以巨大牺牲完成任务的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

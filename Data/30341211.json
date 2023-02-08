@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "万圣节杰克的传说 The Legend of Halloween Jack",
+  "url": "/subject/30341211/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2536905156.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257656/",
+      "name": "安德鲁·琼斯 Andrew Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343662/",
+      "name": "安德鲁·斯图尔特-琼斯 Andrew Stewart-Jones"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257656/",
+      "name": "安德鲁·琼斯 Andrew Jones"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394998/",
+      "name": "乔哈特 Jo Hart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444412/",
+      "name": "亚伦·杰夫科特 Aaron Jeffcoate"
+    }
+  ]
+,
+  "datePublished": "2018-10-02",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "The sleepy seaside town of Dunwich is about to learn the true meaning of Vengeance. As the residents...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

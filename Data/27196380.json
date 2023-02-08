@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "花滑女王 Лёд",
+  "url": "/subject/27196380/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517485270.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384009/",
+      "name": "奥列格·特罗费姆 Oleg Trofim"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337084/",
+      "name": "奥列格·马洛维奇克 Oleg Malovichko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370380/",
+      "name": "安德烈·佐洛塔廖夫 Andrey Zolotarev"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384010/",
+      "name": "阿格拉娅·塔拉索娃 Aglaya Tarasova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370381/",
+      "name": "亚历山大·佩特罗夫 Alexander Petrov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332438/",
+      "name": "米洛斯·比柯维奇 Milos Bikovic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364751/",
+      "name": "玛丽亚·阿龙诺娃 Mariya Aronova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384012/",
+      "name": "瑟妮娅·拉芙洛娃-格林卡 Kseniya Lavrova-Glinka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384011/",
+      "name": "扬·察普尼克 Yan Tsapnik"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000691/",
+      "name": "克谢尼娅·拉波波尔特 Kseniya Rappoport"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384013/",
+      "name": "维伦·巴比切夫 Vilen Babichev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192178/",
+      "name": "帕维尔·迈科夫 Pavel Maykov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370114/",
+      "name": "伊琳娜·斯达申鲍姆 Irina Starshenbaum"
+    }
+  ]
+,
+  "datePublished": "2018-02-14",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H53M",
+  "description": "佳娜（阿格莱亚·塔拉索娃 Aglaya Tarasova 饰）出生在一个非常贫困的家庭之中，在母亲的鼓励和栽培下，佳娜成为了一名花样滑冰运动员，虽然佳娜的身体条件并不是非常适合这项运动，但凭借着自己的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "18476",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

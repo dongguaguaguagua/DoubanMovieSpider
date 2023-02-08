@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "病",
+  "url": "/subject/30161248/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2550818371.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457973/",
+      "name": "闫坤业 Elf Cake"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470799/",
+      "name": "孟琳 Annie Moon"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H15M",
+  "description": "The artist&#39;s daughter,Annie Wei,died in an accident after her 8-year-old birthday,which left Murdoch...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

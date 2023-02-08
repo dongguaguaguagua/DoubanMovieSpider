@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "A Legacy of Whining",
+  "url": "/subject/26920378/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449728/",
+      "name": "艾比·德·弗雷斯特 Abby de Forest"
+    }
+  ]
+,
+  "datePublished": "2016-04-05",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "The past ain&#39;t all it&#39;s cracked up to be when two former high school friends reunite thirty years la...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

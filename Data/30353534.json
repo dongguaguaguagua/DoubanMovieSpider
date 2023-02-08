@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "童话 동화",
+  "url": "/subject/30353534/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537249720.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318606/",
+      "name": "徐荣柱 Young-ju Seo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003490/",
+      "name": "韩宝贝 Bo-bae Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1458411/",
+      "name": "金都炫 Do-Hyeon Kim"
+    }
+  ]
+,
+  "datePublished": "2018-10-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H24M",
+  "description": "In a small town in the countryside of South Korea, Donghwa, the Reverend’s son, aspires to follow in...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

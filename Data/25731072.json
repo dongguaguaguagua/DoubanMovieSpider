@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无人问津 Undrafted",
+  "url": "/subject/25731072/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2360052223.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049517/",
+      "name": "约瑟夫·梅泽罗 Joseph Mazzello"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049517/",
+      "name": "约瑟夫·梅泽罗 Joseph Mazzello"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275018/",
+      "name": "艾伦·特维特 Aaron Tveit"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049768/",
+      "name": "泰勒·霍奇林 Tyler Hoechlin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004859/",
+      "name": "切斯·克劳福 Chace Crawford"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049517/",
+      "name": "约瑟夫·梅泽罗 Joseph Mazzello"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329971/",
+      "name": "曼尼·蒙塔纳 Manny Montana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004681/",
+      "name": "马特·巴尔 Matt Barr"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004733/",
+      "name": "瑞恩·平克斯顿 Ryan Pinkston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000238/",
+      "name": "菲利普·文切斯特 Philip Winchester"
+    }
+  ]
+,
+  "datePublished": "2016-07-15",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H30M",
+  "description": "一支由12名业余队员组成的棒球队在某个夏天被丢出打一季他们都以为没什麽特别的比赛开始，没想到最后，这场比赛竟然成为了他们人生中最重要的一场...... 棒球队里有在大联盟选秀落榜，只好在业馀球队重新开...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "311",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

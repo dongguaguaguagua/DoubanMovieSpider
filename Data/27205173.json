@@ -1,0 +1,84 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "漫游",
+  "url": "/subject/27205173/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533311507.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397044/",
+      "name": "祝新 Xin Zhu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397044/",
+      "name": "祝新 Xin Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399540/",
+      "name": "戴莹 Ying Dai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410572/",
+      "name": "姜郦 Li Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410573/",
+      "name": "黄菁 Jing Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410574/",
+      "name": "陈燕 Yan Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410576/",
+      "name": "骆海清 Haiqing Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410455/",
+      "name": "卢嘉禾 Jiahe Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410575/",
+      "name": "李小杏 Xiaoxing Li"
+    }
+  ]
+,
+  "datePublished": "2018-10-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "2009的夏天异常闷热，南方城市酝酿着一场阵雨。
+女孩李森林的暑假作文迟迟没有灵感，多年未曾蒙面的船工秋秋阿姨突然造访，她道出了那年荒岛上的奇遇。
+父亲出差时，李森林丢失了他的乌龟，父母口中的“森林”...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1595",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夏季别墅 Summer Villa",
+  "url": "/subject/26856413/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2374066315.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309571/",
+      "name": "派特·凯利 Pat Kiely"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353379/",
+      "name": "望月绘美 Emi Mochizuki"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009281/",
+      "name": "海莉·伯顿 Hilarie Burton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004741/",
+      "name": "维克多·韦伯斯特 Victor Webster"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187684/",
+      "name": "布列塔尼·德里斯代尔 Brittany Drisdelle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1240735/",
+      "name": "克里斯蒂娜·罗塞托 Cristina Rosato"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389182/",
+      "name": "蒂龙·本斯金 Tyrone Benskin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434093/",
+      "name": "乔塞林·哈斯 Jocelin Haas"
+    }
+  ]
+,
+  "datePublished": "2016-07-23",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H24M",
+  "description": "本片讲述的是一位落魄大厨和一位美女小说作家意外邂逅而碰擦出爱情火花的动人故事
+A celebrity chef who is getting over a bad review and a roman...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "87",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

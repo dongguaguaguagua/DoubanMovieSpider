@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不知怎么说再见 No sé decir adiós",
+  "url": "/subject/27035676/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2457787913.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407185/",
+      "name": "力诺·艾斯卡勒拉 Lino Escalera"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309361/",
+      "name": "帕布洛·雷蒙 Pablo Remón"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407185/",
+      "name": "力诺·艾斯卡勒拉 Lino Escalera"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210474/",
+      "name": "娜塔莉·波萨 Nathalie Poza"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037300/",
+      "name": "胡安·迭戈 Juan Diego"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027590/",
+      "name": "洛拉·杜埃尼亚斯 Lola Dueñas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356375/",
+      "name": "米奇·艾斯巴尔贝 Miki Esparbé"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1126047/",
+      "name": "Marc Martínez Marc Martínez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332462/",
+      "name": "奥瑞欧·普拉 Oriol Pla"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396250/",
+      "name": "格蕾塔·费尔南德斯 Greta Fernández"
+    }
+  ]
+,
+  "datePublished": "2017-05-19",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H33M",
+  "description": "Carla某天接到她妹妹的电话说，她们的爸爸已经很久不说话了，好像是生病了。Carla当天就急忙飞回了家——阿尔梅里。在那里，当医生们说她的父亲就剩下几个月的生命时，她不相信，决定带父亲去巴塞罗那治病...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "116",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

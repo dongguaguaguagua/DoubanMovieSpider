@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卷心菜沙拉 Slaw",
+  "url": "/subject/26955990/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501757896.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010684/",
+      "name": "凯文·纳什 Kevin Nash"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350741/",
+      "name": "格雷戈里·艾伦·威廉斯 Gregory Alan Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050092/",
+      "name": "杰夫·罗斯 Jeff Rose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1140733/",
+      "name": "迈克尔·桑德斯 Mike Sanders"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176755/",
+      "name": "Andrew Hankinson Andrew Hankinson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405785/",
+      "name": "肯尼斯·以色列 Kenneth Israel"
+    }
+  ]
+,
+  "datePublished": "2017-06-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H22M",
+  "description": "Two &#34;foodie&#34; brothers kidnap and torture those who ruin their &#34;dining experience&#34;.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "虎父柔情 The Great Father",
+  "url": "/subject/27197436/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2504859626.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054365/",
+      "name": "玛摩缇 Mammootty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164543/",
+      "name": "斯妮哈 Sneha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426763/",
+      "name": "阿里亚 Arya"
+    }
+  ]
+,
+  "datePublished": "2017-03-30",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT2H31M",
+  "description": "大卫，作为父亲试图为他的女儿莎拉伸张正义，同时一名警察却欲抓获真凶。警方的介入，意味着真相被公之于众，虎父必须抢在警方之前，履行父亲的法律。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

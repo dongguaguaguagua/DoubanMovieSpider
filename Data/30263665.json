@@ -1,0 +1,37 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一念",
+  "url": "/subject/30263665/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350214/",
+      "name": "墨布文湘 Moboo Wenxiang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT0H5M",
+  "description": "One mind became a Buddha
+One mind became a Devil",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

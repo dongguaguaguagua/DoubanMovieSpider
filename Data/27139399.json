@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Naked People Every Where",
+  "url": "/subject/27139399/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2628957962.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020757/",
+      "name": "Aaron James Aaron James"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020757/",
+      "name": "Aaron James Aaron James"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306794/",
+      "name": "海莉·谢泼德 Hallie Shepherd"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1173709/",
+      "name": "安妮·格里芬 Anne Griffin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002670/",
+      "name": "埃里克·罗伯茨 Eric Roberts"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u6218\u4e89"],
+  "duration": "PT1H33M",
+  "description": "One man stands between America and anarchy as the War on Nudity battles to the end - here on the str...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

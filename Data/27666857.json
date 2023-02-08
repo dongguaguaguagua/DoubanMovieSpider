@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "坏继母 Bad Stepmother",
+  "url": "/subject/27666857/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523978019.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028362/",
+      "name": "Jeffery Scott Lando Jeffery Scott Lando"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027170/",
+      "name": "苏菲亚·威希涅瓦 Sofia Vassilieva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036391/",
+      "name": "克里斯蒂·斯旺森 Kristy Swanson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036563/",
+      "name": "罗根·霍夫曼 Logan Huffman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387262/",
+      "name": "戴夫·戴维斯 Dave Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124275/",
+      "name": "约翰·麦康奈尔 John McConnell"
+    }
+  ]
+,
+  "datePublished": "2018-01-12",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H24M",
+  "description": "Following the sudden and mysterious death of their father, a brother and sister return home to their...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

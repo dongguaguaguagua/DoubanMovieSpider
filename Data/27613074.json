@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天福山起义",
+  "url": "/subject/27613074/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2670481757.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318125/",
+      "name": "和小江 Xiaojiang He"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318125/",
+      "name": "和小江 Xiaojiang He"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331178/",
+      "name": "宋楚炎 Chuyan Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329822/",
+      "name": "姜淼 Miao Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318024/",
+      "name": "康馥麟 Fulin Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374696/",
+      "name": "齐得量 Deliang Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318313/",
+      "name": "韩月乔 Yueqiao Han"
+    }
+  ]
+,
+  "datePublished": "2017-12-24",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H28M",
+  "description": "1937年12月24日，中共胶东特委举行了威震胶东的天福山起义，创立了胶东第一支人民抗日武装——山东人民抗日救国第三军，打响了胶东抗日的第一枪。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

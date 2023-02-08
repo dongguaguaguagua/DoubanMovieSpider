@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "M/M",
+  "url": "/subject/30126686/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2513778343.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387734/",
+      "name": "德鲁·林特 Drew Lint"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387734/",
+      "name": "德鲁·林特 Drew Lint"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387734/",
+      "name": "德鲁·林特 Drew Lint"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440787/",
+      "name": "Nicolas Maxim Endlicher Nicolas Maxim Endlicher"
+    }
+  ]
+,
+  "datePublished": "2018-01-21",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u540c\u6027"],
+  "duration": "PT1H21M",
+  "description": "马修是一个初到柏林的年轻的加拿大人。他是来重新开始的，但他感受到了生活在一个陌生的新城市里的孤立。当他遇到马蒂亚斯的时候，他很着迷于后者的美丽和魅力，马蒂亚斯是马修想要成为的一切。马修开始改变自己，剪...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "840",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

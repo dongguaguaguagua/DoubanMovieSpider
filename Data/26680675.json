@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "叶如翼",
+  "url": "/subject/26680675/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2315136548.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357107/",
+      "name": "曾伏虎 Zeng Fuhu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357108/",
+      "name": "舒广袖 Shu Guangxiu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u6b66\u4fa0"],
+  "duration": "PT1H30M",
+  "description": "江湖盟主叶伯终被师兄孙立仁暗算，膝下一女叶如翼躲过此一劫。她只身一人前往汴梁城寻找当年父亲对其有救命之恩威重江湖的高手徐守一协助复仇。但孙立仁接到密探飞鸽传书得知如翼下落后派其心腹白香玉赶来擒拿。如翼...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

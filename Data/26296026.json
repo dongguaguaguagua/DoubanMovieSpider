@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "在勾引中学会爱2",
+  "url": "/subject/26296026/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2494457306.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376859/",
+      "name": "叶明 Ming Ye"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376859/",
+      "name": "叶明 Ming Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376862/",
+      "name": "胡张晨 Zhangchen Hu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376860/",
+      "name": "马铭远 Mingyuan Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376861/",
+      "name": "刘柳 Liu Liu"
+    }
+  ]
+,
+  "datePublished": "2016-01-02",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H54M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2526",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.1"
+  }
+}

@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "纹身",
+  "url": "/subject/24756695/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2810333367.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321564/",
+      "name": "陆一铜 Yitong Lu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321564/",
+      "name": "陆一铜 Yitong Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357555/",
+      "name": "秦爽 Shuang Qin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000526/",
+      "name": "赵文卓 Man Cheuk Chiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407876/",
+      "name": "王圣迪 Shengdi Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315463/",
+      "name": "徐冬冬 Dongdong Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318702/",
+      "name": "李岷城 Mincheng Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274683/",
+      "name": "范逸臣 Van Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353611/",
+      "name": "桑平 Ping Sang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049467/",
+      "name": "大卫·贝利 David Belle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342863/",
+      "name": "葛天 Tian Ge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398760/",
+      "name": "一龙 Yi Long"
+    }
+  ]
+,
+  "datePublished": "2022-01-14",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H44M",
+  "description": "1935年的中国西南盐业重镇，帮派斗争不断，风云诡谲。 一位纹身技艺精湛的大师阿昌，卷入了一场针对他所在帮会的连环暗杀。神秘势力的轮番陷害，昔日手足为一己私欲背叛，各种误解步步紧逼，等阿昌发现这一切阴...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1506",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

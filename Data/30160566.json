@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Being Gavin",
+  "url": "/subject/30160566/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327129/",
+      "name": "艾德·奥克森博尔德 Ed Oxenbould"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1121235/",
+      "name": "Ray Meagher Ray Meagher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1146429/",
+      "name": "Kate Raison Kate Raison"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

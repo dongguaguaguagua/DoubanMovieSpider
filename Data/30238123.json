@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "误解 سوء تفاهم",
+  "url": "/subject/30238123/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523763247.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308709/",
+      "name": "卡姆比斯·迪巴兹 Kambiz Dirbaz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165578/",
+      "name": "梅里拉·扎雷伊 Merila Zare&#39;i"
+    }
+  ]
+,
+  "datePublished": "2018-02-01",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H45M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

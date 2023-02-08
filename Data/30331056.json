@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "钦奈风云 Vada Chennai",
+  "url": "/subject/30331056/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2534695276.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384802/",
+      "name": "维特里·马拉朗 Vetri maaran"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384802/",
+      "name": "维特里·马拉朗 Vetri maaran"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1219536/",
+      "name": "丹努什 Dhanush"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377627/",
+      "name": "艾西瓦娅·拉杰什 Aishwarya Rajesh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339212/",
+      "name": "安德列·杰里迈亚 Andrea Jeremiah"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430115/",
+      "name": "乔伊·波德拉尼 Joy Badlani"
+    }
+  ]
+,
+  "datePublished": "2018-10-12",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT2H44M",
+  "description": "印度北钦奈地区，撞球球员阿布梦想成为世界冠军，却意外地卷入了帮派的地盘斗争中。面对尸横遍野，阿布拿起刀，刺向了某帮派头领的后背。当下发生的一切，始于1985年的一场争斗，而这场争斗，一直延续到了200...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "109",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

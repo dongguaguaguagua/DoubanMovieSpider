@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "EL CLUB DE LOS BUENOS INFIELES",
+  "url": "/subject/27191237/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2504681414.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343538/",
+      "name": "霍威克·库区科利安 Hovik Keuchkerian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236774/",
+      "name": "阿德里安·拉斯特拉 Adrián Lastra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032453/",
+      "name": "费雷·马丁内兹 Fele Martínez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399946/",
+      "name": "贝茜·特内兹 Betsy Túrnez"
+    }
+  ]
+,
+  "datePublished": "2017-10-21",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Four childhood friends, all married with no passion left, get together in a high school reunion dinn...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "带着儿子找妈妈",
+  "url": "/subject/30378889/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539935320.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336959/",
+      "name": "赵淑彬 Shubin Zhao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336959/",
+      "name": "赵淑彬 Shubin Zhao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326060/",
+      "name": "陈俊亨 Junheng Chen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H37M",
+  "description": "讲述一个单身男人与他收养的6岁小男孩间的父子情，以及他在追寻爱情路上所遇到的窘境，反映一个男人在亲情与爱情之间的坚强与脆弱。描述生活的酸甜苦辣，展现剧中人物的喜怒哀乐，讴歌了人与人之间情感的平凡与感动...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

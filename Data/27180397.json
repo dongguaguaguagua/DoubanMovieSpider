@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卡萨尔出生的王子 Nato a Casal di Principe",
+  "url": "/subject/27180397/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2499447771.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1471257/",
+      "name": "布鲁诺·奥利维罗 Bruno Oliviero"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1471257/",
+      "name": "布鲁诺·奥利维罗 Bruno Oliviero"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461668/",
+      "name": "弗朗切斯科·佩莱格里诺 Francesco Pellegrino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472223/",
+      "name": "弗兰西斯卡·安东内利 Francesca Antonelli"
+    }
+  ]
+,
+  "datePublished": "2017-09-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H39M",
+  "description": "Amedeo Letizia is a twenty-year-old who at the end of the 1980s moves to Rome from Casal di Principe...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

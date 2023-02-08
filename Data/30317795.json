@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "呼啸歌者",
+  "url": "/subject/30317795/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316910/",
+      "name": "鄂布斯 Ebusi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6b4c\u821e"],
+  "duration": "",
+  "description": "电影《呼啸歌者》的创作拍摄，不仅走在了拍摄草原青春歌舞励志片的前列，而且把游牧文化、游牧风情充分的展现给广大电影观众，从而给人们带来震撼、感动和思考，将草原人民朴实无华、能歌善舞、民俗底蕴推向世界。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

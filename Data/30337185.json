@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "5G僧侣 หลวงพี่แจ๊ส 5G",
+  "url": "/subject/30337185/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535371109.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307490/",
+      "name": "普安农  Poj Arnon"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329026/",
+      "name": "巴东·颂桑 Padung Songsang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354574/",
+      "name": "尼克.坤纳提帕.平帕拉达布 Nick Kunatip Pinpradab"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318945/",
+      "name": "娜帕帕·丹特拉库尔 Napapa Thantrakul"
+    }
+  ]
+,
+  "datePublished": "2018-04-05",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H54M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

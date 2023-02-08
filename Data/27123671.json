@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "90 Minutes of the Fever",
+  "url": "/subject/27123671/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2497587752.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124926/",
+      "name": "Parker McKenna Posey Parker McKenna Posey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025274/",
+      "name": "格伦·普拉默 Glenn Plummer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1133445/",
+      "name": "马库斯·T·保尔克 Marcus T. Paulk"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "It&#39;s Jackpot Sunday, and the countdown is on as California is due to pay out the biggest jackpot in ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

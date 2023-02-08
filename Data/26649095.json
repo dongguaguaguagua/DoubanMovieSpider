@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐吓运动 Scare Campaign",
+  "url": "/subject/26649095/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2357224248.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358834/",
+      "name": "卡梅伦·凯恩斯 Cameron Cairnes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358835/",
+      "name": "科林·凯恩斯 Colin Cairnes"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358834/",
+      "name": "卡梅伦·凯恩斯 Cameron Cairnes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358835/",
+      "name": "科林·凯恩斯 Colin Cairnes"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350467/",
+      "name": "梅根·沃纳 Meegan Warner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336271/",
+      "name": "伊恩 麦杜思 Ian Meadows"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351916/",
+      "name": "奥利维亚·德容格 Olivia DeJonge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364435/",
+      "name": "乔什·邝·塔特 Josh Quong Tart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1213316/",
+      "name": "帕特里克·哈维 Patrick Harvey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315646/",
+      "name": "卡桑德拉·玛格拉斯 Cassandra Magrath"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348855/",
+      "name": "斯蒂夫·莫察基斯 Steve Mouzakis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279491/",
+      "name": "约翰·布鲁普顿 John Brumpton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364436/",
+      "name": "杰森·盖瑞 Jason Geary"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1155110/",
+      "name": "西格丽德·索顿 Sigrid Thornton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364437/",
+      "name": "叶凯婷 Kaiting Yap"
+    }
+  ]
+,
+  "datePublished": "2016-06-12",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "艾玛（梅根·沃纳 Meegan Warner 饰）是一档恐怖恶搞类综艺节目的制作人，对于这个靠欺骗和伪造愚弄嘉宾的节目，艾玛感到十分厌倦，她打算在做完最后一期节目后就辞职不干。近期，网络上出现了一些更...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "18034",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

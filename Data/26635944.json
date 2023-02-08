@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "消失的母亲 La madre",
+  "url": "/subject/26635944/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2388051130.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332021/",
+      "name": "阿尔贝托·莫拉雷斯 Alberto Morais"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332021/",
+      "name": "阿尔贝托·莫拉雷斯 Alberto Morais"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282064/",
+      "name": "尼薇·德·曼迪娜 Nieve de Medina"
+    }
+  ]
+,
+  "datePublished": "2016-10-28",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "Miguel is a 14-year-old kid about to go back to a centre for minors. His mother, out of work and wit...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

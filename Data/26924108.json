@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "误闯疯人院",
+  "url": "/subject/26924108/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2401203615.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417736/",
+      "name": "廉欣 Xin Lian"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275266/",
+      "name": "梁竞徽 Oscar Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360502/",
+      "name": "孙梦纯 Mengchun Sun"
+    }
+  ]
+,
+  "datePublished": "2016-12-02",
+  "genre": ["\u559c\u5267", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H15M",
+  "description": "精神病医生徐酱（梁烈唯饰）在第一天上班时被上司指派加班巡夜，同时被告知晚上千万不能去食堂。不料，在巡夜的过程中徐酱发现医院的走廊中出现了可怕的人影。受到惊吓的徐酱误打误撞的闯入了食堂。然而，在他眼前竟...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "716",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "柏拉图之恋",
+  "url": "/subject/26772017/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2333473635.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397928/",
+      "name": "海歌 Hai Ge"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397930/",
+      "name": "杨润坤 Runkun Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397931/",
+      "name": "张红蕾 Honglei Zhang"
+    }
+  ]
+,
+  "datePublished": "2016-04-20",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H39M",
+  "description": "方东一个小资生活的都市白领，有着深爱他，即将结婚的未婚妻于婷。
+一次意外的骚扰电话，打破了所有生活的宁静。夏小朵的出现，夏小朵男朋友郭言的存在，彻底颠覆了方东的情感世界。纠结与困惑，迷茫与失落，痛苦与...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "101",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.8"
+  }
+}

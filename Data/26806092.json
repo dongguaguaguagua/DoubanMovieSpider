@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们的后来 Entonces Nosotros",
+  "url": "/subject/26806092/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2356661865.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1112571/",
+      "name": "赫尔南·吉门尼斯 Hernán Jiménez"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1112571/",
+      "name": "赫尔南·吉门尼斯 Hernán Jiménez"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1112571/",
+      "name": "赫尔南·吉门尼斯 Hernán Jiménez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1098850/",
+      "name": "Marina Glezer Marina Glezer"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H27M",
+  "description": "Diego, a hopeless romantic desperately trying to salvage his relationship with long time girlfriend ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

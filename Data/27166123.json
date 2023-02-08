@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不要敲门 Neverknock",
+  "url": "/subject/27166123/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2557268461.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027141/",
+      "name": "祖蒂·弗兰 Jodelle Ferland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348475/",
+      "name": "多米尼克·普罗沃斯特-切克利 Dominique Provost-Chalkley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316042/",
+      "name": "伊莲娜·琼斯 Eliana Jones"
+    }
+  ]
+,
+  "datePublished": "2017-10-15",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "In 1986, three teens were brutally murdered after knocking on the door of 59 Oakwood Lane. The kille...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

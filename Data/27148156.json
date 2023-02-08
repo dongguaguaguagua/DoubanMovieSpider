@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猛虎嗅蔷薇之独行其盗",
+  "url": "/subject/27148156/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2685147833.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353433/",
+      "name": "孙传林 Chuanlin Sun"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373503/",
+      "name": "王俊彭 Junpeng Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355266/",
+      "name": "于小琬 Xiaowan Yu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "影片主要讲述了谈虎和采薇这对龙凤大盗，摇身一变成了警察，两人办案作风完全是用贼的思维抓贼，多有争议。局长把眼前一桩名画盗窃案当做条件，谁先把偷画的人绳之以法，谁就留下的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

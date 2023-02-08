@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "自助洗衣店(短片)",
+  "url": "/subject/26992245/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2443762622.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411610/",
+      "name": "李权洋 Chuan-Yang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422527/",
+      "name": "张志威 Chi Wai Cheong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364143/",
+      "name": "曹仕翰 Shih-han Tsao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411610/",
+      "name": "李权洋 Chuan-Yang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422527/",
+      "name": "张志威 Chi Wai Cheong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422528/",
+      "name": "李雪 Angel Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352747/",
+      "name": "曹晏豪 Yen Tsao"
+    }
+  ]
+,
+  "datePublished": "2016-12-15",
+  "genre": ["\u5267\u60c5", "\u77ed\u7247"],
+  "duration": "PT0H19M",
+  "description": "金马电影学院作品。Yen与李雪一起到洗衣店洗衣服。洗衣机中两人的衣物交缠不休，机外的他们也因为一个名字，而引起了相互的猜疑。离开时，他们看见了彼此在现实中的距离，决定共同朝着未来，盲目地乐观着。
+而今...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

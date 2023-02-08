@@ -1,0 +1,124 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "来看我吧 날,보러와요",
+  "url": "/subject/26427203/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2325655984.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1242438/",
+      "name": "李澈河 Cheol-ha Lee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1242438/",
+      "name": "李澈河 Cheol-ha Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350568/",
+      "name": "金帝荣 Je-Yeong Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477885/",
+      "name": "金娜德 Kim Na-deul"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402466/",
+      "name": "柳永善 Young-seon Yoo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313570/",
+      "name": "姜艺媛 Ye-won Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326773/",
+      "name": "李相仑 Sang-yoon Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339694/",
+      "name": "崔镇浩 Jin-ho Choi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398058/",
+      "name": "全光镇 Kwang-jin Jeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455497/",
+      "name": "张泰成 Tae-seong Jang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450017/",
+      "name": "黄成俊 Sung-joon Hwang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341571/",
+      "name": "崔允素 Yoon-so Choi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381683/",
+      "name": "吉海妍 Hae-yeon Gil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366651/",
+      "name": "金钟秀 Jong-soo Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378899/",
+      "name": "李学周 Hak-joo Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358130/",
+      "name": "刘健 Yu Geon"
+    }
+  ]
+,
+  "datePublished": "2016-04-07",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H31M",
+  "description": "讲述的是为了制作试播节目而前去采访火灾事故的电视台 PD罗南洙遇到了火灾事故唯一的幸存者、也是被指控为杀人案嫌疑人的姜秀雅，从而一步步揭开事件前因后果和背后的真相的故事.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4130",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

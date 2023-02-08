@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "娜娜",
+  "url": "/subject/27063320/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505472989.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309562/",
+      "name": "方刚亮 Gangliang Fang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-06-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "影片以刁娜见义勇为事迹为原型，还原故事，也表达真实。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

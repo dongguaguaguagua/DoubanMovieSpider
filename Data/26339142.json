@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Dr. Jekyll and Mr. Hyde",
+  "url": "/subject/26339142/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2461722039.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215468/",
+      "name": "B  卢西亚诺·巴苏格利亚 B. Luciano Barsuglia"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215468/",
+      "name": "B  卢西亚诺·巴苏格利亚 B. Luciano Barsuglia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041783/",
+      "name": "罗伯特·路易斯·史蒂文森 Robert Louis Stevenson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055076/",
+      "name": "威廉·麦克纳马拉 William McNamara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016694/",
+      "name": "玛格丽特·奥布赖恩 Margaret O&#39;Brien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054487/",
+      "name": "米基·鲁尼 Mickey Rooney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164947/",
+      "name": "弗农·威尔斯 Vernon Wells"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209054/",
+      "name": "马里奥·梅尔奇奥特 Mario Melchiot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1121365/",
+      "name": "Randal Malone Randal Malone"
+    }
+  ]
+,
+  "datePublished": "2017-02-28",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "The Strange Case of Dr. Jekyll and Mr. Hyde is really just as much the story of Gabriel John Utterso...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

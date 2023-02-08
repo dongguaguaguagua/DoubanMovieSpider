@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "荒山惊魂",
+  "url": "/subject/30371645/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395978/",
+      "name": "李福军 Fujun Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395978/",
+      "name": "李福军 Fujun Li"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u6050\u6016"],
+  "duration": "",
+  "description": "一群年轻人去爬山游玩探险，途中迷路走散分分合合，遇鬼又碰到僵尸，吴闯荒山禁地，意外发现世外桃源，遇到道长获救。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

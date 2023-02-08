@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "龙之少年",
+  "url": "/subject/27082553/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2491009322.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356542/",
+      "name": "冯可 Ke Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395018/",
+      "name": "王莫涵 Mohan Wang"
+    }
+  ]
+,
+  "datePublished": "2018-02-09",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "《龙之少年》系列网络电影第一部围绕着高中新生姚大海、校队明星前锋石浩天和足球啦啦队队长米娅三人的青春和成长展开。主角姚大海误打误撞加入校足球队，一路从迷茫张扬到成熟自信，恰巧是当下部分学生群体成长轨迹...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

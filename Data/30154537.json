@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "高潮 Climax",
+  "url": "/subject/30154537/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2531195804.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014011/",
+      "name": "加斯帕·诺 Gaspar Noé"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014011/",
+      "name": "加斯帕·诺 Gaspar Noé"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199057/",
+      "name": "索菲亚·波多拉 Sofia Boutella"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447878/",
+      "name": "索海拉·雅各布 Souheila Yacoub"
+    }
+  ]
+,
+  "datePublished": "2018-05-13",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u60c5\u8272", "\u6b4c\u821e"],
+  "duration": "PT1H35M",
+  "description": "故事设定在1990年，聚焦一群舞者共同参加为期3天的排演，后却变为通往毒品的地狱之旅，麻木使得有些人感觉置身天堂，但大多数人却陷入地狱。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6959",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

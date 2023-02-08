@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Slash Cam",
+  "url": "/subject/27012714/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2454196718.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042510/",
+      "name": "Joe Davison Joe Davison"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

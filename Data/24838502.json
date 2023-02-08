@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "流血 Bleed",
+  "url": "/subject/24838502/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2315640110.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267547/",
+      "name": "本·雅各比 Ben Jacoby"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347965/",
+      "name": "切尔茜·克里斯普 Chelsey Crisp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000211/",
+      "name": "瑞利·史密斯 Riley Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018036/",
+      "name": "迈克尔·斯戴格 Michael Steger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345325/",
+      "name": "琳登·史密斯 Lyndon Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110230/",
+      "name": "布瑞塔妮·石桥 Brittany Ishibashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165249/",
+      "name": "大卫·佑 David Yow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379206/",
+      "name": "凯拉·迪弗 Kyla Deaver"
+    }
+  ]
+,
+  "datePublished": "2016-03-25",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H22M",
+  "description": "The Circle weaves the tale of six friends who blindly follow a deadly fate as they explore a burned ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "124",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.2"
+  }
+}

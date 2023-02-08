@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绝杀行动",
+  "url": "/subject/30400669/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2627102786.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434172/",
+      "name": "胡子 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420241/",
+      "name": "梅铃 Ling Mei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374552/",
+      "name": "王泽霖 Zelin Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420240/",
+      "name": "程思 Si Cheng"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "1932年沪淞战争期间，侵华日军以庆祝天长节为名，举行阅兵式以威胁中方在谈判中让步。中方地下组织组建“绝杀小组”秘密破坏，当日方得知“绝杀小组”全军覆灭时，一只饭盒炸药在阅兵式上引爆，天长节变死亡节。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "叔叔 Onkel",
+  "url": "/subject/30136825/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2569773249.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425251/",
+      "name": "费雷·彼得森 Frelle Petersen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425251/",
+      "name": "费雷·彼得森 Frelle Petersen"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-10-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H46M",
+  "description": "2019年东京国际电影节主竞赛单元的最佳影片！
+丹麦日德兰半岛西北部小镇里，克莉丝与轻微中风行动不便的叔叔相互照应，一同在牧场工作与生活。两人生活虽偶有琐碎的争执，但日复一日，平淡无奇。
+当克莉丝面对...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "509",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

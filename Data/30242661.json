@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一团糟 Hot Mess",
+  "url": "/subject/30242661/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2524244255.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1073190/",
+      "name": "Zoe Carides Zoe Carides"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426023/",
+      "name": "卢卡·萨巴 Luka Sabbat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441061/",
+      "name": "汉娜·莱曼 Hannah Lehmann"
+    }
+  ]
+,
+  "datePublished": "2018-05-18",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "Stuck in the angst of wondering who she is and what she is meant to be doing with her life, Loz, a 2...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

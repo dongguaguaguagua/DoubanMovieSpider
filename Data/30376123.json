@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超级十一月 Super November",
+  "url": "/subject/30376123/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2539661053.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343641/",
+      "name": "乔西·朗 Josie Long"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032025/",
+      "name": "肖恩·比格斯代夫 Sean Biggerstaff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1197707/",
+      "name": "詹尼·加德利 Janey Godley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343641/",
+      "name": "乔西·朗 Josie Long"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294952/",
+      "name": "海登·普劳斯 Heydon Prowse"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166443/",
+      "name": "西蒙·韦尔 Simon Weir"
+    }
+  ]
+,
+  "datePublished": "2018-03-03",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "Super November is a hugely ambitious mixture of mumblecore-style romantic comedy and Orwellian dysto...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

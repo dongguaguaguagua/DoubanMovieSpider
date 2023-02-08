@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恶魔 Ratsasan",
+  "url": "/subject/30382696/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2543415922.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426796/",
+      "name": "维施努·维绍尔 Vishnu Vishal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320623/",
+      "name": "阿玛拉·保罗 Amala Paul"
+    }
+  ]
+,
+  "datePublished": "2018-10-05",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT2H25M",
+  "description": "Arun Kumar（Vishnu Vishal）是一位有抱负的年轻电影制作人，他在卧室里存放了各种连环杀手的故事，他企图在他感兴趣的影视领域一展手脚。可现实情况和家庭压力迫使他放弃了他的梦想，并在他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "321",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

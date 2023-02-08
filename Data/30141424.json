@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "吉布利尔 Jibril",
+  "url": "/subject/30141424/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2513645140.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452548/",
+      "name": "亨丽卡·蔻尔 Henrika Kull"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452548/",
+      "name": "亨丽卡·蔻尔 Henrika Kull"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "At a party, Maryam and Jibril exchange glances. Years later, Maryam happens to meet the same young m...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

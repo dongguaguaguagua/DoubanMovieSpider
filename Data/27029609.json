@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "七儿娘",
+  "url": "/subject/27029609/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456759408.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327427/",
+      "name": "牛建荣 Jianrong Niu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454696/",
+      "name": "牛牛 Niu Niu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454702/",
+      "name": "牛牛 Niu Niu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327427/",
+      "name": "牛建荣 Jianrong Niu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-04-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "七儿娘生了七个孩子，因“忌口”只保住了七儿一个。七儿参军（青年军）抗战结束后，因内战还不能回家。七儿娘不理解中国人为啥打中国人，迈着小脚走上了寻子之路。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "太行",
+  "url": "/subject/30252522/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2526116442.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396074/",
+      "name": "何政 Zheng He"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396074/",
+      "name": "何政 Zheng He"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396074/",
+      "name": "何政 Zheng He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396291/",
+      "name": "王博 Bo Wang"
+    }
+  ]
+,
+  "datePublished": "2018-07-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "故事发生在太行山下的一个城市。压抑的家庭和乏味的生活让高中生太行偏离了正轨，抽烟、逃课成了他的家常便饭，唯一让他开心的事情就是骑着借钱买来的摩托车兜风。太行新认识的女孩偷走了他用来还债的钱，导致他被追...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "540",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

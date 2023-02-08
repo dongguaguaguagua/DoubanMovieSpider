@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "湖边的房子 House by the Lake",
+  "url": "/subject/26941163/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494099529.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331381/",
+      "name": "亚当·格拉斯奇 Adam Gierasch"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000072/",
+      "name": "安妮·达德克 Anne Dudek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362927/",
+      "name": "阿米尔·米勒 Amiah Miller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017992/",
+      "name": "詹姆斯·卡利斯 James Callis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076551/",
+      "name": "迈克尔·鲍文 Michael Bowen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1091296/",
+      "name": "李·加林顿 Lee Garlington"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1214094/",
+      "name": "盖·纳尔杜利 Guy Nardulli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392181/",
+      "name": "娜塔莎·巴塞特 Natasha Bassett"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H17M",
+  "description": "Story follows the Morgans, a loving yet troubled family hoping to reconnect while on vacation. When ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "上山垂训 산상수훈",
+  "url": "/subject/30172141/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2516492334.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335613/",
+      "name": "白瑞彬 Baek Seo-Bin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334724/",
+      "name": "郑俊英 Joon-young Jung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456134/",
+      "name": "崔利善 Choi Yi Sun"
+    }
+  ]
+,
+  "datePublished": "2017-12-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H4M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

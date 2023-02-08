@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "别离床爱 La Cama",
+  "url": "/subject/30153334/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2514784859.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392667/",
+      "name": "Mónica Lairana Mónica Lairana"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392667/",
+      "name": "Mónica Lairana Mónica Lairana"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367088/",
+      "name": "Alejo Mango Alejo Mango"
+    }
+  ]
+,
+  "datePublished": "2018-02-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "It&#39;s a hot summer in Buenos Aires. George (58) and Mabel (56) spend their last 24 hours together as ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

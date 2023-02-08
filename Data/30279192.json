@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卡萨变弯记 Cassanova Was a Woman",
+  "url": "/subject/30279192/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554447332.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020095/",
+      "name": "Kevin Arbouet Kevin Arbouet"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339941/",
+      "name": "Paolo Andino Paolo Andino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482115/",
+      "name": " Monica Steuer"
+    }
+  ]
+,
+  "datePublished": "2016-01-08",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u540c\u6027"],
+  "duration": "PT1H53M",
+  "description": "卡萨诺瓦是一个金发碧眼的古巴裔美国女演员，在和丈夫结婚的时候爱上了一个女人，她的处境就发生转机，卡萨诺瓦能勇敢做自己吗？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

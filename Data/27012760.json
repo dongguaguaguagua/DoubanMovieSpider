@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "南茜 Nancy",
+  "url": "/subject/27012760/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521007550.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375074/",
+      "name": "克里斯蒂娜·秋 Christina Choe"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375074/",
+      "name": "克里斯蒂娜·秋 Christina Choe"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040815/",
+      "name": "安德丽娅·赖斯伯勒 Andrea Riseborough"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054409/",
+      "name": "史蒂夫·布西密 Steve Buscemi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282659/",
+      "name": "安·唐德 Ann Dowd"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010561/",
+      "name": "约翰·雷吉扎莫 John Leguizamo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317009/",
+      "name": "吉恩·史密斯-卡梅隆 J. Smith-Cameron"
+    }
+  ]
+,
+  "datePublished": "2018-01-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "南茜(安德丽亚·瑞斯波罗格 饰)遭遇一对夫妻，这对夫妻30年前女儿失踪了。而这让南茜愈发相信自己小时候是被绑架的。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "742",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

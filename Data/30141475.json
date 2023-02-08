@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "涂样人生 Tinta Bruta",
+  "url": "/subject/30141475/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2514497338.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1273301/",
+      "name": "菲利普·马泽蒙巴彻尔 Filipe Matzembacher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244151/",
+      "name": "马西奥·海奥隆 Márcio Reolon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1273301/",
+      "name": "菲利普·马泽蒙巴彻尔 Filipe Matzembacher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244151/",
+      "name": "马西奥·海奥隆 Márcio Reolon"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389186/",
+      "name": "希科·梅尼加特 Shico Menegat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412934/",
+      "name": "布鲁诺·费尔南德斯 Bruno Fernandes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412935/",
+      "name": "盖加·佩克索托 Guega Peixoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412936/",
+      "name": "桑德拉·达妮 Sandra Dani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412937/",
+      "name": "弗雷德里科·瓦斯奎斯 Frederico Vasques"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413044/",
+      "name": "拉里萨·桑金 Larissa Sanguiné"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413043/",
+      "name": "奥利亚·巴普蒂斯塔 Áurea Baptista"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413042/",
+      "name": "卡米拉·法尔考 Camila Falcão"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413041/",
+      "name": "丹尼斯·高斯 Denis Gosh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413045/",
+      "name": "泽·阿多·巴博萨 Zé Adão Barbosa"
+    }
+  ]
+,
+  "datePublished": "2018-02-18",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H58M",
+  "description": "少年佩德罗面对着刑事指控与妹妹的突然离开。他独自在卧室的黑暗中，涂抹荧光颜料跳舞，成千上万的陌生人通过网络摄像头正观看着他。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2155",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

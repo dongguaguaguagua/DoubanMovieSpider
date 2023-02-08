@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "72小时 72 chasa",
+  "url": "/subject/26944594/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2408671849.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420342/",
+      "name": "基拉·安吉丽娜 Kira Angelina"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329002/",
+      "name": "阿努什·瓦尔丹扬 Anush Vardanyan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192229/",
+      "name": "莉莎·阿尔扎马索娃 Liza Arzamasova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1140144/",
+      "name": "伊琳娜·罗扎诺娃 Irina Rozanova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1122674/",
+      "name": "塔基杨娜·柳达耶娃 Tatyana Lyutaeva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447875/",
+      "name": "阿列克谢·舍甫琴科夫 Aleksey Shevchenkov"
+    }
+  ]
+,
+  "datePublished": "2016-05-05",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H42M",
+  "description": "卫国战争初期，三个年轻朋友的遭遇",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯狂丑小鸭",
+  "url": "/subject/26847189/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2530389192.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361983/",
+      "name": "蒋叶峰 Yefeng Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336404/",
+      "name": "郑成峰 Chengfeng Zheng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338887/",
+      "name": "于昂 Ang Yu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360700/",
+      "name": "苏倩芸 Qianyun Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348775/",
+      "name": "王雪沁 Xueqin Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356706/",
+      "name": "杨进 Jin Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348781/",
+      "name": "张洋 Yang Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360698/",
+      "name": "吴凡 Fan Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360699/",
+      "name": "唐泽宗 Zezong Tang"
+    }
+  ]
+,
+  "datePublished": "2016-10-03",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u513f\u7ae5", "\u5192\u9669"],
+  "duration": "PT1H21M",
+  "description": "在遥远的地方有一个美丽的鸟类王国，但不久这里的宁静就被反对派的叛变打破，丑小鸭（苏倩芸 配音）的父母为了保护琉璃鸟而神秘失踪。为了解开琉璃鸟的秘密，找到自己的父母，丑小鸭和好朋友丑小八（王雪沁 配音）...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

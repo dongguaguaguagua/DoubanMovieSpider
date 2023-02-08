@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无密西西比河鲨鱼 Mississippi River Sharks",
+  "url": "/subject/27097371/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2496886374.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040502/",
+      "name": "杰森·伦敦 Jason London"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040501/",
+      "name": "杰瑞米·伦敦 Jeremy London"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1220707/",
+      "name": "凯茜·斯蒂尔 Cassie Steele"
+    }
+  ]
+,
+  "datePublished": "2017-07-31",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "Sharks attack a fish rodeo on the Mississippi River  and it is up to a group of locals to stop them....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

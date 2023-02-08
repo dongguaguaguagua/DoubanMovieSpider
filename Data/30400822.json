@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "龙泉路237号青春轶事",
+  "url": "/subject/30400822/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542299182.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433315/",
+      "name": "李文刚 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433315/",
+      "name": "李文刚 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407400/",
+      "name": "徐鹏 Peng Xu"
+    }
+  ]
+,
+  "datePublished": "2018-12-20",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H3M",
+  "description": "华小帅性格腼腆懦弱，时常陷入自我幻想中无法自拔。刚进大学就被“热心”学长强势欺负。又因为性格内向无法融入集体，三个室友为了帮助他走出自我，决定“强迫”他追求班花、做自我激励训练。然而事与愿违，华小帅屡...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的电影有点儿二",
+  "url": "/subject/26854383/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2399424567.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360089/",
+      "name": "左一阳 Yiyang Zuo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361150/",
+      "name": "艾亦文 Yiwen Ai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360089/",
+      "name": "左一阳 Yiyang Zuo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375408/",
+      "name": "王京莉 Jingli Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340479/",
+      "name": "刘一麟 Yilin Liu"
+    }
+  ]
+,
+  "datePublished": "2017-06-16",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H10M",
+  "description": "冯天喜（天津喜哥 饰）本是一个送餐员，自告奋勇为剧组送盒饭。在剧组拍戏时，阴差阳错的弄丢了已经拍摄好的电影素材。为救被投资人撤资而失望透顶打算跳楼的导演费然（左一阳 饰），毅然决然的和好哥们火呆（刘一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

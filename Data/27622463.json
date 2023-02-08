@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "沙罗 Shilo",
+  "url": "/subject/27622463/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2509703453.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247206/",
+      "name": "拉里·杰克·唐森 Larry Jack Dotson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218834/",
+      "name": " Vincent James Prendergast"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H48M",
+  "description": "影片根据真实事件改编，讲述了发生在男孩Shilo Gibson身上的故事。1965年9月17日，原本是一个宁静的夜晚，而Shilo的父亲回到家里，与往常一样喝的烂醉，并对Shilo拳脚相加，而那时他还...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

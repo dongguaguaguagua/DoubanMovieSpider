@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Primer",
+  "url": "/subject/27115525/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383992/",
+      "name": "Brian Frank Visciglia Brian Frank Visciglia"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1234187/",
+      "name": "艾米·约翰斯顿 Amy Johnston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040509/",
+      "name": "迈克尔·加·怀特 Michael Jai White"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "",
+  "description": "Caught up in the lucrative world of Red Market, deceit and loyalty, an underground group of &#34;Cleaner...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

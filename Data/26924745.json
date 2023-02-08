@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "深圳爱上你",
+  "url": "/subject/26924745/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2498234373.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325550/",
+      "name": "蒋国权 Kwang Che Ching"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365570/",
+      "name": "袁子弹 Zhian Yuan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351151/",
+      "name": "苏曼华 Manhua Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365570/",
+      "name": "袁子弹 Zhian Yuan"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT2H0M",
+  "description": "几对年轻男女纯真的爱情故事，一段在深圳奋斗的故事，主要描述主人公袁知安为了放弃一段学校的感情和追求梦想，从湖北阳新选择了南下，从一名建筑工、搬运工、仓库管理员、报社发行员到自己在互联网创业的人生历程，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

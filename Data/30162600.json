@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "妖法 Hex",
+  "url": "/subject/30162600/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2515595521.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020591/",
+      "name": "鲁道夫·贝腾达奇 Rudolf Buitendach"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329498/",
+      "name": "Christian Piers Betley Christian Piers Betley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020591/",
+      "name": "鲁道夫·贝腾达奇 Rudolf Buitendach"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013921/",
+      "name": "罗斯·麦克科尔 Ross McCall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405046/",
+      "name": "珍妮·博伊德 Jenny Boyd"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022506/",
+      "name": "凯利·布拉茨 Kelly Blatz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344742/",
+      "name": "阿德里安·霍夫 Adrian Hough"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381433/",
+      "name": "斯文·索奇塔 Sveng Socheata"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218071/",
+      "name": "詹妮·博伊德 Jenny Boyd"
+    }
+  ]
+,
+  "datePublished": "2018-09-27",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "一对儿情侣本打算要度过一个浪漫假期，却不料被一股邪恶力量带入深渊.....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1157",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

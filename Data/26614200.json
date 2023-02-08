@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "浸没 Plonger",
+  "url": "/subject/26614200/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503150530.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1103688/",
+      "name": "梅拉尼·罗兰 Mélanie Laurent"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1103688/",
+      "name": "梅拉尼·罗兰 Mélanie Laurent"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376092/",
+      "name": "朱利安·兰布罗希尼 Julien Lambroschini"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274262/",
+      "name": "吉尔·勒卢什 Gilles Lellouche"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000245/",
+      "name": "玛利亚·瓦沃德 María Valverde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369175/",
+      "name": "易卜拉欣·阿迈德 Ibrahim Ahmed"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329955/",
+      "name": "玛丽·德纳尔诺 Marie Denarnaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353982/",
+      "name": "诺米·梅兰特 Noémie Merlant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080736/",
+      "name": "艾伯特·德尔佩 Albert Delpy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318339/",
+      "name": "托马·索利韦尔 Thomas Solivéres"
+    }
+  ]
+,
+  "datePublished": "2017-09-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "A restless photographer leaves her family to &#34;find herself&#34; and takes up deep-sea diving.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "718",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

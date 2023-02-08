@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "自我人生 栞",
+  "url": "/subject/27074325/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517791308.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478109/",
+      "name": "榊原有佑 Yûsuke Sakakibara "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478109/",
+      "name": "榊原有佑 Yûsuke Sakakibara "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377072/",
+      "name": "真武泰徳 Yasunori Matake"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315155/",
+      "name": "三浦贵大 Takahiro Miura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373017/",
+      "name": "白石圣 Sei Shiraishi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017055/",
+      "name": "鹤见辰吾 Shingo Tsurumi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008135/",
+      "name": "福本清三 Seizo Fukumoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348861/",
+      "name": "池端玲名 Reina Ikehata"
+    }
+  ]
+,
+  "datePublished": "2018-04-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H58M",
+  "description": "三浦贵大主演映画&lt;栞&gt;正式官方发布，以大分为舞台的人情物语[微笑]三浦贵大将扮演理学療法士，通过与病弱父亲以及其他病人的交流，重新找回自我。
+导演是有过理学療法士榊原有佑，鶴見辰吾和新人白石圣共演，电...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

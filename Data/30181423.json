@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大崎下",
+  "url": "/subject/30181423/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2517604684.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362157/",
+      "name": "李鼎 Ting Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362157/",
+      "name": "李鼎 Ting Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324938/",
+      "name": "方文琳 Wen-lin Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376967/",
+      "name": "徐韬 Jason Tauh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362166/",
+      "name": "唐川 Chuan Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324946/",
+      "name": "苏炳宪 Sean Su"
+    }
+  ]
+,
+  "datePublished": "2018-03-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "在一個叫做「大崎下」的村落裡，有一個出了名又浪漫的「戇人」，他們叫他阿耀牯(徐韜 飾演)。他之所以有名，是因為他是一個一生下來，就讓人擔心，誰能跟他永遠在一起的人？但是，他卻有很多跟誰在一起的故事！
+...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

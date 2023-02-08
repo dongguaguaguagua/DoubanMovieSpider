@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "住在我身边 Vive por mí",
+  "url": "/subject/26707097/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2423543146.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294420/",
+      "name": "查马·德·拉裴纳 Chema de la Peña"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1299758/",
+      "name": "恩里克·乌尔维苏 Enrique Urbizu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294420/",
+      "name": "查马·德·拉裴纳 Chema de la Peña"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002839/",
+      "name": "玛丽萨·帕雷德斯 Marisa Paredes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049760/",
+      "name": "玛莎·希加瑞达 Martha Higareda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310331/",
+      "name": "特诺切·韦尔塔 Tenoch Huerta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1146995/",
+      "name": "缇尔司盖达 Tiaré Scanda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1103475/",
+      "name": "拉斐尔·因科兰 Rafael Inclán"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Live for Me explores the fragile lives of four characters during a month of their lives. Time that p...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

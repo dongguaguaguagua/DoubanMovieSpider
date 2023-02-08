@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜遇小龙虾",
+  "url": "/subject/30167112/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2516756961.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384581/",
+      "name": "徐明哲 Mingzhe Xu"
+    }
+  ]
+,
+  "datePublished": "2018-03-17",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H4M",
+  "description": "电影《夜遇小龙虾》讲述的是在校女大学生龙小宝，暑期在父亲经营的小龙虾店帮忙。原本因为年龄增长导致父女俩关系并不和睦。有一天，突然闯入店里的帅哥郝帅对龙小宝殷勤示好，不仅引起了青梅竹马黄毛的嫉妒，更加剧...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

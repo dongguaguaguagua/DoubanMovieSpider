@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "十年泰国 Ten Years Thailand",
+  "url": "/subject/27611375/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2520395883.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275111/",
+      "name": "狄也·阿萨拉 Aditya Assarat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275016/",
+      "name": "韦西·沙赞那庭 Wisit Sasanatieng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392695/",
+      "name": "朱拉亚农·西里彭 Chulayarnnon Siriphol"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009499/",
+      "name": "阿彼察邦·韦拉斯哈古 Apichatpong Weerasethakul"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009499/",
+      "name": "阿彼察邦·韦拉斯哈古 Apichatpong Weerasethakul"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274403/",
+      "name": "萨卡达·卡温巴迪 Sakda Kaewbuadee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455272/",
+      "name": "尊戈·基达坎·查塔卡威奈 Kidakarn Chatkaewmanee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361377/",
+      "name": "班罗普·洛罗伊 Banlop Lomnoi"
+    }
+  ]
+,
+  "datePublished": "2018-05-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "《10 Years Thailand》是一部合拍片，共邀请四位泰国导演来设想祖国十年后的样子。四位导演分别是Aditya Assarat、Apichatpong Weerasethakul、Chula...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "619",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "电波如风 Kaatrin Mozhi",
+  "url": "/subject/30381864/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2540301333.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1105367/",
+      "name": "乔蒂卡 Jyothika"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437725/",
+      "name": "马诺巴拉 Manobala"
+    }
+  ]
+,
+  "datePublished": "2018-11-16",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT2H10M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

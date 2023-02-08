@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我来自纽约",
+  "url": "/subject/26677970/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385862/",
+      "name": "张爵西 Jess Teong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385862/",
+      "name": "张爵西 Jess Teong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025426/",
+      "name": "狄龙 Lung Ti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023521/",
+      "name": "宣萱 Jessica Hester Hsuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398913/",
+      "name": "陈沁霖 Sarah Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411683/",
+      "name": "迪内希·奈尔 Dinesh Nair"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398920/",
+      "name": "林家冰 Lenna Lim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393494/",
+      "name": "罗敏儿 Loh Mingirl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398914/",
+      "name": "陈智深 Jason Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405620/",
+      "name": "张宝权 Bao Quan Chong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411684/",
+      "name": "文森特·约翰·凯尔西 Vincent John Kellsey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398915/",
+      "name": "邓壹龄 Ling Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381935/",
+      "name": "丁海伦 Hailun Ding"
+    }
+  ]
+,
+  "datePublished": "2016-03-10",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT2H1M",
+  "description": "一个来自纽约11岁的女孩林思家，被迫到广州和思想保守的外公阿根一起生活的种种经历。林思家从小在纽约长大。因为妈妈工作的缘故，她被送到广州和外公阿根一起生活。阿根住在一个老旧的组屋小区里，是个跌打医馆的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "747",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

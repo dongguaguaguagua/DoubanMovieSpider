@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天才室友",
+  "url": "/subject/30410921/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2545587627.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409370/",
+      "name": "张宸溢 Chenyi Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409370/",
+      "name": "张宸溢 Chenyi Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-12-15",
+  "genre": ["\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H10M",
+  "description": "钟澈是一名非常热爱科技的学生，但除了自己热爱的专业外成绩非常不理想，由于考试失利，而不能和自己女友待在同一座城市的他决定继续自己热爱的专业。他来到一所科技学院，这里所有的事物都会让他感到好奇，半年后，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

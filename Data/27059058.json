@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "加斯顿 Gaston",
+  "url": "/subject/27059058/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2518786901.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344150/",
+      "name": "彼埃尔·弗兰斯科·马丁·拉弗尔 Pierre-François Martin-Laval"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1177131/",
+      "name": "安德烈·弗朗甘 André Franquin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353652/",
+      "name": "提奥·费尔南德斯 Théo Fernandez"
+    }
+  ]
+,
+  "datePublished": "2018-04-04",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "家庭喜剧《加斯顿》由曾打造了《神偷奶爸》《爱宠大机密》的照明娱乐制作，凭借系列喜剧《老师们》创下法国电影超高票房纪录的著名导演彼埃尔·弗兰斯科·马丁·拉弗尔担当执导。风靡欧洲60年，被翻译成了十几种语...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

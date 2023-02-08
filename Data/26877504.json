@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猪太狼的夏天",
+  "url": "/subject/26877504/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2502990411.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362183/",
+      "name": "宋灏霖 Haolin Song"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362183/",
+      "name": "宋灏霖 Haolin Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362184/",
+      "name": "缪倩 Qian Miao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350260/",
+      "name": "孙博 Bo Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375967/",
+      "name": "李昊泽 Haoze Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375968/",
+      "name": "王继贤 Jixian Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331889/",
+      "name": "刘雪涛 Xuetao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337841/",
+      "name": "徐唯 Wei Xu"
+    }
+  ]
+,
+  "datePublished": "2017-04-22",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "影片讲述了一个善良正直的笨人，小学老师朱先生（孙博 饰），他一直努力工作并希望能受人尊敬，却接二连三地遭受打击和挫折。朱先生任的班上有两个顽皮的学生，一直有意无意的和他作对，可在朱老师决定放弃自己教师...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2621",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

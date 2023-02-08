@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "甜心主播大作战",
+  "url": "/subject/27013145/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2454262107.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351885/",
+      "name": "杨涛睿 Taorui Yang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377551/",
+      "name": "孙雨 Yumi"
+    }
+  ]
+,
+  "datePublished": "2017-04-07",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H1M",
+  "description": "经济学毕业的颜夕在投资公司屡屡受挫，只有青梅竹马的快递员刘宇一直陪伴在她的身边。一次偶然的同学聚会，颜夕和学姐雨菲熟识，并在她的邀请下加入了“奇镜”网络直播平台。颜夕依靠自己的经济学知识在网络上迅速走...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

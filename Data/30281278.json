@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们做朋友吧 Restiamo amici",
+  "url": "/subject/30281278/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2579501412.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1102478/",
+      "name": "安托内利·格里马尔迪 Antonello Grimaldi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020494/",
+      "name": "马尔科·马塔尼 Marco Martani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290478/",
+      "name": "Walter Lupo Walter Lupo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307167/",
+      "name": "米凯莱·里翁迪诺 Michele Riondino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323441/",
+      "name": "亚历山德罗·罗亚 Alessandro Roja"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282074/",
+      "name": "利贝罗·德·瑞恩佐 Libero De Rienzo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045058/",
+      "name": "维奥兰特·普拉奇多 Violante Placido"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373043/",
+      "name": "斯维娃·阿维蒂 Sveva Alviti"
+    }
+  ]
+,
+  "datePublished": "2019-07-04",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "亚历山大（米凯莱·里翁迪诺 Michele Riondino 饰）在不久前失去了自己的妻子，如今，他和心爱的儿子过着相依为命的日子，虽然常常会因为想念妻子而感到分外的寂寞，但这平静的生活已经让亚历山大...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "111",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "本·霍尔传奇 The Legend of Ben Hall",
+  "url": "/subject/26341927/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506484980.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004751/",
+      "name": "卡兰·麦克奥利菲 Callan McAuliffe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276120/",
+      "name": "亚瑟·安吉尔 Arthur Angel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349039/",
+      "name": "安迪·麦克菲 Andy McPhee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470921/",
+      "name": "劳伦·格里姆森 Lauren Grimson"
+    }
+  ]
+,
+  "datePublished": "2016-05-11",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u4f20\u8bb0", "\u897f\u90e8"],
+  "duration": "PT2H19M",
+  "description": "在经过了两年的亡命生活之后，“丛林强盗”本·霍尔考虑自首投案，不过后来碰到自己的老朋友约翰·吉尔伯特，他说服本重操旧业。随着新成员约翰·邓恩的加入，他们又开始重新作案，没过多久他们3人就成为了大英帝国...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "526",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

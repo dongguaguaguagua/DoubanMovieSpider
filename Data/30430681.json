@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魔鬼怪医 Eter",
+  "url": "/subject/30430681/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545384505.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019283/",
+      "name": "克日什托夫·扎努西 Krzysztof Zanussi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019283/",
+      "name": "克日什托夫·扎努西 Krzysztof Zanussi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1126630/",
+      "name": "Jacek Poniedzialek Jacek Poniedzialek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1123624/",
+      "name": "若尔特·拉斯洛 Zsolt László"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078738/",
+      "name": "安杰列·查拉 Andrzej Chyra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418753/",
+      "name": "玛丽亚·里亚波夏普卡 Maria Ryaboshapka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418754/",
+      "name": "奥斯塔普·瓦库利乌克 Ostap Vakulyuk"
+    }
+  ]
+,
+  "datePublished": "2018-09-20",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u5386\u53f2"],
+  "duration": "PT1H58M",
+  "description": "风度翩翩的医生动了色心，欲迷晕少女但错手杀人，险被送上断头台，以为逃出鬼门关，岂知魔鬼已盯上他。战争前夕，他被发配边疆，继而被奥匈帝国将领重用，沉迷研究麻药乙醚。药物能麻醉止痛，亦能制造不知痛楚不懂畏...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "80",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

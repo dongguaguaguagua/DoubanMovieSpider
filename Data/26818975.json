@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "119婚约",
+  "url": "/subject/26818975/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506416117.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465520/",
+      "name": "文飞扬 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359082/",
+      "name": "蓝飞洋 Feiyang Lan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439544/",
+      "name": "胡曦文 Xiwen Hu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H27M",
+  "description": "电影《119婚约》由国内新锐导演文飞扬执导，影片以承德市公安消防支队避暑山庄中队指导员都杭为原型，以一名基层消防警官都行（蓝飞洋饰）与80后女孩于笑（漆子美饰）的爱情发展为主线，展现了消防官兵在面对大...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

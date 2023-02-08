@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魂飞魔路",
+  "url": "/subject/26394105/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2460502309.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332191/",
+      "name": "石建都 Jiandu Shi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413812/",
+      "name": "周大庆 Daqing Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322289/",
+      "name": "高发 Fa Gao"
+    }
+  ]
+,
+  "datePublished": "2017-05-24",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H35M",
+  "description": "导      演:石建都、方向明
+编      剧:史建全、方向明
+主      演:高发、林静、 高宝宝、张大礼、赵文姬、唐婷，阚金明
+片      种:故事片
+类      型:剧情、悬疑推理
+出...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

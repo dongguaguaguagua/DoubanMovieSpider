@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雪山奇迹 6 Below",
+  "url": "/subject/26736090/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2499549004.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332252/",
+      "name": "斯科特·沃 Scott Waugh"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386302/",
+      "name": "麦迪逊·特纳 Madison Turner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386303/",
+      "name": "埃里克·莱马克 Eric LeMarque"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386304/",
+      "name": "达文·西伊 Davin Seay"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025145/",
+      "name": "乔什·哈奈特 Josh Hartnett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027822/",
+      "name": "米拉·索维诺 Mira Sorvino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335225/",
+      "name": "莎拉·杜蒙 Sarah Dumont"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386305/",
+      "name": "卡尔·卡利 Kale Culley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386306/",
+      "name": "杰森·科特尔 Jason Cottle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386307/",
+      "name": "奥斯丁·R·格兰特 Austin R. Grant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386308/",
+      "name": "内森·史蒂文斯 Nathan Stevens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015353/",
+      "name": "瓦希·内多曼斯基 Vashi Nedomansky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359230/",
+      "name": "大卫·H·史蒂文斯 David H. Stevens"
+    }
+  ]
+,
+  "datePublished": "2017-10-13",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u5192\u9669"],
+  "duration": "PT1H38M",
+  "description": "前奥运冰球运动员埃里克·勒马克死里逃生的故事将被搬上大银幕。主演乔什·哈奈特，导演斯科特·沃。埃里克·勒马克在内华达山脉滑雪时由于滑雪板发生故障，被困山中长达八天，最终在搜救队的营救下得以脱险。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1183",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

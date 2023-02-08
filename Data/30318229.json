@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "呼吸 호흡",
+  "url": "/subject/30318229/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575884459.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401534/",
+      "name": "权万基 Man-ki Kwon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401534/",
+      "name": "权万基 Man-ki Kwon"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042532/",
+      "name": "尹智慧 Ji-hye Yun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435784/",
+      "name": "金大健 Dae-gun Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453700/",
+      "name": "金佳英 Kim Ga Young"
+    }
+  ]
+,
+  "datePublished": "2018-10-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H44M",
+  "description": "Jung-ju的儿子因心脏病去世，自此陷入无尽的痛苦中，靠工作、喝酒、去教堂麻木自己。一天，刚出狱的年轻人Min-gu到她的清洁公司工作。 Min-gu看起来衣衫褴褛，脸上带着疤痕。 Jung-ju认...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "220",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

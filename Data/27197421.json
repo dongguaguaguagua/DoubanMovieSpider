@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Midnight Macabre",
+  "url": "/subject/27197421/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504841818.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400006/",
+      "name": "纳蒂亚·怀特 Nadia White"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483173/",
+      "name": "凯丽·泰勒 Kerri Taylor"
+    }
+  ]
+,
+  "datePublished": "2017-05-02",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H13M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

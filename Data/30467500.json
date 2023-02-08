@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "千万别眨眼 Imaikkaa Nodigal",
+  "url": "/subject/30467500/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2548954427.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435566/",
+      "name": "阿杰·格纳纳穆术 R. Ajay Gnanamuthu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435566/",
+      "name": "阿杰·格纳纳穆术 R. Ajay Gnanamuthu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1202056/",
+      "name": "Pattukottai Prabhakar Pattukottai Prabhakar"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195838/",
+      "name": "纳彦塔拉 Nayanthara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426773/",
+      "name": "阿达瓦·穆拉里 Atharvaa Murali"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050091/",
+      "name": "阿努拉格·卡施亚普 Anurag Kashyap"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431151/",
+      "name": "拉茜·科纳 Raashi Khanna"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339193/",
+      "name": "维杰·西图帕提 Vijay Sethupathi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377631/",
+      "name": "拉梅什·蒂拉克 Ramesh Thilak"
+    }
+  ]
+,
+  "datePublished": "2018-08-29",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT2H50M",
+  "description": "影片讲述了连环绑匪鲁德拉与CBI高级女警官安贾莉之间斗智斗勇的猫鼠游戏。故事发生在班拉罗尔，五年前被CBI女警安贾莉击毙的连环绑匪鲁德拉的声音又出现在电视直播节目上，言语间处处针对安贾莉警官。鲁德拉随...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "75",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

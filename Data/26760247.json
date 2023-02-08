@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "野草 Les mauvaises herbes",
+  "url": "/subject/26760247/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2332273292.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279794/",
+      "name": "路易斯·贝朗格 Louis Bélanger"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279794/",
+      "name": "路易斯·贝朗格 Louis Bélanger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019522/",
+      "name": "亚历克西斯·马丁 Alexis Martin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019522/",
+      "name": "亚历克西斯·马丁 Alexis Martin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029853/",
+      "name": "吉勒·雷诺 Gilles Renaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356754/",
+      "name": "埃曼纽尔·卢西尔·马丁内斯 Emmanuelle Lussier Martinez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356755/",
+      "name": "米里亚姆·蔻特 Myriam Côté"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1062152/",
+      "name": "加里·布德罗 Gary Boudreault"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347944/",
+      "name": "帕特里克·伊冯 Patrick Hivon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028463/",
+      "name": "吕克·皮卡德 Luc Picard"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H45M",
+  "description": "Jacques is an actor who runs away to the countryside to escape his gambling debts. He meets Simon, a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "53",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.9"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "香半",
+  "url": "/subject/27061550/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2464158441.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399980/",
+      "name": "张樟 Zhang Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316411/",
+      "name": "张艺馨 Xingxing ZHANG"
+    }
+  ]
+,
+  "datePublished": "2016-11-23",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u540c\u6027", "\u53e4\u88c5"],
+  "duration": "PT0H16M",
+  "description": "影片取材自李渔传奇《怜香伴》。明代女子崔笺云在假借替丈夫娶妾的名义与爱人曹语花在一起后，两个人之间的距离却开始疏远。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

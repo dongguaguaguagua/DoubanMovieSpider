@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Left Tern",
+  "url": "/subject/26970917/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319675/",
+      "name": "劳丽·克雷格 Laurie Craig"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u753b"],
+  "duration": "",
+  "description": "In the world of migration, what if there was one bird that decided to stay behind?",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

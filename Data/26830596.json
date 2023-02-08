@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "托马斯大电影之了不起的比赛 Thomas &amp; Friends: The Great Race",
+  "url": "/subject/26830596/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2498544136.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298521/",
+      "name": "大卫·斯特登 David Stoten"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352385/",
+      "name": "安德鲁·布瑞纳 Andrew Brenner"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352388/",
+      "name": "马克·莫拉根 Mark Moraghan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1170301/",
+      "name": "大卫·拜德拉 David Bedella"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004900/",
+      "name": "奥利维娅·科尔曼 Olivia Colman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348575/",
+      "name": "蒂娜·德赛 Tina Desai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302860/",
+      "name": "乔纳森·福布斯 Jonathan Forbes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352389/",
+      "name": "约翰·哈斯勒 John Hasler"
+    }
+  ]
+,
+  "datePublished": "2016-05-21",
+  "genre": ["\u52a8\u753b", "\u513f\u7ae5"],
+  "duration": "PT1H4M",
+  "description": "托马斯（约翰·海斯勒 John Hasler 配音）想要参加了不起的火车比赛，然而，他的这一决定却遭到了其他火车头们的嘲笑。他们觉得托马斯太普通了，根本比不过那些高大威猛或者漂亮可爱的火车头们。
+为了...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "666",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

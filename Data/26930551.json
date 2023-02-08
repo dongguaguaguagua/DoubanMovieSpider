@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "张小凡的萌食店",
+  "url": "/subject/26930551/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2403552410.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358127/",
+      "name": "陈旭 Xu Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413092/",
+      "name": "刘锦航 Jinhang Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362976/",
+      "name": "陶奕希 Yixi Tao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481746/",
+      "name": "刘旬 Angela"
+    }
+  ]
+,
+  "datePublished": "2016-12-08",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b", "\u6b66\u4fa0"],
+  "duration": "",
+  "description": "《张小凡的萌食店》以凡瑶凡琪情、师徒情和兄弟情为主题。在一座行色匆匆的大城市里，有一个神秘的美食店，进去的食客无一不像被施了魔法一样，瞬间变为萌萌哒小孩模样。不仅如此，这家食店提供的食物，还可以帮助食...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

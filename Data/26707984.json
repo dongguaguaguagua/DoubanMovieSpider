@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "库珀山事件 The Incident at Cooper Hill",
+  "url": "/subject/26707984/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2406733981.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038017/",
+      "name": "兰尼·雷 Renny Rye"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348889/",
+      "name": "保罗·洛格 Paul Logue"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314394/",
+      "name": "内尔·德贞 Neil Dudgeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1268856/",
+      "name": "格威利姆·李 Gwilym Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080982/",
+      "name": "菲奥娜·多尔曼 Fiona Dolman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428602/",
+      "name": "曼金德·维尔克 Manjinder Virk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1154996/",
+      "name": "史蒂夫·图森特 Steve Toussaint"
+    }
+  ]
+,
+  "datePublished": "2016-01-13",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H29M",
+  "description": "Mysterious lights are seen in the sky over famous UFO hot-spot Cooper Hill. When a local forest-rang...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

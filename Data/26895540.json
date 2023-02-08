@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灰姑娘的水晶鞋 A Cinderella Story: If the Shoe Fits",
+  "url": "/subject/26895540/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2390348289.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028078/",
+      "name": "Michelle Johnston Michelle Johnston"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351062/",
+      "name": "索菲亚·卡尔森 Sofia Carson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036891/",
+      "name": "托马斯·洛 Thomas Law"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049519/",
+      "name": "詹妮弗·提莉 Jennifer Tilly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405621/",
+      "name": "艾米·路易斯·威尔逊 Amy Louise Wilson"
+    }
+  ]
+,
+  "datePublished": "2016-08-02",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "PT1H32M",
+  "description": "A contemporary musical version of the classic Cinderella story in which the servant step daughter ho...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

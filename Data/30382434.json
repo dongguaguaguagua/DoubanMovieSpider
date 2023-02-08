@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "诺曼斯兰 노맨스랜드",
+  "url": "/subject/30382434/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2540370162.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365338/",
+      "name": "李尚熙 Sang-hee Lee"
+    }
+  ]
+,
+  "datePublished": "2018-07-18",
+  "genre": ["\u559c\u5267", "\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H16M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

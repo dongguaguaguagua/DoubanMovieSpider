@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿库·汉姆《吉赛尔》 Akram Khan&#39;s Giselle",
+  "url": "/subject/30423908/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2544794904.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363311/",
+      "name": "罗斯·麦克吉本 Ross MacGibbon"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424437/",
+      "name": "塔玛拉·罗霍 Tamara Rojo"
+    }
+  ]
+,
+  "datePublished": "2018-04-25",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H45M",
+  "description": "被誉为“二十一世纪大师舞作”的阿库·汉姆版《吉赛尔》，由英国国家芭蕾舞团首演于2016年。演出收获了媒体和评论的一致认可，《独立报》、《每日电讯报》和《舞台报》五星好评，《泰晤士报》和《卫报》也给出四...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "154",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "9.1"
+  }
+}

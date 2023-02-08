@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超级英雄 Bhavesh Joshi Superhero",
+  "url": "/subject/30246928/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2527351175.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037434/",
+      "name": "维卡拉马迪亚·莫特文 Vikramaditya Motwane"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037434/",
+      "name": "维卡拉马迪亚·莫特文 Vikramaditya Motwane"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-06-01",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT2H34M",
+  "description": "这部电影讲述的是印度超级英雄巴维什·乔希的故事，好朋友因揭露腐败而被害，巴维什·乔希便戴上面具，以超级英雄的方式为朋友复仇.....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "270",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

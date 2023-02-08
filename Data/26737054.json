@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "这都不是事儿之大“师”驾到",
+  "url": "/subject/26737054/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2322716772.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390651/",
+      "name": "朱维俐 Weili Zhu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350868/",
+      "name": "郭丰周 Fengzhou Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037662/",
+      "name": "李子雄 Waise Lee"
+    }
+  ]
+,
+  "datePublished": "2016-02-29",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H33M",
+  "description": "这部电影讲述的是身为保安的郭头强被误会偷走贵重文物，阴差阳错间陷入一个迷局。面对国际文物走私犯、文物贩子、窃贼三人组等多方势力，郭头强展现出过人的机智聪慧和超强的应对能力。在这场文物争夺战中，郭头强最...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

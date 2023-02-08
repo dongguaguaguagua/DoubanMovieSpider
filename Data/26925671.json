@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Все о мужчинах",
+  "url": "/subject/26925671/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2401832146.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1188250/",
+      "name": "弗拉基米尔·叶皮凡采夫 Vladimir Yepifantsev"
+    }
+  ]
+,
+  "datePublished": "2016-09-01",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

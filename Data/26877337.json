@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亚人OAD2：幕间休息 亜人 Intermission",
+  "url": "/subject/26877337/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2383550333.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363602/",
+      "name": "安藤裕章 Hiroaki Andô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311509/",
+      "name": "濑下宽之 Hiroyuki Seshita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326860/",
+      "name": "安藤裕子 Ando Yuko"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419705/",
+      "name": "猪原健太 Kenta Ihara"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018576/",
+      "name": "宫野真守 Mamoru Miyano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037590/",
+      "name": "福山润 Jun Fukuyama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164375/",
+      "name": "大塚芳忠 Hôchû Ôtsuka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019264/",
+      "name": "樱井孝宏 Takahiro Sakurai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020547/",
+      "name": "平川大辅 Daisuke Hirakawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321981/",
+      "name": "小松未可子 Mikako Komatsu"
+    }
+  ]
+,
+  "datePublished": "2016-10-07",
+  "genre": ["\u5267\u60c5", "\u52a8\u753b", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "原作小说第11卷同捆限定版，收录日常生活的番外篇。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "855",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

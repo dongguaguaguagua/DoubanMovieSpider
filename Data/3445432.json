@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "参孙 Samson",
+  "url": "/subject/3445432/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505938238.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019167/",
+      "name": "布鲁斯·麦克唐纳德 Bruce McDonald"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1245155/",
+      "name": " Zach Smith"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036304/",
+      "name": "杰克逊·拉斯波恩 Jackson Rathbone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031864/",
+      "name": "比利·赞恩 Billy Zane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006991/",
+      "name": "鲁格·豪尔 Rutger Hauer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166645/",
+      "name": "林赛·瓦格纳 Lindsay Wagner"
+    }
+  ]
+,
+  "datePublished": "2018-02-16",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H50M",
+  "description": "Follows a Jewish boxer sent to Auschwitz who is forced to fight for the entertainment of the Nazi so...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "324",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

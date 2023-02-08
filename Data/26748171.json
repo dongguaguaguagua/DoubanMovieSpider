@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我家来了个小房客 Le Petit locataire",
+  "url": "/subject/26748171/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2399471312.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328924/",
+      "name": "娜代治·卢瓦索 Nadège Loiseau"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328924/",
+      "name": "娜代治·卢瓦索 Nadège Loiseau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1135231/",
+      "name": "Mazarine Pingeot Mazarine Pingeot"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005104/",
+      "name": "嘉莲·维雅 Karin Viard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050911/",
+      "name": "海伦·文森特 Hélène Vincent"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327721/",
+      "name": "安托万·贝特朗 Antoine Bertrand"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430152/",
+      "name": "菲利普·雷博 Philippe Rebbot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483397/",
+      "name": "格雷古瓦·博内 Grégoire Bonnet"
+    }
+  ]
+,
+  "datePublished": "2016-11-16",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H39M",
+  "description": "49岁的Nicole(Karin Viard饰)怀孕了，这到底是好事还是坏事？全家上下都乱套了......",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "144",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

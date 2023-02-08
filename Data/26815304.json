@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Monsterland",
+  "url": "/subject/26815304/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2416423634.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462218/",
+      "name": "鲁本·普拉 Ruben Pla"
+    }
+  ]
+,
+  "datePublished": "2016-06-07",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H48M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

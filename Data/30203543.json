@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "戴安娜 Diana",
+  "url": "/subject/30203543/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542964404.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406939/",
+      "name": "阿莱霍·莫雷诺 Alejo Moreno"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406939/",
+      "name": "阿莱霍·莫雷诺 Alejo Moreno"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454917/",
+      "name": "Ana Rujas Ana Rujas"
+    }
+  ]
+,
+  "datePublished": "2018-09-08",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H41M",
+  "description": "El dormitorio de un piso de la castellana, Madrid. Es el dormitorio de Sofía, una scort de lujo. Su ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "浪子 Prodigals",
+  "url": "/subject/30252410/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2525628484.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1235002/",
+      "name": " Sean Minogue"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328818/",
+      "name": "卡内赫迪奥·霍恩 Kaniehtiio Horn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321555/",
+      "name": "安德鲁·弗朗西斯 Andrew Francis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1077061/",
+      "name": "尼古拉斯·卡雷拉 Nicholas Carella"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040750/",
+      "name": "詹姆森·帕克 Jameson Parker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331398/",
+      "name": "布莱恩·马克金森 Brian Markinson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308074/",
+      "name": "Andrew Wheeler Andrew Wheeler"
+    }
+  ]
+,
+  "datePublished": "2017-11-30",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H49M",
+  "description": "When a young man returns to his hometown to assist with a friend&#39;s trial it soon becomes clear that ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

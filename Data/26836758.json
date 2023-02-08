@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "金钱疑案 Money",
+  "url": "/subject/26836758/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2396134629.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1220352/",
+      "name": "马丁·罗塞特 Martín Rosete"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031799/",
+      "name": "凯南·鲁兹 Kellan Lutz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000123/",
+      "name": "吉米·巴姆博 Jamie Bamber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018045/",
+      "name": "杰丝·威克斯勒 Jess Weixler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004785/",
+      "name": "弗瑞德里克·林恩 Fredric Lehne"
+    }
+  ]
+,
+  "datePublished": "2016-04-06",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H26M",
+  "description": "Two wealthy businessmen are about to get away with $5 million in ill-gotten money until their plans ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

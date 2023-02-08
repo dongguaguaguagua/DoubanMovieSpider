@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大冷 Les affaires reprennent",
+  "url": "/subject/26754068/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2472513207.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325771/",
+      "name": "亚瑟·杜彭 Arthur Dupont"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012611/",
+      "name": "奥利维埃·古尔梅 Olivier Gourmet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018500/",
+      "name": "让-皮埃尔·巴克里 Jean-Pierre Bacri"
+    }
+  ]
+,
+  "datePublished": "2017-06-28",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Dans une petite ville perdue au milieu de nulle part, le commerce de pompes funèbres d’Edmond Zweck ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

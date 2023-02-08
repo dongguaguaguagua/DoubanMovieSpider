@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夺宝七杀",
+  "url": "/subject/27001343/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377318/",
+      "name": "孙海龙 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-03-22",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H25M",
+  "description": "四个人组成的寻宝小队来到旅店试图寻找藏匿已久的宝藏，经过一系列的勘测，得知宝藏就在旅店之中。离奇的死亡，人性与欲望的纠缠，一众人相互猜忌，最终有人因贪念丧生，有人因爱牺牲，有人因善良生还。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

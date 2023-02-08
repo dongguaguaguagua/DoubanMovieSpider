@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "牛蝇 쇠파리",
+  "url": "/subject/26663065/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2458607265.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321389/",
+      "name": "金镇宇 Jin-Woo Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348704/",
+      "name": "李妍度 Yeon-doo Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320459/",
+      "name": "郑仁基 In-gi Jeong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355857/",
+      "name": "金姬贞 Kim Hee-jeong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382212/",
+      "name": "高恩伊 Ko Eun-i"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375756/",
+      "name": "李胜浚 Seung joon Lee"
+    }
+  ]
+,
+  "datePublished": "2017-05-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H51M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "361",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

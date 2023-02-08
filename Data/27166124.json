@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "非理性恐惧症 Irrational Fear",
+  "url": "/subject/27166124/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504284109.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270497/",
+      "name": "亨特·约翰逊 Hunter Johnson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270497/",
+      "name": "亨特·约翰逊 Hunter Johnson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270497/",
+      "name": "亨特·约翰逊 Hunter Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407655/",
+      "name": "查尔斯·丘达巴拉 Charles Chudabala"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Six therapy patients are brought together at a secluded cabin to confront their strangest fears. But...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

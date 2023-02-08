@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大象王国 Elephant Kingdom",
+  "url": "/subject/26878600/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2387886840.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322051/",
+      "name": "Taweelap Srivuthivong Taweelap Srivuthivong"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326630/",
+      "name": "安拜·柴尔德斯 Ambyr Childers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345466/",
+      "name": "加勒特·克莱顿 Garrett Clayton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040521/",
+      "name": "加利·艾尔维斯 Cary Elwes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049505/",
+      "name": "阿丽夏·维加 Alexa Vega"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1191435/",
+      "name": "卡洛斯·佩纳 Carlos Pena"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041121/",
+      "name": "帕特里克·沃伯顿 Patrick Warburton"
+    }
+  ]
+,
+  "datePublished": "2016-09-20",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H33M",
+  "description": "When brave elephant Rock (Cary Elwes) sees his wife, Melody (Alexa PenaVega), kidnapped by the power...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

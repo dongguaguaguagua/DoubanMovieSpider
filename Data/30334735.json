@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "热土 Goodland",
+  "url": "/subject/30334735/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535145466.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1231552/",
+      "name": " Matt Weiss"
+    }
+  ]
+,
+  "datePublished": "2018-05-11",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H24M",
+  "description": "When the body of a drifter is discovered the same day a photographer arrives in a small farming comm...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

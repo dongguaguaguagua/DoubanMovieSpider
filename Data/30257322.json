@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣诞大作怪 Elves",
+  "url": "/subject/30257322/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2540354741.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055149/",
+      "name": "Lisa Skinstad Lisa Skinstad"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027180/",
+      "name": "艾米·乔·约翰逊 Amy Jo Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462829/",
+      "name": "Deanna Grace Congo Deanna Grace Congo"
+    }
+  ]
+,
+  "datePublished": "2018-11-19",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "After a freak accident kills one of her friends, Clover discovers that a group of elves have been sc...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

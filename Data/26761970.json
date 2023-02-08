@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "这是我们的土地 Chez nous",
+  "url": "/subject/26761970/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2410272048.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041649/",
+      "name": "卢卡斯·贝尔沃克斯 Lucas Belvaux"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041649/",
+      "name": "卢卡斯·贝尔沃克斯 Lucas Belvaux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1228621/",
+      "name": " Jerome Leroy"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050074/",
+      "name": "艾米莉·德奎恩 Émilie Dequenne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009174/",
+      "name": "安德烈·杜索里埃 André Dussollier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325344/",
+      "name": "纪尧姆·谷伊 Guillaume Gouix"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037344/",
+      "name": "卡瑟琳·雅各布 Catherine Jacob"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007201/",
+      "name": "安·玛丽文 Anne Marivin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010849/",
+      "name": "帕特里克·德康 Patrick Descamps"
+    }
+  ]
+,
+  "datePublished": "2017-02-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H58M",
+  "description": "葆琳娜是一名上门医护人员，她的工作往返于法国北部的里尔和朗斯之间。因为她为人和蔼可亲，病人们都很喜欢她。有一天，一名极端政党的政治人物上门，希望推荐她参加下一轮市议会选举。面对家庭、情感和理念之间的冲...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "房子与狗",
+  "url": "/subject/27157698/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2500478185.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327323/",
+      "name": "孙波 Bo Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352900/",
+      "name": "王铮 Zheng Wang"
+    }
+  ]
+,
+  "datePublished": "2017-11-26",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H21M",
+  "description": "金庆与林媛是一对中年夫妻，因为邻居每晚噪声较大，林媛一直想换个房子。一日金庆带着女儿金倩出门寻找家里丢失的狗，因种种误会金庆被小区居民认成虐狗的变态。从此之后金庆的生活受到很大影响，无数爱狗人士的骚扰...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

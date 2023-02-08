@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "男孩们跪下 A genoux les gars",
+  "url": "/subject/30194766/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522350436.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034570/",
+      "name": "Antoine Desrosières Antoine Desrosières"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034570/",
+      "name": "Antoine Desrosières Antoine Desrosières"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354315/",
+      "name": "劳伯娜·阿比达尔 Loubna Abidar"
+    }
+  ]
+,
+  "datePublished": "2018-05-19",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H38M",
+  "description": "Yasmina的姐姐Rim虽然不在，但她却和自己及姐姐的男友Salim与Majid一同来到了停车场。Rim对此一无所知，因为Yasmina向她极力隐瞒了一些事情。这些事情让她难以启齿、满怀羞愧。一切都...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "179",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

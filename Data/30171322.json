@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地下骑士",
+  "url": "/subject/30171322/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2717378480.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322142/",
+      "name": "肖莫庸 Moyong Xiao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390384/",
+      "name": "赵泓晨 Hongchen Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336100/",
+      "name": "樊昱君 Yujun Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424601/",
+      "name": "肖骁 Xiao Xiao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H31M",
+  "description": "抗日战争时期，伪满洲国首都新京，年轻的国高学生区同、沈梦溪、奚晰岑投身抗日运动，在国、共两党的领导下，破坏满映拍摄的宣传日满和谐的反动影片《今日之满洲》，成功的阻止这部影片进入国联欺骗世人。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "怪物计划 The Monster Project",
+  "url": "/subject/27069641/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2496617293.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164170/",
+      "name": "伊芳·齐玛 Yvonne Zima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027357/",
+      "name": "贾斯汀·布恩宁 Justin Bruening"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018058/",
+      "name": "托比·海明威 Toby Hemingway"
+    }
+  ]
+,
+  "datePublished": "2017-08-18",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H35M",
+  "description": "一个想拍摄出恐怖纪录片的剧组在网路上发布了试镜公告，表明他们要找寻隐藏于现实生活中的骇人怪物，没想到有三个自称兽行者、吸血鬼与恶魔的报名者要前来试镜。他们相约于月全蚀之夜，在一栋森林中的偏远豪宅见面，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "415",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

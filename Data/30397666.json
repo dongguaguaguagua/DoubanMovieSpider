@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卓远的梦想",
+  "url": "/subject/30397666/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2541909724.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392611/",
+      "name": "刘艳臣 Yanchen Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325791/",
+      "name": "彭海燕 Haiyan Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392611/",
+      "name": "刘艳臣 Yanchen Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326939/",
+      "name": "王虎城 Hucheng Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5"],
+  "duration": "",
+  "description": "影片讲述了一位不明身份不明国籍的弃婴卓远的感人故事。
+他在不断找寻自我身份、亲身父母的过程中，尝尽了人间的悲欢离合，更在收养自己的佤族护边员、边疆火车站小卖部店主等老人的深切关怀下，感受到了浓浓的情谊...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

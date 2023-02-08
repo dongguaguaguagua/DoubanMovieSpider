@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "假纹身 Fake Tattoos",
+  "url": "/subject/30106878/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512866947.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388499/",
+      "name": "帕斯卡尔·普朗特 Pascal Plante"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388499/",
+      "name": "帕斯卡尔·普朗特 Pascal Plante"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-02-16",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H27M",
+  "description": "导演帕斯卡尔·普朗特在电影《假纹身》中讲述了一段年轻的爱情故事，温柔但不煽情。米斯菲特·提奥，由安东尼·泰林饰演（2015年Generation 14plus单元入围影片《科波》主演），在18岁生日那...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不涉江湖",
+  "url": "/subject/30164907/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533779748.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418580/",
+      "name": "意紫 Zi Yi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433697/",
+      "name": "闫鹏 Peng Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376917/",
+      "name": "胡子程 Zicheng Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323144/",
+      "name": "原梓霏 Zifei Yuan"
+    }
+  ]
+,
+  "datePublished": "2018-03-06",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT2H0M",
+  "description": "阿欢是个地道的农民，当听说在城里打工的老婆当了坐台小姐后，便决定进城寻妻，在无意中经过黑帮的交易现场时，意外得到了一箱现金和一块名表。此后，阿欢的寻妻之路却遭到了黑帮的步步紧逼，而阿欢再也无法回头.....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

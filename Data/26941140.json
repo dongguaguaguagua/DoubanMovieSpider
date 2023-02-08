@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我就是武大郎",
+  "url": "/subject/26941140/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2407420136.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359474/",
+      "name": "林琪 Qi Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408522/",
+      "name": "谭渤霖 Bolin Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425644/",
+      "name": "施庆虎 Qinghu Shi"
+    }
+  ]
+,
+  "datePublished": "2016-12-26",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H12M",
+  "description": "影片讲述了北宋年间山东阳谷县贫苦人家的两位兄弟，武大郎和武松相依为命。 身材矮小的武大郎，为人善良，与潘金莲是青梅竹马。武松打虎归来后成为英雄，并成功在县衙任职。武松被县令的女儿彩蝶看中了。武松回来之...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

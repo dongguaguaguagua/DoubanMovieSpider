@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绑架 abduct",
+  "url": "/subject/26767338/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2329945204.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457784/",
+      "name": "伊利亚斯·卡杜吉 Ilyas Kaduji"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031810/",
+      "name": "西耶娜·盖尔利 Sienna Guillory"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014073/",
+      "name": "威廉·B·戴维斯 William B. Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337164/",
+      "name": "梅丽·卡尔维 Mhairi Calvey"
+    }
+  ]
+,
+  "datePublished": "2016-03-04",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H50M",
+  "description": "A girl flees her orphanage in a paranoid belief that otherworldly forces are after her. She seeks re...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "68",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

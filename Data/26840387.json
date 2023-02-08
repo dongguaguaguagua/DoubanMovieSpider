@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Killer Robots! Crash and Burn",
+  "url": "/subject/26840387/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2368151799.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270821/",
+      "name": "肖恩 C.菲利普斯 Shawn C. Phillips"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195533/",
+      "name": "麦克·迈克高文 Michael McGowan"
+    }
+  ]
+,
+  "datePublished": "2016-07-15",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT1H40M",
+  "description": "Robot mercenaries are sent on a mission to activate a machine that will bring about a new age of enl...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

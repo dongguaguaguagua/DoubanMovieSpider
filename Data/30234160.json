@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "少年犯 Delinquent",
+  "url": "/subject/30234160/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2523356835.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401078/",
+      "name": "杰西·普拉特 Jessie Platt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402465/",
+      "name": "凯蒂·海希达 Katie Hayashida"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1145394/",
+      "name": "比尔·萨奇 Bill Sage"
+    }
+  ]
+,
+  "datePublished": "2018-04-19",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT1H37M",
+  "description": "A rebellious teen is sentenced to serve time on his uncle&#39;s organic farm, only to learn that there&#39;s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

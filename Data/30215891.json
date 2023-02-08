@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寻找雪山",
+  "url": "/subject/30215891/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2521787362.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392677/",
+      "name": "何志涛 Zhitao He"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392687/",
+      "name": "邱波 Bo Qiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392688/",
+      "name": "吴玥璇 Yuexuan Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392678/",
+      "name": "蒋济远 Jiyuan Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392679/",
+      "name": "王馨月 Xinyue Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392680/",
+      "name": "王馨云 Xinyun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392681/",
+      "name": "郭俊宇 Junyu Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392682/",
+      "name": "孙楚安安 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392683/",
+      "name": "赵秋萍 Qiuping Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392684/",
+      "name": "和亚月 Yayue He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392685/",
+      "name": "苗苗 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392686/",
+      "name": "曾曾 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328153/",
+      "name": "苗苗 Miao Miao"
+    }
+  ]
+,
+  "datePublished": "2018-06-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H26M",
+  "description": "共青团“筑梦丽江”重点项目，年仅10岁的云南少儿作家吴玥璇原创的纳西族首部青少年励志电影《寻找雪山》讲述了云南少数民族山区有一对跟随外婆生活的兄妹，父母在采药时意外坠崖下落不明，传说他们的父母被雪神所...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

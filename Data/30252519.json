@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冬去春又来",
+  "url": "/subject/30252519/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2525826452.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397991/",
+      "name": "费聿竹 Yuzhu Fei"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397991/",
+      "name": "费聿竹 Yuzhu Fei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431138/",
+      "name": "罗纳德·摩尔 Roland Moore"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396552/",
+      "name": "张铭益 Mingyi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397195/",
+      "name": "孔雁 Yan Kong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444751/",
+      "name": "艾米丽·海格 Emily Haigh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446321/",
+      "name": "郭涛 Tao Guo"
+    }
+  ]
+,
+  "datePublished": "2018-07-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H53M",
+  "description": "在外打拼的华人，习惯了聚散分离，留下还是离开，是他们亘古不变的一个选择题。转眼间已到27岁的刘夏，面对周遭的聚散离合、面对异国的边缘生活、面对摇摇欲坠的梦想，她不得不为自己的前途和命运做一份打算。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "392",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

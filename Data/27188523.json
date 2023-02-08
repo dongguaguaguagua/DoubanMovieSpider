@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "边境缉凶 Wanted Man",
+  "url": "/subject/27188523/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040508/",
+      "name": "杜夫·龙格尔 Dolph Lundgren"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040508/",
+      "name": "杜夫·龙格尔 Dolph Lundgren"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040508/",
+      "name": "杜夫·龙格尔 Dolph Lundgren"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "On the US/Mexican border, a lawman must bring back a witness and survive.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

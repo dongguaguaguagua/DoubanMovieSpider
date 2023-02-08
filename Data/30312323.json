@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "史酷比与美食幽灵 Scooby-Doo! and the Gourmet Ghost",
+  "url": "/subject/30312323/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2533514553.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399518/",
+      "name": "道格·墨菲 Doug Murphy"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022763/",
+      "name": "吉娅达·德·劳伦蒂斯 Giada De Laurentiis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166358/",
+      "name": "巴比·福雷 Bobby Flay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004615/",
+      "name": "马修·里沃德 Matthew Lillard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1242167/",
+      "name": "凯特·米库奇 Kate Micucci"
+    }
+  ]
+,
+  "datePublished": "2018-08-28",
+  "genre": ["\u52a8\u753b", "\u72af\u7f6a", "\u5192\u9669"],
+  "duration": "PT1H17M",
+  "description": "大家最爱的少年侦探们将开启一段难忘的新英格兰探险之旅。他们将要侦察一家历史悠久的殖民旅馆的幽灵事件，而这旅馆其实是一家无与伦比的美食度假村。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "124",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

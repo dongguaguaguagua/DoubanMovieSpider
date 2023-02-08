@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "贪欲 Like Share Follow",
+  "url": "/subject/27195399/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504760457.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302467/",
+      "name": "格伦·杰斯 Glenn Gers"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302467/",
+      "name": "格伦·杰斯 Glenn Gers"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339607/",
+      "name": "凯南·朗斯代尔 Keiynan Lonsdale"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027238/",
+      "name": "亚布拉哈姆·本鲁比 Abraham Benrubi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014077/",
+      "name": "纳特·哈特雷 Nate Hartley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392645/",
+      "name": "帕特里克·戈曼 Patrick Gorman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124383/",
+      "name": "莫妮卡·洛佩斯 Mónica López"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055554/",
+      "name": "Norma Maldonado Norma Maldonado"
+    }
+  ]
+,
+  "datePublished": "2017-10-31",
+  "genre": ["\u7231\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H37M",
+  "description": "Garrett is a rising YouTube star. Shell is a deeply emotional fan. When they begin a romantic relati...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "98",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

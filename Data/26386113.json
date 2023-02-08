@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红变黑 Red to Black",
+  "url": "/subject/26386113/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575217490.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330973/",
+      "name": "瓦内萨·罗斯 Vanessa Ross"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1107195/",
+      "name": "沃尔特·琼斯 Walter Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314188/",
+      "name": "梅兰妮·马凳 Melanie Marden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1233131/",
+      "name": "乔恩·摩根·伍德沃德 Jon Morgan Woodward"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u6050\u6016"],
+  "duration": "",
+  "description": "This is a story of an old black family of vampires living in Los Angeles under the radar. The vampir...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

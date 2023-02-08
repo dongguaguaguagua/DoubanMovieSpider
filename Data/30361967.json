@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "最好的婚礼",
+  "url": "/subject/30361967/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2699446838.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402472/",
+      "name": "李伯恩 Bo-En Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364984/",
+      "name": "张昊玥 Haoyue Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424200/",
+      "name": "焦仲慧 Zhonghui Jiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394378/",
+      "name": "孔斐 Fei Kong"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H29M",
+  "description": "婚礼策划师露西回国策划一场英国王室的婚礼，而发生的一连串的趣事，从而收获了属于自己的爱情。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

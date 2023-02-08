@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "智慧囚屋 Tau",
+  "url": "/subject/26791644/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2525687168.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334593/",
+      "name": "麦卡·梦露 Maika Monroe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329130/",
+      "name": "艾德·斯克林 Ed Skrein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010507/",
+      "name": "加里·奥德曼 Gary Oldman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1148983/",
+      "name": "伊恩·维果 Ian Virgo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1119323/",
+      "name": "Dragoljub Ljubicic Dragoljub Ljubicic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1245990/",
+      "name": " Sasa Tomic"
+    }
+  ]
+,
+  "datePublished": "2018-06-29",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H37M",
+  "description": "街头女骗子Julia被绑架，将被用于做一个致命实验，她的唯一希望寄予幕后黑手Alex创造的一项人工智能TAU，装备有大量的无人机和机器人，能自动操纵Alex打造的智能房屋和实验室，墙壁内村有屏幕，能从...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4093",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

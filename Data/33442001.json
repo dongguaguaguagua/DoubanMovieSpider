@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Vénéneuses",
+  "url": "/subject/33442001/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555956198.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054475/",
+      "name": "让-皮埃尔·莫基 Jean-Pierre Mocky"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1219189/",
+      "name": " Frédéric Dieudonné"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054475/",
+      "name": "让-皮埃尔·莫基 Jean-Pierre Mocky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016780/",
+      "name": "理查德·波林热 Richard Bohringer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054457/",
+      "name": "让-弗朗索瓦·斯泰弗南 Jean-François Stévenin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341912/",
+      "name": "博纳费·塔尔布利耶什 Bonnafet Tarbouriech"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423280/",
+      "name": "Frédéric Scotlande Frédéric Scotlande"
+    }
+  ]
+,
+  "datePublished": "2017-03-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H21M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

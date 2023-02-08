@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地平线 ჰორიზონტი",
+  "url": "/subject/30145584/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2513812253.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435133/",
+      "name": "蒂纳丁·卡吉里什维利 Tinatin Kajrishvili"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435133/",
+      "name": "蒂纳丁·卡吉里什维利 Tinatin Kajrishvili"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-02-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "三十多岁的乔尔奇和安娜是一对曾经相爱的夫妻，现正处在分手的艰难过程中，这一过程看似悄无声息，没有引起任何人的注意。曾经的爱恨似乎已经被时间带过，但是习惯新的生活方式却需要很长的时间。乔尔奇无法适应，被...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

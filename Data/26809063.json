@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魂断无人机 Drone",
+  "url": "/subject/26809063/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2457865793.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050861/",
+      "name": "杰森·伯格 Jason Bourque"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050861/",
+      "name": "杰森·伯格 Jason Bourque"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442794/",
+      "name": "伊恩·伯克特 Ian Birkett"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002683/",
+      "name": "肖恩·宾 Sean Bean"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014383/",
+      "name": "帕特里克·萨邦圭 Patrick Sabongui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006975/",
+      "name": "玛丽·麦克科马克 Mary McCormack"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027811/",
+      "name": "乔·大卫·摩尔  Joel David Moore"
+    }
+  ]
+,
+  "datePublished": "2017-04-17",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H31M",
+  "description": "Ideologies collide with fatal results when a military drone contractor meets an enigmatic Pakistani ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "516",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

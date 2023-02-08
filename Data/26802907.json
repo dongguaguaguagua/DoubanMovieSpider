@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "碟片风云",
+  "url": "/subject/26802907/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2355818300.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370556/",
+      "name": "刘夏 Xia Liu"
+    }
+  ]
+,
+  "datePublished": "2016-05-27",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H0M",
+  "description": "新千年开初的中国，是盗版的天堂。刚毕业的女大学生卫梦是一个电影盗录者，一次盗录危机让她结识了盗版团队领头人马浪，并加入其团队。在盗版加工厂里，卫梦既找到了实现理想的大本营，还和志趣相投的马浪成为情侣。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

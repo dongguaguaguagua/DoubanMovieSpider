@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "结婚派对 The Wedding Party",
+  "url": "/subject/27073151/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2534505542.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336255/",
+      "name": "德尼兹·阿克代尼兹 Deniz Akdeniz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244746/",
+      "name": "莫莉·伯纳特 Molly Burnett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334635/",
+      "name": "梅格·西奥妮 Meg Cionni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414281/",
+      "name": "布雷特·赖斯 Brett Rice"
+    }
+  ]
+,
+  "datePublished": "2016-09-10",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H52M",
+  "description": "A groomsman must navigate a slew of disasters to maintain order at his best friend&#39;s wedding recepti...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

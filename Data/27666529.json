@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "电影狂想曲",
+  "url": "/subject/27666529/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2717371163.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324056/",
+      "name": "裘仲维 Zhongwei Qiu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324256/",
+      "name": "高则豪 Zehao Gao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388880/",
+      "name": "鞠帛展 Bozhan Ju"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348151/",
+      "name": "于非 Fei Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319163/",
+      "name": "苇青 Qing Wei"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H36M",
+  "description": "阿锋是一名热爱电影的热血青年，他最大的梦想就是拍一部电影。为此他和他的小伙伴为着这个不靠谱的理想做着各种不靠谱的努力，最终在一番看似不靠谱的经历中理解了电影的真正意义。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

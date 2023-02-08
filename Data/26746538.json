@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "钓神",
+  "url": "/subject/26746538/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2327555959.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323614/",
+      "name": "方军 Jun Fang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-06-06",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT2H0M",
+  "description": "姜南从小跟着爷爷在乡下水库边长大，在一次钓鱼时救下了落水的小学女教师李曼，李曼的家人误以为肇事者就是姜南，并对姜南大打出手。在全国钓鱼比赛中，姜南获得“钓神”的称号，李曼也主动向姜南伸出了爱情之手。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

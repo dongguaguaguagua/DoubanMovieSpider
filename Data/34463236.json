@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "让·弗朗索瓦和生命的意义 Jean-François i el sentit de la vida",
+  "url": "/subject/34463236/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2562097114.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319359/",
+      "name": "克劳迪亚·贝加 Claudia Vega"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377608/",
+      "name": "西奥·乔尔比 Théo Cholbi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400101/",
+      "name": "波·杜拉 Pau Durà"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478543/",
+      "name": " Eudald Font"
+    }
+  ]
+,
+  "datePublished": "2018-04-23",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "一个十二岁的存在主义者小孩准备离家出走，去见他最喜欢的哲学家阿尔伯特·加缪，然然而他却不知道加缪已经去世五十年了。 在路上，他第一次体会到了爱情和拒绝的滋味。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "92",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

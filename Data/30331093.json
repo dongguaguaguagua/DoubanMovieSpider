@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "花事·如期",
+  "url": "/subject/30331093/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2541820392.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401167/",
+      "name": "叶江天 Jiangtian Ye"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343944/",
+      "name": "刘頔 Natas Asoka "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341771/",
+      "name": "郭月 Yue Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407767/",
+      "name": "冯星 Xing Feng"
+    }
+  ]
+,
+  "datePublished": "2018-10-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H26M",
+  "description": "2017年冬天，快递员小强因送件偶然闯入话剧《花事如期》的排练现场。舞台上所演的一个快递员拯救欲轻生女白领的故事深深打动了他，因为他也正在暗恋着与他合租房子的售楼小姐阿霞。在华丽的舞台上，因失恋而陷入...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "335",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

@@ -1,0 +1,130 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "六人晚餐",
+  "url": "/subject/26412618/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2463001905.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321713/",
+      "name": "李远 Yuan Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275132/",
+      "name": "梅峰 Feng Mei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373009/",
+      "name": "张巳阳 Siyang Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274225/",
+      "name": "窦骁 Shawn Dou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257882/",
+      "name": "张钧甯 Chun-Ning Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004773/",
+      "name": "邬君梅 Vivian Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274840/",
+      "name": "吴刚 Gang Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312817/",
+      "name": "赵立新 Lixin Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317315/",
+      "name": "俞灏明 Haoming Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316347/",
+      "name": "尹馨梓 Xinzi Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365067/",
+      "name": "姜尘 Chen Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334226/",
+      "name": "崔文璐 Wenlu Cui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355808/",
+      "name": "陈欢 Huan Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336066/",
+      "name": "胡晴云 Qingyun Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323591/",
+      "name": "陈威旭 Weixun Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371149/",
+      "name": "郝宣凯 Xuankai Hao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371150/",
+      "name": "李雨诺 Yunuo Li"
+    }
+  ]
+,
+  "datePublished": "2017-06-16",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H40M",
+  "description": "人送外号“厂区终结者”的热血青年丁成功（窦骁 饰）和冰山美人林晓蓝（张钧甯 饰）因为一场厂区青年之间的大战而偶遇并暗生情愫。与此同时，丁成功的父亲——单身爸爸丁伯刚（吴刚 饰）正在与林晓蓝的母亲——单...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4957",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

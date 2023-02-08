@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天落水",
+  "url": "/subject/27601256/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2507415075.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385653/",
+      "name": "杨明腾 Mingteng Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385653/",
+      "name": "杨明腾 Mingteng Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367183/",
+      "name": "辛祚宇 Zuoyu Xin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385940/",
+      "name": "王君君 Junjun Wang"
+    }
+  ]
+,
+  "datePublished": "2017-12-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H56M",
+  "description": "受到钱理群《1948：天地玄黄》启发，讲述上海明月舞厅一群舞女在1948-1956年的遭遇",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "335",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

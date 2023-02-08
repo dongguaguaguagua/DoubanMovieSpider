@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "衍生玛约莉 Marjorie Prime",
+  "url": "/subject/26684270/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2494163014.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000737/",
+      "name": "迈克尔·阿尔梅雷伊达 Michael Almereyda"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000737/",
+      "name": "迈克尔·阿尔梅雷伊达 Michael Almereyda"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006979/",
+      "name": "吉娜·戴维斯 Geena Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031817/",
+      "name": "乔恩·哈姆 Jon Hamm"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054521/",
+      "name": "蒂姆·罗宾斯 Tim Robbins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1151084/",
+      "name": "罗伊丝·史密斯 Lois Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1240216/",
+      "name": "Stephanie Andujar Stephanie Andujar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1259304/",
+      "name": "汉娜·格罗斯 Hannah Gross"
+    }
+  ]
+,
+  "datePublished": "2017-01-23",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H39M",
+  "description": "影片改编自获2014年普利策奖提名的同名戏剧，讲述罗伊丝·史密斯饰演的86岁女主角行将就木，她的记忆力一天比一天衰弱。有一天，一位长相帅气、与她逝去丈夫极为相像的男子来到她身边，通过讲故事帮助她慢慢回...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "612",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

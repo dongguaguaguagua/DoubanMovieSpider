@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿达姆 Adam K",
+  "url": "/subject/27114201/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496333007.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1227435/",
+      "name": " Joston Theney"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1227435/",
+      "name": " Joston Theney"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454232/",
+      "name": "弗拉·亚伯拉罕 Farrah Abraham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484025/",
+      "name": "伊桑·麦克道尔 Ethan McDowell"
+    }
+  ]
+,
+  "datePublished": "2017-08-12",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H33M",
+  "description": "A day in the life of mild-mannered and seemingly good-natured auto insurance claims manager Adam Kra...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

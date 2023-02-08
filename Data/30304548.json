@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们曾是战友 Wir waren kameraden: Das ende",
+  "url": "/subject/30304548/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531688011.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414756/",
+      "name": "海因切·彼得 Heintje Peter"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414756/",
+      "name": "海因切·彼得 Heintje Peter"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423888/",
+      "name": "弗兰兹·克洛泽 Franz Klose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423889/",
+      "name": "安德烈·亚斯莱西格 Andreas Lessig"
+    }
+  ]
+,
+  "datePublished": "2017-04-01",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H37M",
+  "description": "根据出生于1923年的德国士兵海尔姆特的东线经历改编",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

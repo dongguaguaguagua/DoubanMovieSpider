@@ -29,7 +29,7 @@ if __name__ == "__main__":
             resp = requests.get("http://www.douban.com/subject/"+str(data[str(i)]), proxies = proxies, headers = headers, timeout=3)
         except:
             print("请求超时，尝试更新proxy")
-            time.sleep(3*60)
+            time.sleep(60)
             proxies = get_qg_proxy()
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")
@@ -41,7 +41,7 @@ if __name__ == "__main__":
                 i+=1
                 continue
             print("错误码:",resp.status_code,"尝试更新proxy")
-            time.sleep(3*60)
+            time.sleep(60)
             proxies = get_qg_proxy()
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")
@@ -50,7 +50,7 @@ if __name__ == "__main__":
         soup = BeautifulSoup(resp.text, 'lxml')
         if(soup == ""):
             print("soup为空，尝试更新proxy")
-            time.sleep(3*60)
+            time.sleep(60)
             proxies = get_qg_proxy()
             headers = {'User-Agent': ua.random}
             print("更新proxy成功")

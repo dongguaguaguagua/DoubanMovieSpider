@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乐高DC超级英雄：正义联盟之宇宙冲击 Lego DC Comics Super Heroes: Justice League - Cosmic Clash",
+  "url": "/subject/26727369/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2320416753.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1197479/",
+      "name": "特罗伊·贝克 Troy Baker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134542/",
+      "name": "诺兰·诺斯 Nolan North"
+    }
+  ]
+,
+  "datePublished": "2016-03-01",
+  "genre": ["\u52a8\u4f5c", "\u52a8\u753b"],
+  "duration": "PT1H18M",
+  "description": "Can the Justice League prevail against an unstoppable intergalactic machine with the power to bend t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3159",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

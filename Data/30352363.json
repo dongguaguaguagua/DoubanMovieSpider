@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "浪花少女",
+  "url": "/subject/30352363/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537254270.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391230/",
+      "name": "叶斯琦 Siqi Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400178/",
+      "name": "温航 Hang Wen"
+    }
+  ]
+,
+  "datePublished": "2018-10-23",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H30M",
+  "description": "《浪花少女》以一个曾经辉煌的大学游泳馆的前途命运故事为背景展开,讲述一群年轻人在其中战胜自我,用勇气和坚持追逐梦想的青春故事。影片中关于她们的梦想与成长,亲情与友谊,青葱岁月中的朦胧感情,两代人的相互...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑鸟 Blackbird",
+  "url": "/subject/30267196/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2527390506.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055125/",
+      "name": "迈克尔·弗莱特利 Michael Flatley"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055125/",
+      "name": "迈克尔·弗莱特利 Michael Flatley"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002670/",
+      "name": "埃里克·罗伯茨 Eric Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007082/",
+      "name": "帕特里克·博金 Patrick Bergin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348702/",
+      "name": "伊恩·比蒂 Ian Beattie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481642/",
+      "name": "劳拉·莱蒙 Lara Lemon"
+    }
+  ]
+,
+  "datePublished": "2018-09-28",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "苦恼的秘密特工“黑鸟”突然退役，在加勒比海开了一家豪华夜总会，以此逃避黑暗过去对他造成的心理阴影。一位旧情人的到来重新点燃了他的生命，但同时她也带来了危险……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

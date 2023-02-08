@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "特工对垒 The Take Down",
+  "url": "/subject/27156423/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2500339553.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1217302/",
+      "name": "Storm David Newton Storm David Newton"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475058/",
+      "name": " Connie Jenkins-Greig"
+    }
+  ]
+,
+  "datePublished": "2017-09-27",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H30M",
+  "description": "When Jack, a hit man from London, gets given his life back and the opportunity to save his daughter,...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

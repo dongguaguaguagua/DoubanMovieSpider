@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "决斗者 Дуэлянт",
+  "url": "/subject/26607721/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2382861246.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311059/",
+      "name": "阿里柯西·米捷洛夫 Aleksei Mizgiryov"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311059/",
+      "name": "阿里柯西·米捷洛夫 Aleksei Mizgiryov"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036888/",
+      "name": "弗拉基米尔·马什科夫 Vladimir Mashkov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046223/",
+      "name": "彼得·费奥多罗夫 Pyotr Fyodorov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371152/",
+      "name": "帕维尔·塔巴科夫 Pavel Tabakov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305921/",
+      "name": "亚历山大·亚森科 Aleksandr Yatsenko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365353/",
+      "name": "皮埃尔·布雷尔 Pierre Bourel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1135313/",
+      "name": "弗兰琪丝卡·佩特 Franziska Petri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038720/",
+      "name": "尤里·科洛科利尼科夫 Yuri Kolokolnikov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004954/",
+      "name": "马丁·乌特克 Martin Wuttke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101813/",
+      "name": "谢尔盖·加尔马什 Sergey Garmash"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453005/",
+      "name": "阿尔乔姆·瓦西列夫 Artyom Vasilev"
+    }
+  ]
+,
+  "datePublished": "2016-09-29",
+  "genre": ["\u5267\u60c5", "\u53e4\u88c5"],
+  "duration": "PT1H50M",
+  "description": "Set in 19th century Imperial Russia, the story revolves around a retired army veteran who makes a go...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "138",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

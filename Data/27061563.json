@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夺命头条",
+  "url": "/subject/27061563/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2461589750.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353840/",
+      "name": "杜光祎 Guangyi Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372949/",
+      "name": "全思颖 Siying Quan"
+    }
+  ]
+,
+  "datePublished": "2017-12-27",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H2M",
+  "description": "当红歌星夏雪儿为了逃离纷乱的娱乐圈以及变态母亲的束缚，利用刘院长（死忠粉）自导自演了一出假死大戏。不明真相的痴情小子阿泽（真爱粉）在好友凯子（脑残粉）的怂恿下，潜入停尸间跟偶像做最后的告别，而另一疯迷...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

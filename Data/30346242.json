@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女巫档案 The Witch Files",
+  "url": "/subject/30346242/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2536518644.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295247/",
+      "name": "凯尔·兰金 Kyle Rankin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295247/",
+      "name": "凯尔·兰金 Kyle Rankin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031805/",
+      "name": "帕姬·布鲁斯特 Paget Brewster"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335874/",
+      "name": "霍莉·泰勒 Holly Taylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018193/",
+      "name": "维勒莉·玛哈菲 Valerie Mahaffey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1249441/",
+      "name": "格雷格·芬利 Greg Finley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1205595/",
+      "name": "威廉·博恩凯塞尔 William Bornkesell"
+    }
+  ]
+,
+  "datePublished": "2018-09-10",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H27M",
+  "description": "一群被边缘化的年轻女性形成了强大的女巫开启她们的冒险之旅。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

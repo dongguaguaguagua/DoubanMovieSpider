@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "顿巴斯 Донбас",
+  "url": "/subject/27098584/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2873172241.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290387/",
+      "name": "谢尔盖·洛兹尼察 Sergei Loznitsa"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290387/",
+      "name": "谢尔盖·洛兹尼察 Sergei Loznitsa"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319736/",
+      "name": "瓦列留·安德留察 Valeriu Andriuta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339868/",
+      "name": "鲍里斯·卡莫尔津 Boris Kamorzin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319921/",
+      "name": "谢尔盖·科列索夫 Sergei Kolesov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1137744/",
+      "name": "谢尔盖·罗斯林 Sergei Russkin"
+    }
+  ]
+,
+  "datePublished": "2018-05-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H1M",
+  "description": "一场战争在乌克兰东部的顿巴斯爆发，由此衍生出军事冲突、犯罪行动以及分裂主义者主导的大肆劫掠。在顿巴斯，战争已是常态，政府宣传自诩真相之源，仇恨变成了爱的方式。走入顿巴斯，就像踏上一场疯狂的旅行，悲剧和...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1707",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

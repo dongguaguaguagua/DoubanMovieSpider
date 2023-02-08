@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超能右手",
+  "url": "/subject/30388453/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542285011.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380841/",
+      "name": "罗永强 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380841/",
+      "name": "罗永强 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375214/",
+      "name": "周丽娟 Lijuan Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-12-06",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H12M",
+  "description": "彭恒从被左强打了药水右手力量特别的强大，生活过的一团糟的彭恒好不容易遇上一个让自己心动的女同事何慧，想方设法的想要接近何慧，机缘巧合的买到了一套VR设备，能够让他进入到虚拟的世界里和自己心爱的何慧恋爱...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

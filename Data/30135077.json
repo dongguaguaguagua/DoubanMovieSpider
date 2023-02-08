@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "五杀前男友",
+  "url": "/subject/30135077/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2512313722.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390270/",
+      "name": "张舸 Ge Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476840/",
+      "name": "王紫贝 Zibei Wang"
+    }
+  ]
+,
+  "datePublished": "2018-02-25",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H16M",
+  "description": "林子怡，大三学生，传说中她在进入大学的三个月就已经谈过五任男友，只是这些前任们统统被她无情的甩掉。而林子怡的最后一任男友，相比于之前的五位，只是一个相貌平平，家境一般，身无长处，只会躲在宿舍打游戏的普...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "镜头前的女人",
+  "url": "/subject/27146634/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2502165076.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381416/",
+      "name": "朱卫 Kevin Zhu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381416/",
+      "name": "朱卫 Kevin Zhu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381417/",
+      "name": "程慕轩 Muxuan Cheng "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381418/",
+      "name": "王弘尧 Wangyiu Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381419/",
+      "name": "刘思维 Siwei Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381420/",
+      "name": "班京辉 Ban Jinhui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381421/",
+      "name": "刘颖君 Liu Yingjun"
+    }
+  ]
+,
+  "datePublished": "2017-10-20",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H33M",
+  "description": "韩美眉（程慕轩 饰）是一个名不见经传的小演员，在生活最艰难的时刻，她遇见了名叫李磊（王红尧 饰）的男人。王红尧也有着他的演艺圈梦想，他想要成为一名导演，但是和韩美眉一样，李磊尚未得到实现梦想的机会。李...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

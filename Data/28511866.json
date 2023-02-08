@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "保龙一族之龙游潜水",
+  "url": "/subject/28511866/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529882507.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417214/",
+      "name": "陆恩馨 Enxin Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391913/",
+      "name": "余欢欢 Hannah yu"
+    }
+  ]
+,
+  "datePublished": "2018-08-03",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H8M",
+  "description": "影片出品人三人禾影业创始人秦教授亲自编剧并执导，杨帅监制，制片人大熊、王璇、王鑫、时传华、曾理操刀，演员王希、余欢欢、彭思琪、白那日苏、唐鑫、崔曙光、八王爷等人联袂主演。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

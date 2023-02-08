@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "毛衣派对大屠杀 Ugly Sweater Party",
+  "url": "/subject/26970755/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2425787610.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407655/",
+      "name": "查尔斯·丘达巴拉 Charles Chudabala"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H21M",
+  "description": "An ugly sweater party turns into a bloodbath when an evil Christmas sweater possesses one of the par...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

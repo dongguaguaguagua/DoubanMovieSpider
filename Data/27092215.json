@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Diane",
+  "url": "/subject/27092215/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2493400826.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304901/",
+      "name": "迈克尔·蒙吉罗 Michael Mongillo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304901/",
+      "name": "迈克尔·蒙吉罗 Michael Mongillo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1157729/",
+      "name": "斯科特·阿兰·史密斯 Scott Alan Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1183190/",
+      "name": "卡莉·艾弗斯 Carlee Avers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318107/",
+      "name": "玛格丽特·罗丝·凯尔 Margaret Rose Keil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478504/",
+      "name": "玛格丽特·罗斯·香珮 Margaret Rose Champagne"
+    }
+  ]
+,
+  "datePublished": "2017-02-01",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H22M",
+  "description": "When a disabled war veteran discovers the dead body of a beautiful singer in his back yard, his fasc...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

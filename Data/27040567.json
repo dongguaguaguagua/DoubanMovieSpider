@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿文的承诺",
+  "url": "/subject/27040567/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2458779973.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373713/",
+      "name": "程锋 Feng Cheng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324564/",
+      "name": "方义华 Wenhua Fang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321589/",
+      "name": "李梦男 Mengnan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373714/",
+      "name": "董超 Chao Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317150/",
+      "name": "李彦明 Yanming Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373715/",
+      "name": "马圣彬 Shengbin Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427273/",
+      "name": "郭金莹 Jinying Guo"
+    }
+  ]
+,
+  "datePublished": "2017-05-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "深夜，地处南粤山区的黄沙村，村支书黄奕文决心带领村民闯出一条脱贫致富之路。在艰苦创业的过程中还是不断面临着人为的诱惑、干扰，甚至破坏。最终，阿文坚定信念，和村民们一道战胜困难，彻底改变了山村的面貌。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

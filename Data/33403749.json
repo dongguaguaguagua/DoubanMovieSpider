@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "目的地：杜斯伯里 Destination: Dewsbury",
+  "url": "/subject/33403749/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553190764.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088108/",
+      "name": "Anna Dawson Anna Dawson"
+    }
+  ]
+,
+  "datePublished": "2018-04-29",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H26M",
+  "description": "Back in the 80s, five friends cause raucous in their schooldays. Twenty years on and they&#39;ve got job...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

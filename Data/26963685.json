@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "坦白 Confessions",
+  "url": "/subject/26963685/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2419335197.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354700/",
+      "name": "马克·贝森格尔 Mark Bessenger"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-07-26",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H28M",
+  "description": "十个男同性恋者承认他们的秘密短篇作品，有些滑稽，有些令人震惊，一些可怕的，所有铆收藏。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

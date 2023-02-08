@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Dawgtown",
+  "url": "/subject/25845391/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2174080371.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021441/",
+      "name": "Justin Murphy Justin Murphy"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021441/",
+      "name": "Justin Murphy Justin Murphy"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032255/",
+      "name": "杰森·贝盖 Jason Beghe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029994/",
+      "name": "Warren Skeels Warren Skeels"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H20M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

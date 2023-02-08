@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿尔法狼 Alpha Wolf",
+  "url": "/subject/30257448/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2539771025.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010282/",
+      "name": "凯文·范霍克 Kevin VanHook"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036399/",
+      "name": "卡斯帕·范·迪恩 Casper Van Dien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027344/",
+      "name": "帕特里克·茂顿 Patrick Muldoon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1229097/",
+      "name": "詹姆斯·普雷斯顿·罗杰斯 James Preston Rogers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368719/",
+      "name": "詹妮佛·温格尔 Jennifer Wenger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132099/",
+      "name": "Robert Allen Mukes Robert Allen Mukes"
+    }
+  ]
+,
+  "datePublished": "2018-11-13",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "When Virginia and her husband Jack spend a long weekend in the idyllic countryside, they encounter a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

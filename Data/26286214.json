@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "哺乳动物 Mammal",
+  "url": "/subject/26286214/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2394318823.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1181516/",
+      "name": "丽贝卡·达利 Rebecca Daly"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1181516/",
+      "name": "丽贝卡·达利 Rebecca Daly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1269762/",
+      "name": " Glenn Montgomery"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036393/",
+      "name": "瑞切尔·格里菲斯 Rachel Griffiths"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291550/",
+      "name": "迈克尔·麦克埃尔哈顿 Michael McElhatton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110974/",
+      "name": "菲尔·基欧汉 Phil Keoghan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360874/",
+      "name": "巴里·基奥恩 Barry Keoghan"
+    }
+  ]
+,
+  "datePublished": "2016-01-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H39M",
+  "description": "瑪格麗特（瑞秋格瑞菲斯飾演）喪子又離婚，在年輕遊民喬（貝瑞科漢）的身上得到親情般的慰藉，兩人的關係逐漸發展成曖昧情愫，但瑪格麗特的前夫和喬的幫派友人卻無法接受。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "658",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

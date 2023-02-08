@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "左邻右里 이웃동서",
+  "url": "/subject/26784931/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2345238893.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364472/",
+      "name": "纪大昊 Gi Dae-ho"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364153/",
+      "name": "阿里 Ah Ri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373866/",
+      "name": "李恩美 Eun-mi Lee"
+    }
+  ]
+,
+  "datePublished": "2016-05-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H21M",
+  "description": "Eun-ji and Seung-ho, Seong-sik and Joo-ran move into a neighborhood at similar times. Eun-ji is lone...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "190",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

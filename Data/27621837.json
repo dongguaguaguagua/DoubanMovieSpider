@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "致命信件 Конверт",
+  "url": "/subject/27621837/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537958013.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315739/",
+      "name": "尤利娅·别列希尔德 Юлия Пересильд	"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320637/",
+      "name": "谢尔盖·巴可夫斯基 Sergey Barkovskiy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329321/",
+      "name": "德米特里·库利奇科夫 Dmitriy Kulichkov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384013/",
+      "name": "维伦·巴比切夫 Vilen Babichev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403504/",
+      "name": "伊格尔·利森格维奇 Igor Lizengevich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460080/",
+      "name": "瓦尔瓦拉·博罗金娜 Varvara Borodina"
+    }
+  ]
+,
+  "datePublished": "2017-11-30",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H16M",
+  "description": "有人让伊戈尔送封信到一个地方，但是当他到了目的地后，诡异又神秘的事儿开始发生....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "129",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

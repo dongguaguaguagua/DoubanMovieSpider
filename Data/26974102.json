@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "中华料理师",
+  "url": "/subject/26974102/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2428389614.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380422/",
+      "name": "贾征宇 ZhengYu Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389793/",
+      "name": "郑旭东 Xudong Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374315/",
+      "name": "张旭洲 Xuzhou Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440453/",
+      "name": "黎真承 Zhencheng Li"
+    }
+  ]
+,
+  "datePublished": "2017-02-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "安小野为了撰写美食记《大食代》，找到了隐居在神不归美食街的谭一凡，想要采访他，并且请他帮忙。某天何世龙出现在了陆凡的餐馆内，想要和他一决高下。陆凡各种戏耍何世龙，不和他比试厨艺，何一气之下准备留在餐馆...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

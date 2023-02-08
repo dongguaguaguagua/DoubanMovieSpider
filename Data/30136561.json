@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "名将之后",
+  "url": "/subject/30136561/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2512453602.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388338/",
+      "name": "李金林 Jinlin Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388339/",
+      "name": "杨勇 Yong Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357850/",
+      "name": "李世宏 Shihong Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388340/",
+      "name": "关飞扬 Feiyang Guan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388341/",
+      "name": "陈嘉铭 Jiaming Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388342/",
+      "name": "杨致远 Zhiyuan Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388343/",
+      "name": "蔚岩峰 Yanfeng Wei"
+    }
+  ]
+,
+  "datePublished": "2018-02-17",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5"],
+  "duration": "PT1H30M",
+  "description": "帝王之乡小胖遭同是留守儿童的大个石磊欺负，毛蛋相传岳飞的后人，出头复仇未果反被羞辱，为争一口英雄气节，毛蛋，小胖王福三人篝火结拜，私密铸枪，起誓要教训石磊，后来不但“大事”未成，伙伴王福也被妈妈接走，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "躲在灯光下 Hide in the Light",
+  "url": "/subject/27002739/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2449977970.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1266524/",
+      "name": "钱德勒·马西 Chandler Massey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1103776/",
+      "name": "杰西·詹姆斯 Jesse James"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1170587/",
+      "name": "Clayton Snyder Clayton Snyder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108772/",
+      "name": "大卫·卡耶 David Kaye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472739/",
+      "name": "Matilda Gregor Matilda Gregor"
+    }
+  ]
+,
+  "datePublished": "2016-10-31",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H18M",
+  "description": "An adventurous group of friends dare to break into the abandoned orphanage and quickly find themselv...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

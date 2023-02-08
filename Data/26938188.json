@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爹地",
+  "url": "/subject/26938188/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2524718080.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357958/",
+      "name": "潘婷 Ting Pan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357958/",
+      "name": "潘婷 Ting Pan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365180/",
+      "name": "李嘉文 Jiawen Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396506/",
+      "name": "韩昊霖 Haolin Han"
+    }
+  ]
+,
+  "datePublished": "2018-06-16",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H58M",
+  "description": "该影片讲述了住在钢铁厂旧家属楼的飞哥（李嘉文饰演）以街头卖唱为生，独自照顾着性格内向、不爱说话的儿子六弟（韩昊霖饰演）。由于飞哥没有婚史，六弟的户口只能挂在表哥名下。这年六弟七岁，飞哥查出自己已经癌症...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1071",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

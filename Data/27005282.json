@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "游牧民 노마드",
+  "url": "/subject/27005282/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456590710.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366939/",
+      "name": "白秀章 Soo-Jang Baek"
+    }
+  ]
+,
+  "datePublished": "2017-04-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H10M",
+  "description": "In a city that awaits development projects, Donggu, an independent filmmaker is bothered with his un...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乔拉 10 号 Jora 10 Numbaria",
+  "url": "/subject/30379206/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2539969286.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053592/",
+      "name": "达尔门德拉 Dharmendra"
+    }
+  ]
+,
+  "datePublished": "2017-09-01",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT2H15M",
+  "description": "由于童年创伤和腐败不公的制度，一名年轻人转变成了冷血无情的匪徒。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

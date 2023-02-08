@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恋恋那年",
+  "url": "/subject/26921867/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2400254333.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420243/",
+      "name": "苏梦涵 Menghan Su"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420243/",
+      "name": "苏梦涵 Menghan Su"
+    }
+  ]
+,
+  "datePublished": "2016-12-13",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H20M",
+  "description": "本片围绕安小溪和霍无畏、魏子琪三人之间的情感纠葛。安小溪喜欢魏子琪几年来都只是在远处默默的观望。霍无谓喜欢安小溪并追随他来到同一班，他很清楚安小溪喜欢的是魏子琪，所以他也只是在默默的关注着安小溪。魏子...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

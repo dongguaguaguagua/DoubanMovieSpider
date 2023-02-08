@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "基伯龙三日 3 Tage in Quiberon",
+  "url": "/subject/27737950/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516145559.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387281/",
+      "name": "艾米莉·阿特夫 Emily Atef"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387281/",
+      "name": "艾米莉·阿特夫 Emily Atef"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076784/",
+      "name": "玛丽·博伊默 Marie Bäumer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000663/",
+      "name": "比吉特·米尼希迈尔 Birgit Minichmayr"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1201328/",
+      "name": "查理·哈纳 Charly Hübner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1092389/",
+      "name": "罗伯特·格维斯戴克 Robert Gwisdek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019240/",
+      "name": "德尼·拉旺 Denis Lavant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007197/",
+      "name": "克里斯托弗·布赫霍尔茨 Christopher Buchholz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341743/",
+      "name": "薇姬·克里普斯 Vicky Krieps"
+    }
+  ]
+,
+  "datePublished": "2018-02-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H55M",
+  "description": "讲述德国传奇女星罗密·施奈德1981年在疗养院接受人生最后一次媒体采访的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "980",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

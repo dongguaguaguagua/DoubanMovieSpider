@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "喋血双龙",
+  "url": "/subject/30259842/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526544238.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391914/",
+      "name": "高成岗 Chenggang Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420574/",
+      "name": "曾嘉 Jia Zeng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332806/",
+      "name": "刘峰超 Fengchao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337599/",
+      "name": "苏濛濛 Mengmeng Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319823/",
+      "name": "赵晓明 Xiaoming Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313972/",
+      "name": "李槐龙 Huailong Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429057/",
+      "name": "赵千敬 Qianjing Zhao"
+    }
+  ]
+,
+  "datePublished": "2018-08-14",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H29M",
+  "description": "民国初年，马如龙赴边关双龙镇就任治安队队长，发现当地官商勾结，荼毒百姓。一身正气的马如龙决心除暴安良，在遭遇种种磨难后，与幡然醒悟的杀手齐大川合作，击毙幕后黑手，并将贪官绳之以法",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

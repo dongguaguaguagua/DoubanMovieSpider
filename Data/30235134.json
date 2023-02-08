@@ -1,0 +1,107 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "细思极恐",
+  "url": "/subject/30235134/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523632181.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394332/",
+      "name": "张跃斌 Yuebin Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394332/",
+      "name": "张跃斌 Yuebin Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1178533/",
+      "name": "韩素媛 So-won Ham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364829/",
+      "name": "蓝波 Lanbo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394380/",
+      "name": "庞贝童 Beitong Pang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394381/",
+      "name": "曹菡 Han Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358119/",
+      "name": "徐子力 Zili Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363815/",
+      "name": "江森 Sen Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384695/",
+      "name": "王艺明 Yiming Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394382/",
+      "name": "耿阳 Yang Geng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394383/",
+      "name": "周峰 Feng Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363838/",
+      "name": "邓刚 Gang Deng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417789/",
+      "name": "蓝波儿 Lambert H"
+    }
+  ]
+,
+  "datePublished": "2018-07-06",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H32M",
+  "description": "本片根据著名的香港高街死亡地下车库灵异事件改编。
+一幢老旧的大厦的地下车库经常出现各种恐怖事件，车库内已拔出钥匙熄火的车却突然失控撞死车主，原来停在此车位上的车连带其内的一对情侣自此失踪，天坑里也没有...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "663",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.4"
+  }
+}

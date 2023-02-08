@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "消失的尸体 The Body",
+  "url": "/subject/33395014/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2576493611.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353921/",
+      "name": "吉图·乔瑟夫 Jeethu Joseph"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323799/",
+      "name": "奥里奥尔·保罗 Oriol Paulo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328822/",
+      "name": "拉拉·森迪姆 Lara Sendim"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189752/",
+      "name": "埃朗·哈斯米 Emraan Hashmi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050067/",
+      "name": "里希·卡普尔 Rishi Kapoor"
+    }
+  ]
+,
+  "datePublished": "2019-12-13",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT2H0M",
+  "description": "改编自2012年西班牙悬疑剧《女尸迷案》。
+10年前的某夜，两辆汽车发生肇事后，一辆车将另外一辆车撞下悬崖。
+10年后，霸道有钱的女高管，从美国回来当天心脏病突发死亡，结果当晚尸体在殡仪馆失踪。赶来的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "926",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

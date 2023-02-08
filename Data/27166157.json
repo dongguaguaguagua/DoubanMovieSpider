@@ -1,0 +1,55 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "莫霍克人 Mohawk",
+  "url": "/subject/27166157/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2501474162.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328818/",
+      "name": "卡内赫迪奥·霍恩 Kaniehtiio Horn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329814/",
+      "name": "埃蒙·法伦 Eamon Farren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027909/",
+      "name": "诺阿·西甘 Noah Segan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391953/",
+      "name": "贾斯汀·雷恩 Justin Rain"
+    }
+  ]
+,
+  "datePublished": "2017-07-15",
+  "genre": ["\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "PT1H31M",
+  "description": "《莫霍克人》立意为历史剧，发生于1812年第二次独立战争接近尾声之时，但随着美国原罪在眼前展开，由此产生的神秘色彩和恐怖效应让这部影片真正成了令人毛骨悚然之作。
+泰德·纪勤（执导《我们依然在这》）作为...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

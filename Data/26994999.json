@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迷情记 National Theatre Live: Obsession",
+  "url": "/subject/26994999/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455728944.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352880/",
+      "name": "伊沃·凡·霍夫 Ivo van Hove"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010510/",
+      "name": "裘德·洛 Jude Law"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1231719/",
+      "name": "罗伯特·德·霍格 Robert de Hoog"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040800/",
+      "name": "哈里纳·雷金 Halina Reijn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1145414/",
+      "name": "吉斯·舒尔腾·范·艾查特 Gijs Scholten van Aschat"
+    }
+  ]
+,
+  "datePublished": "2017-05-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Jude Law (The Young Pope, Closer, The Talented Mr Ripley) stars in the stage production of Obsession...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "215",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

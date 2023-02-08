@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯狂旅程",
+  "url": "/subject/26873727/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499508317.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380144/",
+      "name": "龙野 Ye Long"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368640/",
+      "name": "郑海文 Haiwen Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380145/",
+      "name": "张庆东 Qingdong Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380146/",
+      "name": "宫庆山 Qingshan Gong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358738/",
+      "name": "刘亮 Liang Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358740/",
+      "name": "白鸽 Ge Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380147/",
+      "name": "陆进 Jin Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358506/",
+      "name": "关思慧 Sihui Guan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380148/",
+      "name": "徐广明 Guangming Xu"
+    }
+  ]
+,
+  "datePublished": "2017-09-22",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "主人公袁潮所在的大成电商公司因经营不善欠下高利贷，被山哥追讨。得知金冠集团在公开招标，大成和袁潮决定抓住这颗救命稻草还债，金董事长让海外归来的女儿美儿留下考察大成电商公司，自己则带着母亲去天池朝圣，袁...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

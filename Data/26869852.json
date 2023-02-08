@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "铁岭老炮儿",
+  "url": "/subject/26869852/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2378498800.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352979/",
+      "name": "王大帅 WangDaShuai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389583/",
+      "name": "刘谦 Qian Liu"
+    }
+  ]
+,
+  "datePublished": "2016-09-08",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u7231\u60c5", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H38M",
+  "description": "一个现实版老炮儿的故事，从光辉岁月到英雄迟暮，从昔日仇家到儿女情长，这一切都有效地强化了暗潮涌动的江湖氛围。影片将于明日上线，并发布了老炮儿版海报，江湖气息十足。
+一个只想做好父亲的简单愿望   一个...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

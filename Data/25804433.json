@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "华服难为 The Impossible Suit",
+  "url": "/subject/25804433/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031749/",
+      "name": "胡里奥·密谭 Julio Medem"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1273618/",
+      "name": " Pablo Gomez-Castro"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Amidst the social unrest of May 1968, the legendary rivalry between Coco Chanel and Spanish fashion ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

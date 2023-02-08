@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "凶宅惊魂 Apartment 212",
+  "url": "/subject/30162568/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2515587268.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006069/",
+      "name": "Haylar Garcia Haylar Garcia"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006069/",
+      "name": "Haylar Garcia Haylar Garcia"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328651/",
+      "name": "佩内洛普·米契尔 Penelope Mitchell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041245/",
+      "name": "莎莉·柯克兰德 Sally Kirkland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050080/",
+      "name": "克里斯·约翰逊 Chris Johnson"
+    }
+  ]
+,
+  "datePublished": "2017-03-16",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H37M",
+  "description": "Jennifer Conrad is a small-town girl starting over in the big city. Fleeing an abusive relationship,...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "200",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

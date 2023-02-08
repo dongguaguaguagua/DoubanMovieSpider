@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "666号航班 Flight 666",
+  "url": "/subject/30220721/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522011804.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418727/",
+      "name": "罗布·帕拉廷 Rob Pallatina"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172668/",
+      "name": "雅各布·库尼 Jacob Cooney"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379234/",
+      "name": "蕾妮·威利特 Renée Willett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116116/",
+      "name": "保罗·罗根 Paul Logan"
+    }
+  ]
+,
+  "datePublished": "2018-05-29",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H29M",
+  "description": "Passengers and crew on a flight are attacked by unseen forces that threaten all aboard.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "509",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱琳 Benzinho",
+  "url": "/subject/27611432/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2511163751.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421552/",
+      "name": "古斯塔沃·皮兹 Gustavo Pizzi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421552/",
+      "name": "古斯塔沃·皮兹 Gustavo Pizzi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354652/",
+      "name": "卡林·特莱斯 Karine Teles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1089550/",
+      "name": "阿德丽安娜·埃斯特维斯 Adriana Esteves"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1212955/",
+      "name": "马德伍斯·索兰诺 Mateus Solano"
+    }
+  ]
+,
+  "datePublished": "2018-01-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "38岁的爱琳(卡林·特莱斯 Karine Teles饰)和45岁克劳斯(奥塔维奥·穆勒Otávio Müller饰)是一对夫妻。他们在里约州郊区的一个叫彼得罗波利斯(Petrópolis)的小城市生活...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "153",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

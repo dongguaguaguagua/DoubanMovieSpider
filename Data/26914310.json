@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杰克与麻豆 Stoner Express",
+  "url": "/subject/26914310/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456960940.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335482/",
+      "name": "希恩·鲍尔 Sean Power"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337097/",
+      "name": "伊琳·珀威尔 Eline Powell"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Jack 到 Amsterdam 來尋找久未見面的爸爸。找到後，發現爸爸的咖啡廳已經搖搖欲墜，可能馬上就要關門大吉了。父子兩個必須團結起來改變這個糟糕的情況。他們開啓了體驗Amsterdam 的魔幻之...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

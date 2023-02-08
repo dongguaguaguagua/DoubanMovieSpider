@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "还魂砂",
+  "url": "/subject/30328609/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2535364301.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336346/",
+      "name": "徐超 Chao Xu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323940/",
+      "name": "李广斌 Guangbin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329886/",
+      "name": "刘婧 Jing Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353432/",
+      "name": "何李宁 Lining He"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "龙重九与柳非春在行医途中，柳非春生病，龙重九打算送她去她姨夫家休养，路上巧遇京城的郎中朋友去喝喜酒，新郎白依山也是龙重九故交，便决定一起讨杯喜酒喝。到了喜宴，白依山答应婚礼后给龙重九展示自己研发的新药...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

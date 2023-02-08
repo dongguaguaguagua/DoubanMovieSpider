@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "请点赞 좋아해줘",
+  "url": "/subject/26340302/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2306039647.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354949/",
+      "name": "朴贤真 Hyeon-jin Park"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328269/",
+      "name": "刘英雅 Yeong-ah Yoo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1246859/",
+      "name": "刘亚仁 Ah-in Yoo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018604/",
+      "name": "崔智友 Ji-Woo Choi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322386/",
+      "name": "李絮 Esom E."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330012/",
+      "name": "姜河那 Ha-neul Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029145/",
+      "name": "金柱赫 Joo-hyuk Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029067/",
+      "name": "李美妍 Mi-yeon Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356030/",
+      "name": "李姃垠 Jung-eun Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1227387/",
+      "name": "朴信惠 Shin-hye Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275950/",
+      "name": "河锡辰 Ha Seok Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326420/",
+      "name": "朴喜本 Hee-bon Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377761/",
+      "name": "池允浩 Ji Yoon-ho"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384491/",
+      "name": "韩在英 Jae-young Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377195/",
+      "name": "许政度 Jeong-do Heo"
+    }
+  ]
+,
+  "datePublished": "2016-02-17",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT2H0M",
+  "description": "《请点赞》围绕三对男女讲述了发生在社交网络和现实生活中的爱情故事。韩文中的“点赞”同时有“喜欢”之意。而片中的三段爱情故事都是由“点赞”这样一个简单的动作发展而来的。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "7120",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

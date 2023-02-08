@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死于萨拉热窝 Smrt u Sarajevu",
+  "url": "/subject/26706064/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2319918457.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032391/",
+      "name": "丹尼斯·塔诺维奇 Danis Tanovic"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042320/",
+      "name": "伯纳德·亨利·莱维 Bernard-Henri Lévy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032391/",
+      "name": "丹尼斯·塔诺维奇 Danis Tanovic"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050720/",
+      "name": "雅各布·韦伯 Jacques Weber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356263/",
+      "name": "斯内扎娜·马尔科维奇 Snezana Markovic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1056815/",
+      "name": "伊兹丁·巴乔维奇 Izudin Bajrovic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356264/",
+      "name": "韦德拉娜·塞克桑 Vedrana Seksan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1230398/",
+      "name": "穆罕默德·哈扎维奇 Muhamed Hadzovic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356265/",
+      "name": "埃丁·阿夫达吉奇·科亚 Edin Avdagic Koja"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356266/",
+      "name": "法克特·萨利赫贝戈维奇 Faketa Salihbegovic"
+    }
+  ]
+,
+  "datePublished": "2016-02-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "萨拉热窝，2014年6月28日。在全市最好的酒店——欧罗巴酒店，经理奥马尔(Omer)正在准备迎接一个VIP外交代表团。正值萨拉热窝事件一百周年纪念，和平共处、互相理解的诉求应该从这座城市出发。然而酒...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "661",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

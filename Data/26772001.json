@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新警界双雄 Dishoom",
+  "url": "/subject/26772001/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2370879482.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036581/",
+      "name": "约翰·亚伯拉罕 John Abraham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018310/",
+      "name": "杰奎琳·费南德斯 Jaqueline Fernandes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325014/",
+      "name": "瓦伦·达万 Varun Dhawan"
+    }
+  ]
+,
+  "datePublished": "2016-07-29",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "Viraj是印度板球队的顶级击球手，在即将与巴基斯坦对决的半球决赛前，在中东某国突然失踪，这意味着印度板球队极有可能在决赛中失利。印度女总理极为重视，亲自与中东该国领导电话联系，要求派印度的王牌警察K...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "300",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

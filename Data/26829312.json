@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小子布里斯3 Brice de Nice 3",
+  "url": "/subject/26829312/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2364155939.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287220/",
+      "name": "詹姆斯·胡特 James Huth"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287220/",
+      "name": "詹姆斯·胡特 James Huth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018213/",
+      "name": "让·杜雅尔丹 Jean Dujardin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440589/",
+      "name": "克里斯托夫·杜图隆 Christophe Duthuron"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018213/",
+      "name": "让·杜雅尔丹 Jean Dujardin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025366/",
+      "name": "克洛维斯·科尔尼亚克 Clovis Cornillac"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440587/",
+      "name": "梅里安·马卡吉 Méliane Marcaggi"
+    }
+  ]
+,
+  "datePublished": "2016-10-19",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "55",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

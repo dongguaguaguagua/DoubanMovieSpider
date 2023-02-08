@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "热血女主播",
+  "url": "/subject/26946480/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2460438730.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325761/",
+      "name": "王海 Hai Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325761/",
+      "name": "王海 Hai Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320578/",
+      "name": "付然 Ran Fu "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363833/",
+      "name": "仁龙 Long Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323037/",
+      "name": "宣言 Yan Xuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313512/",
+      "name": "马书良 Shuliang Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316331/",
+      "name": "田雨 Yu Tian"
+    }
+  ]
+,
+  "datePublished": "2017-07-09",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H10M",
+  "description": "火爆直播界的新晋女网红花爷，人美，个性强。她淋漓尽致地在自己的直播空间向大众传递运动带来的各种魅力。她涉及的运动门类繁多，每一种都能玩得有模有样——篮球、健身、跆拳道、瑜伽、格斗、舞蹈、游泳、跑步、登...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

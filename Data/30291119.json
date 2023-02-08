@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "槐秋",
+  "url": "/subject/30291119/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2549251110.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403396/",
+      "name": "张飞鸿 Zhang feihong"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313873/",
+      "name": "杜旭东 Xudong Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354665/",
+      "name": "郭九龙 Jiulong Guo"
+    }
+  ]
+,
+  "datePublished": "2017-08-05",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H28M",
+  "description": "80年代末期，生活在宁夏矿区的小两口陈志平（张多饰）和周淑萍（卢珊饰）过着平凡又安宁的生活。但嗜赌如命的大伯哥（杜旭东饰）被人追债追到家里，紧接着父亲（郭九龙饰）被气死、母亲（刘爱玲饰）被逼疯、就连陈...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

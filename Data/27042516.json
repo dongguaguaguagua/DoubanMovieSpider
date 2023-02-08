@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Twice Shy",
+  "url": "/subject/27042516/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503854558.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027541/",
+      "name": "阿道·欧汉隆 Ardal O&#39;Hanlon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000694/",
+      "name": "保罗·罗南 Paul Ronan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037327/",
+      "name": "帕特·绍特 Pat Shortt"
+    }
+  ]
+,
+  "datePublished": "2016-07-08",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H21M",
+  "description": "Featuring Ardal O’Hanlonand Pat Shortt, the film follows the journey of a young couple played by Sha...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

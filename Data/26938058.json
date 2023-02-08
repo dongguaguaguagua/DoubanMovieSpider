@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "噢，露西！ Oh Lucy!",
+  "url": "/subject/26938058/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512484629.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340431/",
+      "name": "平柳敦子 Atsuko Hirayanagi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340431/",
+      "name": "平柳敦子 Atsuko Hirayanagi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042386/",
+      "name": "鲍里斯·弗鲁明 Boris Frumin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014742/",
+      "name": "寺岛忍 Shinobu Terajima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025145/",
+      "name": "乔什·哈奈特 Josh Hartnett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005233/",
+      "name": "南果步 Kaho Minami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165478/",
+      "name": "役所广司 Kôji Yakusho"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275349/",
+      "name": "忽那汐里 Kutsuna Shiori"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040550/",
+      "name": "梅根·莫拉莉 Megan Mullally"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036514/",
+      "name": "蕾可·艾尔丝沃斯 Reiko Aylesworth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380307/",
+      "name": "井上肇 Hajime Inoue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274178/",
+      "name": "卡尔文·C·温布什 Calvin C. Winbush"
+    }
+  ]
+,
+  "datePublished": "2017-05-22",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "影片根据同名短片改编，寺岛忍扮演一位不再年轻、孤独、爱抽烟的东京职业女性节子，为了改变现状，在侄女美花的建议之下，报名了一个英文课程。来自美国的英文老师约翰让节子戴上金色的假发，为她取了英文名字露西。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1912",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

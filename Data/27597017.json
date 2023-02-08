@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "VR嫌疑人",
+  "url": "/subject/27597017/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2627838325.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419044/",
+      "name": "王怀民 Huaimin Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321640/",
+      "name": "孔小铭 Xiaoming Kong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336521/",
+      "name": "冯静恩 Jing&#39;en Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363637/",
+      "name": "刘浩闻 Haowen Liu"
+    }
+  ]
+,
+  "datePublished": "2017-11-28",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591", "\u5192\u9669"],
+  "duration": "PT1H17M",
+  "description": "游戏公司高管秦莉带头研发了一款真实感强悍的VR游戏，不料却遭遇到未知黑客的恶意攻击。游戏在测试阶段就状况频出，游戏测试员李可更是在测试时意外昏迷。面对潜在的安全风险，公司主管姜经理决定停掉游戏开发并且...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

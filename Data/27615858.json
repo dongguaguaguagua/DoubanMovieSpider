@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "闽赣风云",
+  "url": "/subject/27615858/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2667250136.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274733/",
+      "name": "安战军 Zhanjun An"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327765/",
+      "name": "沙颂 Song Sha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274733/",
+      "name": "安战军 Zhanjun An"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323915/",
+      "name": "王鹏凯 Pengkai Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344540/",
+      "name": "郑中玉 Zhongyu Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387353/",
+      "name": "张小帅 Xiaoshuai Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314469/",
+      "name": "刘彦卿 Yanqing Liu"
+    }
+  ]
+,
+  "datePublished": "2017-12-26",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H38M",
+  "description": "毛泽东下井冈山后，经过二月来信、赣南会议、宁都会议三次被排挤直至解除兵权，在他人生最低谷的时候，不计个人得失，一次次挽救红军和中央苏区，他不辞辛劳在寻乌、长冈、才溪调查研究，终于为革命的胜利指出方向。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

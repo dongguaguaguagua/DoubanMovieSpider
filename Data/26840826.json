@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猎魂",
+  "url": "/subject/26840826/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2369136124.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319252/",
+      "name": "张林子 Linzi Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323037/",
+      "name": "宣言 Yan Xuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357217/",
+      "name": "隋雨蒙 Yumeng Sui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316046/",
+      "name": "周浩东 Haodong Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361367/",
+      "name": "子望 Zi Wang"
+    }
+  ]
+,
+  "datePublished": "2016-07-21",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H27M",
+  "description": "影片《猎魂》的故事从一起车祸展开，伤者被送往医院之后引出了医院中的一系列事件，阴森的医院，恐怖的标本室，突然停电的夜晚，牵扯出由二十年前展开的一件诡异之事。每个人看起来都十分普通，每个人的心中仿佛都暗...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

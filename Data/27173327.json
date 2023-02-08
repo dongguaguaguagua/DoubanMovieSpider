@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乒乓",
+  "url": "/subject/27173327/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2502437435.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395821/",
+      "name": "简学彬 Shiue Bin Jian"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395823/",
+      "name": "张智昇 Chih Sheng Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395822/",
+      "name": "黄新高 Shin Gau Huang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275665/",
+      "name": "吴慷仁 Kang Ren Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334547/",
+      "name": "李依瑾 Jean Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360532/",
+      "name": "蓝苇华 Wei-Hua Lan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324940/",
+      "name": "张书伟 Joe Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395824/",
+      "name": "洪于晴 Yu-Ching Hung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395820/",
+      "name": "林筳谕 Ruby Lin"
+    }
+  ]
+,
+  "datePublished": "2017-10-15",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H45M",
+  "description": "台灣偏鄉發生一起中學生命案，死狀駭人，與當地流傳已久的靈異傳說相符，引發村民恐慌。桌球隊教練方毅（吳慷仁飾）一向嚴厲帶人，備受非議，女督學程俐（李依瑾飾）對他進行調查。
+方毅和程俐都不相信靈異之說，決...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "183",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

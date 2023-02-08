@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不速星客 The Recall",
+  "url": "/subject/26981173/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2458543362.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278995/",
+      "name": "Mauro Borrelli Mauro Borrelli"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278995/",
+      "name": "Mauro Borrelli Mauro Borrelli"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315753/",
+      "name": "RJ·米特 RJ Mitte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022591/",
+      "name": "韦斯利·斯奈普斯 Wesley Snipes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349336/",
+      "name": "杰迪代亚·古达克 Jedidiah Goodacre"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344160/",
+      "name": "尼克· 佩帕 Niko Pepaj"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000486/",
+      "name": "维斯勒·夏农 Vicellous Shannon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1175892/",
+      "name": "格拉汉姆·谢尔斯 Graham Shiels"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421665/",
+      "name": "劳拉·比尔格利 Laura Bilgeri"
+    }
+  ]
+,
+  "datePublished": "2017-06-02",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "当五个朋友在一个偏远的湖畔度假时，他们期待着一个不错的时光，不知道地球正在遭受外星人入侵和大规模绑架。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "492",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

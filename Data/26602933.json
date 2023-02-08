@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绑架者",
+  "url": "/subject/26602933/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2445601403.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000571/",
+      "name": "徐静蕾 Jinglei Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275531/",
+      "name": "杨翌舒 Yishu Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000571/",
+      "name": "徐静蕾 Jinglei Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275531/",
+      "name": "杨翌舒 Yishu Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275542/",
+      "name": "白百何 Baihe Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275466/",
+      "name": "黄立行 Stanley Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312782/",
+      "name": "明道 Ming Dow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316450/",
+      "name": "李淳 Mason Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345944/",
+      "name": "李玖哲 Nicky Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000571/",
+      "name": "徐静蕾 Jinglei Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1222588/",
+      "name": "梁天 Tian Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350411/",
+      "name": "孙阳 Yang Sun"
+    }
+  ]
+,
+  "datePublished": "2017-03-31",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H35M",
+  "description": "重案组警察林薇（白百何 饰）的女儿突然失踪，唯一嫌疑人杨念（黄立行 饰）却在案发当夜横遭车祸并失去记忆。在追踪线索和回忆的逃亡路上，杨念不断遭人暗杀，一心找回女儿的林薇也不惜代价对他步步紧追，重案组组...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "34841",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

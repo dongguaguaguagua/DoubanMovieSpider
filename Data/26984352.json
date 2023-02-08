@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "综艺小白和三栖巨腕",
+  "url": "/subject/26984352/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497242357.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379516/",
+      "name": "侯国涛 Guotao Hou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358360/",
+      "name": "陈未衾 C.Y.Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365411/",
+      "name": "潘子剑 Zijian Pan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358359/",
+      "name": "叶小开 Xiaokai Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352383/",
+      "name": "孙晨 Chen Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399087/",
+      "name": "陈孝良 Xiaoliang Chen"
+    }
+  ]
+,
+  "datePublished": "2018-11-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H12M",
+  "description": "改编自酥油饼同名小说的电影《综艺小白和三栖巨腕》即将上线，该片由90后美女导演李坤忆倾力执导，ysgou.cc主要讲述了在水深火热的“娱乐圈”中，小白兔遇到大灰狼的浪漫爱情故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

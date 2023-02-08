@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜莺 The Nightingale",
+  "url": "/subject/26389173/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2557435425.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345480/",
+      "name": "詹妮弗·肯特 Jennifer Kent"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345480/",
+      "name": "詹妮弗·肯特 Jennifer Kent"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010617/",
+      "name": "山姆·克拉弗林 Sam Claflin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354532/",
+      "name": "艾斯琳·弗兰乔茜 Aisling Franciosi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1098686/",
+      "name": "达蒙·海瑞曼 Damon Herriman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1204255/",
+      "name": "伊文·莱斯利 Ewen Leslie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363353/",
+      "name": "查理·肖特韦尔 Charlie Shotwell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303273/",
+      "name": "纳撒尼尔·迪安 Nathaniel Dean"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349536/",
+      "name": "哈里·格林伍德 Harry Greenwood"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298657/",
+      "name": "马修·桑德兰 Matthew Sunderland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400480/",
+      "name": "贝卡利·加纳巴尔 Baykali Ganambarr"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425301/",
+      "name": "麦克·西斯比 Michael Sheasby"
+    }
+  ]
+,
+  "datePublished": "2018-09-06",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u5192\u9669"],
+  "duration": "PT2H16M",
+  "description": "影片获得威尼斯电影节评审团特别奖和新锐演员奖。讲述1920年代塔斯马尼亚岛的一名21岁爱尔兰囚犯克莱尔被判7年徒刑，她非常渴望摆脱虐待她的主人霍金斯中尉，而后者拒绝释放克莱尔。克莱尔的丈夫艾丹进行了报...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1609",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猫和老鼠：回到奥兹 Tom &amp; Jerry: Back to Oz",
+  "url": "/subject/26883655/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2385004248.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279189/",
+      "name": "史派克·布兰特 Spike Brandt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280366/",
+      "name": "托尼·塞沃恩 Tony Cervone"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279189/",
+      "name": "史派克·布兰特 Spike Brandt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023174/",
+      "name": "保罗·迪尼 Paul Dini"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1086522/",
+      "name": "格蕾·德丽斯勒 Grey DeLisle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027843/",
+      "name": "杰森·亚历山大 Jason Alexander"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356387/",
+      "name": "艾米·彭伯顿 Amy Pemberton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1059676/",
+      "name": "乔·阿拉斯奇 Joe Alaskey"
+    }
+  ]
+,
+  "datePublished": "2016-06-21",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H21M",
+  "description": "With the Wicked Witch of the West now vanquished from Oz, Tom and Jerry along with Dorothy are back ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "639",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

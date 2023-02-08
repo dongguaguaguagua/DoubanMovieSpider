@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迪亚曼蒂诺 Diamantino",
+  "url": "/subject/27622761/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2552517643.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332501/",
+      "name": "加布里埃尔·阿布兰特斯 Gabriel Abrantes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332500/",
+      "name": "丹尼尔·施密特 Daniel Schmidt"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332501/",
+      "name": "加布里埃尔·阿布兰特斯 Gabriel Abrantes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332500/",
+      "name": "丹尼尔·施密特 Daniel Schmidt"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327553/",
+      "name": "卡里托·科塔 Carloto Cotta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184356/",
+      "name": "安娜贝拉·莫雷拉 Anabela Moreira"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116831/",
+      "name": "卡拉·马舍尔 Carla Maciel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356568/",
+      "name": "奇科查帕斯 Chico Chapas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363582/",
+      "name": "Filipe Vargas Filipe Vargas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1169671/",
+      "name": "Manuela Moura Guedes Manuela Moura Guedes"
+    }
+  ]
+,
+  "datePublished": "2018-05-11",
+  "genre": ["\u559c\u5267", "\u5947\u5e7b"],
+  "duration": "PT1H32M",
+  "description": "顶级球星D罗有著钻石般帅气的面孔、健美的肌肉以及炫目的球技。被封为天才金童的他，个性耿直、心思纯洁，驰骋球场时总能专注沉浸无我境界，在关键时刻破网进球。然而，在他意外错失了世界杯决赛的致胜球后，一切竟...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "502",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "老鬼当家 Le fantôme de Canterville",
+  "url": "/subject/26771863/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2333383001.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018336/",
+      "name": "杨·塞谬尔 Yann Samuell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018336/",
+      "name": "杨·塞谬尔 Yann Samuell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027987/",
+      "name": "奥斯卡·王尔德 Oscar Wilde"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317872/",
+      "name": "奥德雷·弗勒罗 Audrey Fleurot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036804/",
+      "name": "迈克尔·扬 Michaël Youn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019162/",
+      "name": "米歇尔·拉罗克 Michèle Laroque"
+    }
+  ]
+,
+  "datePublished": "2016-04-06",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "Au fin fond d&#39;une Bretagne de légendes, le fantôme d&#39;Aliénor de Canterville est condamné à hanter le...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

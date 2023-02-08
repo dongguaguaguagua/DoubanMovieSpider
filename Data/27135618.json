@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "时光理发 時光理髮",
+  "url": "/subject/27135618/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2498802903.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319715/",
+      "name": "岑珈其 Kaki Sham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371987/",
+      "name": "梁雍婷 Rachel Leung"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "人據說一生最多有十萬條頭髮，每一條頭髮質感長度有異，但都承載著煩惱的回憶。「時光理髮」剪掉的不只是頭髮，還有街坊不快的記憶。行將式微的舊式廣東理髮店店主海泉叔指望兒子長發繼承衣缽，不過兒子卻更想當文青...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

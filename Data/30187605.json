@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Pup: Sleep in the Heat",
+  "url": "/subject/30187605/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359349/",
+      "name": "菲恩·伍法德 Finn Wolfhard"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u97f3\u4e50"],
+  "duration": "",
+  "description": "A journey of a homeless boy, his dog and his bandmates.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

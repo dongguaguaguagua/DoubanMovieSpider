@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "记者 Le correspondant",
+  "url": "/subject/26864384/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2376991576.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423280/",
+      "name": "Frédéric Scotlande Frédéric Scotlande"
+    }
+  ]
+,
+  "datePublished": "2016-08-24",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H26M",
+  "description": "Malo et Stéphane sont deux lycéens un peu loosers, tout juste débarqués du collège. Leur plan pour d...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

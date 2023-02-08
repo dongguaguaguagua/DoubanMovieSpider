@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Guy Who Didn&#39;t Like Musicals",
+  "url": "/subject/30442649/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546266744.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1105013/",
+      "name": "Nick Lang Nick Lang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381968/",
+      "name": "Matt Lang Matt Lang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1105013/",
+      "name": "Nick Lang Nick Lang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-12-23",
+  "genre": ["\u559c\u5267", "\u6b4c\u821e"],
+  "duration": "PT1H52M",
+  "description": "Paul is an average guy. He likes movies, and pizza, and average guy things. He does not like - music...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "199",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.2"
+  }
+}

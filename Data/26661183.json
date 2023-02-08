@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "抢红",
+  "url": "/subject/26661183/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2458368616.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036978/",
+      "name": "黎明 Leon Lai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350309/",
+      "name": "毕成功 Chenggong Bi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036978/",
+      "name": "黎明 Leon Lai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274319/",
+      "name": "张涵予 Hanyu Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036978/",
+      "name": "黎明 Leon Lai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316330/",
+      "name": "王耀庆 David Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323516/",
+      "name": "杜鹃 Juan Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363931/",
+      "name": "南伏龙 Fulong Nan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330444/",
+      "name": "黄尚禾 Shang-Ho Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344838/",
+      "name": "吉丽 Lily Ji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1217486/",
+      "name": "苍井空 Sola Aoi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406131/",
+      "name": "张雨晴 Yuqing Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331721/",
+      "name": "边程 Cheng Bian"
+    }
+  ]
+,
+  "datePublished": "2017-05-19",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H30M",
+  "description": "朝不保夕的司机张水（张涵予 饰），受上司方长方（王耀庆 饰）利诱，答应亲赴法国邀请义弟韦力（黎明 饰）帮忙参加天价红酒的竞拍。张水谎称为国家执行秘密任务骗得韦力的信任，一同前往品酒大会。拍卖现场，张水...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "7475",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

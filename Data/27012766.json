@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "旗帜 kodi",
+  "url": "/subject/27012766/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2461538285.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1219536/",
+      "name": "丹努什 Dhanush"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1222381/",
+      "name": "特丽莎·克里希南 Trisha Krishnan"
+    }
+  ]
+,
+  "datePublished": "2016-10-27",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT2H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

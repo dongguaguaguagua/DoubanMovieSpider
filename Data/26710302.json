@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的黑道妹妹",
+  "url": "/subject/26710302/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2618118708.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426253/",
+      "name": "周仲 Zhong Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378171/",
+      "name": "方婧汐 StavFang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325614/",
+      "name": "郭柯彤 Ketong Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314262/",
+      "name": "梁俊一 Anson Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317811/",
+      "name": "娄淇 Qi Lou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461348/",
+      "name": "牛晓宁 Xiaoning Niu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H30M",
+  "description": "夜幕降临，一个冷冽绝艳的性感女郎翩翩起舞，妖娆的身姿后徒留下一具冰冷的尸体。 新加坡富豪孔某被杀，凶手身份不明，专案组探员梁俊率领一班探员追踪神秘的国际暗杀集团“黑暗者”。一切线索直指女杀手彤公子，警...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "90",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.8"
+  }
+}

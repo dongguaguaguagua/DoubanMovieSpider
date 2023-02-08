@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "母女姐妹淘 Larguées",
+  "url": "/subject/30201285/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2519870311.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357925/",
+      "name": "埃罗依·朗 Eloïse Lang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357925/",
+      "name": "埃罗依·朗 Eloïse Lang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348664/",
+      "name": "卡米尔·科坦 Camille Cottin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1123741/",
+      "name": "缪缪 Miou-Miou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286385/",
+      "name": "约翰·海尔登贝格 Johan Heldenbergh"
+    }
+  ]
+,
+  "datePublished": "2018-04-18",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "洛斯（卡米尔·科坦 Camille Cottin 饰）和艾米丽是情同手足的两姐妹，虽然两人的性格大相径庭，但彼此之间感情十分的要好。让姐妹两人再也没有想到的是，爸爸竟然因为外遇而抛弃了妈妈弗兰斯瓦（缪...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "127",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "情圣吸血鬼 Vampire Resurrection",
+  "url": "/subject/26952975/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2412124009.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052967/",
+      "name": "Mark Morris Mark Morris"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016", "\u5bb6\u5ead", "\u5947\u5e7b"],
+  "duration": "PT1H44M",
+  "description": "Ten year old Anne adopted by a Vampire Slayer (Wraith) kills a ruthless Vampire. 25 years later and ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

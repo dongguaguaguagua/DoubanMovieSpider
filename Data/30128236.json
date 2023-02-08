@@ -1,0 +1,49 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鱼骨头 Fish Bones",
+  "url": "/subject/30128236/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2511817408.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433522/",
+      "name": "阿娜依斯·波略特 Anais Pouliot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452257/",
+      "name": "戴维·莫拉加斯 David Moragas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470964/",
+      "name": " Cris Gris"
+    }
+  ]
+,
+  "datePublished": "2018-01-19",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H22M",
+  "description": "讲的是一个韩国模特和一个拉丁独立音乐家的故事。
+Hana, a Korean immigrant on winter break, is caught between worlds. While st...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

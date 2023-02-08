@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Montreal Dead End",
+  "url": "/subject/30257607/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2624759065.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020975/",
+      "name": "Mickael N&#39;Dour Mickael N&#39;Dour"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076321/",
+      "name": "Mirianne Brulé Mirianne Brulé"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337392/",
+      "name": "利斯·罗伊 Lise Roy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446877/",
+      "name": "贝莉·塞恩 Bailey Thain"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "À l&#39;intersection des rues St-Denis/Maisonneuve à Montréal, un nid de poule s&#39;est dangereusement agra...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

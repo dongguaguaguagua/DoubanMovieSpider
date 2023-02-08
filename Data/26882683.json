@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Ya no es antes",
+  "url": "/subject/26882683/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528933268.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007501/",
+      "name": "Lester Hamlet Lester Hamlet"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007501/",
+      "name": "Lester Hamlet Lester Hamlet"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341419/",
+      "name": "路易斯·阿尔维托·加西亚 Luis Alberto García"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "A former couple, separated since their teen-age years by immigration, meet again in Cuba four decade...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

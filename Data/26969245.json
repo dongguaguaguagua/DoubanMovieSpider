@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Attach",
+  "url": "/subject/26969245/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285166/",
+      "name": "克里斯·格拉克 Chris Gorak"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285166/",
+      "name": "克里斯·格拉克 Chris Gorak"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315631/",
+      "name": "亚历克斯·罗素 Alex Russell"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "Ariane Fraser and Delphine Perrier will kick off pre-sales in Berlin on the project from writer-dire...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

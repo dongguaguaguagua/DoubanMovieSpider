@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "明亮的夜 Helle Nächte",
+  "url": "/subject/26746856/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2478097412.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010808/",
+      "name": "托马斯·阿斯兰 Thomas Arslan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010808/",
+      "name": "托马斯·阿斯兰 Thomas Arslan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041759/",
+      "name": "格奥尔格·弗里德里希 Georg Friedrich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368247/",
+      "name": "特里斯坦·勾贝尔 Tristan Göbel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368251/",
+      "name": "玛丽·洛伊恩贝格尔 Marie Leuenberger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368256/",
+      "name": "汉娜·卡尔伯格 Hanna Karlberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393914/",
+      "name": "Aggie Peterson Aggie Peterson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393915/",
+      "name": "Frank Arne Olsen Frank Arne Olsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393916/",
+      "name": "Helle Goldman Helle Goldman"
+    }
+  ]
+,
+  "datePublished": "2017-02-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H26M",
+  "description": "建筑工程师迈克尔打算带着十四年都未曾联系的儿子路易斯去挪威参加父亲的葬礼。二人因此有了一段从未有过的独处时光，迈克尔也想借此机会弥补自己作为父亲缺席的十四年。然而，无论迈克尔怎样试图和儿子沟通都无法得...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "693",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

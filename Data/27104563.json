@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三个夏天 Three Summers",
+  "url": "/subject/27104563/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502423138.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045382/",
+      "name": "本·埃尔顿 Ben Elton"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045382/",
+      "name": "本·埃尔顿 Ben Elton"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013911/",
+      "name": "罗伯特·席安 Robert Sheehan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018246/",
+      "name": "瑞贝卡·布利兹 Rebecca Breeds"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040666/",
+      "name": "杰奎琳·麦根斯 Jacqueline McKenzie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009790/",
+      "name": "德波拉·梅尔曼 Deborah Mailman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1234109/",
+      "name": "马赫什·扎杜 Mahesh Jadu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000478/",
+      "name": "玛格达·苏班斯基 Magda Szubanski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165309/",
+      "name": "约翰·沃特斯 John Waters"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280302/",
+      "name": "迈克尔·卡顿 Michael Caton"
+    }
+  ]
+,
+  "datePublished": "2017-08-12",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "The new ensemble romantic comedy written and directed by Ben Elton.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

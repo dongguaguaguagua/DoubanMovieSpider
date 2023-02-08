@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Hallucinogen",
+  "url": "/subject/27025787/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2456077193.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390978/",
+      "name": "哈利·海因斯 Harry Hains"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Take a pill see what haunts you! College kids rent a house that keeps them up at night with strange ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

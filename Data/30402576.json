@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "曼道还魂 Mandao of the Dead",
+  "url": "/subject/30402576/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542536874.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341777/",
+      "name": "斯科特·邓恩 Scott Dunn"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341777/",
+      "name": "斯科特·邓恩 Scott Dunn"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341777/",
+      "name": "斯科特·邓恩 Scott Dunn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1069959/",
+      "name": "亚历山大·陈 Alexandre Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335644/",
+      "name": "张亮 Liang Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-12-11",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H14M",
+  "description": "曼道和他的成年侄子杰克逊使用星体投射来扭转鬼魂在万圣节的死亡。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "121",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.1"
+  }
+}

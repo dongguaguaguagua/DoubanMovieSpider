@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "续命空间",
+  "url": "/subject/30315096/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2534410443.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324566/",
+      "name": "刘宏伟 Hongwei Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415660/",
+      "name": "林扬 Yang Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435286/",
+      "name": "王艺颖 Yiying Wang"
+    }
+  ]
+,
+  "datePublished": "2018-08-14",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b"],
+  "duration": "PT1H20M",
+  "description": "每个人在这一生之中都会做过数之不尽的后悔事情，比如错过了深爱的人、做错的事、浪费的时间......本片思想直击大众心灵，叙事内容接地气，贴近生活，讲述了在孤儿院长大却玩世不恭、碌碌无为的主人公程天豪因...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱与悲伤的西西里 Amare Amaro",
+  "url": "/subject/30398771/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2868825955.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1238121/",
+      "name": "西罗·佩特隆 Ciro Petrone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345490/",
+      "name": "赛勒斯·萨赫迪 Syrus Shahidi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1155896/",
+      "name": "托尼·斯佩兰迪奥 Tony Sperandeo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "Gaetano decided that he would bury his deceased brother with his family at all costs, even if it mea...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

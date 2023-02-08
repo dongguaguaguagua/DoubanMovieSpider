@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "惊魂绣花鞋",
+  "url": "/subject/26883093/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2430083789.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359155/",
+      "name": "王俊潾 Junlin Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369588/",
+      "name": "上官凌月 Lingyue Shangguan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359158/",
+      "name": "何乙轩 Yixuan He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362817/",
+      "name": "刘汉兆 Hanzhao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343936/",
+      "name": "辉灿 Hwi Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340638/",
+      "name": "周昕妤 Xinyu Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355550/",
+      "name": "郭亚菲 Yafei Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369589/",
+      "name": "郭玉英 Yuying Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369590/",
+      "name": "贾明瑛 Mingying Jia"
+    }
+  ]
+,
+  "datePublished": "2017-03-03",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H29M",
+  "description": "一双绣花鞋，隐藏着一个死亡诅咒，凡是穿过绣花鞋的人都意外惨死，无一幸免。安雯（何乙轩 饰）大病未愈，摆脱了丈夫潘航（辉灿 饰）和医生的看护，独自逃回老家古宅生活。安雯在老宅发现了一双祖上流传并受到死亡...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1094",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.5"
+  }
+}

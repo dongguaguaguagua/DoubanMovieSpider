@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冬天的小苍蝇 Všechno bude",
+  "url": "/subject/30294888/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2530396823.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386384/",
+      "name": "奥尔默·欧默祖 Olmo Omerzu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386384/",
+      "name": "奥尔默·欧默祖 Olmo Omerzu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1169131/",
+      "name": "连卡·弗拉萨科娃 Lenka Vlasáková"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1224881/",
+      "name": " Martin Pechlát"
+    }
+  ]
+,
+  "datePublished": "2018-09-06",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "冬天，警察局里，警察正在审问十四岁的玛拉。被捕时，他开着一辆偷来的奥迪跑到离家很远的地方。他和性格古怪的希都斯出发去寒冷的南方平原探险，但他讲述起来轻描淡写，又绝口不提任何细节，让人觉得疑点重重。随着...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "233",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

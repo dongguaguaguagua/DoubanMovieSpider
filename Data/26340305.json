@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "毕业会考 Bacalaureat",
+  "url": "/subject/26340305/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2352350523.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1135805/",
+      "name": "克里斯蒂安·蒙吉 Cristian Mungiu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1135805/",
+      "name": "克里斯蒂安·蒙吉 Cristian Mungiu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338845/",
+      "name": "阿德里安·蒂蒂耶尼 Adrian Titieni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311476/",
+      "name": "玛丽亚·德拉格斯 Maria Dragus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365683/",
+      "name": "拉雷什·安德瑞斯 Rares Andrici"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357683/",
+      "name": "莉亚·巴格纳 Lia Bugnar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357684/",
+      "name": "马利娜·马诺维奇 Malina Manovici"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1113589/",
+      "name": "弗拉德·伊凡诺夫 Vlad Ivanov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319736/",
+      "name": "瓦列留·安德留察 Valeriu Andriuta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356673/",
+      "name": "艾德里安·凡希加 Adrian Vancica"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370336/",
+      "name": "莉莉亚娜·莫卡努 Liliana Mocanu"
+    }
+  ]
+,
+  "datePublished": "2016-05-19",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT2H8M",
+  "description": "罗密欧（阿德里安·蒂蒂耶尼 Adrian Titieni 饰）和妻子玛格达（莉亚·巴格纳 Lia Bugnar 饰）结婚多年，两人共同养育着女儿艾丽莎（玛丽亚·维多利亚·德拉格斯 Maria-Vict...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "26648",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

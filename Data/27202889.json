@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "命运咖啡馆 The Place",
+  "url": "/subject/27202889/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505455283.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023888/",
+      "name": "保罗·杰诺维塞 Paolo Genovese"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023888/",
+      "name": "保罗·杰诺维塞 Paolo Genovese"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005301/",
+      "name": "瓦莱里奥·马斯坦德雷亚 Valerio Mastandrea"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1094143/",
+      "name": "马可·贾利尼 Marco Giallini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382638/",
+      "name": "亚历桑德罗·博尔吉 Alessandro Borghi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000762/",
+      "name": "西尔维诺·穆奇诺 Silvio Muccino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1259070/",
+      "name": "阿尔芭·罗尔瓦赫尔 Alba Rohrwacher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041366/",
+      "name": "维多利亚·普契尼 Vittoria Puccini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009716/",
+      "name": "萨布丽娜·费里利 Sabrina Ferilli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281676/",
+      "name": "Silvia D&#39;Amico Bendico Silvia D&#39;Amico Bendico"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023596/",
+      "name": "罗科·帕帕莱奥 Rocco Papaleo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110368/",
+      "name": "朱利亚·拉扎里尼 Giulia Lazzarini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314045/",
+      "name": "维尼乔·马尔基奥尼 Vinicio Marchioni"
+    }
+  ]
+,
+  "datePublished": "2017-11-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "一群互不相识的陌生人与一个神秘的人物接触，他们相信这个人拥有给予任何愿望的力量，作为回报，他们必须执行他分配给他们的任务...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "718",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

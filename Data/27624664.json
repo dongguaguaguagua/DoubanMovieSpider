@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "摩登之旅",
+  "url": "/subject/27624664/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510199037.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475996/",
+      "name": "范野子 Yezi Fan"
+    }
+  ]
+,
+  "datePublished": "2018-01-12",
+  "genre": ["\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H34M",
+  "description": "庄有理最近得了一种怪病，见到身边人多的时候就有脱光衣服奔跑的冲动，单位让他回家休息，直到康复以后再来上班。他唯一的一个朋友卫大成决定帮助庄有理脱离这种心理疾病的苦海。在尝试了无数中治疗办法未果以后，两...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "情出于蓝 Out of the Blue",
+  "url": "/subject/30394644/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543138975.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365598/",
+      "name": "刘丰 Freddie Lau"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365598/",
+      "name": "刘丰 Freddie Lau"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-06-04",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "",
+  "description": "This story is a little metaphor for the unexpected and uncontrollable, but frequently occurring situ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大马士革时间 به وقت شام",
+  "url": "/subject/30204107/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2520208841.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1097433/",
+      "name": "易卜拉欣·哈塔米基亚 Ebrahim Hatamikia"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1097433/",
+      "name": "易卜拉欣·哈塔米基亚 Ebrahim Hatamikia"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-02-03",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT2H0M",
+  "description": "两名伊朗飞行员受命去执行一项特殊的任务来拯救一座被极端分子包围的城市的居民，但他们在完成任务前要面临诸多挑战",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "122",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

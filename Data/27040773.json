@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "千门之荣耀江湖",
+  "url": "/subject/27040773/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2458858375.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384354/",
+      "name": "阮晓伟 Xiaowei Ruan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452533/",
+      "name": "丘子健 Single"
+    }
+  ]
+,
+  "datePublished": "2017-05-16",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H5M",
+  "description": "杜天涯大学毕业，怀揣梦想前往大都市应聘工作，怎奈一下火车便遇到女骗子，陷入了一环套一环的骗局之中，被骗至身无分文，流落街头。
+奈何流落街头的杜天涯又被职业乞丐当成过界抢饭碗的同行，被乞丐打致昏迷。第二...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

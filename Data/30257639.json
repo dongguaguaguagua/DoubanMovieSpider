@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "电子恶魔 E-Demon",
+  "url": "/subject/30257639/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528822585.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393172/",
+      "name": "Lindsay Goranson Lindsay Goranson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316549/",
+      "name": "麦克斯·费舍尔 Max Rhyser"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020657/",
+      "name": "安德鲁·道森 Andrew Dawson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172691/",
+      "name": "Montgomery Sutton Montgomery Sutton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1085685/",
+      "name": "John Louis Fischer John Louis Fischer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425714/",
+      "name": "海瑟·艾格 Heather Eger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454369/",
+      "name": "华特鲁迪丝·巴克 Waltrudis Buck"
+    }
+  ]
+,
+  "datePublished": "2018-09-14",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "An escaped demon on a dark and twisted mission manipulates a group of friends hanging out on a video...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "旺角老炮闯东北",
+  "url": "/subject/27621243/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509629566.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366306/",
+      "name": "林云翔 Yunxiang Lin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346322/",
+      "name": "郑文辉 Man-Fai Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351372/",
+      "name": "周颖 Steven Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315575/",
+      "name": "李健仁 Kin-Yan Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346322/",
+      "name": "郑文辉 Man-Fai Cheng"
+    }
+  ]
+,
+  "datePublished": "2018-01-05",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H12M",
+  "description": "影片主要讲述人到中年的如花、甜筒辉为了实现主角梦，被骗闯荡东北，和以张家卫为首的东北三人组斗智斗勇的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

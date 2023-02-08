@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "尤利 Yuli",
+  "url": "/subject/30279394/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535122755.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018049/",
+      "name": "伊西亚尔·博利亚因 Icíar Bollaín"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289525/",
+      "name": "保罗·拉弗蒂 Paul Laverty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1060045/",
+      "name": "卡洛斯·阿科斯塔 Carlos Acosta"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1060045/",
+      "name": "卡洛斯·阿科斯塔 Carlos Acosta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420502/",
+      "name": "圣地亚哥·阿尔方索 Santiago Alfonso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420503/",
+      "name": "凯文·马丁内斯 Keyvin Martínez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420504/",
+      "name": "埃德里森·曼努埃尔·奥尔贝拉·努内斯 Edlison Manuel Olbera Núñez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282031/",
+      "name": "劳拉·德·拉乌兹 Laura De la Uz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023076/",
+      "name": "菲德尔·卡斯特罗 Fidel Castro"
+    }
+  ]
+,
+  "datePublished": "2018-09-23",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50", "\u4f20\u8bb0"],
+  "duration": "PT1H55M",
+  "description": "尤利（卡洛斯阿科斯塔的绰号）是一个天才男孩，不受管教又不爱上学，成天在哈瓦那的街头厮混，与人BATTLE街舞，他的父亲深知儿子有舞蹈天赋，一手将他从街头拽回，强迫他进入古巴国家舞蹈学校学习芭蕾，贪玩的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "933",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

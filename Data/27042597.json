@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "赏尸杀手 Cannibal Corpse Killers",
+  "url": "/subject/27042597/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2458935147.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1464237/",
+      "name": "Charlotte Bjornbak Charlotte Bjornbak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1464238/",
+      "name": "Suzanne Rick Suzanne Rick"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u6050\u6016", "\u897f\u90e8"],
+  "duration": "PT1H40M",
+  "description": "In a decaying America, 20 years after an apocalyptic event, Pike leads Ruby, Slim, Scar, and Boots t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

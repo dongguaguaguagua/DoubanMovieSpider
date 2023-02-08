@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Die wilden Kerle 6 - Die Legende lebt",
+  "url": "/subject/26675208/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2878498274.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476514/",
+      "name": "米可·爱弥儿·拉斯 Mikke Emil Rasch"
+    }
+  ]
+,
+  "datePublished": "2016-02-11",
+  "genre": ["\u52a8\u4f5c", "\u5bb6\u5ead", "\u5192\u9669"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

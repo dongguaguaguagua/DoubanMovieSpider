@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拳师 The Pugilist",
+  "url": "/subject/27073231/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523737823.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395672/",
+      "name": "格伦·柯比 Glen Kirby"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395672/",
+      "name": "格伦·柯比 Glen Kirby"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348702/",
+      "name": "伊恩·比蒂 Ian Beattie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481642/",
+      "name": "劳拉·莱蒙 Lara Lemon"
+    }
+  ]
+,
+  "datePublished": "2017-06-28",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H37M",
+  "description": "《拳击手》获得了爱丁堡国际电影节最佳英国电影奖提名、最佳男主角提名等多项殊荣。本片讲述：拳击手威廉·麦克 雷正当事业的顶峰期，妻子被诊断出癌症。由于他长期忙于训练，和儿子们的关系非常淡薄。威廉正在伤心...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

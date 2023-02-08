@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红军小学",
+  "url": "/subject/27034884/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2457725152.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374356/",
+      "name": "丁林 Lin Ding"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374357/",
+      "name": "王诗音 Shiyin Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374358/",
+      "name": "谯丹 Dan Qiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374359/",
+      "name": "唐楚梵 Chupeng Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374360/",
+      "name": "侯定江 Dingjiang Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374361/",
+      "name": "廖震 Zhen Liao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374362/",
+      "name": "张祎格 Weige Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374363/",
+      "name": "格桑卓玛 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374364/",
+      "name": "李承榛 Chengzhen Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374365/",
+      "name": "蒲艺丹 Yidan Pu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374366/",
+      "name": "林青美 Qingmei Lin"
+    }
+  ]
+,
+  "datePublished": "2017-06-01",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2"],
+  "duration": "PT1H30M",
+  "description": "红军将领之子廖焕章在父亲随红军主力开始长征的途中与父亲走失，一名红军战士在带领他追赶父亲队伍的途中遭到白军追捕，不幸于川陕中央革命根据地内的一个古镇落难，最终不得不隐匿在古镇内，与当地苏维埃政府为培养...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "山田孝之3D 映画 山田孝之3D",
+  "url": "/subject/27003912/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2513162061.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316129/",
+      "name": "松江哲明 Tetsuaki Matsue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050995/",
+      "name": "山下敦弘 Nobuhiro Yamashita"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028166/",
+      "name": "山田孝之 Yamada Takayuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274616/",
+      "name": "芦田爱菜 Mana Ashida"
+    }
+  ]
+,
+  "datePublished": "2017-06-16",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "以伪纪录片《山田孝之的戛纳电影节》为契机而制作的电影《山田孝之3D》将于6月16日在日本上映。山田孝之出演，芦田爱菜友情出演，松江哲明和山下敦弘执导。山田评论：“这部电影里包含着我迄今为止与从今往后的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "866",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

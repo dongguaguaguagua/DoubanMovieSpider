@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鳍鱼 Klippers",
+  "url": "/subject/30167482/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516151120.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430705/",
+      "name": "康菲德斯 Conphidance"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338055/",
+      "name": "利比·布兰顿 Libby Blanton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010684/",
+      "name": "凯文·纳什 Kevin Nash"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174082/",
+      "name": "罗伯特·普拉尔戈 Robert Pralgo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463563/",
+      "name": "奥马尔·莫卧儿 Omer Mughal "
+    }
+  ]
+,
+  "datePublished": "2018-01-01",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "",
+  "description": "An assassin is sent by his psychotic employer, to kill his ex-wife. In his quest to accomplish his t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

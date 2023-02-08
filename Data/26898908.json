@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "丧尸李志",
+  "url": "/subject/26898908/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2392015208.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317058/",
+      "name": "张炜迅 Weixun Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321234/",
+      "name": "张晔子 Yezi Zhang"
+    }
+  ]
+,
+  "datePublished": "2016-10-18",
+  "genre": ["\u60ca\u609a", "\u707e\u96be"],
+  "duration": "PT1H1M",
+  "description": "一辆机场大巴在路上被匪徒劫持，车上的空中小姐和乘客被劫持到了深山中的实验室，他们被强行麻醉昏迷……李志醒来发现一切平静如初，他觉得自己只不过做了个噩梦，当他还反应过来，几个丧尸已经冲了进来对手无寸铁的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

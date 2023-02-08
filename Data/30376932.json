@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血溅大青沟",
+  "url": "/subject/30376932/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2731822077.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322303/",
+      "name": "高力强 Liqiang Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453275/",
+      "name": "林志刚 Zhigang Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390544/",
+      "name": "白那日苏 Narisu Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401074/",
+      "name": "姚娆 Rao Yao"
+    }
+  ]
+,
+  "datePublished": "2018-12-03",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H32M",
+  "description": "林义与女朋友赵婷、朋友马三探亲途经大青沟，无意得知商人王金堂勾结土匪，欺行霸市，独揽该地人参生意。几经周折，最终在林义的带领下，众人将以王金堂为首的恶人打败，还靠山镇往日欢乐祥和之景。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魔恋歌",
+  "url": "/subject/30263967/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2566117362.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346062/",
+      "name": "唐大刚 Dagang Tang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387307/",
+      "name": "邵老五 Laowu Shao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H5M",
+  "description": "《魔恋歌》是一部讲述了跨越仙魔之间的凄美爱情故事，达蒙生是天帝最得意的门生，花魔溪是魔王的女儿，男女主人公在仙魔不能相恋的限制下，面对情、孝、忠该作何选择？最终花魔溪为了爱人失去生命，达蒙生悲痛欲绝，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

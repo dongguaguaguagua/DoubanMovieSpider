@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "衣柜里的猫 衣櫃裡的貓",
+  "url": "/subject/26741380/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2327091118.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331610/",
+      "name": "曾英庭 Ying-ting Tseng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358875/",
+      "name": "安石榴 Fang-fei Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316428/",
+      "name": "柯素云 Su-Yun Ko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321775/",
+      "name": "云中岳 Chung-yueh Yun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355368/",
+      "name": "姚以缇 Eleven Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350138/",
+      "name": "傅孟柏 Meng-Po Fu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H21M",
+  "description": "改编自小说家安石榴的同名短篇作品，曾英庭执导。
+故事讲述一个不善表达情感的家庭，在儿子突然骤世后，女儿搬到外面租屋，父亲始终和颜悦色，而母亲开始在街头喂食流浪猫，让猫成为内心的支柱与动力。八年后的团圆...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "85",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

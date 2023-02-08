@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "达芬奇大冒险：拯救蒙娜丽莎 Leo Da Vinci: Mission Mona Lisa",
+  "url": "/subject/30308724/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540017388.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013939/",
+      "name": "约翰尼·扬·博施 Johnny Yong Bosch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1107291/",
+      "name": "谢拉米·李 Cherami Leigh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1146803/",
+      "name": "Bryce Papenbrook Bryce Papenbrook"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428566/",
+      "name": "兰登·比提 Landen Beattie"
+    }
+  ]
+,
+  "datePublished": "2018-01-11",
+  "genre": ["\u52a8\u753b", "\u5bb6\u5ead", "\u5192\u9669"],
+  "duration": "PT1H25M",
+  "description": "达芬奇生活在一个宁静和平的小村庄里，每天都沉迷在自己研究的神奇发明中。他有个名叫洛伦佐的好朋友，勤劳勇敢，喜欢自然，总是给达芬奇许多帮助。达芬奇喜欢一名叫“蒙娜丽莎”的聪慧又机敏的女孩，在他们身边总是...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

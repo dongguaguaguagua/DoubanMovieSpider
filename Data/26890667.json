@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冰川鲨鱼 Ice Sharks",
+  "url": "/subject/26890667/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2388347282.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149434/",
+      "name": "Emile Edwin Smith Emile Edwin Smith"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149434/",
+      "name": "Emile Edwin Smith Emile Edwin Smith"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-07-26",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u5192\u9669", "\u707e\u96be"],
+  "duration": "PT1H25M",
+  "description": "新一代的侵略，贪婪的鲨鱼海底裂缝的冰冻的北极研究站，吞噬那些落空。当车站沉入冰冷的水中时，那些活着的人必须穿上临时的武器，否则就会遭受同样的命运。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "886",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.6"
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "儿子老子 兒子老子",
+  "url": "/subject/26890802/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2392746136.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364479/",
+      "name": "安邦 Bon An"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364479/",
+      "name": "安邦 Bon An"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006354/",
+      "name": "张翰 Han Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331213/",
+      "name": "潘亲御 Chin-Yu Pang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314952/",
+      "name": "丁强 Chiang Ting"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324912/",
+      "name": "张诗盈 Winnie Chang"
+    }
+  ]
+,
+  "datePublished": "2016-11-04",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H16M",
+  "description": "无仇不成父子。这三代父子，正应証了这句话… 一个家有一个家的规矩，陆家的规矩就是「棒头出孝子」。 陆继平从少观所出来后，还未成年的他，跟著爸爸陆鸣同住一个屋簷下。一如陆继平和陆鸣关系恶劣，一脉相承的，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "165",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

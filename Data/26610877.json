@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "最坏的一天 최악의 하루",
+  "url": "/subject/26610877/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2366699070.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322566/",
+      "name": "金宗宽 Jong-kwan Kim"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322566/",
+      "name": "金宗宽 Jong-kwan Kim"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327527/",
+      "name": "韩艺璃 Ye-ri Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362719/",
+      "name": "岩濑亮 Ryo Iwase"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326499/",
+      "name": "李熙俊 Hee-jun Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315057/",
+      "name": "权律 Yool Kwan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377875/",
+      "name": "崔有华 Yu-hwa Choi"
+    }
+  ]
+,
+  "datePublished": "2016-08-25",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H33M",
+  "description": "Eun-hee is an actress whose acting is poor, but she also plays in her real life. Her performance ful...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "857",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

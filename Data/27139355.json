@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Debt Collector",
+  "url": "/subject/27139355/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2509744062.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046668/",
+      "name": "理查德·沃斯滕克罗夫特 Richard Wolstencroft"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046668/",
+      "name": "理查德·沃斯滕克罗夫特 Richard Wolstencroft"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1177561/",
+      "name": "马修·克莱菲尔德 Matthew Clayfield"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349039/",
+      "name": "安迪·麦克菲 Andy McPhee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279491/",
+      "name": "约翰·布鲁普顿 John Brumpton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391712/",
+      "name": "杰克·埃利斯 Jack Ellis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088430/",
+      "name": "Jack Ellis Jack Ellis"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "领域 Realms",
+  "url": "/subject/30330125/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534594310.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1205755/",
+      "name": "达里克·盖茨 Daric Gates"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049813/",
+      "name": "瑞恩·凯利 Ryan Kelley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386782/",
+      "name": "麦迪逊·麦金利 Madison McKinley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331737/",
+      "name": "普里亚·苏安达科麦 Poo Priya Suandokemai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244969/",
+      "name": "披查亚·尼迪裴善官 Pichaya Nitipaisalkul"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442198/",
+      "name": " "
+    }
+  ]
+,
+  "datePublished": "2018-09-08",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "Supernatural/Horror set against the backdrop of Bangkok, Thailand. After a high-speed police chase l...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

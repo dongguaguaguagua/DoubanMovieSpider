@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Quando sarò bambino",
+  "url": "/subject/34780491/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564450446.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461670/",
+      "name": "瓦莱里奥·迪·贝内代托 Valerio Di Benedetto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470283/",
+      "name": "欧金尼奥·克劳斯 Eugenio Krauss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483684/",
+      "name": "安东尼奥·皮苏 Antonio Pisu"
+    }
+  ]
+,
+  "datePublished": "2018-03-15",
+  "genre": ["\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H16M",
+  "description": "Once I Will Be Child&#39; is a film to be shared with the whole family. Imagine clocks stop in time, hap...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}
