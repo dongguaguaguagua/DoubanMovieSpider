@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大人物 Greater",
+  "url": "/subject/25829265/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2306083554.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331715/",
+      "name": "大卫·亨特 David Hunt"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331715/",
+      "name": "大卫·亨特 David Hunt"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031878/",
+      "name": "尼尔·麦克唐纳 Neal McDonough"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1083024/",
+      "name": "莱斯利·伊斯特布鲁克 Leslie Easterbrook"
+    }
+  ]
+,
+  "datePublished": "2016-08-26",
+  "genre": ["\u5bb6\u5ead", "\u4f20\u8bb0", "\u8fd0\u52a8"],
+  "duration": "PT2H10M",
+  "description": "Brandon Burlsworth is perhaps the greatest walk-on in the history of college football. Brandon had a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

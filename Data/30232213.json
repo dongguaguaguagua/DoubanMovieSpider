@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天堂计划",
+  "url": "/subject/30232213/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533104969.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448229/",
+      "name": "高书雷 Shulei Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448229/",
+      "name": "高书雷 Shulei Gao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389031/",
+      "name": "乔新峰 Xinfeng Qiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383521/",
+      "name": "顾语涵 Yuhan Gu"
+    }
+  ]
+,
+  "datePublished": "2018-09-07",
+  "genre": [],
+  "duration": "",
+  "description": "《天堂计划》的故事架构在一个资源匮乏的近未来世界，人类赖以生存的资源开始变得枯竭，同时环境越来越差，人类细胞自我修复能力降低，2/3的人患有血液疾病面临因器官衰竭带来的死亡，克隆人器官贩卖市场滋生，政...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

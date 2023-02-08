@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "A Motion Selfie",
+  "url": "/subject/26929054/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419957/",
+      "name": "伊娃·索尔维 Eva Solveig"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u4f20\u8bb0"],
+  "duration": "PT1H30M",
+  "description": "&#34;A Motion Selfie&#34; is one-of-a-kind DIY filmmaking: a darkly comic chronicle following a year in the ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

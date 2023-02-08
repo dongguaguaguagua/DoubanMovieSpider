@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "和陌生的你每一天",
+  "url": "/subject/30185416/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2518068366.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389490/",
+      "name": "戴维 Veda"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389490/",
+      "name": "戴维 Veda"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316068/",
+      "name": "徐才根 Caigen Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427122/",
+      "name": "杜凡昕之 Fanxinzhi Du"
+    }
+  ]
+,
+  "datePublished": "2018-03-31",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H0M",
+  "description": "平行宇宙近未来，人们高度依赖人工智能带来的便利，几乎每个人都有自己的智能管家和智能伴侣，人们独善其身，不再需要依靠彼此。女孩林子是一个随大流的程序员，但她内心隐隐感到自己和现在的世界格格不入。她想要忠...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "侠探锦毛鼠之血弥东京",
+  "url": "/subject/27173301/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2699392901.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365462/",
+      "name": "周德新 Dexin Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373914/",
+      "name": "南飞雁 Feiyan Nan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322995/",
+      "name": "王九胜 Jiusheng Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329090/",
+      "name": "李美慧 Meihui Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322463/",
+      "name": "王志刚 Zhigang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319823/",
+      "name": "赵晓明 Xiaoming Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320465/",
+      "name": "张德晖 Dehui Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368501/",
+      "name": "刘冰峰 Bingfeng Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408502/",
+      "name": "李伯祥 Boxiang Li"
+    }
+  ]
+,
+  "datePublished": "2019-01-15",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ac\u7591"],
+  "duration": "PT1H28M",
+  "description": "仁宗年间，连环杀人案笼罩着东京汴梁开封府。白玉堂救了请辞回乡且被追杀的包拯，得知此事后追查此案。连番较量后白玉堂终引出杀手组织头目屠龙会首领秦日忠，将组织一网打尽，原来一切都是包拯早已安排好的计中计。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

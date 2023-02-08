@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "树林里的夫妇 숲속의 부부",
+  "url": "/subject/27069834/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2514925001.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317770/",
+      "name": "全圭焕 Kyu-hwan Jeon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317770/",
+      "name": "全圭焕 Kyu-hwan Jeon"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381056/",
+      "name": "曹惠静 Jo Hye-jeong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315003/",
+      "name": "金成珉 Kim Sung Min"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424326/",
+      "name": "朴胜裴 Seung-Bae Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425290/",
+      "name": "郑美南 Mi-nam Jeong"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u5947\u5e7b"],
+  "duration": "PT1H46M",
+  "description": "He is a murderer in his head and he is losing himself by actually killing people. Posthumous work of...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "165",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

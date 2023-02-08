@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魔盗同盟",
+  "url": "/subject/30177458/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2517626175.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401067/",
+      "name": "王东 Dong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371392/",
+      "name": "王新之 Xinzhi Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325516/",
+      "name": "董博 Bo Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424971/",
+      "name": "张艺凡 Yifan Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-03-23",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT1H28M",
+  "description": "“侠盗魔术师”猫头鹰、善使飞牌的魔术师麻雀、美貌性感而又身手敏捷的女飞贼贼鸥以及千术一绝的赌场高手乌鸦四人联盟，被生物科技大亨李泽成高薪雇佣，去夺回被竞争对手星河集团“盗窃”的“超水原液”（可将任何液...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

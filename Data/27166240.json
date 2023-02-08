@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Fubar",
+  "url": "/subject/27166240/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2501466601.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045125/",
+      "name": "马克·希普 Mark Heap"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340735/",
+      "name": "肖恩·维里 Sean Verey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343592/",
+      "name": "丹尼·基兰 Danny Kirrane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378245/",
+      "name": "大卫·穆梅尼 David Mumeni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344488/",
+      "name": "蒂莫西·雷诺夫 Timothy Renouf"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408777/",
+      "name": "佩里·菲茨帕特里克 Perry Fitzpatrick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014417/",
+      "name": "伊万·麦金托什 Ewen MacIntosh"
+    }
+  ]
+,
+  "datePublished": "2018-08-25",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "",
+  "description": "When a hopeless stag party goes on a mock zombie survival weekend, an unfortunate turn of events lea...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

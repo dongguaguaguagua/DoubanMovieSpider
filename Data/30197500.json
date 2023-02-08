@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "先生 Sir",
+  "url": "/subject/30197500/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2551353077.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393715/",
+      "name": "洛汗·吉拉 Rohena Gera"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393715/",
+      "name": "洛汗·吉拉 Rohena Gera"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426230/",
+      "name": "Ahmareen Anjum  Ahmareen Anjum"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426229/",
+      "name": "Alok Chaturvedi Alok Chaturvedi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387787/",
+      "name": "阿努普瑞雅·戈恩卡 Anupriya Goenka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426231/",
+      "name": "维维克·贡贝尔 Vivek Gomber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346010/",
+      "name": "迪娜兹·伊拉尼 Dilnaz Irani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408231/",
+      "name": "格塔姜利·库尔卡尼 Geetanjali Kulkarni"
+    }
+  ]
+,
+  "datePublished": "2018-05-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H39M",
+  "description": "一位富裕的公子哥成天无所事事，好像已经放弃了理想，迷失了自我；而他的女仆却踌躇满志、努力生活着。当两人生活搅在一起，他们的矛盾好像更深了。入围第71届戛纳电影节。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "459",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血块 Blood Clots",
+  "url": "/subject/30291365/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2578900834.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018020/",
+      "name": "布鲁克·史密斯 Brooke Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297669/",
+      "name": "Harry Sinclair Harry Sinclair"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345690/",
+      "name": "克里斯汀·思莱蒙 Kristin Slaysman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329526/",
+      "name": "埃文·阿诺德 Evan Arnold"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A collection of horror stories involving cannibals, zombies “and other funny creatures”.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,130 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "都柏林周末 Dublin Oldschool",
+  "url": "/subject/27200712/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541452118.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1056263/",
+      "name": "戴夫·艾伦 Dave Allen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394192/",
+      "name": "Emmet Kirwan Emmet Kirwan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394192/",
+      "name": "Emmet Kirwan Emmet Kirwan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394193/",
+      "name": "伊恩·劳埃德·安德森 Ian Lloyd Anderson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363129/",
+      "name": "莎娜·凯斯雷克 Seána Kerslake"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1097901/",
+      "name": "莎拉·格林 Sarah Greene"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394194/",
+      "name": "西伦·格雷斯 Ciaran Grace"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293411/",
+      "name": "马克·奥哈洛伦 Mark O&#39;Halloran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394195/",
+      "name": "Liam Heslin Liam Heslin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394196/",
+      "name": "斯蒂文·琼斯 Stephen Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394197/",
+      "name": "利厄·明托 Leah Minto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394198/",
+      "name": "布赖恩·奎恩 Bryan Quinn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394199/",
+      "name": "尼玛·塔列格哈尼 Nima Taleghani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394200/",
+      "name": "Calum Jess Calum Jess"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394201/",
+      "name": "Malcolm Denby Malcolm Denby"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394114/",
+      "name": "亚伦·赫弗南 Aaron Heffernan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384638/",
+      "name": "托尼·多伊尔 Tony Doyle"
+    }
+  ]
+,
+  "datePublished": "2018-06-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "Over a drug-fuelled lost weekend in Dublin, Jason, a wannabe DJ reconnects with his estranged homele...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

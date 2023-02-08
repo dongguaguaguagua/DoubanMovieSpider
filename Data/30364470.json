@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Hocus Pocus 25th Anniversary Halloween Bash",
+  "url": "/subject/30364470/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2539329414.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1059277/",
+      "name": "拉里·巴格比 Larry Bagby"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031804/",
+      "name": "索拉·伯奇 Thora Birch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036518/",
+      "name": "赵牡丹 Margaret Cho"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052200/",
+      "name": "Patrick Cook Patrick Cook"
+    }
+  ]
+,
+  "datePublished": "2018-10-20",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "PT2H0M",
+  "description": "Fans, cast members, and celebrities alike gather at the El Capitan Theatre to commemorate the 25th A...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

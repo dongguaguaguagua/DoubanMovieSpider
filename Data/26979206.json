@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "巴黎必修课 Mes Provinciales",
+  "url": "/subject/26979206/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2513448194.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014922/",
+      "name": "让-保罗·希维拉克 Jean-Paul Civeyrac"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014922/",
+      "name": "让-保罗·希维拉克 Jean-Paul Civeyrac"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362916/",
+      "name": "柯朗坦·菲拉 Corentin Fila"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326206/",
+      "name": "珍娜·蒂亚姆 Jenna Thiam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357827/",
+      "name": "索菲·费尔贝克 Sophie Verbeeck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354322/",
+      "name": "戴安·罗赛尔 Diane Rouxel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392252/",
+      "name": "达芙妮·帕塔基亚 Daphné Patakia"
+    }
+  ]
+,
+  "datePublished": "2018-02-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H16M",
+  "description": "Filled with expectations, Etienne moves to Paris from Lyon to study film directing at the Sorbonne. ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "212",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

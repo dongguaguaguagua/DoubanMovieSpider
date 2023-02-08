@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "纪念 Souvenir",
+  "url": "/subject/25833441/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2389238535.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319498/",
+      "name": "巴沃·德弗恩 Bavo Defurne"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319498/",
+      "name": "巴沃·德弗恩 Bavo Defurne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278965/",
+      "name": "雅克·布恩 Jacques Boon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036249/",
+      "name": "伊夫斯·维布雷肯 Yves Verbraeken"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054515/",
+      "name": "伊莎贝尔·于佩尔 Isabelle Huppert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325999/",
+      "name": "凯文·阿札伊斯 Kévin Azaïs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118197/",
+      "name": "约翰·雷森 Johan Leysen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383290/",
+      "name": "穆里尔·贝西 Muriel Bersy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314429/",
+      "name": "托马斯·库芒 Thomas Coumans"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329920/",
+      "name": "扬·哈梅内克 Jan Hammenecker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1094905/",
+      "name": "米基·哈特 Mickey Hardt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420706/",
+      "name": "索菲·穆塞尔 Sophie Mousel"
+    }
+  ]
+,
+  "datePublished": "2016-09-08",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H30M",
+  "description": "莉莉安（伊莎贝尔·于佩尔 Isabelle Huppert 饰）表面看来只是一位平凡的工厂女工，每天过着朝九晚五的生活，下班之后也是立刻回到家中，没有任何的娱乐和社交。实际上，莉莉安隐藏了自己的真实身...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2066",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "D5—五个侦探 D5 5人の探偵",
+  "url": "/subject/30207765/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2520564843.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037924/",
+      "name": "高桥玄 Gen Takahashi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048584/",
+      "name": "绿川光 Hikaru Midorikawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048504/",
+      "name": "小西克幸 Katsuyuki Konishi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001587/",
+      "name": "岸尾大辅 Daisuke Kishio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001127/",
+      "name": "浪川大辅 Daisuke Namikawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033302/",
+      "name": "森久保祥太郎 Shotaro Morikubo"
+    }
+  ]
+,
+  "datePublished": "2018-05-05",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT1H33M",
+  "description": "緑川光、小西克幸、岸尾だいすけ、浪川大輔、森久保祥太郎という人気声優たちが探偵を演じ、密室で起こった殺人事件の謎に迫っていくミステリーエンタテインメント。ある劇場の舞台に集められた、それぞれ面識のない...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "174",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

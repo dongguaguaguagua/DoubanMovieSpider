@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "野模",
+  "url": "/subject/30386313/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540818618.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405220/",
+      "name": "尤鸿翼 Hung-Yi Yu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324287/",
+      "name": "张景岚 Chin-Lan Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352136/",
+      "name": "邱德洋 David Chiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388757/",
+      "name": "康茵茵 Yinyin Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357546/",
+      "name": "李铭忠 Frederick Lee Ming-Zhong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334547/",
+      "name": "李依瑾 Jean Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315727/",
+      "name": "唐从圣 Tsung Sheng Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365666/",
+      "name": "姚蜜 Fairy Yao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "In terms of modeling, people tend to only notice the skin-deep presentation, while &#39;Struggling Girls...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

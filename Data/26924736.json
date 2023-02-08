@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "十恶不赦",
+  "url": "/subject/26924736/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2401467789.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424566/",
+      "name": "周圣坤 Shengkun Zhou"
+    }
+  ]
+,
+  "datePublished": "2016-12-01",
+  "genre": ["\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H10M",
+  "description": "影片讲述的是由“共事会”组织的一场以犯罪和金钱诱惑来进行的密室游戏，游戏不单单设定在室内，生活中一样会受到影响，而输掉游戏的人将因为自己所犯下的过错和罪行受到“共事会”组织的惩罚，赢得人则可以获得大量...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "针扎 Needlestick",
+  "url": "/subject/26881665/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2428150512.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029234/",
+      "name": "Steven Karageanes Steven Karageanes"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029234/",
+      "name": "Steven Karageanes Steven Karageanes"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048140/",
+      "name": "兰斯·亨利克森 Lance Henriksen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1125121/",
+      "name": "哈里·列尼斯 Harry Lennix"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055178/",
+      "name": "杰克·诺斯沃迪 Jack Noseworthy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037711/",
+      "name": "迈克尔·特拉诺尔 Michael Traynor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355169/",
+      "name": "凯蒂·萨瓦 Katie Savoy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304053/",
+      "name": "斯坦·哈灵顿 Stan Harrington"
+    }
+  ]
+,
+  "datePublished": "2017-02-21",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H28M",
+  "description": "A desperate doctor locks down South Union Cardiac Hospital to keep the greatest discovery in human h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

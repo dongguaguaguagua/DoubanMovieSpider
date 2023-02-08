@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "英雄归来 Le retour du héros",
+  "url": "/subject/27084627/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2510037344.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274917/",
+      "name": "洛朗·蒂拉尔 Laurent Tirard"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274917/",
+      "name": "洛朗·蒂拉尔 Laurent Tirard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274924/",
+      "name": "格雷古瓦·维涅隆 Grégoire Vigneron"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018213/",
+      "name": "让·杜雅尔丹 Jean Dujardin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1103688/",
+      "name": "梅拉尼·罗兰 Mélanie Laurent"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353982/",
+      "name": "诺米·梅兰特 Noémie Merlant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031196/",
+      "name": "费奥多尔·阿特金 Féodor Atkine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384215/",
+      "name": "洛朗·巴图 Laurent Bateau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384897/",
+      "name": "让-米歇尔·拉米 Jean-Michel Lahmi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1075180/",
+      "name": "埃弗琳·布尔 Evelyne Buyle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431262/",
+      "name": "Guillaume Denaiffe Guillaume Denaiffe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357517/",
+      "name": "奥黛丽·欧塔维阿诺 Audrey Ottaviano"
+    }
+  ]
+,
+  "datePublished": "2018-02-14",
+  "genre": ["\u559c\u5267", "\u5386\u53f2"],
+  "duration": "PT1H30M",
+  "description": "纽维尔将军（让·杜雅尔丹 Jean Dujardin 饰）即将和心爱的未婚妻宝林（诺米·梅兰特 Noémie Merlant 饰）携手步入婚姻的殿堂，在这个节骨眼上，他收到了征召令要他重返战场。临走之...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1549",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

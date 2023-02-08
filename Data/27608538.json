@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "山寨之王",
+  "url": "/subject/27608538/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2620814186.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371037/",
+      "name": "梅志刚 Zhigang Mei"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274561/",
+      "name": "牟凤彬 Fengbin Mu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351416/",
+      "name": "王岗岗 Ganggang Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u60ac\u7591", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H27M",
+  "description": "发生一场在明朝末年边远山区的“官匪”闹剧，在黄荆山寨，二郎山庄，一伙土匪头目（龙泽）派出穿着艳丽，相貌出众，身材妖娆的双胞胎姐妹花千娇百媚，埋伏在山涧。用特殊的身体感应探测附近过往的商队及押镖商队，获...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

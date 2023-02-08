@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "打虎英雄穆卢干 Pulimurugan",
+  "url": "/subject/26890446/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2388168275.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054489/",
+      "name": "莫哈恩拉 Mohanlal"
+    }
+  ]
+,
+  "datePublished": "2016-10-07",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT2H41M",
+  "description": "关于印度伟大战神穆卢干（Murugan）的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "497",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

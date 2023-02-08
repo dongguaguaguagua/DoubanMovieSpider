@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "说唱门徒",
+  "url": "/subject/30353109/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537208603.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395844/",
+      "name": "姜秉辰 Ping-Chen Chiang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374118/",
+      "name": "张欣媚 Xinmei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374352/",
+      "name": "闻典 Dian Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403085/",
+      "name": "王泉雅 Kimi Cat"
+    }
+  ]
+,
+  "datePublished": "2018-11-03",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u97f3\u4e50"],
+  "duration": "PT1H22M",
+  "description": "电影《说唱门徒》讲述了一群拥有说唱梦想的rapper，在经历了误解、背叛和重生之后和好如初的故事，是一个关于梦想和兄弟情的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

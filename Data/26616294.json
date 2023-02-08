@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "赤发的白雪姬OAD 赤髪の白雪姫OAD",
+  "url": "/subject/26616294/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2305587036.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051245/",
+      "name": "安藤真裕 Masahiro Andô"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315991/",
+      "name": "清水惠 Megumi Shimizu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020667/",
+      "name": "早见沙织 Saori Hayami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320731/",
+      "name": "逢坂良太 Ryota Ohsaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347605/",
+      "name": "梅原裕一郎 Yuichiro Umehara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048640/",
+      "name": "名冢佳织 Kaori Nazuka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276112/",
+      "name": "冈本信彦 Nobuhiko Okamoto"
+    }
+  ]
+,
+  "datePublished": "2016-01-05",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u52a8\u753b"],
+  "duration": "PT0H24M",
+  "description": "随原作漫画第15卷DVD限定版捆绑发售。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1321",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.1"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "收藏家 Le collectionneur",
+  "url": "/subject/27666674/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510710777.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445251/",
+      "name": "皮埃尔·儒昂 Pierre Jouan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u5947\u5e7b"],
+  "duration": "PT0H23M",
+  "description": "Émilien, a young figurative painter, is welcomed by a very great collector who is getting ready to s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大明管家",
+  "url": "/subject/30335413/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2601669840.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274610/",
+      "name": "金铁木 Tiemu Jin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-08-12",
+  "genre": ["\u4f20\u8bb0", "\u5386\u53f2"],
+  "duration": "PT0H40M",
+  "description": "《探索·发现》栏目为还原这位治世能臣的一生，专门走进威海华夏城，实地探访为纪念夏原吉而修建的夏园。在夏园，夏原吉的后人以蜡像、灯光、音响、实物等表现方式，详细记述了夏原吉及他的长孙、威海夏氏始祖——夏...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "197",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

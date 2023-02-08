@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣诞佳丽 Miss Christmas",
+  "url": "/subject/30134082/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2512162833.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473029/",
+      "name": "格雷格·罗杰斯 Greg Rogers"
+    }
+  ]
+,
+  "datePublished": "2017-11-05",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT2H0M",
+  "description": "The tree finder for Chicago’s renowned Radcliff Tree lighting is left desperate to find the perfect ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

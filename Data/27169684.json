@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "巫宅 House of the Witch",
+  "url": "/subject/27169684/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537990699.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454851/",
+      "name": "亚历克斯·梅金 Alex Merkin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334426/",
+      "name": "尼尔·埃尔曼 Neil Elman"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329420/",
+      "name": "杰西·佩佩 Jesse Pepe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1264474/",
+      "name": "柯伊·斯图尔特 Coy Stewart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391680/",
+      "name": "亨特·特拉梅尔 Hunter Trammell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454571/",
+      "name": "米歇尔·兰道夫 Michelle Randolph"
+    }
+  ]
+,
+  "datePublished": "2017-10-07",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "A group of high-school kids set out to play a Halloween prank at an abandoned house, but once they e...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

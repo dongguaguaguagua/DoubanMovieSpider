@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "El ataúd de cristal",
+  "url": "/subject/27082838/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2483489183.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378724/",
+      "name": "宝拉·波腾皮 Paola Bontempi"
+    }
+  ]
+,
+  "datePublished": "2016-10-11",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H15M",
+  "description": "Dressed for the occasion with an elegant evening dress, Amanda enters on a luxurious limousine waiti...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

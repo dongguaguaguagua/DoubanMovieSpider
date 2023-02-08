@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "虐杀12小时",
+  "url": "/subject/26729354/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2320017892.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354904/",
+      "name": "卢哲颢 Johnson Lu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354904/",
+      "name": "卢哲颢 Johnson Lu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344144/",
+      "name": "袁福福 Fufu Yuan"
+    }
+  ]
+,
+  "datePublished": "2016-02-19",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H0M",
+  "description": "除夕夜商场内大多店都已经关门了，内衣店店主黄馨在忙完一天的工作后准备回家过年，走之前却被一个快递员骚扰，黄馨很生气的呵斥了他。黄馨关上了门准备回家过个好年，可是她却发现商场内所有回家的通道都被锁上，于...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "436",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

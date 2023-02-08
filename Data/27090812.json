@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乐高DC超级英雄美少女：失忆大冒险 Lego DC Super Hero Girls: Brain Drain",
+  "url": "/subject/27090812/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2493258611.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1098324/",
+      "name": "Todd Grimes Todd Grimes"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1086522/",
+      "name": "格蕾·德丽斯勒 Grey DeLisle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078960/",
+      "name": "塔拉·斯特朗 Tara Strong"
+    }
+  ]
+,
+  "datePublished": "2017-07-25",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H5M",
+  "description": "DC超级女孩去乐高在这个充满惊险的世界动画冒险！惊险游戏只有在超女、神奇女侠和巴特女孩都不记得他们所犯下的一系列错误时才开始。当连大黄蜂、武士刀和其他超级英雄高的成员都不怀好意的时候，女孩们又能求助于...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "84",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "ワンダーステラ",
+  "url": "/subject/27663936/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2510425141.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387081/",
+      "name": "内村里菜 Rina Uchimura"
+    }
+  ]
+,
+  "datePublished": "2017-12-16",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H15M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

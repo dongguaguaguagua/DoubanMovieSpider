@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猎杀莉拉 Hunting Lila",
+  "url": "/subject/26882079/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2530304147.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284101/",
+      "name": "保罗·J·富兰克林 Paul J. Franklin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009673/",
+      "name": "约翰·哈里斯 Jon Harris"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356951/",
+      "name": "萨莎·莱恩 Sasha Lane"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "Lila goes on the run after exposing her dangerous mind power, only to find herself at the heart of a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

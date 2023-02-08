@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "本杰明 Benjamin",
+  "url": "/subject/27168189/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2570202792.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037044/",
+      "name": "西蒙·阿姆斯特尔 Simon Amstell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037044/",
+      "name": "西蒙·阿姆斯特尔 Simon Amstell"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012483/",
+      "name": "科林·摩根 Colin Morgan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044988/",
+      "name": "安娜·钱斯勒 Anna Chancellor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364423/",
+      "name": "菲尼克斯·布罗萨德 Phénix Brossard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352741/",
+      "name": "乔尔·弗莱 Joel Fry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372626/",
+      "name": "杰克·罗文 Jack Rowan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314887/",
+      "name": "内森·斯图尔特-贾瑞特 Nathan Stewart-Jarrett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315874/",
+      "name": "艾丽·肯德里克 Ellie Kendrick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351716/",
+      "name": "杰西·卡芙 Jessie Cave"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1096145/",
+      "name": "乔安妮·豪沃思 Joanne Howarth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372000/",
+      "name": "亚历克斯·洛威 Alex Lowe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433949/",
+      "name": "马万·里兹旺 Mawaan Rizwan"
+    }
+  ]
+,
+  "datePublished": "2018-10-19",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H25M",
+  "description": "科林·摩根(《梅林传奇》)、杰西卡·雷恩([远乡])完成喜剧片[本杰明](Benjamin，暂译)的拍摄。该片由《皮囊》第一季的编剧西蒙·阿姆斯特尔自编自导，电影围绕一个喜欢自我贬低的导演兼作家展开。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4173",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

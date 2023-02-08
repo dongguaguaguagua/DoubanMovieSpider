@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "讷伊的母亲2 Neuilly sa mère, sa mère!",
+  "url": "/subject/30312471/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2532578261.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378165/",
+      "name": "杰里米·丹尼斯蒂 Jeremy Denisty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048414/",
+      "name": "德尼·波达利德斯 Denis Podalydès"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275056/",
+      "name": "科洛·克莱沃 Chloé Coulloud"
+    }
+  ]
+,
+  "datePublished": "2018-08-08",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "In 2008, Sami Benboudaoud discovered the hell of Neuilly-sur-Seine. Ten years later, now that everyt...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

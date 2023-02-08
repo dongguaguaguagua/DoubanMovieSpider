@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寻找罗麦",
+  "url": "/subject/25727544/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2518268771.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006702/",
+      "name": "王超 Chao Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006702/",
+      "name": "王超 Chao Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275667/",
+      "name": "韩庚 Han geng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318475/",
+      "name": "杰瑞米·埃尔卡伊姆 Jérémie Elkaïm"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328420/",
+      "name": "菅纫姿 Renzi Jian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316091/",
+      "name": "阿丽斯·德·朗克桑 Alice de Lencquesaing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050911/",
+      "name": "海伦·文森特 Hélène Vincent"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1069401/",
+      "name": "雷诺·科恩 Renaud Cohen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340352/",
+      "name": "胡瑞杰 Ruijie Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009900/",
+      "name": "安迪·吉雷 Andy Gillet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312698/",
+      "name": "邓紫衣 Ziyi Deng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352625/",
+      "name": "罗阜艺 Buyi Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389333/",
+      "name": "朱宏奇 Hongqi Zhu"
+    }
+  ]
+,
+  "datePublished": "2018-04-13",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H23M",
+  "description": "赵捷和罗麦相识已久，在经历过一次导致少年意外死亡的车祸之后，二人逐渐产生罅隙。事后，罗麦去了西藏，却全然未知等待他的是一场不测风云。罗麦走后，赵捷也踏入这段象征涅槃与救赎的莲花之旅，一直在路上的他，始...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6269",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.2"
+  }
+}

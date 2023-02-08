@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "特别追踪",
+  "url": "/subject/30327877/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534385078.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401028/",
+      "name": "王启蘅 Qiheng Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361832/",
+      "name": "田水泉 Shuiquan Tian"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316046/",
+      "name": "周浩东 Haodong Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317082/",
+      "name": "牛宝军 Baojun Niu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401137/",
+      "name": "李宜儒 Yiru Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398827/",
+      "name": "于心妍 Xinyan Yu"
+    }
+  ]
+,
+  "datePublished": "2018-09-19",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT1H28M",
+  "description": "该片由最高人民法院影视中心、联播聚客（北京）国际传媒有限公司联合出品，山东省青岛市中级人民法院、青岛市即墨区人民法院联合摄制。影片通过讲述一个“拒不执行法院判决、裁定罪”的司法案例，刻画了失信被执行人...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1201",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

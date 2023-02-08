@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "青春检察官",
+  "url": "/subject/26287775/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2327600660.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318672/",
+      "name": "苗月 Yue Miao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323377/",
+      "name": "白威 Wei Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345364/",
+      "name": "岳以恩 Yi&#39;en Yue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313230/",
+      "name": "陈西贝 Xibei Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333534/",
+      "name": "侯世甲 Shijia Hou"
+    }
+  ]
+,
+  "datePublished": "2016-01-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "电影《青春检察官》是以淄博市基层青年检察官为生活原型,反映新一代基层检察官程驰、苏微风、邓雨航成长的故事。三名青年检察官在成长过程中面对种种诱惑和现实的无奈,勇于坚守检察职业道德,始终保持高尚人格,以...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "138",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

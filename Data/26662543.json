@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "明日复明日 Tomorrow and Tomorrow",
+  "url": "/subject/26662543/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2458579453.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014057/",
+      "name": "马特·罗斯 Matt Ross"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376492/",
+      "name": "托马斯·斯维特利希 Thomas Sweterlitsch"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591"],
+  "duration": "",
+  "description": "Thomas Sweterlitsch的前一部小说《明日复明日》（Tomorrow And Tomorrow）被好莱坞买下版权，将由索尼旗下的三星影业（TriStar）拍成电影。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "废物之火 Trash Fire",
+  "url": "/subject/26720887/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2394989910.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324850/",
+      "name": "小理查德·贝茨 Richard Bates Jr."
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324850/",
+      "name": "小理查德·贝茨 Richard Bates Jr."
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459673/",
+      "name": "莱昂内尔·克劳德 "
+    }
+  ]
+,
+  "datePublished": "2016-01-23",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u6050\u6016"],
+  "duration": "PT1H31M",
+  "description": "When Owen is forced to confront the past he&#39;s been running from his whole adult life, he and his gir...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "198",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

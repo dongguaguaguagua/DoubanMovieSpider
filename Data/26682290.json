@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "明天也有好吃的饭 僕らのごはんは明日で待ってる",
+  "url": "/subject/26682290/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2396788383.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326620/",
+      "name": "市井昌秀 Masahide Ichii"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326620/",
+      "name": "市井昌秀 Masahide Ichii"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470007/",
+      "name": "濑尾麻衣子 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276116/",
+      "name": "中岛裕翔 Yuto Nakajima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313718/",
+      "name": "新木优子 Yuko Araki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038600/",
+      "name": "美山加恋 Karen Miyama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337544/",
+      "name": "冈山天音 Okayama Amane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015257/",
+      "name": "片桐入 Hairi Katagiri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015216/",
+      "name": "松原智惠子 Chieko Matsubara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431715/",
+      "name": "空闲琴美 Kotomi Kuga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438802/",
+      "name": "本间淳志 Atsushi Honma"
+    }
+  ]
+,
+  "datePublished": "2017-01-07",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H49M",
+  "description": "《明天也有好吃的饭》根据濑尾麻衣子的同名恋爱小说改编，讲述不善言谈的草食系男子叶山亮太与开朗活泼的女生上村小春通过体育祭“米袋跳跃”的活动相识并开始交往，通过美食孕育七年感情的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5394",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

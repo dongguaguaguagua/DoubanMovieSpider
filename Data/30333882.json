@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "回转死劫 U-Turn",
+  "url": "/subject/30333882/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2552109332.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267011/",
+      "name": "萨曼莎·鲁斯·帕布 Samantha Ruth Prabhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1073430/",
+      "name": "普米卡·查瓦拉 Bhoomika Chawla"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427036/",
+      "name": "阿迪 Aadhi"
+    }
+  ]
+,
+  "datePublished": "2018-09-13",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT2H8M",
+  "description": "The plot revolves around the death of motorists who break a traffic rule at a particular flyover in ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

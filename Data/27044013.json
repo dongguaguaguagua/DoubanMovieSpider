@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小鬼警察：新兵 Cop and a Half 2",
+  "url": "/subject/27044013/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2505066474.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379168/",
+      "name": "斯科特·宾德利 Scott Bindley"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007002/",
+      "name": "卢·戴蒙德·菲利普斯 Lou Diamond Phillips"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040504/",
+      "name": "华莱士·肖恩 Wallace Shawn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031948/",
+      "name": "吉娜·赫尔顿 Gina Holden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359629/",
+      "name": "露露·威尔逊 Lulu Wilson"
+    }
+  ]
+,
+  "datePublished": "2017-08-01",
+  "genre": ["\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H37M",
+  "description": "A precocious kid and a police officer join forces to catch a criminal at large",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "186",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

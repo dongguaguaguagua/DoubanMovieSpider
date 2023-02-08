@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亭城之恋",
+  "url": "/subject/30322390/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533758747.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401065/",
+      "name": "魏子千 Ziqian Wei"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401065/",
+      "name": "魏子千 Ziqian Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322511/",
+      "name": "杨舒婷 Shuting Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362058/",
+      "name": "米杨 Yang Mi"
+    }
+  ]
+,
+  "datePublished": "2018-09-21",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H26M",
+  "description": "平凡女孩高雅与林峰本是一对恋人。由于地位悬殊，林母为林峰挑选了门当户对的海归女唐依依。依依和唐父通过各种手段想拆散这对恋人，都失败了。最终，这对知心人经历磨难，在亲朋好友的祝福声中，幸福的走在了一起。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

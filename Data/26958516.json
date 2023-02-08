@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恶灵再临 Mal Nosso",
+  "url": "/subject/26958516/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2462373035.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434526/",
+      "name": "塞缪尔·加里 Samuel Galli"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434526/",
+      "name": "塞缪尔·加里 Samuel Galli"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434719/",
+      "name": "费尔南多·卡多索 Fernando Cardoso"
+    }
+  ]
+,
+  "datePublished": "2017-06-24",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H32M",
+  "description": "A man with spiritualist powers is told by his mentor that a demonic entity is returning to destroy h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "115",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

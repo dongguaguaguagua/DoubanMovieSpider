@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Galapagos Affair",
+  "url": "/subject/3150820/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070630/",
+      "name": "威廉·博伊德 William Boyd"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016677/",
+      "name": "朱丽叶·比诺什 Juliette Binoche"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021997/",
+      "name": "克里斯汀·斯科特·托马斯 Kristin Scott Thomas"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "",
+  "description": "Based on the true story of five people who escape to paradise before WW2. A tense sexual thriller, w...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

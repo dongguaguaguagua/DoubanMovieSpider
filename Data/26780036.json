@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "被父谋杀 Murdered by My Father",
+  "url": "/subject/26780036/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2463106610.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356610/",
+      "name": "布鲁斯·古迪森 Bruce Goodison"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352050/",
+      "name": "阿迪勒·阿赫塔尔 Adeel Akhtar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355457/",
+      "name": "Vineeta Rishi Vineeta Rishi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377399/",
+      "name": "卡伦·索尼娅·塞沃尔 Kiran Sonia Sawar"
+    }
+  ]
+,
+  "datePublished": "2016-03-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H15M",
+  "description": "Powerful contemporary drama. A young woman falls in love with the wrong man, with tragic consequence...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "196",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

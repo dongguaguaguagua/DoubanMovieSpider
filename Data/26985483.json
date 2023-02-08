@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Outside Room",
+  "url": "/subject/26985483/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2882497831.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050604/",
+      "name": "乔瑟琳·穆尔豪斯 Jocelyn Moorhouse"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050604/",
+      "name": "乔瑟琳·穆尔豪斯 Jocelyn Moorhouse"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412327/",
+      "name": "拉什纳·林奇 Lashana Lynch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316324/",
+      "name": "艾米丽·比查姆 Emily Beecham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004576/",
+      "name": "瓦妮莎·雷德格雷夫 Vanessa Redgrave"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Milla, a 70 year old white woman, in the terminal stages of motor neuron disease, trapped in silence...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

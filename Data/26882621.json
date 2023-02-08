@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "擦枪走火 Five Grand",
+  "url": "/subject/26882621/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2875294751.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038029/",
+      "name": "David Ossman David Ossman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1249545/",
+      "name": " Van White"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002670/",
+      "name": "埃里克·罗伯茨 Eric Roberts"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ca\u609a", "\u72af\u7f6a", "\u897f\u90e8"],
+  "duration": "PT1H26M",
+  "description": "An outlaw kills a marshal and steals his identity; a Pinkerton pursues him across the open country.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

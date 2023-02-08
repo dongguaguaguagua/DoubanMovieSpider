@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "中世纪女童 Les Filles au Moyen Âge",
+  "url": "/subject/26715197/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2313435368.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315973/",
+      "name": "玛龙·莱瓦纳 Malonn Lévana"
+    }
+  ]
+,
+  "datePublished": "2016-01-27",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H28M",
+  "description": "Bercés par le récit d&#39;un vieil homme érudit, des enfants d&#39;aujourd&#39;hui se retrouvent transportés au ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

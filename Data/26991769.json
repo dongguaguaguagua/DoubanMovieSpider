@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐怖毕业照2",
+  "url": "/subject/26991769/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2496320143.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274565/",
+      "name": "陆诗雨 Shiyu Lu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347759/",
+      "name": "杨宁 Ning Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274565/",
+      "name": "陆诗雨 Shiyu Lu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336641/",
+      "name": "陈圆 Yuan Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360341/",
+      "name": "刘俐儿 Li-er Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340991/",
+      "name": "宋伟 Wei Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360342/",
+      "name": "聂晶磊 Jinglei Nie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360343/",
+      "name": "柴子娣 Zidi Chai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356228/",
+      "name": "李晨溪 Qian Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360344/",
+      "name": "刘冲儿 Chong-er Liu"
+    }
+  ]
+,
+  "datePublished": "2017-08-18",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "苏亮曾和尹飘飘（聂晶磊 饰）之前有过一段美好的恋情，情投意合的两人彼此之间感情十分深厚。然而天不遂人愿，在一场意外中，尹飘飘不幸丧生，苏亮从此生活在对她的思念和痛苦之中。
+一晃眼多年过去，在这些年间，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "640",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.2"
+  }
+}

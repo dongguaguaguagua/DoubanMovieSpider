@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "留夏",
+  "url": "/subject/27205168/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505769122.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420259/",
+      "name": "张海峰 Haifeng Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-11-21",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5"],
+  "duration": "PT1H30M",
+  "description": "影片讲述的是父母外出打工的儿童张翰祥与奶奶两人在老家相依为命，随着年龄的增长，张翰祥越来越思念自己的父母，也越来越向往城市的生活 ；直到遇见从城里来乡下过暑假的女孩依依，张翰祥和小伙伴张子乐一边听着依...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3446",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

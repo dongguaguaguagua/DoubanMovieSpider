@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新手上路 Le poulain",
+  "url": "/subject/30268709/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2537914275.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351828/",
+      "name": "诺亚·德勃雷 Noé Debré"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028139/",
+      "name": "亚历山德拉·拉米 Alexandra Lamy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354320/",
+      "name": "费尼肯·欧菲尔德 Finnegan Oldfield"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379371/",
+      "name": "瓦蕾丽·卡尔桑迪 Valérie Karsenti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336358/",
+      "name": "吉勒·科昂 Gilles Cohen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037786/",
+      "name": "菲烈·卡特林 Philippe Katerine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423205/",
+      "name": "让-克洛德·鲍德拉科 Jean-Claude Baudracco"
+    }
+  ]
+,
+  "datePublished": "2018-09-19",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H37M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

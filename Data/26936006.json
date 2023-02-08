@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "毕业班 졸업반",
+  "url": "/subject/26936006/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2408819491.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322175/",
+      "name": "延尚昊 Sang-ho Yeon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322175/",
+      "name": "延尚昊 Sang-ho Yeon"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344155/",
+      "name": "李柱胜 Joo-seung Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381907/",
+      "name": "姜臻雅 Jin-ah Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478727/",
+      "name": "洪义俊 il Jun Hong"
+    }
+  ]
+,
+  "datePublished": "2016-12-29",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H22M",
+  "description": "讲述了梦想成为网络漫画家的男主人公偶然得知自己仰慕的校花在从事援助交际而发生的故事……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "980",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

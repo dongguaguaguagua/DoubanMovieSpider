@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "离奇命案",
+  "url": "/subject/27160722/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410467/",
+      "name": "金宁 Ning Jin"
+    }
+  ]
+,
+  "datePublished": "2017-09-23",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H3M",
+  "description": "十年前的簪花岭路热闹非凡，涉世未深的17岁女孩被一群心存邪念的男人喂食了大量的摇头丸，被带到簪花岭路轮奸，因为服用了过量的摇头丸，女孩的眼前出现了幻觉，她总感觉眼前爬满了老鼠和蛇。回到出租屋内，她在眼...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

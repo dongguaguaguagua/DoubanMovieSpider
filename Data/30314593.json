@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Ma fille",
+  "url": "/subject/30314593/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533877639.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028097/",
+      "name": "罗什迪·泽姆 Roschdy Zem"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "The journey of a father looking for his daughter, one night, in Paris, until dawn.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

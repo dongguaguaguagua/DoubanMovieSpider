@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "人品鉴定 Measure of a Man",
+  "url": "/subject/25660416/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2517453943.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018794/",
+      "name": "吉姆·洛奇 Jim Loach"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016050/",
+      "name": "Robert Lipsyte Robert Lipsyte"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009256/",
+      "name": "朱迪·格雷尔 Judy Greer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010556/",
+      "name": "唐纳德·萨瑟兰 Donald Sutherland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023024/",
+      "name": "丽亚娜·莱伯拉托 Liana Liberato"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049503/",
+      "name": "卢克·威尔逊 Luke Wilson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044978/",
+      "name": "卢克·本沃德 Luke Benward"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342556/",
+      "name": "博·纳普 Beau Knapp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349857/",
+      "name": "丹妮尔·罗丝·拉塞尔 Danielle Rose Russell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316917/",
+      "name": "山姆·基利 Sam Keeley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333686/",
+      "name": "布雷克·库珀 Blake Cooper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013784/",
+      "name": "伊莎贝拉·弗尔曼 Isabelle Fuhrman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310576/",
+      "name": "麦迪逊·贝蒂 Madisen Beaty"
+    }
+  ]
+,
+  "datePublished": "2018-04-15",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H40M",
+  "description": "一个受欺负的青少年经历了一个转折的夏天，在这个夏天他学会了站起来。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "184",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

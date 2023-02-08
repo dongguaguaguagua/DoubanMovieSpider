@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你，是我的眼",
+  "url": "/subject/26990718/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2444928699.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317043/",
+      "name": "杨真 Zhen Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322715/",
+      "name": "柳桦 Hua Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329795/",
+      "name": "魏子昕 Zixin Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368508/",
+      "name": "王馨研 Xinyan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344794/",
+      "name": "刘挺 Ting Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275948/",
+      "name": "史航 Hang Shi"
+    }
+  ]
+,
+  "datePublished": "2017-03-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "影片《你，是我的眼》描写了盲人企业家曹红兵，致力于用自己的产品搭建盲人与世界沟通的桥梁，他为此卖掉了生意蒸蒸日上的按摩店，又以诚待人，引进各类技术人才，与他们经历创业的艰难并结下深厚友谊的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

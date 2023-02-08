@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "枪声响起 Shot",
+  "url": "/subject/27612085/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543682576.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1111461/",
+      "name": "杰里米·卡根 Jeremy Kagan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1111461/",
+      "name": "杰里米·卡根 Jeremy Kagan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017956/",
+      "name": "诺亚·怀尔 Noah Wyle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027313/",
+      "name": "莎朗·莉尔 Sharon Leal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376970/",
+      "name": "小豪尔赫·兰登伯格 Jorge Lendeborg Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036475/",
+      "name": "山德·贝克利 Xander Berkeley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013892/",
+      "name": "伊莲·亨德里克斯 Elaine Hendrix"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165903/",
+      "name": "马尔科姆-贾马尔·华纳 Malcolm-Jamal Warner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189927/",
+      "name": "乔伊·奥斯曼斯基 Joy Osmanski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368418/",
+      "name": "多米尼克·哥伦布 Dominic Colón"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378100/",
+      "name": "拉斐尔·塞布里恩 Rafael Cebrián"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189123/",
+      "name": "布拉德·李·温德 Brad Lee Wind"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004630/",
+      "name": "莎拉·克拉克 Sarah Clarke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420378/",
+      "name": "索菲亚·桑蒂 Sophia Santi"
+    }
+  ]
+,
+  "datePublished": "2017-09-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "Mark (Noah Wyle) and Phoebe are in the midst of a breakup. Miguel| a bullied teenager| gets an illeg...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

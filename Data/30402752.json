@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大路朝天",
+  "url": "/subject/30402752/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543162197.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318672/",
+      "name": "苗月 Yue Miao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318672/",
+      "name": "苗月 Yue Miao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038193/",
+      "name": "李保田 Baotian Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309215/",
+      "name": "陈瑾 Jin Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406838/",
+      "name": "巴登西绕 Badeng Xirao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316800/",
+      "name": "张政勇 Zhengyong Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292151/",
+      "name": "孙敏 Min Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323377/",
+      "name": "白威 Wei Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316799/",
+      "name": "郭晓峰 Xiaofeng Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404361/",
+      "name": "孙艺杨 Yiyang Sun"
+    }
+  ]
+,
+  "datePublished": "2018-12-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H0M",
+  "description": "在社会主义道路上，中国公路的发展和人民命运紧密相连的。《大路朝天》以四川公路建设为切口，以成雅高速、雅西高速、雅康高速建设为题材，通过讲述祖孙三代路桥工人伴随改革开放40年经历的命运和情感故事，折射出...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "930",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

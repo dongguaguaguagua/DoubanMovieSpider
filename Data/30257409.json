@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Down&#39;s Revenge",
+  "url": "/subject/30257409/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2537935314.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049596/",
+      "name": "约翰·萨维奇 John Savage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392273/",
+      "name": "尼古拉斯·亚历山大 Nicholas Alexander"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1144260/",
+      "name": "帕梅拉·萨勒姆 Pamela Salem"
+    }
+  ]
+,
+  "datePublished": "2018-10-25",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "PT1H48M",
+  "description": "David (Nicholas Alexander) an innocent mentally challenged, loving and caring high school teenager g...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

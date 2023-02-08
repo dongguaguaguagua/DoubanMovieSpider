@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "耶路撒冷有轨电车 A Tramway In Jerusalem",
+  "url": "/subject/30283583/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553174906.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028057/",
+      "name": "阿莫斯·吉泰 Amos Gitai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028057/",
+      "name": "阿莫斯·吉泰 Amos Gitai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333793/",
+      "name": "Marie-Jose Sanselme Marie-Jose Sanselme"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040679/",
+      "name": "马修·阿马立克 Mathieu Amalric"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010031/",
+      "name": "雅艾尔·阿贝卡西斯 Yaël Abecassis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358595/",
+      "name": "拉米斯·阿马尔 Lamis Ammar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008142/",
+      "name": "李伦·勒夫 Liron Levo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333296/",
+      "name": "皮坡·戴尔波诺 Pippo Delbono"
+    }
+  ]
+,
+  "datePublished": "2018-09-03",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "On a tramway that connects several of Jerusalem&#39;s neighborhoods from East to West, a mosaic of peopl...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "67",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

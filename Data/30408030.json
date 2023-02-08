@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "只差一个你",
+  "url": "/subject/30408030/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543161328.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377005/",
+      "name": "田琳 Lin Tian"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376279/",
+      "name": "戚蓝尹 Lanyin Qi"
+    }
+  ]
+,
+  "datePublished": "2018-12-12",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H24M",
+  "description": "故事讲述了一个刚从美国留学归来、完全没有事业打算、一心想着享受人生的富二代女孩，却突然面临父亲去世、家族企业危机等一系列变故。促使她坚强的担负起了挽救家族企业的重任。
+在助理兼闺蜜的帮助下，，坚毅顽强...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

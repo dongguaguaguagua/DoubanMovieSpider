@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "In2ruders",
+  "url": "/subject/30257491/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2572324220.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041361/",
+      "name": "卡普莱斯·鲍莱特 Caprice Bourret"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342585/",
+      "name": "塞缪尔·安德森 Samuel Anderson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1100106/",
+      "name": "Tony Hadley Tony Hadley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009566/",
+      "name": "梅根·伯恩斯 Megan Burns"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352422/",
+      "name": "丹尼尔·斯蒂森 Daniel Stisen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061540/",
+      "name": "伊斯拉·布莱尔 Isla Blair"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT0H25M",
+  "description": "When a rising twin sister pop duo refuse to sign to a powerful record label, their lives take a dark...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

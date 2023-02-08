@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绝地",
+  "url": "/subject/26961119/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2448338131.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322142/",
+      "name": "肖莫庸 Moyong Xiao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322142/",
+      "name": "肖莫庸 Moyong Xiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323979/",
+      "name": "邢原平 Yuanping Xing"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353048/",
+      "name": "喜莲娜 Selena"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352142/",
+      "name": "肖骁 Xiao Xiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367601/",
+      "name": "徐连顺 Lianshun Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316636/",
+      "name": "铃木美妃 Miki Suzuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424601/",
+      "name": "肖骁 Xiao Xiao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H32M",
+  "description": "影片讲述的是1945年8月前苏联红军解放东北前夕，抗联88旅得知情报，日军在穆棱共和乡一带储藏了一批化学武器，于是迅速派遣一支由抗联战士、前苏联红军和化学武器专家组成的30多人的小分队进入穆棱境内，寻...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "93",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.4"
+  }
+}

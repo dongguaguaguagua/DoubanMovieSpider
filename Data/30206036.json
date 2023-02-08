@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "ゼニガタ",
+  "url": "/subject/30206036/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2539915902.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364825/",
+      "name": "绫部真弥 Maya Ayabe"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341814/",
+      "name": "永森裕二 Yûji Nagamori"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318236/",
+      "name": "大谷亮平 Ryohei Otani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223768/",
+      "name": "小林且弥 Katsuya Kobayashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312770/",
+      "name": "佐津川爱美 Aimi Satsukawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372590/",
+      "name": "田中俊介 Shunsuke Tanaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337854/",
+      "name": "玉城裕规 Yuki Tamaki"
+    }
+  ]
+,
+  "datePublished": "2018-05-26",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H51M",
+  "description": "ドラマ「ラヴソング」「「逃げるは恥だが役に立つ」などで注目・人気を集める俳優の大谷亮平が、映画初主演で居酒屋店主と闇金屋の2つの顔を持つ主人公を演じ、金への欲望や恐怖を描いた人間ドラマ。ひなびた漁港の...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

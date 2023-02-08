@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Aa Gaya Hero",
+  "url": "/subject/26990218/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2441156518.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036609/",
+      "name": "哥文达 Govinda"
+    }
+  ]
+,
+  "datePublished": "2017-03-16",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

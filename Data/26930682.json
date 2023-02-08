@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Scarefest",
+  "url": "/subject/26930682/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2403638432.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021178/",
+      "name": "迈克尔哈维 Michael Harvey"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359296/",
+      "name": "埃文·豪尔 Evan Hall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435448/",
+      "name": "杰伊·本尼迪克特 Jay Benedict"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A night of Halloween fun turns into a nightmare for some friends who become the unwitting stars of a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

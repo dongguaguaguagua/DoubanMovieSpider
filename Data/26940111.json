@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "将我唤醒 Разбуди меня",
+  "url": "/subject/26940111/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2407212280.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375450/",
+      "name": "纪尧姆·普罗岑科 Guillaume Protsenko"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052010/",
+      "name": "基里尔·皮罗戈夫 Kirill Pirogov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000918/",
+      "name": "康斯坦丁·拉夫罗年科 Konstantin Lavronenko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335233/",
+      "name": "Daniil Vorobyov Daniil Vorobyov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1466740/",
+      "name": "德米特里·布洛欣 Dmitriy Blokhin"
+    }
+  ]
+,
+  "datePublished": "2017-11-28",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H35M",
+  "description": "泽尼娅是一名在机场工作的女人。一年前，她的男朋友突然离开俄国并且在国外失踪，泽尼娅一度无法承受失去男友的痛苦。在她痛苦的生活中，她偶然得到了一种特殊能力……通过做梦预见未来的能力。她决定运用这种能力逃...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "107",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "星期五的孩子 Friday&#39;s Child",
+  "url": "/subject/26957202/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2526694361.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340734/",
+      "name": "A.J. 爱德华兹 A.J. Edwards"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340734/",
+      "name": "A.J. 爱德华兹 A.J. Edwards"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328390/",
+      "name": "泰伊·谢里丹 Tye Sheridan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274510/",
+      "name": "伊莫琴·普茨 Imogen Poots"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1235113/",
+      "name": "卡赖伯·兰德里·琼斯 Caleb Landry Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036484/",
+      "name": "杰弗里·怀特 Jeffrey Wright"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1068619/",
+      "name": "布莱特·巴特勒 Brett Butler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313165/",
+      "name": "乔·史蒂文斯 Joe Stevens"
+    }
+  ]
+,
+  "datePublished": "2018-03-11",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H33M",
+  "description": "瑞奇（泰尔·谢里丹 Tye Sheridan 饰）很小的时候就失去了父母沦为孤儿，在孤儿院长大的他被多个家庭收养，但每一段收养经历都不能善终，反复的遭到弃养对瑞奇的心灵造成了巨大的生孩。随着年龄的增长...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "240",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

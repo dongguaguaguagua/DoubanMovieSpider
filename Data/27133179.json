@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "318号公路",
+  "url": "/subject/27133179/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2550556541.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412524/",
+      "name": "聂运兴 Yunxing Nie"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412524/",
+      "name": "聂运兴 Yunxing Nie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412525/",
+      "name": "陈颖 Ying Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367976/",
+      "name": "岳辛 Xin Yue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327727/",
+      "name": "德姬 Deji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318390/",
+      "name": "孙一明 Yiming Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376957/",
+      "name": "夏诺·扎西敦珠 夏诺.扎西敦珠"
+    }
+  ]
+,
+  "datePublished": "2017-10-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "两个来自北京和上海的女孩，带着自己的过去相遇在318号公路，一起骑行、各自找寻、重新迷失、又再次自我救赎。经历不一样的人和事后如何面对生活、理解生命的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1013",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

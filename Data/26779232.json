@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的甜心正太 เรารักนาย",
+  "url": "/subject/26779232/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2500993743.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378259/",
+      "name": "瓦奇拉维·让维瓦 Wachirawit Ruangwiwat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448140/",
+      "name": "彭劳勒·特基雅特 Garnpaphon Laolerkiat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452518/",
+      "name": "贾斯汀·奥古斯丁 Justin Agustin"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H40M",
+  "description": "Nack is a 17 year old boy whose life focuses only on studying. Stepping into the last year of high s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "555",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

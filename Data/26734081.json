@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "某处 Un monde ailleurs",
+  "url": "/subject/26734081/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2616180027.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355018/",
+      "name": "艾蒂安·福尔 Étienne Faure"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355018/",
+      "name": "艾蒂安·福尔 Étienne Faure"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025386/",
+      "name": "保罗·巴特尔 Paul Bartel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353496/",
+      "name": "皮埃尔·普里厄 Pierre Prieur"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323473/",
+      "name": "恩斯特·吴默埃 Ernst Umhauer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1205500/",
+      "name": "小阿兰·德龙 Alain Delon Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313815/",
+      "name": "埃米尔·贝宁 Emile Berling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377608/",
+      "name": "西奥·乔尔比 Théo Cholbi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345492/",
+      "name": "朱尔·本谢特里 Jules Benchetrit"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348986/",
+      "name": "罗德·帕拉多特 Rod Paradot"
+    }
+  ]
+,
+  "datePublished": "2020-10-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "在南美洲一个完全孤立的热带森林中，五个男孩长途跋涉去见一个神秘的治疗师。在河对岸，他们看到了一个相当奇怪的营地，似乎被三个女孩占领，双方尝试沟通后发现这似乎有很大的困难。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

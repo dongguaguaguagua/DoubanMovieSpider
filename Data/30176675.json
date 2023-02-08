@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "剿匪龙虎山",
+  "url": "/subject/30176675/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521506458.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322303/",
+      "name": "高力强 Liqiang Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355988/",
+      "name": "高鹏 Peng Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453275/",
+      "name": "林志刚 Zhigang Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390544/",
+      "name": "白那日苏 Narisu Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401074/",
+      "name": "姚娆 Rao Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377980/",
+      "name": "刘超 Chao Liu"
+    }
+  ]
+,
+  "datePublished": "2018-03-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "民国年间，来密林镇寻根问祖的东子，在得知父亲当年就是被该镇土匪杀害的，为报父仇，东子联络众义士在乡亲们的帮助下，最终手刃贩卖烟土为害乡里的仇人，平息匪患，还了密林镇一片太平祥和。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

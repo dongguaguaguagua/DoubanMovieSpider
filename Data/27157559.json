@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天使脸庞 Gueule d&#39;ange",
+  "url": "/subject/27157559/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2525777272.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391634/",
+      "name": "瓦内萨·菲尔霍 Vanessa Filho"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391634/",
+      "name": "瓦内萨·菲尔霍 Vanessa Filho"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382666/",
+      "name": "弗朗索瓦·皮罗 François Pirot"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006955/",
+      "name": "玛丽昂·歌迪亚 Marion Cotillard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356259/",
+      "name": "奥尔本·勒努瓦 Alban Lenoir"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342579/",
+      "name": "娜德·蒂约 Nade Dieu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023193/",
+      "name": "斯特凡·里多 Stéphane Rideau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280250/",
+      "name": "斯特凡诺·卡塞蒂 Stefano Cassetti"
+    }
+  ]
+,
+  "datePublished": "2018-05-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H48M",
+  "description": "一个年轻女人和她八岁的女儿一同生活。一天晚上，她在一家夜总会邂逅一个男人。在此之后，她决定离开这个家，留下她的孩子单独一人……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "293",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

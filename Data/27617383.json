@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乌龙刺客",
+  "url": "/subject/27617383/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512127457.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382145/",
+      "name": "冷昊泽 Haoze Leng"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380691/",
+      "name": "刘辛格 Xinge Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397200/",
+      "name": "徐子涵 Zihan Xu"
+    }
+  ]
+,
+  "datePublished": "2018-01-31",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H10M",
+  "description": "《乌龙刺客》讲述了一个从小受尽欺负，沉迷网络和暴力内容的网瘾少年李泓泉(李泽宇饰)，沉迷在虚无的网络和自己幻想的世界里，用暴力抒发着自己的怨愤,最终发现只是一场梦，顿悟网络世界的虚无，从而醒悟摆脱病态...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

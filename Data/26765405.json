@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一路向南",
+  "url": "/subject/26765405/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2354718830.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350303/",
+      "name": "冯建宇 Jianyu Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357348/",
+      "name": "张晓林 Xiaolin Zhang"
+    }
+  ]
+,
+  "datePublished": "2016-05-21",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u8fd0\u52a8"],
+  "duration": "",
+  "description": "由湖南影像创客空间荣誉出品，爱尚传媒联合出品，新片场独家发行，青年导演覃旻执导，新生代实力演员冯建宇、张晓林联合主演的网络电影《一路向南》已于5月21日在爱奇艺独家上映。
+《一路向南》是一部别出心裁的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1171",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

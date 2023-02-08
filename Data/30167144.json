@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "莫斯 Moss",
+  "url": "/subject/30167144/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522418039.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393526/",
+      "name": "丹尼尔·佩德尔 Daniel Peddle"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393526/",
+      "name": "丹尼尔·佩德尔 Daniel Peddle"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377410/",
+      "name": "米切尔·斯莱格特 Mitchell Slaggert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327522/",
+      "name": "克里斯汀·马扎诺 Christine Marzano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393527/",
+      "name": "Dorian Cobb Dorian Cobb"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393528/",
+      "name": "Billy Ray Suggs Billy Ray Suggs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393529/",
+      "name": "Erby Dalmus Burton Erby Dalmus Burton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393530/",
+      "name": "Cohen Bratcher Cohen Bratcher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393531/",
+      "name": "Hannah Johnston Hannah Johnston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393532/",
+      "name": "Sue Philemon Sue Philemon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393533/",
+      "name": "Carlene Ferguson Carlene Ferguson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393534/",
+      "name": "William Rothwell William Rothwell"
+    }
+  ]
+,
+  "datePublished": "2017-06-21",
+  "genre": ["\u7231\u60c5", "\u5192\u9669"],
+  "duration": "PT1H21M",
+  "description": "In this Southern Gothic coming-of-age tale, an isolated and troubled young man, Moss, meets a myster...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Noxious",
+  "url": "/subject/30336265/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535284495.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481669/",
+      "name": "莉莉·卡冬 Lily Cardone"
+    }
+  ]
+,
+  "datePublished": "2018-08-13",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "墨西哥湾发生致命的石油泄漏，爆炸和有毒废物碰撞，结果产生了一种恐吓海滩社区的有害突变。警察警长（德文休斯）领导调查一名不道德的首席执行官（Michael Milhoan），但这是一个古怪的侦探（Bri...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

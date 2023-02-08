@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Sunset Society",
+  "url": "/subject/30173661/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516736017.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032721/",
+      "name": "罗尔夫·坎尼斯基 Rolfe Kanefsky"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187680/",
+      "name": "亚伦·格罗本 Aaron Groben"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "Welcome to the world of the Sunset Society, a secret organization in Hollywood where parties are hel...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

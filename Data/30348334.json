@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Compulsión",
+  "url": "/subject/30348334/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2536726650.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1237233/",
+      "name": "苏珊娜·阿巴图纳·戈麦斯 Susana Abaituna Gómez"
+    }
+  ]
+,
+  "datePublished": "2017-09-29",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A shy young woman suspects that her enigmatic boyfriend is cheating on her. When start looking for t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

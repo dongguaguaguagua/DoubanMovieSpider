@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猿创世界之熊孩子部落",
+  "url": "/subject/26688299/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2309321568.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354196/",
+      "name": "刘潘 Pan Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354197/",
+      "name": "黄卓民 Zhuomin Huang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354198/",
+      "name": "吕佩玉 Peiyu Lv"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354200/",
+      "name": "骆妍倩 Yanqian Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354199/",
+      "name": "王愫酥 Susu Wang"
+    }
+  ]
+,
+  "datePublished": "2016-01-23",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H20M",
+  "description": "自以为是的天才小猿（吕佩玉 配音），扰乱了部落一年一度的狩猎。为了部落的生计，爸爸们不得不深入未知的森林追捕猎物。然而传说中可怕的虫子，让爸爸们溃不成军，女汉子铃铛（王愫酥 配音）的爸爸甚至未能回到部...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "172",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "最后一件外套 El último traje",
+  "url": "/subject/27109435/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495690599.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305174/",
+      "name": "Pablo Solarz Pablo Solarz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305174/",
+      "name": "Pablo Solarz Pablo Solarz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027990/",
+      "name": "安吉拉·莫利纳 Ángela Molina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294575/",
+      "name": "马丁·皮罗杨斯基 Martín Piroyansky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032376/",
+      "name": "娜塔丽娅·沃拜克 Natalia Verbeke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244874/",
+      "name": "欧嘉·博拉茨 Olga Boladz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1120668/",
+      "name": "Jan Mayzel Jan Mayzel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048453/",
+      "name": "米格尔·安吉尔·索拉 Miguel Ángel Solá"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451414/",
+      "name": "Michal Sikorski Michal Sikorski"
+    }
+  ]
+,
+  "datePublished": "2017-10-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "亚伯拉罕是一个88岁的犹太裁缝，他准备离开布宜诺斯艾利斯前往波兰，在那里找寻在纳粹占领时期救过他一命的恩人。面对种种困难，在将近70年没有任何关于恩人的消息后，亚伯拉罕还是竭尽一切试图找到他的老朋友，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "8804",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.1"
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "收割伊丽莎白 Elizabeth Harvest",
+  "url": "/subject/27073254/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2528233101.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049990/",
+      "name": "塞巴斯蒂安·古提耶雷兹 Sebastian Gutierrez"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049990/",
+      "name": "塞巴斯蒂安·古提耶雷兹 Sebastian Gutierrez"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1262105/",
+      "name": "阿比·丽 Abbey Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049495/",
+      "name": "卡拉·古奇诺 Carla Gugino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004586/",
+      "name": "塞伦·希德 Ciarán Hinds"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027874/",
+      "name": "迪伦·贝克 Dylan Baker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000400/",
+      "name": "马修·比尔德 Matthew Beard"
+    }
+  ]
+,
+  "datePublished": "2018-03-10",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H45M",
+  "description": "讲述伊丽莎白和科学家亨利结婚后，住进了后者的豪宅，亨利慷慨给予金钱、珠宝、高大上晚宴，其他人也都谦恭地对待着伊丽莎白，但她总有一种挥之不去的不安感。亨利向伊丽莎白保证现在他拥有的一切都是她的，唯独有一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3489",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

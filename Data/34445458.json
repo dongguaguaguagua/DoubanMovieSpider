@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "金小姐之谜 KBS 드라마 스페셜 - 미스김의 미스터리",
+  "url": "/subject/34445458/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560815017.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330799/",
+      "name": "金多顺 Da-som Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373782/",
+      "name": "权赫秀 Hyuk-soo Kwon"
+    }
+  ]
+,
+  "datePublished": "2018-10-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

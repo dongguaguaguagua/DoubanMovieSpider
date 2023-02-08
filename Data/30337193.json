@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "御前法医大仵作2",
+  "url": "/subject/30337193/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2535267052.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411578/",
+      "name": "朱江 Jiang Zhu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411578/",
+      "name": "朱江 Jiang Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378639/",
+      "name": "金悦 Jin Yue"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364982/",
+      "name": "陈信喆 Xin Zer Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361364/",
+      "name": "姜萌轩 Michelle Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384576/",
+      "name": "周紫馨 Zixin Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336765/",
+      "name": "蒋中炜 Zhongwei Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323159/",
+      "name": "傅隽 Jun Fu"
+    }
+  ]
+,
+  "datePublished": "2018-10-23",
+  "genre": ["\u60ac\u7591", "\u53e4\u88c5"],
+  "duration": "PT1H27M",
+  "description": "“御前大仵作”宋邵被贬流落到临安县成为无品无级的师爷，却被一具死后分娩男婴的女尸和一具腰斩的男尸重新拉回了敛房，再次操起了法医仵作的行当。虽然在知府何世琮和县令邹庆之的双重压力下陷入两难之地，但宋邵依...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

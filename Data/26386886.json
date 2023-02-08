@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "监护权 Custody",
+  "url": "/subject/26386886/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2506422073.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014881/",
+      "name": "詹姆斯·拉派恩 James Lapine"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014881/",
+      "name": "詹姆斯·拉派恩 James Lapine"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022676/",
+      "name": "维奥拉·戴维斯 Viola Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036407/",
+      "name": "艾伦·伯斯汀 Ellen Burstyn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041531/",
+      "name": "劳尔·埃斯帕扎 Raúl Esparza"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025143/",
+      "name": "海顿·潘妮蒂尔 Hayden Panettiere"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027825/",
+      "name": "托尼·夏尔赫布 Tony Shalhoub"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000116/",
+      "name": "卡塔琳娜·桑地诺·莫雷诺 Catalina Sandino Moreno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406166/",
+      "name": "沙察·捷米罗夫 Shacha Temirov"
+    }
+  ]
+,
+  "datePublished": "2016-04-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H44M",
+  "description": "The lives of three women are unexpectedly changed when they cross paths at a New York Family Court.@...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

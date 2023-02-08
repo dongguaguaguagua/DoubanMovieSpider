@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "萌宠特工队 Marnies Welt",
+  "url": "/subject/30247400/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2569496016.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034454/",
+      "name": "克里斯托弗·劳恩斯坦 Christoph Lauenstein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035034/",
+      "name": "沃尔夫冈·劳恩斯坦 Wolfgang Lauenstein"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034454/",
+      "name": "克里斯托弗·劳恩斯坦 Christoph Lauenstein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035034/",
+      "name": "沃尔夫冈·劳恩斯坦 Wolfgang Lauenstein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321948/",
+      "name": "耶斯伯·穆勒 Jesper Møller"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005100/",
+      "name": "亚历桑德娜·内尔德尔 Alexandra Neldel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000864/",
+      "name": "阿克西尔·普拉尔 Axel Prahl"
+    }
+  ]
+,
+  "datePublished": "2018-06-13",
+  "genre": ["\u52a8\u753b", "\u5bb6\u5ead", "\u5192\u9669"],
+  "duration": "PT1H33M",
+  "description": "小镇盗窃案频频发生，一只梦想成为大侦探的猫咪为了找出真凶决定离家出走。旅途中的她遇到了一只自认风度翩翩的公鸡，一只梦想成为马戏团明星的驴，一只仇恨人类的守门狗。四只小动物历经磨合，即将找出真凶时，却被...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2813",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

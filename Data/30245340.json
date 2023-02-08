@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "左边 Left",
+  "url": "/subject/30245340/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2534197193.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022807/",
+      "name": "蕾切尔·福克斯 Rachel G. Fox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438298/",
+      "name": "谢里·戴维斯 Sheri Davis"
+    }
+  ]
+,
+  "datePublished": "2017-01-01",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "A college woman, born with a paralyzed arm, aspires to become a pianist. To develop her musical tale...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

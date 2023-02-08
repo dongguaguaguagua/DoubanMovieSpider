@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱丽丝湖血案 Lake Alice",
+  "url": "/subject/26356593/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2461957175.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274948/",
+      "name": "本·米利肯 Ben Milliken"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1232274/",
+      "name": "布兰登·伊顿 Brando Eaton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1167784/",
+      "name": "迈克尔·肖姆斯·维尔斯 Michael Shamus Wiles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1128558/",
+      "name": "皮特·奥布莱恩 Peter O&#39;Brien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370316/",
+      "name": "劳拉·尼米 Laura Niemi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1081971/",
+      "name": "艾琳·迪茨 Eileen Dietz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1225622/",
+      "name": "布拉德·施密特 Brad Schmidt"
+    }
+  ]
+,
+  "datePublished": "2017-05-08",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "Meeting his girlfriend&#39;s family for the first time, Ryan must prove his intentions with their daught...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "161",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.6"
+  }
+}

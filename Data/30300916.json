@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Krampus Carol",
+  "url": "/subject/30300916/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531108191.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1157769/",
+      "name": "海伦妮·尤迪 Helene Udy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050181/",
+      "name": "布琳克·史蒂文斯 Brinke Stevens"
+    }
+  ]
+,
+  "datePublished": "2018-10-26",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

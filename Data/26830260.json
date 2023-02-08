@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Maniac 2: The Hell Is Back",
+  "url": "/subject/26830260/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1179453/",
+      "name": "库纳尔·卡波尔 Kunal Kapoor"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u5947\u5e7b"],
+  "duration": "PT2H0M",
+  "description": "Sameer is trying to get control on his supernatural power, but some clues he has got that everything...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

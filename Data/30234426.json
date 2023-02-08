@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "来者何人",
+  "url": "/subject/30234426/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534170479.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424422/",
+      "name": "柴立鹏 Lipeng Chai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424422/",
+      "name": "柴立鹏 Lipeng Chai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409636/",
+      "name": "刘晓红 Xiaohong Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461142/",
+      "name": "屈扬 Yang Qu"
+    }
+  ]
+,
+  "datePublished": "2019-10-30",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u897f\u90e8"],
+  "duration": "PT1H32M",
+  "description": "讲述了发生在西北偏僻村落的一桩意外死亡案件，由此牵扯出一系列突如其来的杀人案和“嫌疑者”：村医刘新申、心理学高材生刘云、与刘新申再续前缘的妻子康晓燕、意外毙命乡野路头的陈全、与陈全素有积怨的村民等，到...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "697",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

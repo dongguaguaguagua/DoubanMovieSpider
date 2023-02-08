@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "十八洞村",
+  "url": "/subject/27148198/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2500910835.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318672/",
+      "name": "苗月 Yue Miao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318672/",
+      "name": "苗月 Yue Miao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054562/",
+      "name": "王学圻 Xueqi Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323377/",
+      "name": "白威 Wei Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313230/",
+      "name": "陈西贝 Xibei Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309215/",
+      "name": "陈瑾 Jin Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317986/",
+      "name": "墨阳 Yang Mo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339505/",
+      "name": "阿旺仁青 Ngawang Rinchen"
+    }
+  ]
+,
+  "datePublished": "2017-10-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H4M",
+  "description": "王学圻在片中饰演的主人公杨英俊是一位退伍老兵。故事以国家实施“精准扶贫”战略为大背景，通过杨英俊以及杨家的几位堂兄弟在脱贫的过程中发生的观念上以及生活方式上的改变，用诗意的电影语言描叙当下乡村居民的内...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "9078",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

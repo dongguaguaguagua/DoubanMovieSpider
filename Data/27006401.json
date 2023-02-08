@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Control",
+  "url": "/subject/27006401/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2601529301.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019437/",
+      "name": "Michael Stasko Michael Stasko"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019437/",
+      "name": "Michael Stasko Michael Stasko"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370322/",
+      "name": "莎伦·贝尔 Sharon Belle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308975/",
+      "name": "Ted Bezaire Ted Bezaire"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1227606/",
+      "name": " Tonya Dodds"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1230515/",
+      "name": " Matt Maenpaa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1185016/",
+      "name": "Jeff Sinasac Jeff Sinasac"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019437/",
+      "name": "Michael Stasko Michael Stasko"
+    }
+  ]
+,
+  "datePublished": "2018-04-26",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H34M",
+  "description": "THE CONTROL tells the story of what happens when a cutting-edge computer-brain interface is develope...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

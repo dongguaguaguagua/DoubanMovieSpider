@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的青春你曾路过",
+  "url": "/subject/27008581/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2453289802.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355854/",
+      "name": "徐赫屾 Sunny Hsu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354115/",
+      "name": "杨能 Neng Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417378/",
+      "name": "尚媛媛 Yuanyuan Shang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H15M",
+  "description": "《我的青春你曾路过》主要讲述了一个友情爱情与生死交缠在一起的校园故事。出生于工薪家庭的顾盼（陈嘉雯饰）患有严重的遗传性心肌炎，面对生活和病痛的重重压力令生性乐天派的她失去了对生活的信心。为了在生前满足...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

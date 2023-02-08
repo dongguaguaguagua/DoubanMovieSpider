@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "通往火星 Passage to Mars",
+  "url": "/subject/26594197/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2263318973.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1198788/",
+      "name": "让-克里斯托夫·罗浮尔 Jean-Christophe Jeauffre"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1198788/",
+      "name": "让-克里斯托夫·罗浮尔 Jean-Christophe Jeauffre"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007020/",
+      "name": "夏洛特·兰普林 Charlotte Rampling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005172/",
+      "name": "巴兹·奥德林 Buzz Aldrin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1198788/",
+      "name": "让-克里斯托夫·罗浮尔 Jean-Christophe Jeauffre"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041010/",
+      "name": "扎克瑞·昆图 Zachary Quinto"
+    }
+  ]
+,
+  "datePublished": "2016-09-30",
+  "genre": ["\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H34M",
+  "description": "The journals of a true NASA Arctic expedition unveils the adventure of a six-man crew&#39;s aboard an ex...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

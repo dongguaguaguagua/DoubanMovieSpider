@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玛丽·居里 Marie Curie",
+  "url": "/subject/26816017/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2402343359.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293233/",
+      "name": "玛丽·诺埃尔 Marie Noelle"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338334/",
+      "name": "安德里亚·斯托尔 Andrea Stoll"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293233/",
+      "name": "玛丽·诺埃尔 Marie Noelle"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010028/",
+      "name": "卡罗利娜·格鲁什卡 Karolina Gruszka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048315/",
+      "name": "夏尔·贝尔林 Charles Berling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1106628/",
+      "name": "伊莎贝拉·库纳 Izabela Kuna"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274959/",
+      "name": "马立克·兹迪 Malik Zidi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166228/",
+      "name": "安德烈·维尔姆斯 André Wilms"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032457/",
+      "name": "达尼尔·奥勒布里斯基 Daniel Olbrychski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329955/",
+      "name": "玛丽·德纳尔诺 Marie Denarnaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333485/",
+      "name": "萨缪尔·芬齐 Samuel Finzi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176793/",
+      "name": "彼得·格洛瓦茨基 Piotr Glowacki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046240/",
+      "name": "让·弗里兹 Jan Frycz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326089/",
+      "name": "萨宾·塔布瑞亚 Sabin Tambrea"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377672/",
+      "name": "阿里耶·沃索尔特 Arieh Worthalter"
+    }
+  ]
+,
+  "datePublished": "2016-12-01",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "影片讲述了居里夫人1904年到1911年的经历。埋头实验，幼儿降生，丈夫离世——经历了人生变故的居里夫人仍以顽强的意志继续着科学研究，为自己争取法国科学研究院的席位并结识爱因斯坦和朗之万等人。她因为与...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "402",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

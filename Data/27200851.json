@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "那些面孔 얼굴들",
+  "url": "/subject/27200851/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545493893.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411625/",
+      "name": "李康贤 Kang-hyun Lee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411625/",
+      "name": "李康贤 Kang-hyun Lee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362718/",
+      "name": "金玺碧 Sae-byuk Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357058/",
+      "name": "朴钟焕 Jong-hwan Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366939/",
+      "name": "白秀章 Soo-Jang Baek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378848/",
+      "name": "尹钟硕 Jong-suk Yoon"
+    }
+  ]
+,
+  "datePublished": "2017-10-21",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT2H12M",
+  "description": "Giseon在一所中学当管理员。他开始培养对金苏的兴趣，他是足球队的学生。他问他的足球实践如何，学校是否有任何问题。他甚至在家里拜访他。Giseon的前海津辞职，忙着改造她母亲的小餐馆。吉森和海金的故...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "121",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

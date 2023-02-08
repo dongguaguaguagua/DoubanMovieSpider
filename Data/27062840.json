@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Cult Of The Vampire",
+  "url": "/subject/27062840/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2461635303.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459673/",
+      "name": "莱昂内尔·克劳德 "
+    }
+  ]
+,
+  "datePublished": "2016-05-18",
+  "genre": ["\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "PT1H17M",
+  "description": "Xandra, a rebellious vampire sets out on her own in pursuit of love and Rock &#39;N&#39; Roll, but there is ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

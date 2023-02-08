@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灼热之夏 تابستان داغ",
+  "url": "/subject/27602503/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508107689.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391445/",
+      "name": "艾波拉希姆·伊拉贾德 Ebrahim Irajzad"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369572/",
+      "name": "米娜·沙达蒂 Mina Sadati"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467475/",
+      "name": "沙伯·阿巴尔 Saber Abar"
+    }
+  ]
+,
+  "datePublished": "2017-08-30",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H25M",
+  "description": "纳斯林想要和她丈夫离婚，但是她知道如果这样做，她将无法得到六岁女儿的监护权。因此她瞒着丈夫，和女儿搬到了镇上的另一个地方，在那里，纳斯林在一所医院的托儿所找到了一份工作。一天另一个妈妈找到了她，之后他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "103",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

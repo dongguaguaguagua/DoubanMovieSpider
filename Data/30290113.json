@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你我同行 You with Me",
+  "url": "/subject/30290113/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2529750164.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319094/",
+      "name": "金显祐 Hyun-woo Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285678/",
+      "name": "Tonton Gutierrez Tonton Gutierrez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199388/",
+      "name": "Assunta de Rossi Assunta de Rossi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023324/",
+      "name": "李成延 Seung-yeon Lee"
+    }
+  ]
+,
+  "datePublished": "2017-09-27",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H32M",
+  "description": "It tells the story of Kim who lives with her overprotective parents and meets Jayson online. She the...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

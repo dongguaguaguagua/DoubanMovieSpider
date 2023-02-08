@@ -1,0 +1,55 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三变",
+  "url": "/subject/26990715/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2444432416.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274736/",
+      "name": "吴军 Jun Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313046/",
+      "name": "郑罗茜 Luoqian Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443909/",
+      "name": "尚城君 Chengjun Shang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457661/",
+      "name": "嵇建 Jian Ji"
+    }
+  ]
+,
+  "datePublished": "2017-03-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "“三变”指的是贵州六盘水市创造性地提出的“资源变资产、资金变股金、农民变股东”的改革措施。
+此项改革措施得到了中央的肯定。2017年的中央一号文件在讲到深化农村集体产权制度改革时说，要“鼓励地方开展资...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

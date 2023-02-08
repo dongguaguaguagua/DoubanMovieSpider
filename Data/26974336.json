@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "风流剑客",
+  "url": "/subject/26974336/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2428530863.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359486/",
+      "name": "徐俊 Jun Xu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383460/",
+      "name": "诺瑶 Yao Nuo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410467/",
+      "name": "金宁 Ning Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405088/",
+      "name": "刘思思 Sisi Liu"
+    }
+  ]
+,
+  "datePublished": "2017-03-15",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H31M",
+  "description": "曾经似狂风呼啸江湖的天下第一剑客穆易，厌倦了刀光剑影的江湖纷争，生出退隐之意，身为天煞门第一高手的他，只有为门主完成最后一次任务，才能换得自由身。 门主之女独孤芳与穆易一同出行，巧施美人计，诱骗采花盗...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

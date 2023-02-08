@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑带少女",
+  "url": "/subject/27031387/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2631628820.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321568/",
+      "name": "马史 Shi Ma"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H0M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

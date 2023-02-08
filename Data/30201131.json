@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "余生",
+  "url": "/subject/30201131/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2519865671.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408454/",
+      "name": "白林峰 Linfeng Bai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408454/",
+      "name": "白林峰 Linfeng Bai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419494/",
+      "name": "谢兴阳 Xingyang Xie"
+    }
+  ]
+,
+  "datePublished": "2018-04-20",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H37M",
+  "description": "安静走进大学后与转学来的插班生余洛同班。余洛的学习成绩和帅气的文艺气质深深吸引着安静，安静选择一种静守的方式喜欢着余洛。梦的美好总是没有那么完整。陆茗雪的突然出现，悄然中让安静的内心荡起了波澜，余洛对...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

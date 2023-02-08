@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "春 Spring",
+  "url": "/subject/26969721/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2432334023.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369389/",
+      "name": "奥马尔·法斯特 Omer Fast"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369389/",
+      "name": "奥马尔·法斯特 Omer Fast"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H44M",
+  "description": "Presented on five interconnected screens, Spring, is a portrait of two young German men whose lives ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

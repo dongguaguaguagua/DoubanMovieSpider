@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死亡忌日 Dassehra",
+  "url": "/subject/30415909/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2543881761.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014243/",
+      "name": "尼尔·尼汀·穆科什 Neil Nitin Mukesh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348575/",
+      "name": "蒂娜·德赛 Tina Desai"
+    }
+  ]
+,
+  "datePublished": "2018-10-26",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT2H11M",
+  "description": "超人警官鲁德拉·普拉塔普·卓汉，打掉了为非作歹印度某邦首席部长的故事……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

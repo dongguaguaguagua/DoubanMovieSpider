@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "岩脊求生 The Ledge",
+  "url": "/subject/27046591/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516334219.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1085568/",
+      "name": "霍华德·J·福特 Howard J. Ford"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356461/",
+      "name": "布莱特妮·阿什沃斯 Brittany Ashworth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362410/",
+      "name": "本·兰博 Ben Lamb"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474068/",
+      "name": "纳森·威尔士 Nathan Welsh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474069/",
+      "name": "路易斯·博伊尔 Louis Boyer "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456537/",
+      "name": "阿娜伊丝·帕雷洛 Anaïs Parello"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371163/",
+      "name": "戴维·韦曼 David Wayman"
+    }
+  ]
+,
+  "datePublished": "2022-02-11",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H26M",
+  "description": "影片讲述两个朋友的攀岩冒险变成了一场可怕的噩梦。凯莉用DV镜头捕捉到她最好的朋友被谋杀的过程后，她成为了这群朋友的下一个目标，他们为了不惜一切代价销毁证据决定追杀凯莉。凯莉为了活下去必须开始了一场危险...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1881",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

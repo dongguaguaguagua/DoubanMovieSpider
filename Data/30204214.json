@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "站立的爱 L&#39;amour debout",
+  "url": "/subject/30204214/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542580202.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421396/",
+      "name": "Michael Dacheux Michael Dacheux"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-05-18",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H25M",
+  "description": "Martin, dans un dernier espoir, vient retrouver Léa à Paris. Ils ont tous deux vingt-cinq ans et ont...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

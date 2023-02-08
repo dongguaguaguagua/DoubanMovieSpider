@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "她的记忆 메모리즈",
+  "url": "/subject/33427464/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554783088.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346422/",
+      "name": "李洙成 Soo-seong Lee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313692/",
+      "name": "朴智英 Park Ji-yeong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390376/",
+      "name": "李善九 이선구"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397675/",
+      "name": "韩珠英 Joo-young Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385208/",
+      "name": "文英东 Young-dong Moon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386243/",
+      "name": "安敏永 Ahn Min-yeong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402780/",
+      "name": "李美智 이미지"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357058/",
+      "name": "朴钟焕 Jong-hwan Park"
+    }
+  ]
+,
+  "datePublished": "2019-04-25",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H27M",
+  "description": "珉豪在一家心理咨询中心担任顾问，该中心由政府管理。他厌倦了自己的日常生活，听了客户的投诉。他感到的压力会影响他与包括他的家人在内的其他人的关系。在他刚搬进的公寓里，他发现公寓前住户写的便条。这些笔记是...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

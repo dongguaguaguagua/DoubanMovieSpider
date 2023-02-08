@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雨后 After the Rain",
+  "url": "/subject/25730236/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2144760260.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258803/",
+      "name": "丹尼尔·邦乔 Daniel Bonjour"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258803/",
+      "name": "丹尼尔·邦乔 Daniel Bonjour"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258803/",
+      "name": "丹尼尔·邦乔 Daniel Bonjour"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334715/",
+      "name": "杰莉·霍维 Jelly Howie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022689/",
+      "name": "凯瑟琳·海克丝 Catherine Hicks"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323044/",
+      "name": "爱德华多·芬莱 Edward Finlay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1083454/",
+      "name": "史蒂夫·弗兰肯 Steve Franken"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247458/",
+      "name": " Howard Gibson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344475/",
+      "name": "克里斯·贾维斯 Chris Jarvis"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "A young man at the end of his life tries to find hope and meaning through the relationships he will ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

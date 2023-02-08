@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三人行 Le trip à trois",
+  "url": "/subject/30175762/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517259747.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315246/",
+      "name": "梅丽莎·德索蒙斯-波林 Mélissa Désormeaux-Poulin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1204179/",
+      "name": "马丁·马特 Martin Matte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446870/",
+      "name": "西蒙·佩莱蒂尔-吉尔伯特 Simon Pelletier-Gilbert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482992/",
+      "name": "亚历山娜·贾米森 Alexane Jamieson"
+    }
+  ]
+,
+  "datePublished": "2017-12-20",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H31M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

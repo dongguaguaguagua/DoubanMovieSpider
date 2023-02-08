@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "莉莉小道 Liliom ösvény",
+  "url": "/subject/26266077/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2358716207.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023378/",
+      "name": "本尼德克·菲利格夫 Benedek Fliegauf"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023378/",
+      "name": "本尼德克·菲利格夫 Benedek Fliegauf"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1160054/",
+      "name": "Angéla Stefanovics Angéla Stefanovics"
+    }
+  ]
+,
+  "datePublished": "2016-02-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "A mother seeks out her estranged father in the aftermath of her mother&#39;s death.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

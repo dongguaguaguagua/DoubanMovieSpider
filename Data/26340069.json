@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "盐与火 Salt and Fire",
+  "url": "/subject/26340069/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2349223483.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054397/",
+      "name": "沃纳·赫尔佐格 Werner Herzog"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054397/",
+      "name": "沃纳·赫尔佐格 Werner Herzog"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018404/",
+      "name": "维罗尼卡·费瑞尔 Veronica Ferres"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1144415/",
+      "name": "迈克尔·珊农 Michael Shannon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041009/",
+      "name": "盖尔·加西亚·贝纳尔 Gael García Bernal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018005/",
+      "name": "安妮塔·布瑞姆 Anita Briem"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054397/",
+      "name": "沃纳·赫尔佐格 Werner Herzog"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465141/",
+      "name": "莉莉.库拉格 Lilly Krug"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1464616/",
+      "name": " "
+    }
+  ]
+,
+  "datePublished": "2016-06-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "一名科学家指责一家大型公司的负责人该为发生在南美的生态灾难负责。但是当一座火山显现出喷发的迹象时，他们必须联合起来阻止灾难的发生。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "530",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

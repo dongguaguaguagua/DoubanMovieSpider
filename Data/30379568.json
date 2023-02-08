@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "陌路之西",
+  "url": "/subject/30379568/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540023645.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386090/",
+      "name": "谢天 Tian Xie"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386090/",
+      "name": "谢天 Tian Xie"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385811/",
+      "name": "连柏颖 Anthony Lien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369062/",
+      "name": "周知韵 Andrea Zhou"
+    }
+  ]
+,
+  "datePublished": "2018-07-04",
+  "genre": ["\u7231\u60c5", "\u72af\u7f6a", "\u897f\u90e8"],
+  "duration": "PT1H3M",
+  "description": "美国西部一个荒凉的小镇上，有“疯子艺术家”之称的史丹在这里建立起了自己的势力，他成为镇上最有实力的人。少年恒是一个单纯的孩子，他现阶段最大的梦想就是把自己的小摩托车升级成重机车，为此他找到了帮史丹工作...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

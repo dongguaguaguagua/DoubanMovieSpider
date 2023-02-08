@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "翻唱版本 Cover Versions",
+  "url": "/subject/26891339/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2513753967.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002932/",
+      "name": "托德·博格 Todd Berger"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002932/",
+      "name": "托德·博格 Todd Berger"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036318/",
+      "name": "凯蒂·卡西迪 Katie Cassidy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009318/",
+      "name": "德雷克·贝尔 Drake Bell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165192/",
+      "name": "杰瑞·特雷纳 Jerry Trainor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361252/",
+      "name": "奥斯汀·斯威夫特 Austin Swift"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1230836/",
+      "name": "黛比·瑞恩 Debby Ryan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1253059/",
+      "name": "阿什丽·阿戈塔 Ashley Argota"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247252/",
+      "name": "文尼·希伯 Vinny Chhibber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317100/",
+      "name": "布莱恩·豪威  Brian Howe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382289/",
+      "name": "希拉·M·洛克哈特 Sheila M. Lockhart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368225/",
+      "name": "乔尼·马尔斯 Jonny Mars"
+    }
+  ]
+,
+  "datePublished": "2018-01-03",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H27M",
+  "description": "四个乐队成员在一个流行音乐节的首次大型演出前，讲述了关于黑暗、毒品和谋杀的各种说法。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "178",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

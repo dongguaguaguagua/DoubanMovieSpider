@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "英雄迷的生活 ヒーローマニア 生活",
+  "url": "/subject/26581099/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2283681823.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345590/",
+      "name": "丰岛圭介 Keisuke Toyoshima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309435/",
+      "name": "泷本智行 Tomoyuki Takimoto"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358620/",
+      "name": "继田淳 Jun Tsugita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365408/",
+      "name": "福光重幸 Shigeyuki Fukumitsu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324960/",
+      "name": "东出昌大 Masahiro Higashide"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314832/",
+      "name": "洼田正孝 Masataka Kubota"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335340/",
+      "name": "小松菜奈 Nana Komatsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1253218/",
+      "name": "山崎静代 Shizuyo Yamasaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038585/",
+      "name": "片冈鹤太郎 Tsurutarô Kataoka"
+    }
+  ]
+,
+  "datePublished": "2016-05-07",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H49M",
+  "description": "影片《英雄迷的生活》由《花宵道中》的导演丰岛圭介掌镜，洼田正孝、小松菜奈、片冈鹤太郎一同主演。该片以虚构城市堂堂市为舞台，被公司解雇来到超市打工的主人公中津（东出昌大饰）与超市员工们结成联盟，共同对抗...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1634",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

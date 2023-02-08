@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "归来1997",
+  "url": "/subject/27080967/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539928029.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319885/",
+      "name": "王加宾 Jiabin Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314409/",
+      "name": "章申 Shen Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364113/",
+      "name": "黄薇 Wei Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404500/",
+      "name": "徐菁遥 Jingyao Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328516/",
+      "name": "饶敏 Min Rao"
+    }
+  ]
+,
+  "datePublished": "2017-07-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "电影《归来1997》讲述香港回归之前，即将移民的港商陈柏明为了却母亲的心愿，带着成见回到大陆寻找47年前只身前往内地至今音信全无的生身父亲。在寻找生父的过程中，陈柏明逐渐改变了自己的人生态度，最终放弃...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

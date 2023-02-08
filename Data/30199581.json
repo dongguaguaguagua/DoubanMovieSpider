@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "特种使命之绿色军团",
+  "url": "/subject/30199581/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2519801641.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413932/",
+      "name": "尹晨阳 Chenyang Yin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412867/",
+      "name": "史超 Chao Shi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018257/",
+      "name": "樊少皇 Siu-Wong Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361070/",
+      "name": "徐嘉雯 Augusta Xu-Holland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399599/",
+      "name": "杨名 Yang Ming"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336640/",
+      "name": "斯力更 Ligeng Si"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369842/",
+      "name": "郭震 Zhen Guo"
+    }
+  ]
+,
+  "datePublished": "2018-04-27",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H10M",
+  "description": "中东公主在T国度假时，被恐怖分子黑星劫持。雇佣兵吴优奉命前往调查营救。吴优和T国犯罪调查科探员林娜默契配合，与恐怖分子斗智斗勇，最终顺利解救出公主，成功完成任务。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

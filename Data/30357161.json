@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "人肉毯 Flesh Blanket",
+  "url": "/subject/30357161/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2868592351.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1245635/",
+      "name": " Denise Carroll"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323195/",
+      "name": "克莉丝缇娜·德萝莎 Christina DeRosa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054699/",
+      "name": "Kato Kaelin Kato Kaelin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451160/",
+      "name": "Amanda Harrison Amanda Harrison"
+    }
+  ]
+,
+  "datePublished": "2018-10-19",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "A selfish filmmaker fails at creating the cutting edge freedom of speech documentary he had envision...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "124",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

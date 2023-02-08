@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "报告王爷，王妃是只猫2",
+  "url": "/subject/30242180/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2530286373.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315472/",
+      "name": "刘十六 Shiliu Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388226/",
+      "name": "彭建伟 Jianwei Peng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349397/",
+      "name": "高了 Liao Gao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436409/",
+      "name": "汪诺乔 Nuoqiao Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398825/",
+      "name": "郭乐 Le Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391851/",
+      "name": "王宇泽 Yuze Wang"
+    }
+  ]
+,
+  "datePublished": "2018-08-14",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5", "\u5947\u5e7b", "\u53e4\u88c5"],
+  "duration": "PT1H15M",
+  "description": "鲲鹏大陆，是一个无神无妖的地界，小七，托了自己师父的福，穿越过去落在王爷北宫 炎的床顶…… 女主小七意外在古董市场认了一个师父，被师父算计穿越到了鲲鹏大陆，以‘猫身’落 在北宫炎的床顶，后沾了北宫炎的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

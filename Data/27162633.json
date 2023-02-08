@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "I babysitter",
+  "url": "/subject/27162633/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2500992136.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382232/",
+      "name": "安德里亚·皮萨尼 Andrea Pisani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459840/",
+      "name": "弗朗切斯卡·卡瓦林 Francesca Cavallin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414359/",
+      "name": "西蒙纳·塔巴斯科 Simona Tabasco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483550/",
+      "name": "米凯拉·吉罗 Michela Giraud"
+    }
+  ]
+,
+  "datePublished": "2016-10-19",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H21M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

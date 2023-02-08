@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神枪决",
+  "url": "/subject/30353106/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537208872.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402824/",
+      "name": "何雨桐 Yutong He"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352627/",
+      "name": "曲桐雨 Tongyu Qu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448655/",
+      "name": "李岩 Yan Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT1H36M",
+  "description": "神枪手林浩天在一次刺杀执行中，发现要杀的人竟是多年前失散的亲弟弟林，而亲兄弟已是上海滩有权有势的大佬。兄弟相认，但弟弟已变成心狠手辣之人，两人之间也随之展开角逐。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

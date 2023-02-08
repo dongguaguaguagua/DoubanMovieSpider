@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鱼男 魚男",
+  "url": "/subject/33401776/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2870723816.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463489/",
+      "name": "陈伟 Chen Wei  "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463489/",
+      "name": "陈伟 Chen Wei  "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315722/",
+      "name": "周采诗 Tracy  Chou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348863/",
+      "name": "薛仕凌 Simon Hsueh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371959/",
+      "name": "薛提萦 Ti-Ying Hsueh"
+    }
+  ]
+,
+  "datePublished": "2017-11-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "电影『鱼男』描述著故事的主角乡宪治(薛仕凌 饰)，从小不擅表达，加上那怪异孤僻的行径，受到週遭的排挤，内心孤僻无援的他，时常在家中的日本料理亭，跟鱼肉相伴，更迷恋上处理鱼肉时刀锋与鱼肉接触的快感，长期...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

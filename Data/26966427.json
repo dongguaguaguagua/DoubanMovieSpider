@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "青春辞典之毕业季",
+  "url": "/subject/26966427/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2526553845.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338006/",
+      "name": "李昊宇 Haoyu Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396517/",
+      "name": "贾岳川 Yuechuan Jia"
+    }
+  ]
+,
+  "datePublished": "2017-01-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "《青春辞典之毕业季》有三大主题：一是青春励志；二是闺蜜故事；三是爱情喜剧。主要讲述三个青年人从校园踏入社会前后中的角色找寻、定位与各种努力。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "活在暗下 Darken",
+  "url": "/subject/30312821/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2532619933.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436165/",
+      "name": "奥黛丽·坎明斯 Audrey Cummings"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352842/",
+      "name": "保罗·阿莫斯 Paul Amos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396167/",
+      "name": "罗布·阿切尔 Rob Archer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448868/",
+      "name": "斯蒂芬妮·霍金斯 Stephannie Hawkins"
+    }
+  ]
+,
+  "datePublished": "2017-10-14",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "A nurse finds herself in a dark and mysterious world.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

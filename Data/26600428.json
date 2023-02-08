@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亡命雷区 Mine",
+  "url": "/subject/26600428/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2431869645.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052159/",
+      "name": "法比奥·古阿廖内 Fabio Guaglione"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369722/",
+      "name": "法比奥·瑞希纳洛 Fabio Resinaro"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052159/",
+      "name": "法比奥·古阿廖内 Fabio Guaglione"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369722/",
+      "name": "法比奥·瑞希纳洛 Fabio Resinaro"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049997/",
+      "name": "艾米·汉莫 Armie Hammer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315815/",
+      "name": "安娜贝拉·沃丽丝 Annabelle Wallis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316843/",
+      "name": "汤姆·库伦 Tom Cullen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061067/",
+      "name": "朱丽叶特·奥布瑞 Juliet Aubrey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321777/",
+      "name": "杰夫·贝尔 Geoff Bell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041733/",
+      "name": "克林特·戴尔 Clint Dyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369724/",
+      "name": "卢卡·佩洛斯 Luka Peros"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369725/",
+      "name": "大卫·柯克·特雷勒 David Kirk Traylor"
+    }
+  ]
+,
+  "datePublished": "2016-10-06",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6218\u4e89"],
+  "duration": "PT1H46M",
+  "description": "影片讲述两名狙击手在阿富汗执行暗杀任务，但结果行动失败，两人于荒漠逃亡，没想到同伴误入地雷区，触雷身亡。到回过神来的时候，自己亦同样踏入雷区。暴露在了荒无人烟的巨漠中，面对缺水缺粮、曝晒、沙尘暴，稍一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4274",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

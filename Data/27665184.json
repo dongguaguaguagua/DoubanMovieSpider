@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寄生侵略 PARASITE WAR",
+  "url": "/subject/27663613/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2510401044.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322079/",
+      "name": "多田爱佳 Aika Ota"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345556/",
+      "name": "秦瑞穗 Mizuho Hata"
+    }
+  ]
+,
+  "datePublished": "2018-01-20",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H15M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

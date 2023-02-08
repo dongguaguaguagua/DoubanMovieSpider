@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "送行 おみおくり",
+  "url": "/subject/27107143/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2509643542.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025664/",
+      "name": "高岛礼子 Reiko Takashima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344399/",
+      "name": "文音 Ayane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314873/",
+      "name": "渡部秀 Shu Watanabe"
+    }
+  ]
+,
+  "datePublished": "2018-03-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H57M",
+  "description": "根据女入殓师永井結子的著作《今天的遗体》拍摄的探讨人性的电影。讲述了两位女性入殓师的爱与成长的故事。主人公河村亚衣的父母在她年幼时遭遇车祸不幸去世，留下她和弟弟两人相依为命，姐弟俩因为当时没能参加父母...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "113",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Nothing Man",
+  "url": "/subject/30262253/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526792528.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051098/",
+      "name": "丹尼尔·哈勒 Daniel Haller"
+    }
+  ]
+,
+  "datePublished": "2017-02-01",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H19M",
+  "description": "A homeless amnesiac strives to unlock the secret to his best friends murder but at the cost of unloc...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

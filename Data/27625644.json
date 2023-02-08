@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小猪佩奇电影初体验 Peppa Pig My First Cinema Experience",
+  "url": "/subject/27625644/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2514264871.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277752/",
+      "name": "马克·贝克 Mark Baker"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317729/",
+      "name": "莫温娜·班克斯 Morwenna Banks"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016719/",
+      "name": "理查德·莱斯特 Richard Lester"
+    }
+  ]
+,
+  "datePublished": "2017-04-07",
+  "genre": ["\u5267\u60c5", "\u52a8\u753b", "\u5bb6\u5ead", "\u513f\u7ae5"],
+  "duration": "",
+  "description": "影片将呈现佩佩和她的好友在伦敦，乘坐双层红色巴士游览大本钟、塔桥、特拉法尔加广场等地标景点。此外还包括‘The Police, ‘Canal Boat‘, ‘The Zoo‘, ‘Move to th...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

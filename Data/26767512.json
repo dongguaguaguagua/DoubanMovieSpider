@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "解码游戏",
+  "url": "/subject/26767512/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2529787833.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388759/",
+      "name": "李海龙 Li Hailong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328265/",
+      "name": "苏亮 Liang Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325650/",
+      "name": "虞俏 Qiao Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289664/",
+      "name": "李敏 Erica Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352301/",
+      "name": "刘迟 Chi Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275667/",
+      "name": "韩庚 Han geng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274684/",
+      "name": "凤小岳 Rhydian Vaughan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314374/",
+      "name": "李媛 Yuan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000845/",
+      "name": "山下智久 Tomohisa Yamashita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274268/",
+      "name": "廖启智 Kai Chi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040856/",
+      "name": "迈克尔·帕帕约翰 Michael Papajohn"
+    }
+  ]
+,
+  "datePublished": "2018-08-03",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H39M",
+  "description": "宅男黑客李浩铭被代号“斑马”的职业罪犯乔飞和神秘女孩苏仪绑架，被迫卷入了一起诡谲奇异的案件中，与深网黑暗巨头闫岳斗智斗勇。陷入冒险游戏中的浩铭和乔飞渐渐成为一对生死拍档，而在不断浮出的“真相”背后，其...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4690",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海盗的遗产 Viking Legacy",
+  "url": "/subject/26881105/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2384634327.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1229082/",
+      "name": " Tom Barker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423499/",
+      "name": "维克多·梅尔 Victor Mawer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423499/",
+      "name": "维克多·梅尔 Victor Mawer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1269758/",
+      "name": " James Cooke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423503/",
+      "name": "纪尧姆·里瓦德 Guillaume Rivaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424790/",
+      "name": "詹姆斯·威廉·库克 James William Cooke"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT1H23M",
+  "description": "在古代，有七个神圣的卷轴被认为是给那些拥有它们的人授予权力和繁荣。有人预言说，一个在纯血统的孩子出生的人会有一天的利用权力和统治的国家。当人们为了要求这些卷轴，欧洲被推到了战争的边缘。为了维护和平，一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "76",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

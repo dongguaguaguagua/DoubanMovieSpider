@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀戮比率 Kill Ratio",
+  "url": "/subject/26901212/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2392737318.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419550/",
+      "name": "史蒂文·帕默·彼得森 Steven Palmer Peterson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315896/",
+      "name": "汤姆·霍珀 Tom Hopper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303144/",
+      "name": "艾米·胡伯曼 Amy Huberman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350274/",
+      "name": "尼克·邓宁 Nick Dunning"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1239320/",
+      "name": "康纳·赫加帝 Conor Hegarty"
+    }
+  ]
+,
+  "datePublished": "2016-12-09",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H26M",
+  "description": "An attack on the new President of a fledgling Eastern European democracy pits an American covert ope...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

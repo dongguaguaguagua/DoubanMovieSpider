@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Chalk.It.Up",
+  "url": "/subject/26876231/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2381774413.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385533/",
+      "name": "约翰·德卢卡 John DeLuca"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

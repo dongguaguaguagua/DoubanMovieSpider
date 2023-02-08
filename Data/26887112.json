@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "加百列与群山 Gabriel e a Montanha",
+  "url": "/subject/26887112/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2459455776.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373722/",
+      "name": "费力比·巴博萨 Fellipe Barbosa"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373722/",
+      "name": "费力比·巴博萨 Fellipe Barbosa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387758/",
+      "name": "卢卡斯·帕拉伊佐 Lucas Paraizo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334450/",
+      "name": "基里尔·米哈诺夫斯基 Kirill Mikhanovsky"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450258/",
+      "name": "若昂·佩德罗·扎帕 João Pedro Zappa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415863/",
+      "name": "卡罗琳·阿布拉斯 Caroline Abras"
+    }
+  ]
+,
+  "datePublished": "2017-05-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H7M",
+  "description": "本片根据真实故事改编。高中毕业生加布里埃尔准备在进入大学前，环游世界一年。十个月后，他和女友一同到达了非洲的肯亚。在这里，他想探索更多，于是他只身穿越各个村落，结识了新的朋友，最终到达了他旅途的终点—...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "662",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

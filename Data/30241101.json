@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们来做体操吧 体操しようよ",
+  "url": "/subject/30241101/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537467542.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362762/",
+      "name": "菊地健雄 Takeo Kikuchi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355303/",
+      "name": "和田清人 Kiyohito Wada"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051534/",
+      "name": "草刈正雄 Masao Kusakari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315257/",
+      "name": "木村文乃 Fumino Kimura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330369/",
+      "name": "渡边大知 Daichi Watanabe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359145/",
+      "name": "山田真步 Maho Yamada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015257/",
+      "name": "片桐入 Hairi Katagiri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048388/",
+      "name": "余贵美子 Kimiko Yo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019960/",
+      "name": "平泉成 Sei Hiraizumi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1039270/",
+      "name": "和久井映见 Emi Wakui"
+    }
+  ]
+,
+  "datePublished": "2018-11-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H49M",
+  "description": "该作品讲述了草刈饰演的一名单身父亲，在退休后通过体操与他人建立关系，并且首次挑战做家务的亲情与真心满载的故事。
+文乃饰演的是18年前在母亲去世后担起家中所有家务的独女。虽然一直坚强的支持着父亲，却因自...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "154",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

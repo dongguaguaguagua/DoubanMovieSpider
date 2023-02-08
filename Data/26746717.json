@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑色河流 Fleuve noir",
+  "url": "/subject/26746717/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2556775691.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050449/",
+      "name": "埃瑞克·宗卡 Erick Zonca"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050449/",
+      "name": "埃瑞克·宗卡 Erick Zonca"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036377/",
+      "name": "文森特·卡索 Vincent Cassel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018093/",
+      "name": "罗曼·杜里斯 Romain Duris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032419/",
+      "name": "桑德琳娜·基贝兰 Sandrine Kiberlain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000471/",
+      "name": "埃洛迪·布歇 Élodie Bouchez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048315/",
+      "name": "夏尔·贝尔林 Charles Berling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013845/",
+      "name": "热拉尔·德帕迪约 Gérard Depardieu"
+    }
+  ]
+,
+  "datePublished": "2018-04-06",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H54M",
+  "description": "文森特·卡索将出演《黑色河流》(Fleuve Noir，暂译)，该片由法国导演埃瑞克·宗卡自编自导。法国影星罗曼·杜里斯、桑德琳娜·基贝兰也已确认加盟。文森特·卡索在片中饰演一个理想破灭的警察。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "228",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

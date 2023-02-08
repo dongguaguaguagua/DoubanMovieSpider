@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我是猎妖师2",
+  "url": "/subject/27073022/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2464700449.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376044/",
+      "name": "周立鹏 Zhou Lipeng"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318694/",
+      "name": "朱琳 Lin Zhu"
+    }
+  ]
+,
+  "datePublished": "2017-06-23",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H0M",
+  "description": "城市里女性失踪案件频发，此时离若留下书信不辞而别。表妹苏雅突然出现，打乱了贺和夜养平静的生活。在合力追查人口失踪案的过程中，贺唤醒了体内的斩妖剑——逝，六剑终于会合。却因重重误会，其他4位猎妖师欲协力...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

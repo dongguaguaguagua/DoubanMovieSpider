@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "致命还击",
+  "url": "/subject/30299255/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2530895849.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353565/",
+      "name": "章国庆 Guoqing Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338185/",
+      "name": "尹航 Hang Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286723/",
+      "name": "何华超 Tony Ho"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339970/",
+      "name": "李骏诚 Juncheng Li"
+    }
+  ]
+,
+  "datePublished": "2018-08-16",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H33M",
+  "description": "本片讲述了女主角之间的竞技对决和爱情纠葛的故事，在生与死、爱与恨、真相与谎言中她们所发生的不可思议的人生转变。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

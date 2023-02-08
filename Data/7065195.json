@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "勇士连队 Rubicon",
+  "url": "/subject/7065195/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276314/",
+      "name": "克里斯托弗·麦奎里 Christopher McQuarrie"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276314/",
+      "name": "克里斯托弗·麦奎里 Christopher McQuarrie"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "被形容为一部现代版“七武士”电影。故事发生在阿富汗，一支美国海豹突击队保护当地村民免受塔利班武装分子的袭击。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

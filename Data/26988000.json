@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "开战 En guerre",
+  "url": "/subject/26988000/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2519935951.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028268/",
+      "name": "史蒂芬·布塞 Stéphane Brizé"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028268/",
+      "name": "史蒂芬·布塞 Stéphane Brizé"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356640/",
+      "name": "奥利维尔·拉戈斯 Olivier Gorce"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404255/",
+      "name": "拉尔夫·布林多尔 Ralph Blindauer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404256/",
+      "name": "奥利维尔·斯勒梅尔 Olivier Lemaire"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356644/",
+      "name": "泽维尔·马修 Xavier Mathieu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010741/",
+      "name": "文森特·林顿 Vincent Lindon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404257/",
+      "name": "梅兰妮·罗弗 Mélanie Rover"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404258/",
+      "name": "雅克·博尔德里 Jacques Borderie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404259/",
+      "name": "戴维·雷伊 David Rey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404256/",
+      "name": "奥利维尔·斯勒梅尔 Olivier Lemaire"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404260/",
+      "name": "伊莎贝尔·鲁芬 Isabelle Rufin"
+    }
+  ]
+,
+  "datePublished": "2018-05-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H53M",
+  "description": "尽管员工在财务方面做出了巨大牺牲，公司也获得了创纪录盈利，但Perrin Industrie工厂的管理层仍决定关闭全厂。工人与企业的协议被撕毁，承诺未被遵守，1100名员工在其领导人Laurent A...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "7413",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.0"
+  }
+}

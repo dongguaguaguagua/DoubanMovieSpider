@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拼图 Puzzle",
+  "url": "/subject/27621712/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520937957.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005161/",
+      "name": "马克·图特尔陶布 Marc Turtletaub"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418487/",
+      "name": "波利·曼恩 Polly Mann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292637/",
+      "name": "欧伦·穆弗曼 Oren Moverman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045781/",
+      "name": "娜塔莉娅·斯米诺夫 Natalia Smirnoff"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031922/",
+      "name": "凯莉·麦克唐纳 Kelly Macdonald"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1087098/",
+      "name": "大卫·丹曼 David Denman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1159268/",
+      "name": "丹尼尔·斯图尔特·谢尔曼 Daniel Stewart Sherman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339630/",
+      "name": "奥斯汀·艾布拉姆斯 Austin Abrams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418488/",
+      "name": "巴巴·魏勒 Bubba Weiler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184738/",
+      "name": "海伦·考克斯 Helen Coxe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418489/",
+      "name": "曼德拉·贝拉米 Mandela Bellamy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359046/",
+      "name": "丽芙·休森 Liv Hewson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418490/",
+      "name": "洛丽·哈默尔 Lori Hammel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108861/",
+      "name": "伊尔凡·可汗 Irrfan Khan"
+    }
+  ]
+,
+  "datePublished": "2018-01-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "剧情讲述一位家庭主妇在进入了拼图游戏的世界后，生活发生巨大转变。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "440",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

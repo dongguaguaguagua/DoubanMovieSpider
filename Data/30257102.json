@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "味色小厨 Les goûts et les couleurs",
+  "url": "/subject/30257102/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527476147.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1026145/",
+      "name": "Myriam Aziza Myriam Aziza"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1026145/",
+      "name": "Myriam Aziza Myriam Aziza"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055175/",
+      "name": "理查德·贝里 Richard Berry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037344/",
+      "name": "卡瑟琳·雅各布 Catherine Jacob"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1224710/",
+      "name": "阿里耶·埃尔马莱 Arié Elmaleh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350641/",
+      "name": "茱莉亚·皮亚彤 Julia Piaton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411864/",
+      "name": "料内尔·林格赛 Lionel Lingelser"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394566/",
+      "name": "莎拉·斯特恩 Sarah Stern"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350644/",
+      "name": "塔蒂亚娜·罗乔 Tatiana Rojo"
+    }
+  ]
+,
+  "datePublished": "2018-06-24",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "Simone 和女友 Claire 一对在一起多年的女女情侣，在她终于决定出柜之时，却遇到了一位餐厅主厨，出柜计划一时被打乱。
+——橘里橘气字幕组",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "137",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.4"
+  }
+}

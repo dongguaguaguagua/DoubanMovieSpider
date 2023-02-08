@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亡命大画家 Mi obra maestra",
+  "url": "/subject/27199776/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2532485088.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334124/",
+      "name": "加斯顿·杜帕拉特 Gastón Duprat"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334124/",
+      "name": "加斯顿·杜帕拉特 Gastón Duprat"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414822/",
+      "name": "安德列·阿卡托 Andrea Acatto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414823/",
+      "name": "卢卡斯·阿兰达 Lucas Aranda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041807/",
+      "name": "劳尔·阿雷瓦洛 Raúl Arévalo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414824/",
+      "name": "艾哈迈迪·阿齐姆 Mahmoud Azim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1069591/",
+      "name": "路易斯·布兰多尼 Luis Brandoni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005003/",
+      "name": "古勒莫·法兰塞拉 Guillermo Francella"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371917/",
+      "name": "安德丽娅·弗里杰里奥 Andrea Frigerio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416039/",
+      "name": "玛利亚·索勒迪 María Soldi"
+    }
+  ]
+,
+  "datePublished": "2018-08-16",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H40M",
+  "description": "《杰出公民》导演加斯顿·杜帕拉特最新力作。阿图罗斯尔瓦，一个圆滑势利的画廊主，对布宜诺斯艾利斯有着将近痴迷的偏爱。伦佐纳维尔，一个乖僻厌世的画家，对时兴艺术不闻不问，声名过后早已被世界遗忘。二人观念个...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2598",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

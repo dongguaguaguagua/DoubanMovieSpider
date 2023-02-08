@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "妈妈 დედე",
+  "url": "/subject/26915640/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2397920135.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391443/",
+      "name": "玛丽安·卡琪瓦尼 Mariam Khatchvani"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391443/",
+      "name": "玛丽安·卡琪瓦尼 Mariam Khatchvani"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309930/",
+      "name": "乔治·巴布鲁阿尼 George Babluani"
+    }
+  ]
+,
+  "datePublished": "2017-07-02",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "1992年，年轻的迪娜生活在一个偏远的小山村，这里的生活被延续数世纪的传统所禁锢。迪娜的祖父早已把她许配给刚从战场回来的大卫，但迪娜却与同大卫一起回来的战友盖吉一见钟情。迪娜不断打破传统的禁忌，也因此...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "167",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

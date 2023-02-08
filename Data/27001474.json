@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三牙峰 Three Peaks",
+  "url": "/subject/27001474/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2501877772.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333146/",
+      "name": "杨·扎拜尔 Jan Zabeil"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333146/",
+      "name": "杨·扎拜尔 Jan Zabeil"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009461/",
+      "name": "贝热尼丝·贝乔 Bérénice Bejo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310761/",
+      "name": "亚历山大·费林 Alexander Fehling"
+    }
+  ]
+,
+  "datePublished": "2017-08-04",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "莉亚（贝热尼丝·贝乔 Bérénice Bejo 饰）曾经有过一段失败的婚姻，现如今，她只身一人带着八岁的儿子崔斯坦生活。一次偶然中，莉亚邂逅了名为亚伦（亚历山大·费林 Alexander Fehli...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "193",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

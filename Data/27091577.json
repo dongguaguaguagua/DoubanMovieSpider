@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "密室少女",
+  "url": "/subject/27091577/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2493341187.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402122/",
+      "name": "贲放 Fang Ben"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373817/",
+      "name": "辛宇 Yu Xin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461591/",
+      "name": "高语芯 Yuexin Gao  "
+    }
+  ]
+,
+  "datePublished": "2017-07-19",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "",
+  "description": "五个美丽的少女从昏迷中醒来，发现自己被陷于一间密室之中。有人将她们聚集于此，如果不想被淘汰就一定要通过不同的“倒计时游戏”，而最终，只有一个人可以成功出去！惊慌失措的少女不得不面临着突如其来的惊悚考验...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

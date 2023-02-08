@@ -1,0 +1,113 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "悬崖",
+  "url": "/subject/30122648/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2656941231.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316775/",
+      "name": "韩志 Zhi Han"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408397/",
+      "name": "刘娟娟 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408398/",
+      "name": "李娜 Na Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461256/",
+      "name": "杜长泉 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317139/",
+      "name": "王迅 Xun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290001/",
+      "name": "李易祥 Yixiang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318092/",
+      "name": "张磊 Lei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317520/",
+      "name": "王佳佳 Jiajia Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344530/",
+      "name": "刘洋 Yang Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361601/",
+      "name": "刘超 Chao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407994/",
+      "name": "明子煜 Ziyu Ming"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372922/",
+      "name": "张婉儿 Waner Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338063/",
+      "name": "王槊 Shuo Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325503/",
+      "name": "张蓓蓓 Beibei Zhang"
+    }
+  ]
+,
+  "datePublished": "2021-09-10",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u60ac\u7591"],
+  "duration": "PT1H27M",
+  "description": "在一座海边小城中，一位开着观光旅游车的单亲爸爸老余；一对一心求子的夫妻简如月、方达；一对一心想飞黄腾达的修车行兄弟……
+这些生活在社会底层不同轨迹上的小人物，在一个台风天，阴差阳错的踏上了开往悬崖的夺...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1897",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

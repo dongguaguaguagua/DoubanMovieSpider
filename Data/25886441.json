@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "妖医",
+  "url": "/subject/25886441/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2349275505.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320370/",
+      "name": "吴宗强 Zongqiang Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327460/",
+      "name": "蔡中林 Zhonglin Cai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450413/",
+      "name": "李婧 Jing Lee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335928/",
+      "name": "宝儿 Treechada Petcharat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033280/",
+      "name": "谭耀文 Patrick Tam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274390/",
+      "name": "吕聿来 Yulai Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314726/",
+      "name": "孟瑶 Yao Meng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314443/",
+      "name": "高亚麟 Yalin Gao"
+    }
+  ]
+,
+  "datePublished": "2016-05-27",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H23M",
+  "description": "陈永霖（谭耀文 饰）是一个在泰国居住和工作的心理咨询师，这一天他接待了名叫沙青（吕聿来 饰）的华人男子。沙青为人诚恳老实，与业余时间寻欢作乐的老板和同事全然不同。不久前，他邂逅了超凡脱俗的泰国女孩邢潇...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1206",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

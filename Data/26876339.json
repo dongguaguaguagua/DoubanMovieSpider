@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夹缝中 بر بحر",
+  "url": "/subject/26876339/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2516019596.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470555/",
+      "name": "迈萨隆·哈穆德 Maysaloun Hamoud"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-09-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "Salma, Laila and Nur will never fit in. Palestinians with Israeli citizenship, they choose to live a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "161",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

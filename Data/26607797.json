@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "草原英雄小姐妹",
+  "url": "/subject/26607797/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496841789.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324210/",
+      "name": "包·那音太 Nayintai Bao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369073/",
+      "name": "包海龙 Hailong Bao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379706/",
+      "name": "忽蓝 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379707/",
+      "name": "苏雅拉其其格 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379708/",
+      "name": "娜木罕 "
+    }
+  ]
+,
+  "datePublished": "2017-08-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "蒙古族少女龙梅和玉荣，为生产队放羊时遭暴风暴雪，为不使生产队遭受损失，两人始终追赶羊群，直至晕倒在雪地里。因为严重冻伤，二人都做了不同程度的截肢。由于她们的英勇事迹，被誉为“草原英雄小姐妹”。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

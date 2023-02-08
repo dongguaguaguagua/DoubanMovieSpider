@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "诡风怪谈 The Wind",
+  "url": "/subject/30306589/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533795145.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410630/",
+      "name": "艾玛·坦米 Emma Tammi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410631/",
+      "name": "特雷莎·萨瑟兰 Teresa Sutherland"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325687/",
+      "name": "茱莉亚·古丹妮·泰勒斯 Julia Goldani Telles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315353/",
+      "name": "阿什利·祖克曼 Ashley Zukerman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315376/",
+      "name": "凯特琳·杰拉德 Caitlin Gerard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375871/",
+      "name": "迪伦·麦蒂 Dylan McTee"
+    }
+  ]
+,
+  "datePublished": "2018-09-10",
+  "genre": ["\u6050\u6016", "\u897f\u90e8"],
+  "duration": "PT1H26M",
+  "description": "西部荒野，住着麦克林夫妇——伊萨克（阿什利·祖克曼 Ashley Zukerman 饰）和莉兹（凯特琳·杰拉德 Caitlin Gerard 饰）。这里条件艰苦，环境恶劣，人烟稀少，野兽横行。莫大的孤...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "694",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

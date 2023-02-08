@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亚瑟与克莱尔 Arthur &amp; Claire",
+  "url": "/subject/30158593/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2515020842.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1060128/",
+      "name": "米格尔·亚历山大 Miguel Alexandre"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1060128/",
+      "name": "米格尔·亚历山大 Miguel Alexandre"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005384/",
+      "name": "约瑟夫·哈德 Josef Hader"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357653/",
+      "name": "弗洛伦丝·卡松巴 Florence Kasumba"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005384/",
+      "name": "约瑟夫·哈德 Josef Hader"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334814/",
+      "name": "汉娜·霍克斯特拉 Hannah Hoekstra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278861/",
+      "name": "赖纳·博克 Rainer Bock"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446099/",
+      "name": "盖伊·克莱门斯 Guy Clemens"
+    }
+  ]
+,
+  "datePublished": "2018-03-08",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "Arthur travels to Amsterdam for the last journey in his life, but there he meets Claire and together...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "103",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

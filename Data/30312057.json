@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2018重庆市春节联欢晚会",
+  "url": "/subject/30312057/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2532519061.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274859/",
+      "name": "田亮 Liang Tian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326383/",
+      "name": "叶一茜 Yiqian Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349768/",
+      "name": "李艺彤 Yitong Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313630/",
+      "name": "吕一 Yi Lü"
+    }
+  ]
+,
+  "datePublished": "2018-02-13",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "",
+  "description": "本届春晚以民俗为核心资源内容，弘扬中华优秀传统文化、彰显重庆地域优秀民俗文化特色，全面展现2017年重庆社会民生发展的新风貌。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

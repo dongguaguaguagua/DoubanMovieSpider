@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "甩尾王",
+  "url": "/subject/27098659/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2494266466.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416645/",
+      "name": "袁烁 Shuo Yuan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412152/",
+      "name": "陈璐莎 Lusha Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316825/",
+      "name": "安琥 Hu An"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366630/",
+      "name": "张珏 Jue Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389869/",
+      "name": "沐岚 Lan Mu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364257/",
+      "name": "董博睿 Borui Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409322/",
+      "name": "白云峰 Yunfeng Bai"
+    }
+  ]
+,
+  "datePublished": "2017-07-30",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u5192\u9669", "\u8fd0\u52a8"],
+  "duration": "PT1H32M",
+  "description": "秦浩幼时一场车祸令他对速度有着本能追求的同时，又隐藏着恐惧。秦浩平日以开滴滴为生，某日接到了CDF车队的少股东刘小飞，来到了一个黑市赛车场。他看到的黑市漂移赛重燃起了他心中的赛车梦。在导师陈子豪的引导...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "448",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.8"
+  }
+}

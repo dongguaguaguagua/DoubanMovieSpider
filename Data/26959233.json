@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "智能天使",
+  "url": "/subject/26959233/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2415201879.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324083/",
+      "name": "韩英群 Yingqun Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359159/",
+      "name": "韩博 Bo Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383934/",
+      "name": "高嵩 Song Gao"
+    }
+  ]
+,
+  "datePublished": "2017-02-13",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "PT1H26M",
+  "description": "郑乐在面试屡遭失败后做起了兼职快递员。一次送货途中发现自己后备箱里有一个型号为WC250的机器人。250的降临给郑乐的生活带来翻天覆地的变化。250被魔音公司劫走后，郑乐发现自己依恋250，在毕超的配...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

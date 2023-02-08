@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "自杀俱乐部 Suicide Club",
+  "url": "/subject/30256762/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2526153754.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1262634/",
+      "name": " Maximilian von Vier"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1262634/",
+      "name": " Maximilian von Vier"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315923/",
+      "name": "Klariza Clayton  Klariza Clayton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417527/",
+      "name": "特里卡·威尔逊-瑞德 Therica Wilson-Read"
+    }
+  ]
+,
+  "datePublished": "2017-11-18",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "Locked in her flat for several years, a reclusive young woman stumbles upon a mysterious web communi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

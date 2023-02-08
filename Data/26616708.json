@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "水中效应 L&#39;effet aquatique",
+  "url": "/subject/26616708/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2459002438.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038144/",
+      "name": "索尔维赫·安斯帕克 Sólveig Anspach"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038144/",
+      "name": "索尔维赫·安斯帕克 Sólveig Anspach"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284381/",
+      "name": "冉-卢克·盖特 Jean-Luc Gaget"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321921/",
+      "name": "弗洛伦斯·卢瓦雷·卡耶 Florence Loiret Caille"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028743/",
+      "name": "萨米尔·盖丝米 Samir Guesmi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430152/",
+      "name": "菲利普·雷博 Philippe Rebbot"
+    }
+  ]
+,
+  "datePublished": "2016-05-17",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H23M",
+  "description": "萨米尔(Samir)是一名身材高大、身材瘦长、40多岁的起重机操作员，他来自巴黎郊区的蒙特勒伊(蒙特勒伊)，深爱着他。他发现她是一个游泳教练在当地的游泳池,以及缺乏一个更好的计划,他决定让她的学生…虽...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "906",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

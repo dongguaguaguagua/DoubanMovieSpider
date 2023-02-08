@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Sethupathi",
+  "url": "/subject/26830505/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2364545070.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339193/",
+      "name": "维杰·西图帕提 Vijay Sethupathi"
+    }
+  ]
+,
+  "datePublished": "2016-02-19",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT2H2M",
+  "description": "The murder of a fellow cop is investigated by ace Inspector Sethupathi who approaches the case intel...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

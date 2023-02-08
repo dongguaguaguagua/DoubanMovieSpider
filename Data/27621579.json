@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玛琪，玛雅，米娅 Matangi/Maya/M.I.A.",
+  "url": "/subject/27621579/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2511250714.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1225691/",
+      "name": "M.I.A. Maya Arulpragasam"
+    }
+  ]
+,
+  "datePublished": "2018-01-21",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50", "\u4f20\u8bb0"],
+  "duration": "PT1H30M",
+  "description": "获得日舞影展全球纪录片类评审团特别奖的《革命／嘻哈／M.I.A.》，则将镜头聚焦在曾入围奥斯卡及葛莱美奖，却因在美国超级杯直播挑衅而被禁止入境的英国饶舌天后M.I.A.。她的大学同窗导演史蒂夫拉佛吉，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "327",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.2"
+  }
+}

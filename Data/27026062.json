@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "An Affair",
+  "url": "/subject/27026062/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1083595/",
+      "name": "Antonia Dauphin Antonia Dauphin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278774/",
+      "name": "菲利普·布莱斯本 Philippe Blasband"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1083595/",
+      "name": "Antonia Dauphin Antonia Dauphin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326427/",
+      "name": "佐莎·马梅特 Zosia Mamet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049580/",
+      "name": "莫莉·香侬 Molly Shannon"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "A woman seeks a man to fulfill her sexual fantasy. They meet once a week. We know little about them,...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

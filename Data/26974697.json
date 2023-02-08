@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "皇甫谧",
+  "url": "/subject/26974697/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2508849074.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324272/",
+      "name": "涂京江 Jingjiang Tu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313051/",
+      "name": "吕一丁 Yiding Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368657/",
+      "name": "许紫青 Ziqing Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359756/",
+      "name": "焦志强 Zhiqiang Jiao"
+    }
+  ]
+,
+  "datePublished": "2016-12-23",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "电影《皇甫谧》主要讲述了曹魏末年，洛阳名士皇甫谧淡泊名利、立志从医、潜心钻研，不惜以身试药、试针，探索以中医针灸诊治疾病，挽救天下苍生，七次拒召入仕，写下《针灸甲乙经》等流传千古的学术名著，在我国古代...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

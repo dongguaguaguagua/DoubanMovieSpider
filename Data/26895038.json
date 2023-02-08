@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "彼生时刻 The Time of Their Lives",
+  "url": "/subject/26895038/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2390187380.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285041/",
+      "name": "罗杰·戈比 Roger Goldby"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285041/",
+      "name": "罗杰·戈比 Roger Goldby"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019086/",
+      "name": "琼·柯琳斯 Joan Collins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049942/",
+      "name": "保利娜·科林斯 Pauline Collins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036400/",
+      "name": "弗兰科·内罗 Franco Nero"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1137143/",
+      "name": "罗纳德·皮卡普 Ronald Pickup"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013795/",
+      "name": "乔莉·理查德森 Joely Richardson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367754/",
+      "name": "玛丽·伯格 Marie Borg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386471/",
+      "name": "汤姆·穆艾伦 Tom Mulheron"
+    }
+  ]
+,
+  "datePublished": "2017-03-03",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H44M",
+  "description": "Determined to gatecrash her ex-lover&#39;s funeral on glamorous French hideaway Ile-de-Re, former Hollyw...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "116",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

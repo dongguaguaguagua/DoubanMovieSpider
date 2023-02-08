@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "屠夫小姐 미스 푸줏간",
+  "url": "/subject/26680597/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2439680829.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384986/",
+      "name": "纪吉雄 Kil-woong Ji"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384987/",
+      "name": "崔元 Won Choi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024360/",
+      "name": "金民俊 Min-jun Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313845/",
+      "name": "徐英 Young Seo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350939/",
+      "name": "孙钟学 Jong-Hak Son"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015294/",
+      "name": "金海淑 Hae-suk Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478112/",
+      "name": "尹元俊 Won Joon Yoon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478110/",
+      "name": "李容坤 Yong-gon Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344845/",
+      "name": "孔政焕 Jeong-hwan Kong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381049/",
+      "name": "裴振雄 Jin-woong Bae"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381270/",
+      "name": "丁世亨 Jung Se-hyung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331785/",
+      "name": "李俊赫 Lee Joon-Hyuk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478337/",
+      "name": "郑时铉 Si-hyun Jung"
+    }
+  ]
+,
+  "datePublished": "2017-07-11",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H34M",
+  "description": "电影《屠夫小姐 》讲述的是热血警察金刑警（金敏俊 饰）在与小区新开肉铺的老板顺爱（徐英 饰）相遇后，被卷入一连串杀人事件的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6449",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

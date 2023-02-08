@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幻土",
+  "url": "/subject/30271233/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541178199.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1263757/",
+      "name": "杨修华 Yeo Siew Hua"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1263757/",
+      "name": "杨修华 Yeo Siew Hua"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379801/",
+      "name": "俞宏荣 Peter Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341771/",
+      "name": "郭月 Yue Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399037/",
+      "name": "刘晓义 Xiaoyi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375279/",
+      "name": "陈泽耀 Jack Tan"
+    }
+  ]
+,
+  "datePublished": "2018-08-07",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H35M",
+  "description": "新加坡海岸線上的填海工地，工人王必成失蹤了。兩名警探聞風而至，在工地周圍四處探詢王必成的蹤影。躁鬱的氛圍、失眠的夜晚，警探在夢裡見到王必成身影，而令人不安的真相，也將在虛實難辨的溼熱幻境中揭開。
+新加...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1354",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

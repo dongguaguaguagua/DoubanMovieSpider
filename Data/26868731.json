@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "劲道猪头肉 Schweinskopf al dente",
+  "url": "/subject/26868731/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2504678262.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384763/",
+      "name": "埃德·赫尔佐格 Ed Herzog"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066594/",
+      "name": "塞巴斯蒂安·贝策尔 Sebastian Bezzel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014705/",
+      "name": "西蒙·舒瓦茨 Simon Schwarz"
+    }
+  ]
+,
+  "datePublished": "2016-08-11",
+  "genre": ["\u559c\u5267", "\u72af\u7f6a"],
+  "duration": "PT1H33M",
+  "description": "故事发生在巴伐利亚的下卡特恩基辛地区，弗朗茨（塞巴斯蒂安·贝策尔 Sebastian Bezzel 饰）是生活和工作在那里的一名警官，虽然他身居高位，但生活却过的很不如意。女友苏西（丽萨·波特霍夫 L...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "379",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

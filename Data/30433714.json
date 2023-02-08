@@ -1,0 +1,90 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2018动漫音乐会",
+  "url": "/subject/30433714/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2547275138.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317669/",
+      "name": "季冠霖 Guanlin Ji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404784/",
+      "name": "江映蓉 Yingrong Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274251/",
+      "name": "鞠萍 Ping Ju"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361751/",
+      "name": "平安 Anson Ping"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319987/",
+      "name": "扎西顿珠 Tashi Dhondup"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409027/",
+      "name": "王紫凝 Zining Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365071/",
+      "name": "苏诗丁 Shiding Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354795/",
+      "name": "任鲁豫 Luyu Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380853/",
+      "name": "胡丽芝 Lizhi Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410323/",
+      "name": "张宇 Yu Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-06-01",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e", "\u771f\u4eba\u79c0"],
+  "duration": "",
+  "description": "CCTV音乐频道6月1日19:30播出《2018动漫音乐会》。音乐会融合了交响乐团、电声乐队、民乐团等多种艺术形式，精心筛选了世界各国优秀动漫动画片的主题曲及插曲；邀请到了《托马斯和他的朋友们》《比得...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

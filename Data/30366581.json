@@ -1,0 +1,55 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "混出新高度 Un beau voyou",
+  "url": "/subject/30366581/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542482406.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048315/",
+      "name": "夏尔·贝尔林 Charles Berling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324797/",
+      "name": "斯万·阿劳德 Swann Arlaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014233/",
+      "name": "珍妮芙·德克 Jennifer Decker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423206/",
+      "name": "维克多·彭泰科沃 Victor Pontecorvo"
+    }
+  ]
+,
+  "datePublished": "2019-01-02",
+  "genre": ["\u559c\u5267", "\u72af\u7f6a"],
+  "duration": "PT1H44M",
+  "description": "大意是讲有个警察在职业生涯末期遇到一个偷画的案子，窃贼专偷有一定市场价值但又不贵的小画，因为容易脱手且不会引起公众注意。
+小偷其实是一个画家女儿的男朋友，他们几人因为偶然相识，但女孩子对他作案的情况一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

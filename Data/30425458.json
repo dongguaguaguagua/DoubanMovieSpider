@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "谁杀死了杰西·詹姆斯 Je n&#39;ai pas tué Jesse James",
+  "url": "/subject/30425458/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2544952743.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329010/",
+      "name": "帕特里克·德阿萨姆曹 Patrick d&#39;Assumçao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT0H16M",
+  "description": "A world-weary and reluctant bank robber is torn between loyalties on the eve of his partner&#39;s next b...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Nexus",
+  "url": "/subject/22724649/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338538/",
+      "name": "阿里·韩德尔 Ari Handel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313055/",
+      "name": "马克·海曼 Mark Heyman"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "A young scientist becomes the target of government agencies and international mercenaries after crea...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

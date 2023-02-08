@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "舌尖上的斗争",
+  "url": "/subject/30313579/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2532688093.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327779/",
+      "name": "卢海华 Haihua Lu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328788/",
+      "name": "麻杨扬 Yangyang Ma"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400094/",
+      "name": "陈科羽 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274715/",
+      "name": "李玉峰 Yufeng Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400095/",
+      "name": "姜棣珧 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353621/",
+      "name": "田玉奎 Yukui Tian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400096/",
+      "name": "陈楷 Kai Chen"
+    }
+  ]
+,
+  "datePublished": "2018-09-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H20M",
+  "description": "一条小街，三位七旬老人，他们讲的是传统；三个刚走出校门的大学生空降到对面，他们讲的是挑战和突破。“对台戏”的戏台就坚实地砸在这条小街上。情战、商战、谍战、宫战的炮竹捻儿就此点燃……且看一群老、一群少就...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

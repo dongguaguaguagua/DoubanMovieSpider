@@ -1,0 +1,130 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们的十年",
+  "url": "/subject/25908065/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2375677172.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290574/",
+      "name": "马伟豪 Joe Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362507/",
+      "name": "刘海 Hai Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343045/",
+      "name": "孟小豹 Xiaobao Meng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343046/",
+      "name": "叶小舟 Xiaozhou Ye"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275620/",
+      "name": "赵丽颖 Liying Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275913/",
+      "name": "乔任梁 RenLiang Qiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313603/",
+      "name": "吴映洁 Gemma Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323013/",
+      "name": "班嘉佳 Jiajia Ban"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274683/",
+      "name": "范逸臣 Van Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330862/",
+      "name": "冯铭潮 Mingchao Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314021/",
+      "name": "李立 Li Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365675/",
+      "name": "许静 Jing Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336866/",
+      "name": "熊晓雯 Xiaowen Xiong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365676/",
+      "name": "臭屁坨 Yi Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365678/",
+      "name": "徐查理 Chali Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365677/",
+      "name": "石峄 Yi Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314249/",
+      "name": "施予斐 Yufei Shi"
+    }
+  ]
+,
+  "datePublished": "2016-09-02",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "张静依（赵丽颖 饰）、陈伊诺（吴映洁 饰）和梁小艺（班嘉佳 饰）是大学时代的同窗兼好友，三个姑娘之间感情十分要好。温柔贤淑弹得一手好钢琴的陈伊诺是校园里的校花级人物，追求她的男生数不胜数，而个性大大咧...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "18458",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "足球小子 Wonderkid",
+  "url": "/subject/26828148/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2610964316.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215504/",
+      "name": "Troy Glasgow Troy Glasgow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311208/",
+      "name": "克里斯·梅森·约翰逊 Chris Mason Johnson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u540c\u6027", "\u8fd0\u52a8"],
+  "duration": "PT0H30M",
+  "description": "A film by Rhys Chapman, which tackles one of football&#39;s biggest issues - homophobia. Starring Chris ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "660",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

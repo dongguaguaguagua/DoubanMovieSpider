@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灰烬 Ashes",
+  "url": "/subject/26389627/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2497946216.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349444/",
+      "name": "萨拉米切 Sara Mitich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315317/",
+      "name": "克雷格·阿诺德 craig arnold"
+    }
+  ]
+,
+  "datePublished": "2017-12-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H11M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

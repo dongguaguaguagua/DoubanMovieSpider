@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "摇滚小子",
+  "url": "/subject/27077917/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531681767.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376237/",
+      "name": "段玉宝 Yubao Duan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376238/",
+      "name": "王金利 Jinli Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364581/",
+      "name": "张文婷 Wenting Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316825/",
+      "name": "安琥 Hu An"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315812/",
+      "name": "徐洁儿 Jill Hsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376239/",
+      "name": "苏翊鸣 Yiming Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376240/",
+      "name": "冯俊杰 Junjie Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362330/",
+      "name": "曹英睿 Audy Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375778/",
+      "name": "李诗缘 Helen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376241/",
+      "name": "蒋沐函 Muhan Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376242/",
+      "name": "刘艺烨 Yiye Liu"
+    }
+  ]
+,
+  "datePublished": "2018-08-28",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5"],
+  "duration": "PT1H40M",
+  "description": "影片讲述了小主人公“宝贝”在爸妈分居后，因妈妈工作原因，转学到姥姥家附近学校后发生的故事：“宝贝”妈妈忙于工作，忽视了对他的陪伴，使“宝贝”在陌生的环境里感觉更加孤单，但好在他遇到了一些新的朋友。他们...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

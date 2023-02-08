@@ -1,0 +1,44 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "找个欧巴是爸爸",
+  "url": "/subject/26830029/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2364371472.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339731/",
+      "name": "白瑶 Yao Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313982/",
+      "name": "何沄伟 Yunwei He"
+    }
+  ]
+,
+  "datePublished": "2016-06-30",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H12M",
+  "description": "范四儿，一个执着于相声艺术的中年男子，孤独的生活在一个小四合院中，某个夜晚迎来了两位行迹匆忙带着小男孩的少女，陈筱和青青。
+向来乐于助人的范四儿上前帮忙，却被冷言相对。
+同居一处却又有着代沟的三个人，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

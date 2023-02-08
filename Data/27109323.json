@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小意大利 Little Italy",
+  "url": "/subject/27109323/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528124539.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000563/",
+      "name": "唐纳德·皮特里 Donald Petrie"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304993/",
+      "name": "史蒂夫·加卢西奥 Steve Galluccio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339769/",
+      "name": "维奈·维尔马尼 Vinay Virmani"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035675/",
+      "name": "艾玛·罗伯茨 Emma Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041023/",
+      "name": "海登·克里斯滕森 Hayden Christensen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036319/",
+      "name": "艾莉莎·米兰诺 Alyssa Milano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019050/",
+      "name": "丹尼·爱罗 Danny Aiello"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014009/",
+      "name": "安德列·马丁 Andrea Martin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006995/",
+      "name": "简·西摩 Jane Seymour"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061364/",
+      "name": "盖里·巴萨拉巴 Gary Basaraba"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1081771/",
+      "name": "亚当·费拉拉 Adam Ferrara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1105976/",
+      "name": "琳达·卡辛 Linda Kash"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1240735/",
+      "name": "克里斯蒂娜·罗塞托 Cristina Rosato"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401483/",
+      "name": "艾娃·普雷斯顿 Ava Preston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401484/",
+      "name": "尼基·卡佩拉 Nicky Cappella"
+    }
+  ]
+,
+  "datePublished": "2018-08-24",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H42M",
+  "description": "年轻漂亮的厨师培训生尼基和梦想自己开餐厅的披萨厨师里奥从小就是朋友，两人刚刚开始约会。唯一的问题是，两人的父亲都是开披萨餐厅的，不仅是邻居，还是死对头。两个父亲发现他们的恋情后勃然大怒，决定要用披萨一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3539",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

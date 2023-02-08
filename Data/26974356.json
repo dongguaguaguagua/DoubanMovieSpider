@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "龙出江湖",
+  "url": "/subject/26974356/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2428528251.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326481/",
+      "name": "宦普凡 Pufan Huan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350003/",
+      "name": "魏星 Xing Wei"
+    }
+  ]
+,
+  "datePublished": "2017-02-16",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "黑帮得力干将王浩因为大哥的死痛改前非，和兄弟们过着平淡而快乐的日子。成为一个普通人的王浩收获了爱情，体验着与以往完全不同的幸福生活。然而，伴随着一年前的秘密浮出水面，身边的人一次次陷入厄运，王浩最终选...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Ailleurs",
+  "url": "/subject/30210360/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2520954801.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367557/",
+      "name": "西奥多·佩尔兰 Théodore Pellerin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037359/",
+      "name": "罗伯特·勒帕吉 Robert Lepage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387770/",
+      "name": "埃马纽埃尔·施瓦茨 Emmanuel Schwartz"
+    }
+  ]
+,
+  "datePublished": "2017-09-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "The film tells the story of Samu and Tévé, two 15 year old boys on a journey through the alleyways o...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Pure Imagination",
+  "url": "/subject/3692669/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036302/",
+      "name": "乔纳·希尔 Jonah Hill"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "After experiencing a series of traumatic events, a young guy falls for a girl. And while she falls f...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

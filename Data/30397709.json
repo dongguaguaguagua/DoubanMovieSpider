@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "命案23年",
+  "url": "/subject/30397709/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2584496546.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412826/",
+      "name": "江鹏程 Pengcheng Jiang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353432/",
+      "name": "何李宁 Lining He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323011/",
+      "name": "易莉 Li Yi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374383/",
+      "name": "李佑伟 Youwei Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359016/",
+      "name": "标马 Ma Biao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H31M",
+  "description": "公安局长吴义山上任三年间带领公安干警将积攒了二十多年的命案全部侦破，剩下一件23年前的命案。吴义山坚持命案必破的原则，带领公安干警坚持不懈、层层挖掘，最后将凶手绳之以法。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

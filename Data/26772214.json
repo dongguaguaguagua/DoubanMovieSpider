@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "放逐 Exil",
+  "url": "/subject/26772214/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2355682515.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001175/",
+      "name": "潘礼德 Rithy Panh"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341867/",
+      "name": "兰德尔·杜丝 Randal Douc"
+    }
+  ]
+,
+  "datePublished": "2016-05-13",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT1H18M",
+  "description": "放逐是被抛弃，是一种可怕的孤离。人在放逐中，会迷失自我，会受难，会逐渐消亡。但也同样有机会找到自我，于言语的土地，于图像的土地，在不仅是幼稚天真的幻想里。放逐是一切的开端，是它令所在成为所在。
+放逐是...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

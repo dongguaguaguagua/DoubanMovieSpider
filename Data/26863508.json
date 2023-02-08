@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "肯尼斯布拉纳剧院：罗密欧与朱丽叶 Branagh Theatre Live: Romeo and Juliet",
+  "url": "/subject/26863508/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2426791544.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036342/",
+      "name": "肯尼思·布拉纳 Kenneth Branagh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280121/",
+      "name": "本·卡隆 Ben Caron"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044735/",
+      "name": "威廉·莎士比亚 William Shakespeare"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314927/",
+      "name": "理查德·麦登 Richard Madden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318674/",
+      "name": "莉莉·詹姆斯 Lily James"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027866/",
+      "name": "德里克·雅各比 Derek Jacobi"
+    }
+  ]
+,
+  "datePublished": "2016-07-07",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "凯普莱特和蒙太古是声名显赫的两大家族，因为祖先们结下恩怨，两家人将彼此视为眼中钉肉中刺。可是造化弄人，在机缘巧合之下，蒙太古家的小儿子罗密欧（理查德·麦登 Richard Madden 饰）在一场宴会...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "242",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

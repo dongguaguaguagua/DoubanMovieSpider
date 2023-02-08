@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "轰炸 بمب؛ یک عاشقانه",
+  "url": "/subject/30206255/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523764579.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314289/",
+      "name": "佩曼·莫阿迪 Peyman Moadi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314289/",
+      "name": "佩曼·莫阿迪 Peyman Moadi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286212/",
+      "name": "蕾拉·哈塔米 Leila Hatami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314289/",
+      "name": "佩曼·莫阿迪 Peyman Moadi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422730/",
+      "name": "Habib Rezaei Habib Rezaei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1288043/",
+      "name": "Mahmoud Kalari Mahmoud Kalari"
+    }
+  ]
+,
+  "datePublished": "2018-02-03",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H36M",
+  "description": "关于1988年伊拉克对德黑兰的导弹轰炸",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

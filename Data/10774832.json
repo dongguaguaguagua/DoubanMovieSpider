@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鬼面公仆 Maniac Cop",
+  "url": "/subject/10774832/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2626132001.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415018/",
+      "name": "约翰·海姆斯 John Hyams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027335/",
+      "name": "尼古拉斯·温丁·雷弗恩 Nicolas Winding Refn"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338892/",
+      "name": "爱德·布鲁贝克 Ed Brubaker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1075692/",
+      "name": "拉里·柯恩 Larry Cohen"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "《亡命驾驶》《霓虹恶魔》导演尼古拉斯·温丁·雷弗恩将把经典cult片《鬼面公仆》系列翻拍为剧集，雷弗恩与约翰·海姆斯共同担任执行制片和导演，该剧将是雷弗恩的制作公司byNWR Originals的第一...",
+  "@type": "TVSeries",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

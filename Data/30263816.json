@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暴好人",
+  "url": "/subject/30263816/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2567560584.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428761/",
+      "name": "陈彦宏 Yen-Hung Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428761/",
+      "name": "陈彦宏 Yen-Hung Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280584/",
+      "name": "陈以文 Yiwen Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428762/",
+      "name": "夏腾宏 Teng-Hung Hsia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423723/",
+      "name": "陈雪甄 Vera Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428764/",
+      "name": "阮柏皓 Po-Hao Juan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H24M",
+  "description": "一個逆來順受的＂好人＂計程車司機阿崔，按照他人的行程生存。當他主動掌握自己命運，決定替自己做選擇時，命運卻開了他一個玩笑，在這荒謬的一天裡，洗了一場情緒三溫暖，讓他不禁審視自己復仇的意義為何？復仇的旅...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

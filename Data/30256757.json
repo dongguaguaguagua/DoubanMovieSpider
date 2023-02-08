@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "索命牙仙 Toof",
+  "url": "/subject/30256757/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553993772.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465383/",
+      "name": "克莱尔·玛丽亚·福克斯 Claire-Maria Fox"
+    }
+  ]
+,
+  "datePublished": "2018-09-05",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "卡拉在姊姊过世后，负起了照顾她儿子柯瑞的责任。卡拉去找娜娜拿柯瑞的出生证明时，娜娜告诉她邪恶牙仙会拔光人牙齿的传说。某天一场突如其来的大停电，邪恶牙仙开始兴风作浪。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

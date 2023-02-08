@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Wedgetail",
+  "url": "/subject/27056554/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2460618578.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127016/",
+      "name": "Lloyd Price Lloyd Price"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1150580/",
+      "name": "George Thompson George Thompson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "Lonely and isolated in Australia, Simon, a middle aged Australian man travels to Cambodia searching ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

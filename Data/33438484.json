@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亲娘",
+  "url": "/subject/33438484/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2555778894.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405152/",
+      "name": "周建 Jian Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116446/",
+      "name": "刘琳 Lin Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356251/",
+      "name": "刘兴盛 Xingsheng Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430459/",
+      "name": "赵千惠 Hedy"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead", "\u6218\u4e89"],
+  "duration": "PT1H35M",
+  "description": "抗战时期，苏南小镇村民汤大娘一家为保护新四军女干部的后代，毅然将自己的亲生女儿送人。在与日军的交战中，汤大娘的亲儿子汤松林壮烈牺牲，汤大娘忍住丧子之痛，配合新四军顽强抗击日寇，最终迎来了胜利。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

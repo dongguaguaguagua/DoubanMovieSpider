@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "最后一个男孩 The Last Boy",
+  "url": "/subject/27197449/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2561361582.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449687/",
+      "name": "Perry Bhandal Perry Bhandal"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027193/",
+      "name": "鲁克·高斯 Luke Goss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337311/",
+      "name": "安娜·威尔逊-琼斯 Anna Wilson-Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348295/",
+      "name": "彼得·吉尼斯 Peter Guinness"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383994/",
+      "name": "弗林·艾伦 Flynn Allen"
+    }
+  ]
+,
+  "datePublished": "2019-01-08",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H27M",
+  "description": "在世界的尽头，一个小男孩的垂死母亲送他去寻找一个地方，满足愿望。《最后的男孩》是一部科幻剧，灵感来自13世纪苏菲派神秘主义诗人鲁米的诗歌。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "486",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

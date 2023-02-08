@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海人鱼 海人魚",
+  "url": "/subject/27037550/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496520940.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379420/",
+      "name": "袁绪虎 HsuHu Yuan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379442/",
+      "name": "李忆珠 Yi ‬Chu LEE"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361864/",
+      "name": "钟瑶 Aviis Zhong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379440/",
+      "name": "李霈瑜 Patty Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379441/",
+      "name": "蔡拿威 "
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "拿威在一次潜水意外，在海中与人鱼少女相遇，同时也邂逅了水底摄影师大霈。
+擅长自由深潜的拿威担任她的海上向导，这片未开发的海底美景让来自都市的大霈如痴如醉；在大霈镜头中的海洋，更是从小生长在兰屿的拿威看...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

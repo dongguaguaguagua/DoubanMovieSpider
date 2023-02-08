@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "传承",
+  "url": "/subject/26680442/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2317648054.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338459/",
+      "name": "吴斌然 Array Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338459/",
+      "name": "吴斌然 Array Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338459/",
+      "name": "吴斌然 Array Wu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H57M",
+  "description": "1929年冬.北方，寒风瑟瑟。
+老宗师弥留之际，留下自己的遗愿，希望能促成南拳北传。
+爷爷郭祥志带着宗师的遗愿，走过战争时代，始终未能完成宗师的心愿。当今社会安定，从小和爷爷长大的郭秉承带着爷爷和祖上...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "荒村凶间",
+  "url": "/subject/26646380/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2378386856.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274565/",
+      "name": "陆诗雨 Shiyu Lu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323400/",
+      "name": "于传松 Chuansong Yu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016847/",
+      "name": "惠英红 Kara Wai Ying Hung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355443/",
+      "name": "蔡俊涛 Juntao Cai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362528/",
+      "name": "贾琳 Lin Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338423/",
+      "name": "唐国忠 Kuo-chung Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362527/",
+      "name": "晨媛儿 Yuaner Chen"
+    }
+  ]
+,
+  "datePublished": "2016-09-09",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H26M",
+  "description": "春节前夕，常年在外工作的图书编辑比毅骑摩托车与朋友们走散，途中发生车祸，他被一位红衣女孩带到一座深山老宅，在那里，他经历了爱与恨、灵与肉的考验。夜半楼顶爬行的恐怖女人，深夜吟唱童谣的妖娆女孩，“二十四...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "900",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

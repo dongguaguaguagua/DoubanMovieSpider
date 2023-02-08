@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Alpha Delta Zatan",
+  "url": "/subject/27166078/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2697821789.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474025/",
+      "name": "连廷瑜 Todd Lien"
+    }
+  ]
+,
+  "datePublished": "2017-10-24",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H12M",
+  "description": "In a frat house where no one can be trusted, a new brother becomes the target of a masked killer.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

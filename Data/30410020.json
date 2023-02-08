@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "刀剑道",
+  "url": "/subject/30410020/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2681558580.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397784/",
+      "name": "王维维 Weiwei Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337228/",
+      "name": "李昂 Ang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336629/",
+      "name": "孟浩强 Haoqiang Meng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365991/",
+      "name": "于雷 Lei Yu"
+    }
+  ]
+,
+  "datePublished": "2018-12-20",
+  "genre": ["\u52a8\u4f5c", "\u6b66\u4fa0"],
+  "duration": "PT1H30M",
+  "description": "明朝年间，兵部尚书麾下的百户段天昊为查出倭寇与阉党勾结销赃的证据，加入锦衣卫，几年来一直潜藏在太监总管张公公身边。就在他终于得到线索，准备与多年兄弟总旗苏子峪里应外合抓住犯人时，兵部尚书刘大人得到阉党...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

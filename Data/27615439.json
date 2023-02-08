@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们，动物 We the Animals",
+  "url": "/subject/27615439/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541162760.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307056/",
+      "name": "杰里米·撒加 Jeremiah Zagar"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405588/",
+      "name": "达恩·基特罗瑟 Daniel Kitrosser"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405589/",
+      "name": "贾斯廷·托里斯 Justin Torres"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307056/",
+      "name": "杰里米·撒加 Jeremiah Zagar"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327067/",
+      "name": "希拉·凡德 Sheila Vand"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338121/",
+      "name": "劳尔·卡斯提洛 Raúl Castillo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404969/",
+      "name": "伊万·罗萨多 Evan Rosado"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404967/",
+      "name": "乔塞亚·盖贝尔 Josiah Gabriel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404968/",
+      "name": "以赛亚·克里斯蒂安 Isaiah Kristian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405590/",
+      "name": "特里·霍兰德 Terry Holland"
+    }
+  ]
+,
+  "datePublished": "2018-01-20",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H34M",
+  "description": "影片改编自贾斯汀·托雷斯小说，故事讲述父母间不稳定的爱让家庭破裂，留下三个孩子曼尼、乔尔和约拿任其谋生。在父母互相攻击的影响下，曼尼、乔尔最终变得愈加强硬，成长为“新版”父亲。最年轻的约拿越来越意识到...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3379",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

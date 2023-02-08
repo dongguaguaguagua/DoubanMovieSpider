@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "河盗",
+  "url": "/subject/30380054/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540052785.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381663/",
+      "name": "李亚东 Yadong Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344715/",
+      "name": "芦鑫 Xin Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375601/",
+      "name": "马千壹 Qianyi Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384472/",
+      "name": "刘威州 Weizhou Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376598/",
+      "name": "秦楚明 Chuming Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386816/",
+      "name": "何文海 Paul He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1469460/",
+      "name": "童虎 Hu Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410435/",
+      "name": "萧婷 Ting Xiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444593/",
+      "name": "李斌 Bin Li"
+    }
+  ]
+,
+  "datePublished": "2018-11-30",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669", "\u53e4\u88c5"],
+  "duration": "PT1H30M",
+  "description": "南宋时汉水流域河盗猖獗，朝廷为剿灭匪患派出“横江军”精英章盖出任特使，稽查河上大案。查案中与退役军人莫客偶遇，二人在误会中建立友谊。恰逢莫客亲人女孩玉佩被河盗掳走，二人携手救出玉佩和被拐儿童，将河盗正...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

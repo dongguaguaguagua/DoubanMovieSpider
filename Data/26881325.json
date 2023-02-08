@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的同桌是极品",
+  "url": "/subject/26881325/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2388285356.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375785/",
+      "name": "张慕水 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399328/",
+      "name": "苑乔 Qiao Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390895/",
+      "name": "王海涛 Haitao Wang"
+    }
+  ]
+,
+  "datePublished": "2016-09-23",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H32M",
+  "description": "王元娥（苑乔 饰）一直以来都深深的爱慕着名为陈喆的男生，可是，王元娥知道自己非常的普通，和在校园里闪耀着耀眼光芒的陈喆相去甚远，所以选择将这份感情深深的埋藏在心底。单求胥的父亲将儿子送进了王元娥和陈喆...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

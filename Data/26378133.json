@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海角有个五店市",
+  "url": "/subject/26378133/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2449831923.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328185/",
+      "name": "张柏瑞 Po-jui Chang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371535/",
+      "name": "李小莹 Xiaoying Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328185/",
+      "name": "张柏瑞 Po-jui Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371536/",
+      "name": "贾小静 Xiaojing Jia"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316770/",
+      "name": "王德顺 Deshun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330356/",
+      "name": "李纯 Chun Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317880/",
+      "name": "班杰 Benjamin H. Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370721/",
+      "name": "胡小玲 Xiaoling Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404364/",
+      "name": "郝鹏飞 Pengfei Hao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430348/",
+      "name": "金于宸 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425771/",
+      "name": " "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422706/",
+      "name": "郏莉莉 Lili Jia"
+    }
+  ]
+,
+  "datePublished": "2017-04-07",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H47M",
+  "description": "电影根据真实事件改编，故事发生在民国时代的福建晋江五店市，庄家陶瓷的继承人庄家树和唱“高甲戏”少女吴彩凤发展了一段刻骨铭心的恋情，却阴差阳错分隔海角两地。多年后，老年庄家树携徒弟颜永晴从马来西亚回到晋...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "491",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

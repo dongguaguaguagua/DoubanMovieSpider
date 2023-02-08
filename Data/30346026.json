@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "甲A风云之辣球",
+  "url": "/subject/30346026/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543380994.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474476/",
+      "name": "李永鑫 Yongxin Li"
+    }
+  ]
+,
+  "datePublished": "2018-10-04",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H25M",
+  "description": "一代球坛“大侠”魏众的故事。魏众因一场重要的比赛失利和对家庭的亏欠而选择退出球坛回归家庭，继承自家火锅店，日子过得还算平静，多年后却被一个老熟人”造访“牵出了一场阴谋，面对儿子埋怨，妻子的不辞而别和证...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

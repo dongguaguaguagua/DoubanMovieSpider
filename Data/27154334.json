@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "燃灯者",
+  "url": "/subject/27154334/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2539418372.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274733/",
+      "name": "安战军 Zhanjun An"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353434/",
+      "name": "刘跃军 Yuejun Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275278/",
+      "name": "李歌 Ge Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318074/",
+      "name": "郭东文 Dongwen Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359681/",
+      "name": "国永振 Yongzhen Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413708/",
+      "name": "明莉 Ming Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT1H29M",
+  "description": "身残志坚的全国“见义勇为”英雄模范潘月兰坚持三十多年如一日帮助他人的感人故事，以及她如何战胜病魔、顽强、乐观、积极向上、正气凛然的灿烂人生。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

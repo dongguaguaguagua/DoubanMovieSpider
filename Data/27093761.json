@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不是每件事都很有趣！ Erasmus",
+  "url": "/subject/27093761/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2493647878.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004244/",
+      "name": "米格尔·佩雷拉 Miguel Pereira"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472394/",
+      "name": "埃斯特班·弗兰基 Esteban Franqui"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016", "\u72af\u7f6a"],
+  "duration": "PT1H11M",
+  "description": "一群年轻学生选择在巴塞罗那开展“伊拉斯谟”项目。所有人都有同样的决心:尽情玩乐。西班牙学生蒙策在家里接待了这群“伊拉斯谟”成员参加国际学生晚宴，一晚的娱乐变成了数小时的恐惧和恐惧。。。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

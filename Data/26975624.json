@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雪人的街头爱情故事 Another Yeti a Love Story: Life on the Streets",
+  "url": "/subject/26975624/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2429472525.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025757/",
+      "name": "亚当·德约 Adam Deyoe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052150/",
+      "name": "埃里克·戈瑟林 Eric Gosselin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052150/",
+      "name": "埃里克·戈瑟林 Eric Gosselin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257979/",
+      "name": " Jim Martin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166691/",
+      "name": "Whitney Young Whitney Young"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054246/",
+      "name": "洛伊德·考夫曼 Lloyd Kaufman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331441/",
+      "name": "Sean Keller Sean Keller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1479267/",
+      "name": "Marissa Merrill Marissa Merrill"
+    }
+  ]
+,
+  "datePublished": "2017-02-14",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H17M",
+  "description": "After moving to Los Angeles to start anew, Adam, an out of the closet single father of a yeti baby, ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

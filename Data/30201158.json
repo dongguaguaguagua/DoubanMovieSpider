@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "第三次死亡 Das Ende der Wahrheit",
+  "url": "/subject/30201158/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2548189695.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013842/",
+      "name": "安婕·特拉乌 Antje Traue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310761/",
+      "name": "亚历山大·费林 Alexander Fehling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000864/",
+      "name": "阿克西尔·普拉尔 Axel Prahl"
+    }
+  ]
+,
+  "datePublished": "2019-01-14",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H45M",
+  "description": "马丁·贝伦斯为德国联邦情报局工作。一天，他从他的一个联系人那里得到信息，导致无人驾驶飞机对一个被扎希里斯坦政府通缉的恐怖分子发动袭击。几天后，恐怖分子袭击慕尼黑一家餐馆，报复无人机袭击，他的生活迅速失...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "423",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

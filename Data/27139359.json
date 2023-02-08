@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死灵屋 Living Space",
+  "url": "/subject/27139359/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2544201258.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349039/",
+      "name": "安迪·麦克菲 Andy McPhee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443737/",
+      "name": "埃里克·文特 Erik Vent"
+    }
+  ]
+,
+  "datePublished": "2018-03-10",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "一对情侣前往德国一座农舍度假，却遭到一名德国纳粹军官亡灵的袭击，各种恐怖现象接二连三地发生，两人陷入一个永无止尽的梦魇深渊……。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

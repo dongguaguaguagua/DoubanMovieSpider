@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "仿真机器人 Android",
+  "url": "/subject/26658710/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315760/",
+      "name": "尼尔·约翰逊 Niall Johnson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315760/",
+      "name": "尼尔·约翰逊 Niall Johnson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035654/",
+      "name": "欧嘉·柯瑞兰寇 Olga Kurylenko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049498/",
+      "name": "亚伦·保尔 Aaron Paul"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "最近刚刚当妈妈的前“邦女郎”奥尔加·柯瑞兰寇（Olga Kurylenko）最近加盟了一部科幻片《仿真机器人》（Android），该片由尼尔·强森（Niall Johnson）导演，将于2016年2月...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

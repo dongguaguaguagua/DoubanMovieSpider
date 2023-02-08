@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "群鸟之地 Birdland",
+  "url": "/subject/27007256/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2518129996.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019860/",
+      "name": "彼得·林奇 Peter Lynch"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019860/",
+      "name": "彼得·林奇 Peter Lynch"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335410/",
+      "name": "卡卡琪 Cara Gee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327706/",
+      "name": "梅兰妮·斯科洛凡诺 Melanie Scrofano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322848/",
+      "name": "凯丝琳·蒙露 Kathleen Munroe"
+    }
+  ]
+,
+  "datePublished": "2018-01-26",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H29M",
+  "description": "Sheila Hood is an ex-cop whose marriage is on the rocks. Rather than confronting her husband about a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

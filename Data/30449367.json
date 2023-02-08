@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绿野迷踪 Raus",
+  "url": "/subject/30449367/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546844127.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442673/",
+      "name": "Philipp Hirsch Philipp Hirsch"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385422/",
+      "name": "保罗·勒克斯 Paul Lux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410463/",
+      "name": "米莲娜·柴特克 Milena Tscharntke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454231/",
+      "name": "马可·波里罗 Marco Brinzi"
+    }
+  ]
+,
+  "datePublished": "2018-10-26",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u5192\u9669"],
+  "duration": "PT1H41M",
+  "description": "当格洛克 (马蒂·施密特-夏勒饰)点燃一个臭名昭著的皮条客的SUV时，他被抓住并被拍摄了视频。他设法离开后，视频仍在网上疯传。他自发地加入了一个通过互联网认识的辍学者小组。他们寻找着弗里德里希，这个人...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "104",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "野长城",
+  "url": "/subject/26775642/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2361586389.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345024/",
+      "name": "顾伟 Wei Gu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345024/",
+      "name": "顾伟 Wei Gu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314728/",
+      "name": "王小毅 Xiaoyi Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321009/",
+      "name": "张维娜 Weina Zhang"
+    }
+  ]
+,
+  "datePublished": "2016-10-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "影片讲述了外语学院的大学生冯丽丽给民工李占强让了一个座，李占强对冯丽丽产生了好感，他发奋图强，要学好英语追到冯丽丽，最后，在一个野长城上，李占强狂热的向冯丽丽表达了自己的爱意。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "358",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

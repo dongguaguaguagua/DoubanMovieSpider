@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Grindsploitation 666",
+  "url": "/subject/30301276/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531116132.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054246/",
+      "name": "洛伊德·考夫曼 Lloyd Kaufman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373511/",
+      "name": "洛根·弗莱 Logan Fry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1263150/",
+      "name": " Aleister Kapsaski"
+    }
+  ]
+,
+  "datePublished": "2018-10-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Faux horror film trailers featuring witchcraft, demons, devils and a lot of satanic and schlocky fun...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

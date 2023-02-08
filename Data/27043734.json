@@ -1,0 +1,67 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "画皮师2",
+  "url": "/subject/27043734/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535559540.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355443/",
+      "name": "蔡俊涛 Juntao Cai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374555/",
+      "name": "朱赞锦 Zanjin Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330998/",
+      "name": "白永成 Yongcheng Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374091/",
+      "name": "曲博 Bo Qu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405087/",
+      "name": "孙嘉璐 Jialu Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410467/",
+      "name": "金宁 Ning Jin"
+    }
+  ]
+,
+  "datePublished": "2018-10-09",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H35M",
+  "description": "画皮师是随天地而生的古老职业，历代画皮师仅凭一只神奇的画笔行走世间，可为人重塑筋骨，易容改貌。
+这一代的画皮师方祭本该在几十年前死去，却因他师父以命相救而活了下来，在经历了“不老”的数十年后，方祭仿佛...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

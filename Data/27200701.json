@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拯救芙洛拉 Saving Flora",
+  "url": "/subject/27200701/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546756019.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1154843/",
+      "name": "马克·泰勒 Mark Taylor"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1026543/",
+      "name": "David Moss David Moss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1154843/",
+      "name": "马克·泰勒 Mark Taylor"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005818/",
+      "name": "Miguel Martínez Miguel Martínez"
+    }
+  ]
+,
+  "datePublished": "2019-04-29",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead", "\u5192\u9669"],
+  "duration": "PT1H35M",
+  "description": "芙萝拉是一头再也无法表演的大象，因此马戏团决定将其安乐死。就在执行安乐死的前一晚，马戏团团长的女儿偷偷将芙萝拉带离了马戏团。然而，想抵达安全的地方，他们必须先翻山越岭、跋山涉水，同时还得躲避大象猎人的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

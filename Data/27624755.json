@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灵魂电台",
+  "url": "/subject/27624755/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510958669.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354416/",
+      "name": "方晓罡 Xiaogang Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430207/",
+      "name": "文武超 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323190/",
+      "name": "季晨 Chen Ji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314475/",
+      "name": "汤怡 Kathy Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330036/",
+      "name": "郭艳 Yan Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336344/",
+      "name": "房程程 Chengcheng Fang"
+    }
+  ]
+,
+  "datePublished": "2018-01-29",
+  "genre": ["\u7231\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H26M",
+  "description": "影片讲述了某电台当红女主播奈美乐（汤怡 饰）总无故遇见种种诡异事件，严重影响了她的精神状态，导致在工作中频频出错，台长命思思（郭艳 饰）接任其职位代替奈美乐主持节目。她不仅工作出色，面对感情也极度专一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

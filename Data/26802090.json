@@ -1,0 +1,113 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "丑小鸭历险记",
+  "url": "/subject/26802090/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2363083561.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358693/",
+      "name": "郑义 Yi Zheng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358693/",
+      "name": "郑义 Yi Zheng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358555/",
+      "name": "朱可可 Keke Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358559/",
+      "name": "阿飞 A-Fei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358554/",
+      "name": "夏倚轩 Yixuan Xia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358561/",
+      "name": "呱呱 Gua gua"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358558/",
+      "name": "李文翰 Wenhan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358560/",
+      "name": "木偶 Mu-ou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358694/",
+      "name": "青云 Qing Yun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358615/",
+      "name": "瑞奇 Rui Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358563/",
+      "name": "永者 Yong Zhe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358695/",
+      "name": "白毛 Bai Mao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358696/",
+      "name": "阿阿呜 A a-wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358562/",
+      "name": "瑞奇 "
+    }
+  ]
+,
+  "datePublished": "2016-07-02",
+  "genre": ["\u79d1\u5e7b", "\u52a8\u753b", "\u513f\u7ae5", "\u5192\u9669"],
+  "duration": "PT1H21M",
+  "description": "来自月球的“机器鸭”阿泥，一个偶然的机会被大草原飞鸭家族的鸭妈妈收养，阿泥坚信自己和其它小鸭们一样，渴望能够展翅飞翔。
+阿泥身上的超能芯片引来了月球人的追踪，原来阿泥是月球邪恶科学家用来破坏地球大气层...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "389",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

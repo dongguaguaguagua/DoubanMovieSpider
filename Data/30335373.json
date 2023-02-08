@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "热血上海滩之未知任务",
+  "url": "/subject/30335373/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2535223771.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344144/",
+      "name": "袁福福 Fufu Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344580/",
+      "name": "狄琬雯 Wanwen Di"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H27M",
+  "description": "剧情介绍 淞沪会战后，上海沦陷，孤岛时间的上海租借地却出现了意想不到的畸形繁荣景象，一种用于对抗轴心国的新型武器蓝图被日本人获得，一支由多国成员组成的行动队夺回武器蓝图逃入租界，日本人无法将触角伸向租...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

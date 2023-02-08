@@ -1,0 +1,101 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "宝贝当家",
+  "url": "/subject/26352361/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2365829734.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320966/",
+      "name": "张敏 Aman Chang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274331/",
+      "name": "王晶 Jing Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320966/",
+      "name": "张敏 Aman Chang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336724/",
+      "name": "王诗龄 Angela Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037098/",
+      "name": "吴镇宇 Francis Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1173971/",
+      "name": "杨千嬅 Miriam Yeung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304196/",
+      "name": "詹瑞文 Sui-man Chim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304876/",
+      "name": "元秋 Qiu Yuen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378123/",
+      "name": "甄琪 Zhenqi Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346038/",
+      "name": "西蒙子 Jozef Waite"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033056/",
+      "name": "火星 Mars"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316723/",
+      "name": "鲁芬 Fun Lo"
+    }
+  ]
+,
+  "datePublished": "2016-07-29",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H35M",
+  "description": "小公主宝儿（王诗龄 饰）在家中不幸遭遇了一波劫匪的袭击......
+劫匪的头领不是别人，正是她父亲的孪生兄弟金大虎。此人为遗产纷争而来，不想却被手下算计，盗窃计划演变为绑架侄女，大虎后悔不已，而真正的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2838",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.9"
+  }
+}

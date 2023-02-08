@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "白兔 White Rabbit",
+  "url": "/subject/27615477/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2532287638.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014282/",
+      "name": "达瑞尔·韦恩 Daryl Wein"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066589/",
+      "name": "薇薇安·邦 Vivian Bang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014282/",
+      "name": "达瑞尔·韦恩 Daryl Wein"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066589/",
+      "name": "薇薇安·邦 Vivian Bang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328166/",
+      "name": "尼克·艾沃斯-斯文德尔 Nico Evers-Swindell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1158594/",
+      "name": "孙芳 Elizabeth Sung"
+    }
+  ]
+,
+  "datePublished": "2018-01-19",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H11M",
+  "description": "Recently single Korean-born LA artist Sophia devotes herself to her public performance art, whether ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

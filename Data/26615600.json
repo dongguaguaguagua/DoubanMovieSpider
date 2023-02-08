@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "布勒斯特之女 La fille de Brest",
+  "url": "/subject/26615600/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2382336723.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041763/",
+      "name": "埃马纽埃尔·贝克特 Emmanuelle Bercot"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308862/",
+      "name": "塞韦林·博斯切姆 Séverine Bosschem"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041763/",
+      "name": "埃马纽埃尔·贝克特 Emmanuelle Bercot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365038/",
+      "name": "罗曼·康宁 Romain Compingt"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041596/",
+      "name": "西瑟·巴比特·科努德森 Sidse Babett Knudsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045113/",
+      "name": "伯努瓦·马吉梅尔 Benoît Magimel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287072/",
+      "name": "菲利普·乌禅 Philippe Uchan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303251/",
+      "name": "古斯塔弗·科文 Gustave Kervern"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392518/",
+      "name": "巴勃罗·保利 Pablo Pauly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010884/",
+      "name": "埃里克·托莱达诺 Eric Toledano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118764/",
+      "name": "Elise Lucet Elise Lucet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176699/",
+      "name": "Isabelle Giordano Isabelle Giordano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218472/",
+      "name": "尼古拉斯·布乔 Nicolas Buchoux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1084020/",
+      "name": "Arnaud Duléry Arnaud Duléry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339377/",
+      "name": "Myriam Azencot Myriam Azencot"
+    }
+  ]
+,
+  "datePublished": "2016-11-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H8M",
+  "description": "Dans son hôpital de Brest, une pneumologue découvre un lien direct entre des morts suspectes et la p...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

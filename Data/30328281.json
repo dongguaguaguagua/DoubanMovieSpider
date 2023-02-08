@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "67年夏天 Summer of ’67",
+  "url": "/subject/30328281/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534431060.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176992/",
+      "name": "格伦·博尔斯 Karen Boles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1458000/",
+      "name": "Bethany Davenport Bethany Davenport"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1458001/",
+      "name": "Lea Hutton Beasmore Lea Hutton Beasmore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1458015/",
+      "name": "Ivy Rhodes Ivy Rhodes"
+    }
+  ]
+,
+  "datePublished": "2018-06-29",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5386\u53f2"],
+  "duration": "PT1H23M",
+  "description": "Based on real life events, Summer of &#39;67 brings to life the turbulent times of the sixties and the s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

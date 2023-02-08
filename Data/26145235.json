@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯狂成名记 Crazy Famous",
+  "url": "/subject/26145235/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510904280.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015242/",
+      "name": "保罗·加莱特 Paul Jarrett"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1225140/",
+      "name": "格雷戈里·雷 Gregory Lay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244038/",
+      "name": "理查德·肖特 Richard Short"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1203175/",
+      "name": "维克多·克鲁兹 Victor Cruz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344980/",
+      "name": "奥伯伦·K·A·阿杰庞 Oberon K.A. Adjepong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1225827/",
+      "name": " Alexander Cendese"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333381/",
+      "name": "凯瑟琳·科廷 Catherine Curtin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1213205/",
+      "name": "凯西·塞雷尔 Kathy Searle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428349/",
+      "name": "奥利维娅·博勒姆-温 Olivia Boreham-Wing"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H18M",
+  "description": "A fame obsessed average Joe escapes a mental institution with a band of misfits for one last despera...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "203",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

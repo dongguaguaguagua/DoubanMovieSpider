@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "浴缸神探",
+  "url": "/subject/26919752/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2399639048.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345546/",
+      "name": "刘鸿志 Alexander Lau"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345546/",
+      "name": "刘鸿志 Alexander Lau"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370640/",
+      "name": "黄礼丰 Leo Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358359/",
+      "name": "叶小开 Xiaokai Ye"
+    }
+  ]
+,
+  "datePublished": "2016-11-22",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u540c\u6027", "\u72af\u7f6a", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "悬疑小说家周煦阳偶然“秒杀”到一个链接“虫洞”的浴缸，让他头痛不已，突然有一天浴缸给他传送来个帅哥裸男，刑警林沐，两人因为这个奇幻邂逅结缘互生情愫，最后帅哥俩还联手破获一起连环绑架案！拯救了五个美少女...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "342",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

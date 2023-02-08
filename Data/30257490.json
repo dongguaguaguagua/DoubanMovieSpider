@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不要吃肉 Let&#39;s Not Meet",
+  "url": "/subject/30257490/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2538333986.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108665/",
+      "name": "Kate Kenney Kate Kenney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476957/",
+      "name": "凯特·肯尼 Kate Kenny"
+    }
+  ]
+,
+  "datePublished": "2018-08-31",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H54M",
+  "description": "A pizza delivery girl making her last stop of the night is lured into a trap. While attempting to es...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

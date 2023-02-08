@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Deacon",
+  "url": "/subject/30257633/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2537228246.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442758/",
+      "name": "泰勒·科尔 Tyler Cole"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027918/",
+      "name": "布莱德利·皮尔斯 Bradley Pierce"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1178302/",
+      "name": "Jonathan Castile Jonathan Castile"
+    }
+  ]
+,
+  "datePublished": "2018-10-13",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "A Catholic deacon returns to the city in which he grew up to find that evil is all around; demons, a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

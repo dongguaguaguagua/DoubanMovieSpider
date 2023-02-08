@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "密约 밀약",
+  "url": "/subject/26657442/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280780/",
+      "name": "郑智泳 Ji-yeong Jeong"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023400/",
+      "name": "严正化 Jeong-hwa Eom"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1039491/",
+      "name": "李璟荣 Kyeong-yeong Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033233/",
+      "name": "李贞贤 Jung-hyun Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360245/",
+      "name": "郑慧仁 Jeong He In"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378177/",
+      "name": "朴庆惠 Gyeong-hye Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374577/",
+      "name": "许成泰 Seong-tae Heo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349000/",
+      "name": "朴奎利 Gyu-ri Park"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "电影讲述是一名受强权理论压迫的女性徐周夏和另一名含着金汤匙长大的女子吴柳英相互编织而发生的一系列故事，深刻描绘了杀人事件背后的阴谋而造成相关人员受到的伤害。李贞贤饰演大企业会长唯一的孙女徐周夏，是一个...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

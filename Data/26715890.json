@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Mullewapp - Eine schöne Schweinerei",
+  "url": "/subject/26715890/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2525784997.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321948/",
+      "name": "耶斯伯·穆勒 Jesper Møller"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050610/",
+      "name": "克里斯蒂安·乌蒙 Christian Ulmen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042260/",
+      "name": "拉尔夫·施密茨 Ralf Schmitz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1196017/",
+      "name": "卡罗琳·科贝库斯 Carolin Kebekus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010290/",
+      "name": "米夏埃尔·克斯勒 Michael Kessler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000864/",
+      "name": "阿克西尔·普拉尔 Axel Prahl"
+    }
+  ]
+,
+  "datePublished": "2016-07-17",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H12M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

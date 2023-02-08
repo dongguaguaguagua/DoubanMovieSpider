@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "8 лучших свиданий",
+  "url": "/subject/26925677/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2401833522.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1188250/",
+      "name": "弗拉基米尔·叶皮凡采夫 Vladimir Yepifantsev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414251/",
+      "name": "弗拉基米尔·泽连斯基 Vladimir Zelenskiy"
+    }
+  ]
+,
+  "datePublished": "2016-03-03",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

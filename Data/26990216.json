@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一个人的突击队2 Commando 2",
+  "url": "/subject/26990216/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2441156460.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319729/",
+      "name": "瑞提什·沙阿 Ritesh Shah"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342036/",
+      "name": "伊莎 季普拉 Esha Gupta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046296/",
+      "name": "阿妲·莎玛 Adah Sharma"
+    }
+  ]
+,
+  "datePublished": "2017-03-03",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT2H24M",
+  "description": "一个人通过自己独特而犀利的格斗技能，献身于打击犯罪的事业中，努力根除掉将非法牟利的黑钱输送到国外银行的违法行为，但是他的行为也必然引来邪恶势力的威胁与报复....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "143",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

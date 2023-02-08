@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Justice in a Smoking Gun",
+  "url": "/subject/25954761/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2195077305.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022659/",
+      "name": "朱利安·麦克马洪 Julian McMahon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025310/",
+      "name": "约翰·贾瑞特 John Jarratt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1152253/",
+      "name": "杰克·汤普森 Jack Thompson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u897f\u90e8"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

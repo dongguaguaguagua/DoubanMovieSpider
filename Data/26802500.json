@@ -1,0 +1,142 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小城犯罪 Small Town Crime",
+  "url": "/subject/26802500/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2499355591.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387484/",
+      "name": "艾什姆·内尔姆斯 Eshom Nelms"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387485/",
+      "name": "伊恩·内尔姆斯 Ian Nelms"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387484/",
+      "name": "艾什姆·内尔姆斯 Eshom Nelms"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387485/",
+      "name": "伊恩·内尔姆斯 Ian Nelms"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1154263/",
+      "name": "奥克塔维亚·斯宾瑟 Octavia Spencer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1100849/",
+      "name": "约翰·浩克斯 John Hawkes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1232918/",
+      "name": "凯蒂·洛茨 Caity Lotz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022640/",
+      "name": "詹姆斯·拉夫尔提 James Lafferty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019033/",
+      "name": "小克利夫顿·克林斯 Clifton Collins Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036353/",
+      "name": "迈克尔·瓦尔坦 Michael Vartan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022670/",
+      "name": "安东尼·安德森 Anthony Anderson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013851/",
+      "name": "丹尼尔·逊亚塔 Daniel Sunjata"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313800/",
+      "name": "戴尔·迪奇 Dale Dickey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055150/",
+      "name": "罗伯特·福斯特 Robert Forster"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1105750/",
+      "name": "巴特·约翰逊 Bart Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045272/",
+      "name": "亚当·约翰逊 Adam Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345203/",
+      "name": "唐·哈维 Don Harvey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1185796/",
+      "name": "肖恩·卡里甘 Sean Carrigan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427906/",
+      "name": "K·达诺尔·杰拉德 K. Danor Gerald"
+    }
+  ]
+,
+  "datePublished": "2017-03-11",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H32M",
+  "description": "奥克塔维亚·斯宾瑟将携约翰·浩克斯出演独立惊悚片《小城犯罪》。电影讲述由浩克斯扮演的酗酒前警察偶然发现一具女尸，并不慎将他的家庭至于危险之中，他不得不一边寻找凶手，一边与恶势力作斗争。该片由内尔姆斯兄...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "658",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

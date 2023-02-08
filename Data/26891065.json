@@ -1,0 +1,130 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "七号病人 Patient Seven",
+  "url": "/subject/26891065/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2388525837.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048510/",
+      "name": "丹尼·德雷文 Danny Draven"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402053/",
+      "name": "埃林格·奥塔·索罗森 Erlingur Óttar Thoroddsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333516/",
+      "name": "尼古拉斯·彼得森 Nicholas Peterson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327928/",
+      "name": "迪恩·休伊森 Dean Hewison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006670/",
+      "name": "奥马尔·奥恩·豪克森 Omar Orn Hauksson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006670/",
+      "name": "奥马尔·奥恩·豪克森 Omar Orn Hauksson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327928/",
+      "name": "迪恩·休伊森 Dean Hewison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389997/",
+      "name": "布瑞恩·麦考利 Brian McAuley"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000048/",
+      "name": "艾米·斯马特 Amy Smart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019031/",
+      "name": "道格·琼斯 Doug Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049903/",
+      "name": "阿尔菲·艾伦 Alfie Allen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007000/",
+      "name": "迈克尔·艾恩塞德 Michael Ironside"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193054/",
+      "name": "格瑞思·范·迪恩 Grace Van Dien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041232/",
+      "name": "杰克·普罗特尼克 Jack Plotnick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373063/",
+      "name": "Thora Bjorg Helga Thora Bjorg Helga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348225/",
+      "name": "艾登·卡拉翰 Ayden Callaghan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1253740/",
+      "name": "道格·琼斯 Doug Jones"
+    }
+  ]
+,
+  "datePublished": "2016-10-11",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H53M",
+  "description": "The film centers on Dr. Marcus, a renowned psychiatrist who has selected 6 severe mentally ill and d...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "528",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

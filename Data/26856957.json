@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一惊到底",
+  "url": "/subject/26856957/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2376064020.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363267/",
+      "name": "罗福平 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363028/",
+      "name": "杨峻 Jun Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342506/",
+      "name": "张唯 Wei Zhang"
+    }
+  ]
+,
+  "datePublished": "2016-08-24",
+  "genre": ["\u60ca\u609a", "\u6050\u6016", "\u5192\u9669"],
+  "duration": "PT1H0M",
+  "description": "林佩和男友王东赫，闺蜜苏娅蕾，以及好友秦铭、张小司结伴远足。偶然经过一个无人荒村，几个小伙伴在村中休息时，遭遇了一连串奇怪而又诡异的事件，友谊的小船说翻就翻。
+林佩周旋其中渐渐发现，所有的事情最终都指...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

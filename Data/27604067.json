@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "菲比寻常",
+  "url": "/subject/27604067/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2507547548.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336333/",
+      "name": "陈明俊 Mingjun Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390659/",
+      "name": "周诗宇 Shiyu Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455714/",
+      "name": "栗妍 Yan Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1171687/",
+      "name": "方力申 Lik-Sun Fong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275650/",
+      "name": "姜瑞佳 Ruijia Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275210/",
+      "name": "雪村 Cun Xue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274445/",
+      "name": "苑琼丹 King-Tan Yuen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "创业失败的齐飞欠下巨额债务，得知一名叫理查德的投资人可能是力挽狂澜的希望，齐飞抓住一线生机前往P国M市唐人街，寻找【投资人-理查德】。
+齐飞初到唐人街便被骗子组合安夏-小胡子骗上贼船。殊不知齐飞身无分...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

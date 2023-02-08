@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美丽的蓝色多瑙河",
+  "url": "/subject/30282847/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528945837.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317124/",
+      "name": "宗平 Ping Zong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313881/",
+      "name": "姜昆 Kun Jiang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e", "\u620f\u66f2"],
+  "duration": "PT2H4M",
+  "description": "1872年的奥地利，一切都是那么的安静而惬意，街道上，人们悠闲、自在，尽情高歌；酒馆里，热热闹闹，啤酒洌醇；宫庭里，裙袂飘逸，舞步飞旋……圆舞曲之王约翰·施特劳斯沉浸在自己的音乐之中，享受着快乐而安逸...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

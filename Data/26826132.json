@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "嫌疑男子 Ein Mann unter Verdacht",
+  "url": "/subject/26826132/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2525443530.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002333/",
+      "name": "托马斯·施图伯 Thomas Stuber"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333879/",
+      "name": "斯特凡·科蒂茨 Stefan Kolditz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108385/",
+      "name": "黛博拉·考夫曼 Deborah Kaufmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327650/",
+      "name": "安尼卡·库尔 Annika Kuhl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003782/",
+      "name": "彼得·库尔特 Peter Kurth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199551/",
+      "name": "佩特拉·施密特-夏勒 Petra Schmidt-Schaller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318186/",
+      "name": "马克·瓦斯科 Mark Waschke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016662/",
+      "name": "汉斯·齐施勒 Hanns Zischler"
+    }
+  ]
+,
+  "datePublished": "2016-06-24",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT1H29M",
+  "description": "建筑设计师托马斯在妻子安雅的庆生宴过后发现妻子失踪，报警之后却被当成头号嫌疑人。他找到著名律师拉维妮娅请求帮助。此时，一名自称为安雅好友的女人康妮主动告知警方庆生宴当日托马斯与安雅爆发争吵，且托马斯疑...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "221",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

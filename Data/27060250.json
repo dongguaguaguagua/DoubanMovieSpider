@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "沉睡 Stasis",
+  "url": "/subject/27060250/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2461226662.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375878/",
+      "name": "妮科尔·琼斯狄翁 Nicole Jones-Dion"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375878/",
+      "name": "妮科尔·琼斯狄翁 Nicole Jones-Dion"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411710/",
+      "name": "兰登·格雷斯 London Grace"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418722/",
+      "name": "安娜·哈尔 Anna Harr"
+    }
+  ]
+,
+  "datePublished": "2017-06-02",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H30M",
+  "description": "夜晚派对之后，艾娃离开了她的朋友，偷偷溜回家里，第二天醒来，发现床上的自己安然无恙，但那不是艾娃，而是一个长得像她的人。一个来自未来的女人窃取了艾娃的身体，占据了艾娃的身份和生命。而且她并不孤单，因为...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "388",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯狂老妈 Ma Reum",
+  "url": "/subject/30284148/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540249489.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340944/",
+      "name": "奥黛丽·拉米 Audrey Lamy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328341/",
+      "name": "马克斯·布博里尔 Max Boublil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407599/",
+      "name": "爱丽丝·维赫塞 Alice Verset"
+    }
+  ]
+,
+  "datePublished": "2018-07-18",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "Tout va pour le mieux dans la vie sans histoires de Fanny... jusqu&#39;au jour où elle découvre que son ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

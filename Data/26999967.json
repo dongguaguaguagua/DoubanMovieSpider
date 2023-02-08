@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "他们皆圣徒 All Saints",
+  "url": "/subject/26999967/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2471120647.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285098/",
+      "name": "史蒂夫·戈默 Steve Gomer"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074937/",
+      "name": "卡拉·布欧诺 Cara Buono"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044870/",
+      "name": "约翰·考伯特 John Corbett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027869/",
+      "name": "巴里·柯宾 Barry Corbin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189346/",
+      "name": "尼尔森·李 Nelson Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424039/",
+      "name": "约翰·纽伯格 John Newberg"
+    }
+  ]
+,
+  "datePublished": "2017-08-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H48M",
+  "description": "ALL SAINTS is based on the inspiring true story of salesman-turned-pastor Michael Spurlock (John Cor...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "70",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

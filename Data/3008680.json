@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奇怪的收缩人 The Incredible Shrinking Man",
+  "url": "/subject/3008680/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032249/",
+      "name": "理查德·麦瑟森 Richard Matheson"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "An update version of the best-selling novel and blockbuster movie, it tells the story of Scott Carey...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

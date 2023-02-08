@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "牢笼 Jaulas",
+  "url": "/subject/30432313/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545502282.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404921/",
+      "name": "María Cabrera María Cabrera"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280122/",
+      "name": "马诺罗·卡罗 Manolo Caro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322204/",
+      "name": "埃斯特法尼娅·德·洛斯桑托斯 Estefanía de los Santos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1081248/",
+      "name": "安东尼奥·德钦特 Antonio Dechent"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342635/",
+      "name": "曼纽尔陶勒 Manuel Tallafé"
+    }
+  ]
+,
+  "datePublished": "2018-10-23",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H37M",
+  "description": "阿黛尔和她的母亲孔查生活在城郊的一个贫民窟里。孔查的丈夫是个可恶的暴徒，他使母女俩长期生活在暴力和虐待之中。对此忍无可忍的孔查决定不顾一切风险，偷走一大笔钱，并带着女儿阿黛尔逃离。不幸的是，她们在出逃...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

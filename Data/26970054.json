@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "高大的男人 Tall Men",
+  "url": "/subject/26970054/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2425283952.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029724/",
+      "name": "Richard Garcia Richard Garcia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1091870/",
+      "name": "Eddie Gray Eddie Gray"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363354/",
+      "name": "以利亚·史蒂文森 Elijah Stevenson"
+    }
+  ]
+,
+  "datePublished": "2016-05-31",
+  "genre": ["\u60ca\u609a", "\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "PT2H13M",
+  "description": "A challenged man is stalked by tall phantoms in business suits after he purchases a car with a myste...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

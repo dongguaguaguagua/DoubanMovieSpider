@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "秘密囚禁",
+  "url": "/subject/27104348/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496491930.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379559/",
+      "name": "萧超 Edward"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375386/",
+      "name": "张玉轩 Jason Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401585/",
+      "name": "刘宇宁 Yuning Liu"
+    }
+  ]
+,
+  "datePublished": "2017-08-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "《秘密囚禁》是一部通过极致而夸张的手法描述一个看似表面光鲜亮丽，但背后却有着无数辛酸与无奈的网络主播的故事。甜美性感的女主播岚岚在一日直播中被突然闯入家门的神秘男人劫持，醒来后发现自己被捆绑无法逃脱。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

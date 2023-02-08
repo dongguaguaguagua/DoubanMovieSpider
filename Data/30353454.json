@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天师传",
+  "url": "/subject/30353454/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537237543.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325639/",
+      "name": "邱处机 Chuji Qiu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325639/",
+      "name": "邱处机 Chuji Qiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325641/",
+      "name": "玄武的鱼 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365413/",
+      "name": "昌隆 Long Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327488/",
+      "name": "胡悦 Yue Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042888/",
+      "name": "张致恒 Steven Cheung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364577/",
+      "name": "王子辰 Zichen Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "十年前，钟馗后人钟大志（昌隆饰演）曾是天师镇的明日之星，却因患上“天师瘟”法力尽失，人生跌入谷底，大志发誓一定要获得“天师大赛”的冠军，以此证明自己价值。
+可惜事与愿违，十年后，钟大志不但没有实现梦想...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

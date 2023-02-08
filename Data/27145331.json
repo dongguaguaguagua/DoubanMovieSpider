@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大熊猫传奇",
+  "url": "/subject/27145331/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499501448.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361983/",
+      "name": "蒋叶峰 Yefeng Jiang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381402/",
+      "name": "刘先平 Xianping Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336404/",
+      "name": "郑成峰 Chengfeng Zheng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381404/",
+      "name": "许秋阳 Qiuyang Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381405/",
+      "name": "凡小花 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381406/",
+      "name": "奶糖 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381407/",
+      "name": "陈新玥 Xinyue Chen"
+    }
+  ]
+,
+  "datePublished": "2017-10-01",
+  "genre": ["\u5267\u60c5", "\u52a8\u753b", "\u60ac\u7591"],
+  "duration": "PT1H37M",
+  "description": "传说中的“食铁兽”闯入村子，晓青和果杉兄妹俩深入大山寻找“食铁兽”，却意外发现所谓的“食铁兽”是一对逃荒觅食的母子大熊猫。
+与此同时，凶残狡猾的老雪豹“独眼”、凶狠残暴的红狼和谋求暴利的不法分子都盯上...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

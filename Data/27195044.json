@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蝶影惊魂",
+  "url": "/subject/27195044/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505691079.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384027/",
+      "name": "邓凯蓝 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383960/",
+      "name": "易屹 Nicolas Yi"
+    }
+  ]
+,
+  "datePublished": "2017-11-07",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a", "\u5947\u5e7b"],
+  "duration": "PT1H13M",
+  "description": "中国偏远昆城有个博物馆，博物馆安排石勇，潘东婷等人前去边境拉邦镇把属于我国国宝对接带回昆城博物馆。不料路上遇到了昆城全城要通缉的罪犯。这些通缉犯把石勇一伙人当做了人质控制起来。坤哥怕罪犯抓到之后对自己...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

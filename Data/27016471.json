@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "莎乐美 National Theatre Live: Salomé",
+  "url": "/subject/27016471/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2498871883.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338042/",
+      "name": "劳埃德·哈钦森 Lloyd Hutchinson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442620/",
+      "name": "Isabella Nefar Isabella Nefar"
+    }
+  ]
+,
+  "datePublished": "2017-06-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "莎乐美（Isabella Nefar 饰）是风情万种的美丽少女，她的母亲希罗底曾经犯了弑父之罪，之后改嫁希律王。施洗约翰（Roseanna Frascona 饰）非常鄙视希罗底曾经犯下的罪孽，对她出言...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

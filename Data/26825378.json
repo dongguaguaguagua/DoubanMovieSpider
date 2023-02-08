@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "露营 캠핑",
+  "url": "/subject/26825378/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2365184939.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033612/",
+      "name": "蔡敏瑞 Min-seo Chae"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337884/",
+      "name": "李秀晶 Soo-jung Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390420/",
+      "name": "金熙尚 Hee-sang Kim"
+    }
+  ]
+,
+  "datePublished": "2016-07-14",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H9M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

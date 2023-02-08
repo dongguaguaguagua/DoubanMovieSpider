@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杨六郎智破连环计",
+  "url": "/subject/27605523/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2517081562.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396758/",
+      "name": "张宴尘 Yanchen Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369604/",
+      "name": "孙隽圣 Junsheng Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318596/",
+      "name": "黄诗佳 Shijia Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005636/",
+      "name": "刘永 Anthony Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317106/",
+      "name": "刘锡明 Sek-Ming Lau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415006/",
+      "name": "于洪亮 Hongliang Yu"
+    }
+  ]
+,
+  "datePublished": "2017-12-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "当杨六郎得知父亲杨业碰死李陵碑，七弟被潘仁美用计射杀后，一心要找潘仁美报仇。然而当他得知辽国的一石三鸟之计以及潘仁美的不臣之心后，放下私仇，用智谋保住了大宋的江山。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

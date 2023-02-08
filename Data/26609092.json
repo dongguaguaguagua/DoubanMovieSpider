@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雷格 Reg",
+  "url": "/subject/26609092/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2439883262.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276496/",
+      "name": "戴维·布莱尔 David Blair"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274501/",
+      "name": "吉米·麦戈文 Jimmy McGovern"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025176/",
+      "name": "蒂姆·罗斯 Tim Roth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314334/",
+      "name": "安娜·麦克西维尔·马丁 Anna Maxwell Martin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1216363/",
+      "name": "艾略特·提特恩索 Elliott Tittensor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1062755/",
+      "name": "蒂姆·本廷克 Tim Bentinck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071393/",
+      "name": "拉尔夫·布朗 Ralph Brown"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074221/",
+      "name": "保罗·科普利 Paul Copley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336239/",
+      "name": "凯文·道尔 Kevin Doyle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327100/",
+      "name": "大卫·维斯特海德 David Westhead"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1186675/",
+      "name": "Zac Fox Zac Fox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192009/",
+      "name": "迈尔斯·基奥治 Michael Keogh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164457/",
+      "name": "桑德拉·沃 Sandra Voe"
+    }
+  ]
+,
+  "datePublished": "2016-06-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "Tim Roth主演的BBC电视电影《Reg》发布预告，反战题材，根据真实故事改编，Tim Roth扮演标题人物Reg Keys，他的儿子于2003年死于伊拉克战场，此后，他和妻子开始质疑这场战争的正...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

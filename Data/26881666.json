@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "两极 Polar",
+  "url": "/subject/26881666/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2569385337.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423298/",
+      "name": "理查德·福斯特-金 Richard Foster-King"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428393/",
+      "name": "米歇尔·路瑟 Michelle Luther"
+    }
+  ]
+,
+  "datePublished": "2016-10-25",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

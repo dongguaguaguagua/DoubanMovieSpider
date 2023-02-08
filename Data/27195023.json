@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "江城谜案",
+  "url": "/subject/27195023/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2504988144.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357978/",
+      "name": "周彬 Bin Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357978/",
+      "name": "周彬 Bin Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-11-13",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H25M",
+  "description": "名侦探黎仁杰接受委托从东海市来到江城调查一桩古董失窃案，住入一间前晚有人自杀的酒店房间，却在当夜的密室中被杀害，妹妹黎丽被当做最大的嫌犯。黎丽决意为哥哥之死找出真相，唯一的线索是一首李白的唐诗“床前明...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

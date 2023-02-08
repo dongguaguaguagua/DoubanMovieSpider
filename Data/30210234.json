@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "刀震江湖",
+  "url": "/subject/30210234/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520951208.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359486/",
+      "name": "徐俊 Jun Xu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048469/",
+      "name": "徐少强 Norman Chu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319363/",
+      "name": "沈保平 Baoping Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314540/",
+      "name": "温海波 Haibo Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318275/",
+      "name": "张春仲 Chunzhong Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397730/",
+      "name": "孙奉招 Fengzhao Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454671/",
+      "name": "钱门超 Menchao Qian"
+    }
+  ]
+,
+  "datePublished": "2018-05-23",
+  "genre": ["\u52a8\u4f5c", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "",
+  "description": "开国武将周镇山一家惨遭灭门，其子周极逃亡之际被洞天教教主成义天所救，拜入门下。其间，受成义天之命劫取官银，成义天曰劫富济贫——然大部分银两还是入了洞天教私库。江南水灾时，在杭州重逢江南巡抚之女凌青瑶。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

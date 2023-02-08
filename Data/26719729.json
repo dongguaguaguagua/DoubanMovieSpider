@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拳击少女和爆疯大叔 Saala Khadoos",
+  "url": "/subject/26719729/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2315561576.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018290/",
+      "name": "马达范 R. Madhavan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1128581/",
+      "name": "纳赛尔 Nassar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402694/",
+      "name": "穆塔兹·索卡 Mumtaz Sorcar"
+    }
+  ]
+,
+  "datePublished": "2016-01-29",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ca\u609a", "\u8fd0\u52a8"],
+  "duration": "PT2H30M",
+  "description": "该片讲述了一名前拳击手因受政府黑幕而在比赛中失败并退出拳击，无奈成为训练女拳击手的教练，但之后却被使绊而独自一人来到连基础设施都不完善的钦奈。然而，其在无意中发现了一位在拳击上具有优秀天赋的小渔民，并...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "138",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

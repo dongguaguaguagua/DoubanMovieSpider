@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "白牦牛",
+  "url": "/subject/26807958/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2560912592.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369989/",
+      "name": "李加雅德 Ligyal Yade"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369989/",
+      "name": "李加雅德 Ligyal Yade"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418904/",
+      "name": "彭毛切卓 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340875/",
+      "name": "旺卓措 Zhuo Cuo Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418905/",
+      "name": "尕玛昂秀 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418906/",
+      "name": "杨措吉 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416666/",
+      "name": "九八 Juk Pa"
+    }
+  ]
+,
+  "datePublished": "2016-06-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H3M",
+  "description": "电影《白牦牛》是共和县建立影视外景拍摄基地的首部儿童题材母语电影，《白牦牛》是一部以目前这个物欲横流时代，高原人为了生计，在眼前经济利益和传统善性之间徘徊，失去人与动物、人与大自然之间的关爱的时代为背...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "240",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

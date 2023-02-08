@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爸爸的房子 la casa di famiglia",
+  "url": "/subject/30183080/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1084289/",
+      "name": "奥古斯托福尔纳里 Augusto Fornari"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1084289/",
+      "name": "奥古斯托福尔纳里 Augusto Fornari"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1073855/",
+      "name": "瓦伦蒂娜·奇科 Valentina Chico"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282074/",
+      "name": "利贝罗·德·瑞恩佐 Libero De Rienzo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "一对双胞胎姐妹一个想要孩子但是不能生，一个能生但是不想要孩子。为了应付家人，他们决定在一名医生的帮助下过上双面生活",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

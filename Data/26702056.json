@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑暗动物 Oscuro Animal",
+  "url": "/subject/26702056/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2321631999.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422090/",
+      "name": "Felipe Guerrero Felipe Guerrero"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-09-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H47M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "朝政 Affairs of State",
+  "url": "/subject/26808825/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2523402386.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005424/",
+      "name": "埃里克·布罗斯 Eric Bross"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031804/",
+      "name": "索拉·伯奇 Thora Birch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004622/",
+      "name": "米密·罗杰斯 Mimi Rogers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010554/",
+      "name": "艾德里安·格尼尔 Adrian Grenier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055646/",
+      "name": "大卫·詹姆斯·艾略特 David James Elliott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009432/",
+      "name": "菲·格兰特 Faye Grant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341107/",
+      "name": "格蕾丝·维多利亚·考克斯 Grace Victoria Cox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000482/",
+      "name": "布兰登·哈代斯蒂 Brandon Hardesty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420725/",
+      "name": "大卫·科伦斯韦 David Corenswet"
+    }
+  ]
+,
+  "datePublished": "2018-06-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "Eric Bross directs Public Affairs from a screenplay by Tom Cudworth about a campaign aide who must f...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "177",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

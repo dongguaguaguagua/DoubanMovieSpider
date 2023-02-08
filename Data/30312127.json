@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夺宝黑狐岭",
+  "url": "/subject/30312127/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537864601.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322303/",
+      "name": "高力强 Liqiang Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453275/",
+      "name": "林志刚 Zhigang Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390544/",
+      "name": "白那日苏 Narisu Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401074/",
+      "name": "姚娆 Rao Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398826/",
+      "name": "李俊瑶 Junyao Li"
+    }
+  ]
+,
+  "datePublished": "2018-08-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "闯关东的青年王昊与女友白菲、朋友六子路过黒狐岭镇，三人意外得知宝物“金狗含珠”所藏地，因此陷入警察队长姚千元等人的追捕，几经周折，一丈红牺牲自我，帮助铲除了姚锡三、姚千元等一方恶霸。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "废头 Junk Head",
+  "url": "/subject/27098373/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2633993441.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452378/",
+      "name": "堀贵秀 Takahide Hori"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452378/",
+      "name": "堀贵秀 Takahide Hori"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452378/",
+      "name": "堀贵秀 Takahide Hori"
+    }
+  ]
+,
+  "datePublished": "2017-07-23",
+  "genre": ["\u79d1\u5e7b", "\u52a8\u753b", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H54M",
+  "description": "在很久以后的未来，地面已经被污染到无法生存的程度，人类开始朝地底开发，并创造人工生命体代为劳动，没想到人工生命体反抗了人类接管了地底世界，而因为过度污染与新型态的病毒感染，原已所剩无几的人类又减损了近...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5452",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.4"
+  }
+}

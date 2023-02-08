@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们遗忘的比所知道的更多 We&#39;ve Forgotten More Than We Ever Knew",
+  "url": "/subject/26992365/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2443809028.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029117/",
+      "name": "Thomas Woodrow Thomas Woodrow"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029117/",
+      "name": "Thomas Woodrow Thomas Woodrow"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019031/",
+      "name": "道格·琼斯 Doug Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045210/",
+      "name": "路易莎·克劳瑟 Louisa Krause"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013943/",
+      "name": "亚伦·斯坦福 Aaron Stanford"
+    }
+  ]
+,
+  "datePublished": "2016-08-28",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H38M",
+  "description": "A Man and a Woman wander through a hostile wilderness in a far-away world. One day, they stumble upo...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

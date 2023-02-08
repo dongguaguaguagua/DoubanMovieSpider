@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "包容 All Inclusive",
+  "url": "/subject/27621697/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2509626909.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1143989/",
+      "name": "苏珊娜·勒特 Suzanne Reuter"
+    }
+  ]
+,
+  "datePublished": "2017-11-10",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "Remake of the danish movie all inclusive (2015)",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

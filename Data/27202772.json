@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "战境：火线突围",
+  "url": "/subject/27202772/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2521531622.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439869/",
+      "name": "靳浩 Hao Jin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366719/",
+      "name": "蔡力允 Li-Yun Tsai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414128/",
+      "name": "梁骞 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390895/",
+      "name": "王海涛 Haitao Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425762/",
+      "name": "李辛喆 Xinzhe Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444438/",
+      "name": "马修·德尔·贝尔·贝鲁兹 Matthew Del Bel Belluz"
+    }
+  ]
+,
+  "datePublished": "2018-05-04",
+  "genre": ["\u79d1\u5e7b", "\u6218\u4e89"],
+  "duration": "PT1H2M",
+  "description": "影片讲述了人工智能科学家李俊夫取得科研突破，成功将人类的记忆存储在电脑中。同时间段，李俊夫妻子娜塔莎，联合国某医疗救助机构负责人，却在第三世界某地执行医疗救护任务时遭遇恐怖袭击失踪，除了武装护卫队队长...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

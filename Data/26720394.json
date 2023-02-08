@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀人日记",
+  "url": "/subject/26720394/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2378237253.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330322/",
+      "name": "王立康 WangLiKang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419317/",
+      "name": "何欣烛 Xinzhu He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410964/",
+      "name": "王紫格 Zige Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a", "\u9ed1\u8272\u7535\u5f71"],
+  "duration": "PT1H30M",
+  "description": "时尚美丽的超人气偶像艺人叶小曼，自从单飞后便成了跨界电影演员，一时间，众星捧月星途一片顺利。正当叶小曼沉浸在偶像的光环中时，周围的一切似乎有了诡异的变化，仇恨？猝死？凶杀？还是都只是邪恶的幻觉？
+叶小...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

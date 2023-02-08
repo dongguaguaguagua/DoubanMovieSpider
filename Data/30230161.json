@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新蜀山剑侠传",
+  "url": "/subject/30230161/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2539127082.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420559/",
+      "name": "周炳坤 Bingkun Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420995/",
+      "name": "还珠楼主 Shoumin Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391507/",
+      "name": "董晨 Chen Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329785/",
+      "name": "赵樱子 Yingzi Zhao"
+    }
+  ]
+,
+  "datePublished": "2018-11-02",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "峨嵋派掌门严人英因无法得道成仙，得了心魔，立志要消灭天庭掌控三届，在人间制造了毁灭性的灾难。李英琼和云洛最终用“紫青双剑”合力击败了严人英，拯救了天下苍生。
+影片编码：001103362018",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

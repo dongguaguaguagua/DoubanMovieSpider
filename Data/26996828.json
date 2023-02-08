@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "未完成的童话",
+  "url": "/subject/26996828/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316748/",
+      "name": "光良 Michael Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283957/",
+      "name": "胡升忠 Sing-Choong Foo"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "星空盛典影业发布会，[未完成的童话]导演光良、胡升忠与监制黄志明出席。影片会涉及未来世界与人工智能，首次执导的光良表示喜爱恐怖片与科幻片，而《童话》MV剧情的前因后果未说出，正好能在电影里放入一些想说...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

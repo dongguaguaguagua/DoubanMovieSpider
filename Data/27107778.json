@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一真见血",
+  "url": "/subject/27107778/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2497915672.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381091/",
+      "name": "李楠 Nan Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382334/",
+      "name": "杨雪莹 Xueying Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428627/",
+      "name": "井凌潇 Lingxiao Jing"
+    }
+  ]
+,
+  "datePublished": "2017-08-07",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H15M",
+  "description": "网络女主播美晴被曝出不雅视频，遭到网络舆论的疯狂攻击后离奇死亡。三年后，当年牵扯其中的五人被邀请参加一档知名直播节目。节目主持人关小雨现场突然发难，一改事先排练好的内容，向众人逼问早已被遗忘的美晴死亡...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "强尼 Johnny",
+  "url": "/subject/26814059/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2358697978.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054775/",
+      "name": "托尼·阿巴特马尔科 Tony Abatemarco"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT0H20M",
+  "description": "A night with a troubled stranger forces a young male sex worker to confront a haunting moment from h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

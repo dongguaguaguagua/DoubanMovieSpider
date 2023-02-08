@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "风雨欲来",
+  "url": "/subject/30216984/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2858525931.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391914/",
+      "name": "高成岗 Chenggang Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369994/",
+      "name": "钟华 Hua Zhong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338096/",
+      "name": "杨政 Zheng Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328339/",
+      "name": "奚望 Wang Xi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "康城警察局局长乔平野寿诞，城内名流纷纷前来祝贺，方家铭也前来拜贺，席间与青衣名角安月如相识。并赶跑了潜入乔局长家的惯偷于四宝。 听闻安月如唱大戏，邀请了市府要员，方家铭敏锐地意识到独眼龙会利用这个时机...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

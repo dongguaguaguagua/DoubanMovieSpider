@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "金三角大营救",
+  "url": "/subject/30209989/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2532409895.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351030/",
+      "name": "张涛 Tao Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349114/",
+      "name": "彭禺厶 Yusi Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349304/",
+      "name": "李乔丹 Qiaodan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398827/",
+      "name": "于心妍 Xinyan Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327277/",
+      "name": "楼学贤 Jackson Lau Hok-Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451015/",
+      "name": "陈玉勇 Yuyong Chen"
+    }
+  ]
+,
+  "datePublished": "2018-05-10",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ac\u7591"],
+  "duration": "PT1H40M",
+  "description": "华裔富商林嘉豪的女儿林歌阑和同事一起来到美丽神秘的金三角地区采访，林歌阑是海外华裔著名记者。在采访期间，无意中拍到一次恶势力团伙的杀人贩毒事件，林歌阑的职业习惯让她一直想把这个事件的来龙去脉了解清楚。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "940",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

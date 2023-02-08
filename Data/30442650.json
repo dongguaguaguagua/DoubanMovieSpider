@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "0.5 Versatile",
+  "url": "/subject/30442650/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546266748.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478543/",
+      "name": " Eudald Font"
+    }
+  ]
+,
+  "datePublished": "2017-10-22",
+  "genre": ["\u5267\u60c5", "\u77ed\u7247", "\u540c\u6027"],
+  "duration": "PT0H15M",
+  "description": "艾力克斯和雨果是一對在一起六個月的年輕情侶，某個週五晚上，他們回到艾力克斯家中，並終於討論起他們遲遲難以啟齒的疑惑：他們在性方面的角色。起初看似簡單的交談，引發出一些重要議題，除了1、0或不分，成功維...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

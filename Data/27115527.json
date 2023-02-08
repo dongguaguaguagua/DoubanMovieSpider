@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Witch Hunt",
+  "url": "/subject/27115527/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2496530652.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052519/",
+      "name": "理查德·钱德勒 Richard Chandler"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052519/",
+      "name": "理查德·钱德勒 Richard Chandler"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036790/",
+      "name": "格拉汉姆·金 Graham King"
+    }
+  ]
+,
+  "datePublished": "2016-06-04",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT0H53M",
+  "description": "When a peaceful town is overrun by evil, an honest priest begins to struggle with his faith.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

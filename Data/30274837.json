@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "La légende",
+  "url": "/subject/30274837/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528110319.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118403/",
+      "name": "凯文·米兰达 Kevin Miranda"
+    }
+  ]
+,
+  "datePublished": "2018-06-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "At 25 years old, Jean-Christophe Markovic is at the top of his career as a professional basketball p...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "踏步青春 Teenage Kicks",
+  "url": "/subject/21883154/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2364893502.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334691/",
+      "name": "克雷格·伯雷汉 Craig Boreham"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334691/",
+      "name": "克雷格·伯雷汉 Craig Boreham"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356462/",
+      "name": "丹尼尔·韦伯 Daniel Webber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316119/",
+      "name": "迈尔斯·斯赞托 Miles Szanto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1241949/",
+      "name": "夏洛特·贝斯特 Charlotte Best"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1262647/",
+      "name": " Nadim Kobeissi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193992/",
+      "name": "伊恩·罗伯茨 Ian Roberts"
+    }
+  ]
+,
+  "datePublished": "2016-06-11",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H38M",
+  "description": "The scars of our youth shape the adults we become.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "171",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

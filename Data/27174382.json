@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "养诡",
+  "url": "/subject/27174382/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502461510.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402591/",
+      "name": "李雁倩 Yanqian Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363933/",
+      "name": "王小泉 Xiaoquan Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374627/",
+      "name": "孙德元 Deyuan Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361044/",
+      "name": "池韵 Yun Chi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H7M",
+  "description": "大学生靳舒因为经济拮据，打算同时打两份工多挣点钱，经人介绍高级别墅区担任小时工，但她并不知道她已踏入这个社区的危险秘密之中……
+靳舒的雇主之一是人称“通灵大师”的朱启，因为他摆弄的那些阴怪之物，整个朱...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

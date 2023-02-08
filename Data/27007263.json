@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "凯恩马戏团 Circus Kane",
+  "url": "/subject/27007263/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497934648.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1058726/",
+      "name": "克里斯托弗·雷 Christopher Babers"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049741/",
+      "name": "扎克·沃德 Zack Ward"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027266/",
+      "name": "乔纳森·利普尼基 Jonathan Lipnicki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1113296/",
+      "name": "马克·克里斯托弗·劳伦斯 Mark Christopher Lawrence"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322605/",
+      "name": "卡梅隆·贾宝 Cameron Jebo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447571/",
+      "name": "比尔·沃希 Bill Voorhees"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323234/",
+      "name": "妮可·福克斯 Nicole Fox"
+    }
+  ]
+,
+  "datePublished": "2017-09-08",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H28M",
+  "description": "A reclusive circus master invites a group of social media stars to his house of haunts. Anyone who c...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "182",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

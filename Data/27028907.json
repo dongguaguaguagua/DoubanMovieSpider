@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "危机万岁 Vive la crise !",
+  "url": "/subject/27028907/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2456605083.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1082725/",
+      "name": "让-克洛德·德雷菲斯 Jean-Claude Dreyfus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046074/",
+      "name": "让-玛丽·毕加尔 Jean-Marie Bigard"
+    }
+  ]
+,
+  "datePublished": "2017-05-10",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H32M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

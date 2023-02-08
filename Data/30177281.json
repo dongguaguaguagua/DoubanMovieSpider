@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱在瓦伦丁 Love Finds You in Valentine",
+  "url": "/subject/30177281/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2521802232.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1255760/",
+      "name": "米凯拉·麦克曼努斯 Michaela McManus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134870/",
+      "name": "迪奥戈·莫加多 Diogo Morgado"
+    }
+  ]
+,
+  "datePublished": "2016-02-14",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H27M",
+  "description": "Kennedy Blaine, a Californian girl, inherits a ranch in the small town of Valentine in Nebraska. Bef...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "156",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

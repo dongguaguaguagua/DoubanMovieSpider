@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "遗愿 The Final Wish",
+  "url": "/subject/30380315/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542583358.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382915/",
+      "name": "蒂莫西·伍德沃 Timothy Woodward Jr."
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436457/",
+      "name": "杰弗里·雷迪克 Jeffrey Reddick"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276530/",
+      "name": "林·沙烨 Lin Shaye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025196/",
+      "name": "迈克·韦尔奇 Michael Welch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365210/",
+      "name": "梅丽莎·博洛纳 Melissa Bolona"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049578/",
+      "name": "史宾塞·洛克 Spencer Locke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036498/",
+      "name": "托尼·托德 Tony Todd"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436457/",
+      "name": "杰弗里·雷迪克 Jeffrey Reddick"
+    }
+  ]
+,
+  "datePublished": "2018-10-17",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H35M",
+  "description": "在父亲去世后，亚伦回到家中帮助他悲痛欲绝的母亲，并直面他的过去，而在处理后事的过程中，他发现了一个神秘的骨灰龛，而这背后还隐藏着更加可怕的东西.....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "801",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

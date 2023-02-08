@@ -1,0 +1,31 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Dummy 2",
+  "url": "/subject/26902263/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2393004056.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-09-13",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H10M",
+  "description": "After watching a horror movie based on a series of murders committed by a possessed dummy, a group o...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

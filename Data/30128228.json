@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玉米地的小孩：大逃亡 Children of the Corn: Runaway",
+  "url": "/subject/30128228/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2515699262.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036919/",
+      "name": "约翰·古拉格 John Gulager"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355426/",
+      "name": "乔尔·苏瓦松 Joel Soisson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367272/",
+      "name": "玛茜·米勒 Marci Miller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1268511/",
+      "name": " Tyler Corbin"
+    }
+  ]
+,
+  "datePublished": "2018-03-13",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H22M",
+  "description": "年轻的孕妇露丝逃脱了凶残的儿童邪教。在接下来的十年里，她匿名生活，试图使儿子免遭她小时候所经历的恐怖，但有邪恶跟着她，现在，她必须面对邪恶，或者失去孩子……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "335",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

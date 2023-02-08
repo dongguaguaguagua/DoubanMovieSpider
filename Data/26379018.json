@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暗房秘密 Le secret de la chambre noire",
+  "url": "/subject/26379018/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2441337283.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010731/",
+      "name": "黑泽清 Kiyoshi Kurosawa"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010731/",
+      "name": "黑泽清 Kiyoshi Kurosawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017537/",
+      "name": "凯瑟琳·派勒 Catherine Paille"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009428/",
+      "name": "塔哈·拉希姆 Tahar Rahim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314659/",
+      "name": "康斯坦丝·卢梭 Constance Rousseau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012611/",
+      "name": "奥利维埃·古尔梅 Olivier Gourmet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040679/",
+      "name": "马修·阿马立克 Mathieu Amalric"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274959/",
+      "name": "马立克·兹迪 Malik Zidi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314429/",
+      "name": "托马斯·库芒 Thomas Coumans"
+    }
+  ]
+,
+  "datePublished": "2016-09-11",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u5947\u5e7b"],
+  "duration": "PT2H11M",
+  "description": "《底片上的女人》是一部由日本惊悚悬疑大师黑泽清首次执导的外语片，该片于2016年秋季在日本全国上映，影片《底片上的女人》聚焦1893年发明银板照相法的摄影技巧这一主题的惊悚爱情故事。因一件小事而成为摄...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "901",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

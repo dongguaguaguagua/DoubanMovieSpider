@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "多米尼卡 Dominika",
+  "url": "/subject/27125447/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2630082279.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380196/",
+      "name": "Oleg Ageichev Oleg Ageichev"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380196/",
+      "name": "Oleg Ageichev Oleg Ageichev"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046321/",
+      "name": "斯维特兰娜··乌斯蒂诺娃 Svetlana Ustinova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165067/",
+      "name": "伊莲娜·雅科夫列娃 Elena Yakovleva"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u5947\u5e7b"],
+  "duration": "PT1H20M",
+  "description": "一个叫多米尼卡的小姑娘被科斯蒂亚收留，每当科斯蒂亚因为多米尼亚的调皮抓狂时，多米尼亚就会长大一点。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

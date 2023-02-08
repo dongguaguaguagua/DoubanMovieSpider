@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "霍利·凯恩实验 The Holly Kane Experiment",
+  "url": "/subject/27030200/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2456788432.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215878/",
+      "name": "Simon Hepworth Simon Hepworth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1246953/",
+      "name": " Tom Clear"
+    }
+  ]
+,
+  "datePublished": "2017-03-25",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H43M",
+  "description": "An obsessive psychologist attempts to reprogramme her subconscious mind, but when her actions become...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "61",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的青春我的梦",
+  "url": "/subject/26990084/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2441113453.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463807/",
+      "name": "朱皓泽 Haoze Zhu"
+    }
+  ]
+,
+  "datePublished": "2017-03-04",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H11M",
+  "description": "《我的青春我的梦》是一部由韩昌松导演的电影，影片主要体现70、80、90三个不同时代的奋斗故事，三个故事看似关联不大，却构成了电影内容的整体节奏，时光错乱中交替进行，前因后果表现的淋漓尽致，三代人的故...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

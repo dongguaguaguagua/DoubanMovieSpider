@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Jagga间谍 Jagga Jasoos",
+  "url": "/subject/26264040/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2495155113.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010569/",
+      "name": "卡特莉娜·卡芙 Katrina Kaif"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199446/",
+      "name": "兰比尔·卡普尔 Ranbir Kapoor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036609/",
+      "name": "哥文达 Govinda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423311/",
+      "name": "罗卓达普·道特 Rajatabha Dutta"
+    }
+  ]
+,
+  "datePublished": "2017-07-14",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT2H41M",
+  "description": "Gaga is a stuttering child, parents died in an accident, agents were injured in the hospital for Ste...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "111",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

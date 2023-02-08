@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "七天",
+  "url": "/subject/27114888/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2496408125.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379644/",
+      "name": "李连军 Lianjun Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366046/",
+      "name": "谈锐 Rui Tan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379645/",
+      "name": "李涛亮 Taoliang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338471/",
+      "name": "刘真君 Zhenjun Liu"
+    }
+  ]
+,
+  "datePublished": "2017-08-25",
+  "genre": ["\u7231\u60c5", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H45M",
+  "description": "女刑警洛凝在一次远足踏青时，无意间发现了在逃通缉犯顾正良，在实施抓捕时，却不慎与其双双坠入了一个山洞中。顾正良曾经是名转业军人，在回到贫瘠的山区老家后，决心拿出自己的转业费，带领全村人走上致富之路，却...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

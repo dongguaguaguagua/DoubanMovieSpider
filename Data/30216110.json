@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "终结之旅 End Trip",
+  "url": "/subject/30216110/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2521507821.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1249410/",
+      "name": "艾伦·杰伊·罗姆 Aaron Jay Rome"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1249410/",
+      "name": "艾伦·杰伊·罗姆 Aaron Jay Rome"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174732/",
+      "name": "迪恩·J·韦斯特 Dean J. West"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1249410/",
+      "name": "艾伦·杰伊·罗姆 Aaron Jay Rome"
+    }
+  ]
+,
+  "datePublished": "2018-06-06",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "On a calm night in an average city a hardworking URYDE driver, Brandon, picks up just another fare, ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "127",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

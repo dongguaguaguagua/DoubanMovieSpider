@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的礼物 我的禮物",
+  "url": "/subject/27102484/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2618118584.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275665/",
+      "name": "吴慷仁 Kang Ren Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342329/",
+      "name": "邵雨薇 Ivy Shao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313993/",
+      "name": "尹昭德 Chao-te Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358341/",
+      "name": "施名帅 Ming-Shuai Shih"
+    }
+  ]
+,
+  "datePublished": "2017-01-22",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H41M",
+  "description": "趙以忠，事業有成的建築師，又接獲妻子懷孕的消息，一切堪稱人生勝利組的配置。然而，就這此時，他卻得知了自己罹癌的惡耗，他面臨人生中最痛苦的轉戾點。 以忠用著幽默而正面的態度去面對，並透過每天預錄他的人生...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "99",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

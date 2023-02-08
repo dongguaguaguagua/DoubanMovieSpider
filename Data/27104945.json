@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马蹄铁理论 Horseshoe Theory",
+  "url": "/subject/27104945/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495113327.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379596/",
+      "name": "莉莉·梅·哈灵顿 Lily Mae Harrington"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT0H12M",
+  "description": "A weapons deal between a white supremacist and a member of the Islamic State blossoms into more.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "261",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

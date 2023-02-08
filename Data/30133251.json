@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱上费加罗 Falling for Figaro",
+  "url": "/subject/30133251/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2649732131.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327011/",
+      "name": "本·列文 Ben Lewin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327011/",
+      "name": "本·列文 Ben Lewin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048173/",
+      "name": "乔安娜·拉姆利 Joanna Lumley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289963/",
+      "name": "加里·刘易斯 Gary Lewis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332334/",
+      "name": "沙扎德·拉蒂夫 Shazad Latif"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382494/",
+      "name": "丹妮尔·麦克唐纳 Danielle Macdonald"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342023/",
+      "name": "休·斯金纳 Hugh Skinner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333764/",
+      "name": "瑞贝卡·本森 Rebecca Benson"
+    }
+  ]
+,
+  "datePublished": "2020-09-09",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H44M",
+  "description": "乔安娜·林莉和丹妮尔·麦克唐纳(《难以置信》)主演，本·列文(《亲密治疗》)执导，讲述麦克唐纳饰演的基金经理离开了无法给她满足感的工作和交往已久的男朋友，去追寻自己的毕生梦想：唱歌剧。林莉饰演的前歌剧...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "137",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

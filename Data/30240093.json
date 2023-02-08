@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Casa de sudor y lágrimas",
+  "url": "/subject/30240093/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2523972575.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318882/",
+      "name": "Sonia Escolano Sonia Escolano"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318882/",
+      "name": "Sonia Escolano Sonia Escolano"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478543/",
+      "name": " Eudald Font"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H44M",
+  "description": "She, leader of a religious sect, leads a group of people. All live together in a claustrophobic plac...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

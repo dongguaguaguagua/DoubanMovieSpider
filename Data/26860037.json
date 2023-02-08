@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯狂的萝莉",
+  "url": "/subject/26860037/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2867685392.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313987/",
+      "name": "邓天晴 Tianqing Deng"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335432/",
+      "name": "黄恺杰 Wesley Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322136/",
+      "name": "林一霆 Yiting Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381291/",
+      "name": "威力斯 Lisi Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350363/",
+      "name": "骆文博 Wenbo Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361364/",
+      "name": "姜萌轩 Michelle Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377339/",
+      "name": "王溪鹭 Xilu Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "该片讲述了《红罗女》舞剧女主角选拔在即，男主角白羽（黄恺杰 饰）突然受伤，女主演候选吴小菲离奇死亡，不祥的气氛笼罩在整个舞团之中。戏服有鬼？难道真的应了谁穿上谁就要死的传言？“可我还是要穿上它！”梦想...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

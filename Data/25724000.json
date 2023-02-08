@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑桃皇后 Дама Пик",
+  "url": "/subject/25724000/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2137292356.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009832/",
+      "name": "帕维尔·龙金 Pavel Lungin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009832/",
+      "name": "帕维尔·龙金 Pavel Lungin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297162/",
+      "name": "大卫·塞德勒 David Seidler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018662/",
+      "name": "普希金 Alexander Pushkin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000691/",
+      "name": "克谢尼娅·拉波波尔特 Kseniya Rappoport"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449758/",
+      "name": "伊万·扬科夫斯基 Ivan Yankovskiy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1466764/",
+      "name": "阿尔斯兰·穆尔扎别科夫 Arslan Murzabekov"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT2H0M",
+  "description": "很很久以前，有一位女高音歌唱家用她的年轻美貌和完美的歌声征服了全世界，而如今只剩下那段传奇与她相伴。她已多年不表演，也不再出现在她曾经叱咤风云的上流社交场合。这个曾经惊艳世界的疯狂女人如今想要在事业上...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "170",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

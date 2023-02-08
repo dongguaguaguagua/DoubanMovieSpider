@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "毒鲨 Toxic Shark",
+  "url": "/subject/27615565/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509403985.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351208/",
+      "name": "克里斯蒂娜·马斯特森 Christina Masterson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425912/",
+      "name": "凯碧·伯德斯 Kabby Borders"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457492/",
+      "name": "Cristina Jayo Cristina Jayo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457494/",
+      "name": "Michelle Cortés Michelle Cortés"
+    }
+  ]
+,
+  "datePublished": "2017-08-03",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016", "\u5192\u9669"],
+  "duration": "",
+  "description": "当客人意识到有毒的鲨鱼正在滋生周围的水源时，一个热带单身度假胜地将会转瞬即逝。 它不仅会撕裂受害者，而且还会使用抛射酸来进出水中。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "577",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.1"
+  }
+}

@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一个老千的江湖",
+  "url": "/subject/26716171/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2515149194.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331422/",
+      "name": "李丛喜 Congxi Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323591/",
+      "name": "陈威旭 Weixun Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360031/",
+      "name": "刘李优优 Youyou Liuli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353453/",
+      "name": "黑戈 Ge Hei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363550/",
+      "name": "冯晓江 Xiaojiang Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335488/",
+      "name": "王瑞儿 Rui&#39;er Wang"
+    }
+  ]
+,
+  "datePublished": "2016-01-28",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H20M",
+  "description": "雷中行，排名第一的千王。有人视他为崇拜对象，有人败在他手下后一心复仇，有的人虽是徒弟却满腹野心。千王表面风光，实则身处刀光剑影的江湖。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "94",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.6"
+  }
+}

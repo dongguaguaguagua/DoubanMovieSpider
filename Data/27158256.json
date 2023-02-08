@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "陪练人生 Sparring",
+  "url": "/subject/27158256/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2506957995.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382009/",
+      "name": "塞缪尔·朱义 Samuel Jouy"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022733/",
+      "name": "马修·卡索维茨 Mathieu Kassovitz"
+    }
+  ]
+,
+  "datePublished": "2017-08-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "斯蒂芬·兰德里是一个屡战屡败的老拳手，给新晋拳击冠军当陪练当他的人生开始不一样起来。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "334",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "污碳 Carbone",
+  "url": "/subject/27121176/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501350376.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041479/",
+      "name": "奥利维埃·马夏尔 Olivier Marchal"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041479/",
+      "name": "奥利维埃·马夏尔 Olivier Marchal"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013845/",
+      "name": "热拉尔·德帕迪约 Gérard Depardieu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045113/",
+      "name": "伯努瓦·马吉梅尔 Benoît Magimel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036804/",
+      "name": "迈克尔·扬 Michaël Youn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041478/",
+      "name": "劳拉·斯梅特 Laura Smet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290586/",
+      "name": "茂萨·马斯克里 Moussa Maaskri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353158/",
+      "name": "卡罗尔·布拉纳 Carole Brana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070141/",
+      "name": "达尼 Dani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335976/",
+      "name": "卡特琳·阿尔迪蒂 Catherine Arditi"
+    }
+  ]
+,
+  "datePublished": "2017-11-01",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H44M",
+  "description": "安東是一個平凡的人，他冒着失去自己公司的風險設計了一個在後來震驚世界的世紀騙局。由於事件的規模過於龐大，他避免不了要面對隨之而來的背叛、謀殺和償還欠帳。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "146",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

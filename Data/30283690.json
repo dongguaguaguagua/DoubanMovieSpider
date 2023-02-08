@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Helicopter Eela",
+  "url": "/subject/30283690/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2536934828.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022723/",
+      "name": "卡卓儿 Kajol"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049993/",
+      "name": "内哈·迪胡皮阿 Neha Dhupia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424760/",
+      "name": "托达·罗伊·乔杜里 Tota Roy Chowdhury"
+    }
+  ]
+,
+  "datePublished": "2018-10-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H20M",
+  "description": "Eela is an aspiring playback singer and single mother. She has given up all her dreams to raise her ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

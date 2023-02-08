@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "捕获 Captured",
+  "url": "/subject/27076789/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2469217455.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015005/",
+      "name": "罗斯·W·克拉克森 Ross W. Clarkson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015005/",
+      "name": "罗斯·W·克拉克森 Ross W. Clarkson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199503/",
+      "name": "莎拉·玛卢库·莱恩 Sara Malakul Lane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334720/",
+      "name": "艾米丽·古利奥特 Emilie Guillot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347734/",
+      "name": "狼森 Philippe Joly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376468/",
+      "name": "伍玉琪 Andrew Ng"
+    }
+  ]
+,
+  "datePublished": "2020-04-07",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "Lost in depression, a woman is taken on an emotional roller-coaster ride by an obsessed photographer...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

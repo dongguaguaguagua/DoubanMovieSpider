@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯狂农夫 Maniac Farmer",
+  "url": "/subject/30228806/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2522791863.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215240/",
+      "name": "Matt Williams Matt Williams"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-05-01",
+  "genre": ["\u559c\u5267", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "A group of street punks led by the murderous Blasphemous Rex meet their match when they choose to te...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

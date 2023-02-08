@@ -1,0 +1,38 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "手 РУКА",
+  "url": "/subject/30359260/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2538319417.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396768/",
+      "name": "伊戈尔·赫里普诺夫 Igor Khripunov"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "迈克尔，一个木匠，在一次练习表白时意外割下自己的手。试图 隐瞒这一工伤事故，他踏上了试图缝合断手的道路。
+Synopsis:
+Mikhail, a carpenter, cuts his hand b...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "235",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.5"
+  }
+}

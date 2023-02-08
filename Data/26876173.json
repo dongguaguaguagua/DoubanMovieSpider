@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地铁惊魂 Diggeri",
+  "url": "/subject/26876173/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2381766425.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393919/",
+      "name": "Tikhon Kornev Tikhon Kornev"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393920/",
+      "name": "阿列克谢·卡拉洛夫 Aleksey Karaulov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393919/",
+      "name": "Tikhon Kornev Tikhon Kornev"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386774/",
+      "name": "科里亚克夫斯基·叶夫格尼 Evgeniy Koryakovskiy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374196/",
+      "name": "瓦列里娅·什基兰多 Valeriya Shkirando"
+    }
+  ]
+,
+  "datePublished": "2016-08-11",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "莫斯科令人惊奇的地下隧道网络，不仅仅是地铁，它延绵千里，环绕着整个城市。在这个城市，每天都会有成千上万的人涌向地铁。在一个傍晚，最后一辆地铁加速驶过地铁，并消失在黑暗的隧道之中，地铁中载着混杂的乘客。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "262",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

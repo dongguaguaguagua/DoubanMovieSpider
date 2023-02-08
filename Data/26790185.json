@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "男公主",
+  "url": "/subject/26790185/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2402864443.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413714/",
+      "name": "刘祖光 Zuguang Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313982/",
+      "name": "何沄伟 Yunwei He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321640/",
+      "name": "孔小铭 Xiaoming Kong"
+    }
+  ]
+,
+  "datePublished": "2016-11-30",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H8M",
+  "description": "外表女像的孔小铭因家境贫寒进入模特公司担任平面模特，对“美”拥有独特观念的张总发现真相，想挖掘他并要把他打造成最闪亮的模特，借此打破“世俗美”的标准，证明她对美的观念是正确的。在这期间，孔小铭与李美慧...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

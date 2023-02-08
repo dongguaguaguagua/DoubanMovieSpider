@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "嘻哈英熊",
+  "url": "/subject/26814975/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531783371.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398701/",
+      "name": "王琦 Qi Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398701/",
+      "name": "王琦 Qi Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387166/",
+      "name": "丁昊 Hao Ding"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340112/",
+      "name": "林强 Qiang Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332875/",
+      "name": "刘思岑 Sicen Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350085/",
+      "name": "徐梦娟 Mengjuan Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340253/",
+      "name": "梁晓强 Xiaoqiang Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325740/",
+      "name": "郭政建 Zhengjian Guo"
+    }
+  ]
+,
+  "datePublished": "2017-05-28",
+  "genre": ["\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H25M",
+  "description": "只为救回被猎人掳走的熊仔“嘻哈”，生性鲁莽的熊爸“大山”闯入了节日中热闹的人类城镇；就在大山即将被抓之际，却被神秘的特工狗“亨特”救下。此时的嘻哈已落入动物贩卖集团的魔窟，被坏人扮成了熊猫，身价飙升。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

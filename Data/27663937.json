@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美少女战士水手骑士 美少女戦士セーラーナイツ",
+  "url": "/subject/27663937/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510425160.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419777/",
+      "name": "宇那月 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377322/",
+      "name": "佐佐波绫 Aya Sazanami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375796/",
+      "name": "生驹遥菜 Haruna Ikoma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387081/",
+      "name": "内村里菜 Rina Uchimura"
+    }
+  ]
+,
+  "datePublished": "2017-11-03",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

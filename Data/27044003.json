@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伊娃的水中冒险 Eva über Bord",
+  "url": "/subject/27044003/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2464608345.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1094413/",
+      "name": "斯坦芬·卢卡 Stephan Luca"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1094771/",
+      "name": "Julia Hartmann Julia Hartmann"
+    }
+  ]
+,
+  "datePublished": "2017-01-06",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H41M",
+  "description": "伊娃是一家德国报纸的记者，她想写一篇关于集装箱船上生活的故事。但后来她和“走私者” 尼克被海盗追捕, 开始了一段穿过丛林的冒险之旅……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

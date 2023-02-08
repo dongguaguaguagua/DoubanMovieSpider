@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三叠纪世界 Triassic World",
+  "url": "/subject/30203447/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2520120984.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187726/",
+      "name": "迪伦沃克斯 Dylan Vox"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476785/",
+      "name": "马克·戈特利布 Marc Gottlieb"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1480557/",
+      "name": "谢里尔·斯特灵 Shellie Sterling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483987/",
+      "name": "海莉·J·威廉斯 Hayley J Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363767/",
+      "name": "约瑟夫·迈克尔·哈里斯 Joseph Michael Harris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483988/",
+      "name": "珍妮弗·莱文森 Jennifer Levinson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483989/",
+      "name": "托马斯·史蒂文·瓦尔加 Thomas Steven Varga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1480954/",
+      "name": "乔尔·贝尔蒂 Joel Berti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476785/",
+      "name": "马克·戈特利布 Marc Gottlieb"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483990/",
+      "name": "科尔宾·迈尔斯 Korbin Miles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483783/",
+      "name": "宝琳娜·阮 Paulina Nguyen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482703/",
+      "name": "莎伦·德西蕾 Sharon Desiree"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1479377/",
+      "name": "布伦丹·佩特里佐 Brendan Petrizzo"
+    }
+  ]
+,
+  "datePublished": "2018-06-19",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H29M",
+  "description": "当科学家创造出新品种恐龙用来培养人体器官，然而一场意外却让这群远古生物脱逃而出，创造牠们的科学家此时必须竭力反击，才有机会逃过这场末日浩劫！",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "103",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.5"
+  }
+}

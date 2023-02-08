@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "虚假秘密 Les fausses confidences",
+  "url": "/subject/26850965/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2414739987.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1063337/",
+      "name": "卢克·邦迪 Luc Bondy"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008251/",
+      "name": "Marivaux Marivaux"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054515/",
+      "name": "伊莎贝尔·于佩尔 Isabelle Huppert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018067/",
+      "name": "路易·加瑞尔 Louis Garrel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025433/",
+      "name": "布鲁·欧吉尔 Bulle Ogier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045572/",
+      "name": "伊夫·雅克 Yves Jacques"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380495/",
+      "name": "Sylvain Levitte Sylvain Levitte"
+    }
+  ]
+,
+  "datePublished": "2016-08-06",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "此为电视电影，改编自2014年同名舞台剧，同导演同主演，故事源自法国十八世纪喜剧大师马里沃的同名作品，此为现代改编版。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "327",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

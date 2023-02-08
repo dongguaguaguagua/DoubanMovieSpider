@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "克罗索巨兽 Colossal",
+  "url": "/subject/26388164/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2457922862.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306843/",
+      "name": "那奇欧·维加隆多 Nacho Vigalondo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306843/",
+      "name": "那奇欧·维加隆多 Nacho Vigalondo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048027/",
+      "name": "安妮·海瑟薇 Anne Hathaway"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027527/",
+      "name": "丹·史蒂文斯 Dan Stevens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049521/",
+      "name": "杰森·苏戴奇斯 Jason Sudeikis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317023/",
+      "name": "奥斯汀·斯托维尔 Austin Stowell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048166/",
+      "name": "蒂姆·布雷克·尼尔森 Tim Blake Nelson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341055/",
+      "name": "阿加·达什 Agam Darshi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1198437/",
+      "name": "鲁奇娅·伯纳德 Rukiya Bernard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393786/",
+      "name": "汉娜·切尔敏 Hannah Cheramy"
+    }
+  ]
+,
+  "datePublished": "2016-09-09",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H50M",
+  "description": "影片讲述一个在纽约丢了男友(史蒂文斯饰)失了工作的女人(海瑟薇饰)，回到老家后，无意间发现自己和某种怪兽有着诡异的联系。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "9494",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

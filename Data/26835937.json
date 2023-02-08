@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "明天这个时候 Mañana a esta hora",
+  "url": "/subject/26835937/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2541720343.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414270/",
+      "name": "莉娜·罗德里格兹 Lina Rodríguez"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "Bogotá, Colombia. 17-year-old Adelaida lives with her parents Lena, an event planner, and Francisco,...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "According to her",
+  "url": "/subject/27035401/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2457753083.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451579/",
+      "name": "Valéry Lessard Valéry Lessard"
+    }
+  ]
+,
+  "datePublished": "2016-03-05",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "Love, motherhood and a musical career strike dissonant chords in this dark tale of a young Russian w...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

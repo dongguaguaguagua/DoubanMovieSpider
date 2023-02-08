@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "莫滕船长与蜘蛛女王 Captain Morten and the Spider Queen",
+  "url": "/subject/30192298/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2549050548.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049362/",
+      "name": "卡斯帕·简西斯 Kaspar Jancis"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049362/",
+      "name": "卡斯帕·简西斯 Kaspar Jancis"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004586/",
+      "name": "塞伦·希德 Ciarán Hinds"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291550/",
+      "name": "迈克尔·麦克埃尔哈顿 Michael McElhatton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000078/",
+      "name": "布莱丹·格里森 Brendan Gleeson"
+    }
+  ]
+,
+  "datePublished": "2018-08-30",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H19M",
+  "description": "爱沙尼亚木偶动画，Morten是一个10岁的梦想家。他的父亲在海上航行至沙拉曼德。照顾Morten的Anna阿姨是个烦人又精明的女人。Morten用玩具船和虫子一起玩过家家游戏。
+有一天，Morten...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "297",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "糖耳朵 Jalebi",
+  "url": "/subject/30328618/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2534456136.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406615/",
+      "name": "雷亚·查克雷伯蒂 Rhea Chakraborty"
+    }
+  ]
+,
+  "datePublished": "2018-10-12",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "阿伊莎（雷亚·查克雷伯蒂 Rhea Chakraborty 饰）是一位小有所成的畅销书作者，虽然在事业上取得了不菲的成就，但曾经经历过一段失败感情的她至今都没有走出阴影。某日，阿伊莎登上了前往新德里的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "172",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

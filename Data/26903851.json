@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "炮哥进城",
+  "url": "/subject/26903851/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2393765491.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322837/",
+      "name": "张鑫 Xin Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329637/",
+      "name": "郭金杰 Jinjie Guo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H8M",
+  "description": "“炮哥”吴大有来到北京寻找女友大丹，在弟弟吴前途家暂住，亲眼见到社会污染心灵，骗术迭起，很多人为了发财不择手段。炮哥此行丢人又赔钱，但他依然善良的帮助别人，骗他手机的女生，街头宿醉的老头。因为他的善良...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

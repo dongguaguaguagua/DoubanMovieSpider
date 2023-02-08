@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Halloween: The Night Evil Died",
+  "url": "/subject/26981161/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2452398566.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1130327/",
+      "name": "托尼·莫兰 Tony Moran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1229833/",
+      "name": "布兰登·泰勒·罗素 Brandon Tyler Russell"
+    }
+  ]
+,
+  "datePublished": "2017-10-13",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Following the events of Halloween Resurrection and the death of Emma&#39;s father (John Tate), Emma and ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

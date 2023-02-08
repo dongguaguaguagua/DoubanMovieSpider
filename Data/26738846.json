@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "动物僵尸 Zoombies",
+  "url": "/subject/26738846/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2325029771.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1250245/",
+      "name": " Glenn Miller"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354360/",
+      "name": "安德鲁·阿斯珀 Andrew Asper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187680/",
+      "name": "亚伦·格罗本 Aaron Groben"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362713/",
+      "name": "布丽安娜·乔伊·乔默 Brianna Joy Chomer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363756/",
+      "name": "约恩·巴特勒 Ione Butler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1485302/",
+      "name": "鲁本·伊 Reuben Uy"
+    }
+  ]
+,
+  "datePublished": "2016-03-01",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "动物园准备开放，聘请一班实习生到访实习，没想到一种神秘病毒在动物园内开始蔓延爆发，全动物园的动物因而变成噬血活尸，成了真正的尸乐园，现在园区内的幸存者除了得想办法逃出生天外，还必须阻止这群饥肠辘辘的动...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "217",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.5"
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "赌城大冒险",
+  "url": "/subject/26995004/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2445706210.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371079/",
+      "name": "张家诵 Jiasong Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365364/",
+      "name": "许伟豪 Tony Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385811/",
+      "name": "连柏颖 Anthony Lien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404092/",
+      "name": "欧阳春晓 Aurora Ouyang"
+    }
+  ]
+,
+  "datePublished": "2017-03-15",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H5M",
+  "description": "《赌城大冒险》主要讲述了“万事屋”主万金成与“奇葩千金”沈小妍意外灵魂互换，历经重重困难，有情人终成眷属的奇幻爱情故事。好色拜金的万金成是神秘的赌城“万事屋”主人，拥有印第安自远古传承的灵魂权杖，具有...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

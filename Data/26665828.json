@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "呼吸正常",
+  "url": "/subject/26665828/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2284863148.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353087/",
+      "name": "李云波 Yunbo Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353087/",
+      "name": "李云波 Yunbo Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348824/",
+      "name": "李会 Hui Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354270/",
+      "name": "叶锐洪 Ruihong Ye"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352995/",
+      "name": "张兴超 Xingchao Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354270/",
+      "name": "叶锐洪 Ruihong Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348824/",
+      "name": "李会 Hui Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352959/",
+      "name": "周嘉亨 Richard Chow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360404/",
+      "name": "黄馨 Xin Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362966/",
+      "name": "苏雯珊 Wenshan Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362967/",
+      "name": "李伊 Yi Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352970/",
+      "name": "卓雅雯 Yawen Zhuo"
+    }
+  ]
+,
+  "datePublished": "2016-04-18",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H47M",
+  "description": "四个青年，一座城市，爱与理想，轻松的茫然，四季轮换，他们从生活走进了电影，又从电影回到生活，在电影中扮演自己，又因电影而改变，中国电影从未有过的即兴创作，从未呈现的城市生活。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2913",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

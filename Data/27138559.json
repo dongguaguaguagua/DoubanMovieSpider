@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Angamaly Diaries",
+  "url": "/subject/27138559/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502582018.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431266/",
+      "name": "安东尼·瓦尔吉斯 Antony Varghese"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT2H12M",
+  "description": "Vincent Pepe who wanted to be a powerful leader of a righteous gang that ruled the city, like his se...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

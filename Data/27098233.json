@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一吠钟情 Love at First Bark",
+  "url": "/subject/27098233/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531150591.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295936/",
+      "name": "麦克·罗尔 Mike Rohl"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189778/",
+      "name": "珍娜·克拉默 Jana Kramer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323533/",
+      "name": "凯文·麦加里 Kevin McGarry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345754/",
+      "name": "里斯·亚历山大 Reese Alexander"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1082650/",
+      "name": "萨拉·埃德蒙森 Sarah Edmondson"
+    }
+  ]
+,
+  "datePublished": "2017-04-01",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H24M",
+  "description": "Portland interior designer Julia Galvins adopts a dog and seeks the help of expert and handsome dog ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Spin Round",
+  "url": "/subject/27166270/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134955/",
+      "name": "Paul T. Murakami Paul T. Murakami"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-02-10",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT0H45M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

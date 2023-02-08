@@ -1,0 +1,125 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "四年二班",
+  "url": "/subject/30470189/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2620261923.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444896/",
+      "name": "李依彤 Yitong Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444897/",
+      "name": "李心心 Xinxin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444898/",
+      "name": "宋洋 Yang Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387866/",
+      "name": "常凯宁 Kaining Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444899/",
+      "name": "黄宁生 Ningsheng Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444900/",
+      "name": "关自正 Zizheng Guan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444901/",
+      "name": "陈柏彤 Botong Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444902/",
+      "name": "杜建烨 Jianye Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444903/",
+      "name": "房楷然 Kairan Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444910/",
+      "name": "杨萧伊 Xiaoyi Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444904/",
+      "name": "王子瑄 Zixuan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444905/",
+      "name": "孙遥 Yao Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444906/",
+      "name": "邵碧晴 Biqing Shao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444907/",
+      "name": "安然 Ran An"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444908/",
+      "name": "浦亚波 Yabo Pu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444909/",
+      "name": "陈淑文 Shuwen Chen"
+    }
+  ]
+,
+  "datePublished": "2020-10-15",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5"],
+  "duration": "PT1H24M",
+  "description": "影片讲述了几位来自不同家庭环境、不同性格的同班同学，在学习和生活上遇到困难时，互相帮助、互相鼓励、共同成长的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

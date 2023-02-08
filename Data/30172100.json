@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱情少年残酷史 애정소년 잔혹사",
+  "url": "/subject/30172100/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519217547.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319128/",
+      "name": "李尚宇 Sang-woo Lee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445520/",
+      "name": "伍硕贤 Seok-hyun  Woo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1043938/",
+      "name": "崔宰诚 Jae-Sung Choi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319128/",
+      "name": "李尚宇 Sang-woo Lee"
+    }
+  ]
+,
+  "datePublished": "2017-10-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H24M",
+  "description": "Young-taek is a high school student. One day, a boy visits his house. It turns out that this boy is ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

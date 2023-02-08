@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "吉屋",
+  "url": "/subject/30224527/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522345928.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320152/",
+      "name": "蒋开诗 Jeffrey Chiang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275972/",
+      "name": "陈家乐 Carlos Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358039/",
+      "name": "汤加文 Carmen Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274568/",
+      "name": "张国强 Kwok Keung Cheung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313657/",
+      "name": "龚慈恩 Mimi Kung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351652/",
+      "name": "麦子乐 Bryant Ji-Lok Mak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435481/",
+      "name": "吕爱琼 Aye Keng Loo"
+    }
+  ]
+,
+  "datePublished": "2018-06-28",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H38M",
+  "description": "土地問題，用吉屋去解決。 Charlie（陳家樂飾） 是一位有志的年輕地產經紀，機緣巧合下離職加入一家由Gordon（張國強飾）和Lucy（龔慈恩飾）經營的房地產公司。 隨後，Charlie 發現原來...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1151",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

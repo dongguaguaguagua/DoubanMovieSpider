@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "怒放的豆芽",
+  "url": "/subject/27065700/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462124689.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375404/",
+      "name": "胡东升 Dongsheng Hu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375404/",
+      "name": "胡东升 Dongsheng Hu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375408/",
+      "name": "王京莉 Jingli Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375411/",
+      "name": "郑青霞 Qingxia Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356542/",
+      "name": "冯可 Ke Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375407/",
+      "name": "方芳 Fang Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406672/",
+      "name": "柳文欢 Wenhuan Liu"
+    }
+  ]
+,
+  "datePublished": "2017-06-20",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H34M",
+  "description": "一个筒子楼里住着三个男人，一个虽落魄但依然坚持音乐梦想的小歌手魏晨，一个大学毕业一直找工作的菜鸟佳林，一个百无聊赖吊儿郎当的社会青年谢东宝。他们三人的生活轨迹，除了住在同一个筒子楼，面对同一个包租公老...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无处之人 Someone from Nowhere",
+  "url": "/subject/27600165/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2507137135.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306712/",
+      "name": "普拉布达·允 Prabda Yoon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306712/",
+      "name": "普拉布达·允 Prabda Yoon"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422568/",
+      "name": "查雅妮·臣姗卡维 Chayanit Chansangavej"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459238/",
+      "name": "皮拉帕尔·基瑞恩皮隆萨克 Peerapol Kijreunpiromsuk"
+    }
+  ]
+,
+  "datePublished": "2017-10-29",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H27M",
+  "description": "入围第30届东京国际电影节亚洲未来单元。
+An injured man turns up in a woman&#39;s apartment and claims he&#39;s its real owner.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

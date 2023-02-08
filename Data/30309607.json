@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "露娜 Luna",
+  "url": "/subject/30309607/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543210626.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331632/",
+      "name": "范立美 Jessika Van"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323774/",
+      "name": "袁新 Xin Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421575/",
+      "name": "马蒂·马 Mardy Ma"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u6218\u4e89"],
+  "duration": "PT0H15M",
+  "description": "30年代的上海，战事一触即发。会乐里的当红头牌露娜小姐的闺房里出现了一位不速之客。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "80",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

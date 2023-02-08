@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亚马逊探秘 Amazon Adventure",
+  "url": "/subject/27006733/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2452501834.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356088/",
+      "name": "麦克·斯利 Mike Slee"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337343/",
+      "name": "艾德·伯奇 Ed Birch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412125/",
+      "name": "路易斯·帕特里奇 Louis Partridge"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H46M",
+  "description": "《亚马逊探秘》再现了十九世纪中叶的探险家亨利贝茨在亚马逊热带雨林长达 11 年的冒险旅程，以极具视觉震撼力的影像给观众展示了由贝茨发现的生物拟态，即一种生物模拟另一种生物或环境，从而获得优势的生物学现...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

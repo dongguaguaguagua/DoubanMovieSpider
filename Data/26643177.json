@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "宾果男孩日记3 Rico, Oskar und der Diebstahlstein",
+  "url": "/subject/26643177/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2359095349.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330107/",
+      "name": "尼尔·莉娜·福尔马尔 Neele Leana Vollmar"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011530/",
+      "name": "Martin Gypkens Martin Gypkens"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359298/",
+      "name": "安东·彼佐尔德 Anton Petzold"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359299/",
+      "name": "尤里·温克勒 Juri Winkler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368247/",
+      "name": "特里斯坦·勾贝尔 Tristan Göbel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333868/",
+      "name": "吉塔·施维赫夫 Gitta Schweighöfer"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u72af\u7f6a", "\u5192\u9669"],
+  "duration": "",
+  "description": "Seit Rico (Anton Petzold) und Oskar (Juri Winkler) sich kennengelernt haben, war ihr Leben ziemlich ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "63",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

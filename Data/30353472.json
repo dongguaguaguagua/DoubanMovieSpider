@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "危情速递",
+  "url": "/subject/30353472/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537238938.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457642/",
+      "name": "韩帅 Shuai Han"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H22M",
+  "description": "“特别速递”公司速递员陈诺去三亚递送一张油画，却陷入寄件人前女友的迷雾骗局，油画落入黑帮之手。经过搭档电脑高手黄美丽相助，最终揭开事情真相。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "噩梦 악몽",
+  "url": "/subject/26806720/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2588180995.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001188/",
+      "name": "吴智昊 Ji-ho Oh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478705/",
+      "name": "李佑盛 WooSung Lee"
+    }
+  ]
+,
+  "datePublished": "2020-03-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "讲述主人公在梦想和现实之间陷入混乱的故事",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

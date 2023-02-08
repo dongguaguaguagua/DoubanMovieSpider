@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "对不起，我是演员",
+  "url": "/subject/30258207/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325814/",
+      "name": "王偲 Cai Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365316/",
+      "name": "王帅 Shuai Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477324/",
+      "name": "欧阳振峰 "
+    }
+  ]
+,
+  "datePublished": "2018-07-01",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H7M",
+  "description": "一对逗比北漂兄弟，为了演好角色，去偏远的山村体验生活，结果被村长误以为是来基层锻炼的官二代。他俩骗吃骗喝，没想到村长的女儿小可喜欢上了大哥翔驰，但是纸里包不住火，事情败露、村长怒下逐客令。二人回到城里...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Yung Galore",
+  "url": "/subject/27625679/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2534197091.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046720/",
+      "name": "Jim Walker Jim Walker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1030150/",
+      "name": "Emily Williams Emily Williams"
+    }
+  ]
+,
+  "datePublished": "2017-02-21",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5192\u9669"],
+  "duration": "PT0H53M",
+  "description": "Danny and Dolly meet for the first time at a bus stop, both waiting to attend their first day back a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

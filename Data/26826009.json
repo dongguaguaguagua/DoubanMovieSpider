@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "太阳河",
+  "url": "/subject/26826009/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2389133318.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318303/",
+      "name": "陈逸恒 Yiheng Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363512/",
+      "name": "李子榛 Zizhen Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364113/",
+      "name": "黄薇 Wei Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314851/",
+      "name": "田小洁 Xiaojie Tian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316960/",
+      "name": "段宇华 Yuhua Duan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313848/",
+      "name": "董慧 Hui Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318509/",
+      "name": "谢雨辰 Yu-Chen Hsieh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315180/",
+      "name": "张明健 Mingjian Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363512/",
+      "name": "李子榛 Zizhen Li"
+    }
+  ]
+,
+  "datePublished": "2016-10-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "1936年7月，红军又一次踏进了那片苍茫、冷酷而又充满希望的川西草原。红军总部卫生队队长和三个原本互相不认识的红军战士奉命将一个国民党军官押送至大部队所在的班佑。一路上饥寒交迫，国仇家恨，生死离别。一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

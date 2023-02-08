@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑夜如潮 Night Comes On",
+  "url": "/subject/27615445/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2530508788.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000203/",
+      "name": "乔丹娜·斯皮罗 Jordana Spiro"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000203/",
+      "name": "乔丹娜·斯皮罗 Jordana Spiro"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380537/",
+      "name": "多米尼克·菲什巴克 Dominique Fishback"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1068973/",
+      "name": "马克斯·凯塞拉 Max Casella"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404967/",
+      "name": "乔塞亚·盖贝尔 Josiah Gabriel"
+    }
+  ]
+,
+  "datePublished": "2018-01-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "18 岁的安琪儿结束了她的少年拘留期，身上只有一部没电的手机和几块钱。在因为非法持有武器服完刑之后，她回到了街头，进入一个充斥着过去的噩梦的世界。她的妹妹艾比寄人篱下，而谋杀了自己妻子的父亲则在偏远郊...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "201",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

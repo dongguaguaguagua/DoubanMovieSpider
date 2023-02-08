@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "德尔塔男孩 델타 보이즈",
+  "url": "/subject/26748609/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2332300239.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462102/",
+      "name": "高奉秀 Ko Bong Soo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462102/",
+      "name": "高奉秀 Ko Bong Soo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447983/",
+      "name": "申敏宰 Shin Min jae"
+    }
+  ]
+,
+  "datePublished": "2017-06-08",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT2H6M",
+  "description": "Four hopeless men who live at the bottom of the social ladder get together to take part in a quartet...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

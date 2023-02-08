@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幸运 Fortunata",
+  "url": "/subject/27018301/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457809868.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022935/",
+      "name": "赛尔乔·卡斯特利托 Sergio Castellitto"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041828/",
+      "name": "玛格丽特·马赞蒂尼 Margaret Mazzantini"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045359/",
+      "name": "杰丝敏·特丽卡 Jasmine Trinca"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016736/",
+      "name": "汉娜·许古拉 Hanna Schygulla"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032382/",
+      "name": "斯特凡诺·阿科尔西 Stefano Accorsi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382638/",
+      "name": "亚历桑德罗·博尔吉 Alessandro Borghi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1241407/",
+      "name": "阿瓦·勒依 Awa Ly"
+    }
+  ]
+,
+  "datePublished": "2017-05-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "幸運是她的名字。儘管面對破裂婚姻，獨力帶着八歲女兒，她仍深信幸運在自己手裡，夢想有天能高飛，盼望彩票中頭獎，開一家屬於自己的幸運髮廊。這位「羅馬媽媽」有個心結，父親早死，她一直沒走出陰影。失意時遇上愛...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "299",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死亡之死亡 Je me tue à le dire",
+  "url": "/subject/26710601/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2358662269.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1068577/",
+      "name": "米丽娅姆·博耶 Myriam Boyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016973/",
+      "name": "塞尔日·里亚布金 Serge Riaboukine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340864/",
+      "name": "芬妮·朵郎 Fanny Touron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019818/",
+      "name": "杰基·贝约尔 Jackie Berroyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314429/",
+      "name": "托马斯·库芒 Thomas Coumans"
+    }
+  ]
+,
+  "datePublished": "2016-01-03",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "Michel Peneud va mourir. Comme vous, comme moi, et comme sa mère, sauf que sa mère, c&#39;est son médeci...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

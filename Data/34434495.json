@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "龙的厨房",
+  "url": "/subject/34434495/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2559867865.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390859/",
+      "name": "李昀锐 Yunrui Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388995/",
+      "name": "崔莉雅 Liya Cui"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5", "\u5947\u5e7b", "\u53e4\u88c5"],
+  "duration": "PT1H30M",
+  "description": "19岁的朱载壑偶然发现了一扇穿越之门，能在明朝皇宫与500年后的现代北京之间穿梭。他由此从史书中知道了自己的命运，在现代西点师夏海心的帮助下开始了一场逆天改命的限时旅程……朱载壑能否改变自己的命运？皇...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

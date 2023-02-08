@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "重新征服 La reconquista",
+  "url": "/subject/26846914/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2385572428.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334107/",
+      "name": "霍纳斯·特鲁埃瓦 Jonás Trueba"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334107/",
+      "name": "霍纳斯·特鲁埃瓦 Jonás Trueba"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1464874/",
+      "name": "弗朗切斯科·卡里尔 Francesco Carril"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428036/",
+      "name": "伊萨索·阿拉纳 Itsaso Arana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462323/",
+      "name": "坎德拉·雷西奥 Candela Recio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462324/",
+      "name": "Pablo Hoyos Pablo Hoyos "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1265576/",
+      "name": "奥拉·加里多 Aura Garrido"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1464875/",
+      "name": "拉斐尔·贝里奥 Rafael Berrio"
+    }
+  ]
+,
+  "datePublished": "2016-09-30",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H48M",
+  "description": "Manuela and Olmo meet again in a future as they had promised fifteen years earlier as teenagers, whe...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "71",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

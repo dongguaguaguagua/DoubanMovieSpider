@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Yea Toh Two Much Ho Gayaa",
+  "url": "/subject/28613073/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2511104077.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036945/",
+      "name": "吉米·舍尔吉勒 Jimmy Shergill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023171/",
+      "name": "阿巴斯·汗 Arbaaz Khan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338124/",
+      "name": "Bruna Abdullah Bruna Abdullah"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350168/",
+      "name": "Zarina Wahab Zarina Wahab"
+    }
+  ]
+,
+  "datePublished": "2016-09-02",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT2H6M",
+  "description": "Lookalike twin brothers living in two different parts of the world get trapped in sticky situations ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

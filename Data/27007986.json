@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美国招魂 American Conjuring",
+  "url": "/subject/27007986/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2453094896.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1288598/",
+      "name": "肯·金 Ken King"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-04-11",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "A family moves into an abandoned orphanage and they soon learn that their charming orphanage has a d...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

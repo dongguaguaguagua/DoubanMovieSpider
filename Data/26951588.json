@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "摸金笑尉",
+  "url": "/subject/26951588/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2411611689.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351372/",
+      "name": "周颖 Steven Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356542/",
+      "name": "冯可 Ke Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318973/",
+      "name": "曹云金 YunJin Cao"
+    }
+  ]
+,
+  "datePublished": "2017-01-17",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u5192\u9669"],
+  "duration": "PT2H4M",
+  "description": "东汉末年，曹操为补充军饷，首开官家盗墓之滥觞，建立了中国历史上第一支专业的盗墓部队，并设置了摸金校尉、发丘中郎将、搬山道人、卸岭力士等四职，四职术业不同、各司其职，其后更演变成了中国盗墓界的四大门派。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "231",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

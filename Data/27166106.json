@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀虫剂 Countrycide",
+  "url": "/subject/27166106/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501480756.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1168595/",
+      "name": "布瑞特·凯利 Brett Kelly"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1168595/",
+      "name": "布瑞特·凯利 Brett Kelly"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-08-03",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H9M",
+  "description": "While on a road trip to a wedding, a young couple is forced to camp out for the night - and become p...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

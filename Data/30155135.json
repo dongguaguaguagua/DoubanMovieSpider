@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灵气 Aura",
+  "url": "/subject/30155135/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528105750.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045670/",
+      "name": "Jonathan Sothcott Jonathan Sothcott"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032120/",
+      "name": "施恩·泰勒 Shane Taylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116896/",
+      "name": "鲁拉·兰斯卡 Rula Lenska"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1212576/",
+      "name": "丹妮丝·莫雷诺 Denise Moreno"
+    }
+  ]
+,
+  "datePublished": "2018-11-08",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A couple discover Kirlian Photography apparatus in their new house. Intrigued by the concept of phot...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

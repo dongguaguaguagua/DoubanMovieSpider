@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2018年CCTV网络春晚",
+  "url": "/subject/30463332/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553549866.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338217/",
+      "name": "撒贝宁 Beining Sa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315770/",
+      "name": "朱迅 Xun Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349967/",
+      "name": "高博 Bo Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373980/",
+      "name": "李红 Hong Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378214/",
+      "name": "毛不易 Buyi Mao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378215/",
+      "name": "廖俊涛 Juntao Liao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e", "\u771f\u4eba\u79c0"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

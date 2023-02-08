@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一种暴力的对于欢愉的欲望 Un violent désir de bonheur",
+  "url": "/subject/30229675/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542974653.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1458105/",
+      "name": "Clément Schneider Clément Schneider"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354318/",
+      "name": "康坦·多尔迈尔 Quentin Dolmaire"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334321/",
+      "name": "文森特·卡多纳 Vincent Cardona"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1125690/",
+      "name": "弗兰西斯·莱珀雷 Francis Leplay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414323/",
+      "name": "艾蒂安·多洛特 Étienne Durot"
+    }
+  ]
+,
+  "datePublished": "2018-05-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H15M",
+  "description": "1792. Far from the epicentre of the French Revolution, the monastery of young monk Gabriel is requis...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

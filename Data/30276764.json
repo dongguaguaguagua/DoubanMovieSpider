@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "跑马 Trote",
+  "url": "/subject/30276764/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2545544639.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398745/",
+      "name": "哈西奥·巴尼奥 Xacio Baño"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398745/",
+      "name": "哈西奥·巴尼奥 Xacio Baño"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279583/",
+      "name": "赛尔索·布加诺 Celso Bugallo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320849/",
+      "name": "塔玛拉·卡诺萨 Tamara Canosa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032681/",
+      "name": "玛丽亚·巴斯克斯 María Vázquez"
+    }
+  ]
+,
+  "datePublished": "2018-08-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "Carme lives in a mountain village in Galicia with her sick mother and father Ramón, with whom she ha...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "187",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

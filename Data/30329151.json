@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迪多小子 Tito e gli alieni",
+  "url": "/subject/30329151/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534473160.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332536/",
+      "name": "保拉·兰迪 Paola Randi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332536/",
+      "name": "保拉·兰迪 Paola Randi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284619/",
+      "name": "马西莫·高迪奥索 Massimo Gaudioso"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005301/",
+      "name": "瓦莱里奥·马斯坦德雷亚 Valerio Mastandrea"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1161250/",
+      "name": "克蕾曼丝·波西 Clémence Poésy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329753/",
+      "name": "约翰·基奥 John Keogh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344341/",
+      "name": "Gianfelice Imparato Gianfelice Imparato"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393958/",
+      "name": "亨特·特里梅恩 Hunter Tremayne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398439/",
+      "name": "塞巴斯蒂安·蒙特奇诺 Sebastian Montecino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452451/",
+      "name": "艾瑞克·马西普 Èric Masip"
+    }
+  ]
+,
+  "datePublished": "2017-11-25",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b"],
+  "duration": "PT1H30M",
+  "description": "故事发生在内达华的茫茫沙漠之中，教授（瓦莱里奥·马斯坦德雷亚 Valerio Mastandrea 饰）孤身一人驻扎在大名鼎鼎的51区，每日醉心于自己的研究之中，早年间，教授的妻子去世了，而教授如今如...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "382",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

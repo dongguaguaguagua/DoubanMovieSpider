@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "童话夜蒲",
+  "url": "/subject/26977226/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2430616815.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352016/",
+      "name": "施雨辛 Chaojinzi Shi"
+    }
+  ]
+,
+  "datePublished": "2017-02-22",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H0M",
+  "description": "顽劣不堪富二代汪晓单，在一个偶尔的机会进入童话世界，结识了童话故事里白雪公主，小人鱼等几位姑娘，并和她们成为了好朋友，汪晓单更是和睡美人互生情愫。童话主人公们为了帮助汪晓单返回现实世界而努力找寻着神灯...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

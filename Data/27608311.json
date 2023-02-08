@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一家大晒",
+  "url": "/subject/27608311/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2508077783.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184296/",
+      "name": "李思捷 Sze-Chit Lee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320767/",
+      "name": "鲍伟聪 Alex Pao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184296/",
+      "name": "李思捷 Sze-Chit Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025426/",
+      "name": "狄龙 Lung Ti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304876/",
+      "name": "元秋 Qiu Yuen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005415/",
+      "name": "钱小豪 Siu-hou Chin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289295/",
+      "name": "林敏骢 Man-Chung Lam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017823/",
+      "name": "苏玉华 Yuk-Wah So"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108968/",
+      "name": "罗家英 Kar-Ying Law"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315495/",
+      "name": "廖伟雄 Wai Hung Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314648/",
+      "name": "钱莹 Ying Qian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316901/",
+      "name": "李俊毅 Junyi Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418899/",
+      "name": "罗梓龙 Marcus Lo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397895/",
+      "name": "刘芷希 Kimmy Low"
+    }
+  ]
+,
+  "datePublished": "2018-02-01",
+  "genre": ["\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H40M",
+  "description": "在手機及互聯網泛濫的年代，傳統而戆直的武德輝(李思捷飾)，只想帶同渴求出國旅遊的妻兒，到十五年前求婚、連Wi-Fi 都没有的荒野營地，慶祝一番;　誰料卻引來了帶著半生誤解及鄙視的車神父親、廚神賢母、神...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "772",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

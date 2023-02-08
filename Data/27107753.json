@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "读心师",
+  "url": "/subject/27107753/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495650499.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384022/",
+      "name": "慕容诗宇 Shiyu Murong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384022/",
+      "name": "慕容诗宇 Shiyu Murong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404469/",
+      "name": "王忠浩 Zhonghao Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381717/",
+      "name": "钟曼洋 ManYang Zhong"
+    }
+  ]
+,
+  "datePublished": "2017-11-16",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT1H22M",
+  "description": "陈铭是一名可以通过别人的眼睛了解对方想什么，并可以进入对方记忆里旅行的读心师。
+他平常以魔术师的身份赚钱、泡妞，无所顾忌。
+直到有一天一个女杀手（游子）找上门来，使他被迫进入到一场杀手环绕，随时可能有...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

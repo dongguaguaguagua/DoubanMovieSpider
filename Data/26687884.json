@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Necronauts",
+  "url": "/subject/26687884/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045559/",
+      "name": "尼科·马斯托拉基斯 Nico Mastorakis"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045559/",
+      "name": "尼科·马斯托拉基斯 Nico Mastorakis"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "In a dystopian future, a forensic investigator decides to travel to the Other Side, seeking evidence...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

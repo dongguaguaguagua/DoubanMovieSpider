@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "One Finger Salute",
+  "url": "/subject/3090451/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315762/",
+      "name": "彼得·西格尔 Peter Segal"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343837/",
+      "name": "Bill Birch Bill Birch"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "The story of a rag-tag team of Air Force personnel who attempted to get into outer space long before...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

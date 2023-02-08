@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑雪 Nieve negra",
+  "url": "/subject/26772635/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2403316501.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390007/",
+      "name": "马丁·霍达拉 Martin Hodara"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390007/",
+      "name": "马丁·霍达拉 Martin Hodara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390008/",
+      "name": "莱昂内尔·达戈斯蒂诺 Leonel D&#39;Agostino"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010747/",
+      "name": "莱昂纳多·斯巴拉格利亚 Leonardo Sbaraglia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348722/",
+      "name": "莱娅·柯丝达 Laia Costa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013967/",
+      "name": "里卡多·达林 Ricardo Darín"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009539/",
+      "name": "多洛莉丝·房兹 Dolores Fonzi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390009/",
+      "name": "贝尔·蒙特罗 Biel Montoro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331221/",
+      "name": "莱娅·奥普莱 Liah O&#39;Prey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345177/",
+      "name": "米克尔·伊格莱西亚斯 Mikel Iglesias"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390010/",
+      "name": "安德烈斯·埃雷拉 Andrés Herrera"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390011/",
+      "name": "伊凡·卢恩戈 Iván Luengo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032480/",
+      "name": "费德里科·路皮 Federico Luppi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390012/",
+      "name": "哈维尔·库斯罗 Javier Kussrow"
+    }
+  ]
+,
+  "datePublished": "2017-01-19",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H30M",
+  "description": "因被指控杀害弟弟，萨尔瓦多独自生活在巴塔哥尼亚中部。几十年后，他的另一个弟弟马科斯携妻子，说服他出售祖产，分享遗产。随着事情发展，受害者和凶手角色不停地变换。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "634",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

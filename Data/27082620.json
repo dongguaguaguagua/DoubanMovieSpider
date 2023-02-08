@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "零岛 Island Zero",
+  "url": "/subject/27082620/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2483484954.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1140958/",
+      "name": "莱拉·罗宾斯 Laila Robins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326336/",
+      "name": "泰瑞·里维斯 Teri Reeves"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326082/",
+      "name": "马修·威尔卡斯 Matthew Wilkas"
+    }
+  ]
+,
+  "datePublished": "2018-05-15",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H39M",
+  "description": "A fishing community on a remote Maine island finds itself suddenly cut off from the rest of the worl...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

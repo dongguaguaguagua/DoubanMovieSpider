@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小玩意",
+  "url": "/subject/27925790/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2515179028.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326112/",
+      "name": "王洪飞 David Verbeek"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326112/",
+      "name": "王洪飞 David Verbeek"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326112/",
+      "name": "王洪飞 David Verbeek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014332/",
+      "name": "卢燕 Lisa Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327794/",
+      "name": "谢语恩 Lucia Hsieh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351687/",
+      "name": "严艺文 Yi-Wen Yen"
+    }
+  ]
+,
+  "datePublished": "2018-01-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "游走在夜晚台北街头的摄影师，拍下了一位小女孩的身影。这幅影像意外勾起摄影师的童年回忆，当画面不断涌入并与女孩的身份交织融合，他不知不觉地将自己的童年记忆投射在女孩正经历的一切之中——女孩的风筝、女孩与...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "114",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

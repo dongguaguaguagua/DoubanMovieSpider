@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "过昭关",
+  "url": "/subject/30206431/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2556430298.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351129/",
+      "name": "霍猛 Meng Huo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351129/",
+      "name": "霍猛 Meng Huo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402788/",
+      "name": "杨太义 Taiyi Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413977/",
+      "name": "李云虎 Yunhu Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413978/",
+      "name": "万众 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413979/",
+      "name": "聂栋才 "
+    }
+  ]
+,
+  "datePublished": "2018-10-17",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead", "\u513f\u7ae5"],
+  "duration": "PT1H33M",
+  "description": "暑假，七岁的宁宁被送回乡下，由七十多岁的爷爷李福长照顾。李福长偶然间得到了一个老朋友的联系方式，老友身体中风，时日无多。他决定带上孙子，骑着一辆摩托三轮车，去千里之外看望老友。影片以“过昭关”喻指人生...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "23641",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

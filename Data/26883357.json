@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无疯狂的大卫 King Dave",
+  "url": "/subject/26883357/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2395038704.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335990/",
+      "name": "丹尼尔·格洛 Daniel Grou"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422538/",
+      "name": "莫·尤迪-拉穆尔 Moe Jeudy-Lamour"
+    }
+  ]
+,
+  "datePublished": "2016-07-14",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H40M",
+  "description": "Adapted from the play by Alexandre Goyette, King Dave is the story of Dave, self-proclaimed King, in...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

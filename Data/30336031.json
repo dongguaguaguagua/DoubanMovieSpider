@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狄仁杰之异虫谜案",
+  "url": "/subject/30336031/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535266544.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440107/",
+      "name": "王威 Wei Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416478/",
+      "name": "程启蒙 Qimeng Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411461/",
+      "name": "杨琪芳 Qifang Yang"
+    }
+  ]
+,
+  "datePublished": "2018-10-30",
+  "genre": ["\u60ac\u7591", "\u53e4\u88c5"],
+  "duration": "PT1H5M",
+  "description": "故事发生在唐朝，天授年间，国泰民安却也暗潮涌动，坊间多有诡事发生。年轻的狄仁杰在追查多人失踪案时无意中撞见活人变干尸的怪事。官府刻意隐瞒，皆因此事涉及武后和长孙无忌宫廷内斗，狄仁杰一意孤行誓要和发小，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "362",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

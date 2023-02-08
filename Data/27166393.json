@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "诡笑 The Grinn",
+  "url": "/subject/27166393/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2501463030.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1075726/",
+      "name": "约翰·卡罗尔 John Carroll"
+    }
+  ]
+,
+  "datePublished": "2017-10-06",
+  "genre": ["\u5267\u60c5", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "A man awakens in an empty house that he is unable to leave. Battling fatigue, injury and amnesia, an...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

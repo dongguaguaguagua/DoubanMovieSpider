@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "怪物高中 Monster High: The Movie",
+  "url": "/subject/3775173/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2875389279.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286811/",
+      "name": "托德·霍兰德 Todd Holland"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023078/",
+      "name": "艾尔弗雷德·高福 Alfred Gough"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372971/",
+      "name": "迈尔斯·米勒 Miles Millar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324059/",
+      "name": "丝黛芬妮·萨维奇 Stephanie Savage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022843/",
+      "name": "乔什·施瓦兹 Josh Schwartz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040605/",
+      "name": "史蒂夫·瓦伦丁 Steve Valentine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463479/",
+      "name": "凯尔·塞利格 Kyle Selig"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412720/",
+      "name": "凯斯·沃克 Case Walker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1100716/",
+      "name": "玛茜·T·豪斯 Marci T. House"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346232/",
+      "name": "莱拉·菲茨杰拉德 Lilah Fitzgerald"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023309/",
+      "name": "Scotch Ellis Loring Scotch Ellis Loring"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484935/",
+      "name": " 切奇·巴拉戈特 Ceci Balagot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484934/",
+      "name": "米娅·哈里斯 Miia Harris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1480310/",
+      "name": " Jy Prishkulnik"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484936/",
+      "name": "娜亚·达马森 Nayah Damasen"
+    }
+  ]
+,
+  "datePublished": "2022-10-06",
+  "genre": ["\u6b4c\u821e", "\u5947\u5e7b"],
+  "duration": "PT1H20M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "125",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

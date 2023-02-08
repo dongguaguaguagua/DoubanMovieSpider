@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夏至",
+  "url": "/subject/26801835/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2355608353.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358128/",
+      "name": "肖成刚 Chenggang Xiao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340045/",
+      "name": "杨光久 Guangjiu Yang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT0H29M",
+  "description": "自母亲死后，哑女娜娜就一直在照顾着父亲，到了三十岁还没有结婚。年老的父亲觉得自己时日无多，便约请好友和妹妹来为女儿介绍对象，但女儿却因为想要照顾父亲，不愿结婚。
+后来，父亲策划了一场假装再婚的好戏，最...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

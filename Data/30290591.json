@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "珍珠 Pearl",
+  "url": "/subject/30290591/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2534765384.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1225204/",
+      "name": "艾莎·阿米尔 Elsa Amiel"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1225204/",
+      "name": "艾莎·阿米尔 Elsa Amiel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349634/",
+      "name": "洛朗·拉里维埃 Laurent Larivière"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041201/",
+      "name": "彼得·穆兰 Peter Mullan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377672/",
+      "name": "阿里耶·沃索尔特 Arieh Worthalter"
+    }
+  ]
+,
+  "datePublished": "2018-08-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H19M",
+  "description": "Seventy-two hours from the final of an international female bodybuilding championship. Lea Pearl is ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

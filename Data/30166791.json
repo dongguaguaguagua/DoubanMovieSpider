@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魔镜奇缘2",
+  "url": "/subject/30166791/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522880124.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390460/",
+      "name": "陈设 She Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350195/",
+      "name": "夏晋 Jin Xia"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-06-01",
+  "genre": ["\u52a8\u753b", "\u5bb6\u5ead", "\u5192\u9669"],
+  "duration": "PT1H17M",
+  "description": "故事发生在戈加海的海底，在这里，居住着人鱼公主爱丽儿，爱丽儿是管理这片海域的统治者，虽然看遍了蕴藏在海底的各种宝藏，但有一样东西是爱丽儿没有看过的，那就是友谊树的果实。传说中，友谊树每隔千年才会结出一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

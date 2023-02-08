@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "北极之心 Le secret des banquises",
+  "url": "/subject/26693109/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2455228063.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000177/",
+      "name": "吉约姆·卡内 Guillaume Canet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330092/",
+      "name": "夏洛特·勒·邦 Charlotte Le Bon"
+    }
+  ]
+,
+  "datePublished": "2016-06-22",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H21M",
+  "description": "Le professeur Quignard et son équipe de chercheurs étudient la PPM, une protéine immunisante produit...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

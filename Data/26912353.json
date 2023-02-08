@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女人们 여자들",
+  "url": "/subject/26912353/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2492890342.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275135/",
+      "name": "申秀珍 Yozoh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358703/",
+      "name": "蔡舒辰 Seo-jin Chae"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378641/",
+      "name": "全余赟 Jeon Yeo-bin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379119/",
+      "name": "全素妮 Jeon So-nee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379120/",
+      "name": "柳艺德 Yoo I-deun"
+    }
+  ]
+,
+  "datePublished": "2017-08-03",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

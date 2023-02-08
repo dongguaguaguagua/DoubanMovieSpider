@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "何去何从",
+  "url": "/subject/26581128/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2391797941.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363642/",
+      "name": "关晶 Jin Guan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363795/",
+      "name": "韩贺利 Heli Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363642/",
+      "name": "关晶 Jin Guan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341090/",
+      "name": "何东平 Dongping He"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313655/",
+      "name": "中泉英雄 Hideo Nakaizumi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363641/",
+      "name": "漆子美 Zimei Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336630/",
+      "name": "李婳 Hua Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355912/",
+      "name": "叶峰 Ye Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363640/",
+      "name": "王曦 Xi Wang"
+    }
+  ]
+,
+  "datePublished": "2016-10-28",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H30M",
+  "description": "影片改编于真实日本士兵遗留日记。二十世纪三十年代初，日本画家石桥贤太郎（中泉英雄 饰）新婚不久被迫应征参加对中国的侵略战争。在一次战役中遭遇中国军队顽强抵抗几乎全军覆没。一心想活下来的石桥从死人堆里爬...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "974",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

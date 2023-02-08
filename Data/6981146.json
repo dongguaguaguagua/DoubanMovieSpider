@@ -1,0 +1,166 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雪人 The Snowman",
+  "url": "/subject/6981146/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2496245001.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000317/",
+      "name": "托马斯·阿尔弗莱德森 Tomas Alfredson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277162/",
+      "name": "霍辛·阿米尼 Hossein Amini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324815/",
+      "name": "彼特·斯特劳恩 Peter Straughan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172899/",
+      "name": "尤·奈斯博 Jo Nesbø"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000010/",
+      "name": "迈克尔·法斯宾德 Michael Fassbender"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088314/",
+      "name": "丽贝卡·弗格森 Rebecca Ferguson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049713/",
+      "name": "詹姆斯·达西 James D&#39;Arcy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040533/",
+      "name": "科洛·塞维尼 Chloë Sevigny"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013761/",
+      "name": "方·基默 Val Kilmer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147911/",
+      "name": "J·K·西蒙斯 J.K. Simmons"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349878/",
+      "name": "杰米·克莱顿 Jamie Clayton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054522/",
+      "name": "夏洛特·甘斯布 Charlotte Gainsbourg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1107884/",
+      "name": "托比·琼斯 Toby Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276058/",
+      "name": "大卫·丹席克 David Dencik"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045338/",
+      "name": "索菲亚·海林 Sofia Helin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335894/",
+      "name": "雅各布·奥福特布罗 Jakob Oftebro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149774/",
+      "name": "罗南·维博特 Ronan Vibert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1142609/",
+      "name": "安妮·雷德 Anne Reid"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036642/",
+      "name": "亚力克·纽曼 Alec Newman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381714/",
+      "name": "西尔维亚·布苏约克 Silvia Busuioc"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022978/",
+      "name": "阿德里安·敦巴 Adrian Dunbar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1109401/",
+      "name": "乔纳斯·卡尔森 Jonas Karlsson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037649/",
+      "name": "彼得·达勒 Peter Dalle"
+    }
+  ]
+,
+  "datePublished": "2017-10-13",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H59M",
+  "description": "《雪人》根据挪威作家Jo Nesbo在2007年出版的同名畅销小说改编，这部书是他以奥斯陆侦探哈里（Harry Hole）为主角创作的第七本小说。故事主要讲述哈里在调查一位年轻妈妈失踪案件的时候，发现...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "8107",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

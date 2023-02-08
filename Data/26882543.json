@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Aatishbaazi Ishq",
+  "url": "/subject/26882543/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2398002943.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1288496/",
+      "name": "库尔布尚·卡尔班达 Kulbhushan Kharbanda"
+    }
+  ]
+,
+  "datePublished": "2016-10-07",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

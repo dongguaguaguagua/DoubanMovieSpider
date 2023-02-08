@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Only a Switch",
+  "url": "/subject/26962626/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2574680040.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187300/",
+      "name": "迈克尔·文森特 Michael Vincent"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187300/",
+      "name": "迈克尔·文森特 Michael Vincent"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346556/",
+      "name": "海伦·罗杰斯 Helen Rogers"
+    }
+  ]
+,
+  "datePublished": "2018-10-12",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "Two lovers are on the run in this psychedelic fairy tale that blurs lines of sexuality and identity.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

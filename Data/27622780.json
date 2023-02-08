@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "长安藏宝图",
+  "url": "/subject/27622780/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275977/",
+      "name": "王双宝 Shuangbao Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u60ac\u7591", "\u5192\u9669"],
+  "duration": "",
+  "description": "陕西方言喜剧《长安藏宝图》由新锐编剧王一鹏原创、仝晓锋编剧并导演，以陕西籍实力派喜剧演员为主体，演绎了一个黑色幽默、令人时而开怀大笑，时而啼笑皆非，最终有所启迪的故事。讲的是一个有点智障的洗浴城修脚工...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

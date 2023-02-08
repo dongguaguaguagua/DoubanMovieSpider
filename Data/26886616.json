@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "How We Met",
+  "url": "/subject/26886616/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2386612617.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054631/",
+      "name": "艾斯-T Ice-T"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451833/",
+      "name": "Chadwick Hopson Chadwick Hopson"
+    }
+  ]
+,
+  "datePublished": "2016-05-08",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H32M",
+  "description": "A sheltered young loser goes on the worst blind date ever when he and his date must cover up the acc...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

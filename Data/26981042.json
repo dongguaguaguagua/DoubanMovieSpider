@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "坏本 Bad Ben",
+  "url": "/subject/26981042/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2492887755.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377369/",
+      "name": "Nigel Bach Nigel Bach"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377369/",
+      "name": "Nigel Bach Nigel Bach"
+    }
+  ]
+,
+  "datePublished": "2016-10-05",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "Tom Riley thought he was getting the deal of a lifetime when he bought a house below market value at...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

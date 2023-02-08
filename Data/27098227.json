@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "为爱痴狂 All For Love",
+  "url": "/subject/27098227/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502496230.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284209/",
+      "name": "李·弗里德兰德 Lee Friedlander"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007004/",
+      "name": "萨拉·茹 Sara Rue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1060911/",
+      "name": "斯蒂夫·巴西奇 Steve Bacic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345754/",
+      "name": "里斯·亚历山大 Reese Alexander"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020112/",
+      "name": "David Bloom David Bloom"
+    }
+  ]
+,
+  "datePublished": "2017-05-27",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H23M",
+  "description": "When a romance novelist is teamed with a Navy SEAL as research for her book, by a mandate from her p...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

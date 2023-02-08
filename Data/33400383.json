@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "半个月亮爬上来",
+  "url": "/subject/33400383/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2673703748.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379398/",
+      "name": "史文 Wen Shi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301716/",
+      "name": "竹子 Zhuzi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349806/",
+      "name": "阎维文 Weiwen Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252926/",
+      "name": "欧阳奋强 Fenqiang Ouyang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398289/",
+      "name": "齐峰 Feng Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413911/",
+      "name": "吕艳蓓 Yanbei Lü"
+    }
+  ]
+,
+  "datePublished": "2021-09-03",
+  "genre": ["\u7231\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H28M",
+  "description": "以反映“西部歌王”王洛宾先生传奇一生和他创作的经 典民族音乐作品经历为主线，讲述“西部歌王”王洛宾和五朵梅之间浪漫、动人、唯美的爱情故事。电影中穿插十几首耳熟能详的民族音乐。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地球上最后一只僵尸",
+  "url": "/subject/26899341/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2496394185.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382180/",
+      "name": "郑睿 rayzheng"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413162/",
+      "name": "杨鑫 Xin Yang"
+    }
+  ]
+,
+  "datePublished": "2016-10-17",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H3M",
+  "description": "未来世界，地球暴发僵尸危机，危难过后，有一只叫叶良的僵尸存活了下来。叶良写网络小说，引起了了女高中生小缘的注意，小缘来到叶良的住所，两人发生了一系列啼笑皆非的事情，但没过多久，猎杀小队注意到了叶良的存...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

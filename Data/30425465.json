@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天鹅湖 Swan Lake",
+  "url": "/subject/30425465/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2544952764.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363311/",
+      "name": "罗斯·麦克吉本 Ross MacGibbon"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-12-25",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "PT3H25M",
+  "description": "美丽善良的公主奥杰塔（玛丽安莉拉·努尼斯 Marianela Nuñez 饰）在天鹅湖畔不幸遇见了徘徊在那里的恶魔，奥杰塔遭受了恶魔的诅咒，白天变成一只天鹅，只有晚上才能变回人形。而想要解除诅咒，奥杰...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "251",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "9.0"
+  }
+}

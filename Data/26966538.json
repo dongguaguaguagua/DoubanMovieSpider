@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "食人之饥 Les Affamés",
+  "url": "/subject/26966538/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506345169.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277566/",
+      "name": "罗宾·奥贝尔 Robin Aubert"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277566/",
+      "name": "罗宾·奥贝尔 Robin Aubert"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1099953/",
+      "name": "马克-安德烈·格隆丁 Marc-André Grondin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275771/",
+      "name": "莫妮亚·肖克里 Monia Chokri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377397/",
+      "name": "爱德华·特伦布莱·格雷尼尔 Édouard Tremblay-Grenier"
+    }
+  ]
+,
+  "datePublished": "2018-03-02",
+  "genre": ["\u5267\u60c5", "\u6050\u6016"],
+  "duration": "PT1H44M",
+  "description": "In a small, remote village in upstate Quebec, things have changed. Locals are not the same anymore -...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1165",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

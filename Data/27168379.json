@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Любовь прет-а-порте",
+  "url": "/subject/27168379/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2501624132.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025264/",
+      "name": "吉安卡罗·吉安尼尼 Giancarlo Giannini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382639/",
+      "name": "安德烈·普雷蒂 Andrea Preti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382638/",
+      "name": "亚历桑德罗·博尔吉 Alessandro Borghi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088910/",
+      "name": "尼诺·弗拉西卡 Nino Frassica"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1077397/",
+      "name": "Paolo Conticini Paolo Conticini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437866/",
+      "name": "路易斯·莫尔特尼 Luis Molteni"
+    }
+  ]
+,
+  "datePublished": "2017-03-02",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H0M",
+  "description": "Giorgio needs to find a job, the only chance is in a Fashion House in Roma. He make believe everyone...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

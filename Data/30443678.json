@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "家有嫂娘",
+  "url": "/subject/30443678/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2674613321.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349992/",
+      "name": "李科 Ke Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325769/",
+      "name": "王丽涵 Lihan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362933/",
+      "name": "张郎 Lang Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361609/",
+      "name": "尚丽芬 Lifen Shang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead", "\u4f20\u8bb0"],
+  "duration": "PT1H27M",
+  "description": "诚信，就是马英这辈子认准的道理。她拿自己的一生来为诚信二字添加上属于自己色彩。
+大爱，就是《嫂娘》所弘扬的主旋律。她用一系列普通人的爱、恨、情、愁来谱写真爱之歌。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

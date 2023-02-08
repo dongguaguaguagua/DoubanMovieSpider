@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亚当 Adam",
+  "url": "/subject/27666564/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2834084816.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049576/",
+      "name": "尼尔·布洛姆坎普 Neill Blomkamp"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1151463/",
+      "name": "Stanimir Stamatov Stanimir Stamatov"
+    }
+  ]
+,
+  "datePublished": "2016-06-20",
+  "genre": ["\u79d1\u5e7b", "\u77ed\u7247"],
+  "duration": "PT0H5M",
+  "description": "本片为使用Unity引擎创作渲染的科幻动画短片，展现了全新的Unity5.4引擎所带来的视觉特效技术，包括更加自然的环境光表现、更真实的材质展现，以及更加流畅的人物动作、复杂的物理效果等等。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1798",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

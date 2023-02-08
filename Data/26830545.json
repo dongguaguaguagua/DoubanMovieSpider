@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "真假先生 Gentleman",
+  "url": "/subject/26830545/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2451820732.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1173179/",
+      "name": "Mohana Krishna Indraganti Mohana Krishna Indraganti"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325279/",
+      "name": "纳尼 Nani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350820/",
+      "name": "塔尼克拉·巴拉尼 Tanikella Bharani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359446/",
+      "name": "罗希尼 Rohini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428395/",
+      "name": "维尼拉·基肖尔 Vennela Kishore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430115/",
+      "name": "乔伊·波德拉尼 Joy Badlani"
+    }
+  ]
+,
+  "datePublished": "2016-06-17",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT2H24M",
+  "description": "While returning from London to Hyderabad, two women co-passengers develop a friendship instantly. To...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

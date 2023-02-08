@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "自由战士：射线 电影版 Freedom Fighters - The Ray",
+  "url": "/subject/30413551/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543698550.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341953/",
+      "name": "伊桑·斯波尔丁 Ethan Spaulding"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028105/",
+      "name": "马克·古根海姆 Marc Guggenheim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413693/",
+      "name": "萨拉·埃尔南德斯 Sarah Hernandez"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018066/",
+      "name": "梅歌林·艾奇坤沃克 Megalyn Echikunwoke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1096964/",
+      "name": "伊多·戈德堡 Iddo Goldberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326495/",
+      "name": "埃克·科伦 Echo Kellum"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124949/",
+      "name": "Sunil Malhotra Sunil Malhotra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1242230/",
+      "name": "马修·默瑟 Matthew Mercer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351529/",
+      "name": "杰森·米切尔 Jason Mitchell"
+    }
+  ]
+,
+  "datePublished": "2018-08-28",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H13M",
+  "description": "该剧改编自DC漫画，讲述雷蒙德·雷·特里尔(Raymond·Ray·Terrill)运用光能维护正义的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "270",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

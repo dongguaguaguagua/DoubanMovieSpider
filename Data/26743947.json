@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐怖鸟 Terror Birds",
+  "url": "/subject/26743947/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2324358512.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272220/",
+      "name": "杰克·赫尔格恩 Jake Helgren"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027891/",
+      "name": "格雷格·艾维甘 Greg Evigan"
+    }
+  ]
+,
+  "datePublished": "2016-03-08",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H27M",
+  "description": "When Maddy Stern discovers her father has gone missing during a routine birdwatching excursion, she ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

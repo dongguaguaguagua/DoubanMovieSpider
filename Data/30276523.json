@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "溺亡大厦",
+  "url": "/subject/30276523/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528250686.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365189/",
+      "name": "鸡丁 Ding Ji"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350677/",
+      "name": "陶典 Dian Tao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b", "\u60ac\u7591"],
+  "duration": "PT0H50M",
+  "description": "本次的《溺亡大厦》系动画《吃谜少女》首部剧场版，故事时间点发生在正剧第一季结尾之前，是一个全新的独立篇章。
+暑假期间，闲来无事的李伽略来到某财务公司打工，孰料公司老板突然溺死在一间呈密室状态的办公室里...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

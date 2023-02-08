@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Parched",
+  "url": "/subject/30148776/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2513799594.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437325/",
+      "name": "Nicholas M.Garofolo Nicholas M.Garofolo"
+    }
+  ]
+,
+  "datePublished": "2017-12-30",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A quintet of college kids take a road trip to an abandoned house and unintentionally drink infected ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

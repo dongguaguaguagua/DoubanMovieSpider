@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "De standhaftige",
+  "url": "/subject/26754110/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2446055581.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293506/",
+      "name": "丽萨· 奥林 Lisa Ohlin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1233205/",
+      "name": "米克尔·福尔斯加德 Mikkel Følsgaard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1128103/",
+      "name": "格伦·利斯·迈斯特 Karen-Lise Mynster"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047794/",
+      "name": "莫腾·霍尔斯特 Morten Holst"
+    }
+  ]
+,
+  "datePublished": "2016-04-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Deployed on mission in Helmand, Afghanistan, 25-year old Thomas steps on a landmine and gets serious...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

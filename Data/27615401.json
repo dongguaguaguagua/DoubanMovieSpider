@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "翻译家 Un Traductor",
+  "url": "/subject/27615401/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2546996631.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395039/",
+      "name": "罗德里戈·巴鲁索 Rodrigo Barriuso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395040/",
+      "name": "塞巴斯蒂安·巴鲁索 Sebastián Barriuso"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462209/",
+      "name": "林赛·戈斯琳 Lindsay Gossling"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022622/",
+      "name": "罗德里戈·桑托罗 Rodrigo Santoro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322520/",
+      "name": "马里塞尔·阿尔瓦雷斯 Maricel Álvarez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318362/",
+      "name": "埃丝琳达·努涅斯 Eslinda Núñez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427979/",
+      "name": "娜塔莉亚·罗迪娜 Nataliya Rodina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1479495/",
+      "name": " Milda Gecaite"
+    }
+  ]
+,
+  "datePublished": "2018-01-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H48M",
+  "description": "影片根据1989 年发生的真实故事改编，揭露了一段鲜为人知的古巴历史。切尔诺贝利核事故发生之后，哈瓦那大学的俄罗斯文学教授马林被任命为古巴医生与受到辐射伤害的苏联儿童之间的翻译，帮助受害者接受治疗。马...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "617",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

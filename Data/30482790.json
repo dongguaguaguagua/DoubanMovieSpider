@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Braquer Poitiers",
+  "url": "/subject/30482790/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550194587.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1469157/",
+      "name": "克劳德·施密茨 Claude Schmitz   "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1469157/",
+      "name": "克劳德·施密茨 Claude Schmitz   "
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-07-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Thomas and Francis kidnap Wilfrid, the owner of a carwash. Surprisingly, he is delighted with being ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

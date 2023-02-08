@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣诞警察 A Christmas Cop",
+  "url": "/subject/30329125/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2534472491.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007150/",
+      "name": "查尔斯·狄更斯 Charles Dickens"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019063/",
+      "name": "威廉·弗西斯 William Forsythe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013977/",
+      "name": "拉尔夫·莫勒 Ralf Moeller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032103/",
+      "name": "弗雷德·威廉森 Fred Williamson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149409/",
+      "name": "丹尼斯·史托霍伊 Dennis Storhøi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1131727/",
+      "name": "詹姆斯·莫里森 James Morrison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352422/",
+      "name": "丹尼尔·斯蒂森 Daniel Stisen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "It&#39;s Christmas Eve in big city Chicago, and vigilante cop Nils Scroogesen is in no mood to celebrate...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

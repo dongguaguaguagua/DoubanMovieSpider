@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天净沙",
+  "url": "/subject/30470190/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2584493427.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342292/",
+      "name": "刘倬廷 Zhuoting Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340821/",
+      "name": "杨竣羽 Junyu Yang"
+    }
+  ]
+,
+  "datePublished": "2019-11-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "故事讲述民国年间，新军军饷劫案主犯吴风越狱，江湖盛传其劫持的巨额军饷就埋藏在大漠深处。各路人士为着不同的目的闻风而动：赏金杀手韩之道希望找到军饷为名妓柳归雁赎身，新军团长蔡鹤想要捉拿吴风为死去的兄长报...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱，一往情深 Love, Once and Always",
+  "url": "/subject/30165750/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531206357.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356517/",
+      "name": "艾伦·哈蒙 Allan Harmon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051142/",
+      "name": "Susan Batten Susan Batten"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147161/",
+      "name": "阿曼达·舒尔 Amanda Schull"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327167/",
+      "name": "皮特·波特 Peter Porte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465779/",
+      "name": "艾米莉·德拉汉蒂 Emily Delahunty"
+    }
+  ]
+,
+  "datePublished": "2018-03-10",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "When Lucy Windsor&#39;s (Amanda Schull) childhood sweetheart plans to demolish her great aunt&#39;s Gilded A...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

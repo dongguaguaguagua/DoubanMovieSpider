@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "破裂断骨 Fractured",
+  "url": "/subject/30343036/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542447791.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004693/",
+      "name": "艾普萝·皮尔森 April Pearson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1090040/",
+      "name": "卡尔·戴维斯 Karl Davies"
+    }
+  ]
+,
+  "datePublished": "2018-09-21",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H20M",
+  "description": "当丽贝卡和迈克尔决定周末去偏远的乡村度假时，他们毫发无损地到达了他们的小屋，但丽贝卡忍不住觉得有人在看着......",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "67",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

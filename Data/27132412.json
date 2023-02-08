@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "遗忘空间",
+  "url": "/subject/27132412/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2498448151.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380696/",
+      "name": "韩汶青 Wenqing Han"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380696/",
+      "name": "韩汶青 Wenqing Han"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380697/",
+      "name": "李靓雨 Liangyu Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380698/",
+      "name": "张越宁 Yuening Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380699/",
+      "name": "李大宝 Dabao Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380700/",
+      "name": "王康杰 Kangjie Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380701/",
+      "name": "魏凡剀 Fankai Wei"
+    }
+  ]
+,
+  "datePublished": "2017-09-22",
+  "genre": ["\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "从小在孤儿院长大的女孩小鱼，在面对生活、事业、爱情屡次受挫后，孤独、绝望、抑郁、自卑，多次试图自杀。
+小鱼把家里封闭起来，打开燃气阀，坐在客厅等死，在死亡越来越逼近的时候，小鱼看见了一张江海平的脸，发...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "国酒",
+  "url": "/subject/26647899/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2295976026.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318272/",
+      "name": "宋江波 Jiangbo Song"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323980/",
+      "name": "王青伟 Qingwei Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051051/",
+      "name": "黄奕 Yi Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274683/",
+      "name": "范逸臣 Van Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018759/",
+      "name": "赵文瑄 Winston Chao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274706/",
+      "name": "侯天来 Tianlai Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315058/",
+      "name": "石兆琪 Zhaoqi Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045571/",
+      "name": "尹子维 Terence Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315463/",
+      "name": "徐冬冬 Dongdong Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374611/",
+      "name": "谷文泽 Wenze Gu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316266/",
+      "name": "郑卫莉 WeiLi Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362585/",
+      "name": "王梓程 Zicheng Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336627/",
+      "name": "方晓莉 Xiaoli Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356202/",
+      "name": "时尚 Shang Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358419/",
+      "name": "杨苏 Su Yang"
+    }
+  ]
+,
+  "datePublished": "2016-01-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "影片将民族企业的胜败兴衰与危急时局紧密结合，紧贴“香飘世界百年，相伴民族复兴”的主题，在见证重现历史的同时，更展现出在动荡不定，瞬息万变的历史环境下，中华民族儿女同仇敌忾的爱国激情、舍身报国的民族大义...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "161",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.1"
+  }
+}

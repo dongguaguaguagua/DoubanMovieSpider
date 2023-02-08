@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "莎拉的笔记本 El cuaderno de Sara",
+  "url": "/subject/27043951/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2511264312.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302361/",
+      "name": "诺伯托·洛佩斯·阿马多 Norberto López Amado"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285615/",
+      "name": "豪尔赫·格力加耶切瓦利亚 Jorge Guerricaechevarría"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032298/",
+      "name": "贝伦·鲁埃达 Belén Rueda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045159/",
+      "name": "马诺洛·卡多纳 Manolo Cardona"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014293/",
+      "name": "恩里克·洛维索 Enrico Lo Verso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1168105/",
+      "name": "玛丽安·阿尔瓦雷斯 Marian Álvarez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1228996/",
+      "name": "伊万·门德斯 Ivan Mendes"
+    }
+  ]
+,
+  "datePublished": "2018-02-02",
+  "genre": ["\u60ca\u609a", "\u5192\u9669"],
+  "duration": "PT1H55M",
+  "description": "劳拉，来自马德里的西班牙律师，为寻找她失踪的妹妹萨拉，深入刚果丛林的钶钽铁矿产区，营救妹妹",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "247",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

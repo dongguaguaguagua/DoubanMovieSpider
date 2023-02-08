@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恰露 Chalo",
+  "url": "/subject/30128162/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2511746240.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339222/",
+      "name": "克利须那·穆拉里·波萨尼 Krishna Murali Posani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427947/",
+      "name": "阿丘特·库马尔 Achyuth Kumar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428395/",
+      "name": "维尼拉·基肖尔 Vennela Kishore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454709/",
+      "name": "拉什米卡·曼丹娜 Rashmika Mandanna"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1464570/",
+      "name": " Naga Shaurya"
+    }
+  ]
+,
+  "datePublished": "2018-02-02",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT2H0M",
+  "description": "The film revolves around a village called &#34;Tiruppuram&#34; which is divided into half by the Tamil and T...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

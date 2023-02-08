@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鸟类学家 O Ornitólogo",
+  "url": "/subject/26600929/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2394779398.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295861/",
+      "name": "若昂·佩德罗·罗德里格斯 João Pedro Rodrigues"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295861/",
+      "name": "若昂·佩德罗·罗德里格斯 João Pedro Rodrigues"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295861/",
+      "name": "若昂·佩德罗·罗德里格斯 João Pedro Rodrigues"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338358/",
+      "name": "保罗·艾米 Paul Hamy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372607/",
+      "name": "温菡 Han Wen"
+    }
+  ]
+,
+  "datePublished": "2016-08-08",
+  "genre": ["\u5267\u60c5", "\u540c\u6027", "\u5947\u5e7b"],
+  "duration": "PT1H57M",
+  "description": "Fernando,一个孤独的鸟类学家，也是一个无神论者，他沿着着葡萄牙北部的一条河流穿行寻找濒危黑鹳，却被急流冲走后被两个朝圣的中国女孩救起。随后他陷入一个黑暗怪异的丛林，渐渐遁入一系列不可思议的事件...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1968",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

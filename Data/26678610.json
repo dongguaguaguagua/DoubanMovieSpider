@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "凯拉在哪里 Where Is Kyra?",
+  "url": "/subject/26678610/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2513663213.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333082/",
+      "name": "安德鲁·多萨姆 Andrew Dosunmu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333082/",
+      "name": "安德鲁·多萨姆 Andrew Dosunmu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035642/",
+      "name": "米歇尔·菲佛 Michelle Pfeiffer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053575/",
+      "name": "基弗·萨瑟兰 Kiefer Sutherland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371312/",
+      "name": "玛米亚·宝佛 MaameYaa Boafo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412919/",
+      "name": "巴布斯·奥卢桑莫昆 Babs Olusanmokun"
+    }
+  ]
+,
+  "datePublished": "2017-01-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "故事讲述凯拉(米歇尔·菲佛饰)失去了工作，而她不得不靠着生病母亲的些许补助来维持生计，并打算接下来的生活，随着母亲的去世，邻居男人的介入，她的生活也发生了变化。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "254",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜的诗人",
+  "url": "/subject/26946318/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2409366257.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330523/",
+      "name": "郄路通 Lutong Qie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358121/",
+      "name": " "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370070/",
+      "name": "梁靖康 Jingkang Liang"
+    }
+  ]
+,
+  "datePublished": "2016-12-23",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT0H3M",
+  "description": "《夜的诗人》系列短片，拍摄了几个根据真人真事改编的温馨爱情小故事，虽然青涩，却有十足的诚意。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

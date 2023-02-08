@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "山无棱天地合",
+  "url": "/subject/27081814/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2492519465.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376899/",
+      "name": "李珈西 Jiaxi Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376899/",
+      "name": "李珈西 Jiaxi Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376899/",
+      "name": "李珈西 Jiaxi Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341583/",
+      "name": "上白 Shangbai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359387/",
+      "name": "张洛晨 Luochen Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376900/",
+      "name": "丁宏 Hong Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377190/",
+      "name": "安乐 Le An"
+    }
+  ]
+,
+  "datePublished": "2017-07-14",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H35M",
+  "description": "故事讲述作为还珠迷的高中生韩梅梅与她的三个小伙伴李雷、林涛、Jim、和他们的英语老师Uncle王之间发生的有趣往事。影片涵盖非典、奥运、汶川地震等一系列大事件对一代年轻人的影响，以及补课、逃课、高考、...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

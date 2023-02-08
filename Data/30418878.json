@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "抓住那只猴子 Behold the Monkey",
+  "url": "/subject/30418878/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2544299560.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050107/",
+      "name": "阿松波塔·塞尔纳 Assumpta Serna"
+    }
+  ]
+,
+  "datePublished": "2016-02-25",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT0H30M",
+  "description": "小镇波尔哈的教堂清洁工西西莉亚年轻时爱画画。她好心地修复了教堂里一幅有名的壁画，却没想到因为这个而出名了。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

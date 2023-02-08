@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "团地 団地",
+  "url": "/subject/26576697/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2325218959.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028773/",
+      "name": "阪本顺治 Junji Sakamoto"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028773/",
+      "name": "阪本顺治 Junji Sakamoto"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015846/",
+      "name": "藤山直美 Naomi Fujiyama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016878/",
+      "name": "岸部一德 Ittoku Kishibe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033519/",
+      "name": "大楠道代 Michiyo Ookusu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054279/",
+      "name": "石桥莲司 Renji Ishibashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025531/",
+      "name": "斋藤工 Takumi Saitô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275814/",
+      "name": "冨浦智嗣 Satoshi Tomiura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312761/",
+      "name": "竹内都子 Miyako Takeuchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275345/",
+      "name": "泷裕可里 Yukari Taki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313799/",
+      "name": "宅间孝行 Takayuki Takuma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1043336/",
+      "name": "三浦诚己 Masaki Miura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321432/",
+      "name": "磨赤儿 Akaji Maro"
+    }
+  ]
+,
+  "datePublished": "2016-06-04",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b", "\u60ac\u7591"],
+  "duration": "PT1H43M",
+  "description": "自从唯一的儿子死于车祸后，半辈子经营汉方药局的山下清治（岸部一德 饰）在老伴儿雏子（藤山直美 饰）的建议下关闭店铺，双双搬到了一个老旧而封闭的团地居住。平日里雏子去超市打工，借工作间隙与每位客人攀谈。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1912",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

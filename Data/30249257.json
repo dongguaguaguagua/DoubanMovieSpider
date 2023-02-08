@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天佑之爱",
+  "url": "/subject/30249257/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2525119399.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357663/",
+      "name": "红旗 Hong Qi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357663/",
+      "name": "红旗 Hong Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357821/",
+      "name": "李瑞雪 Ruixue Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396978/",
+      "name": "周昊勇呈 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313756/",
+      "name": "郭少芸 Florence Kwok"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326385/",
+      "name": "白柳汐 Liuxi Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396979/",
+      "name": "白湘妃 Xiangfei Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454824/",
+      "name": "李欣欣 Xinxin Li"
+    }
+  ]
+,
+  "datePublished": "2018-07-13",
+  "genre": ["\u97f3\u4e50", "\u5947\u5e7b"],
+  "duration": "PT1H35M",
+  "description": "小提琴演奏家沈馨怡（郭少芸 饰）夫妇在一次游玩中，不慎将三岁的孩子白小林（周昊勇呈 饰）丢失，被布依族的好心人白建国父女收养。十年之后，白小林在追求音乐梦想的过程中偶然发现了自己的身世，也因为与小提琴...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

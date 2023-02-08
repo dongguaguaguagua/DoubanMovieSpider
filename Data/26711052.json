@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "失心者",
+  "url": "/subject/26711052/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2405533771.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365863/",
+      "name": "陈蔚尔 Weier Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365863/",
+      "name": "陈蔚尔 Weier Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365864/",
+      "name": "丘奕伦 Yilun Qiu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328420/",
+      "name": "菅纫姿 Renzi Jian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1122837/",
+      "name": "连凯 Andrew Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274449/",
+      "name": "许绍雄 Siu-Hung Hui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274302/",
+      "name": "夏文汐 Patricia Ha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314475/",
+      "name": "汤怡 Kathy Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344794/",
+      "name": "刘挺 Ting Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413822/",
+      "name": "张恬慧 Tianhui Zhang"
+    }
+  ]
+,
+  "datePublished": "2016-12-23",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H38M",
+  "description": "艾青（管韧姿 饰）和丈夫伟文（连凯 饰）结婚多年，感情一直十分要好。虽然两人一直都没有孩子，但这并不妨碍他们成为朋友们眼中幸福而又美满的一对模范夫妻。伟文的母亲生病了需要人照顾，于是艾青跟着丈夫回到了...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "608",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

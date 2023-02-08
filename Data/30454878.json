@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "糟糕的幸福 Glück ist was für Weicheier",
+  "url": "/subject/30454878/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2547481705.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1221252/",
+      "name": "Anca Miruna Lazarescu Anca Miruna Lazarescu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1266650/",
+      "name": "克里斯蒂安·富里道尔 Christian Friedel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354647/",
+      "name": "施特凡·格罗斯曼 Stephan Grossmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019290/",
+      "name": "索菲·罗伊斯 Sophie Rois"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1141169/",
+      "name": "蒂娜 普兰德 Tina Ruland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004954/",
+      "name": "马丁·乌特克 Martin Wuttke"
+    }
+  ]
+,
+  "datePublished": "2018-10-23",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "Stefan Gabriel (Martin Wuttke) ist Bademeister und engagierter Vater zweier sehr unterschiedlicher T...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

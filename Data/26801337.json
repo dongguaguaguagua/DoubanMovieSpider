@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "芭芭雅嘎 Baba Yaga",
+  "url": "/subject/26801337/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2629784333.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378760/",
+      "name": "亚历山大·奇斯蒂科弗 Aleksandr Chistyakov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045589/",
+      "name": "格雷戈里·波伊莱尔 Gregory Poirier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332973/",
+      "name": "马克西姆·斯韦什尼科夫 Maksim Sveshnikov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332974/",
+      "name": "瓦季姆·斯韦什尼科夫 Vadim Sveshnikov"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b", "\u5bb6\u5ead", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H30M",
+  "description": "An original interpretation of Baba Yaga&#39;s story that goes beyond the traditional image of this chara...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

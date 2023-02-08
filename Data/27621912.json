@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "永远的杰西卡 Jessica Forever",
+  "url": "/subject/27621912/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2856965764.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339337/",
+      "name": "约纳坦·维奈勒 Jonathan Vinel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339336/",
+      "name": "卡罗利娜·波吉 Caroline Poggi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339336/",
+      "name": "卡罗利娜·波吉 Caroline Poggi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350247/",
+      "name": "奥米·穆尤克 Aomi Muyock"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147610/",
+      "name": "塞巴斯蒂安·乌泽多夫斯基 Sebastian Urzendowsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409072/",
+      "name": "伊莲娜·扎贝斯 Iliana Zabeth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330295/",
+      "name": "伊马诺尔·佩尔塞 Ymanol Perset"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477072/",
+      "name": "西奥·科斯塔-马利尼 Théo Costa-Marini"
+    }
+  ]
+,
+  "datePublished": "2018-09-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "In a dystopian world where violent misfits reign supreme, one woman and her makeshift family of reha...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

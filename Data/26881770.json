@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱情与咖啡 Love &amp; Coffee",
+  "url": "/subject/26881770/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2534197162.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276227/",
+      "name": "大卫·杰克逊 David Jackson"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108620/",
+      "name": "安娜·哈彻森 Anna Hutchison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1273899/",
+      "name": "塔利亚纳瓦尔加斯 Taliana Vargas"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "Zoe Walker is a food scientist who&#39;s been sent to Colombia to design a coffee flavor that appeals to...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

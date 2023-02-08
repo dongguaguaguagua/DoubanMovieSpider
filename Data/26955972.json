@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "谍战校园",
+  "url": "/subject/26955972/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2503663466.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350010/",
+      "name": "徐小琴 Xiaoqin Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437031/",
+      "name": "程艺佳 Yijia Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437230/",
+      "name": "毛艺文 Yiwen Mao"
+    }
+  ]
+,
+  "datePublished": "2017-10-20",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H36M",
+  "description": "一部以保卫环保和反环保的电影",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猫是要抱着的 猫は抱くもの",
+  "url": "/subject/27611038/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2514028005.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019646/",
+      "name": "犬童一心 Isshin Inudou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345458/",
+      "name": "高田亮 Ryô Takada"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004857/",
+      "name": "泽尻英龙华 Erika Sawajiri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315730/",
+      "name": "吉泽亮 Yoshizawa Ryo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315354/",
+      "name": "峯田和伸 Kazunobu Mineta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275827/",
+      "name": "岩松了 Ryô Iwamatsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398083/",
+      "name": " KOM I"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324533/",
+      "name": "莳田彩珠 Aju Makita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484435/",
+      "name": "中田春介 Shunsuke Nakata"
+    }
+  ]
+,
+  "datePublished": "2018-06-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H50M",
+  "description": "纱织（尻泽英龙华 饰）曾是一名在舞台上挥洒着光芒和希望的偶像，但昔日的荣光早已经褪去，如今的她在一家超市里作着收银员的工作，毫无干劲和对未来生活的希望，整个人如同沉入了泥潭中一般毫无生气。
+纱织唯一能...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1333",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

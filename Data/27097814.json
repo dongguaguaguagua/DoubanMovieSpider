@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "生化药尸",
+  "url": "/subject/27003499/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2616126958.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405583/",
+      "name": "梁嘉铭 Tommy Leung"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405544/",
+      "name": "李浩田 Hotin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322036/",
+      "name": "黄伟健 Weijian Huang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005415/",
+      "name": "钱小豪 Siu-hou Chin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289501/",
+      "name": "楼南光 Billy Lau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037408/",
+      "name": "吴耀汉 Richard Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379513/",
+      "name": "胡向真 Vir Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319475/",
+      "name": "刘佳佳 Jiajia Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353701/",
+      "name": "罗天池 Eddie Law Tin Chi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401079/",
+      "name": "庞景峰 Andrew Pong"
+    }
+  ]
+,
+  "datePublished": "2017-07-31",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H31M",
+  "description": "影片讲述了神医李药师(钱小豪饰演)在遭遇师兄雷万龙(楼南光饰演)后，被胁迫去治疗感染僵尸病毒的少帅，并由此展开了一段光怪陆离的冒险，也揭开了一个尘封多年的秘密。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "436",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

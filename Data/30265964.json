@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "造爱机器 The Love Machine",
+  "url": "/subject/30265964/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2527149496.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357795/",
+      "name": "贾斯汀·波尔蒂 Justin Berti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272124/",
+      "name": " Michael Hopkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218525/",
+      "name": "艾丽卡·乔丹 Erika Jordan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189531/",
+      "name": "比利·斯诺 Billy Snow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124666/",
+      "name": "贝弗莉·琳恩 Beverly Lynne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383273/",
+      "name": "克里斯蒂尼·纽金 Christine Nguyen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176998/",
+      "name": "詹妮弗·科尔宾 Jennifer Korbin"
+    }
+  ]
+,
+  "datePublished": "2016-08-23",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u6050\u6016", "\u60c5\u8272"],
+  "duration": "PT1H21M",
+  "description": "Women seeking therapy from a relationship counselor are programmed, via the Love Machine, to brutall...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

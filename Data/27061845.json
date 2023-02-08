@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Lost in Time",
+  "url": "/subject/27061845/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2461485813.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032522/",
+      "name": "凯瑟琳·布鲁克斯 Katherine Brooks"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032522/",
+      "name": "凯瑟琳·布鲁克斯 Katherine Brooks"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036458/",
+      "name": "吉尔·亨内斯 Jill Hennessy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049947/",
+      "name": "格里夫·弗斯特 Griff Furst"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "In 2004, Evan White (Kate Gray) was traveling in southern Thailand when the Tsunami washed out the i...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

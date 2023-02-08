@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恶人 The Wicked One",
+  "url": "/subject/26651466/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2392486778.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476084/",
+      "name": "凯拉·帕金斯 Kayla Perkins"
+    }
+  ]
+,
+  "datePublished": "2016-10-31",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H31M",
+  "description": "A group of traveling friends who are hoping for a fun filled weekend getaway, find themselves in the...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

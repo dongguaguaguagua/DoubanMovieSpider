@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Big Bad",
+  "url": "/subject/26858297/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2374757073.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336770/",
+      "name": "卡梅隆·迪恩·斯图尔特 Cameron Deane Stewart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328054/",
+      "name": "克林特·卡米歇尔 Clint Carmichael"
+    }
+  ]
+,
+  "datePublished": "2016-08-02",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ca\u609a", "\u5192\u9669"],
+  "duration": "PT1H27M",
+  "description": "A playful nod to 80&#39;s adventure films that finds a group kids spending the night in an abandoned jai...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

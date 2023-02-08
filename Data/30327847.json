@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "内联升传奇",
+  "url": "/subject/30327847/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2543077451.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324160/",
+      "name": "何燕江 Yanjiang He"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322831/",
+      "name": "朱可欣 Kexin Zhu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316820/",
+      "name": "孙骁潇 Xiaoxiao Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380109/",
+      "name": "张璐瑶 Luyao Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274706/",
+      "name": "侯天来 Tianlai Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317555/",
+      "name": "陈之辉 Zhihui Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426572/",
+      "name": "徐恺咛 Kaining Xu"
+    }
+  ]
+,
+  "datePublished": "2018-09-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "北京的布鞋品牌“内联升”的创始人赵廷在八国联军进犯中国的背景下，历经磨难，几起几落，开拓了中国“履中备载”的数据库营销先河，打造了“内联升”这一民族企业品牌，也表达了对小翠的恋情，赢得了小云的芳心。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

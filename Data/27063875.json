@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卡蜜拉 The Carmilla Movie",
+  "url": "/subject/27063875/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503128769.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028925/",
+      "name": "Spencer Maybee Spencer Maybee"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358053/",
+      "name": "伊莉丝·鲍曼 Elise Bauman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346290/",
+      "name": "娜塔莎 Natasha Negovanlis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348475/",
+      "name": "多米尼克·普罗沃斯特-切克利 Dominique Provost-Chalkley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335410/",
+      "name": "卡卡琪 Cara Gee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370322/",
+      "name": "莎伦·贝尔 Sharon Belle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344999/",
+      "name": "格蕾丝·林恩·孔 Grace Lynn Kung"
+    }
+  ]
+,
+  "datePublished": "2017-10-26",
+  "genre": ["\u559c\u5267", "\u6050\u6016", "\u540c\u6027"],
+  "duration": "PT1H37M",
+  "description": "吸血鬼题材剧集《卡米拉》电影版已在多伦多开机，预计今年秋季上映。剧集版主演伊莉丝·鲍曼与娜塔莎·尼格瓦里斯将双双回归电影版。故事讲述大学新生劳拉发现自己原定的室友意外失踪，取而代之的是一位名叫卡米拉的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "304",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

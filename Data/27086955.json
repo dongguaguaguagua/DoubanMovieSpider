@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "憨嘉",
+  "url": "/subject/27086955/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2620506966.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362157/",
+      "name": "李鼎 Ting Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341951/",
+      "name": "郑人硕 Rexen Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312994/",
+      "name": "李亦捷 Yi-Chieh Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331895/",
+      "name": "陈慕义 Akio Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370156/",
+      "name": "吴佳珊 Chia-shan Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376880/",
+      "name": "杨镇 Ray Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348628/",
+      "name": "吴震亚 Jen-Ya Wu"
+    }
+  ]
+,
+  "datePublished": "2018-11-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "頂著平頭、雙頰消瘦、滿身刺青的憨嘉（鄭人碩飾演）是流氓世家中最後一個流氓，每一次幸福要逼近他的時候，他就覺得自己的死期到了，到底誰能終結這個魔咒？是他自己，還是他的亡命好友或是他的流氓家人？
+在監獄中...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "203",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.4"
+  }
+}

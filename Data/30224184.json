@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Holden On",
+  "url": "/subject/30224184/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522323540.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306527/",
+      "name": "Greg Thompson Greg Thompson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399923/",
+      "name": "凯勒布·埃默里 Caleb Emery"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT1H42M",
+  "description": "Holden Layfield helps audiences through his harrowing tale in this film set in the early 1990s. Afte...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

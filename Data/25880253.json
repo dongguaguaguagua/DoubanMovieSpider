@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血样年华",
+  "url": "/subject/25880253/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2431034333.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316044/",
+      "name": "巩峥 Zheng  Gong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364642/",
+      "name": "张凯旋 Kaixuan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350864/",
+      "name": "刘俊峰 Junfeng Liu"
+    }
+  ]
+,
+  "datePublished": "2016-11-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H47M",
+  "description": "影片《血样年华》取材于甘肃陇 东早期共产党员王孝锡同志在第一次 国共合作时期，蒋介石背叛革命、冯 玉祥倒戈，大革命失败之后的一段真 实而鲜为人知的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

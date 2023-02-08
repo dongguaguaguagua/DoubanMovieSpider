@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "闺蜜的战争",
+  "url": "/subject/30262110/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2526892933.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381901/",
+      "name": "王俊翔 Junxiang Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381901/",
+      "name": "王俊翔 Junxiang Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396595/",
+      "name": "贾石 Shi Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396594/",
+      "name": "苑盈 Ying Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396596/",
+      "name": "谈梓聿 Ziyu Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397546/",
+      "name": "赵灵儿 Linger Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372822/",
+      "name": "王廷晖 Tinghui Wang"
+    }
+  ]
+,
+  "datePublished": "2018-07-20",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H33M",
+  "description": "谭贺（贾石 饰）是建材公司的老板，同时也是一个花花公子。谭贺有一个交往多年的女友姚蓝（赵灵儿 饰），姚蓝个性温柔贤惠，即便知道男友在外面沾花惹草，还是忍气吞声的默默在家为他打理生活的一切。
+谭贺有一个...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "385",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.5"
+  }
+}

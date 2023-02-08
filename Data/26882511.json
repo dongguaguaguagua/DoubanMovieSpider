@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑暗滞留 Residue",
+  "url": "/subject/26882511/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2455833669.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415123/",
+      "name": "罗斯帝·尼克森 Rusty Nixon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415123/",
+      "name": "罗斯帝·尼克森 Rusty Nixon"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013864/",
+      "name": "马特·弗里沃 Matt Frewer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1265349/",
+      "name": "艾尔西亚·罗塔鲁 Elysia Rotaru"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313004/",
+      "name": "丹·佩恩 Dan Payne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049669/",
+      "name": "科斯塔斯·曼迪勒 Costas Mandylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014073/",
+      "name": "威廉·B·戴维斯 William B. Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363072/",
+      "name": "泰勒·辛克森 Taylor Hickson"
+    }
+  ]
+,
+  "datePublished": "2017-07-18",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "Private investigator Luke Harding (James Clayton) reads a book of sinister origins owned by seedy cr...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

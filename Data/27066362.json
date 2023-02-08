@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "娘子军传奇",
+  "url": "/subject/27066362/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2500427728.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324288/",
+      "name": "孟奇 Qi Meng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350988/",
+      "name": "万伯翱 Boao Wan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324288/",
+      "name": "孟奇 Qi Meng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381394/",
+      "name": "孟丛笑 Congxiao Meng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315436/",
+      "name": "刘一含 Yihan Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375896/",
+      "name": "战卫华 Weihua Zhan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349408/",
+      "name": "邓杨宁 Yangning Deng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1233045/",
+      "name": "孙菲菲 Feifei Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386428/",
+      "name": "贾一雯 Yiwen Jia"
+    }
+  ]
+,
+  "datePublished": "2017-06-20",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H35M",
+  "description": "符红女在《红色娘子军》芭蕾舞剧中饰演一名小女兵, 由于资历尚浅, 演出时总在舞台的一角作陪衬，难以有展示自我的机会。一次意外发生，她从舞台上跌落至台下，昏迷了过去。醒来时, 发现情况变得很糟……符红女...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "863",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.2"
+  }
+}

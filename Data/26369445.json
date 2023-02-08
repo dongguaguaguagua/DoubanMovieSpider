@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜行盛宴 Nocturama",
+  "url": "/subject/26369445/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2358506296.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054161/",
+      "name": "贝特朗·波尼洛 Bertrand Bonello"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054161/",
+      "name": "贝特朗·波尼洛 Bertrand Bonello"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354320/",
+      "name": "费尼肯·欧菲尔德 Finnegan Oldfield"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319014/",
+      "name": "樊尚·罗蒂埃 Vincent Rottiers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341719/",
+      "name": "拉巴·纳伊·乌费拉 Rabah Nait Oufella"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356166/",
+      "name": "马纳尔·伊萨 Manal Issa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285702/",
+      "name": "Martin Guyot Martin Guyot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440161/",
+      "name": "贾米尔·麦克雷文 Jamil McCraven"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304507/",
+      "name": "阿黛拉·哈内尔 Adèle Haenel"
+    }
+  ]
+,
+  "datePublished": "2016-08-31",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT2H10M",
+  "description": "贝特朗·波尼洛取名于海明威名著的新片《流动的盛宴》（Paris est une fête）正在巴黎新桥一端废弃十年之久的商场Samaritaine内部取景拍摄，电影讲述了一群年轻的反抗分子白天在巴黎各...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "628",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

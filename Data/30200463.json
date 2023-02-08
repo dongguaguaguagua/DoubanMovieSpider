@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "边界摄像机 境界カメラ",
+  "url": "/subject/30200463/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528389380.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326366/",
+      "name": "寺内康太郎 Kôtarô Terauchi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326366/",
+      "name": "寺内康太郎 Kôtarô Terauchi"
+    }
+  ]
+,
+  "datePublished": "2018-07-04",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H5M",
+  "description": "1年前失踪したあるディレクターから届いた奇怪な映像。謎を解明すべく寺内康太郎をリーダーに「監死カメラ」のあのメンバーたちが再び集結して始まる。1年前の失踪事件とはなんだったのか。その事件に引き寄せられ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

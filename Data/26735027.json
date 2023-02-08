@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美好合一2016",
+  "url": "/subject/26735027/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2322098123.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274261/",
+      "name": "贾樟柯 Zhangke Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050540/",
+      "name": "苏有朋 Alec Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009618/",
+      "name": "中田秀夫 Hideo Nakata"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028510/",
+      "name": "关锦鹏 Stanley Kwan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274261/",
+      "name": "贾樟柯 Zhangke Jia"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037632/",
+      "name": "香川京子 Kyôko Kagawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022858/",
+      "name": "大后寿寿花 Suzuka Ohgo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033481/",
+      "name": "叶童 Cecilia Yip"
+    }
+  ]
+,
+  "datePublished": "2016-03-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "第40届香港国际电影节与合一影业合作，制作由四部短片组成的《美好合一2016》。自2012年启动以来，“美好合一”系列先后有顾长卫、许鞍华、蔡明亮、金泰勇、吕乐、吴念真、黑泽清、张婉婷与罗启锐夫妇、姜...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "84",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Myra",
+  "url": "/subject/27030952/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456899440.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372764/",
+      "name": "Christopher Baiza Christopher Baiza"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372764/",
+      "name": "Christopher Baiza Christopher Baiza"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036371/",
+      "name": "汤姆·塞兹摩尔 Tom Sizemore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1103025/",
+      "name": "斯科特·克林斯基 Scott Krinsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353156/",
+      "name": "米娅·泰勒 Mya Taylor"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "A trans sex worker in the Spanish barrio finds herself in an unwanted love triangle with a notorious...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

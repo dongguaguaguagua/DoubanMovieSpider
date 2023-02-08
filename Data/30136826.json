@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Ninna",
+  "url": "/subject/30136826/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2884448200.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020098/",
+      "name": "Hans Fabian Wullenweber Hans Fabian Wullenweber"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-12-06",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "单身妈妈艰难的维持生活，直到她的儿子已经成年并准备从她身边搬走。一个人生活的她必须独自面对生活的艰难。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

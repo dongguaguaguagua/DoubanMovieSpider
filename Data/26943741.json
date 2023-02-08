@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Hannibal: The Conqueror",
+  "url": "/subject/26943741/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040817/",
+      "name": "内特·派克 Nate Parker"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290687/",
+      "name": "丹·麦克弗森 Don MacPherson"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "In the second century B.C., a supremely gifted young black soldier rises to command the Carthaginian...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

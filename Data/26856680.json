@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Football Kingdom",
+  "url": "/subject/26856680/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2374160090.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361215/",
+      "name": "詹姆斯·法勒 James Farrar"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

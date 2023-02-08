@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "犯罪的回送 犯罪の回送",
+  "url": "/subject/30246351/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2630083357.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051144/",
+      "name": "平冈祐太 Yûta Hiraoka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1039098/",
+      "name": "尾美利德 Toshinori Omi"
+    }
+  ]
+,
+  "datePublished": "2018-07-02",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "故事以北海道北浦市市长在出差地东京突然失踪为开端。警视厅收到了搜查申请，于是刑警田代等人展开了搜查。但是市长的美女秘书有岛却一直采取令人无法理解的单独行动。
+与此同时，市长的政敌也悄悄来到东京，但不知...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "161",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

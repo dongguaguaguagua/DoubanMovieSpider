@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "China Spy",
+  "url": "/subject/26830561/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000374/",
+      "name": "杰克·奥哈罗兰 Jack O&#39;Halloran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032449/",
+      "name": "劳伦妮·兰登 Laurene Landon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050197/",
+      "name": "朱莉安妮·米歇尔 Julianne Michelle"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "A Chinese Operative must overcome both her love interest as well as her Superiors while tracking an ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

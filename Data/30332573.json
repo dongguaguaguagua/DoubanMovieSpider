@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "宁都拉",
+  "url": "/subject/30332573/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545916573.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409852/",
+      "name": "任珊珊 Shanshan Ren"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463876/",
+      "name": "于伟楠 Weinan Yu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340875/",
+      "name": "旺卓措 Zhuo Cuo Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342928/",
+      "name": "王鑫尧 Kiray Wong"
+    }
+  ]
+,
+  "datePublished": "2018-09-04",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H44M",
+  "description": "十年前，凌雪峰到西藏探望父亲，与一个叫格桑梅朵的女孩产生了纯真的初恋。十年之后，凌雪峰作为援藏医生，再次回到西藏。在进藏的火车上，他遇到一个叫格桑梅朵的女孩，但是女孩却不认识他。梅朵成为凌雪峰的助手和...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "甜蜜的家园卡罗莱纳 Sweet Home Carolina",
+  "url": "/subject/27200745/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2525476844.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1125676/",
+      "name": "希瑟·麦克柯布 Heather McComb"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328128/",
+      "name": "保罗·格林尼 Paul Greene"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040628/",
+      "name": "绮尔斯腾·瓦伦 Kiersten Warren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053462/",
+      "name": "Bonnie Allen Bonnie Allen"
+    }
+  ]
+,
+  "datePublished": "2017-05-02",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "Diane| a single overworked mom of two from LA| inherits a house in rural South Carolina where she mu...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

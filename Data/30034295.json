@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "文豪野犬 OAD 文豪ストレイドッグス OAD",
+  "url": "/subject/30034295/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537607421.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314051/",
+      "name": "五十岚卓哉 Takuya Igarashi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029381/",
+      "name": "榎户洋司 Yoji Enokido"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018576/",
+      "name": "宫野真守 Mamoru Miyano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315177/",
+      "name": "细谷佳正 Yoshimasa Hosoya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028326/",
+      "name": "森田成一 Masakazu Morita"
+    }
+  ]
+,
+  "datePublished": "2017-08-04",
+  "genre": ["\u52a8\u753b", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "文豪野犬OAD动画全集于单行本第13卷限定版同捆。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1366",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.5"
+  }
+}

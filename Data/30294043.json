@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "漂泊山丘 Oreina",
+  "url": "/subject/30294043/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2544432853.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420253/",
+      "name": "科尔多·阿曼多兹 Koldo Almandoz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420253/",
+      "name": "科尔多·阿曼多兹 Koldo Almandoz"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328551/",
+      "name": "拉蒙·阿吉尔 Ramón Agirre"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050737/",
+      "name": "乔斯因·本格特伊 Joxean Bengoetxea"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051573/",
+      "name": "帕特希·柏斯库尔特 Patxi Bisquert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407190/",
+      "name": "伊拉利亚·埃利亚斯 Iraia Elias"
+    }
+  ]
+,
+  "datePublished": "2018-09-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "Khalil is a rootless young man who lives on the edge of town, where the industrial estates merge int...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

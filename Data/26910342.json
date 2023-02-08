@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Wir sind die Rosinskis",
+  "url": "/subject/26910342/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2589108585.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270199/",
+      "name": "文森特·克鲁格 Vincent Krüger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417132/",
+      "name": "朱利斯·尼兹舒寇夫 Julius Nitschkoff"
+    }
+  ]
+,
+  "datePublished": "2016-11-04",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H29M",
+  "description": "Erstmals gemeinsam vor der Kamera begeistern Anna, Katharina und Nellie Thalbach als Mutter, Großmut...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

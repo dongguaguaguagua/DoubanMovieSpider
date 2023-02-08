@@ -1,0 +1,37 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "热血派",
+  "url": "/subject/26794349/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2358186932.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403083/",
+      "name": "马尔辰 Erchen Ma"
+    }
+  ]
+,
+  "datePublished": "2016-06-21",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H6M",
+  "description": "这是一个关于那些年我们不知所云但无限美好的青春的故事。
+叶楚城，沈天翔和慕铁是桂山市枫林高中里大名鼎鼎的热血少年组合——“齐天三圣”，多年来制霸桂山市，从无败绩，可是在不败传说的背后，却隐藏着一个惊天...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

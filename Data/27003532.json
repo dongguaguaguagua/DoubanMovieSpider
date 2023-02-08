@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "九里达",
+  "url": "/subject/27003532/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2450382373.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321980/",
+      "name": "乌青 Qing Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321980/",
+      "name": "乌青 Qing Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413869/",
+      "name": "张所思 Sushi Jam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321980/",
+      "name": "乌青 Qing Wu"
+    }
+  ]
+,
+  "datePublished": "2017-04-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H50M",
+  "description": "影片呈现了一个来自浙江省的僵尸在泰国各地的诡异游荡。
+《JULIDA九里达》是诗人乌青继《爬山小说》（2008）和《坏诗人》（2010）之后的第三部电影作品，依然是一部极端个人风格化的作者电影，比起前...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

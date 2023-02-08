@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "ਅਸ਼ਕੇ",
+  "url": "/subject/33399990/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2552990226.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1205323/",
+      "name": "桑杰达·谢赫 Sanjeeda Sheikh"
+    }
+  ]
+,
+  "datePublished": "2018-07-27",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT2H2M",
+  "description": "Ashke is a 2018 Indian-Punjabi film based on popular folk dance Bhangra and is written by Dheeraj Ra...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

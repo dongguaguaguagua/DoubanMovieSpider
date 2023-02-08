@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "九门提督",
+  "url": "/subject/30252404/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2526338066.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313599/",
+      "name": "张博 Bo Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396871/",
+      "name": "张博 Bo Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396313/",
+      "name": "胡岳 Yue Hu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326921/",
+      "name": "刘锐 Rui Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396314/",
+      "name": "洪浚嘉 Junjia Hong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396316/",
+      "name": "郭万超 Wanchao Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396317/",
+      "name": "朱晓鸣 Xiaoming Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048469/",
+      "name": "徐少强 Norman Chu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350012/",
+      "name": "王婷 Ting Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430604/",
+      "name": "庄翰 Han Zhuang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475326/",
+      "name": "杜金泽 Jinze Du"
+    }
+  ]
+,
+  "datePublished": "2018-06-22",
+  "genre": ["\u52a8\u4f5c", "\u53e4\u88c5"],
+  "duration": "PT1H25M",
+  "description": "影片主要讲述了明成祖朱棣时期，设立秘密军情组织——九门，监察百官，掌控京城人心动向。时至明中期，兵部尚书私藏军饷意图谋反，作为京城最强的秘密刺客组织，九门再次受命调查案件。然而，此次案件盘根错节，事情...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1510",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

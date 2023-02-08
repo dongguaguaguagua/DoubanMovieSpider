@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新鬼屋故事 The Unfolding",
+  "url": "/subject/26195727/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2207789140.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1230695/",
+      "name": "拉克兰·尼布尔 Lachlan Nieboer"
+    }
+  ]
+,
+  "datePublished": "2016-03-14",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "An exciting and relevant new take on the Haunted House story. The Fall of 2016. A fearful world stan...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

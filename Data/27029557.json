@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "德皮",
+  "url": "/subject/27029557/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528609725.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344331/",
+      "name": "胡艺川 Yichuan Hu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350794/",
+      "name": "谢宜 Yi Xie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336407/",
+      "name": "谢宜 Yi Xie"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319021/",
+      "name": "陈天星 Dragon Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324347/",
+      "name": "李华 Hua Li"
+    }
+  ]
+,
+  "datePublished": "2017-10-29",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H50M",
+  "description": "影片讲述的是一个遗憾的爱情故事。已为人妻的张成凤带着弟弟张成龙陪母亲李翠花回老家替在外病逝的父亲举办葬礼，看到昔日的初恋情人德皮，就此展开的一段关于梦想和爱情的回忆。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

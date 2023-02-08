@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐惧女王 La reina del miedo",
+  "url": "/subject/27615399/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537063027.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278542/",
+      "name": "巴莱里·贝尔图切利 Valeria Bertuccelli"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278542/",
+      "name": "巴莱里·贝尔图切利 Valeria Bertuccelli"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278542/",
+      "name": "巴莱里·贝尔图切利 Valeria Bertuccelli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357940/",
+      "name": "迭戈·维拉斯奎兹 Diego Velázquez"
+    }
+  ]
+,
+  "datePublished": "2018-01-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H47M",
+  "description": "Eccentric yet lovable Robertina is a celebrated theatre actress whose one-woman show is set to open ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

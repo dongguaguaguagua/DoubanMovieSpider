@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绑架 Secuestro",
+  "url": "/subject/26935442/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2405498144.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412165/",
+      "name": "玛·塔尔加纳 Mar Targarona"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323799/",
+      "name": "奥里奥尔·保罗 Oriol Paulo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018374/",
+      "name": "布兰卡·波蒂略 Blanca Portillo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1081248/",
+      "name": "安东尼奥·德钦特 Antonio Dechent"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305118/",
+      "name": "文森特·罗米洛 Vicente Romero"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066389/",
+      "name": "娜乌西卡·邦宁 Nausicaa Bonnín"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074062/",
+      "name": "何塞·科罗纳多 José Coronado"
+    }
+  ]
+,
+  "datePublished": "2016-08-19",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H45M",
+  "description": "一个天生耳聋的男孩在学校离奇失踪，而后他在警局指认了绑架犯的照片。但警察没有找到决定性证据，并未逮捕嫌疑人。男孩的妈妈是业界知名律师，在目睹警察办事不力之后，无法容忍儿子的安全时时受到威胁，于是她决定...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "313",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

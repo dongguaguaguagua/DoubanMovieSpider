@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异样姐妹 A Glória e A Graça",
+  "url": "/subject/27591621/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506079340.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033897/",
+      "name": "福拉维·R·汤贝尼尼 Flávio R. Tambellini"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386403/",
+      "name": "Mikael de Albuquerque Mikael de Albuquerque"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311520/",
+      "name": "Lusa Silvestre Lusa Silvestre"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275065/",
+      "name": "桑德拉·科维洛尼 Sandra Corveloni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005549/",
+      "name": "卡罗丽娜·费拉兹 Carolina Ferraz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386404/",
+      "name": "索菲娅·玛尔凯斯 Sofia Marques"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166991/",
+      "name": "霍博托·玛雅 Roberto Maya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386405/",
+      "name": "保罗·塞萨尔·梅罗 Paulo César Melo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386406/",
+      "name": "托马斯·斯塔维罗斯 Thomas Stavros"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386407/",
+      "name": "维森特·卡托 Vicente Kato"
+    }
+  ]
+,
+  "datePublished": "2017-03-20",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H34M",
+  "description": "葛娜莎（桑德拉·科维洛尼 Sandra Corveloni 饰）有着一段失败的婚姻，如今独自抚养着两个孩子。一天，她被医生诊断患了脑动脉瘤，这也就意味着，不知道哪一天，葛娜莎就有可能撒手人寰，为了给自...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "71",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

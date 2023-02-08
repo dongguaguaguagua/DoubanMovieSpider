@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神圣的恐惧 Holy Terror",
+  "url": "/subject/27012655/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2454180505.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290267/",
+      "name": "莉莎·朗敦 Lisa London"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036558/",
+      "name": "克里斯汀·德贝尔 Kristine DeBell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452162/",
+      "name": "Kelly Lynn Reiter Kelly Lynn Reiter"
+    }
+  ]
+,
+  "datePublished": "2017-04-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H17M",
+  "description": "Believing their deceased son isn&#39;t at peace, Molly and Tom ask a medium to make contact. But after t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

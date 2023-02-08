@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "生活在恐惧中 Live-In Fear",
+  "url": "/subject/19945175/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2066635960.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1173689/",
+      "name": "Sarah Greyson Sarah Greyson"
+    }
+  ]
+,
+  "datePublished": "2016-02-10",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

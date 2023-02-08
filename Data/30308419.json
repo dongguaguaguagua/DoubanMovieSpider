@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "约车惊魂夜 Ride",
+  "url": "/subject/30308419/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534060097.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027273/",
+      "name": "贝拉·索恩 Bella Thorne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199074/",
+      "name": "杰西·厄舍 Jessie Usher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365595/",
+      "name": "威尔·伯瑞 Will Brill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345689/",
+      "name": "莎拉琳赛 Sara Lindsey"
+    }
+  ]
+,
+  "datePublished": "2018-09-12",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H19M",
+  "description": "优步司机詹姆斯刚把美女乘客送到派对地点，二人相谈甚欢，美女主动问詹姆斯能不能晚点来接她，他欣然答应。在去下一个接单的路上，他不由得暗自窃喜，想入非非；这时上来另一位乘客，陌生男子开始跟他尬聊起来，到了...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "420",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.2"
+  }
+}

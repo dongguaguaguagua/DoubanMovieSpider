@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "古堡 Le manoir",
+  "url": "/subject/27075592/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2468601655.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209332/",
+      "name": "Tony T. Tony T."
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339884/",
+      "name": "凡妮莎·吉德 Vanessa Guide"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423141/",
+      "name": "Jérôme Niel Jérôme Niel"
+    }
+  ]
+,
+  "datePublished": "2017-06-21",
+  "genre": ["\u559c\u5267", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "一群学生在一个封闭的古堡里庆祝新年，但是他们抵达不久之后，一些奇怪的现象让人不安，本该开心的跨年却变成接二连三的悲剧...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "250",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

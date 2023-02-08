@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奥利最开心的一天 Hymyilevä mies",
+  "url": "/subject/26717467/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2351453390.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334320/",
+      "name": "尤霍·库奥斯曼恩 Juho Kuosmanen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334320/",
+      "name": "尤霍·库奥斯曼恩 Juho Kuosmanen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357945/",
+      "name": "米科·麦利拉提 Mikko Myllylahti"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357947/",
+      "name": "乌娜·艾罗拉 Oona Airola"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357946/",
+      "name": "埃罗·米罗诺夫 Eero Milonoff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296414/",
+      "name": "乔纳斯·萨特莫 Joonas Saartamo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357948/",
+      "name": "亚尔科·拉赫蒂 Jarkko Lahti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127179/",
+      "name": "奥利·梅基 Olli Mäki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363504/",
+      "name": "马尔科·维尔斯克曼 Marko Wilskman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357949/",
+      "name": "小约翰·博斯克 John Bosco Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1256428/",
+      "name": "亚尔莫·基乌鲁 Jarmo Kiuru"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442169/",
+      "name": "Emilia Jansson Emilia Jansson"
+    }
+  ]
+,
+  "datePublished": "2016-05-19",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u4f20\u8bb0", "\u8fd0\u52a8"],
+  "duration": "PT1H32M",
+  "description": "1962年的夏天，奥利·马基全力备战全球轻量级拳击锦标赛。从芬兰乡下来到繁华的赫尔辛基，所有人都认为他会收获盛名与财富。此刻，奥利要做的就是减重和集中精神参赛。可是，问题来了，他爱上了赖亚。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3030",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

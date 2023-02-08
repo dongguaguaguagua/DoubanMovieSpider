@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Empire State of the Dead",
+  "url": "/subject/26942886/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2408236033.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209329/",
+      "name": "Eli DeGeer Eli DeGeer"
+    }
+  ]
+,
+  "datePublished": "2016-05-28",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H51M",
+  "description": "The recently deceased rise, feasting upon the living as a zombie outbreak spreads across the globe. ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

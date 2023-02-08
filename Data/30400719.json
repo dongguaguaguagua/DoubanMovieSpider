@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "破天荒",
+  "url": "/subject/30400719/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542293271.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406583/",
+      "name": "罗金耀 Jinyao  Luo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406584/",
+      "name": "岳山 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406585/",
+      "name": "邵显达 Xianda Shao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315699/",
+      "name": "晋松 Song Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352133/",
+      "name": "康晞娅 Anastasia Sedikova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346036/",
+      "name": "范德·麦克劳德 Vander McLeod"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406586/",
+      "name": "张恒睿 Hengrui Zhang "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397799/",
+      "name": "刘亭驿 Tingyi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459157/",
+      "name": "程涛 Tao Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420483/",
+      "name": "王丁宇 Dingyu Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406587/",
+      "name": "朱明月 Mingyue Zhu "
+    }
+  ]
+,
+  "datePublished": "2018-12-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "在静谧偏远小山村里，来了一个电影剧组，护林员张大山的儿子破天荒般幸运地成为了群众演员。在期间，张大山无意间发现这个剧组竟然是打着拍电影的幌子，实际是盗窃中国国家文物的国际犯罪团伙时，他正义凛然地阻止了...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

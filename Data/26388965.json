@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣爱之旅 Saint Amour",
+  "url": "/subject/26388965/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2340355911.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050807/",
+      "name": "伯努瓦·德雷平 Benoît Delépine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303251/",
+      "name": "古斯塔弗·科文 Gustave Kervern"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050807/",
+      "name": "伯努瓦·德雷平 Benoît Delépine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303251/",
+      "name": "古斯塔弗·科文 Gustave Kervern"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013845/",
+      "name": "热拉尔·德帕迪约 Gérard Depardieu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050088/",
+      "name": "伯努瓦·波尔沃德 Benoît Poelvoorde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325955/",
+      "name": "文森特·拉科斯特 Vincent Lacoste"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320325/",
+      "name": "席琳·赛莱 Céline Sallette"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303251/",
+      "name": "古斯塔弗·科文 Gustave Kervern"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1083033/",
+      "name": "安德烈亚·费雷奥尔 Andréa Ferréol"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018149/",
+      "name": "齐雅拉·马斯楚安尼 Chiara Mastroianni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348844/",
+      "name": "伊兹雅·海格林 Izïa Higelin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348247/",
+      "name": "安娜·吉拉多特 Ana Girardot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032963/",
+      "name": "米歇尔·维勒贝克 Michel Houellebecq"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015138/",
+      "name": "克里斯蒂安·辛克 Blutch"
+    }
+  ]
+,
+  "datePublished": "2016-02-19",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H41M",
+  "description": "Chaos ensues when a father and son travel to a farm festival via the Wine Trail in a Parisian taxi.(...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "525",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

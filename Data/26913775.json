@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "双生",
+  "url": "/subject/26913775/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2397339116.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387694/",
+      "name": " Minghai Wang "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387694/",
+      "name": " Minghai Wang "
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-11-06",
+  "genre": ["\u540c\u6027"],
+  "duration": "",
+  "description": "居住在贵阳的阿铭正在头疼新房子该如何装修，他刚刚结束了一段耗时已久 的关系，只能期待自己搬新家以后生活能不要再像以前一样颠簸。
+在另一边，阿山从番禺搬到了广州市区，他住在组来房子里，退休以后的他乐于参...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

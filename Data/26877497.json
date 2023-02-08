@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "@互联网人",
+  "url": "/subject/26877497/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2382115660.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384081/",
+      "name": "杨明逸 Mingyi Yang"
+    }
+  ]
+,
+  "datePublished": "2016-09-19",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H5M",
+  "description": "《@互联网人》，是一部以互联网职场生活为背景，描绘互联网人的真实肖像的电影。产品经理KB，原本带的产品“企鹅在线”正顺风顺水、稳步发展，突然有一天，他接到部门老大的电话，让他去一个新项目团队进行封闭开...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "218",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

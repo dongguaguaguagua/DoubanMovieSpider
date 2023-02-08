@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "假想好友 The Pretend One",
+  "url": "/subject/33477176/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2558296402.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294868/",
+      "name": "Tony Prescott Tony Prescott"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294868/",
+      "name": "Tony Prescott Tony Prescott"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283671/",
+      "name": "大卫·菲尔德 David Field"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315576/",
+      "name": "杰拉尔丁·黑克威尔 Geraldine Hakewill"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H26M",
+  "description": "采妮有一个想象中的朋友---雨果。他陪着采妮度过了失去母亲后所有一个人的生活。但是长大后的采妮，总要接触外面的世界，拥有自己的生活。当采妮在现实生活中遇到了别人之后，虚拟的朋友雨果是时候要告别了......",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

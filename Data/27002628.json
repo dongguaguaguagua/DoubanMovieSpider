@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "中央公园 Central Park",
+  "url": "/subject/27002628/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522226386.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326416/",
+      "name": "贾斯汀·莱茵西尔伯 Justin Reinsilber"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326416/",
+      "name": "贾斯汀·莱茵西尔伯 Justin Reinsilber"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365373/",
+      "name": "露比·莫迪恩 Ruby Modine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373419/",
+      "name": "格蕾丝·范帕滕 Grace Van Patten"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317603/",
+      "name": "玛瑞娜·斯奎尔西亚提 Marina Squerciati"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189765/",
+      "name": "迈克·隆巴迪 Mike Lombardi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345155/",
+      "name": "大卫道森 David Valcin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377007/",
+      "name": "苏梅里娅·哈里斯 Shumerria Harris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326416/",
+      "name": "贾斯汀·莱茵西尔伯 Justin Reinsilber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371293/",
+      "name": "迪马·艾特肯 Deema Aitken"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473035/",
+      "name": "贾斯汀·戴维斯 Justiin Davis"
+    }
+  ]
+,
+  "datePublished": "2017-06-06",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "Central Park is a unique, genre bending thriller/horror film that spans one night in the worlds&#39; mos...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "147",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.9"
+  }
+}

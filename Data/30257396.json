@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绝命47小时 47 Hours",
+  "url": "/subject/30257396/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2577911646.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323476/",
+      "name": "帕特里克·约翰森 Patrick Johnson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323476/",
+      "name": "帕特里克·约翰森 Patrick Johnson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1198786/",
+      "name": "亚历山德里娅·德伯里 Alexandria Deberry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421203/",
+      "name": "艾莉·玛丽·埃文斯 Allie Marie Evans"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391096/",
+      "name": "汤姆·普罗克特 Tom Proctor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402549/",
+      "name": "布赖恩·马西 Bryan Massey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391827/",
+      "name": "卢克·谢尔顿 Luke Shelton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1106540/",
+      "name": "Julia Lashae Julia Lashae"
+    }
+  ]
+,
+  "datePublished": "2019-10-04",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H31M",
+  "description": "两个不善社交的少女，一天晚上无聊，转向互联网寻找恐怖故事。他们在一个令人毛骨悚然的网络上找到了一个游戏，声称你可以用你的手机来召唤超自然...如果你输了比赛...你失去了生命",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "826",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱情时空",
+  "url": "/subject/34778352/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2564306450.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407874/",
+      "name": "乔磊 Lei Qiao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407874/",
+      "name": "乔磊 Lei Qiao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317612/",
+      "name": "高晓攀 Xiaopan Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400040/",
+      "name": "周丹妮 Danni Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401101/",
+      "name": "李玉龙 Yulong Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377516/",
+      "name": "李才 Cai Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H44M",
+  "description": "曾程和童梦相恋多年，过着清苦的日子。曾程一直恨自己没能力给童梦更好的生活。一日，曾程陪童梦坐过山车，意外晕倒，醒来之后发现自己穿越到刚认识童梦的那一天，这使他有能力赚很多钱，但必须重新追求童梦。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

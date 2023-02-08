@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "荒野女囚",
+  "url": "/subject/26854377/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2454604277.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468535/",
+      "name": "侯嵩松 Songsong Hou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376015/",
+      "name": "秦教授 Professor Qin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380693/",
+      "name": "张美琪 Maggie Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312920/",
+      "name": "张妍 Yan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403404/",
+      "name": "吕沅轩 Yuanxuan Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468533/",
+      "name": "爱丽 Alexandra Kashtanova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468534/",
+      "name": "张薰元 Xunyuan Zhang "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359962/",
+      "name": "斯托克斯·安德鲁·查尔斯 Stokes Andrew Charles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468532/",
+      "name": "凯特·戈登 Kate Gordon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352133/",
+      "name": "康晞娅 Anastasia Sedikova"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ac\u7591"],
+  "duration": "PT1H0M",
+  "description": "一架武装直升机坠落于古道上，7位企图越狱的国际女囚狼狈的从飞机上走下来，突然从四面八方冲出来一群岛居的野蛮土著人将她们抓起来关在牢笼中，族长现身提出变态要求：土著人要和女囚来一场7V7的足球赛，女囚们...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "232",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.5"
+  }
+}

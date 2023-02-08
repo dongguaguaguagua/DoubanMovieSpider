@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幸福路上",
+  "url": "/subject/26605028/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2510158803.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331657/",
+      "name": "宋欣颖 Hsin Yin Sung"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331657/",
+      "name": "宋欣颖 Hsin Yin Sung"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215287/",
+      "name": "桂纶镁 Lunmei Gwei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300587/",
+      "name": "魏德圣 Te-Sheng Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316066/",
+      "name": "陈博正 Bor Jing Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357706/",
+      "name": "廖慧珍 Hui-Jen Liao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404075/",
+      "name": "黎家秀 Shirly Li"
+    }
+  ]
+,
+  "datePublished": "2017-10-15",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H51M",
+  "description": "小琪 (桂綸鎂 聲演) 生於蔣介石逝世當天，成長過程正是台灣社會經歷最劇烈轉變的時期。 小琪六歲那年舉家搬到新北市幸福路，為了滿足父母期望，她力爭上游，但也許幸福本來就沒有捷徑。 她一步步走上當初沒預...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5883",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

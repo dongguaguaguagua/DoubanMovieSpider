@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "回到初相恋 Forældre",
+  "url": "/subject/26741101/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2369466110.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149104/",
+      "name": "克里斯蒂安·塔夫德鲁普 Christian Tafdrup"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149104/",
+      "name": "克里斯蒂安·塔夫德鲁普 Christian Tafdrup"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124065/",
+      "name": "索伦·莫灵 Søren Malling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1114261/",
+      "name": "波笛·约根森 Bodil Jørgensen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149104/",
+      "name": "克里斯蒂安·塔夫德鲁普 Christian Tafdrup"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382417/",
+      "name": "埃利奥特·克罗赛特·霍夫 Elliott Crosset Hove"
+    }
+  ]
+,
+  "datePublished": "2016-04-15",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H28M",
+  "description": "When their son, Esben, moves out, Kjeld and Vibeke decide to relocate to a smaller home. They discov...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "470",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "麦田跑道",
+  "url": "/subject/26730286/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2323544033.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456336/",
+      "name": "刘君 Jun Liu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2008-08-08",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead", "\u513f\u7ae5", "\u8fd0\u52a8"],
+  "duration": "PT1H26M",
+  "description": "一个大山里的孩子，在铁道边捡到一只跑步计时用的秒表。从此，他便有了一个梦想：去参加奥运会，让五星红旗因他而升起...他用自己的行动告诉了人们：平凡的人执着于梦想，一样可以变得伟大！",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

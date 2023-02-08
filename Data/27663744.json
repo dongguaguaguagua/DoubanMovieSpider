@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "非常闺蜜",
+  "url": "/subject/27663744/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319393/",
+      "name": "陈汗 Khan Chan"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314763/",
+      "name": "蓝心妍 CrazybarbyLeni Lan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042200/",
+      "name": "李彩桦 Rain Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313048/",
+      "name": "贺刚 Gang He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350929/",
+      "name": "阮圣文 Shengwen Ruan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "",
+  "description": "该片中饰演女一号吟雪的蓝燕，与李彩桦所饰演的荣荣是一对发小闺蜜，该片讲述电视台著名主持人吟雪和医生罗杰是一对让人羡慕的模范新婚夫妻，刚生下孩子的吟雪幸福美满，但一场火灾却改变了所有命运。吟雪因失去幼婴...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Demonic Dead",
+  "url": "/subject/27139403/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2499040706.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002670/",
+      "name": "埃里克·罗伯茨 Eric Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127925/",
+      "name": "多米尼克·培斯 Dominic Pace"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1063923/",
+      "name": "克里斯汀·博文 Christian Boeving"
+    }
+  ]
+,
+  "datePublished": "2017-11-17",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "There is a demon possessed Serial Killer on a rampage. Her name is Maria Cruz and she has an army of...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

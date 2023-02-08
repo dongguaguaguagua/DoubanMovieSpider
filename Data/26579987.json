@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红颜容",
+  "url": "/subject/26579987/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2285193732.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352809/",
+      "name": "曹利民 Limin Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352749/",
+      "name": "刘烈雄 Liexiong Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352750/",
+      "name": "李济民 Jimin Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315128/",
+      "name": "孙锂华 Lihua Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352752/",
+      "name": "梁愚 Yu Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352753/",
+      "name": "梁灵梓 Lingzi Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352754/",
+      "name": "杨晓蓉 Xiaorong Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348709/",
+      "name": "李振平 Zhenping Li"
+    }
+  ]
+,
+  "datePublished": "2016-11-15",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "影片讲述了一位女流行歌手，因为一首歌在引起了轰动，富商为了追到这位女歌手不惜一切代价追到他，虽然在当地小有名气但是有名不代表有钱，因为感情原因与前男友分手，再因为家庭原因急需用钱，所以富商正是看上了这...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

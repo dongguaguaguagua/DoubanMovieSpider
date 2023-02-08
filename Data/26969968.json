@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "肌电工情 Corpo Elétrico",
+  "url": "/subject/26969968/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2425210142.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422173/",
+      "name": "马塞洛·凯塔诺 Marcelo Caetano"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289206/",
+      "name": "希尔顿·拉塞尔达 Hilton Lacerda"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-01-28",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H34M",
+  "description": "年轻就是任性、任性就是自由、自由就是激情。二十出头，正值探索自我的黄金时期，处处摸、处处索，摸索人生，尽情体验。初到圣保罗的伊拉斯，日间在制衣工场打工，夜间就脱掉衣服处处吻。他爱衣服，更爱脱衣服，一夜...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "129",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "查尔斯顿 Charleston",
+  "url": "/subject/27109227/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498657278.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378273/",
+      "name": "安德雷·克雷楚列斯库 Andrei Creţulescu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378273/",
+      "name": "安德雷·克雷楚列斯库 Andrei Creţulescu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353594/",
+      "name": "谢尔班·帕夫卢 Serban Pavlu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005546/",
+      "name": "维克托·雷本久克 Victor Rebengiuc"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070530/",
+      "name": "安娜·琼泰亚 Ana Ciontea"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1159094/",
+      "name": "安娜·乌拉鲁 Ana Ularu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046067/",
+      "name": "多里安·波古策 Dorian Boguta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338845/",
+      "name": "阿德里安·蒂蒂耶尼 Adrian Titieni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352748/",
+      "name": "阿丽娅·贝尔宗策阿努 Alina Berzunteanu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396127/",
+      "name": "拉杜·雅各班 Radu Iacoban"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413616/",
+      "name": "安德烈娅·瓦西里 Andreea Vasile"
+    }
+  ]
+,
+  "datePublished": "2017-08-07",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H59M",
+  "description": "在妻子Ioana死于车祸的几周后，终日沉湎于酒精和孤寂的Alexandru一个人度过了他的42岁生日。就在这时，一个腼腆的年轻男孩Sebastian出现了，他是Ioana过去五个月里的情人。Sebas...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

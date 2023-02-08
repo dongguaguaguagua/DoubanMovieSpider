@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "An Hour to Kill",
+  "url": "/subject/30257619/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1268552/",
+      "name": "维罗妮卡·瑞琪 Veronica Ricci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050529/",
+      "name": "Jeff Rector Jeff Rector"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1092457/",
+      "name": "Norman Hayes Norman Hayes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1173560/",
+      "name": "Joseph McQueen Joseph McQueen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447697/",
+      "name": "James Hazley James Hazley"
+    }
+  ]
+,
+  "datePublished": "2018-06-12",
+  "genre": ["\u559c\u5267", "\u6050\u6016", "\u72af\u7f6a"],
+  "duration": "PT1H36M",
+  "description": "Two assassins-for-hire have an hour to kill (so to speak) before their next hit. To help pass the ti...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "难言之欲",
+  "url": "/subject/26789026/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2349996938.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321898/",
+      "name": "杨世瀚 Han Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362794/",
+      "name": "萧松 Song Xiao"
+    }
+  ]
+,
+  "datePublished": "2016-05-06",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H13M",
+  "description": "影片主要讲述的是一位落魄拳王与一位动作明星之间因为阴差阳错的故事而产生生活交集并共同奋斗的故事。户国防在《难言之欲》中则摇身成为在命运的驱使下、不断游走于抉择之间、从“落魄拳王”最终成长蜕变为“动作明...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

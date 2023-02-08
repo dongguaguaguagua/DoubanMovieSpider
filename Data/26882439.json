@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "武曲 武曲 MUKOKU",
+  "url": "/subject/26882439/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2407542609.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050733/",
+      "name": "熊切和嘉 Kazuyoshi Kumakiri"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345458/",
+      "name": "高田亮 Ryô Takada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476044/",
+      "name": "藤沢周 Shû Fujisawa "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314909/",
+      "name": "绫野刚 Gô Ayano "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342488/",
+      "name": "村上虹郎 Nijiro Murakami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275297/",
+      "name": "前田敦子 Atsuko Maeda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037870/",
+      "name": "片冈礼子 Reiko Kataoka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351579/",
+      "name": "神野三铃 Misuzu Kanno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341157/",
+      "name": "康巢恩 Suon Kan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048583/",
+      "name": "风吹淳 Jun Fubuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051523/",
+      "name": "小林薰 Kaoru Kobayashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042056/",
+      "name": "柄本明 Akira Emoto"
+    }
+  ]
+,
+  "datePublished": "2017-06-03",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT2H5M",
+  "description": "熊切和嘉导演，绫野刚主演。改编自芥川赏作家藤泽周同名小说，绫野刚饰演的主角研吾是剑道5段的高手，但日常只是在车站大厦担任警备员，每天沉迷酒精自甘堕落。与高中生融（村上虹郎饰）相遇后，对方的剑道才能被激...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1592",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "信标 Beacon Point",
+  "url": "/subject/26302902/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2221917558.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390189/",
+      "name": "杰森·伯基 Jason Burkey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386105/",
+      "name": "RJ·希勒 RJ Shearer"
+    }
+  ]
+,
+  "datePublished": "2016-06-10",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "登山客在阿帕拉契步道迷路了，還不小心發現了一個古老的秘密，來自異世界的物種正悄然逼近，現在，他們的生命即將受到威脅，這群登山客該如何全身而退呢",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "92",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.8"
+  }
+}

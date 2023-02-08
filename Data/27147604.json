@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "27号集装箱 Box 27",
+  "url": "/subject/27147604/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499626328.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475978/",
+      "name": "马吕斯·布里夫特 Marius Blivet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475979/",
+      "name": "克罗维斯·魁拉德 Clovis Couillard"
+    }
+  ]
+,
+  "datePublished": "2016-06-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "十岁的汤姆和父亲住在一个贫穷但温馨幸福的集装箱里，他在学校表现良好，平凡的生活却因为一个儿童保护工作者的介入而发生了变化。影片讨论了关于贫困户是否有能力抚养小孩的社会问题，",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "123",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

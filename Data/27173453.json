@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "睡梦神探",
+  "url": "/subject/27173453/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2514823301.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461177/",
+      "name": "刘徒安 Liu tuan"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389089/",
+      "name": "郑康淳 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389090/",
+      "name": "陈秋伶 Qiuling Chen"
+    }
+  ]
+,
+  "datePublished": "2017-10-15",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u5947\u5e7b"],
+  "duration": "PT1H20M",
+  "description": "睡梦神探讲述一个酷爱柯南漫画的女生夏月，因为男朋友失踪而极度伤心，每天都要依靠吃安眠药才能睡着；一次醒来时发现自己进入了漫画的世界，这个世界有个跟柯南一样的青年侦探柯腾，柯腾有种能进入别人梦境的能力，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

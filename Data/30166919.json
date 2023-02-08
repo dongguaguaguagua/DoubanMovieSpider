@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的爷爷是老兵",
+  "url": "/subject/30166919/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537144278.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316329/",
+      "name": "沙景昌 Jingchang Sha"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H24M",
+  "description": "讲述了一个失足少年跟一位年以迟暮的老人之间相互救赎的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

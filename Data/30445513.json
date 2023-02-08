@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魔鬼的终结 O Nó do Diabo",
+  "url": "/subject/30445513/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2548481389.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1128302/",
+      "name": "泽泽·莫塔 Zezé Motta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1246493/",
+      "name": " Tavinho Teixeira"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368204/",
+      "name": "伊萨贝尔·祖拉 Isabél Zuaa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454905/",
+      "name": "Bruna Cavalieri Bruna Cavalieri"
+    }
+  ]
+,
+  "datePublished": "2018-06-28",
+  "genre": ["\u5267\u60c5", "\u6050\u6016"],
+  "duration": "PT2H8M",
+  "description": "During the slavery period in Brazil, a sugar cane farm was the stage for the darkest kinds of horror...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

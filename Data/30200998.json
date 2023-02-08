@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "接招吧！那边的女孩 覚悟はいいかそこの女子。",
+  "url": "/subject/30200998/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529465349.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012557/",
+      "name": "井口升 Noboru Iguchi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399040/",
+      "name": "李正姫 Jung-hee Lee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316389/",
+      "name": "中川大志 Taishi Nakagawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350837/",
+      "name": "唐田英里佳 Erika Karata"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350151/",
+      "name": "伊藤健太郎 Kentaro Ito"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406247/",
+      "name": "若林时英 Jiei Wakabayashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384663/",
+      "name": "甲斐翔真 Shouma Kai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187780/",
+      "name": "荒川良良 YosiYosi Arakawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014661/",
+      "name": "小池彻平 Teppei Koike"
+    }
+  ]
+,
+  "datePublished": "2018-10-12",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H35M",
+  "description": "明明很受欢迎却没有女朋友，观赏用男子，古谷斗和，在朋友的刺激下，下定决心要交到女朋友！目标是——三轮美苑，全学年最受欢迎的女生，来接招吧！",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "825",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

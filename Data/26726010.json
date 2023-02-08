@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "向上猴子 Monkey Up",
+  "url": "/subject/26726010/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2318192903.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300097/",
+      "name": "罗伯特·文斯 Robert Vince"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327091/",
+      "name": "迈克尔·泰根 Michael Teigen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027546/",
+      "name": "斯盖拉·阿斯丁 Skylar Astin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346527/",
+      "name": "大卫·穆利尔查德 David Milchard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374217/",
+      "name": "克里斯·科波拉 Chris Coppola"
+    }
+  ]
+,
+  "datePublished": "2016-01-22",
+  "genre": ["\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H23M",
+  "description": "小女孩和他的哥哥认识了一只有趣的会说话的猴子，这只猴子在为成为一名真正的演员努力着。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

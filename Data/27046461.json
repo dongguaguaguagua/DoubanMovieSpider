@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Capps Crossing",
+  "url": "/subject/27046461/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2459593289.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444570/",
+      "name": "迈克·斯塔尔 Mike Stahl"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444570/",
+      "name": "迈克·斯塔尔 Mike Stahl"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "David has lost his girlfriend and his mind. Capps Crossing is his only refuge. When six hikers make ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

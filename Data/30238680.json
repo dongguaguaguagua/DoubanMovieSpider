@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "高卢英雄：魔法的秘密 Astérix: Le secret de la potion magique",
+  "url": "/subject/30238680/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2678123161.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176761/",
+      "name": "亚历山德拉·阿斯提耶尔 Alexandre Astier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344019/",
+      "name": "路易斯·克里希 Louis Clichy"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176761/",
+      "name": "亚历山德拉·阿斯提耶尔 Alexandre Astier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023465/",
+      "name": "勒内·戈西尼 René Goscinny"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048245/",
+      "name": "克里斯蒂昂·克拉维埃 Christian Clavier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399985/",
+      "name": "亚历克斯·鲁茨 Alex Lutz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176761/",
+      "name": "亚历山德拉·阿斯提耶尔 Alexandre Astier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028570/",
+      "name": "艾丽·赛门 Elie Semoun"
+    }
+  ]
+,
+  "datePublished": "2018-12-05",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H25M",
+  "description": "高卢村庄的大祭祀盖塔菲克斯想为自己找一个继任者，并把高卢村庄抵抗外敌入侵的关键法宝神奇药水教给继任者。盖塔菲克斯带着村庄最英勇的战士阿斯特克斯和奥贝里克斯寻访遍历整个高卢寻找合适的继承人。 而与此同时...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "871",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

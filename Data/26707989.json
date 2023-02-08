@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "政坛玫瑰 Pays",
+  "url": "/subject/26707989/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2382255060.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1263191/",
+      "name": "科洛·罗比乔德 Chloé Robichaud"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1263191/",
+      "name": "科洛·罗比乔德 Chloé Robichaud"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044902/",
+      "name": "艾米丽·万凯普 Emily VanCamp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320944/",
+      "name": "舍治·哈德 Serge Houde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018610/",
+      "name": "玛莎·格莱农 Macha Grenon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025400/",
+      "name": "雷米·吉拉德 Rémy Girard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337390/",
+      "name": "亚历山大·朗德利 Alexandre Landry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048512/",
+      "name": "米其林·兰克图 Micheline Lanctôt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045572/",
+      "name": "伊夫·雅克 Yves Jacques"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1082420/",
+      "name": "Sophie Faucher Sophie Faucher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1135845/",
+      "name": "Danielle Panneton Danielle Panneton"
+    }
+  ]
+,
+  "datePublished": "2016-09-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "加拿大外海的蕞爾島國，人口稀少，經濟蕭條，但有豐富礦產。三方代表坐上談判桌，決定小島未來。年輕的菲莉絲是爭取開發權的加拿大能源公司代表，充滿政治理想、野心勃勃；丹妮葉是島國總統，面對選民對環境破壞的質...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

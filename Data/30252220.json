@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑盒子",
+  "url": "/subject/30252220/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2570898116.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397049/",
+      "name": "邱晧洲 Hau-Jou Chiou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411341/",
+      "name": "涂芳祥 Fang-Hsiang Tu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322666/",
+      "name": "朱芷莹 Chih-ying Chu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324940/",
+      "name": "张书伟 Joe Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360532/",
+      "name": "蓝苇华 Wei-Hua Lan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395819/",
+      "name": "何蓓蓓 Pei-Pei Ho"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341240/",
+      "name": "单承矩 Cheng-Ju Shan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370488/",
+      "name": "邱逸峰 Yi-Feng Chiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372427/",
+      "name": "王淮仲 Huai-Chung Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313993/",
+      "name": "尹昭德 Chao-te Yin"
+    }
+  ]
+,
+  "datePublished": "2016-04-02",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "新闻台知名主播刘庆怡，从黑暗中惊醒！眼前一片漆黑，头痛欲裂的她，发现自己困在这牢笼般的废弃空屋里。在无法对外求援的封闭空屋中，为了求生，刘庆怡被迫与屏幕背后的神秘人进行被称作「黑盒子」的密室脱逃游戏─...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

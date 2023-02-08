@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "摄影师 포토 그래퍼",
+  "url": "/subject/26994788/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2445593513.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377750/",
+      "name": "吴珠河 Oh Joo-ha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364149/",
+      "name": "金度希 Kim Do-hee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378602/",
+      "name": "李秀 Soo Lee"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u60c5\u8272"],
+  "duration": "PT1H15M",
+  "description": "摄影师拍摄女模特，第一个女模特脱光光然后挂起来，结果摔死了。第二个女模特也是吊起来拍，没有摔死然后被男的掐死了，之后回忆和女朋友的XXOO。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "96",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

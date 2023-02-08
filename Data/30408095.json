@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "战士",
+  "url": "/subject/30408095/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2869012362.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008125/",
+      "name": "梁家仁 Ka-Yan Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380628/",
+      "name": "詹牧 Mu Zhan"
+    }
+  ]
+,
+  "datePublished": "2018-12-15",
+  "genre": ["\u52a8\u4f5c", "\u6218\u4e89"],
+  "duration": "PT1H31M",
+  "description": "在革命烈士纪念碑前，抗战老兵王二回忆起了自己曾经的前辈、导师及战友。在那个战火纷飞的年代，侵华日军的铁蹄踏到了王二所在的村子里。十五六岁的王二胆小懦弱，无依无靠的他在炮火中无所适从，直到一个八路军的班...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

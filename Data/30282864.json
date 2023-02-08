@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "长征",
+  "url": "/subject/30282864/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528947314.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325604/",
+      "name": "侯克明 Keming Hou"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427290/",
+      "name": "王宏伟 Hongwei Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e", "\u620f\u66f2"],
+  "duration": "PT2H56M",
+  "description": "1934年10月，红军第五次反“围剿”失败后，准备撤离中华苏维埃共和国的首都瑞金，中央红军某团曾团长和彭政委接到转移的命令时，不忍把伤病员留给敌人。彭政委的爱人洪大夫受命留下来照顾伤员。湘江战役后，红...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

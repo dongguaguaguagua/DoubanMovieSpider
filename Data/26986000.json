@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "米拉达 Milada",
+  "url": "/subject/26986000/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2508139632.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1228713/",
+      "name": " David Mrnka"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1228713/",
+      "name": " David Mrnka"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1162508/",
+      "name": "阿耶莱特·祖里尔 Ayelet Zurer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013700/",
+      "name": "罗伯特·甘特 Robert Gant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1099687/",
+      "name": "安娜·盖伊斯洛娃 Anna Geislerová"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314111/",
+      "name": "卡雷尔·多布雷 Karel Dobrý"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1122944/",
+      "name": "艾琳娜·米霍洛娃 Alena Mihulová"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1073737/",
+      "name": "Ivana Chýlková Ivana Chýlková"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1114088/",
+      "name": "弗拉迪姆·贾沃斯克 Vladimír Javorský"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1152864/",
+      "name": "Jitka Smutná Jitka Smutná"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315458/",
+      "name": "维卡·克里克斯 Vica Kerekes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016736/",
+      "name": "汉娜·许古拉 Hanna Schygulla"
+    }
+  ]
+,
+  "datePublished": "2017-10-12",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u5386\u53f2"],
+  "duration": "PT2H4M",
+  "description": "Netflix投资的一部电影，了解了一个了不起的人，一段历史：Milada Horáková，出生于奥匈帝国时期的布拉格，一战时17岁，因为参加反战游行，被学校开除，之后致力女性平权和儿童福利，194...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "125",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

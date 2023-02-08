@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "她丈夫和他妻子 남자와 여자",
+  "url": "/subject/30253137/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2525714335.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399898/",
+      "name": "Ae-ri Go Ae-ri Go"
+    }
+  ]
+,
+  "datePublished": "2018-05-31",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H9M",
+  "description": "A romantic comedy that tells the troubles between men and women using the teachings of the Bible.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

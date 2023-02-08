@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "睡魔 The Sandman",
+  "url": "/subject/27141903/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2499684251.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037549/",
+      "name": "彼得·沙利文 Peter Sullivan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037549/",
+      "name": "彼得·沙利文 Peter Sullivan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004648/",
+      "name": "海莉·达芙 Haylie Duff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025219/",
+      "name": "托宾·贝尔 Tobin Bell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040649/",
+      "name": "肖恩·西珀斯 Shaun Sipos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036615/",
+      "name": "阿曼达·怀斯 Amanda Wyss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1148330/",
+      "name": "里科·罗斯 Ricco Ross"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014380/",
+      "name": "杰森-沙恩·斯科特 Jason-Shane Scott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116116/",
+      "name": "保罗·罗根 Paul Logan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1201613/",
+      "name": "斯科特·皮特 Scott Peat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328131/",
+      "name": "阿隆·诺威尔 Aaron Norvell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1191286/",
+      "name": "玛格丽塔·雷耶斯 Margarita Reyes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454376/",
+      "name": "Shae Smolik Shae Smolik"
+    }
+  ]
+,
+  "datePublished": "2017-10-14",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "一个有着强大力量的小女孩想象着桑德曼的存在，一个来自噩梦的可怕的怪物，给任何想伤害她的人带来伤害。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

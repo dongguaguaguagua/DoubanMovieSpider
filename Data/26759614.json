@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三角犯罪",
+  "url": "/subject/26759614/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510499867.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395838/",
+      "name": "许立达 Li-da Hsu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395839/",
+      "name": "廖柏茗 Po-Ming Liao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346553/",
+      "name": "郑开元 Kai-Yuan Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395840/",
+      "name": "颜怡平 Amy Yen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341520/",
+      "name": "赵骏亚 Chunya Chao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395841/",
+      "name": "许安植 Wilson Hsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375189/",
+      "name": "高隽雅 Clover Kao"
+    }
+  ]
+,
+  "datePublished": "2016-03-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "林昱轩（郑开元饰）暗恋同班同学何欣颖（颜怡平饰）。何欣颖身边有个最好的朋友黄郁婕（葳尔森饰），两人成天形影不离，像一对连体婴。林昱轩拙劣的跟踪放学后的何欣颖，反被黄郁婕识破。面对林昱轩的追求，何欣颖却...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Nixen",
+  "url": "/subject/30393896/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2541566385.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1231364/",
+      "name": "奥蒂妮·乔尼 Odine Johne"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "Two sisters’ lives are in limbo. In their youth, Nene and Ava were a singing duo. Now there is a chi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

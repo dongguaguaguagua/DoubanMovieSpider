@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "巨人 Handia",
+  "url": "/subject/26965020/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2507652893.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393680/",
+      "name": "约恩·加拉诺 Jon Garaño"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334385/",
+      "name": "埃特尔·阿瑞吉 Aitor Arregi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393680/",
+      "name": "约恩·加拉诺 Jon Garaño"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334385/",
+      "name": "埃特尔·阿瑞吉 Aitor Arregi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334386/",
+      "name": "何塞·玛利亚·戈纳加 Jose Mari Goenaga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407186/",
+      "name": "安东尼·德·卡洛斯 Andoni de Carlos"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402727/",
+      "name": "恩尼科·萨伽多伊 Eneko Sagardoy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328551/",
+      "name": "拉蒙·阿吉尔 Ramón Agirre"
+    }
+  ]
+,
+  "datePublished": "2017-10-20",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2"],
+  "duration": "PT1H54M",
+  "description": "电影根据真实事件改编，讲述了巴斯克历史上最伟大的神话之一：阿尔佐的巨人米格尔·华金。
+故事发生在1843年的巴斯克地区，当年轻残疾的马丁战败归家时，他不敢相信自己的眼睛。马丁亲爱的兄弟华金已经变成了一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "629",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

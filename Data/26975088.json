@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伊斯拉法 اسرافيل",
+  "url": "/subject/26975088/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2504440666.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349635/",
+      "name": "艾达·帕纳哈达 Ida Panahandeh"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349635/",
+      "name": "艾达·帕纳哈达 Ida Panahandeh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415482/",
+      "name": "阿萨兰·阿米日 Arsalan Amiri"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-02-02",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

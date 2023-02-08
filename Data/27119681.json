@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卡米拉 Carmilla",
+  "url": "/subject/27119681/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2563590639.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307731/",
+      "name": "艾米丽·哈里斯 Emily Harris"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307731/",
+      "name": "艾米丽·哈里斯 Emily Harris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051192/",
+      "name": "雪利登·拉·芬努 Sheridan Le Fanu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372617/",
+      "name": "汉娜·雷 Hannah Rae"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317645/",
+      "name": "杰西卡·雷恩 Jessica Raine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1123265/",
+      "name": "托比亚斯·门基斯 Tobias Menzies"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061701/",
+      "name": "科林·布鲁门奥 Colin Blumenau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044976/",
+      "name": "格雷·怀斯 Greg Wise"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434715/",
+      "name": "丹尼尔·杜伊特 Daniel Tuite"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467633/",
+      "name": "黛芙姆·林瑙 Devrim Lingnau"
+    }
+  ]
+,
+  "datePublished": "2019-06-28",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H34M",
+  "description": "An atmospheric, coming-of-age love story steeped in eerie mystery and inspired by the gothic novel o...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "389",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

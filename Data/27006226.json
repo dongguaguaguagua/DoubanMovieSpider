@@ -1,0 +1,49 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "合金战队",
+  "url": "/subject/27006226/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2452205440.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364282/",
+      "name": "苏航 Su Hang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328198/",
+      "name": "刘南希 Nanxi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430988/",
+      "name": "胡灵 Kiki Hu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u6218\u4e89"],
+  "duration": "PT1H0M",
+  "description": "作为一部游戏宣传片，影片讲述了保安莫丹的老板受到刘凡博士的邀请，与其他几个玩家一同体验最新研发的大型实景VR游戏。在体验过程中，游戏演算智能核心阿尔法GO觉醒，老板和几个玩家都困在游戏世界中。
+博士知...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

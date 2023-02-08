@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "二重生活",
+  "url": "/subject/26377674/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2348384426.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358585/",
+      "name": "岸善幸 Yoshiyuki Kishi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358585/",
+      "name": "岸善幸 Yoshiyuki Kishi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329131/",
+      "name": "门胁麦 Mugi Kadowaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275145/",
+      "name": "长谷川博己 Hiroki Hasegawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274418/",
+      "name": "菅田将晖 Masaki Suda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042693/",
+      "name": "中川雅也 Lily Franky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007478/",
+      "name": "乌丸节子 Setsuko Karasuma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006093/",
+      "name": "西田尚美 Naomi Nishida"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334748/",
+      "name": "筱原友希子 Yukiko Shinohara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340184/",
+      "name": "宇野祥平 Shôhei Uno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338013/",
+      "name": "岸井雪乃 Yukino Kishii"
+    }
+  ]
+,
+  "datePublished": "2016-06-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H6M",
+  "description": "以小池真理子的小说为基础，讲述读大学哲学科的平凡学生阿珠，被研究生论文导师提议做记录某个专一对象生活和行为的“哲学跟踪”，于是开始跟踪邻居一家的丈夫的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "9135",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "流沙 Chorabali",
+  "url": "/subject/34439268/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2569503926.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050010/",
+      "name": "阿加莎·克里斯蒂 Agatha Christie"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403408/",
+      "name": "巴伦·昌达 Barun Chanda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423869/",
+      "name": "塔努施丽·查克拉博蒂 Tanushree Chakraborty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423473/",
+      "name": "朱恩·玛利亚 June Malia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436202/",
+      "name": "洛凯特·查特吉 Locket Chatterjee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478184/",
+      "name": "索姆多西·道特 Samadarshi Dutta"
+    }
+  ]
+,
+  "datePublished": "2016-01-22",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H48M",
+  "description": "A whodunit thriller set in the backdrop of North Kolkata with its British Raj charm, based on Agatha...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

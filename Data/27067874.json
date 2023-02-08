@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Diwal&#39;oween",
+  "url": "/subject/27067874/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462498508.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1131992/",
+      "name": "大卫·彭德尔顿 David Pendleton"
+    }
+  ]
+,
+  "datePublished": "2017-10-01",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u6050\u6016", "\u5bb6\u5ead", "\u5192\u9669"],
+  "duration": "PT0H45M",
+  "description": "Neenu and Bobby are introducing their parents on the night when Diwali lands on Halloween. Neenu wan...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

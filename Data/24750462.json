@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀死弗兰克 Killing Frank",
+  "url": "/subject/24750462/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009463/",
+      "name": "汤姆·霍兰德 Tom Holland"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009463/",
+      "name": "汤姆·霍兰德 Tom Holland"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044729/",
+      "name": "梅兰妮·林斯基 Melanie Lynskey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049546/",
+      "name": "瑞贝卡·德·莫妮 Rebecca De Mornay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014289/",
+      "name": "茱莉亚·迭泽 Julia Dietze"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010630/",
+      "name": "布鲁斯·戴维森 Bruce Davison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016672/",
+      "name": "弗莱迪·海默 Freddie Highmore"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H55M",
+  "description": "一场突如其来的事故令商业大亨弗兰克·雷诺兹(杰瑞米·艾恩斯 Jeremy Irons饰)变成了植物人，他的家人和重要员工都聚集在他的英国乡间别墅，觊觎着他的巨额遗产，但神秘的凶手阻止了他们的想法 将他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

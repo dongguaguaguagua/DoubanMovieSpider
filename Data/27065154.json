@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "被阳光移动的山脉",
+  "url": "/subject/27065154/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2625284165.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375271/",
+      "name": "王强 Qiang Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375271/",
+      "name": "王强 Qiang Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400718/",
+      "name": "丹增晋美 Dan Zeng Jin Mei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339506/",
+      "name": "索朗卓嘎 Sonam Dolgar"
+    }
+  ]
+,
+  "datePublished": "2017-06-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H49M",
+  "description": "从小生活在寺院的喇嘛丹增回到三千里外的家中，看望坠下山崖的弟弟，却被阿妈要求不能再离开自己，并与弟弟的未婚妻卓玛成亲。旺堆的提亲让此事变成了困局。为摆脱内心与现实的困境，丹增一行磕长头去请求师傅的开示...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女友日 Girlfriend&#39;s Day",
+  "url": "/subject/24855157/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2414354138.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027856/",
+      "name": "鲍勃·奥登科克 Bob Odenkirk"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027856/",
+      "name": "鲍勃·奥登科克 Bob Odenkirk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388670/",
+      "name": "曼森·特鲁布拉德 Mason Trueblood"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "105",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

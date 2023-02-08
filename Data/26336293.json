@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "斯帕尔克：宇宙历险记 Spark",
+  "url": "/subject/26336293/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2453764584.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276540/",
+      "name": "亚伦·伍德利 Aaron Woodley"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035644/",
+      "name": "杰西卡·贝尔 Jessica Biel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054411/",
+      "name": "希拉里·斯万克 Hilary Swank"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054392/",
+      "name": "苏珊·萨兰登 Susan Sarandon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386101/",
+      "name": "杰斯·诺曼 Jace Norman"
+    }
+  ]
+,
+  "datePublished": "2017-04-14",
+  "genre": ["\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H30M",
+  "description": "Spark, a teenage monkey and his friends, Chunk and Vix, are on a mission to regain Planet Bana - a k...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

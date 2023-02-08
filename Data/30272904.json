@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "莱瑟斯 Lysis",
+  "url": "/subject/30272904/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550316997.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381087/",
+      "name": "里克·奥斯特曼 Rick Ostermann"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381087/",
+      "name": "里克·奥斯特曼 Rick Ostermann"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260132/",
+      "name": "路易斯·霍夫曼 Louis Hofmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356578/",
+      "name": "奥利弗·马苏奇 Oliver Masucci"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "Father and son are trapped in the wilderness and try to find a way to survive and to each other.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "62",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

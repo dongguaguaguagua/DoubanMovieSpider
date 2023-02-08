@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣诞北极光 Northern Lights of Christmas",
+  "url": "/subject/30426900/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545058182.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303866/",
+      "name": "James Iver Mattson James Iver Mattson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303857/",
+      "name": "B.E. Brauner B.E. Brauner"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445599/",
+      "name": "普瑞休斯·崇 Precious Chong"
+    }
+  ]
+,
+  "datePublished": "2018-12-15",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT2H0M",
+  "description": "Zoey Hathaway (Williams) has been working towards her lifelong goal of being a pilot for years, but ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

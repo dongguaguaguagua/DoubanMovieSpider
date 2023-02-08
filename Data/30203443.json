@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "喋血外星人 Alien Siege",
+  "url": "/subject/30203443/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535010774.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418727/",
+      "name": "罗布·帕拉廷 Rob Pallatina"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328824/",
+      "name": "马克·阿特金斯 Mark Atkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483978/",
+      "name": "克里斯蒂安·布彻 Christian Butcher"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483979/",
+      "name": "艾丽尔·哈德 Ari Hader"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1469603/",
+      "name": "马修·波尔坎普 Matthew Pohlkamp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483980/",
+      "name": "克里斯蒂娜·利奇亚迪 Christina Licciardi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483981/",
+      "name": "布兰登·约翰斯顿 Brandon Johnston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483982/",
+      "name": "特里·伍德贝里 Terry Woodberry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483779/",
+      "name": "卡罗琳·哈里斯 Caroline Harris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482703/",
+      "name": "莎伦·德西蕾 Sharon Desiree"
+    }
+  ]
+,
+  "datePublished": "2018-07-22",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H25M",
+  "description": "一艘外星宇宙飞船出现在华盛顿特区，康涅狄格州一个小镇上的一群居民也被迫卷进战斗，他们必须在外星人追捕美国总统的过程中击退他们。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "167",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.8"
+  }
+}

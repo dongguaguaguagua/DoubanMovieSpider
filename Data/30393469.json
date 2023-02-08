@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Silk Scream",
+  "url": "/subject/30393469/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2541540242.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1111478/",
+      "name": "阿里·雷曼 Ari Lehman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371893/",
+      "name": "雷内尔·吉布斯 Renell Gibbs"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H34M",
+  "description": "Two unlikely heroes team up to solve an ongoing killing spree targeting clients and coworkers of a t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

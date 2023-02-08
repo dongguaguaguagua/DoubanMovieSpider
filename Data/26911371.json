@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "朋友爱朋友 Friends Effing Friends Effing Friends",
+  "url": "/subject/26911371/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2396356663.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025112/",
+      "name": "昆西·罗丝 Quincy Rose"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025112/",
+      "name": "昆西·罗丝 Quincy Rose"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482207/",
+      "name": "朱莉安·威尔斯 Julian Wells"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H17M",
+  "description": "雅各布是一位来自洛杉矶的自由撰稿人，他坚持着无忧无虑的生活、爱情方式。当他与朋友之间的友谊和性别逐渐开始模糊，当每个人都试图在人群中寻找爱时，冲突随之而起，而他们的内心却依旧在寻找幸福。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Fight Valley 2: Lockdown",
+  "url": "/subject/27011115/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2453880066.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371475/",
+      "name": "哈罗德·布里吉佛斯 Harold Bridgeforth"
+    }
+  ]
+,
+  "datePublished": "2017-07-07",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

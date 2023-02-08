@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奏冥曲 The Sonata",
+  "url": "/subject/30306084/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2585107255.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328327/",
+      "name": "芙蕾雅·廷利 Freya Tingley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032485/",
+      "name": "西蒙·阿布卡瑞安 Simon Abkarian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012548/",
+      "name": "詹姆斯·福克纳 James Faulkner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006991/",
+      "name": "鲁格·豪尔 Rutger Hauer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348281/",
+      "name": "马特 · 巴伯 Matt Barber"
+    }
+  ]
+,
+  "datePublished": "2018-11-15",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H28M",
+  "description": "极具音乐天赋的小提琴家Rose在作曲家父亲Richard死后继承了他的大宅子，Rose在宅子中发现了父亲所作的遗作中有一些神秘的符号，在她的助手Charles的协助下，Rose逐步破解了这些神秘符号，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "730",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

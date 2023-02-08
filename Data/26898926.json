@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绿巨人与怪物 Hulk: Where Monsters Dwell",
+  "url": "/subject/26898926/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2391883694.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287397/",
+      "name": "Marty Isenberg Marty Isenberg"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320585/",
+      "name": "弗雷德·塔特西奥 Fred Tatasciore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070767/",
+      "name": "杰西·伯奇 Jesse Burch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1190071/",
+      "name": "连姆·奥布赖恩 Liam O&#39;Brien"
+    }
+  ]
+,
+  "datePublished": "2016-10-21",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H15M",
+  "description": "这个万圣节的前夜,噩梦决心征服我们清醒的世界通过梦想穿越维度,并将每个做梦的人变成一个怪物。奇异博士 ,绿巨人 咆哮突击队等最终结束他的邪恶计划吗?",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "148",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

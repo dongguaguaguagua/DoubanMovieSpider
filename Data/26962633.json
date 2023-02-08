@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暗箱 Camera Obscura",
+  "url": "/subject/26962633/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456607129.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1183071/",
+      "name": "阿伦·库恩兹 Aaron Koontz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1183071/",
+      "name": "阿伦·库恩兹 Aaron Koontz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036257/",
+      "name": "Camerin Burns Camerin Burns"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317101/",
+      "name": "克里斯托弗·邓汉 Christopher Denham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199451/",
+      "name": "娜佳·鲍比列娃 Nadja Bobyleva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333381/",
+      "name": "凯瑟琳·科廷 Catherine Curtin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260573/",
+      "name": "蔡斯·威廉逊 Chase Williamson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415089/",
+      "name": "杰拉德·班肯斯 Jared Bankens"
+    }
+  ]
+,
+  "datePublished": "2017-04-22",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H35M",
+  "description": "A veteran war photographer with PTSD sees imminent deaths in his developed photos, questioning his a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

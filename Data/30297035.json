@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "逆时救援 Collider",
+  "url": "/subject/30297035/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530876006.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1254900/",
+      "name": "贾斯汀·刘易斯 Justin Lewis"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1254900/",
+      "name": "贾斯汀·刘易斯 Justin Lewis"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045441/",
+      "name": "Alex Campbell Alex Campbell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436885/",
+      "name": "Batya Cruz Batya Cruz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1231474/",
+      "name": " Christine Mascolo"
+    }
+  ]
+,
+  "datePublished": "2018-08-01",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "PT1H24M",
+  "description": "2033年，一名少女受困在一間神祕的孤兒院。她穿越時空回到了過去，尋找自己的親生父母，企圖要改變過往、扭轉未來，或許，她的人生將有不同的發展。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

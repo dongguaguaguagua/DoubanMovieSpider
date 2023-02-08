@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "星际大战 Interstellar Wars",
+  "url": "/subject/26881597/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2411166205.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110094/",
+      "name": "布莱安·莱利 Brian Lally"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010168/",
+      "name": "罗伯特·伍兹 Robert Woods"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1268552/",
+      "name": "维罗妮卡·瑞琪 Veronica Ricci"
+    }
+  ]
+,
+  "datePublished": "2016-03-12",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H23M",
+  "description": "From a giant portal behind the dark side of the moon aliens starts an attack on earth. From a secret...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Man Underground",
+  "url": "/subject/26848676/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2371148071.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013152/",
+      "name": "Basil Emmott Basil Emmott"
+    }
+  ]
+,
+  "datePublished": "2016-07-22",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H35M",
+  "description": "A reclusive conspiracy theorist enlists people from his small town to help him make a low-budget mov...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

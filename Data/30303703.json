@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Mona_Darling",
+  "url": "/subject/30303703/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531607769.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000903/",
+      "name": "桑贾伊·萨里 Sanjay Suri"
+    }
+  ]
+,
+  "datePublished": "2017-02-24",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H49M",
+  "description": "A contemporary who-dunnit, with a splash of supernatural, set in a college campus somewhere in India...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

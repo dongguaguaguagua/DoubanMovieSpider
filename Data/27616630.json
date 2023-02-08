@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Lala：让我爱你 라라",
+  "url": "/subject/27616630/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512302468.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346452/",
+      "name": "韩相熙 Sang-hee Han"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350190/",
+      "name": "芝芙 Chi Pu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355584/",
+      "name": "郑山  San E"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362135/",
+      "name": "郑采妍 Chae-Yeon Jung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376739/",
+      "name": "朴智一 Ji-il Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381268/",
+      "name": "金罗温 Kim Na-on"
+    }
+  ]
+,
+  "datePublished": "2018-02-02",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H37M",
+  "description": "流行音樂作曲家G-Feel得知前女友允姬在越南去世之後，失去創作靈感，整日借酒澆愁。一天，他在網路上看到一段彈琴的影片，彈奏者是個夢想成為音樂家的越南女孩「玫」。一股難以言喻的情感湧上G-Feel心頭...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "117",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "苏梅之歌 ไม่มีสมุยสำหรับเธอ",
+  "url": "/subject/26361556/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512458158.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295265/",
+      "name": "彭力·云旦拿域安 Pen-Ek Ratanaruang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295265/",
+      "name": "彭力·云旦拿域安 Pen-Ek Ratanaruang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054162/",
+      "name": "赖拉·邦雅淑 Laila Boonyasak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1206888/",
+      "name": "大卫·阿萨瓦纳德 David Asavanond"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328946/",
+      "name": "维他亚·潘斯林加姆 Vithaya Pansringarm"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439698/",
+      "name": "Palika Suwannarak  Palika Suwannarak"
+    }
+  ]
+,
+  "datePublished": "2018-02-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H48M",
+  "description": "泰国著名导演彭力·云旦拿域安的新作。故事来源于他某次遇上著名影星与丈夫的经历，从而引起他深入探视富豪日常生活的好奇心。 三十多岁的泰国电视剧女星Viyada，下嫁外籍富豪Jerome，婚姻初期生活美满...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "233",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

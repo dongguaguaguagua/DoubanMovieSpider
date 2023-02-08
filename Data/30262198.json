@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海底大冒险 Fishtales",
+  "url": "/subject/30262198/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1190408/",
+      "name": "艾普利·罗斯 April Rose"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "艾迪的朋友遭到鲨鱼的袭击后不知所踪，艾迪和几个朋友决心合力寻找朋友，在茫茫旅途中见证了海洋的磅礴和美好。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

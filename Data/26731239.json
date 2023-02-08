@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "少了一些人 A Few Less Men",
+  "url": "/subject/26731239/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2452779324.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289337/",
+      "name": "马克·兰普雷尔 Mark Lamprell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041440/",
+      "name": "迪恩·克雷格 Dean Craig"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035613/",
+      "name": "泽维尔·塞缪尔 Xavier Samuel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000215/",
+      "name": "克里斯·马歇尔 Kris Marshall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018245/",
+      "name": "凯文·毕晓普 Kevin Bishop"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009790/",
+      "name": "德波拉·梅尔曼 Deborah Mailman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354781/",
+      "name": "戴克·蒙哥马利 Dacre Montgomery"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H32M",
+  "description": "Travel plans for three men in ill-fitting wedding tuxedos goes horribly wrong. A follow-up to the 20...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

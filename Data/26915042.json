@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "罗马人 Romans",
+  "url": "/subject/26915042/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520113327.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040740/",
+      "name": "詹妮特·蒙哥马利 Janet Montgomery"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008069/",
+      "name": "奥兰多·布鲁姆 Orlando Bloom"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078768/",
+      "name": "查理·科里德-米尔斯 Charlie Creed-Miles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1142609/",
+      "name": "安妮·雷德 Anne Reid"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357919/",
+      "name": "詹姆斯·斯迈利 James Smillie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028439/",
+      "name": "亚历克斯·费恩斯 Alex Ferns"
+    }
+  ]
+,
+  "datePublished": "2017-07-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "电影描写了工人Malky，不得不面对再度回到他所在小镇的童年恐怖阴影：一位本应被孩子信赖的神父，曾他在12岁时性侵了他，他带着这段痛苦经历默默支撑了25年，努力构筑的生活却在阴影重现时一点点崩塌，他游...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "208",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

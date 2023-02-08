@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "终点 The End",
+  "url": "/subject/26614194/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2555558252.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023549/",
+      "name": "纪尧姆·尼克卢 Guillaume Nicloux"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023549/",
+      "name": "纪尧姆·尼克卢 Guillaume Nicloux"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013845/",
+      "name": "热拉尔·德帕迪约 Gérard Depardieu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032574/",
+      "name": "泽维尔·布瓦 Xavier Beauvois"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324797/",
+      "name": "斯万·阿劳德 Swann Arlaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325344/",
+      "name": "纪尧姆·谷伊 Guillaume Gouix"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036470/",
+      "name": "加斯帕德·尤利尔 Gaspard Ulliel"
+    }
+  ]
+,
+  "datePublished": "2016-02-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "Depardieu plays an unnamed hunter and we join him and his dog as they depart for a nearby forest to ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新港故事",
+  "url": "/subject/27191157/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504241199.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426309/",
+      "name": "袁炜 Wei Yuan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426310/",
+      "name": "贾舒颖 Shuying Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322714/",
+      "name": "张强 Qiang Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376430/",
+      "name": "吕熙 Calvin Lui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314409/",
+      "name": "章申 Shen Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331124/",
+      "name": "朱铁和 Tiet Wo Chu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402470/",
+      "name": "林辰涵 Chenhan Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314262/",
+      "name": "梁俊一 Anson Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453510/",
+      "name": "阳蕾 Lei Yang"
+    }
+  ]
+,
+  "datePublished": "2017-11-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "电影《新港故事》是一个时间跨度与香港回归20年同时段的故事，讲述了坚强的香港女人汤美娟面临丈夫被谋杀，自营船厂濒临破产的困境奋力拼争，在富家子弟苏振华的帮助下终于东山再起，二人携手共同谱写了一段凄美感...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

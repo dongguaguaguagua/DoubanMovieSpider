@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "长路归家",
+  "url": "/subject/30223660/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522385978.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459572/",
+      "name": "孤星雪 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459572/",
+      "name": "孤星雪 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362586/",
+      "name": "郑好 Hao Zheng"
+    }
+  ]
+,
+  "datePublished": "2018-05-15",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5"],
+  "duration": "PT0H30M",
+  "description": "故事发生时,小文与顾熙这对表兄妹正流浪在街头。在每晩充满寓意的童话时问中,两人解开同样的心结,渐渐给了彼此抚慰。然而网络上的寻人启事,以及小文夜问的噩梦,却在他们旅行的过程中一层层揭开了小文的黑暗过往...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

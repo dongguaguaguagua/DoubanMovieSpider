@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魔法学院",
+  "url": "/subject/26902785/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2638345626.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375982/",
+      "name": "乔根·克卢宾 Jorgen Klubien"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375982/",
+      "name": "乔根·克卢宾 Jorgen Klubien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427647/",
+      "name": "辛迪·罗宾逊 Cindy Robinson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1084016/",
+      "name": "本·迪斯金 Ben Diskin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360194/",
+      "name": "迈克尔·约翰斯顿 Michael Johnston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1120847/",
+      "name": "贾米森·普赖斯 Jamieson Price"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1202047/",
+      "name": "格兰特·乔治 Grant George"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074155/",
+      "name": "Philece Sampler Philece Sampler"
+    }
+  ]
+,
+  "datePublished": "2020-01-05",
+  "genre": ["\u52a8\u753b", "\u5947\u5e7b"],
+  "duration": "PT1H23M",
+  "description": "故事讲述的是身怀神秘力量的少女Doris和同伴一起来到魔术学院，学习魔法来拯救被黑魔法诅咒的叔叔和婶婶。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

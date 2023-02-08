@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "立地",
+  "url": "/subject/26904649/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2493912891.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316020/",
+      "name": "方军亮 Junliang Fang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316020/",
+      "name": "方军亮 Junliang Fang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274736/",
+      "name": "吴军 Jun Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274779/",
+      "name": "赵小锐 Xiaorui Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349851/",
+      "name": "姚岗 Gang Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338250/",
+      "name": "柳明明 Mingming Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336609/",
+      "name": "许多 Duo Xu"
+    }
+  ]
+,
+  "datePublished": "2016-11-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "电影《立地》故事讲述了千秋庄村两委班子两年换了三拨儿，基层组织瘫痪，许多矛盾异常尖锐。霍承义从部队转业后，在乡党委书记的恳请下，回村暂时代理第一书记。在复杂的农村工作中，他巧妙地解决了一系列难题。半年...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

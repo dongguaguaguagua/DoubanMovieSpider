@@ -1,0 +1,61 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大集团 Corporate",
+  "url": "/subject/26982979/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2458084750.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320325/",
+      "name": "席琳·赛莱 Céline Sallette"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025263/",
+      "name": "朗贝尔·维尔森 Lambert Wilson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335061/",
+      "name": "斯特凡·德·胡特 Stéphane De Groodt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316091/",
+      "name": "阿丽斯·德·朗克桑 Alice de Lencquesaing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336360/",
+      "name": "Camille Japy Camille Japy"
+    }
+  ]
+,
+  "datePublished": "2017-04-05",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H35M",
+  "description": "埃森企業是擁有九萬名員工的法國大型企業。某天一名財務分析師達瑪從企業總部頂樓一躍而下，結束了自己的生命。
+當勞動部介入調查，人力資源部的經理艾蜜莉表示達瑪的死純粹是因為「私人因素」，只有艾蜜麗的秘書知...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "123",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "刀刃 SGaawaay K&#39;uuna",
+  "url": "/subject/30321921/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542843367.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406802/",
+      "name": "格瓦伊·埃登肖 Gwaai Edenshaw"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406803/",
+      "name": "海伦·黑格-布朗 Helen Haig-Brown"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406807/",
+      "name": "泰勒·约克 Tyler York"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406810/",
+      "name": "威利·罗斯 Willy Russ"
+    }
+  ]
+,
+  "datePublished": "2018-09-07",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2"],
+  "duration": "PT1H40M",
+  "description": "Edge of the Knife is a feature length Haida language film about pride, tragedy, and penance. Adiits’...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

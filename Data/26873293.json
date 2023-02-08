@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "热的铁",
+  "url": "/subject/26873293/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539925188.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319885/",
+      "name": "王加宾 Jiabin Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313486/",
+      "name": "范雷 Lei Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344037/",
+      "name": "孙之鸿 Zhihong Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371689/",
+      "name": "卢婕 Jie Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321805/",
+      "name": "王大奇 Daqi Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414493/",
+      "name": "林旭 Xu Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336673/",
+      "name": "陈卫 Wei Chen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "根据真实的社区民警汪勇的故事素材改编的影片，汪勇是陕西社区民警的先进代表，是时代的楷模，他在陕西公安系统和百姓的认知中有很高的认可度。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

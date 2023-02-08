@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冲组 衝組",
+  "url": "/subject/27175702/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502937619.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275634/",
+      "name": "郑文堂 Wen-tang Cheng"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315231/",
+      "name": "蔡昌宪 Chang-Hsien Tsai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348865/",
+      "name": "吴朋奉 Pong Fong Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312994/",
+      "name": "李亦捷 Yi-Chieh Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358326/",
+      "name": "杨烈 Lieh Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451061/",
+      "name": "林昶佐 Tshióng-tsò Lîm"
+    }
+  ]
+,
+  "datePublished": "2017-12-29",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H37M",
+  "description": "阿德（蔡昌憲飾）自小在台南土溝村生活，自組「土靈樂團」。土溝村代表遊說村民將土地賣給財團，阿德為了阻止故鄉的沈淪，隻身赴北，尋求閃靈樂團幫忙發聲 ....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

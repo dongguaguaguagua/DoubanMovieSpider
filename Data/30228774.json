@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Let It Kill You",
+  "url": "/subject/30228774/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522790814.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1175669/",
+      "name": "Milena Govich Milena Govich"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1114218/",
+      "name": "亚当·胡斯 Adam Huss"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071517/",
+      "name": "丝柯·泰勒-考普顿 Scout Taylor-Compton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031913/",
+      "name": "维克多·加博 Victor Garber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019103/",
+      "name": "李·麦瑞威瑟 Lee Meriwether"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "As a small town outcast tries to prove to the locals that a monster is responsible for a string of d...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猫姑娘 Gatta Cenerentola",
+  "url": "/subject/26966661/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520621480.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385332/",
+      "name": "亿万·卡布里诺 Ivan Cappiello"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385333/",
+      "name": "马里诺·瓜尔涅里 Marino Guarnieri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336284/",
+      "name": "亚历山德罗·拉克 Alessandro Rak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385334/",
+      "name": "达里奥·参孙 Dario Sansone"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385332/",
+      "name": "亿万·卡布里诺 Ivan Cappiello"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385333/",
+      "name": "马里诺·瓜尔涅里 Marino Guarnieri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336284/",
+      "name": "亚历山德罗·拉克 Alessandro Rak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385334/",
+      "name": "达里奥·参孙 Dario Sansone"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378146/",
+      "name": "马西米利亚诺·加洛 Massimiliano Gallo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343065/",
+      "name": "玛丽娅·皮娅·卡尔佐尼 Maria Pia Calzone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032253/",
+      "name": "亚历山德罗·加斯曼 Alessandro Gassmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1143806/",
+      "name": "马里亚诺·利吉罗 Mariano Rigillo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1067512/",
+      "name": "雷纳托·卡朋特理 Renato Carpentieri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394989/",
+      "name": "Marco Mario de Notaris Marco Mario de Notaris"
+    }
+  ]
+,
+  "datePublished": "2017-09-05",
+  "genre": ["\u52a8\u753b", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H26M",
+  "description": "意大利动画电影，入围第74届威尼斯电影节(2017)地平线单元，根据经典动画《灰姑娘》改编。反经典童话的精炼叙事，超现实的游轮科技与那不勒斯的历史背景交汇...讲述当年的科学家兼大亨建立了一座高度科技...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1616",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

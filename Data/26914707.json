@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "殇",
+  "url": "/subject/26914707/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2397621691.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357466/",
+      "name": "王奕达 Yida Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357466/",
+      "name": "王奕达 Yida Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H5M",
+  "description": "男孩遭遇性侵，法律无法给凶手应有的惩罚，男孩的母亲决定用自己的方式复仇...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

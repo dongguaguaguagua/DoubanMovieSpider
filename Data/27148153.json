@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猛虎嗅蔷薇之替天行盗",
+  "url": "/subject/27148153/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2683314405.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353433/",
+      "name": "孙传林 Chuanlin Sun"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373503/",
+      "name": "王俊彭 Junpeng Wang"
+    }
+  ]
+,
+  "datePublished": "2017-09-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "影片主要讲述了当地银行家因不苟同胡旅长的恶行被毒死，其独生女儿黄采薇和被抢了土地的农夫谈虎共同组成“抢银行二人组”，誓要把血汗钱从胡旅长控制的银行抢回来，还给老百姓的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

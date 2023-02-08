@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "隔墙有耳 Orecchie",
+  "url": "/subject/26858523/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2377928158.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023811/",
+      "name": "亚丽桑卓·阿罗纳迪奥 Alessandro Aronadio"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023811/",
+      "name": "亚丽桑卓·阿罗纳迪奥 Alessandro Aronadio"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1161854/",
+      "name": "米莱娜·伍柯迪克 Milena Vukotic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051336/",
+      "name": "尼可洛·森尼 Niccolò Senni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033032/",
+      "name": "皮埃拉·迪格利·埃斯波斯蒂 Piera Degli Esposti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023596/",
+      "name": "罗科·帕帕莱奥 Rocco Papaleo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472223/",
+      "name": "弗兰西斯卡·安东内利 Francesca Antonelli"
+    }
+  ]
+,
+  "datePublished": "2016-09-03",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "故事发生的背景是意大利罗马。影片节奏相对平缓，有张有弛，这是为了使故事在观众眼里呈现出绝对的平淡、正常，就好像是每天发生在我们身边的故事一样。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "133",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

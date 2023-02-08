@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "半部天书",
+  "url": "/subject/30214042/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521339338.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392392/",
+      "name": "桑坤 sangkun"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392392/",
+      "name": "桑坤 sangkun"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-10-17",
+  "genre": ["\u60ac\u7591", "\u5947\u5e7b", "\u5192\u9669", "\u53e4\u88c5"],
+  "duration": "",
+  "description": "大学开学后，强子回到学校，原来开朗外向的他整天鬼鬼祟祟的不知道在捉摸什么，他的好友麒麟想弄清楚他在干什么，终于有一天让他弄明白了，原来强子在一门心思研究什么天书。本来以为这就是一个传说，强子三爷爷去世...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

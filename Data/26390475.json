@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "枪声弹影 Cessez-le-feu",
+  "url": "/subject/26390475/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2453995505.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018093/",
+      "name": "罗曼·杜里斯 Romain Duris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320325/",
+      "name": "席琳·赛莱 Céline Sallette"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313917/",
+      "name": "格莱高利·嘉德波瓦 Grégory Gadebois"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294015/",
+      "name": "茱莉-玛丽·帕芒提耶 Julie-Marie Parmentier"
+    }
+  ]
+,
+  "datePublished": "2017-04-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "In the early 1920s, Georges Laffont (Romain Duris), traumatised by the horrific trench warfar, decid...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "74",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

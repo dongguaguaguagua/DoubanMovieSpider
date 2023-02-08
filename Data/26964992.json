@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐怖星系 Galaxy of Horrors",
+  "url": "/subject/26964992/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2421572397.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1196778/",
+      "name": "Javier Chillón Javier Chillón"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187462/",
+      "name": "Marinko Spahic Marinko Spahic"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1196778/",
+      "name": "Javier Chillón Javier Chillón"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308868/",
+      "name": "Ethan Shaftel Ethan Shaftel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187462/",
+      "name": "Marinko Spahic Marinko Spahic"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284590/",
+      "name": "弗朗西斯科·加里多 Francesc Garrido"
+    }
+  ]
+,
+  "datePublished": "2017-03-07",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H45M",
+  "description": "Trapped in a damaged cryogenic pod, a man is forced to watch a series of horrific science-fiction ta...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "125",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

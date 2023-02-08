@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疟疾 مالاریا",
+  "url": "/subject/26845011/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2383144179.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297299/",
+      "name": "帕维兹·杉席巴奇 Parviz Shahbazi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297299/",
+      "name": "帕维兹·杉席巴奇 Parviz Shahbazi"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "影片讲述了一个名叫汉娜的伊朗女孩通过自我绑架的方式尝试逃离社会的种种约束，解救自己获得自由的故事。一天，汉娜的父亲收到了有关汉娜的绑架信，绑匪要求他带着赎金来换他的女儿。汉娜的父亲立即前往德黑兰去营救...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "90",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

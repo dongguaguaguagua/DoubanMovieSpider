@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幸福转身",
+  "url": "/subject/27168860/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2501765350.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382583/",
+      "name": "余斌 Bin Yu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382583/",
+      "name": "余斌 Bin Yu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341683/",
+      "name": "吴永淦 Yonggan Wu"
+    }
+  ]
+,
+  "datePublished": "2017-10-20",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H10M",
+  "description": "影片主要讲述了在相亲公司工作的女孩王佳佳在为四位准备相亲的男士面试，期间见识到了不同的极品男人，工作期间她突然接到男友相东的电话，要求佳佳与他一起庆生，但是因为加班的原因，佳佳果断拒绝了自己的男友，公...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

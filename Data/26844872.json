@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "古惑镇激斗少年",
+  "url": "/subject/26844872/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2372345210.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317245/",
+      "name": "陈宇 Yu Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351954/",
+      "name": "徐芳依 Fangyi Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354221/",
+      "name": "李鸿禾 Honghe Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317245/",
+      "name": "陈宇 Yu Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407129/",
+      "name": "连锦华 Chin-hua Lien"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385831/",
+      "name": "孙昊 Hao Sun"
+    }
+  ]
+,
+  "datePublished": "2016-07-27",
+  "genre": ["\u559c\u5267", "\u72af\u7f6a"],
+  "duration": "PT1H5M",
+  "description": "古惑镇里，面子就是一切，桃园老玉明知黎叔有一条全市最大的金龙鱼，竟然养了一只更大的，还大张旗鼓安排自家KTV的头牌芳芳作为伺鱼丫头。一年一度的大佬聚会前，锅巴必须...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "163",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

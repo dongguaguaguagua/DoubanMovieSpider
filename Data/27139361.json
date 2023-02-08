@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The James Gibson Story",
+  "url": "/subject/27139361/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502162778.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349039/",
+      "name": "安迪·麦克菲 Andy McPhee"
+    }
+  ]
+,
+  "datePublished": "2018-02-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "James Gibson is an ex-con who has spent his life in and out of prison. One day, his life turns aroun...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

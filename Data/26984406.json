@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "归去",
+  "url": "/subject/26984406/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2574107050.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316084/",
+      "name": "颜雷 Oliver Yan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316084/",
+      "name": "颜雷 Oliver Yan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316068/",
+      "name": "徐才根 Caigen Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276144/",
+      "name": "黄璐 Lu Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402633/",
+      "name": "李品夆 Pinfeng Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425564/",
+      "name": "闻婷 Ting Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420308/",
+      "name": "樊雨洁 Yujie Fan"
+    }
+  ]
+,
+  "datePublished": "2017-06-18",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H46M",
+  "description": "为了能获得一张养老院的养老金卡。周老伯利用政府动迁老房子的机会，想说服邻居董老太和他“假结婚”，从而可以多分到一笔动迁款。但，董老太因为害怕被报应，一直心存疑虑。而得知自己父亲的老房子要拆迁，周老伯的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

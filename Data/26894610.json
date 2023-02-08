@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一夜百万",
+  "url": "/subject/26894610/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2389976435.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350389/",
+      "name": "张蓝艺 Lanyi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350002/",
+      "name": "周鹏 Peng Zhou"
+    }
+  ]
+,
+  "datePublished": "2016-10-17",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H11M",
+  "description": "影片讲述充满希望的凤凰男刘城市、美丽女孩桑小婷、个性十足的蟊贼、神秘的女人马姐，原本生活在平行线上的几组人，怀着不同的目的来到省城，却因一个装着百万美元的包错综复杂的交织在一起。一座平淡的城市，一群人...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,101 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱在星空下",
+  "url": "/subject/26847641/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2387138717.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361308/",
+      "name": "汪子琦 Ziqi Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361308/",
+      "name": "汪子琦 Ziqi Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275719/",
+      "name": "江若琳 Elanne Kwong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318282/",
+      "name": "陆昱霖 Yulin Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349276/",
+      "name": "陈泽宇 Zeyu Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361309/",
+      "name": "叶青青 Qingqing Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1030757/",
+      "name": "向海岚 Anne Heung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218349/",
+      "name": "马德钟 Joe Tak-Chung Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339906/",
+      "name": "钟凯 Kai Zhong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320007/",
+      "name": "施羽 Yu Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350382/",
+      "name": "吴谨西 Jinxi Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1479051/",
+      "name": "王坤 Kun Wang"
+    }
+  ]
+,
+  "datePublished": "2016-08-26",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H33M",
+  "description": "子妍（江若琳饰）在车站打电话让室友阮软（叶新晨饰）来接，中途电话没电关机，阮软因事未能前往。子妍偶遇摩卡（陆昱霖饰）弹吉他卖唱，并在其关心下产生情愫。
+勤工俭学的子妍在老师王子苑（马德钟饰）推荐下进入...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "246",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.8"
+  }
+}

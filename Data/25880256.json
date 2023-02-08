@@ -1,0 +1,107 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奇葩追梦",
+  "url": "/subject/25880256/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2377679745.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318396/",
+      "name": "陈健 Jian Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362073/",
+      "name": "杨锋 Feng Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362074/",
+      "name": "杨翼 Yi Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350408/",
+      "name": "艾伦 Allen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327084/",
+      "name": "常远 Yuan Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005110/",
+      "name": "黄圣依 Eva Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336519/",
+      "name": "王婉中 Wanzhong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362075/",
+      "name": "媛凤 Yuanfeng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317859/",
+      "name": "彭波 Bo Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275232/",
+      "name": "雷汉 Han Lei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350399/",
+      "name": "陈思娜 Sina Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362077/",
+      "name": "陈晓龙 Xiaolong Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362076/",
+      "name": "康亢 Kang Kang"
+    }
+  ]
+,
+  "datePublished": "2016-09-09",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "影片讲述了四个青年男女在找工作的过程中，因为一连串误会而引发的爆笑故事。
+大黑和二楞到城里找工作，遇上了正在寻找临时演员的剧组，于是误打误撞进入了剧组充当临时演员，正在这时，一个叫老魏的人给了他们两个...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "712",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.5"
+  }
+}

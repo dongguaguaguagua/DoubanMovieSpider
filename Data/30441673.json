@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣诞仙境 Christmas Wonderland",
+  "url": "/subject/30441673/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546216097.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008571/",
+      "name": "肖恩·欧森 Sean Olson"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031850/",
+      "name": "艾米丽·奥斯蒙特 Emily Osment"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314548/",
+      "name": "瑞恩·罗特曼 Ryan Rottman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006984/",
+      "name": "胡凯莉 Kelly Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076533/",
+      "name": "斯科特·克里斯托弗 Scott Christopher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395426/",
+      "name": "杰克·斯托蒙 Jake Stormoen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467119/",
+      "name": "梅拉妮·斯通 Melanie Stone"
+    }
+  ]
+,
+  "datePublished": "2018-12-01",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT2H0M",
+  "description": "&#34;Heidi (Osment), who initially left her small town of Pleasant Valley with the dream of one day beco...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

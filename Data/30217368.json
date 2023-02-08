@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "盯上小偷的贼",
+  "url": "/subject/30217368/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521615397.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393987/",
+      "name": "成宇兴 Yuxing Cheng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393987/",
+      "name": "成宇兴 Yuxing Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393988/",
+      "name": "张睿 Rui Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393989/",
+      "name": "孙海洋 Haiyang Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317859/",
+      "name": "彭波 Bo Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317991/",
+      "name": "刚毅 Yi Gang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393990/",
+      "name": "夏梦 Meng Xia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358937/",
+      "name": "王军 Jun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393991/",
+      "name": "罗长城 Changcheng Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393992/",
+      "name": "张露瑶 Luyao Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-06-08",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H32M",
+  "description": "郑耀坤以蒙蔽手段与文物贩朱老五非法交易被警察围捕，逃窜时文物意外落入设计师李俊之手。从此展开了郑耀坤找李俊，朱老五找郑耀坤，李俊协助警察办案的螳螂捕蝉黄雀在后的疯狂游戏。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

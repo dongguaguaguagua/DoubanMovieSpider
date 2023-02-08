@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "滑板少年 The Land",
+  "url": "/subject/26679208/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2354683329.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391361/",
+      "name": "小斯蒂芬·卡普尔 Steven Caple Jr."
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391361/",
+      "name": "小斯蒂芬·卡普尔 Steven Caple Jr."
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009324/",
+      "name": "娜塔丽·马丁内斯 Natalie Martinez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036428/",
+      "name": "迈克尔·肯尼斯·威廉姆斯 Michael Kenneth Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013818/",
+      "name": "金·寇兹 Kim Coates"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244528/",
+      "name": "莫伊塞斯·阿里亚斯 Moises Arias"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314185/",
+      "name": "拉菲·格拉沃恩 Rafi Gavron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054647/",
+      "name": "埃里卡·巴杜 Erykah Badu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348887/",
+      "name": "机关枪凯利 Machine Gun Kelly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1089156/",
+      "name": "琳达·伊蒙 Linda Emond"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351167/",
+      "name": "迈克尔·雷·伊斯卡米拉 Michael Ray Escamilla"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1255939/",
+      "name": "瑞恩·马尔凯 Ryan Mulkay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434101/",
+      "name": "肖恩·韦斯顿·萨克 Shawn Weston Thacker"
+    }
+  ]
+,
+  "datePublished": "2016-07-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H0M",
+  "description": "THE LAND tells the story of four teenage boys who devote their summer to escaping the streets of Cle...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "76",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

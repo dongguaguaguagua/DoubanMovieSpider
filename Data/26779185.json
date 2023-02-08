@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Return of the Dead",
+  "url": "/subject/26779185/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276024/",
+      "name": "杰奎琳·埃沃拉 Jacquelyn Evola"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1114839/",
+      "name": "David López David López"
+    }
+  ]
+,
+  "datePublished": "2016-04-12",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H9M",
+  "description": "Set 30 years after the events that took place in &#34;The Return of the Living Dead&#34; A young college stu...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "石头剪刀布 Rock, Paper, Scissors",
+  "url": "/subject/26602420/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2524140900.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009463/",
+      "name": "汤姆·霍兰德 Tom Holland"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045649/",
+      "name": "维克多·米勒 Victor Miller"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027816/",
+      "name": "迈克尔·马德森 Michael Madsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176931/",
+      "name": "卢克·马可法莱恩 Luke Macfarlane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040556/",
+      "name": "塔图姆·奥尼尔 Tatum O&#39;Neal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1119264/",
+      "name": "玛琳·麦考米克 Maureen McCormick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022617/",
+      "name": "昆东·亚伦 Quinton Aaron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036783/",
+      "name": "娜嘉拉·汤森德 Najarra Townsend"
+    }
+  ]
+,
+  "datePublished": "2019-07-23",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "影片讲述连环杀手彼得·哈瑞斯20年后返乡，期间遇到漂亮女子艾希莉，为占有她，一个骇人听闻的决定在悄悄酝酿。该片下个月展开拍摄，预计明年上映。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "362",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

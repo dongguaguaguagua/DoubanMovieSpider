@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "第一次的辣妹 OAD はじめてのギャル OAD",
+  "url": "/subject/27616196/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2511227771.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382005/",
+      "name": "古川博之 Furukawa Hiroyuki"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382006/",
+      "name": "百濑祐一郎 Momose Yuuichirou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274310/",
+      "name": "浅沼晋太郎 Shintaro Asanuma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382003/",
+      "name": "长久友纪 Yoki Nagaku"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276137/",
+      "name": "喜多村英梨 Eri Kitamura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275105/",
+      "name": "竹达彩奈 Ayana Taketatsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314690/",
+      "name": "小仓唯 Yui Ogura"
+    }
+  ]
+,
+  "datePublished": "2017-12-26",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "119",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

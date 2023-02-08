@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "罩中任务 На районе",
+  "url": "/subject/30329123/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2882407704.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327043/",
+      "name": "奥莉亚·祖娃 Olya Zueva"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327043/",
+      "name": "奥莉亚·祖娃 Olya Zueva"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1213388/",
+      "name": "丹尼拉·科兹洛夫斯基 Danila Kozlovsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327043/",
+      "name": "奥莉亚·祖娃 Olya Zueva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419165/",
+      "name": "安吉丽娜·斯特雷奇娜 Angelina Strechina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1479714/",
+      "name": "伊利亚·马拉宁 Ilya Malanin"
+    }
+  ]
+,
+  "datePublished": "2018-10-04",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u4f20\u8bb0"],
+  "duration": "PT1H37M",
+  "description": "Vova and his best friend Kisa make ends meet by working for the local thug in Vladivostock, Russia u...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

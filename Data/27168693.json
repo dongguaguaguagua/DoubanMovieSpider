@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新贵2017圣诞特辑 Upstart Crow: A Christmas Crow",
+  "url": "/subject/27168693/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2551718108.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017102/",
+      "name": "Richard Boden Richard Boden"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045382/",
+      "name": "本·埃尔顿 Ben Elton"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116922/",
+      "name": "大卫·米切尔 David Mitchell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345046/",
+      "name": "蒂姆·唐尼 Tim Downie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045125/",
+      "name": "马克·希普 Mark Heap"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1158559/",
+      "name": "丽莎·塔巴克 Liza Tarbuck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319071/",
+      "name": "杰玛·韦兰 Gemma Whelan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054514/",
+      "name": "艾玛·汤普森 Emma Thompson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355383/",
+      "name": "海伦·蒙克斯 Helen Monks"
+    }
+  ]
+,
+  "datePublished": "2017-12-25",
+  "genre": ["\u559c\u5267", "\u5386\u53f2"],
+  "duration": "PT0H40M",
+  "description": "As Christmas approaches Will is in London rehearsing his new play &#39;Eighth Night&#39; for the queen and i...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "550",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "9.2"
+  }
+}

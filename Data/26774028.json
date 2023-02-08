@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "回到起步时",
+  "url": "/subject/26774028/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2335594929.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274246/",
+      "name": "李力持 Lik-Chi Lee"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274268/",
+      "name": "廖启智 Kai Chi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275992/",
+      "name": "朱慧敏 Queenie Chu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "故事三線推進，環繞三位在不同家庭教育背景下成長的高中生。他們在「董之英中學」的一次相遇，拉近了彼此的距離，泛起了追尋夢想的漣漪。而在一次外展荒島訓練中，更改寫了他們的人生旅程……當大家回到起步時，會否...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

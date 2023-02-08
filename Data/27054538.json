@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猫妖传奇",
+  "url": "/subject/27054538/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2460356507.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405189/",
+      "name": "贺之怡 Zhiyi He"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405189/",
+      "name": "贺之怡 Zhiyi He"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370070/",
+      "name": "梁靖康 Jingkang Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427264/",
+      "name": "严米拉 Mila Yan"
+    }
+  ]
+,
+  "datePublished": "2017-05-27",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H10M",
+  "description": "喵酱本是这个城市最后的猫神族，她守护 着这个城市的夜晚足有数百年的时间。可是这段时间，本该被人遗忘的猫神族似乎又被人重新发现——一个神秘的人类组织在到处捕杀野猫并寻找这个最后的猫神族。
+本市最大的富豪...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

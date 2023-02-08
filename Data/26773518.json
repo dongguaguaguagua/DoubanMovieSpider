@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "弗里茨·朗 Fritz Lang",
+  "url": "/subject/26773518/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2335051977.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021406/",
+      "name": "戈尔迪安·马戈 Gordian Maugg"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021406/",
+      "name": "戈尔迪安·马戈 Gordian Maugg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364654/",
+      "name": "亚历山大·豪塞尔 Alexander Häusser"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025384/",
+      "name": "海诺·费尔希 Heino Ferch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364655/",
+      "name": "克里斯托夫·伯特伦 Christoph Bertram"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333485/",
+      "name": "萨缪尔·芬齐 Samuel Finzi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364656/",
+      "name": "丽莎·弗里德里希 Lisa Friederich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284612/",
+      "name": "约翰娜·加斯多夫 Johanna Gastdorf"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1123640/",
+      "name": "米歇尔·门德尔 Michael Mendl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364657/",
+      "name": "迪特·鲁普 Dieter Rupp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1154507/",
+      "name": "托马斯·蒂梅 Thomas Thieme"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325521/",
+      "name": "马克西米连·冯·普芬多夫 Maximilian von Pufendorf"
+    }
+  ]
+,
+  "datePublished": "2016-04-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H44M",
+  "description": "以德国名导弗里茨•朗为《M是凶手》的所作的前期准备为基础，处于创作和婚姻危机中的朗在与杜塞尔多夫谋杀犯的接触中发掘两者类似的青年创伤。作品将档案影像顺畅地结合搬演场景和原片片段，犯罪惊悚元素让位于心理...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "59",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

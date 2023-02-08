@@ -1,0 +1,51 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奇葩三人行",
+  "url": "/subject/27038994/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2458440799.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374908/",
+      "name": "龙馨悦 Xinyue Long"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360644/",
+      "name": "孙德强 Sun Deqiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381232/",
+      "name": "曹歌 Ge Cao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H20M",
+  "description": "林思美、龚鑫、刘擎分别是来自不同领域的底层屌丝小人物。
+林思美外表衣鲜亮丽背地里却有个好赌成性的母亲。
+刘擎自认为是“妇女之友”，实际是一个因为初恋在婚礼前背叛自己后再也不相信爱情。
+龚鑫一边开着古玩...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "山炮驾到",
+  "url": "/subject/27029749/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2456865481.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366742/",
+      "name": "卓越 Yue Zhuo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343964/",
+      "name": "闫泽欢 Zehuan Yan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343964/",
+      "name": "闫泽欢 Zehuan Yan"
+    }
+  ]
+,
+  "datePublished": "2017-04-28",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H19M",
+  "description": "生活在山沟里的狗子是个少见的好吃懒做文艺青年，活了三十三年也没见过外面的花花世界，一次偶然吃了邻居家价值不菲的宠物狗，因为家里穷赔不起于是逃到城里，正当走投无路却阴差阳错的摇身一变成了老板。面包和爱情...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

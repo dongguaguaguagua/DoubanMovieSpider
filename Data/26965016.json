@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "错配 Bad Match",
+  "url": "/subject/26965016/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501453075.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383783/",
+      "name": "大卫·希拉里奥 David Chirchirillo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383783/",
+      "name": "大卫·希拉里奥 David Chirchirillo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031861/",
+      "name": "瑙伦·德沃芙 Noureen DeWulf"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326637/",
+      "name": "莉莉·西蒙斯 Lili Simmons"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362446/",
+      "name": "布兰登·斯考特 Brandon Scott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350582/",
+      "name": "杰克·卡特莫尔-斯科特 Jack Cutmore-Scott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387301/",
+      "name": "卡云·金 Kahyun Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326036/",
+      "name": "克里斯汀·多伦 Christine Donlon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260573/",
+      "name": "蔡斯·威廉逊 Chase Williamson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382865/",
+      "name": "特伦特·海伽 Trent Haaga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1259956/",
+      "name": "埃里克·波德纳尔 Eric Podnar"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "An internet-dating playboy&#39;s life spirals out of control after meeting a woman online.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "73",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

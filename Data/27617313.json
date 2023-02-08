@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "的士诡谈",
+  "url": "/subject/27617313/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2509399099.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362972/",
+      "name": "韩彦博 Yanbo Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362975/",
+      "name": "裴魁山 Kuishan Pei"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362972/",
+      "name": "韩彦博 Yanbo Han"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362519/",
+      "name": "卢野 Ye Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367526/",
+      "name": "陈玺旭 Xixu Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362975/",
+      "name": "裴魁山 Kuishan Pei"
+    }
+  ]
+,
+  "datePublished": "2018-01-02",
+  "genre": ["\u559c\u5267", "\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H37M",
+  "description": "一辆夜班的的士，从机场接到四位拼车的乘客驶向郊区，由于车内空间有限，后座的三名乘客不得不替司机抱着一个殷红色的行李箱，司机的行为非常诡异，他提议车上的每位乘客讲一个恐怖的故事，谁的故事能吓倒，他就免掉...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1026",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

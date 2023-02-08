@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狂怒之兽 Beats of Rage",
+  "url": "/subject/30188906/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2518419008.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426153/",
+      "name": "杰森·特罗斯特 Jason Trost"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426153/",
+      "name": "杰森·特罗斯特 Jason Trost"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425712/",
+      "name": "尼克·普林西比 Nick Principe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426153/",
+      "name": "杰森·特罗斯特 Jason Trost"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

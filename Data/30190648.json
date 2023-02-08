@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "オレとアイツの集金旅行",
+  "url": "/subject/30190648/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2518722227.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319943/",
+      "name": "今冈信治 Shinji Imaoka"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379414/",
+      "name": "二宫隆太郎 Ryutaro Ninomiya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321788/",
+      "name": "今泉浩一 Kouichi Imaizumi"
+    }
+  ]
+,
+  "datePublished": "2017-08-09",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "",
+  "description": "新宿2丁目の売り専バー。トオルはこの店でマネージャーをしているが、ある日突然オーナー・石井が亡くなってしまった。店は閉店が決まり、トオルは経理のタカノから常連さんのリストを受け取ってツケを回収しにいく...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Rumbos",
+  "url": "/subject/26649326/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2359098421.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321860/",
+      "name": "Manuela Moreno Manuela Moreno"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321860/",
+      "name": "Manuela Moreno Manuela Moreno"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050226/",
+      "name": "皮拉尔·洛佩斯·德·阿亚拉 Pilar López de Ayala"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028308/",
+      "name": "卡拉·埃莱哈尔德 Karra Elejalde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193676/",
+      "name": "卡门·马奇 Carmen Machi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023235/",
+      "name": "欧内斯特·艾戴里欧 Ernesto Alterio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318873/",
+      "name": "诺拉·纳瓦斯 Nora Navas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356375/",
+      "name": "米奇·艾斯巴尔贝 Miki Esparbé"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358998/",
+      "name": "埃米利奥·帕拉西奥斯 Emilio Palacios"
+    }
+  ]
+,
+  "datePublished": "2016-06-10",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H33M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "48",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

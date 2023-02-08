@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Focus",
+  "url": "/subject/25813317/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279819/",
+      "name": "Stéphane Cabel Stéphane Cabel"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014218/",
+      "name": "西尔维·泰斯蒂 Sylvie Testud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022733/",
+      "name": "马修·卡索维茨 Mathieu Kassovitz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028519/",
+      "name": "马修·德米 Mathieu Demy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018199/",
+      "name": "埃里克·坎通纳 Eric Cantona"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

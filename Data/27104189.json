@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "敦刻尔克行动 Operation Dunkirk",
+  "url": "/subject/27104189/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495025258.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045710/",
+      "name": "尼克·里昂 Nick Lyon"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322280/",
+      "name": "伊弗兰·梅勒蒂斯 Ifan Meredith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442754/",
+      "name": "金伯利·休斯 Kimberley Hews"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442756/",
+      "name": "迈克尔·沃特斯 Michael Wouters"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442757/",
+      "name": "凯尔·霍茨 Kyle Hotz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442758/",
+      "name": "泰勒·科尔 Tyler Cole"
+    }
+  ]
+,
+  "datePublished": "2017-07-03",
+  "genre": ["\u52a8\u4f5c", "\u5386\u53f2", "\u6218\u4e89"],
+  "duration": "PT1H35M",
+  "description": "敦克尔克大撤退期间，一支军事小队奉命执行秘密任务，深入敌营拯救一位握有能够扭转战争局势情报的科学家。在腹背受敌、孤立无援的局面下，他们必须想办法在纳粹占领区杀出一条血路，完成这个不可能的任务……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3274",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "莱娜 레나",
+  "url": "/subject/26682383/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2337082902.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443081/",
+      "name": "김도원 Kim Do-Won"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374577/",
+      "name": "许成泰 Seong-tae Heo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388284/",
+      "name": "孙光业 Kwang-up Son"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423707/",
+      "name": "金根英 Geun-Young Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423893/",
+      "name": " "
+    }
+  ]
+,
+  "datePublished": "2016-05-26",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H56M",
+  "description": "梦想着新生活而来到韩国的莱娜(朴奇琳饰)与在农村种植绿茶的老光棍顺具(金民材饰)像是温暖春日的礼物一般的爱情袅袅袭来",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "118",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "租婚男女",
+  "url": "/subject/27118144/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2496840706.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379696/",
+      "name": "屈建龙 Jianlong Qu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324860/",
+      "name": "田家达 Jenson Tien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318068/",
+      "name": "陈美行 Meixing Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379698/",
+      "name": "何宗龙 Zonglong He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327957/",
+      "name": "李嘉诺 Jianuo Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363556/",
+      "name": "肜耀忠 Yaozhong Rong"
+    }
+  ]
+,
+  "datePublished": "2017-08-28",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H32M",
+  "description": "一对恐婚的单身男女，面对家人威逼，只得通过一张婚姻体验合约来彼此治疗恐婚。没想到，这种体验式的“假恋爱”，却有了意想不到的结果...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

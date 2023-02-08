@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "车祸惊魂 Accident",
+  "url": "/subject/26274151/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2476727299.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376487/",
+      "name": "丹·托多夫斯基 Dan Tondowski"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376487/",
+      "name": "丹·托多夫斯基 Dan Tondowski"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327821/",
+      "name": "罗克珊·海沃德 Roxane Hayward"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1239038/",
+      "name": "卡尔·桑宁 Karl Thaning"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H35M",
+  "description": "青春靓丽的女孩杰丝（斯蒂芬妮·席尔德克内希特 Stephanie Schildknecht 饰）和卡洛琳（罗克珊·海沃德 Roxane Hayward 饰）结伴前往异地参加盛大的音乐节，由于两人忘带长...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "274",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.8"
+  }
+}

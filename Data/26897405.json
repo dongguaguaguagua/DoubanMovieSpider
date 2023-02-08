@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乱莺 乱鶯",
+  "url": "/subject/26897405/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2461995492.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037957/",
+      "name": "古田新太 Arata Furuta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034275/",
+      "name": "稻森泉 Izumi Inamori"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275037/",
+      "name": "大东骏介 Shunsuke Daito"
+    }
+  ]
+,
+  "datePublished": "2016-10-30",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT3H4M",
+  "description": "著名的侠盗十三郎因为被其随从所背叛而失去了他所有的兄弟。他身受重伤却幸运地被巡逻官贞右卫门和经营着一家客栈的夫妻勘助与加代所救助。十三郎在那里一直过着退隐的生活，并改名为源三郎。多年后，勘助因病逝世，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "159",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.7"
+  }
+}

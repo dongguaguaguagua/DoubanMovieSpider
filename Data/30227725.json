@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小悟空",
+  "url": "/subject/30227725/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526767688.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396597/",
+      "name": "叶伟青 Felix Ip"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396598/",
+      "name": "王以立 Paul Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051611/",
+      "name": "阿伦·门德尔松 Aaron Mendelsohn"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350763/",
+      "name": "林兰 Lan Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341265/",
+      "name": "杨天翔 Tianxiang Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325740/",
+      "name": "郭政建 Zhengjian Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384029/",
+      "name": "张遥函 Yaohan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386908/",
+      "name": "陆庚宜 Gengyi Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343032/",
+      "name": "图特哈蒙 Sheng Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340112/",
+      "name": "林强 Qiang Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395300/",
+      "name": "陈子平 Ziping Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351471/",
+      "name": "翟昱霖 Yulin Zhai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340208/",
+      "name": "张馨予 Xinyu Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-07-14",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H25M",
+  "description": "大森原本是一只动物园里的金丝猴，他梦想自己有一天能成为——齐天大圣孙悟空。 大森与管理员观观有着深厚的友谊，有一天，神秘怪物把观观绑架去了纽约，这背后的原因竟然和几千年前孙悟空师降妖除魔有着莫大的联系...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1177",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

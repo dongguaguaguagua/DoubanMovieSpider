@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "告别 告別",
+  "url": "/subject/27011802/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2544810392.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395838/",
+      "name": "许立达 Li-da Hsu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395838/",
+      "name": "许立达 Li-da Hsu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189122/",
+      "name": "李铭顺 Lee Ming Shun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317166/",
+      "name": "陈庭妮 Annie Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275885/",
+      "name": "郑家榆 Carol Cheng Chia Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358342/",
+      "name": "张再兴 Tsai-Hsing Chang"
+    }
+  ]
+,
+  "datePublished": "2017-04-02",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H30M",
+  "description": "一個清冷的早晨
+露宿街頭的熊青被人發現倒臥在他的大小行李廂旁
+已無氣息
+熊青的身上和行李箱裡沒有身分證
+只有一堆書、衣服和幾張聖誕卡
+聖誕卡沒有信封
+鄉公所處理遊民的承辦人員
+只好試著打卡片上署名『育...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "126",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

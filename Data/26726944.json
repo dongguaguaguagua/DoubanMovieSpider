@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异邦警察 电影版 ディアスポリス -DIRTY YELLOW BOYS-",
+  "url": "/subject/26726944/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2362160205.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050733/",
+      "name": "熊切和嘉 Kazuyoshi Kumakiri"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050733/",
+      "name": "熊切和嘉 Kazuyoshi Kumakiri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321623/",
+      "name": "守屋文雄 Fumio Moriya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434801/",
+      "name": "长崎尚志 Takashi Nagasaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434799/",
+      "name": "杉村伸一 Shin&#39;ichi Sugimura"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050791/",
+      "name": "松田翔太 Shota Matsuda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316095/",
+      "name": "滨野谦太 Kenta Hamano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029983/",
+      "name": "须贺健太 Kenta Suga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034265/",
+      "name": "柳泽慎吾 Shingo Yanagisawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274350/",
+      "name": "安藤樱 Sakura Andô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1458692/",
+      "name": "木原胜利 Masatoshi Kihara"
+    }
+  ]
+,
+  "datePublished": "2016-09-03",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H55M",
+  "description": "故事讲述在东京地下，有高达15万人的非法入境者，这些异邦人成立了自己的秘密政府，松田翔太饰演的异邦警察则游走在这个灰暗的地下世界。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "863",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

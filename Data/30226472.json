@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Doll Murder Spree",
+  "url": "/subject/30226472/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522508234.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1266530/",
+      "name": " Reyna Young"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1266530/",
+      "name": " Reyna Young"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1194305/",
+      "name": "John Crosthwaite John Crosthwaite"
+    }
+  ]
+,
+  "datePublished": "2017-10-24",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "A group of college students join their teacher for a weekend of filming for extra credit. Documentin...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

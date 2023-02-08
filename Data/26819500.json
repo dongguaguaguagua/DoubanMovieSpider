@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "My First Kiss and the People Involved",
+  "url": "/subject/26819500/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2360243883.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438292/",
+      "name": "波比·萨尔沃·门努兹 Bobbi Salvör Menuez"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H21M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

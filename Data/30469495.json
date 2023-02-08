@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狂舞杀机 Beat Street",
+  "url": "/subject/30469495/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2549235527.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1085653/",
+      "name": "Thomas Mikal Ford Thomas Mikal Ford"
+    }
+  ]
+,
+  "datePublished": "2016-12-31",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H30M",
+  "description": "A washed up police chief must team up with a rookie detective to infiltrate an underground hip-hop d...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拐个弯儿遇见你",
+  "url": "/subject/30217605/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2521644342.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400685/",
+      "name": "陈聚力 Juli Chen"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317128/",
+      "name": "王泊文 Bowen Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468555/",
+      "name": "赵义 Yi Zhao"
+    }
+  ]
+,
+  "datePublished": "2018-05-14",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "本片讲述了三个因误会而分道扬镳的好友，7年后重遇，摒弃前嫌并携手创业的故事。主人公池岳与陆徙曾是the FIT最优的毕业生——一个是备受瞩目的时装设计师，一个是才华横溢的天才画家，彼此是最好的朋友亦是...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

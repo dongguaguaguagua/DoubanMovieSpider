@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "斯雷布雷尼察 Srebrenica",
+  "url": "/subject/26775524/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037368/",
+      "name": "亚斯米拉·日巴尼奇 Jasmila Žbanić"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037368/",
+      "name": "亚斯米拉·日巴尼奇 Jasmila Žbanić"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

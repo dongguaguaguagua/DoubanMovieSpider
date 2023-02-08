@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Deserto",
+  "url": "/subject/30133266/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2512315853.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1082722/",
+      "name": "利马·杜阿尔特 Lima Duarte"
+    }
+  ]
+,
+  "datePublished": "2017-09-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "A small group of artists travels the Brazilian backlands presenting a show. Upon arriving in a small...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

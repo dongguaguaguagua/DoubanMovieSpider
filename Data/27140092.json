@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新无主之花 신어우동",
+  "url": "/subject/27140092/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2499060176.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378601/",
+      "name": "金泰修 Tae-soo Kim"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436148/",
+      "name": "金仁爱 In-ae Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436156/",
+      "name": "李多敏 Da-min Lee"
+    }
+  ]
+,
+  "datePublished": "2017-09-26",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60c5\u8272"],
+  "duration": "PT1H33M",
+  "description": "因为於宇同，附近的男人不能在晚上睡觉！於宇同逃脱之前，她可能因为破坏而被捕。 她逃跑到一个她跌倒的村庄，失去了记忆。 镇上的一名学士找到她并护士回到身体健康。 他告诉於宇同留在他身边，直到她重获记忆。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "179",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鬼精灵归来 Leprechaun Returns",
+  "url": "/subject/30401329/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542374903.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373235/",
+      "name": "史蒂文·科斯坦斯基 Steven Kostanski"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193869/",
+      "name": "泰勒·斯波瑞特勒 Taylor Spreitler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316138/",
+      "name": "本·麦克格雷格 Ben McGregor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339474/",
+      "name": "赛·班尼特 Sai Bennett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1233419/",
+      "name": "林登·波尔科 Linden Porco"
+    }
+  ]
+,
+  "datePublished": "2018-12-11",
+  "genre": ["\u559c\u5267", "\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "PT1H26M",
+  "description": "The Leprechaun returns once again, when a group of girls unwillingly awaken him, when they tear down...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "118",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.1"
+  }
+}

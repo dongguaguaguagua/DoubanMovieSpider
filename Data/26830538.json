@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Maalai Nerathu Mayakkam",
+  "url": "/subject/26830538/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2364546841.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399648/",
+      "name": "瓦米恰·嘉碧 Wamiqa Gabbi"
+    }
+  ]
+,
+  "datePublished": "2016-01-01",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT2H3M",
+  "description": "Manoja, a girl accustomed with the western style of life and a typically introvert Prabhu, who has n...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

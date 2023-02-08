@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心生",
+  "url": "/subject/26891881/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2388935928.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357466/",
+      "name": "王奕达 Yida Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357466/",
+      "name": "王奕达 Yida Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325503/",
+      "name": "张蓓蓓 Beibei Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "荣获第四届重庆青年电影节最佳艺术贡献奖，影片由四个独立的小故事组成，分别讲述了中国的被拐卖儿童、空巢老人、婚内强奸、幻灭。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

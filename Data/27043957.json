@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "虚拟实惊 Otherlife",
+  "url": "/subject/27043957/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2503249391.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384327/",
+      "name": "本·C·卢卡斯 Ben C. Lucas"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384328/",
+      "name": "凯利·埃斯克里奇 Kelley Eskridge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384327/",
+      "name": "本·C·卢卡斯 Ben C. Lucas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358858/",
+      "name": "格雷戈里·威顿 Gregory Widen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324725/",
+      "name": "杰西卡·德·古维 Jessica De Gouw"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348674/",
+      "name": "托马斯·康奎尔 Thomas Cocquerel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356697/",
+      "name": "TJ·鲍尔 Tj Power"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384330/",
+      "name": "利亚姆·格雷厄姆 Liam Graham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384332/",
+      "name": "普丽西拉-安妮·福德 Priscilla-Anne Forder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384331/",
+      "name": "侯宣德 Hoa Xuande"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384329/",
+      "name": "莎罗姆·布龙-富兰克 Shalom Brune-Franklin"
+    }
+  ]
+,
+  "datePublished": "2017-06-16",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H36M",
+  "description": "仁·阿玛瑞发明了革命性的药品型软件，可直接在人类大脑中创造虚拟现实，仅几秒钟就能体验几小时或几天的激动人心的冒险。仁要拯救弟弟于记忆迷局，而合作伙伴一心只想赚取利益，但是一切都是记忆连环套……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5176",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

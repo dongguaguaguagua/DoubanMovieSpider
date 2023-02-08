@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Edge of Insanity",
+  "url": "/subject/27093736/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2493616739.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071517/",
+      "name": "丝柯·泰勒-考普顿 Scout Taylor-Compton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036966/",
+      "name": "AJ·鲍恩 AJ Bowen"
+    }
+  ]
+,
+  "datePublished": "2017-10-05",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Feeling guilty about her parents death and determined to live up to their expectations, Rylee will s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

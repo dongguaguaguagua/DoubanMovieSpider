@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Under the Bridge",
+  "url": "/subject/27042508/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2458882864.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027867/",
+      "name": "乌多·基尔 Udo Kier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1109510/",
+      "name": "哈基姆·凯-卡西姆 Hakeem Kae-Kazim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1264266/",
+      "name": "艾比·侯斯 Abbey Hoes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340612/",
+      "name": "布莱恩·帕利 Bryan Parry"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "A video blogger&#39;s desperate search for his girlfriend, only visible via his video camera as hostile ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

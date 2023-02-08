@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "明明是TA先喜欢我的",
+  "url": "/subject/30312172/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2532527482.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400077/",
+      "name": "鲍天骄 Tianjiao Bao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402419/",
+      "name": "柳禹安 "
+    }
+  ]
+,
+  "datePublished": "2018-11-02",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "故事讲述了陆凉茶是蔚蓝高中最最平凡的一名女孩,在公交车上遇到了学校炙手可热的高冷校草秦圣逸。此时的她还不知自己面前的这个男孩将会改变她平凡普通的高中生活。一次路过,凉茶偶遇一名同年级的女孩向秦圣逸告白...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

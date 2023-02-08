@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "嗜血追凶",
+  "url": "/subject/28511336/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2511080294.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328161/",
+      "name": "朱睿 Rui Zhu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369578/",
+      "name": "高瀚宇 Hanyu Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368555/",
+      "name": "赵婉婷 Wanting Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329519/",
+      "name": "维妮 ViNi"
+    }
+  ]
+,
+  "datePublished": "2018-01-21",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591", "\u5947\u5e7b"],
+  "duration": "PT1H2M",
+  "description": "《嗜血追凶》讲述了一个扮成“小丑”模样的杀手突然开始连续屠杀人猿家族，警署委托蓝爵探案小组展开调查，在一次地下格斗中“小丑”的真面目被蓝爵揭开，故事开始往意想不到的方向发展，出人意料的是，这背后竟然牵...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

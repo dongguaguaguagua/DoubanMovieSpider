@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "白鲸之恋",
+  "url": "/subject/26887007/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2685138946.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417829/",
+      "name": "林晓丽 Xiaoli Lin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322715/",
+      "name": "柳桦 Hua Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361550/",
+      "name": "楚月 Chuyue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351876/",
+      "name": "王燕阳 Yanyang Wang"
+    }
+  ]
+,
+  "datePublished": "2016-10-04",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H33M",
+  "description": "电影《白鲸之恋》以白鲸的拟人视角，讲述四个年轻的驯养员在海洋馆里的工作与爱情，他们放弃业余休闲生活，他们到了婚恋年龄却没有精力顾及考虑，他们拿着微薄的薪水，他们是当下最普通青年的写照，没有做着听起来高...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

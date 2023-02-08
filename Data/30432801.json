@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "八月 مرداد",
+  "url": "/subject/30432801/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2595700714.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435968/",
+      "name": "巴赫曼·卡姆亚 Bahman Kamyar"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435968/",
+      "name": "巴赫曼·卡姆亚 Bahman Kamyar"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-06-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H12M",
+  "description": "A young couple after many years from their marriage are after having a baby but because of some medi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

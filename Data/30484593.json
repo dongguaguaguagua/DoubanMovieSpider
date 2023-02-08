@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夺宝同盟",
+  "url": "/subject/30484593/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550177638.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316006/",
+      "name": "范雨林 Yulin Fan"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316006/",
+      "name": "范雨林 Yulin Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344400/",
+      "name": "汪奇 Qi Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320035/",
+      "name": "夏添 Tian Xia"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H22M",
+  "description": "二十世纪三十年代，各国势力纷纷涌入上海。在都市的浮华背后，各国各方势力明争暗斗。一些自发兴起的爱国组织，在错综复杂的局势中与法西斯等恶势力展开殊死较量。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

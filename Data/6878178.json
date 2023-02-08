@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Life of the Party",
+  "url": "/subject/6878178/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499255607.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1075610/",
+      "name": "霍莉布里斯利 Holly Brisley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319984/",
+      "name": "克里斯托弗·卡比 Christopher Kirby"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1213266/",
+      "name": "Greg Eccleston Greg Eccleston"
+    }
+  ]
+,
+  "datePublished": "2017-07-07",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "A touching comedy drama about 3 friends edging towards their mid thirties who, in an attempt to hang...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

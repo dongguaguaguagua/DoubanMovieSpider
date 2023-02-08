@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "穿越白色空间 Beyond White Space",
+  "url": "/subject/25737055/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542538466.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018104/",
+      "name": "祖蕾·亨奥 Zulay Henao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323050/",
+      "name": "麦克斯·查尔斯 Max Charles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433793/",
+      "name": "刘恒 Telly Liu"
+    }
+  ]
+,
+  "datePublished": "2018-12-14",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H33M",
+  "description": "When a deep space fishing vessel is robbed by a gang of pirates, the Captain makes a daring decision...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "401",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.4"
+  }
+}

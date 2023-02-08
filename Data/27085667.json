@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狂覗",
+  "url": "/subject/27085667/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2491378519.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051580/",
+      "name": "藤井秀刚 Shugo Fujii"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051580/",
+      "name": "藤井秀刚 Shugo Fujii"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-07-22",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H21M",
+  "description": "中学生教师在濒死状态下被发现。犯人很有可能是该校的学生。被强加了责任的科学教师森林，有必要掌握中学生的现状，计划突击行李检查。虽说是突然袭击，但也不是普通的突击行李检查。学生们不和气。这是学生在体育课...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "150",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黄天厚土",
+  "url": "/subject/26898858/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2628945947.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322303/",
+      "name": "高力强 Liqiang Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319881/",
+      "name": "崔民 Min Cui"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328964/",
+      "name": "李帅 Shuai Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327883/",
+      "name": "郑心潼 Xintong Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328508/",
+      "name": "康琳浠 Lingxi Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425904/",
+      "name": "范桢 Zhen Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457360/",
+      "name": "王兰武 Lanwu Wang"
+    }
+  ]
+,
+  "datePublished": "2016-10-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H36M",
+  "description": "河西走廊山丹农村，走来了一对身背行装的年轻夫妇——来自北京的应届医科院校毕业生齐为民和赵小莲。他们的命运从这片土地着笔书写……这是电影《黄天厚土》的开场故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

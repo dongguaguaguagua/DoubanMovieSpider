@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超能暴力对决 Meza",
+  "url": "/subject/27665171/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2513404318.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350747/",
+      "name": "丹尼斯·秋山 Denis Akiyama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323884/",
+      "name": "斯科特·卡瓦列罗 Scott Cavalheiro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071315/",
+      "name": "阿莫斯·克劳利 Amos Crawley"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "PT1H11M",
+  "description": "一名问题高中生大卫，似乎受心理疾病之苦。他莫名被不明人士追杀，因此发现隐藏在体内的暗黑力量，开启通往超能力世界的大门与发现他不为人知的过去…",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "292",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "特勤 특근",
+  "url": "/subject/26882240/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2388693359.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351552/",
+      "name": "尹昌业 Andy Yoon"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315571/",
+      "name": "金相中 Sang-joong Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193404/",
+      "name": "金康宇 Kang-woo Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316888/",
+      "name": "周元 Won Joo"
+    }
+  ]
+,
+  "datePublished": "2016-10-21",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "PT0H35M",
+  "description": "该片讲述的是被怪物占领的韩国，特殊要员们展开反击血斗的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "132",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

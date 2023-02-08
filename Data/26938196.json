@@ -1,0 +1,49 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2016FNS歌谣祭",
+  "url": "/subject/26938196/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2406718573.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275384/",
+      "name": "渡部建 Ken Watabe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316666/",
+      "name": "森高千里 Chisato Moritaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338261/",
+      "name": "加藤绫子 Ayako Kato"
+    }
+  ]
+,
+  "datePublished": "2016-12-07",
+  "genre": ["\u6b4c\u821e"],
+  "duration": "",
+  "description": "第一夜 http://www.bilibili.com/video/av7446671/
+第二夜 http://www.bilibili.com/video/av7546511/",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

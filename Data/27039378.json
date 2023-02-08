@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "今夜在浪漫剧场 今夜、ロマンス劇場で",
+  "url": "/subject/27039378/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2546938024.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316913/",
+      "name": "武内英树 Hideki Takeuchi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409337/",
+      "name": "宇山佳佑 Keisuke Uyama"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035655/",
+      "name": "绫濑遥 Haruka Ayase"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340281/",
+      "name": "坂口健太郎 Kentaro Sakaguchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317932/",
+      "name": "本田翼 Tsubasa Honda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012650/",
+      "name": "北村一辉 Kazuki Kitamura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275331/",
+      "name": "中尾明庆 Akinobu Nakao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314182/",
+      "name": "石桥杏奈 Ishibashi Anna"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042056/",
+      "name": "柄本明 Akira Emoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006454/",
+      "name": "加藤刚 Go Kato"
+    }
+  ]
+,
+  "datePublished": "2018-02-10",
+  "genre": ["\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H49M",
+  "description": "大电影制片厂即将步入黄昏时代之际，在某电影厂担任副导演的青年健司（坂口健太郎 饰）经历了人生刻骨铭心的邂逅。此前他在某座电影院内发现一卷被废弃的胶片，胶片中的电影女主角男人头公主（绫濑遥 饰）令他神魂...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "39143",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

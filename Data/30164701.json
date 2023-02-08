@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蒙特利尔不归路 Montréal la blanche",
+  "url": "/subject/30164701/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2515787585.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1271205/",
+      "name": " Karim Benzaid"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H27M",
+  "description": "One Christmas evening in Montreal, Amokrane, an Algerian taxi driver, picks up Kahina, a former pop ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "117",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

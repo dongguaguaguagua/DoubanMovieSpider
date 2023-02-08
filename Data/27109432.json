@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "氏梅 Thi Mai",
+  "url": "/subject/27109432/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2495690264.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283638/",
+      "name": "帕特里夏·费雷拉 Patricia Ferreira"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343579/",
+      "name": "玛塔·桑切斯 Marta Sánchez"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1156331/",
+      "name": "艾塔娜·桑切斯-希洪 Aitana Sánchez-Gijón"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342567/",
+      "name": "丹尼·罗维拉 Dani Rovira"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193676/",
+      "name": "卡门·马奇 Carmen Machi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1131777/",
+      "name": "阿德里亚娜·奥佐雷斯 Adriana Ozores"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303222/",
+      "name": "路易斯·贝尔梅霍 Luis Bermejo"
+    }
+  ]
+,
+  "datePublished": "2017-10-06",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Carmen learns that her daughter Maria died in an accident. After a couple of days, she decides to go...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "97",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

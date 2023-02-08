@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "萤火虫 জোনাকি",
+  "url": "/subject/30170741/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2516371076.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353129/",
+      "name": "阿蒂提雅·维克拉姆·森古普塔 Aditya Vikram Sengupta"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353129/",
+      "name": "阿蒂提雅·维克拉姆·森古普塔 Aditya Vikram Sengupta"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387788/",
+      "name": "吉姆·萨伯 Jim Sarbh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436204/",
+      "name": "洛丽塔·查特吉 Lolita Chatterjee"
+    }
+  ]
+,
+  "datePublished": "2018-01-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "“Jonaki”在孟加拉语中是萤火虫的意思。他们闪烁着，并在每一次闪烁间前行。导演的祖母告诉他，在日本民间故事里，逝去之人的灵魂会化作萤火虫，在森林间漫游。导演深爱祖母，该影片的创作灵感便是来自祖母的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "737",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

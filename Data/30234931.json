@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三界",
+  "url": "/subject/30234931/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523422692.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394392/",
+      "name": "靳斌 Bin Jin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394392/",
+      "name": "靳斌 Bin Jin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385231/",
+      "name": "李恰 Qia Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394393/",
+      "name": "刘成 Cheng Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356324/",
+      "name": "张治中 Zhizhong Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387987/",
+      "name": "宋恩逸 Enyi Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394620/",
+      "name": "潘宜刚 Yigang Pan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394621/",
+      "name": "焦祺越 Qiyue Jiao"
+    }
+  ]
+,
+  "datePublished": "2018-05-31",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591"],
+  "duration": "PT1H35M",
+  "description": "游戏设计师赵午竹为了纪念不幸离世的女友莫雪颜而设计了一个高度仿真的数字虚拟社区——云泉谷。莫雪颜在虚拟社区得以复活，可商人杜平却想利用这个虚拟社区纵情享乐，经过一系列曲折奇幻的斗智斗勇，云泉谷重归美丽...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

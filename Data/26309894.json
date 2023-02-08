@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "油腻凶手 The Greasy Strangler",
+  "url": "/subject/26309894/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2389934948.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366496/",
+      "name": "吉姆·霍斯金 Jim Hosking"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366496/",
+      "name": "吉姆·霍斯金 Jim Hosking"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187586/",
+      "name": "Toby Harvard Toby Harvard"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1150864/",
+      "name": "迈克尔·圣迈克尔斯 Michael St. Michaels"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340696/",
+      "name": "阿卜杜拉耶·恩戈姆 Abdoulaye NGom"
+    }
+  ]
+,
+  "datePublished": "2016-10-07",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H33M",
+  "description": "When a father-and-son relationship gets stuck, just apply a liberal dose of grease. Literally. But w...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "155",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

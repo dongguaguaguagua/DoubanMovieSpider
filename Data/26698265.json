@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "罗丹 Rodin",
+  "url": "/subject/26698265/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2460195231.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032699/",
+      "name": "雅克·杜瓦隆 Jacques Doillon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032699/",
+      "name": "雅克·杜瓦隆 Jacques Doillon"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010741/",
+      "name": "文森特·林顿 Vincent Lindon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045835/",
+      "name": "赛芙琳·卡尼尔 Séverine Caneele"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1458717/",
+      "name": "Lea Jackson Lea Jackson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014523/",
+      "name": "安德斯·丹尼尔森·李 Anders Danielsen Lie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468045/",
+      "name": "洛朗·波瓦特诺 Laurent Poitrenaux"
+    }
+  ]
+,
+  "datePublished": "2017-05-24",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT1H59M",
+  "description": "《爱情战场》法国导演雅克·杜瓦隆编导，文森特·林顿主演。为纪念法国雕塑家罗丹逝世100周年的剧情电影，描述罗丹与女学生、未婚妻间的情爱纠葛。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "584",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

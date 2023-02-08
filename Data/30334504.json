@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Lady Killers",
+  "url": "/subject/30334504/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535114757.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1234074/",
+      "name": "李柯莫拉 Rick Mora"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476085/",
+      "name": "惠特尼·安德森 Whitney Anderson"
+    }
+  ]
+,
+  "datePublished": "2017-03-26",
+  "genre": ["\u559c\u5267", "\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H49M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

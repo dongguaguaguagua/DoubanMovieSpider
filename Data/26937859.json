@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迷宫 Maze",
+  "url": "/subject/26937859/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2500084601.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279652/",
+      "name": "Stephen Burke Stephen Burke"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279652/",
+      "name": "Stephen Burke Stephen Burke"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332428/",
+      "name": "汤姆-沃恩-劳勒 Tom Vaughan-Lawlor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344660/",
+      "name": "巴里·沃德 Barry Ward"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009371/",
+      "name": "马丁·麦凯恩 Martin McCann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300354/",
+      "name": "艾琳·沃尔什 Eileen Walsh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373757/",
+      "name": "蒂姆·克里德 Tim Creed"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1173800/",
+      "name": "Seán T. Ó Meallaigh Seán T. Ó Meallaigh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367554/",
+      "name": "艾登·奥黑尔 Aidan O&#39;Hare"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467671/",
+      "name": "基利安·奥沙利文 Cillian O&#39;Sullivan"
+    }
+  ]
+,
+  "datePublished": "2017-09-22",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2", "\u72af\u7f6a"],
+  "duration": "PT1H32M",
+  "description": "Inspired by the true events of the infamous 1983 prison breakout of 38 IRA prisoners from HMP, which...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "248",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "所有关于爱的歌 Todas as Canções de Amor",
+  "url": "/subject/34459705/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2575978186.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1026363/",
+      "name": "罗伯托·维托里诺 Roberto Vitorino"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1194716/",
+      "name": "玛丽娜·辉·巴尔博萨 Marina Ruy Barbosa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1100250/",
+      "name": "布鲁诺·加利亚索 Bruno Gagliasso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1114959/",
+      "name": "露易扎·玛丽安妮 Luíza Mariani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277238/",
+      "name": "儒利奥·安德拉德 Júlio Andrade"
+    }
+  ]
+,
+  "datePublished": "2018-11-08",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H32M",
+  "description": "Chico and Ana move to an apartment in São Paulo. As they unpack Ana found a cassette tape. It&#39;s a mi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "114",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

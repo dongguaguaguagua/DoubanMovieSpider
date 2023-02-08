@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大三角 The Triangle",
+  "url": "/subject/26831954/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2365022269.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310324/",
+      "name": "David Blair David Blair"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310324/",
+      "name": "David Blair David Blair"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-06-28",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H34M",
+  "description": "Three filmmakers receive an unsettling postcard from an estranged friend living in a secluded commun...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

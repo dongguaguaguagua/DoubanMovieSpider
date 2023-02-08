@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "泳往直前",
+  "url": "/subject/27017262/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2586122187.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274914/",
+      "name": "果靖霖 Jinglin Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420047/",
+      "name": "朱玮菱 Weiling Zhu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H32M",
+  "description": "该片讲述了一个单纯可爱、爽朗善良的农村女孩佟阿美锲而不舍追逐游泳梦想的故事。阿美积极向上的精神感动了因痛失爱人而一蹶不振地世锦赛游泳项目亚军———男主角石淼，振作后的石淼千方百计帮助阿美延续她的梦想，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "113",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

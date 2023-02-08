@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Dharma Durai",
+  "url": "/subject/27147481/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2499620414.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339193/",
+      "name": "维杰·西图帕提 Vijay Sethupathi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377627/",
+      "name": "艾西瓦娅·拉杰什 Aishwarya Rajesh"
+    }
+  ]
+,
+  "datePublished": "2016-08-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H27M",
+  "description": "A doctor in a village redeems himself after losing his way.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

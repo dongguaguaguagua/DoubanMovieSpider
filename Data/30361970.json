@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "平静的拳头",
+  "url": "/subject/30361970/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2538042499.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318099/",
+      "name": "蒋丛 Michael Chiang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318099/",
+      "name": "蒋丛 Michael Chiang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404490/",
+      "name": "任萧楠 Xiaonan Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369845/",
+      "name": "崔友斌 Youbin Cui"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H28M",
+  "description": "性格暴躁的何力，跟随家庭来到新环境任职。因好斗的性格被王子岳利用，校花徐淼引诱，进行了一场不公平的拳赛。被羞辱后寻求教练崔志斌的帮助，克服了性格上的弱点，不仅战胜了对手，更战胜了自己。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

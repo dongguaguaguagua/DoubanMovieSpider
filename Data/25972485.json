@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "六盘山之恋",
+  "url": "/subject/25972485/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2609071056.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340821/",
+      "name": "杨竣羽 Junyu Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342668/",
+      "name": "秦鸣悦 Mingyue Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318313/",
+      "name": "韩月乔 Yueqiao Han"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H34M",
+  "description": "该影片故事情节以“怀揣音乐梦想 的北京青年来到风光秀丽的六盘山亲 身感受花儿家乡之美、寻找西部歌王 王洛宾足迹”为故事主线，讲述了男女 主人公因音乐碰撞产生共鸣，解开他 们对生活及情感人生的迷茫和失意...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "诉讼 Legal Action",
+  "url": "/subject/30345834/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2536641978.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018006/",
+      "name": "艾瑞克·克罗斯 Eric Close"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1191020/",
+      "name": "坦娅·克拉克 Tanya Clarke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031994/",
+      "name": "尼克·瑟西 Nick Searcy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1081424/",
+      "name": "汤米·弗拉纳根 Tommy Flanagan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045448/",
+      "name": "凯文·塞兹摩尔 Kevin Sizemore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304851/",
+      "name": "克里斯蒂安·詹姆斯 Christian James"
+    }
+  ]
+,
+  "datePublished": "2018-10-10",
+  "genre": ["\u52a8\u4f5c", "\u897f\u90e8"],
+  "duration": "PT1H29M",
+  "description": "刚刚出狱的钱伯斯，面对来接自己的老友布靴和蛙仔，异常兴奋。三人去找钱伯斯原来的黑社会老大盖兹，表示自己不愿意混黑社会了。盖兹指使手下杀死布靴和蛙仔，并以钱伯斯儿子威胁钱伯斯，必须替自己干最后一票：杀死...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "86",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Youtube：2017回放 YouTube Rewind: The Shape of 2017",
+  "url": "/subject/27602500/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2589636283.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048168/",
+      "name": "史蒂芬·寇贝尔 Stephen Colbert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433145/",
+      "name": "马克·费施巴赫 Mark Fischbach"
+    }
+  ]
+,
+  "datePublished": "2017-11-06",
+  "genre": ["\u6b4c\u821e"],
+  "duration": "",
+  "description": "Celebrating the videos, people, music and memes that made 2017.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

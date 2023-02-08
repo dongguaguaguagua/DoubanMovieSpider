@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "他的烂摊子 The Mess He Made",
+  "url": "/subject/27157841/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2500469142.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446588/",
+      "name": "马修·普契尼 Matthew Puccini"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-03-11",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT0H11M",
+  "description": "A man spends 15 minutes waiting for the results of a Rapid HIV Test.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

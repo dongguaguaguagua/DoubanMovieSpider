@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "兰伽斯塔拉姆恩仇录 Rangasthalam",
+  "url": "/subject/30141476/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512861990.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317560/",
+      "name": "拉姆·查兰·特哈 Ram Charan Teja"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267011/",
+      "name": "萨曼莎·鲁斯·帕布 Samantha Ruth Prabhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358884/",
+      "name": "普嘉·海婅 Pooja Hegde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294867/",
+      "name": "普拉卡什·拉贾 Prakash Raj"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427036/",
+      "name": "阿迪 Aadhi"
+    }
+  ]
+,
+  "datePublished": "2018-03-30",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT2H50M",
+  "description": "兰伽斯塔拉姆村，一个饱受独裁村长和协会高利贷折磨的村庄。主人公奇提巴布（拉姆 . 查兰）是一个先天听力障碍的人。他的哥哥给一个叫做拉玛拉克希米（萨曼莎）的女孩出头，结果在村务委员会上受到了协会会长的侮...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "191",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

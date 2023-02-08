@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Char Man",
+  "url": "/subject/30226471/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522508230.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328956/",
+      "name": "库尔特·埃拉 Kurt Ela"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1159901/",
+      "name": "Kipp Tribble Kipp Tribble"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328956/",
+      "name": "库尔特·埃拉 Kurt Ela"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1159901/",
+      "name": "Kipp Tribble Kipp Tribble"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328956/",
+      "name": "库尔特·埃拉 Kurt Ela"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1159901/",
+      "name": "Kipp Tribble Kipp Tribble"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346568/",
+      "name": "Nick Greco Nick Greco"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "Two friends visit fire-ravaged Ojai, California, intent on making a fake documentary about the infam...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

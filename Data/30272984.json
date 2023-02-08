@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "致命关系",
+  "url": "/subject/30272984/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2527989603.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382583/",
+      "name": "余斌 Bin Yu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382583/",
+      "name": "余斌 Bin Yu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341683/",
+      "name": "吴永淦 Yonggan Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390298/",
+      "name": "亚孟乐 Anson"
+    }
+  ]
+,
+  "datePublished": "2018-07-17",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT2H0M",
+  "description": "徐正阳，一名从部队退伍的军人。妻子过世以後女儿也因病过世了，因为长期为女儿治病徐正阳就欠下一堆债務，在拳击馆当教练陪练赚钱还债。之後突然遇上了高乐乐，开始一段临时父女的生活，也改变了两个人的命运。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

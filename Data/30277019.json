@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Mayaanadhi",
+  "url": "/subject/30277019/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2528302112.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426794/",
+      "name": "托维诺·托马斯 Tovino Thomas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428260/",
+      "name": "哈里什·乌达曼 Harish Uthaman"
+    }
+  ]
+,
+  "datePublished": "2017-12-22",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT2H16M",
+  "description": "The life of Mathan, a mule driver in a gang and Aparna an aspiring actress.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

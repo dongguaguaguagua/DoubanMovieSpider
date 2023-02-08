@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "摇曳多姿的睡莲 Rüzgarda Salınan Nilüfer",
+  "url": "/subject/26735065/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2337266664.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332533/",
+      "name": "塞伦·于斯 Seren Yüce"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332533/",
+      "name": "塞伦·于斯 Seren Yüce"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210213/",
+      "name": "Songül Öden Songül Öden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330760/",
+      "name": "托尔加·特肯 Tolga Tekin"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H47M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀手 Tueurs",
+  "url": "/subject/30207741/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520991290.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007257/",
+      "name": "吉奥达诺·戈德里尼 Giordano Gederlini"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012611/",
+      "name": "奥利维埃·古尔梅 Olivier Gourmet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314431/",
+      "name": "卢巴纳·阿兹巴尔 Lubna Azabal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176878/",
+      "name": "凯文·扬森斯 Kevin Janssens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048406/",
+      "name": "伯利·兰内尔 Bouli Lanners"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361520/",
+      "name": "奥利弗·邦泽 Olivier Bonjour"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317739/",
+      "name": "安妮·考森斯 Anne Coesens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401004/",
+      "name": "斯蒂芬妮·克雷恩考尔 Stéphanie Crayencour"
+    }
+  ]
+,
+  "datePublished": "2017-09-05",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H26M",
+  "description": "The film tells the story of Frank Valken, a notorious robber who easily commit a last great assault....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "158",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

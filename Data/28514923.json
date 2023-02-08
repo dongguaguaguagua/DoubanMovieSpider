@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "第六个人",
+  "url": "/subject/28514923/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2511077113.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336674/",
+      "name": "赵曦夕 Elsie Zhao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336674/",
+      "name": "赵曦夕 Elsie Zhao"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-01-23",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "患有狂躁症的方瑾来到了身为心理医生的朋友孙琦的家中，一个名为“空谷幽兰”的郊野别墅。然而她却没有见到孙琦反而是见到了一个自称是孙琦朋友的奇怪男人——家铭。家铭对方瑾很照顾，但这让方瑾起了疑心。家铭煲得...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

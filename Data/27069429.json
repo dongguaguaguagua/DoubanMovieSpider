@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大侠",
+  "url": "/subject/27069429/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2463005291.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359486/",
+      "name": "徐俊 Jun Xu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359486/",
+      "name": "徐俊 Jun Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359486/",
+      "name": "徐俊 Jun Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395383/",
+      "name": "雷蒙 Lei Meng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454671/",
+      "name": "钱门超 Menchao Qian"
+    }
+  ]
+,
+  "datePublished": "2017-07-20",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H30M",
+  "description": "讲述了一个小人物徐小俊梦想成为大侠，偶遇卖药商人向昊卖其一把名震江湖的宝剑“”，并赠予一瓶阿里布达”诱骗徐小俊去百乐门找个姑娘翻云覆雨便能成为大侠，徐小俊信以为真，熟不知百乐门其实是江湖悬赏工会，徐小...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

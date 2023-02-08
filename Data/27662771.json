@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Atempause",
+  "url": "/subject/27662771/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574041725.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011167/",
+      "name": "Aelrun Goette Aelrun Goette"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1112405/",
+      "name": "Joyce Jacobs Joyce Jacobs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426395/",
+      "name": "克里斯蒂安·施纳克 Christian Schnalke"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442996/",
+      "name": "Sarah Mahita Sarah Mahita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476514/",
+      "name": "米可·爱弥儿·拉斯 Mikke Emil Rasch"
+    }
+  ]
+,
+  "datePublished": "2017-06-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "During a soccer game, young Hannes is hit in the head by a ball and falls into coma. He has suffered...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

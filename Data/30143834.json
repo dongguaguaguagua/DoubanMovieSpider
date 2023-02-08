@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杜什一家3 Les Tuche 3",
+  "url": "/subject/30143834/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2513134600.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066222/",
+      "name": "奥利维埃·巴鲁 Olivier Baroux"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005269/",
+      "name": "让-保罗·卢弗 Jean-Paul Rouve"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007192/",
+      "name": "伊莎贝尔·南蒂 Isabelle Nanty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1137216/",
+      "name": "克莱尔·纳多 Claire Nadeau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353652/",
+      "name": "提奥·费尔南德斯 Théo Fernandez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391009/",
+      "name": "斯卡利·德尔佩拉 Scali Delpeyrat"
+    }
+  ]
+,
+  "datePublished": "2018-01-31",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H32M",
+  "description": "Jeff Tuche 从美国回来后为了让 TGV 在自己的村子停站居然准备竞选总统，而结果",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

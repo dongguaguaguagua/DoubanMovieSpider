@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "远方 Out",
+  "url": "/subject/26649272/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498970669.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379284/",
+      "name": "戈尔吉·克里斯托弗 György Kristóf"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381591/",
+      "name": "艾丝特·霍瓦特 Eszter Horváth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379284/",
+      "name": "戈尔吉·克里斯托弗 György Kristóf"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381592/",
+      "name": "加伯·帕普 Gábor Papp"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149921/",
+      "name": "山大·特赫斯 Sándor Terhes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349099/",
+      "name": "伊娃·班多尔 Éva Bandor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344261/",
+      "name": "朱迪特·巴多斯 Judit Bárdos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381593/",
+      "name": "伊娃·诺维勒 Ieva Norvele"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163716/",
+      "name": "古娜·扎丽娜 Guna Zarina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381594/",
+      "name": "维克托·奈梅茨 Viktor Nemets"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381595/",
+      "name": "伊娃·亚历山大洛娃·厄克隆 Ieva Aleksandrova-Eklone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1183462/",
+      "name": "蒂伯·加斯帕尔 Tibor Gáspár"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189405/",
+      "name": "阿提拉·伯萨斯基 Attila Bocsarsky"
+    }
+  ]
+,
+  "datePublished": "2017-05-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "阿格斯顿年过五十，在工作了半辈子的能源工厂大裁员中，不幸失去了饭碗。怀着渺茫的希望，他悠闲的穿越东欧希望找到一份工作，并实现自己想要钓到大鱼的愿望。然而在波罗的海边，他发现：自己除了被裹挟着海盐的风吹...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "620",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

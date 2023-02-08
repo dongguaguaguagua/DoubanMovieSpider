@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雷霆攻坚",
+  "url": "/subject/30377069/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2539777573.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325761/",
+      "name": "王海 Hai Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325761/",
+      "name": "王海 Hai Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401156/",
+      "name": "龙怀忠 Huaizhong Long"
+    }
+  ]
+,
+  "datePublished": "2018-11-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H25M",
+  "description": "本剧根据海口市龙华区人民法院真实案例改编。申请执行人田志康与被执行人陈光友借款纠纷一案，龙华法院作出生效判决：陈光友偿还田志康80万元。龙华法院立案执行后，经查，除了登记在被执行人名下的宝马车外，未发...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

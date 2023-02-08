@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超拟态人 超擬態人間",
+  "url": "/subject/33964963/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2604737452.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051580/",
+      "name": "藤井秀刚 Shugo Fujii"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051580/",
+      "name": "藤井秀刚 Shugo Fujii"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H23M",
+  "description": "One morning. Fuma wakes up on the bed with his only son Ren dazzling as usual. However it is somethi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

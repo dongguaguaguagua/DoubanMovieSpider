@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "看我们如何跳舞 Voyez comme on danse",
+  "url": "/subject/27125746/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555552479.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000661/",
+      "name": "米歇尔·布朗 Michel Blanc"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000661/",
+      "name": "米歇尔·布朗 Michel Blanc"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007020/",
+      "name": "夏洛特·兰普林 Charlotte Rampling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005104/",
+      "name": "嘉莲·维雅 Karin Viard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025305/",
+      "name": "卡洛尔·布盖 Carole Bouquet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005269/",
+      "name": "让-保罗·卢弗 Jean-Paul Rouve"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356491/",
+      "name": "威廉·勒布吉欧 William Lebghil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045526/",
+      "name": "雅克·迪特隆 Jacques Dutronc"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023612/",
+      "name": "萨拉·马丁斯 Sara Martins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406440/",
+      "name": "纪尧姆·拉贝 Guillaume Labbé"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000661/",
+      "name": "米歇尔·布朗 Michel Blanc"
+    }
+  ]
+,
+  "datePublished": "2018-10-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "米歇尔·布朗([累得要命])自编自导的新片[看我们如何跳舞](Voyez comme on danse，暂译)在巴黎开拍。该片卡司包括夏洛特·兰普林、嘉莲·维雅([贝利叶一家])、卡洛儿·布盖([不要...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

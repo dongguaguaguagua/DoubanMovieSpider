@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Småstad",
+  "url": "/subject/27082690/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2486060739.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1126101/",
+      "name": "Ewert Löfstedt Ewert Löfstedt"
+    }
+  ]
+,
+  "datePublished": "2017-01-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "Since early childhood, Björn has secretly carried an insurmountable fear. When his father dies of ol...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

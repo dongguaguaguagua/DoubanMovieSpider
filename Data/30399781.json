@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "枪响烧锅镇",
+  "url": "/subject/30399781/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2868810958.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322303/",
+      "name": "高力强 Liqiang Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355988/",
+      "name": "高鹏 Peng Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453275/",
+      "name": "林志刚 Zhigang Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390544/",
+      "name": "白那日苏 Narisu Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401074/",
+      "name": "姚娆 Rao Yao"
+    }
+  ]
+,
+  "datePublished": "2018-12-28",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H27M",
+  "description": "民国时期军阀混战。来到烧锅镇投亲的张扬，在探寻姑父死因中逐渐知晓刘天德多年前伙同冯有等，杀害镇上烧锅大户齐家抢夺酿酒秘方一事。最后在张扬的帮助下锄奸去恶、伸张正义，齐旺则率众人重振仁义泉。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

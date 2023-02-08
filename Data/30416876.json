@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "东海龙棺",
+  "url": "/subject/30416876/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543973105.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400999/",
+      "name": "刘轩狄 Xuandi Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465297/",
+      "name": "宗那娜 Nana Zong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400559/",
+      "name": "林枫烨 Fengye Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357158/",
+      "name": "付赫安琪 Anqi Fu-He"
+    }
+  ]
+,
+  "datePublished": "2018-12-29",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT1H15M",
+  "description": "民国元年，张爻为寻找爷爷张疯子被害的原因，与好朋友大宇和萧兰进入东海寻找传说中的《易镜玄要》，但此行却导致萧兰意外死亡，因此大宇对张爻心生恨意，二人就此分道扬镳。时间推移，倒卖古董的老孙为夺得《易镜玄...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1229",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.7"
+  }
+}

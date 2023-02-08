@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "抗颜为师",
+  "url": "/subject/30179556/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2539923255.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390651/",
+      "name": "朱维俐 Weili Zhu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431985/",
+      "name": "李小艺 Xiaoyi Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390652/",
+      "name": "程妮 Ni Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390655/",
+      "name": "于效辰 Xiaochen Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318791/",
+      "name": "赵军凯 Junkai Zhao"
+    }
+  ]
+,
+  "datePublished": "2018-03-26",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H27M",
+  "description": "为取得县令职位朱东赞勾结闻香会会长逼死典史，为保护本县政治清明，县令与其斗争，不幸被害身亡。面对县令的遇害，典史的冤案，沈玉婵与周少庭冲破重重阻挠，以一腔正气对抗邪恶力量，最终将贼人伏法，还好人清白。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

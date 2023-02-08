@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无意短片 A Short Film About......",
+  "url": "/subject/26855731/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2506390495.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350938/",
+      "name": "杨涵博 Terence W. Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350938/",
+      "name": "杨涵博 Terence W. Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350938/",
+      "name": "杨涵博 Terence W. Yang"
+    }
+  ]
+,
+  "datePublished": "2018-01-01",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT0H10M",
+  "description": "一位年轻的导演从片场上消失了，他的朋友试图找到他。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

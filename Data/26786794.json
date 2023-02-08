@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小满的故事之青涩年华",
+  "url": "/subject/26786794/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456604528.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373542/",
+      "name": "张革 Ge Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373543/",
+      "name": "王小葩 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373544/",
+      "name": "陈绍文 Shaowen Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373545/",
+      "name": "何佳颜 Jiayan He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373546/",
+      "name": "齐天 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373547/",
+      "name": "刘历 Li Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355067/",
+      "name": "何佳颖 Jiaying He"
+    }
+  ]
+,
+  "datePublished": "2017-05-12",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H33M",
+  "description": "阿满是一个农民的儿子，也是一个贫困生，靠着自己勤奋的努力，考上了大学，来到了大都市。阿满靠着自己的辛勤奋斗，勤工俭学，读完了大学，取得了优异的成绩。阿满不但收获了知识，还收获了爱情……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

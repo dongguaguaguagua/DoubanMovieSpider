@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死亡小队 Dead Squad",
+  "url": "/subject/27600160/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2507105433.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320165/",
+      "name": "柯南·史蒂文斯 Conan Stevens "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377119/",
+      "name": "卡玛·莎伦 Carma Sharon"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "A group of young people become lost in the jungle during a river rafting trip and stumble upon a lon...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

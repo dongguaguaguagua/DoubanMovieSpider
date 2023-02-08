@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女巫 Witchula",
+  "url": "/subject/26436037/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2420516659.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000207/",
+      "name": "凯恩·霍德尔 Kane Hodder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1168883/",
+      "name": "迪·沃伦斯 Dee Wallace"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036417/",
+      "name": "泰勒·梅恩 Tyler Mane"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "A group of college exchange students travel to a small and remote town situated on an exotic island;...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

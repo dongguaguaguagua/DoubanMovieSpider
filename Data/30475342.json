@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "假面具",
+  "url": "/subject/30475342/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2626997933.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432463/",
+      "name": "姚建洪 Jianhong Yao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435812/",
+      "name": "卢姗 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436565/",
+      "name": "刘银 Yin Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436599/",
+      "name": "张小莉 Lily"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H5M",
+  "description": "主要讲述了一群热爱探险的年轻人无意间在一个废弃很久的村庄相遇，一起经历了一场神秘而又充满诡异的探险之旅。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

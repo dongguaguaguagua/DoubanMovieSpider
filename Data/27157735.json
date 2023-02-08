@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我为乐狂",
+  "url": "/subject/27157735/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501890485.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442916/",
+      "name": "商亚鹏 Yapeng Shang"
+    }
+  ]
+,
+  "datePublished": "2017-09-26",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "",
+  "description": "影片《我为乐狂》主打歌舞青春风格，与经典歌舞电影《爱乐之城》类似，片中配有大量的现代流行音乐，恰到好处的演绎了在不同阶段几位主人公们不同的心境与感受。依依、鸿飞、童阳、商祺是四名医科大学学生，因为对音...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

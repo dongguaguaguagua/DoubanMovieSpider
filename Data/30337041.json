@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异形远征队 Alien Expedition",
+  "url": "/subject/30337041/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537270428.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315285/",
+      "name": "爱德华多·古斯特斯 Edward Gusts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484025/",
+      "name": "伊桑·麦克道尔 Ethan McDowell"
+    }
+  ]
+,
+  "datePublished": "2018-09-27",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H33M",
+  "description": "深太空探测船发现一个潜在的可居住的星球后，派遣了生化人和人类组成的远征队，去调查星球资源，而其实，这是一颗全是异形的星球……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "272",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "童话先生",
+  "url": "/subject/27158354/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2500501003.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382012/",
+      "name": "李宗泰 Zongtai Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382013/",
+      "name": "段然 Ran Duan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274972/",
+      "name": "曹操 Jonathan Kos-Read"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328423/",
+      "name": "王静博 Jingbo Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382489/",
+      "name": "甫枭虎 Xiaohu Fu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382490/",
+      "name": "蒋欣枚 Xinmei Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356017/",
+      "name": "王明帅 Mingshuai Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382488/",
+      "name": "杨鑫 Xin Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382491/",
+      "name": "易子琦 Ziqi Yi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382975/",
+      "name": "梁木 Mu Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382976/",
+      "name": "方瑶 Yao Fang"
+    }
+  ]
+,
+  "datePublished": "2017-10-24",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "主人公玛德是一位正处在人生低谷中的英国童话作家，在Lucky的鼓励下，他只身一人来到云南的山村支教，遇到了古板的村长、严厉的正牌支教女老师和一群天真的孩子，麻烦和幸运也接踵而来。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

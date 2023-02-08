@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女巫集会 Coven",
+  "url": "/subject/27193204/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2636043696.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328241/",
+      "name": "索菲雅·斯凯亚 Sofya Skya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020757/",
+      "name": "Aaron James Aaron James"
+    }
+  ]
+,
+  "datePublished": "2020-07-14",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Five undergrad witches come together in order to perform a ritual to invoke the ancient powers of th...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

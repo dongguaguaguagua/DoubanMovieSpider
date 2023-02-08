@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "为你痴狂 A Night to Regret",
+  "url": "/subject/30260407/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2538323703.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028777/",
+      "name": "Christine Conradt Christine Conradt"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044921/",
+      "name": "玛格丽特·莫罗 Marguerite Moreau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1233963/",
+      "name": "莫里·格雷 Mollee Gray"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403580/",
+      "name": "杰米·约翰·韦尔斯 Jeremy John Wells"
+    }
+  ]
+,
+  "datePublished": "2018-07-24",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H29M",
+  "description": "When Chelsea meets up with her estranged childhood best friend, Milla, she&#39;s unprepared for the even...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "两个艾琳 As Duas Irenes",
+  "url": "/subject/27063006/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2461687334.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429103/",
+      "name": "法比奥·梅拉 Fabio Meira"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429103/",
+      "name": "法比奥·梅拉 Fabio Meira"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386401/",
+      "name": "普莉希拉·比坦考 Priscila Bittencourt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386402/",
+      "name": "伊莎贝拉·托雷斯 Isabela Torres"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037729/",
+      "name": "马尔科·里卡 Marco Ricca"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408527/",
+      "name": "苏珊娜·里贝罗 Suzana Ribeiro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408528/",
+      "name": "伊内斯·皮克托 Inês Peixoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172743/",
+      "name": "泰晤达·巴拉 Teuda Bara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408529/",
+      "name": "马塞拉·莫拉 Marcela Moura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408530/",
+      "name": "安娜·瑞斯顿 Ana Reston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408531/",
+      "name": "马库·苏扎 Maju Souza"
+    }
+  ]
+,
+  "datePublished": "2017-02-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "13岁的艾琳来自一个传统的家庭。有一天她发现父亲居然有另一个家庭，还有一个和自己同龄的女儿，她的名字也叫艾琳。两个女孩成了好朋友，艾琳反复谈到父亲在秘密跟谎言的游戏中过着的双面人生。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "467",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

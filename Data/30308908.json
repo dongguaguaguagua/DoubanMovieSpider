@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我是检察官",
+  "url": "/subject/30308908/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534360967.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314443/",
+      "name": "高亚麟 Yalin Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400930/",
+      "name": "傅俊 Jun Fu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323037/",
+      "name": "宣言 Yan Xuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274762/",
+      "name": "邢佳栋 Jiadong Xing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318754/",
+      "name": "丁洋 Yang Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316683/",
+      "name": "谈莉娜 Renata Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316623/",
+      "name": "任正斌 Zheng-bin Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373345/",
+      "name": "东靖川 Jingchuan Dong"
+    }
+  ]
+,
+  "datePublished": "2018-09-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "该片作为国内首部以生态环境保护检察工作为主题的院线电影，编剧是时任贵州省黔东南州人民检察院常务副检察长傅俊等人，拍摄地址也选于风景秀美的黔东南州。该片得到了黔东南州各区县的大力支持，剧情围绕青年检察官...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

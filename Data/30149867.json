@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "咒语 The Incantation",
+  "url": "/subject/30149867/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2513872555.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011003/",
+      "name": "裘德·沃尔克 Jude S. Walko"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011003/",
+      "name": "裘德·沃尔克 Jude S. Walko"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025226/",
+      "name": "迪恩·凯恩 Dean Cain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398241/",
+      "name": "Samuel Valentine Samuel Valentine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011003/",
+      "name": "裘德·沃尔克 Jude S. Walko"
+    }
+  ]
+,
+  "datePublished": "2018-08-31",
+  "genre": ["\u6050\u6016", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H38M",
+  "description": "A young American girl has a chance of a lifetime to visit her ancestors castle in the south of Franc...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "205",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.1"
+  }
+}

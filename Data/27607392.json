@@ -1,0 +1,142 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "故事贩卖机",
+  "url": "/subject/27607392/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508067269.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314023/",
+      "name": "朱佳梦   Jiameng Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334236/",
+      "name": "陈静 Jing Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354001/",
+      "name": "丁小雄 Xiaoxiong Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400661/",
+      "name": "王晋 Jin Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336721/",
+      "name": "于飞 Fei Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334236/",
+      "name": "陈静 Jing Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354001/",
+      "name": "丁小雄 Xiaoxiong Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339581/",
+      "name": "刘小伟 Xiaowei Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314023/",
+      "name": "朱佳梦   Jiameng Zhu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318973/",
+      "name": "曹云金 YunJin Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322795/",
+      "name": "赵达 Da Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368507/",
+      "name": "邵芸 Yun Shao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317056/",
+      "name": "马元 Yuan Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315506/",
+      "name": "巴多 Duo Ba"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318434/",
+      "name": "郑渊洁 Yuanjie Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335604/",
+      "name": "童苡萱 Yixuan Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021830/",
+      "name": "谢园 Yuan Xie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365830/",
+      "name": "陈朵怡 Duoyi Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435098/",
+      "name": "卢思宇 Siyu Lu"
+    }
+  ]
+,
+  "datePublished": "2018-06-29",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u60ac\u7591", "\u5947\u5e7b"],
+  "duration": "PT1H24M",
+  "description": "据悉，电影《故事贩卖机》由四个独立的城市怪谈故事单元组成，其中《驯兔记》皮皮鲁看见身边同学逐渐变成兔子时选择是否被驯化；《鬼打墙》悬疑重重，引人尖叫的同时吸引力十足；《官能许愿》则讲述了以失去器官为代...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3262",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

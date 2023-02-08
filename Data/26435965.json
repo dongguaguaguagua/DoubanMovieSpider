@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "特罗马的剥削电影短片集 Grindsploitation",
+  "url": "/subject/26435965/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2387226213.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054246/",
+      "name": "洛伊德·考夫曼 Lloyd Kaufman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193495/",
+      "name": "James Atkins James Atkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1190418/",
+      "name": "Dustin Austen Dustin Austen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425712/",
+      "name": "尼克·普林西比 Nick Principe"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193495/",
+      "name": "James Atkins James Atkins"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054246/",
+      "name": "洛伊德·考夫曼 Lloyd Kaufman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270821/",
+      "name": "肖恩 C.菲利普斯 Shawn C. Phillips"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478478/",
+      "name": "梅尔·海弗林 Mel Heflin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482271/",
+      "name": "Sam Reece Sam Reece"
+    }
+  ]
+,
+  "datePublished": "2016-10-31",
+  "genre": ["\u52a8\u4f5c", "\u6050\u6016", "\u72af\u7f6a"],
+  "duration": "PT2H20M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

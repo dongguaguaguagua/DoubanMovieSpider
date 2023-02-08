@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寂静烟火",
+  "url": "/subject/27604313/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2507845917.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374305/",
+      "name": "戴丽哈·那衣满 Dailiha Nayiman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317816/",
+      "name": "吴铭 Ming Wu"
+    }
+  ]
+,
+  "datePublished": "2017-12-16",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "本故事讲述了城市打拼女孩林佳怡，在一个小镇上旅游期间偶然认识了当地一个聋哑人陈子默，两人之间发生了一段青春励志的爱情故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

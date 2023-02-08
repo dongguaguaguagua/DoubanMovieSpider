@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "十年台湾",
+  "url": "/subject/30265411/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2544794002.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362182/",
+      "name": "廖克发 Kek Huat Lau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404071/",
+      "name": "谢沛如 Pei-Ju Hsieh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377225/",
+      "name": "吕柏勋 Pai Hsun Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378800/",
+      "name": "邹隆娜 Rina Tsou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355360/",
+      "name": "勒嘎·舒米 Lekal Sumi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347827/",
+      "name": "许乃涵 Helena Hsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362589/",
+      "name": "芳婷 Alina Fang-Ting"
+    }
+  ]
+,
+  "datePublished": "2018-07-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H48M",
+  "description": "《十年台湾》集结中生代与新生代的电影创作者，以他们独特的眼光，投射于城市的未来。本片由五部短片组成：《恶灵罐头》、《942》、《路半》、《虾饺》、《睏眠》。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "428",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

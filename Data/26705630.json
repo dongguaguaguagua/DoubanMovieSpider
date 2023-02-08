@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的快乐家庭 ჩემი ბედნიერი ოჯახი",
+  "url": "/subject/26705630/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502866567.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285552/",
+      "name": "西蒙·格罗斯 Simon Groß"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331787/",
+      "name": "娜娜·埃克夫蒂米什维利 Nana Ekvtimishvili"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331787/",
+      "name": "娜娜·埃克夫蒂米什维利 Nana Ekvtimishvili"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388380/",
+      "name": "伊娅·舒格里亚什维利 Ia Shugliashvili"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041681/",
+      "name": "梅拉布·尼尼泽 Merab Ninidze"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388381/",
+      "name": "贝尔塔·卡帕瓦 Berta Khapava"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388382/",
+      "name": "特茜茜娅·卡姆希什维利 Tsisia Qumsishvili"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356594/",
+      "name": "乔奇·科兹拉娃 Giorgi Khurtsilava"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388383/",
+      "name": "玛丽亚姆·博克里亚 Mariam Bokeria"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388384/",
+      "name": "莉卡·巴布卢亚尼 Lika Babluani"
+    }
+  ]
+,
+  "datePublished": "2017-01-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H0M",
+  "description": "故事背景设定在一大家人居住的公寓，祖孙三代都居住在这并不算太宽敞的公寓。有限的空间，必然也让一家人的矛盾激化放大。同一屋檐下的故事不断上演。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "778",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "嗅探员 Sniff!!!",
+  "url": "/subject/30385283/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540657744.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305038/",
+      "name": "阿莫尔·古普特 Amole Gupte"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305038/",
+      "name": "阿莫尔·古普特 Amole Gupte"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-08-25",
+  "genre": ["\u559c\u5267", "\u5bb6\u5ead", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H29M",
+  "description": "八岁的小男孩桑尼自幼聪颖很招大人喜欢，可惜的是他天生没有嗅觉，这让桑尼非常落寞和自卑。在一个平常的上学日，桑尼在探索生物教室的过程中，意外打翻了神秘的药水。吸入药水释放的气体之后，桑尼意外获得了异常灵...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "110",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

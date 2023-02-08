@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恶魔指路",
+  "url": "/subject/27186936/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504896559.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389845/",
+      "name": "张广影 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389845/",
+      "name": "张广影 "
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-11-01",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H14M",
+  "description": "男主角在树林中醒来后发现自己失忆，他努力回想却在树林中迷失了方向。随后在树林里发现的一具尸体手上的羊皮地图指引着他走出了树林。走出树林后男主角在一个神秘女子的帮助下回到了家里，本以为从此相安无事却不料...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

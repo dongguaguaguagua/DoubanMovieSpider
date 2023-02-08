@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我最爱的布料 Mon Tissu Préféré",
+  "url": "/subject/27662753/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521692700.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391635/",
+      "name": "Gaya Jiji Gaya Jiji"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391635/",
+      "name": "Gaya Jiji Gaya Jiji"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356166/",
+      "name": "马纳尔·伊萨 Manal Issa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391635/",
+      "name": "Gaya Jiji Gaya Jiji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357173/",
+      "name": "维萨姆·法瑞斯 Wissam Fares"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414306/",
+      "name": "梅廷·阿克杜尔格 Metin Akdülger"
+    }
+  ]
+,
+  "datePublished": "2018-05-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "大马士革，2011年3月。革命已进入到白热化阶段。Nahla是一位25岁的年轻女性，她既渴望找到真正的自由，又希望能与移居美国的叙利亚人Samir结婚，以通过这种方式离开自己所在的国家。但Samir却...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Пусть будет Лиза",
+  "url": "/subject/30201163/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2566235152.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338763/",
+      "name": "娜婕达·马尔基纳 Nadezhda Markina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1129793/",
+      "name": "达里娅·莫罗兹 Darya Moroz"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "The story of the family struggle for the inheritance of a sick mother, who decides to leave everythi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Headshots",
+  "url": "/subject/34431388/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559471189.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357794/",
+      "name": "妮佳·海特洛娃 Nika Khitrova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244353/",
+      "name": "安娜·洛佩斯 Ana Lopes"
+    }
+  ]
+,
+  "datePublished": "2018-12-05",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "An aspiring British actress moves to LA to become a star, only to cross paths with a serial killer u...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

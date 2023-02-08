@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "诡探风云",
+  "url": "/subject/27593454/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2538894351.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379900/",
+      "name": "段文兴 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369842/",
+      "name": "郭震 Zhen Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364254/",
+      "name": "熊悦希 Yuexi Xiong"
+    }
+  ]
+,
+  "datePublished": "2017-11-29",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H15M",
+  "description": "与父亲相依为命的女孩林筱，为摆脱鬼魂纠缠求助通灵大师夏红星的帮助，夏红星正协助警方调查一桩连环凶杀案，巧的是这几名被害者却和林筱所见到的鬼魂极其相似，真相却越来越扑朔迷离，案件远远没有想象的这么简单，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "电影侠 スレイブメン",
+  "url": "/subject/26911237/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2425183833.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012557/",
+      "name": "井口升 Noboru Iguchi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012557/",
+      "name": "井口升 Noboru Iguchi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275408/",
+      "name": "中村优一 Yuichi Nakamura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366814/",
+      "name": "奥田佳弥子 Kayako Okuda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054163/",
+      "name": "津田宽治 Kanji Tsuda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366779/",
+      "name": "柳杏奈 Anna Yanagi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274454/",
+      "name": "中村悠一 Yuuichi Nakamura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437415/",
+      "name": "秋乃润梨 Yuni Akino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380058/",
+      "name": "寺田安裕香 Ayuka Terada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314899/",
+      "name": "岩永洋昭 Hiroaki Iwanaga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484203/",
+      "name": "火野蜂三 Hachizo Hino"
+    }
+  ]
+,
+  "datePublished": "2017-03-10",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H27M",
+  "description": "25岁的岛田康幸（中村悠一 饰）一边打工一边筹钱拍摄自己的电影。他胸怀电影之梦，受尽挫折却又锲而不舍。某天，他在街上邂逅了穿着女仆装发放传单的美丽女孩小暮彩乃（奥田佳弥子 饰），岛田一见钟情，于是用自...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

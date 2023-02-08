@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "宠物男孩 Kept Boy",
+  "url": "/subject/26594636/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2490145921.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147128/",
+      "name": "菲力·莱福斯丁 Thure Riefenstein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349872/",
+      "name": "乔恩·保罗·菲利普斯 Jon Paul Phillips"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380046/",
+      "name": "格雷格·奥迪诺 Greg Audino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398303/",
+      "name": "查尔斯·法西 Charles Fathy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407351/",
+      "name": "戴维·索西多 David Saucedo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405038/",
+      "name": "斯凯勒·拜布尔 Skyler Bible"
+    }
+  ]
+,
+  "datePublished": "2017-02-04",
+  "genre": ["\u559c\u5267", "\u540c\u6027"],
+  "duration": "PT1H29M",
+  "description": "Interior designer and reality show star Farleigh Knock has a knack for keeping beautiful things, inc...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "229",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血红圣诞 Red Christmas",
+  "url": "/subject/26843050/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2369235044.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321193/",
+      "name": "Craig Anderson Craig Anderson"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1168883/",
+      "name": "迪·沃伦斯 Dee Wallace"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1136011/",
+      "name": "杰夫·莫雷尔 Geoff Morrell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260760/",
+      "name": " Sarah Bishop"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404808/",
+      "name": "杰拉德·德怀尔 Gerard Odwyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004563/",
+      "name": "安东尼·詹森 Anthony Jensen"
+    }
+  ]
+,
+  "datePublished": "2016-06-17",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H22M",
+  "description": "A mother must protect her family on Christmas Day from a demented stranger who is hell-bent on teari...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

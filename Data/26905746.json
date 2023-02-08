@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "UFO在这里 UFO: It Is Here",
+  "url": "/subject/26905746/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2394371330.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364723/",
+      "name": "Daniele Grieco Daniele Grieco"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364723/",
+      "name": "Daniele Grieco Daniele Grieco"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335962/",
+      "name": "劳拉·伯林 Laura Berlin"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "",
+  "description": "Five film students are producing a documentary about the local zoo when suddenly the animals go bers...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

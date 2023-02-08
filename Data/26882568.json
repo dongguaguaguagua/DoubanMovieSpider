@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幸运的孩子 Les enfants de la chance",
+  "url": "/subject/26882568/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2396076202.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033963/",
+      "name": "马利克·西巴尼 Malik Chibane"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033963/",
+      "name": "马利克·西巴尼 Malik Chibane"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028374/",
+      "name": "菲利普·托雷顿 Philippe Torreton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352202/",
+      "name": "沃尔夫冈·皮索尔斯 Wolfgang Pissors"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423647/",
+      "name": "多米尼克·恩格哈特 Dominique Engelhardt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454725/",
+      "name": "宝琳·舍维莱 Pauline Cheviller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465521/",
+      "name": "马特奥·佩雷斯 Matteo Perez"
+    }
+  ]
+,
+  "datePublished": "2016-09-07",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "影片讲述了小男孩莫里斯的童年，莫里斯是一个普通的十二岁犹太小男孩。一次意外摔伤，导致了莫里斯的腿骨折了，结果医生发现莫里斯患有骨结核。在呢个动荡的年代幸运的莫里斯因为疾病躲过了许多的灾难，最终幸运的活...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

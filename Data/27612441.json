@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱丽丝：最黑暗的一刻 Alice: The Darkest Hour",
+  "url": "/subject/27612441/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2508539891.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473370/",
+      "name": "卡罗琳娜·霍夫曼 Carolina Hoffmann"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

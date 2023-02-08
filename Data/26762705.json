@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Train de vies",
+  "url": "/subject/26762705/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2519067942.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048475/",
+      "name": "保罗·韦基亚利 Paul Vecchiali"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048475/",
+      "name": "保罗·韦基亚利 Paul Vecchiali"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048475/",
+      "name": "保罗·韦基亚利 Paul Vecchiali"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389543/",
+      "name": "让-菲利普·皮马赫丹 Jean-Philippe Puymartin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274961/",
+      "name": "帕斯卡·切尔沃 Pascal Cervo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028574/",
+      "name": "布里吉特·罗安 Brigitte Roüan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1063871/",
+      "name": "玛丽安娜·巴斯莱 Marianne Basler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327962/",
+      "name": "伊冯娜·格雷迪莱 Yvonne Gradelet"
+    }
+  ]
+,
+  "datePublished": "2018-05-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H16M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

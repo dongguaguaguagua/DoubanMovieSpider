@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心理医生 Clinical",
+  "url": "/subject/26935502/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2412799132.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380775/",
+      "name": "阿利斯泰尔·勒格朗 Alistair Legrand"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380776/",
+      "name": "卢克·哈维斯 Luke Harvis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380775/",
+      "name": "阿利斯泰尔·勒格朗 Alistair Legrand"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009320/",
+      "name": "凡妮莎·肖 Vinessa Shaw"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1145254/",
+      "name": "凯文·拉姆 Kevin Rahm"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1255528/",
+      "name": "英迪娅·埃斯利 India Eisley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013943/",
+      "name": "亚伦·斯坦福 Aaron Stanford"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1145525/",
+      "name": "内斯特·塞拉诺 Nestor Serrano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045385/",
+      "name": "威尔莫·卡德隆 Wilmer Calderon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1136897/",
+      "name": "西德尼·塔米娅·波蒂埃 Sydney Tamiia Poitier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022729/",
+      "name": "威廉·阿瑟东 William Atherton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054950/",
+      "name": "狄恩·巴斯科 Dion Basco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380777/",
+      "name": "阿德里安·弗劳尔斯 Adrian Flowers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189184/",
+      "name": "特里沃·斯纳尔 Trevor Snarr"
+    }
+  ]
+,
+  "datePublished": "2017-01-13",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H44M",
+  "description": "精神科医生试图在暴力攻击后，通过寻求修复一个新病人的生活，使他的生活恢复在一起，但他有自己的可怕的历史。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "562",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

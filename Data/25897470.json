@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "葛丽丝费德事件 The Gracefield Incident",
+  "url": "/subject/25897470/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2399986820.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1179384/",
+      "name": "Laurence Dauphinais Laurence Dauphinais"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019360/",
+      "name": "朱丽叶特·高斯林 Juliette Gosselin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320644/",
+      "name": "维克多·安德雷斯·特根-特雷莱斯 Victor Andres Turgeon-Trelles"
+    }
+  ]
+,
+  "datePublished": "2016-10-28",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H29M",
+  "description": "2013年8月16日，美国最高法院授权中情局解密过去75年来的保密档案，里面大量记载的超自然事件记录被公布于众，这部电影就改编自加拿大魁北克葛丽丝费德发生的诡异事件。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "157",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

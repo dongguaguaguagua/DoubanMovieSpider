@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女神本色",
+  "url": "/subject/30409691/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2566190859.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359164/",
+      "name": "任青安 Qingan Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364895/",
+      "name": "刘振安 Zhen&#39;an Liu"
+    }
+  ]
+,
+  "datePublished": "2018-12-21",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H12M",
+  "description": "都说男人一有钱就变坏，女人一变坏就有钱，这句话用在张宝文和他的秘书身上绝对合适。张宝文原本有一个非常好的前程和家庭，但是他却不珍惜，与自己的秘书走到了一起。这一段办公室的恋情导致了张宝文在事业上和家庭...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

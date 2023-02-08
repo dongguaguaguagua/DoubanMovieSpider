@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "文胸奇缘 The Bra",
+  "url": "/subject/30270306/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554258652.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275336/",
+      "name": "法伊特·赫尔默 Veit Helmer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275336/",
+      "name": "法伊特·赫尔默 Veit Helmer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1117418/",
+      "name": "米基·马诺伊洛维奇 Miki Manojlović"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025136/",
+      "name": "帕斯·贝加 Paz Vega"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027579/",
+      "name": "丘尔潘·哈马托娃 Chulpan Khamatova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019240/",
+      "name": "德尼·拉旺 Denis Lavant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045232/",
+      "name": "玛雅·摩根斯特恩 Maia Morgenstern"
+    }
+  ]
+,
+  "datePublished": "2018-10-31",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "火车司机努兰退休前最后一次出车，意外从路上卷下一件蓝色文胸。为了摆脱孤独的日常，努兰开始了他生命中最冒险的旅程：寻“胸”之旅……
+本片曾获东京电影节主竞赛提名。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "815",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

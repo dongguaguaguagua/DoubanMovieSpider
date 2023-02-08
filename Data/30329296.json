@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Haunted Transylvania 2",
+  "url": "/subject/30329296/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2541583532.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1095039/",
+      "name": "Alfred Hill Alfred Hill"
+    }
+  ]
+,
+  "datePublished": "2018-09-18",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "Turn your house into a Halloween haunted house party with Haunted Transylvania 2! Sing-Along and dan...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

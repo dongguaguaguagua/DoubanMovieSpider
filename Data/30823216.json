@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Isabelle - Dix pour cent S3E4",
+  "url": "/subject/30823216/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305522/",
+      "name": "马克·费杜斯 Marc Fitoussi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054515/",
+      "name": "伊莎贝尔·于佩尔 Isabelle Huppert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348664/",
+      "name": "卡米尔·科坦 Camille Cottin"
+    }
+  ]
+,
+  "datePublished": "2018-11-21",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "When Isabelle Huppert is double-booked thanks to an agent&#39;s error, they must find a way to appease b...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "吹玻璃的人 Die Glasbläserin",
+  "url": "/subject/27073192/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540281424.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215777/",
+      "name": "莱奥妮-克莱尔·拜涅尔斯多芙 Léonie-Claire Breinersdorfer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1188532/",
+      "name": "玛丽亚·艾维克 Maria Ehrich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003517/",
+      "name": "弗兰茨·丁达 Franz Dinda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1092389/",
+      "name": "罗伯特·格维斯戴克 Robert Gwisdek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165202/",
+      "name": "Ute Willing Ute Willing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066792/",
+      "name": "乔安娜·比顿宾德 Johanna Bittenbinder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267203/",
+      "name": " Jesse D&#39;Lane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258199/",
+      "name": "托马斯·齐林斯基 Thomas Zielinski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1097856/",
+      "name": "卡雷尔·黑勒曼克 Karel Hermánek"
+    }
+  ]
+,
+  "datePublished": "2016-12-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "The young Marie, daughter of a Thuringian glassblower, violates all traditions after the death of mo...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "599",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.2"
+  }
+}

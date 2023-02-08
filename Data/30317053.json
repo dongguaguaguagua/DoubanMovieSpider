@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "超时空大冒险",
+  "url": "/subject/30317053/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2541889601.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400484/",
+      "name": "李宝坤 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-12-01",
+  "genre": ["\u52a8\u753b", "\u5bb6\u5ead", "\u5192\u9669"],
+  "duration": "PT1H15M",
+  "description": "很久很久以前，银河系有一个大魔王叫索克大魔王，他妄想统治世界，却被一个神秘法器打败，五百年后，索克大魔王再次回来世间，并开始了一个更加离奇的计划，沙漠巨蝎、洞穴迷宫、火山巨人，喷火恐龙，外星人卡卡超越...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

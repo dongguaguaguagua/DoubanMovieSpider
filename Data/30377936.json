@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Danger Diva",
+  "url": "/subject/30377936/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2539874433.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291586/",
+      "name": "Robert McGinley Robert McGinley"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291586/",
+      "name": "Robert McGinley Robert McGinley"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-04-13",
+  "genre": ["\u79d1\u5e7b", "\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "PT1H45M",
+  "description": "DANGER DIVA is a music driven cyberpunk thriller about a hard rocking singer who is coerced into bec...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

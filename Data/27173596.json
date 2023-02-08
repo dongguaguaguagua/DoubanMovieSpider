@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Raajakumara",
+  "url": "/subject/27173596/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2502581386.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427947/",
+      "name": "阿丘特·库马尔 Achyuth Kumar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470770/",
+      "name": "普内思·拉库马尔 Puneeth Rajkumar"
+    }
+  ]
+,
+  "datePublished": "2017-03-24",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT2H28M",
+  "description": "A dutiful son, a prince in his fathers&#39; eyes, retains his purity of character despite the many chall...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

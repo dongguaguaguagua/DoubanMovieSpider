@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱上试睡师",
+  "url": "/subject/26904021/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2401299371.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324612/",
+      "name": "罗登 Deng Luo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429567/",
+      "name": "李彦如 Yanru Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050337/",
+      "name": "丹尼斯·吴 Dennis Oh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316367/",
+      "name": "肖旭 Xu Xiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276119/",
+      "name": "刘栋 Dong Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392629/",
+      "name": "安晨芯 Milla An"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384856/",
+      "name": "郑希 Xi Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444116/",
+      "name": "杨静儿 Jinger Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371771/",
+      "name": "刘若谷 Ruogu Liu"
+    }
+  ]
+,
+  "datePublished": "2016-12-09",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H34M",
+  "description": "《爱上试睡师》是由青年导演罗登指导 ，丹尼斯吴 、唐婧、肖旭主演，曾江等老派实力演员加盟的一部爱情喜剧电影。该片主要讲述了患有多年“失眠症”的试睡员罗潇潇因工作关系入住一家酒店，与冷漠、不得志的酒店集...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "904",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.7"
+  }
+}

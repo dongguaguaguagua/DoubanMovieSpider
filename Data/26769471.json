@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "毛丰美",
+  "url": "/subject/26769471/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2363816061.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315135/",
+      "name": "宁敬武 Jingwu Ning "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360784/",
+      "name": "闫星华 Xinghua Yan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318018/",
+      "name": "宋佳伦 Jialun Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325815/",
+      "name": "梁林琳 Linlin Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389050/",
+      "name": "王屿 Yu Wang"
+    }
+  ]
+,
+  "datePublished": "2016-08-08",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT1H46M",
+  "description": "影片原型丹东凤城大梨树村党委书记毛丰美是优秀基层干部的代表，他坚信“党的政策里就有好日子”，在担任村干部的30多年时间里，带领大梨树村党员群众发扬“干”字精神，开荒山、种果树、搞旅游，走出一条农、工、...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "251",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

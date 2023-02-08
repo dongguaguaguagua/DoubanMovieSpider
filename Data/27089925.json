@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "空房子 La maison vide",
+  "url": "/subject/27089925/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041338/",
+      "name": "帕特里斯·勒孔特 Patrice Leconte"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041338/",
+      "name": "帕特里斯·勒孔特 Patrice Leconte"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016677/",
+      "name": "朱丽叶·比诺什 Juliette Binoche"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041174/",
+      "name": "阿兰·德龙 Alain Delon"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

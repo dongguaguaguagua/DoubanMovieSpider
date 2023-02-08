@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蜂鸟 벌새",
+  "url": "/subject/30318230/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2544256615.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401533/",
+      "name": "金宝拉 Bora Kim"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401533/",
+      "name": "金宝拉 Bora Kim"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412026/",
+      "name": "朴持厚 Ji-Hoo Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362718/",
+      "name": "金玺碧 Sae-byuk Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320459/",
+      "name": "郑仁基 In-gi Jeong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368067/",
+      "name": "李胜妍 Seung-yeon Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412025/",
+      "name": "朴秀妍 Soo-yeon Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366851/",
+      "name": "薛惠茵 Hye-in Seol"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454424/",
+      "name": "朴书允 Seo-yoon Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395386/",
+      "name": "孙相渊 Sang-yeon Son"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468605/",
+      "name": "李钟允 Jong-yoon Lee"
+    }
+  ]
+,
+  "datePublished": "2018-10-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H19M",
+  "description": "圣水大桥坍塌的1994年，中学生恩熙和父母、姐姐、哥哥一起生活。全家在各自的问题上争吵，此时的恩熙寻觅未至的爱情，像岛一样漂浮。恩熙的生活里，唯一能给予理解的她出现了。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "34974",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.9"
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "吉祥",
+  "url": "/subject/30340038/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540195487.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324043/",
+      "name": "大鹏 Chengpeng Dong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324043/",
+      "name": "大鹏 Chengpeng Dong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441521/",
+      "name": "王吉祥 Jixiang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340364/",
+      "name": "刘陆 Lu Liu"
+    }
+  ]
+,
+  "datePublished": "2018-11-10",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT0H48M",
+  "description": "她叫王丽丽，是一个从东北小城来北京打工的女孩。丽丽的父亲名叫王吉祥，中年得病，脑子痴呆，丽丽妈妈执意离婚并带她离开。春节前夕，奶奶突然辞世，丽丽返回东北老家，面对生死离别，也面对家族的矛盾冲突。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "14115",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暗语者",
+  "url": "/subject/30335687/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535203209.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312804/",
+      "name": "韩万峰 Wanfeng Han"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371161/",
+      "name": "罗娟 Juan Luo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340059/",
+      "name": "罗立群 Liqun Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410544/",
+      "name": "高赫一 Heyi Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414406/",
+      "name": "金琦茗 Qiming Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388267/",
+      "name": "郑亚龙 Yalong Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408040/",
+      "name": "陈立唯 Liwei Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323071/",
+      "name": "陈姗姗 Shanshan Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355055/",
+      "name": "杨作玖 Yang Zuojiu"
+    }
+  ]
+,
+  "datePublished": "2018-11-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H39M",
+  "description": "哥哥孙义和弟弟孙礼都是反清分子，一场暗杀行动失败导致弟弟远走异乡，而哥哥为了生存，成为清政府的一名地下狙击手。多年后，俩兄弟再次相遇在暗杀行动中，亦似兄弟，亦似仇人，俩人必须做出艰难的选择。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

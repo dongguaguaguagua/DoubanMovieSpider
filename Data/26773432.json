@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Die letzte Sau",
+  "url": "/subject/26773432/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523517142.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358475/",
+      "name": "阿伦·莱曼 Aron Lehmann"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358475/",
+      "name": "阿伦·莱曼 Aron Lehmann"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023974/",
+      "name": "罗莎莉·托马斯 Rosalie Thomass"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1096151/",
+      "name": "克里斯托夫·玛丽亚·赫布斯特 Christoph Maria Herbst"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352466/",
+      "name": "戈洛·欧拉 Golo Euler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291893/",
+      "name": "索斯藤·默滕 Thorsten Merten"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1075058/",
+      "name": "海因茨·约瑟夫·布劳恩 Heinz Josef Braun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358476/",
+      "name": "阿诺·席姆卡特 Arnd Schimkat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406218/",
+      "name": "伊娃·贝 Eva Bay"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

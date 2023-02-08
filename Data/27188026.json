@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "生日快乐，托比•辛普森 Happy Birthday, Toby Simpson",
+  "url": "/subject/27188026/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503909969.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395646/",
+      "name": "帕特里克·马金 Patrick Makin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395646/",
+      "name": "帕特里克·马金 Patrick Makin"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-05-13",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H22M",
+  "description": "托比·辛普森人到中年，每天的生活被无理取闹的女友和控制欲极强的父亲支配着。他做着不喜欢的工作，收着不喜欢的生日礼物，过着不喜欢的生活，但为了让别人高兴，他只能强颜欢笑。
+直到他在生日那天遇到了芳香治疗...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

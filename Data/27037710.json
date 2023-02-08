@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无人机大战 Drone Wars",
+  "url": "/subject/27037710/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2458117402.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040599/",
+      "name": "柯林·纳麦克 Corin Nemec"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393639/",
+      "name": "乔琳·安德森 Jolene Andersen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417850/",
+      "name": "维罗娜·布鲁 Verona Blue"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

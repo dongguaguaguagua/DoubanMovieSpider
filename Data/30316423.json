@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "救救我 Rescue Me",
+  "url": "/subject/30316423/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2533091783.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290886/",
+      "name": "Farhad Mann Farhad Mann"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1243564/",
+      "name": " Victoria Rose"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1220707/",
+      "name": "凯茜·斯蒂尔 Cassie Steele"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036763/",
+      "name": "瑞恩·肯尼迪 Ryan Kennedy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321555/",
+      "name": "安德鲁·弗朗西斯 Andrew Francis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1234464/",
+      "name": "安德里亚·布鲁克斯 Andrea Brooks"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1085454/",
+      "name": "库尔特·埃文斯 Kurt Evans"
+    }
+  ]
+,
+  "datePublished": "2016-07-02",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H26M",
+  "description": "When a temporary auto call worker rescues an interior designer by talking with her to calm her down ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

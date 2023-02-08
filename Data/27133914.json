@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "吉普赛男孩 Gypsy Boy",
+  "url": "/subject/27133914/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509324406.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353320/",
+      "name": "摩根·马修斯 Morgan Matthews"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354156/",
+      "name": "詹姆斯·格拉汉姆 James Graham"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009405/",
+      "name": "本尼迪克特·康伯巴奇 Benedict Cumberbatch"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "本尼迪克特·康伯巴奇加盟拳击题材新片《吉普赛男孩》，根据Mikey Walsh所著同名自传改编，聚焦生活在吉普赛聚集区的Walsh家族，以高超的传统吉普赛空手拳击技术而闻名，本尼将会扮演Mikey的父...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

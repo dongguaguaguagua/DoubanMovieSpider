@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卡门和罗拉 Carmen y Lola",
+  "url": "/subject/30198374/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2520446034.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343559/",
+      "name": "阿兰查·艾奇瓦莉亚 Arantxa Echevarría"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343559/",
+      "name": "阿兰查·艾奇瓦莉亚 Arantxa Echevarría"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407161/",
+      "name": "赛依拉·罗梅罗 Zaira Romero"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407160/",
+      "name": "罗西·罗德里格斯 Rosy Rodríguez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407159/",
+      "name": "莫雷诺·博尔哈 Moreno Borja"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410764/",
+      "name": "拉菲拉·勒恩 Rafaela León"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419619/",
+      "name": "卡罗琳娜·尤斯特 Carolina Yuste"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411100/",
+      "name": "安东尼奥·埃雷迪亚 Antonio Heredia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411101/",
+      "name": "卢卡斯·埃雷迪亚 Lucas Heredia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410763/",
+      "name": "Javier I. Bustamante Javier I. Bustamante"
+    }
+  ]
+,
+  "datePublished": "2018-04-17",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H43M",
+  "description": "卡门（罗西·罗德里格斯 Rosy Rodríguez 饰）是生活在马德里的吉普赛女孩，她出生于一个非常封建的家庭之中，在那里，每一个女孩子从刚出生起，就背负上了为家族传宗接代的命运枷锁，这让卡门感到不...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "789",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

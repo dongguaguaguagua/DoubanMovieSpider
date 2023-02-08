@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夺钻狙击",
+  "url": "/subject/30304210/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2627609665.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342744/",
+      "name": "池建华 George Chi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342744/",
+      "name": "池建华 George Chi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025509/",
+      "name": "罗莽 Meng Lo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317555/",
+      "name": "陈之辉 Zhihui Chen"
+    }
+  ]
+,
+  "datePublished": "2019-11-12",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H15M",
+  "description": "郭豪盗取了四海集团的巨钻九龙壁，原想了结个人恩怨后决定金盆洗手。国际刑警也追查了四海集团很久，由于梁生大律师的身份，一直为黑蛇的不法行径洗白，所以始终没有得到有效证据。郭豪盗取了九龙壁，回程路上遇上黑...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "自由世界 The Free World",
+  "url": "/subject/25868914/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2386998472.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315342/",
+      "name": "廖炳胜 Jason Lew"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315342/",
+      "name": "廖炳胜 Jason Lew"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053504/",
+      "name": "波伊德·霍布鲁克 Boyd Holbrook"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022566/",
+      "name": "伊丽莎白·莫斯 Elisabeth Moss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1154263/",
+      "name": "奥克塔维亚·斯宾瑟 Octavia Spencer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000166/",
+      "name": "姜成镐 Sung Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172632/",
+      "name": "詹姆斯·摩西·布莱克 James Moses Black"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328981/",
+      "name": "瓦利德·祖伊特 Waleed Zuaiter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1254641/",
+      "name": "让·克劳德·卢耶 Jean Claude Leuyer"
+    }
+  ]
+,
+  "datePublished": "2016-09-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "伦迪（波伊德·霍布鲁克 Boyd Holbrook 饰）蒙受不白之冤，在牢里待了二十年之久，好不容易重获自由的他，并不想为自己讨回什么公道，而是想要回归正常人的生活。然而，可怕又可怜的过去让伦迪的愿望...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "271",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

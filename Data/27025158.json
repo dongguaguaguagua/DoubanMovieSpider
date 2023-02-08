@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "芭蕾芭蕾 После тебя",
+  "url": "/subject/27025158/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568089030.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425570/",
+      "name": "卡丽娜·安多连科 Karina Andolenko"
+    }
+  ]
+,
+  "datePublished": "2017-03-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H59M",
+  "description": "阿列克塞（谢尔盖·贝泽鲁科夫 Sergei Bezrukov 饰）是一位非常有名的芭蕾舞演员，却在一次表演中身受重伤，不得不告别舞台。阿列克塞一生都将芭蕾舞表演视作是自己生命的支柱，因此这一重大变故给...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1003",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.3"
+  }
+}

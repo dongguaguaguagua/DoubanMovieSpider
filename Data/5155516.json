@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Koochie Koochie Hota Hai",
+  "url": "/subject/5155516/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2592788809.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304096/",
+      "name": "Tarun Mansukhani Tarun Mansukhani"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018224/",
+      "name": "卡伦·乔哈尔 Karan Johar"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041117/",
+      "name": "沙鲁克·汗 Shah Rukh Khan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022723/",
+      "name": "卡卓儿 Kajol"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000191/",
+      "name": "拉妮·玛克赫吉 Rani Mukherjee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017831/",
+      "name": "萨尔曼·汗 Salman Khan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284565/",
+      "name": "西米·加雷瓦尔 Simi Garewal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054303/",
+      "name": "阿努潘·凯尔 Anupam Kher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1208519/",
+      "name": "瑞提希·德希穆克 Riteish Deshmukh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014186/",
+      "name": "尤代·乔普拉 Uday Chopra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302646/",
+      "name": "Ritesh Sidhwani Ritesh Sidhwani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025276/",
+      "name": "桑杰·达特 Sanjay Dutt"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b", "\u5bb6\u5ead"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

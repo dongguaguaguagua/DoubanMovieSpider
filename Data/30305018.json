@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "双鱼镜之谜",
+  "url": "/subject/30305018/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542540820.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406638/",
+      "name": "张蓝兮 Lanxi Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-08-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "几千年前的一场神秘事件，让楼兰古国一夜覆灭，只留下了一块神奇且神秘的宝物——奉天双鱼镜，几千后，一场双鱼镜的争夺之战拉开的序幕.....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

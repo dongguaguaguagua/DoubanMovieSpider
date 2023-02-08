@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冰激凌车 The Ice Cream Truck",
+  "url": "/subject/26878804/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2382763774.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027286/",
+      "name": "迪安娜·罗素 Deanna Russo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1208558/",
+      "name": "Emil Johnsen Emil Johnsen"
+    }
+  ]
+,
+  "datePublished": "2017-08-18",
+  "genre": ["\u559c\u5267", "\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H36M",
+  "description": "Mary moves back to her suburban hometown, to find that the suburbs are scarier in more ways than she...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

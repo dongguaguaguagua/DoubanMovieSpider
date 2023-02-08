@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Thursday the 12th",
+  "url": "/subject/26802171/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2618960788.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1243451/",
+      "name": "杰娜·西姆斯 Jena Sims"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "龟兔大作战",
+  "url": "/subject/30387308/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2541109672.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407986/",
+      "name": "代长浩 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407987/",
+      "name": "刘芳炜 "
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-12-30",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H23M",
+  "description": "罗伊是一只乌龟，从小生长在和平镇，父亲莫伊是个单车修理工，从小罗伊就生活在单车的机械零件中，对于单车有着天生的好感。在入学仪式上，罗伊遇到了同样新生入学的兔子韦莱斯，罗伊和韦莱斯的第一次见面并不友好，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

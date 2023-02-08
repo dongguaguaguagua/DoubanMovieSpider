@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "逗B三宝",
+  "url": "/subject/27055696/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2460556226.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387800/",
+      "name": "酒叔 xingliwang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363641/",
+      "name": "漆子美 Zimei Qi"
+    }
+  ]
+,
+  "datePublished": "2017-05-31",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H9M",
+  "description": "三个苦逼兄弟：齐冠雄、王也、史撮撮大学毕业后各自打拼事业，无奈各自都不如意，一个被炒鱿鱼、一个情场失意、一个公司被恶意收购。多年后重聚一起，同病相怜的三兄弟准备干一票大的，开始筹划以开空头影视传媒公司...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

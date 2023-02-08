@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "在警局！ Au poste!",
+  "url": "/subject/27621906/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526976630.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315649/",
+      "name": "昆汀·杜皮约 Quentin Dupieux"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315649/",
+      "name": "昆汀·杜皮约 Quentin Dupieux"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050088/",
+      "name": "伯努瓦·波尔沃德 Benoît Poelvoorde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358808/",
+      "name": "格雷瓜尔·鲁迪格 Grégoire Ludig"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381178/",
+      "name": "马克·弗赖兹 Marc Fraize"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028178/",
+      "name": "阿娜伊斯·德穆斯蒂埃 Anaïs Demoustier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410740/",
+      "name": "约翰·西希尔 John Sehil"
+    }
+  ]
+,
+  "datePublished": "2018-07-04",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H13M",
+  "description": "倒楣男子傅根在路邊發現一具屍體，到警局報案協助調查，不料竟成為兇案主嫌，吹毛求疵的警探不肯放過任何一個細節，逼得傅根只好不斷回想，將那晚發生的雞毛蒜皮小事都一五一十地娓娓道來。漫漫長夜，偵查持續進行，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "871",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

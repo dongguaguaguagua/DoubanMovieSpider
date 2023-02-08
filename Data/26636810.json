@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "微爱 Mind Memory:1.44",
+  "url": "/subject/26636810/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2690207827.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330566/",
+      "name": "詹姆斯·马 James Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313036/",
+      "name": "咸恩静 Eun-jeong Ham"
+    }
+  ]
+,
+  "datePublished": "2017-02-23",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

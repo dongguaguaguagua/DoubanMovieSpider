@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "惊魂七夜",
+  "url": "/subject/26923563/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2508243232.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385870/",
+      "name": "喻彬 Bin Yu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385871/",
+      "name": "喻敏 Min Yu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318068/",
+      "name": "陈美行 Meixing Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359998/",
+      "name": "曾帅 Shuai Zeng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364647/",
+      "name": "濡雪 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385869/",
+      "name": "孙浩 Hao Sun"
+    }
+  ]
+,
+  "datePublished": "2016-11-22",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "富商马老板买下了位于山中的一幢别墅，带着妻儿搬了进去，然而，在住进去的第一晚，就发生了科学无法解释的怪异事件。马老板找来了风水先生来看房，风水先生告诉马老板，他所住的是一间凶宅，其中的怨灵只有找两男两...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "668",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.1"
+  }
+}

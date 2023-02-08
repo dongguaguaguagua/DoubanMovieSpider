@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑暗的风 Reṣeba",
+  "url": "/subject/26869404/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2408609410.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356562/",
+      "name": "侯赛因·哈桑 Hussein Hassan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356562/",
+      "name": "侯赛因·哈桑 Hussein Hassan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356561/",
+      "name": "穆罕默德·阿克塔什 Mehmet Aktas"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-11-11",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H32M",
+  "description": "激进的is分子袭击了一个伊拉克村子，一对年轻夫妇的生活从此变成噩梦",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

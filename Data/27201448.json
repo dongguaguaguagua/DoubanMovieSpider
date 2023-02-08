@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "快！神父 The VelociPastor",
+  "url": "/subject/27201448/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554426790.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351339/",
+      "name": "许佳倩 Claire Hsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1167318/",
+      "name": "Voltaire Voltaire"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437325/",
+      "name": "Nicholas M.Garofolo Nicholas M.Garofolo"
+    }
+  ]
+,
+  "datePublished": "2019-09-17",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H15M",
+  "description": "After losing his parents, a priest travels to China, where he inherits a mysterious ability that all...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

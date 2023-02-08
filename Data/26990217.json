@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Jeena Isi Ka Naam Hai",
+  "url": "/subject/26990217/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2441156483.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023171/",
+      "name": "阿巴斯·汗 Arbaaz Khan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338125/",
+      "name": "希姆纳什·科利 Himansh Kohli"
+    }
+  ]
+,
+  "datePublished": "2017-03-03",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H53M",
+  "description": "The film presents the naïve vulnerability of human life, the sincere saga of love and pain, and the ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

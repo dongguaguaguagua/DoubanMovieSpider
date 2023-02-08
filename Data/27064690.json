@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Tårtgeneralen",
+  "url": "/subject/27064690/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2548347252.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1221766/",
+      "name": "弗雷德里克·维金森 Fredrik Wikingsson"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027504/",
+      "name": "米卡埃尔·佩斯布兰特 Mikael Persbrandt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404546/",
+      "name": "桑诺·伦德尔 Sanna Lundell"
+    }
+  ]
+,
+  "datePublished": "2018-03-07",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H41M",
+  "description": "Set in 1984, Hans Pettersson (Hasse P.) decides to create the largest sandwich cake ever made in ord...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

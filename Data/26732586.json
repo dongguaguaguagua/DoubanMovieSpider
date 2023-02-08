@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "在我之后是晴天 Après Moi le Bonheur",
+  "url": "/subject/26732586/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2418953085.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028139/",
+      "name": "亚历山德拉·拉米 Alexandra Lamy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350641/",
+      "name": "茱莉亚·皮亚彤 Julia Piaton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041551/",
+      "name": "扎布·布雷特曼 Zabou Breitman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321750/",
+      "name": "迈克尔·阿比特波 Michaël Abiteboul"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1087303/",
+      "name": "蒂埃里·弗雷蒙 Thierry Frémont"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149859/",
+      "name": "让-米歇尔·蒂尼维力 Jean-Michel Tinivelli"
+    }
+  ]
+,
+  "datePublished": "2016-03-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

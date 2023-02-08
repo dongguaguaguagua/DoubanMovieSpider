@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亚迪 Yardie",
+  "url": "/subject/26831506/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2514385934.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049501/",
+      "name": "伊德里斯·艾尔巴 Idris Elba"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417685/",
+      "name": "布洛克·诺曼·布洛克 Brock Norman Brock"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1232498/",
+      "name": "阿金·加齐 Akin Gazi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1175204/",
+      "name": "马克·史密斯 Mark Rhino Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381794/",
+      "name": "娜奥米·阿基 Naomi Ackie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1194285/",
+      "name": "阿梅尔·艾米恩 Aml Ameen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395008/",
+      "name": "卡尔·法雷尔 Karl Farrer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393954/",
+      "name": "贾马恩·亨特 Jumayn Hunter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395003/",
+      "name": "弗兰·塔格 Fran Targ"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367800/",
+      "name": "弗雷泽·杰姆斯 Fraser James"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025229/",
+      "name": "斯蒂芬·格拉汉姆 Stephen Graham"
+    }
+  ]
+,
+  "datePublished": "2018-01-20",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT1H41M",
+  "description": "该片聚焦牙买加人和他们在伦敦的生活，讲述1970、80年代，一个名叫D的牙买加黑人青年在充斥着枪击、毒品贩卖的街区长大，从小因为哥哥被枪杀而深受伤害。就在D因为音乐而眼看要脱离犯罪生活时，他遇上了杀死...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "118",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

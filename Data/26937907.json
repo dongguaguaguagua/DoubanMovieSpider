@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱伦坡之鬼关灯 Edgar Allan Poes Lighthouse Keeper",
+  "url": "/subject/26937907/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2406656003.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482020/",
+      "name": "Matt O&#39;Neill Matt O&#39;Neill"
+    }
+  ]
+,
+  "datePublished": "2016-12-10",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H28M",
+  "description": "Marooned on a remote peninsula and haunted by frightening specters, a young man must confront the gr...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

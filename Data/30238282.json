@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爸爸很漂亮 아빠는 예쁘다",
+  "url": "/subject/30238282/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2578727959.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346033/",
+      "name": "金明国 Myoung-guk Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335613/",
+      "name": "白瑞彬 Baek Seo-Bin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430136/",
+      "name": "孙珉志 Min Ji Son"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463459/",
+      "name": "金振泰 Jin-Tae Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468444/",
+      "name": "金鈡仁 Kim Jong-in"
+    }
+  ]
+,
+  "datePublished": "2019-11-21",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H32M",
+  "description": "韩国电影#爸爸很漂亮#在2017年12月10日举行的第二届台湾国际电影节(FFIFA)上，荣获陪审团大奖(FFIFA Award of Grand Jury Board)和最佳导演奖(Best Dir...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "203",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

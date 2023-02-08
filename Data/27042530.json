@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "序列断点 Sequence Break",
+  "url": "/subject/27042530/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2500963835.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328304/",
+      "name": "法比娜·泰蕾兹 Fabianne Therese"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328955/",
+      "name": "奥德丽·瓦西莱夫斯基 Audrey Wasilewski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260573/",
+      "name": "蔡斯·威廉逊 Chase Williamson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009736/",
+      "name": "莱勒·坎诺斯 Lyle Kanouse"
+    }
+  ]
+,
+  "datePublished": "2017-07-18",
+  "genre": ["\u7231\u60c5", "\u79d1\u5e7b", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "A reclusive video arcade repair technician experiences bizarre biomechanical mutations and Cronenber...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

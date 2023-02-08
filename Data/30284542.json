@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "毒枭杀手 Narco Hitman",
+  "url": "/subject/30284542/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2547126682.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1175366/",
+      "name": "戴维霍根 David S. Hogan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454225/",
+      "name": "Angela DiMarco Angela DiMarco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463683/",
+      "name": "Darlene Sellers Darlene Sellers"
+    }
+  ]
+,
+  "datePublished": "2016-05-11",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H27M",
+  "description": "在挚爱惨遭杀害后，一名职业杀手对幕后主使展开一连串报复行动，各种残忍的虐杀命案引发民众恐慌，一个小镇的警长必须尽快解开迷雾背后的真相，才能够阻止更大的悲剧发生。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

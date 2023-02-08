@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "末世之后 Endzeit",
+  "url": "/subject/30307251/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2534100154.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446680/",
+      "name": "卡洛琳娜·赫思嘉 Carolina Hellsgård"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000809/",
+      "name": "崔娜·蒂虹 Trine Dyrholm"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354076/",
+      "name": "Yûho Yamashita Yûho Yamashita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1130509/",
+      "name": "芭芭拉·菲利普 Barbara Philipp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329056/",
+      "name": "葛赫·斯旺耶·科尔霍夫 Gro Swantje Kohlhof"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424441/",
+      "name": "玛雅·勒赫 Maja Lehrer"
+    }
+  ]
+,
+  "datePublished": "2018-09-08",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "僵尸占领地球两年以后，人类最后的生存空间只剩下德国的魏玛和耶拿两个小镇。《末世之后》聚焦两名截然不同的年轻女性，22岁的薇薇和26岁的伊娃。她们不得不合作对抗僵尸，也要对抗各自的往日创伤。在这个过程中...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "101",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

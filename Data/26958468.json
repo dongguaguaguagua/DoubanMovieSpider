@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鬼马吼江湖",
+  "url": "/subject/26958468/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2414730397.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326675/",
+      "name": "吕蔚 Wei Lü"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356922/",
+      "name": "曾晨 Chen Zeng"
+    }
+  ]
+,
+  "datePublished": "2017-01-20",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u60ac\u7591", "\u60ca\u609a", "\u5947\u5e7b"],
+  "duration": "PT1H15M",
+  "description": "故事讲述不务正业的热血青年（战军），误打误撞下得到了黑帮信物黑龙帆，随之被众人拥护成为老大，摸不清头绪的（战军）便云里雾里地变成了黑帮帮主。成为老大的战军不满黑帮的所做所为，要求树立新政策，想领导帮众...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

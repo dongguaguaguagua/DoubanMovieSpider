@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "烧烤 The BBQ",
+  "url": "/subject/27073305/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2526036313.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042985/",
+      "name": "Stephen Amis Stephen Amis"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042985/",
+      "name": "Stephen Amis Stephen Amis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236462/",
+      "name": " Marcello De Nardo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1093594/",
+      "name": "尼古拉斯·哈蒙德 Nicholas Hammond"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000478/",
+      "name": "玛格达·苏班斯基 Magda Szubanski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312606/",
+      "name": "肖恩·雅克博森 Shane Jacobson"
+    }
+  ]
+,
+  "datePublished": "2018-02-22",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H31M",
+  "description": "Darren是一个可爱的郊区人，他对烧烤充满热情。Darren喜欢邀请他的朋友和邻居们到他的后院烧烤，尽管他长期忍受的妻子黛安正逐渐失去她的耐心，因为这些每周的活动正在代替他们的夫妻生活。Darren...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

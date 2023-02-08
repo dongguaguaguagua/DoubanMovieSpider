@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐怖快递",
+  "url": "/subject/26656814/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2540039582.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341826/",
+      "name": "杨振豪 Willie Ying"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366857/",
+      "name": "杨张邈馨 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315443/",
+      "name": "李晨浩 Leon Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317481/",
+      "name": "汤晶媚 Jingmei Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320749/",
+      "name": "沈建宏 Jianhong Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344415/",
+      "name": "姚一奇 Yiqi Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354688/",
+      "name": "任娇 Jiao Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275451/",
+      "name": "曾江 Kenneth Tsang"
+    }
+  ]
+,
+  "datePublished": "2018-11-23",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "罗刚（李晨浩 饰）和林娜（汤晶媚 饰）相恋多年，彼此之间感情十分要好，两人都将对方视为自己生命中的唯一。然而在一场意外之中，林娜从高处坠下不幸丧命，这让罗刚陷入了痛苦之中，他始终不相信这是一场意外，而...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "517",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.2"
+  }
+}

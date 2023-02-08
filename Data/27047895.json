@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美丽城警察 Le Flic de Belleville",
+  "url": "/subject/27047895/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527317269.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050312/",
+      "name": "拉契得·波查拉 Rachid Bouchareb"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285526/",
+      "name": "拉里·格罗斯 Larry Gross"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1220507/",
+      "name": "奥玛·希 Omar Sy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049639/",
+      "name": "路易斯·古兹曼 Luis Guzmán"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036864/",
+      "name": "茱莉·费瑞尔 Julie Ferrier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350461/",
+      "name": "弗兰克·盖思堂彼得 Franck Gastambide"
+    }
+  ]
+,
+  "datePublished": "2018-10-17",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "故事发生在位于繁华大都市巴黎的一个名为贝维尔的一个街区中，这个街区里人员非常的混杂，常常发生犯罪暴力事件。巴霸（奥玛·希 Omar Sy 饰）是在这里工作的一名警察，每天都要对应许多危险事件，巴霸的女...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "161",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

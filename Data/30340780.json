@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Titans Blood",
+  "url": "/subject/30340780/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2535791011.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1117785/",
+      "name": "彼得·麦卡拉姆 Peter McAllum"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "",
+  "description": "Sophie is being hunted by evil forces that have converged on the earth in a bid to use her to take o...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

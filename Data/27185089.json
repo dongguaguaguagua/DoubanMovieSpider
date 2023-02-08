@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魔医联盟 Adirindhi",
+  "url": "/subject/27185089/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2503650136.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350821/",
+      "name": "维杰耶德拉·普拉萨德 Vijayendra Prasad"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315650/",
+      "name": "维杰 Vijay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317566/",
+      "name": "卡加·艾嘉 Kajal Agarwal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267011/",
+      "name": "萨曼莎·鲁斯·帕布 Samantha Ruth Prabhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339236/",
+      "name": "柯维伊·萨拉拉 Kovai Sarala"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377634/",
+      "name": "约吉·巴布 Yogi Babu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1142539/",
+      "name": "萨嘉拉吉 Satyaraj"
+    }
+  ]
+,
+  "datePublished": "2017-10-18",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT2H52M",
+  "description": "影片讲述一名医生和一名魔术师揭露印度医疗系统腐败的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "645",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

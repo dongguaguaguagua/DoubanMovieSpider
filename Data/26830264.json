@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Bank Chor",
+  "url": "/subject/26830264/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2574901188.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1208519/",
+      "name": "瑞提希·德希穆克 Riteish Deshmukh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049961/",
+      "name": "维克·奥贝欧 Vivek Oberoi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u60ca\u609a"],
+  "duration": "",
+  "description": "A comic-caper, that tells the story of 3 morons trying to rob a bank who pick the worst day possible...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

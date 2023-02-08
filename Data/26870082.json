@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "通往犹他州之路 유타 가는 길",
+  "url": "/subject/26870082/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2457151786.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362154/",
+      "name": "金正中 Jeong Jung Kim"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362154/",
+      "name": "金正中 Jeong Jung Kim"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315533/",
+      "name": "李阵郁 Jin-wook Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343451/",
+      "name": "柳慧英 Hye-yeong Ryoo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H50M",
+  "description": "Escaping the past, a man and a woman arrive in LA. They rent a car to travel to Utah, planning to co...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

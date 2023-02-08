@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "哈瓦那的风 Cuatro estaciones en La Habana",
+  "url": "/subject/26844046/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2369481135.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300114/",
+      "name": "菲利克斯·韦斯卡列特 Félix Viscarret"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300114/",
+      "name": "菲利克斯·韦斯卡列特 Félix Viscarret"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025451/",
+      "name": "豪尔赫·佩鲁戈里亚 Jorge Perugorría"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1058288/",
+      "name": "胡安娜·阿科斯塔 Juana Acosta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303217/",
+      "name": "约伊玛·巴尔德斯 Yoima Valdés"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341419/",
+      "name": "路易斯·阿尔维托·加西亚 Luis Alberto García"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023545/",
+      "name": "维拉迪米尔·克鲁兹 Vladimir Cruz"
+    }
+  ]
+,
+  "datePublished": "2016-10-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "The killing of a fiery young teacher sets Detective Mario Conde on the trail of a drug kingpin with ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

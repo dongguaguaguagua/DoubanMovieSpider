@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大娱乐家 The Entertainer",
+  "url": "/subject/26906607/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2394556731.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037134/",
+      "name": "约翰·奥斯本 John Osborne"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036342/",
+      "name": "肯尼思·布拉纳 Kenneth Branagh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357618/",
+      "name": "菲尔·邓斯特 Phil Dunster"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1092571/",
+      "name": "高恩·格兰杰 Gawn Grainger"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "PT3H0M",
+  "description": "From the Kenneth Branagh Theatre Company&#39;s 2016 season of live recordings, shot live on stage at the...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

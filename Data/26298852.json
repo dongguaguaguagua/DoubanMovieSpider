@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "岁城璃心",
+  "url": "/subject/26298852/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2243669803.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441678/",
+      "name": "林魂 Hun Lin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441678/",
+      "name": "林魂 Hun Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2014-12-08",
+  "genre": ["\u52a8\u4f5c", "\u52a8\u753b", "\u5947\u5e7b"],
+  "duration": "PT0H4M",
+  "description": "孤城，隐于深山，内藏秘药，名曰“鬼蜮咒原”。彼时，山河崩摧，变乱不息，天灾人祸，民不聊生。世人皆仰“鬼蜮咒原”之神奇，欲求之而不得。 一日，有精兵强马现于城外，城关告急。城主迫不得已，祭出人间最强之兵...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2637",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.6"
+  }
+}

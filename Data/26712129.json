@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "妈妈错了 Maman a tort",
+  "url": "/subject/26712129/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2392957315.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305522/",
+      "name": "马克·费杜斯 Marc Fitoussi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305522/",
+      "name": "马克·费杜斯 Marc Fitoussi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383169/",
+      "name": "西尔维·多维利耶 Sylvie Dauvillier"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050074/",
+      "name": "艾米莉·德奎恩 Émilie Dequenne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037511/",
+      "name": "萨巴纳·奥扎尼 Sabrina Ouazani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441823/",
+      "name": "让-弗朗索瓦·凯雷 Jean-François Cayrey"
+    }
+  ]
+,
+  "datePublished": "2016-11-09",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H50M",
+  "description": "我们真的了解父母吗? Anouk, 14岁, 在一个观察实践（实习）中发现了妈妈在保险公司工作时的另一个面目. 在成年人工作世界中整整一周的体验将怯懦胆小的小女孩的年轻命运彻底浇灌定型。启蒙，责任，理...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "291",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

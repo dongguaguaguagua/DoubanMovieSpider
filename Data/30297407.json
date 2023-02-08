@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "失恋博物馆",
+  "url": "/subject/30297407/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2538276978.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351298/",
+      "name": "陶醉 Zui Tao"
+    }
+  ]
+,
+  "datePublished": "2018-07-30",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "麦昆本想给女友来一场创意十足的求婚，但在毫无预兆的情况下结束了一场轰轰烈烈的爱情，结局悲惨而可笑……在经历过失恋博物馆中的种种“失败”后，麦昆放下了，觉得那段失败的爱情反而激励了自己，让自己学会了如何...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

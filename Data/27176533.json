@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "潜龙飞天2 Velaiilla Pattadhari 2",
+  "url": "/subject/27176533/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535811606.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407083/",
+      "name": "索朗达里亚·拉吉尼卡特 Soundarya Rajinikanth"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1219536/",
+      "name": "丹努什 Dhanush"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022723/",
+      "name": "卡卓儿 Kajol"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320623/",
+      "name": "阿玛拉·保罗 Amala Paul"
+    }
+  ]
+,
+  "datePublished": "2017-08-01",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT2H8M",
+  "description": "丹努士在在一次竞标中，因为他谦逊的态度，夺得了60亿卢比的工程，得罪了南印最大的建筑公司的boss卡卓尔，因此被针对，失去了所有，最终他会如何反败为胜？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

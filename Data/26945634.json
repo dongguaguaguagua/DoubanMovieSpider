@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血染爪牙 Red in Tooth and Claw",
+  "url": "/subject/26945634/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2500852099.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042825/",
+      "name": "丽莎·霍斯沃兹 Lisa Holdsworth"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314394/",
+      "name": "内尔·德贞 Neil Dudgeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327558/",
+      "name": "尼克·亨德里克斯 Nick Hendrix"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080982/",
+      "name": "菲奥娜·多尔曼 Fiona Dolman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049915/",
+      "name": "史蒂夫·佩姆伯顿 Steve Pemberton"
+    }
+  ]
+,
+  "datePublished": "2017-01-18",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H29M",
+  "description": "When DCI Barnaby and DS Winter discover a dead body covered in live rabbits it reveals a sinister si...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无处逃离 Nowhere to escape",
+  "url": "/subject/30259905/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526548137.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350214/",
+      "name": "墨布文湘 Moboo Wenxiang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350214/",
+      "name": "墨布文湘 Moboo Wenxiang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT0H7M",
+  "description": "不痛不痒的季节，无人心系冷暖，也许，世间一如往常！
+少女，赶集归途，疲惫，小憩，倦而入梦！
+憩毕，继续赶路，途经一片森林，不远处，有一披发妇似乎在观察什么，好奇，三思后，少女凑个热闹，不曾想，中邪了，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

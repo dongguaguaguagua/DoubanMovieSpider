@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "东北青年",
+  "url": "/subject/27613147/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2508622366.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383945/",
+      "name": "王亮 Liang Wang"
+    }
+  ]
+,
+  "datePublished": "2018-01-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "该片讲述了YOYO和天龙、徐尊、王亮几位主人公从相识到结下深厚情谊并共同追梦的东北青年的情感励志故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

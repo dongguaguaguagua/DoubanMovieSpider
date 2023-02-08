@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱的抉择 L&#39;embarras du choix",
+  "url": "/subject/26999192/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2447950826.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028139/",
+      "name": "亚历山德拉·拉米 Alexandra Lamy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000123/",
+      "name": "吉米·巴姆博 Jamie Bamber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333275/",
+      "name": "阿尔诺·杜克雷 Arnaud Ducret"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037511/",
+      "name": "萨巴纳·奥扎尼 Sabrina Ouazani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007201/",
+      "name": "安·玛丽文 Anne Marivin"
+    }
+  ]
+,
+  "datePublished": "2017-03-15",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H38M",
+  "description": "Juliette&#39;s problem is that she is totally incapable of making up her mind about anything. So even at...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

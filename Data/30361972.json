@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "老爸同学",
+  "url": "/subject/30361972/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2538042515.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352108/",
+      "name": "董新文 Xinwen Dong"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361982/",
+      "name": "吴甜甜 Tiantian Wu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5bb6\u5ead", "\u513f\u7ae5"],
+  "duration": "PT1H26M",
+  "description": "琪琪在学校里创办了一个戏剧社，老爸担心影响女儿的学习，来到学校，发现大人老会被认出。一个小孩子扔进一瓶&#34;变小孩药丸&#34;，老爸吃下药丸，变成了男生尼小巴。尼小巴加入戏剧社，由此发生了许多有趣的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

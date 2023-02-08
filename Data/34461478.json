@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "食人虻入侵 Tafanos",
+  "url": "/subject/34461478/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2562222013.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021580/",
+      "name": "贾科莫·杜尔齐 Giacomo Durzi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020415/",
+      "name": "安德里亚·加雷洛 Andrea Garello"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-07-05",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "一群好友趁著周末假期來到位於深山的豪宅狂歡，沒想到竟遭到一群食人血肉的變種巨虻攻擊，原本歡樂的假期瞬間成為最恐怖的夢魘！",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

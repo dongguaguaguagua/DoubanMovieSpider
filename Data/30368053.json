@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恶魔之眼 Demon Eye",
+  "url": "/subject/30368053/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2538767542.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1084543/",
+      "name": "Darren Day Darren Day"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1082239/",
+      "name": "Liam Fox Liam Fox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260318/",
+      "name": " Jimmy Allen"
+    }
+  ]
+,
+  "datePublished": "2018-06-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H27M",
+  "description": "灵感来自1850年的Saddleworth女巫的故事。在他神秘的死亡之后，一名年轻女子回到了她父亲在荒原上的乡间别墅，发现了一个与当地巫术有关的诅咒护身符。她发现护身符有黑暗的力量，并会给你最大的愿望...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "429",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

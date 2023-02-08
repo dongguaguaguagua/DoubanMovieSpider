@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "在我头顶，繁星满天 Le Ciel étoilé au-dessus de ma tête",
+  "url": "/subject/27050487/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2518659314.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406550/",
+      "name": "伊兰·克利佩尔 Ilan Klipper"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406550/",
+      "name": "伊兰·克利佩尔 Ilan Klipper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1213324/",
+      "name": "Raphaël Neal Raphaël Neal"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372652/",
+      "name": "卡米尔·查莫 Camille Chamoux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1067437/",
+      "name": "玛丽莲·坎托 Marilyne Canto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336319/",
+      "name": "阿尔玛·佐杜洛夫斯基 Alma Jodorowsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292472/",
+      "name": "米歇尔·莫雷蒂 Michèle Moretti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1213324/",
+      "name": "Raphaël Neal Raphaël Neal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346464/",
+      "name": "柔伊·布鲁诺 Zoé Bruneau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445908/",
+      "name": "塞布丽娜·莎瓦 Sabrina Seyvecou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468045/",
+      "name": "洛朗·波瓦特诺 Laurent Poitrenaux"
+    }
+  ]
+,
+  "datePublished": "2017-05-21",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H17M",
+  "description": "Bruno has published a fiery first novel in 1996. The Press headlined: &#34;There is a before and after t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

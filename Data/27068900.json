@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的新款女友",
+  "url": "/subject/27068900/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462753097.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360162/",
+      "name": "谢云鹏 Yunpeng Xie"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360162/",
+      "name": "谢云鹏 Yunpeng Xie"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360162/",
+      "name": "谢云鹏 Yunpeng Xie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332264/",
+      "name": "董妮娜 Nina Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313768/",
+      "name": "赵亮 Liang Zhao"
+    }
+  ]
+,
+  "datePublished": "2017-06-15",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5", "\u79d1\u5e7b", "\u72af\u7f6a"],
+  "duration": "PT1H9M",
+  "description": "随着科技的发展，学习型智能情感机器人——豆豆问世。 杨东，东北小有名气的成功人士，年轻时人人尊称一声东北小佛爷，五年里悉心照顾着因一次意外而变成植物人的未婚妻宁宁。生活一成不变的杨东遇见了机器人豆豆。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

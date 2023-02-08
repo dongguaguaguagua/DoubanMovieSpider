@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "艾娃 AVA",
+  "url": "/subject/27169601/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2506166924.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1242089/",
+      "name": "萨达夫·弗鲁基 Sadaf Foroughi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-09-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "Ava&#39;s life is dictated by rules. Coming of age in Iran, she faces pressure to conform to the expecta...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

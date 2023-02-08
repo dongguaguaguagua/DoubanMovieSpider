@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Motel de Gracia",
+  "url": "/subject/5159984/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019712/",
+      "name": "Juan Pablo Reinoso Juan Pablo Reinoso"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019712/",
+      "name": "Juan Pablo Reinoso Juan Pablo Reinoso"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127690/",
+      "name": "奥斯汀·潘德尔顿 Austin Pendleton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009240/",
+      "name": "科里·费尔德曼 Corey Feldman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048223/",
+      "name": "克里斯·马尔基 Chris Mulkey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014073/",
+      "name": "威廉·B·戴维斯 William B. Davis"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "Six people, seemingly unconnected, find their deepest secrets are all inexplicably intertwined. Culm...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

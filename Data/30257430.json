@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "成真 Come True",
+  "url": "/subject/30257430/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2623507795.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398309/",
+      "name": "安东尼·司科特·伯恩斯 Anthony Scott Burns"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398309/",
+      "name": "安东尼·司科特·伯恩斯 Anthony Scott Burns"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310683/",
+      "name": "兰登·莱伯隆 Landon Liboiron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332566/",
+      "name": "茱莉亚·莎拉·斯通 Julia Sarah Stone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1102448/",
+      "name": "蒂芙妮·赫尔姆 Tiffany Helm"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1216978/",
+      "name": "Caroline Buzanko Caroline Buzanko"
+    }
+  ]
+,
+  "datePublished": "2020-08-30",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H45M",
+  "description": "还在念高中的Sarah正值低潮，她逃家却发现自己没有人可以依靠，同时又被反复出现的可怕恶梦所苦。很幸运的，正好有一所大学在进行睡梦研究，Sarah不但可以安全地睡觉，还可以获得报酬，更意外的和负责研究...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "942",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "厨师梦 Tazzeka",
+  "url": "/subject/27125478/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2501785212.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380209/",
+      "name": "Jean-Philippe Gaud Jean-Philippe Gaud"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380209/",
+      "name": "Jean-Philippe Gaud Jean-Philippe Gaud"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1155089/",
+      "name": "奥利维耶·西特吕克 Olivier Sitruk"
+    }
+  ]
+,
+  "datePublished": "2018-11-30",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "故事发生在风景美丽宁静的摩洛哥村庄塔泽卡之中，在这里，伊利亚（奥利维耶·西特吕克 Olivier Sitruk 饰）和奶奶过着相依为命的生活。伊利亚最大的兴趣爱好就是烹饪和背食谱，在奶奶的教导下，他几...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "127",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

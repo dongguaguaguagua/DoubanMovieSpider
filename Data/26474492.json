@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "终极尖兵 The Last Scout",
+  "url": "/subject/26474492/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2255280811.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308850/",
+      "name": "西蒙·飞利普斯 Simon Phillips"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007693/",
+      "name": "西蒙·菲利普斯 Simon Phillips"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1214555/",
+      "name": "Blaine Gray Blaine Gray"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308850/",
+      "name": "西蒙·飞利普斯 Simon Phillips"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1268132/",
+      "name": "丽贝卡·沃尔什 Rebecca Walsh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1026129/",
+      "name": "汤姆·阿诺德 Thomas Charles Arnold"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004886/",
+      "name": "皮特·伍德瓦德 Peter Woodward"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007693/",
+      "name": "西蒙·菲利普斯 Simon Phillips"
+    }
+  ]
+,
+  "datePublished": "2017-03-07",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H47M",
+  "description": "地球被核战争摧毁之后，地球最后的人类派出多艘侦察飞船，在宇宙中寻找一个宜居行星，以拯救人类，而飞马座号是其中的一艘飞船，在历经磨难之后，终于发现了一颗宜居行星，可是，它已经被中国人占领了…",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "510",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

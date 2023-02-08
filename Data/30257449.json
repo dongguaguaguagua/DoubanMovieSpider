@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Twins",
+  "url": "/subject/30257449/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540012298.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000584/",
+      "name": "兰帕德·帕瓦 Lamberto Bava"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013845/",
+      "name": "热拉尔·德帕迪约 Gérard Depardieu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327342/",
+      "name": "拉斯·艾丁格 Lars Eidinger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1097337/",
+      "name": "David Hallyday David Hallyday"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192659/",
+      "name": "伊莎贝拉·奥尔西尼 Isabella Orsini"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "映画ドライブヘッド トミカハイパーレスキュー 機動救急警察",
+  "url": "/subject/30228878/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2553761711.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317107/",
+      "name": "加户誉夫 Takao Kato"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383172/",
+      "name": "藤原夏海 Natsumi Fujiwara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315660/",
+      "name": "国立幸 Sachi Kokuryu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314943/",
+      "name": "真堂圭 Kei Shindou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319412/",
+      "name": "三泽纱千香 Sachika Misawa"
+    }
+  ]
+,
+  "datePublished": "2018-08-24",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "タカラトミーの人気ミニカーブランド「トミカ」から生まれたキッズ向けテレビアニメ「トミカハイパーレスキュー　ドライブヘッド　機動救急警察」の劇場版。車からロボットに変形し、警察・消防・救急それぞれに特化...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

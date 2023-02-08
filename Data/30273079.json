@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "七十",
+  "url": "/subject/30273079/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528999578.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398106/",
+      "name": "佟佳格 Jiage Tong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398106/",
+      "name": "佟佳格 Jiage Tong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435496/",
+      "name": "曹麦顺 Maishun Cao"
+    }
+  ]
+,
+  "datePublished": "2018-08-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H13M",
+  "description": "七十岁的老王一生活在别人的无视之中，一条老狗是他唯一的陪伴。老王目睹了老狗的生老病死，他意识到，可能在他未来离世的某天，不仅没人埋葬 她，他也无法保留完整的遗体。于是，他计划在自己临终前，提前为自己举...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

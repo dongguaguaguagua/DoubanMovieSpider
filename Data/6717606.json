@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "摩根·凯恩 Morgan Kane",
+  "url": "/subject/6717606/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2511639003.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292237/",
+      "name": "索拉斯·米切尔 Sollace Mitchell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1026419/",
+      "name": "Andrew Ilitchev Andrew Ilitchev"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050483/",
+      "name": "克里斯托弗·约纳尔 Kristoffer Joner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1246336/",
+      "name": " Ryan Wiik"
+    }
+  ]
+,
+  "datePublished": "2016-05-28",
+  "genre": ["\u52a8\u4f5c", "\u897f\u90e8", "\u5192\u9669"],
+  "duration": "",
+  "description": "On the wild frontiers of the Old West, lightning fast gunslinger Morgan Kane narrowly escapes death ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

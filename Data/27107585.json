@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无尽日",
+  "url": "/subject/27107585/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495988448.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378773/",
+      "name": "韩博文 Bowen Han"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378773/",
+      "name": "韩博文 Bowen Han"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325123/",
+      "name": "张殿伦 Dianlun Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275564/",
+      "name": "郑恺 Kai Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315866/",
+      "name": "包贝尔 Bei&#39;er Bao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318117/",
+      "name": "周德华 Dehua Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355282/",
+      "name": "艾佳妮 Jiani Ai"
+    }
+  ]
+,
+  "datePublished": "2017-08-16",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H16M",
+  "description": "一个桀骜不驯、目中无人的三流男艺人王子，在几年的“自我经营”失败后，让公司彻底放弃，把他交给一个初出茅庐的台湾小实习生贝拉接管。两人首次见面就电光火石，吵得不可开交。
+贝拉带着王子的助理吉米把王子“骗...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

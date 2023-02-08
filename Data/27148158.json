@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "反特大案之一级戒备",
+  "url": "/subject/27148158/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2870948754.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322303/",
+      "name": "高力强 Liqiang Gao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381527/",
+      "name": "张胤哲 Yinzhe Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381528/",
+      "name": "张燕妮 Yanni Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "该片讲述了1950年10月1日，新中国开国后第一个国庆节，山口龙一等国际间谍阴谋在节日期间炮轰天安门，制造惊世大案，侦探科长曹承志临危受命，带领侦查人员将敌人一网打尽粉碎了敌人阴谋的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

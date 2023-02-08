@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "麦哲伦飞船 Magellan",
+  "url": "/subject/27129759/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498217979.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023607/",
+      "name": "布兰登·奥列佛 Brandon Olive"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427906/",
+      "name": "K·达诺尔·杰拉德 K. Danor Gerald"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1242230/",
+      "name": "马修·默瑟 Matthew Mercer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1196274/",
+      "name": "妮可拉·珀塞纳 Nicola Posener"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193322/",
+      "name": "D.L. Walker D.L. Walker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1255443/",
+      "name": "达韦·莫里森 Davey Morrison"
+    }
+  ]
+,
+  "datePublished": "2017-07-05",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ac\u7591", "\u5192\u9669"],
+  "duration": "PT1H43M",
+  "description": "After NASA picks up a trio of mysterious signals from within our own solar system, astronaut Roger N...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "71",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

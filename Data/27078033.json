@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "贝克斯 Becks",
+  "url": "/subject/27078033/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2475085787.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027317/",
+      "name": "丹·福勒 Dan Fogler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328948/",
+      "name": "迈克尔·泽根 Michael Zegen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1269751/",
+      "name": "海莉·清子 Hayley Kiyoko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002765/",
+      "name": "克里斯汀·拉蒂 Christine Lahti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004579/",
+      "name": "米娜·苏瓦丽 Mena Suvari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391283/",
+      "name": "伊莎贝拉·法雷尔 Isabella Farrell"
+    }
+  ]
+,
+  "datePublished": "2017-06-15",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H30M",
+  "description": "和女友分手后，一位布鲁克林的音乐家回到了她住在中西部的妈妈处。她一边在家乡游玩，一边在一个老朋友的酒吧演奏赚点小钱，一段意料之外的关系开始发生。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "313",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

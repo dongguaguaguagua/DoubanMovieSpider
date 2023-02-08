@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Misirlou",
+  "url": "/subject/25783857/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2161212387.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1261190/",
+      "name": " Trevor Simms"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336662/",
+      "name": "卡桑德拉·斯塔尔 Cassandra Starr"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452470/",
+      "name": "乔丹·莫纳汉 Jordan Monaghan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459673/",
+      "name": "莱昂内尔·克劳德 "
+    }
+  ]
+,
+  "datePublished": "2018-02-01",
+  "genre": ["\u60ca\u609a", "\u6050\u6016", "\u5192\u9669"],
+  "duration": "",
+  "description": "A young American Veteran gets involved with a gang of Venice Beach psychos who are killing people to...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

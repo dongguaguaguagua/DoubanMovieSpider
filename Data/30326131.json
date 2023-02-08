@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "根茎 Rootwood",
+  "url": "/subject/30326131/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2534156866.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1266537/",
+      "name": "Marcel Walz Marcel Walz"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H23M",
+  "description": "Based on the screenplay by Mario Von Czapiewski (Cannibal Diner), Rootwood follows two students who ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

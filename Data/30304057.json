@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幕间休息",
+  "url": "/subject/30304057/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537405403.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402863/",
+      "name": "刘晓东 Xiaodong Liu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "PT1H20M",
+  "description": "电影《幕间休息》是一部探索性影片，全篇采用航拍器拍摄。所有镜头皆为一镜到底。故事以西北婚骗题材为背景，讲述了一场西北农村婚礼上发生的诡异事件。影片采用运动长镜头的组接，表现婚礼中灵异事件的现场虚实结合...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

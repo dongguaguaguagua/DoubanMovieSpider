@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Fang",
+  "url": "/subject/27103874/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2572438827.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020289/",
+      "name": "彼得·R·亚当 Peter R. Adam"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345420/",
+      "name": "梅兰莎·布莱克索恩 Melantha Blackthorne"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "After participating in a robbery turned murder, Chloe and Joe decided to hide out at a distant relat...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

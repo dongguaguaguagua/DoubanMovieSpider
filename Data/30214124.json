@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血之召唤 Blood Craft",
+  "url": "/subject/30214124/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2550139924.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457427/",
+      "name": "詹姆斯·库伦·布雷萨克 James Cullen Bressack"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339760/",
+      "name": "奥吉·杜克 Augie Duke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025196/",
+      "name": "迈克·韦尔奇 Michael Welch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393178/",
+      "name": "克里斯蒂安·加尼埃 Christian Ganiere"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420706/",
+      "name": "索菲·穆塞尔 Sophie Mousel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438298/",
+      "name": "谢里·戴维斯 Sheri Davis"
+    }
+  ]
+,
+  "datePublished": "2019-04-09",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H34M",
+  "description": "两个姐妹在孩子时遭受虐待，在虐待父亲手中，在他死后决定用巫术来恢复他的精神来报复。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

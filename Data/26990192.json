@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "睡在我身旁的女人",
+  "url": "/subject/26990192/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323752/",
+      "name": "张帆 Fan Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350387/",
+      "name": "闫薇儿 Weier Yan"
+    }
+  ]
+,
+  "datePublished": "2016-07-21",
+  "genre": ["\u7231\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H3M",
+  "description": "雪莉是一个性格开朗对爱情十分信仰的女孩，一次偶然的度假机会，她意外的闯进一个过去的故事里，被一个名叫梦瑶的没有眼睛的女鬼缠住。梦瑶让她帮忙寻找自己的眼睛，善良的雪莉为了帮助梦瑶能够投胎，而勇敢的同鬼并...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

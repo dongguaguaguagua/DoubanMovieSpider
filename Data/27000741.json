@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "摇滚吧！老爸",
+  "url": "/subject/27000741/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2494410272.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358664/",
+      "name": "秦勇 Yong Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318999/",
+      "name": "田娃 Wa Tian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403103/",
+      "name": "贾舒涵 Shuhan Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426016/",
+      "name": "王尔娅 Erya Wang"
+    }
+  ]
+,
+  "datePublished": "2019-11-15",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50", "\u5bb6\u5ead", "\u513f\u7ae5"],
+  "duration": "PT1H34M",
+  "description": "电影为一部公路亲子喜剧，秦勇饰演一位摇滚歌手黑梦，在事业最辉煌的时候与影视明星王心语结婚并有了女儿兜兜，原本生活可以一直幸福下去，他却因为沉迷音乐加上性格古怪使得妻子带着女儿离他而去。离婚后的黑梦在经...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

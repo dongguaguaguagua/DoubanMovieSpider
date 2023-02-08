@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "褐红 Maroon",
+  "url": "/subject/27065162/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2462012274.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375276/",
+      "name": "普尔克特 Pulkit"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375276/",
+      "name": "普尔克特 Pulkit"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H34M",
+  "description": "一位大学教授回家后发现妻子失踪了，他彻夜难眠，寻求警察帮助，这时，奇怪而又恐怖的事情接连在教授家里发生了。这个男人将一次次面对幻觉，一次次面对困扰，逐步增加的人物和主角的互动在几个场景中切换，事情的真...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

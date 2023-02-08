@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心魔",
+  "url": "/subject/35128808/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2612437947.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1221295/",
+      "name": "郑希怡 Hei-Yi Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376943/",
+      "name": "李少亭 Shaoting Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274449/",
+      "name": "许绍雄 Siu-Hung Hui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418610/",
+      "name": "贾晓龙 Xiaolong Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274575/",
+      "name": "李国麟 Kwok-Lun Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321672/",
+      "name": "韩马利 Mary Hon Ma-Li"
+    }
+  ]
+,
+  "datePublished": "2020-07-15",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H25M",
+  "description": "许乐（贾晓龙饰）一家在20年前遭遇了一场天灾，父母遇难，许乐也从此丧失了儿时的记忆，而曾经的遭遇却成了伴随许乐成长的噩梦。为了寻回记忆，许乐与令狐（郑希怡饰）来到小时候父母遇难的黄石岛一探究竟。不料当...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

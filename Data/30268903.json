@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暴走杀手",
+  "url": "/subject/30268903/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2527492403.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397204/",
+      "name": "董浩翔 HaoXiang Dong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397204/",
+      "name": "董浩翔 HaoXiang Dong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325184/",
+      "name": "赵煊 Xuan Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383337/",
+      "name": "洪爽 Shuang Hong"
+    }
+  ]
+,
+  "datePublished": "2018-08-03",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT1H10M",
+  "description": "徐智受雇逸乐县富豪卢豪的胁迫，去杀害其弟弟卢朗。徐智趁卢朗不备，拔刀相向，两人扭打成一团，此时天降闪电，正好劈中二人，发生了神秘事件，二人身体互换了。徐智随卢朗的妻子周菲回到家中，想引诱卢朗出现，不料...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

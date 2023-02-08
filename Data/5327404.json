@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Captain Future",
+  "url": "/subject/5327404/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018191/",
+      "name": "克里斯蒂安·阿瓦特 Christian Alvart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1095386/",
+      "name": "艾德蒙·汉弥顿 Edmond Hamilton"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "Curtis Newton is raised by intelligent machines in a secret moon base. When the prodigy is discovere...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

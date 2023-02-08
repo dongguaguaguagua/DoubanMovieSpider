@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Wuthering Heights",
+  "url": "/subject/30257372/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542440797.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027082/",
+      "name": "艾米莉·勃朗特 Emily Brontë"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1222720/",
+      "name": "亨利·杜思韦特 Henry Douthwaite"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5", "\u6050\u6016"],
+  "duration": "",
+  "description": "Wuthering Heights is a wild, passionate tale of the intense and demonic love between Catherine Earns...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们那年",
+  "url": "/subject/27097791/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2494169161.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357092/",
+      "name": "李小宁 Xiaoning Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357092/",
+      "name": "李小宁 Xiaoning Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370232/",
+      "name": "孙承志 Chengzhi Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360468/",
+      "name": "王笑天 Xiaotian Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H40M",
+  "description": "影片讲述新晋导演贺龙兵回忆起那段同哭同笑同青春的高中岁月。贺龙兵与欧宝、宋思明三人是极好的高中同学，虽然家境相差悬殊，但并不妨碍他们的友谊，三人平时在班上调皮捣蛋，但也都只是小打小闹！直到后来贺龙兵偷...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

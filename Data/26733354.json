@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "混蛋夜",
+  "url": "/subject/26733354/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2321645638.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439357/",
+      "name": "姜景中 Jingzhong Jiang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439357/",
+      "name": "姜景中 Jingzhong Jiang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349356/",
+      "name": "周岩 Yan Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462917/",
+      "name": "何江 Jiang He  "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424404/",
+      "name": "郭祥鹏 Xiangpeng Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362856/",
+      "name": "王乙帆 Yifan Wang"
+    }
+  ]
+,
+  "datePublished": "2016-02-20",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "影片发生在的一个火锅店内，几波原本并不相识的混蛋因不同的目的在店中不期而遇。为您送上一部混混、混蛋与美女，纸醉金迷的饕餮盛宴。 一波混蛋犯浑，被另一波混蛋搅局；一波混蛋打劫又被更凶猛的混蛋制服。 真混...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "255",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

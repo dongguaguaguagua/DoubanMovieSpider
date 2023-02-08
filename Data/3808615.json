@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2050",
+  "url": "/subject/3808615/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2580813869.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400825/",
+      "name": "斯图米·玛雅 Stormi Maya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025226/",
+      "name": "迪恩·凯恩 Dean Cain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1215003/",
+      "name": "罗谢尔·阿耶斯 Rochelle Aytes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1256694/",
+      "name": "Vincent Caiola Vincent Caiola"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430254/",
+      "name": "大卫·沃恩 David Vaughn"
+    }
+  ]
+,
+  "datePublished": "2018-11-16",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b", "\u5947\u5e7b"],
+  "duration": "PT1H44M",
+  "description": "A family man struggling to hold it all together discovers a hidden parlor that offers a solution...s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

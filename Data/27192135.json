@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "微商",
+  "url": "/subject/27192135/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371133/",
+      "name": "李子轩 Zixuan Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352042/",
+      "name": "殷樱 Ying Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353453/",
+      "name": "黑戈 Ge Hei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383817/",
+      "name": "林宸锐 Chenrui Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414826/",
+      "name": "邱士鉴 Shijian Qiu"
+    }
+  ]
+,
+  "datePublished": "2017-11-24",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H24M",
+  "description": "本片主要讲述了80、90、00后这三代人在移动电商的发展大潮中，共同经历的艰辛与奋发图强的创业励志过程，以及最后通过移动电商创业从而获得新生的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

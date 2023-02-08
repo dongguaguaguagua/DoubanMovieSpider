@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死路 Dead End",
+  "url": "/subject/6053678/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2452696392.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1248489/",
+      "name": " Markus James"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1248489/",
+      "name": " Markus James"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041187/",
+      "name": "戴比·露珍 Debbie Rochon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1138200/",
+      "name": "费莉莎·罗斯 Felissa Rose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1145663/",
+      "name": "桑尼·施罗耶 Sonny Shroyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078211/",
+      "name": "唐佩德罗·科利 Don Pedro Colley"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "Friends embark on a cross country criminal spree that ends horribly. Reckless actions take them from...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

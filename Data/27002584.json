@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "近郊奸情 Infidelity in Suburbia",
+  "url": "/subject/27002584/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2464814207.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045343/",
+      "name": "大卫·温宁 David Winning"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307733/",
+      "name": "克里斯蒂·威尔 Christie Will"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1216450/",
+      "name": "莎拉·巴特勒 Sarah Butler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349335/",
+      "name": "马库斯·罗斯纳 Marcus Rosner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1064610/",
+      "name": "皮特·本森 Peter Benson"
+    }
+  ]
+,
+  "datePublished": "2017-02-25",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT2H0M",
+  "description": "劳拉和她的丈夫一直在努力工作，她的儿子在上学。劳拉梦想着一个家庭装修项目，以取代不安定的日子。 埃利奥特, 一个她不可抗拒的私人承包商， 很快就实现了她很多禁忌的梦想……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "245",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

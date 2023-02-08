@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀戮指令 Kill Command",
+  "url": "/subject/24746649/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2351977699.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358514/",
+      "name": "史蒂文·戈麦斯 Steven Gomez"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358514/",
+      "name": "史蒂文·戈麦斯 Steven Gomez"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317680/",
+      "name": "凡妮莎·柯比 Vanessa Kirby"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014098/",
+      "name": "托尔·林德哈特 Thure Lindhardt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332074/",
+      "name": "大卫·阿贾拉 David Ajala"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1254783/",
+      "name": "汤姆·麦凯 Tom McKay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333555/",
+      "name": "黛博拉·罗桑 Deborah Rosan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340239/",
+      "name": "宾利·卡鲁 Bentley Kalu"
+    }
+  ]
+,
+  "datePublished": "2016-05-13",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H39M",
+  "description": "在高度机械化的未来，先驱者集团的高级技术员梅尔斯发现，自己研发的S.A.R.型军用战斗机器人出现多起自我编程现象。与此同时，一直精英陆战小队被分派到先驱者集团的机器人训练基地进行实弹演练。梅尔斯跟随小...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "7844",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

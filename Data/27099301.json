@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魔女娇妃",
+  "url": "/subject/27099301/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535725898.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433692/",
+      "name": "刁璐璐 Diao Lu Lu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343056/",
+      "name": "米热 Merxat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422356/",
+      "name": "韩飞 Fei Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404788/",
+      "name": "李若希 Ruoxi Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419580/",
+      "name": "陈冠英 Guanying Chen"
+    }
+  ]
+,
+  "datePublished": "2017-07-26",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H17M",
+  "description": "小星是一名大三学生，一次在玩游戏的时候，窗外雷电交加，游戏中的女英雄——赏金猎人意外从游戏中穿越到现实，认作小星做为她的召唤师，成为小星的女仆。女仆叫莎莎，是一个遇见危机的时候会自动启动战斗模式，平常...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一些美好的事物 Beautiful Things",
+  "url": "/subject/5209742/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2497927846.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396583/",
+      "name": "乔吉欧・费雷洛 Giorgio Ferrero"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396584/",
+      "name": "费德利科・必亚辛 Federico Biasin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396583/",
+      "name": "乔吉欧・费雷洛 Giorgio Ferrero"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1227614/",
+      "name": " Neemisha"
+    }
+  ]
+,
+  "datePublished": "2017-09-01",
+  "genre": ["\u7eaa\u5f55\u7247"],
+  "duration": "PT1H34M",
+  "description": "新导演乔吉欧费雷洛与费德利科必亚辛展现惊人的观察与想像力，将工业的粗糙化为绝美画面，尖锐的撞击融为调和的旋律，将放弃逃离的无奈与叹息，化为一节奏强劲的生命进行曲。
+德州，鑽油井日夜运作不休，一人作业，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "343",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

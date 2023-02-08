@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "诅咒骑士 Knights of the Damned",
+  "url": "/subject/27046364/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2500188763.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300686/",
+      "name": "西蒙·威尔斯 Simon Wells"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1243453/",
+      "name": "本·洛伊德·霍尔姆斯 Ben Loyd-Holmes"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1243453/",
+      "name": "本·洛伊德·霍尔姆斯 Ben Loyd-Holmes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1145385/",
+      "name": "西尔维奥·西马克 Silvio Simac"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423513/",
+      "name": "克里斯托弗·沃勒斯 Christopher Vowles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336077/",
+      "name": "李坤珏 Kunjue Li"
+    }
+  ]
+,
+  "datePublished": "2017-09-25",
+  "genre": ["\u52a8\u4f5c", "\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "PT1H24M",
+  "description": "国王派出了他最好的骑士队来击败围攻城堡的龙。沿着他们的史诗般的冒险，他们遇到恶意的警笛，战士妇女的使命复仇和不死不可阻挡的军队。他们能活下来吗？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "181",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

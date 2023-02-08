@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杨七郎威震神州擂",
+  "url": "/subject/27602053/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2711901493.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396758/",
+      "name": "张宴尘 Yanchen Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317106/",
+      "name": "刘锡明 Sek-Ming Lau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005636/",
+      "name": "刘永 Anthony Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391194/",
+      "name": "方宇晨 Yuchen Fang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "七郎由于父亲严禁他学武，对父亲产生怨念。大商人尹独提出教他武功，七郎不知道这一切的背后都是阴谋。学成之后，七郎为保故土替父打擂。七郎发现对手居然是尹独，最终七郎杀死尹独，父子矛盾亦得以化解。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神探袁可立",
+  "url": "/subject/33437328/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2660267483.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354582/",
+      "name": "陈琳 Lin Chen"
+    }
+  ]
+,
+  "datePublished": "2019-07-30",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ac\u7591", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H22M",
+  "description": "电影《神探袁可立》影片主要讲述的是袁可立在调查一起震惊江南的机密火器杀人案时，遭受重重阻拦和误导，逐渐发现身边所有亲近人都在欺骗自己，在彻查此案件过程中却发现另有隐情--其涉及整个江南的黑幕，甚至连自...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

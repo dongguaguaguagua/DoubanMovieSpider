@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "活死人入侵",
+  "url": "/subject/27202870/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505483933.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319338/",
+      "name": "邓安东 Andong Deng"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378788/",
+      "name": "江兰萱 Lanhui Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375551/",
+      "name": "何柔熹 Rouxi He"
+    }
+  ]
+,
+  "datePublished": "2017-11-17",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "讲述在地球被丧尸病毒侵袭后，蒋大卫一直与奶奶生活在地下室，在灾难到来时却因此而幸免于难。他救下被丧尸群袭击的三个学生和一对在工地上干苦力的夫妇，不料厄运就此降临地下室。末日世界，人心比丧尸更可怕，因为...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

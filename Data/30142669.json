@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "初来乍到 First Comes Like",
+  "url": "/subject/30142669/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2512990795.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394859/",
+      "name": "乔·弗里亚 Joe Fria"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012342/",
+      "name": "Robert Serrini Robert Serrini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1226993/",
+      "name": "斯特灵·苏利曼 Sterling Sulieman"
+    }
+  ]
+,
+  "datePublished": "2016-04-30",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H22M",
+  "description": "After they both swipe right, Jeff and Kate start to build a personal relationship through the most i...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

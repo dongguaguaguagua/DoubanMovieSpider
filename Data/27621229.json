@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2017 MAMA亚洲音乐盛典 2017 Mnet Asia Music Award",
+  "url": "/subject/27621229/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2509560299.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274931/",
+      "name": "宋仲基 Joong-ki Song"
+    }
+  ]
+,
+  "datePublished": "2017-12-01",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e", "\u771f\u4eba\u79c0"],
+  "duration": "PT2H21M",
+  "description": "2017Mnet亚洲音乐大奖以主题“共存”出发，藉由在越南、日本和中国香港3地区举行，使不同语言和文化的人都能融合在一起",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

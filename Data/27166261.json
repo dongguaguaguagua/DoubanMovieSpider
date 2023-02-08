@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "致命故事2 Deadly Tales II",
+  "url": "/subject/27166261/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2501456708.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483090/",
+      "name": "Athena Demos Athena Demos"
+    }
+  ]
+,
+  "datePublished": "2016-10-31",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H17M",
+  "description": "Deadly Tales II is an anthology of three horror shorts from the unusual tradition of Tales from the ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

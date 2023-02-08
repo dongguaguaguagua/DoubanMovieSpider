@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Dark Roads 79",
+  "url": "/subject/27069300/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462845167.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040632/",
+      "name": "比尔·莫斯利 Bill Moseley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195370/",
+      "name": "艾迪·乔治 Eddie George"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

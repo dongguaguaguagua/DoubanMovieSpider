@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拉潘佩罗 El Pampero",
+  "url": "/subject/30227027/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522705397.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010085/",
+      "name": "胡立欧·查韦斯 Julio Chávez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304627/",
+      "name": "凯撒·特龙科索 César Troncoso"
+    }
+  ]
+,
+  "datePublished": "2017-03-09",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H17M",
+  "description": "An ill man takes a trip on his boat to remember quietly his life. Unexpectedly, a girl takes cover o...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

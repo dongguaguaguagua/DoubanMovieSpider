@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "宝贝特攻2：惊天计划",
+  "url": "/subject/27178932/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2521628421.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314763/",
+      "name": "蓝心妍 CrazybarbyLeni Lan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342564/",
+      "name": "冀涛 Tao Ji"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

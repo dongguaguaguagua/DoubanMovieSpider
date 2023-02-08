@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "嘿，阿诺德！丛林 Hey Arnold!: The Jungle Movie",
+  "url": "/subject/27589696/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506098188.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1039129/",
+      "name": "雷米·穆兹奎茨 Raymie Muzquiz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028121/",
+      "name": "克雷格·巴特利特 Craig Bartlett"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386100/",
+      "name": "小本杰明·弗洛雷斯 Benjamin Flores Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387309/",
+      "name": "杰特·尤尔根斯米尔 Jet Jurgensmeyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420373/",
+      "name": "艾登·莱万多夫斯基 Aiden Lewandowski"
+    }
+  ]
+,
+  "datePublished": "2017-11-24",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H20M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

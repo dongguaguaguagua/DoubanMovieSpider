@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猎魔女战士",
+  "url": "/subject/26834361/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2365938661.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413087/",
+      "name": "金焱磊 Yanlei Jin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413087/",
+      "name": "金焱磊 Yanlei Jin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390203/",
+      "name": "杨开心 Kaixin Yang"
+    }
+  ]
+,
+  "datePublished": "2016-07-07",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H1M",
+  "description": "这是一个黑暗动乱的时代，凤凰是这个时代最后的猎魔人，以猎杀城市中的邪灵妖魔为己任。在漫长的猎魔旅途中，结识了若梦，哈雷，静美三个好姐妹，组成了女神联盟，清扫城市中的污秽。彼时的城市中出现了吸血魔，野狼...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恶意",
+  "url": "/subject/26915543/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2408020090.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366407/",
+      "name": "万里扬 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366407/",
+      "name": "万里扬 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313809/",
+      "name": "余皑磊 Ailei Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355497/",
+      "name": "董向荣 Xiangrong Dong"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT0H29M",
+  "description": "《恶意》北京电影学院2016届毕业联合作业
+幼儿接连失踪被害，警方线索了了，无从下手。刑侦队长张驰无意发现养女慧慧成为凶手下任目标，在决定实施保护同时张弛突然萌生依靠慧慧实施诱捕的想法。不料，狡诈凶犯...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "425",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

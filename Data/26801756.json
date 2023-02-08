@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大叔，别潜00后",
+  "url": "/subject/26801756/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2355588216.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435955/",
+      "name": "杨扬 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435955/",
+      "name": "杨扬 "
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-05-23",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u9ed1\u8272\u7535\u5f71"],
+  "duration": "PT1H8M",
+  "description": "影片讲述了出生贫寒，年少便辍学务工的“大叔”，在他心里，一直有个演员梦，渴望有朝一日能出人头地。然而，直到熬成中年大叔，梦仍遥遥无期。这次，“大叔”搞到一条内幕：某香港导演要来当地拍摄一部“大片”，谁...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红色天空 Ciel rouge",
+  "url": "/subject/27147492/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499625699.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364962/",
+      "name": "奥利维尔·洛雷勒 Olivier Lorelle"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364962/",
+      "name": "奥利维尔·洛雷勒 Olivier Lorelle"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009504/",
+      "name": "塞瑞尔·戴思科斯 Cyril Descours"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376442/",
+      "name": "奥黛丽·贾科米尼 Audrey Giacomini"
+    }
+  ]
+,
+  "datePublished": "2017-08-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "讲述的是法国士兵菲利普与越南姑娘阿诗的爱情故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

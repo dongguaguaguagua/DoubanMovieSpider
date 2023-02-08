@@ -1,0 +1,31 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "pseudonym",
+  "url": "/subject/27177506/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502771770.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-03-09",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H14M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

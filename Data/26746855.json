@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "姐弟 Die Geschwister",
+  "url": "/subject/26746855/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2356395658.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001406/",
+      "name": "杨·库格尔 Jan Krüger"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001406/",
+      "name": "杨·库格尔 Jan Krüger"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348730/",
+      "name": "弗拉基米尔·布尔拉科夫 Vladimir Burlakov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310444/",
+      "name": "艾瑞娜·波塔佩科 Irina Potapenko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417132/",
+      "name": "朱利斯·尼兹舒寇夫 Julius Nitschkoff"
+    }
+  ]
+,
+  "datePublished": "2016-10-27",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H29M",
+  "description": "Neukölln, a Berlin district trend. Apartments are scarce here. Without surety, credit and proof of i...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "82",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Bhajjo Veero Ve",
+  "url": "/subject/30396338/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2541835515.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406509/",
+      "name": "锡米·查尔 Simi Chahal"
+    }
+  ]
+,
+  "datePublished": "2018-12-14",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H53M",
+  "description": "Bhajjo Veero Ve (lit.Run Brothers) is an upcoming 2018 Indian-Punjabi romantic-comedy drama film wri...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

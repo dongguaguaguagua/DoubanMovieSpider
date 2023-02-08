@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "逃离现场",
+  "url": "/subject/26873097/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2506144654.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384844/",
+      "name": "李嘉华 Jiahua Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384844/",
+      "name": "李嘉华 Jiahua Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037023/",
+      "name": "郑佩佩 Pei-pei Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384847/",
+      "name": "马丹阳 Danyang Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384845/",
+      "name": "付佳雯 Jiawen Fu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384846/",
+      "name": "李子成 Zicheng Li"
+    }
+  ]
+,
+  "datePublished": "2017-12-12",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H26M",
+  "description": "不断掉粉儿的人气女主播“可可”独自一人走进一间荒废已久的传闻中的话剧院进行手机直播探秘之行。不慎在黑暗中滚下楼梯至昏迷。剧院仅存的管理员“翠英”将她带入自己的房间，从此可可便与外界失去了联系。
+“可可...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "608",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.5"
+  }
+}

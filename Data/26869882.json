@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "依依惜别 رفتن",
+  "url": "/subject/26869882/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2381668748.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425374/",
+      "name": "纳维德·马哈莫迪 Navid Mahmoudi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425374/",
+      "name": "纳维德·马哈莫迪 Navid Mahmoudi"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H18M",
+  "description": "两名阿富汗青少年，纳比和费列什泰赫相互坠入了爱河。然而由于阿富汗安全局势恶化，费列什泰赫的父亲决定为他的家人在伊朗寻求避难。于是，纳比和费列什泰赫被迫分隔两地。五年过去了，但他们对彼此的爱依然像以往一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "129",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

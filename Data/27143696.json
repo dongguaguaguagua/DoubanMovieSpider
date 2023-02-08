@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "广东十虎苏灿之卧龙在田",
+  "url": "/subject/27143696/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2797461831.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324376/",
+      "name": "田少波 Shaobo Tian"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332806/",
+      "name": "刘峰超 Fengchao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336100/",
+      "name": "樊昱君 Yujun Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313315/",
+      "name": "刘牧 Mu Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314476/",
+      "name": "修庆 Qing Xiu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H29M",
+  "description": "影片主要讲述了乞儿阿水被假冒的亲生父母领走，却不知那只是个骗局。只因王爷之妻重病，开出的药引是用孩童之心。苏灿得知真相，为救孩童，他探查此案，最终救得孩子们，也捣毁了预谋造反的军火库的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

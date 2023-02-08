@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "忘年之恋 Looping",
+  "url": "/subject/26921355/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2400042815.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373493/",
+      "name": "莱奥妮·克里彭多夫 Leonie Krippendorff"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373493/",
+      "name": "莱奥妮·克里彭多夫 Leonie Krippendorff"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340874/",
+      "name": "杰拉·哈斯 Jella Haase"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410504/",
+      "name": "海伦娜·泽格尔 Helena Zengel"
+    }
+  ]
+,
+  "datePublished": "2016-01-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H46M",
+  "description": "莱拉（杰拉·哈斯 Jella Haase 饰）是一位19岁的少女，性格敏感而又内向的她在长辈们的眼里稍稍的有些叛逆。一天，当莱拉在医院里于昏迷中醒来时，发现自己被强暴了。着天降巨灾让莱拉的精神陷入了崩...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "197",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

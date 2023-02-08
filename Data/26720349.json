@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "东北特工吴老二",
+  "url": "/subject/26720349/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2315644006.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348562/",
+      "name": "侯晓林 Xiaolin Hou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348562/",
+      "name": "侯晓林 Xiaolin Hou"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-02-06",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u60ac\u7591", "\u60c5\u8272"],
+  "duration": "PT1H14M",
+  "description": "东北民工吴老二，误打误撞成为“特工”。在一次执行任务过程中，遇见暗恋已久的嫂子阿莲，不料美丽性感阿莲已经爱上霸道总裁庆哥，吴老二被庆哥暴揍后，决定带领自己的民工团队去复仇，一场关于尊严与自我，现实与爱...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

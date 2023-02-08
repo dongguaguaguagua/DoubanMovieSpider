@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "切尔诺贝利之春 Un printemps à Tchernobyl",
+  "url": "/subject/30206517/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2520682504.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376125/",
+      "name": "小野败仔 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398276/",
+      "name": "艾玛纽埃尔·勒巴热 Emmanuel Lepage"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376135/",
+      "name": "冷泉夜月 "
+    }
+  ]
+,
+  "datePublished": "2018-04-26",
+  "genre": ["\u52a8\u753b", "\u77ed\u7247"],
+  "duration": "PT0H13M",
+  "description": "1986年4月26日凌晨，乌克兰普里皮亚季邻近的切尔诺贝利核电厂的第四号反应堆发生爆炸。最初发生的蒸气爆炸导致两人死亡，而事故中释放的高能辐射造成的危害则更加严重，死伤者至今难以计数。2008年的又一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5128",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

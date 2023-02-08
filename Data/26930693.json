@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Sianor",
+  "url": "/subject/26930693/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2403592978.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332112/",
+      "name": "哈迈德·科梅里 Hamed Komeili"
+    }
+  ]
+,
+  "datePublished": "2016-05-12",
+  "genre": ["\u7231\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "The end of the long silence after some time. Amir and Homa find each other while they have just one ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

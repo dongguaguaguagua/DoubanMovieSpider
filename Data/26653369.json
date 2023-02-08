@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "野蛮地区 La región salvaje",
+  "url": "/subject/26653369/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2379672868.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032774/",
+      "name": "阿玛特·伊斯卡拉特 Amat Escalante"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032774/",
+      "name": "阿玛特·伊斯卡拉特 Amat Escalante"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353334/",
+      "name": "纪伯伦·波特拉 Gibrán Portela"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384674/",
+      "name": "露丝·拉莫斯 Ruth Ramos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384675/",
+      "name": "西蒙妮·布奇奥 Simone Bucio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385747/",
+      "name": "赫苏斯·梅扎 Jesús Meza"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385748/",
+      "name": "伊登·比利亚维森西奥 Eden Villavicencio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360887/",
+      "name": "肯尼·约翰斯顿 Kenny Johnston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385749/",
+      "name": "安德里亚·佩拉兹 Andrea Peláez"
+    }
+  ]
+,
+  "datePublished": "2016-05-15",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b", "\u540c\u6027"],
+  "duration": "PT1H38M",
+  "description": "全职工作的亚力山朵拉和丈夫在小镇上一同抚养两个小孩。小镇的生活枯燥乏味，性感女人维罗妮卡的出现打破了这一切。性爱可能会带来致命危险，尤其当恐同和大男子主义在某些地区已经根深蒂固。维罗妮卡让这家人相信，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1771",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

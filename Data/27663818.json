@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "漫步归来",
+  "url": "/subject/27663818/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2510795291.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387347/",
+      "name": "王曦德 Xide Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387347/",
+      "name": "王曦德 Xide Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "徐佳林由于家庭原因即将离开打工生活的城市回到故乡。在这个下午，他与自己的女友，生活过的小区，关照过自己的大哥以及这个城市，甚至自己的音乐梦想一一告别，踏上归途。本片为103分钟一镜到底。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

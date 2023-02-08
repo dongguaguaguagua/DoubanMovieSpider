@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "柳毅奇缘",
+  "url": "/subject/27186593/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512434507.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361720/",
+      "name": "邓原 Yuan Deng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327421/",
+      "name": "潘钧 Jun Pan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387517/",
+      "name": "谭青霜 Qingshuang Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387518/",
+      "name": "陈冠卿 Guanqing Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361720/",
+      "name": "邓原 Yuan Deng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387515/",
+      "name": "丁凡 Fan Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387516/",
+      "name": "曾小敏 Xiaomin Zeng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387519/",
+      "name": "王燕飞 Yanfei Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387520/",
+      "name": "黄伟香 Weixiang Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387521/",
+      "name": "冼鉴棠 Jiantang Xian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387517/",
+      "name": "谭青霜 Qingshuang Tan"
+    }
+  ]
+,
+  "datePublished": "2018-01-30",
+  "genre": ["\u7231\u60c5", "\u620f\u66f2"],
+  "duration": "PT1H52M",
+  "description": "潇湘学子柳毅苦读十年之后，赶赴千里之外的北方京城考科举。柳毅在京郊雪野偶遇一位重病缠身的牧羊女，她是湖南洞庭湖龙女三娘，远嫁此地泾河小龙王，遭受恶夫虐待，危在旦夕。柳毅仗义相助，不去考场，立即赶回遥远...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

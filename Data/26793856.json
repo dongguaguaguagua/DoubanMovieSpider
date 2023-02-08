@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "兔子花园 The Rabbit Garden",
+  "url": "/subject/26793856/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009475/",
+      "name": "雅努什·卡明斯基 Janusz Kaminski"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u4f20\u8bb0"],
+  "duration": "",
+  "description": "奥斯卡最佳摄影，老斯御用摄影师卡明斯基将执导传记片《兔子花园》，讲述上世纪著名作家杰兹·科辛斯基在历经人生苦痛之后无奈自杀的故事，影片将于明年开机。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

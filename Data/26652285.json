@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死亡电视 KILD TV",
+  "url": "/subject/26652285/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2656081574.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1087746/",
+      "name": "D.C.道格拉斯 D.C. Douglas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1112517/",
+      "name": "Grace Johnston Grace Johnston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1458104/",
+      "name": "Sheri Oster Sheri Oster"
+    }
+  ]
+,
+  "datePublished": "2016-03-01",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "The crew of a local horror movie showcase is use to broadcasting creepy stories of heinous killers, ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

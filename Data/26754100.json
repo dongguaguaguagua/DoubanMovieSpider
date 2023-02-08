@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "兼职杀手 Un petit boulot",
+  "url": "/subject/26754100/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2377078409.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315647/",
+      "name": "帕斯卡尔·舒梅 Pascal Chaumeil"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000661/",
+      "name": "米歇尔·布朗 Michel Blanc"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018093/",
+      "name": "罗曼·杜里斯 Romain Duris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000661/",
+      "name": "米歇尔·布朗 Michel Blanc"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413604/",
+      "name": "爱丽丝·贝拉迪 Alice Belaïdi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401004/",
+      "name": "斯蒂芬妮·克雷恩考尔 Stéphanie Crayencour"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453608/",
+      "name": "伊万·马科斯 Iván Marcos"
+    }
+  ]
+,
+  "datePublished": "2016-08-31",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H37M",
+  "description": "An unemployed factory worker takes a job as a hit man to make ends meet.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "41",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

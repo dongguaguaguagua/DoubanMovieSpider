@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "King Liar",
+  "url": "/subject/26830547/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2574629063.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041737/",
+      "name": "迪利普 Dileep"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1120406/",
+      "name": "乔伊·马修 Joy Mathew"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467310/",
+      "name": "阿莎·莎拉特 Asha Sharath  "
+    }
+  ]
+,
+  "datePublished": "2016-04-02",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H37M",
+  "description": "After falling in love with an aspiring fashion model, a conman attempts to get her work with India&#39;s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

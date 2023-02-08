@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "李理的白日梦",
+  "url": "/subject/30249283/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2525120435.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400131/",
+      "name": "肖鹤 He Xiao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400131/",
+      "name": "肖鹤 He Xiao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414497/",
+      "name": "元钧霖 Junlin Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322071/",
+      "name": "鲍振江 Zhenjiang Bao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414498/",
+      "name": "薛晴 Qing Xue"
+    }
+  ]
+,
+  "datePublished": "2018-06-15",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5"],
+  "duration": "PT0H28M",
+  "description": "男孩李理跟随母亲从农村到城里与父亲生活，父亲却意外去世留下母子二人。为了维持生计，母亲做起楼凤的生意。被母亲冷落的男孩决定用自己的方式引起母亲的注意。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "219",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

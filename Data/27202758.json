@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "梦境之源",
+  "url": "/subject/27202758/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2539255334.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351926/",
+      "name": "柳珂 Ke Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402683/",
+      "name": "姜东阁 Dongge Jiang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274865/",
+      "name": "陈志朋 Julian Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034637/",
+      "name": "颜丹晨 Danchen Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316548/",
+      "name": "李彧 Yu Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316825/",
+      "name": "安琥 Hu An"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033102/",
+      "name": "方中信 Alex Fong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389571/",
+      "name": "李若玹 Ruoxuan Li"
+    }
+  ]
+,
+  "datePublished": "2018-11-16",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "本片讲述了货车司机李昂由于童年时代的遭遇，内向懦弱，颓废度日，频频做噩梦，严重影响了正常的生活，并因此不得不接受心理医生曹井润的催眠治疗，却在梦境中意外卷入一场凶杀案的故事。睿智破案的警探成为凶手，而...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

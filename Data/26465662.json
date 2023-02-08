@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Jimmy Jones",
+  "url": "/subject/26465662/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2524212859.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329326/",
+      "name": "德拉戈米尔·米希克 Dragomir Mrsic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1090464/",
+      "name": "托尔斯滕·弗林克 Thorsten Flinck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1094174/",
+      "name": "Peter Gardiner Peter Gardiner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127300/",
+      "name": "Lina Perned Lina Perned"
+    }
+  ]
+,
+  "datePublished": "2018-07-18",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H14M",
+  "description": "Small time criminal Jimmy from Malmö, dreams of making it big. All he has to do is to pull off the d...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

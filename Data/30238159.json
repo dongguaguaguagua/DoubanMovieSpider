@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "مصادره",
+  "url": "/subject/30238159/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523768771.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327177/",
+      "name": "迈赫兰·艾哈迈迪 Mehran Ahmadi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327177/",
+      "name": "迈赫兰·艾哈迈迪 Mehran Ahmadi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358482/",
+      "name": "Mazdak Mirabedini Mazdak Mirabedini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358617/",
+      "name": "哈曼·赛耶迪 Hooman Seyedi"
+    }
+  ]
+,
+  "datePublished": "2018-02-03",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H37M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

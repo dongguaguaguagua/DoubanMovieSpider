@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异形：人族的统治 Alien: Reign of Man",
+  "url": "/subject/27109380/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495691728.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1271419/",
+      "name": "贾斯汀·皮尔斯 Justin Price"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1271419/",
+      "name": "贾斯汀·皮尔斯 Justin Price"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007572/",
+      "name": "Cristina Khuly Cristina Khuly"
+    }
+  ]
+,
+  "datePublished": "2017-08-01",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H24M",
+  "description": "在一個遙遠的星球上，有一群時空穿越者正和外星人對戰，必須在限定時間內啟動時光機器，將地球回復到毀滅之前的樣子。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "519",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.5"
+  }
+}

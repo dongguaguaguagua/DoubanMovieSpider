@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "理想丈夫 An Ideal Husband",
+  "url": "/subject/30273446/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2573604343.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027987/",
+      "name": "奥斯卡·王尔德 Oscar Wilde"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315211/",
+      "name": "弗莱迪·福克斯 Freddie Fox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002788/",
+      "name": "爱德华·福克斯 Edward Fox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061705/",
+      "name": "弗兰西斯·巴贝 Frances Barber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074399/",
+      "name": "莎莉·布雷顿 Sally Bretton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045006/",
+      "name": "内森奈尔·帕克 Nathaniel Parker"
+    }
+  ]
+,
+  "datePublished": "2018-06-05",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H20M",
+  "description": "“有伤风化”的罪名已经成为历史，王尔德的才华依然“可羡可惊”。2018年伦敦西区的王尔德演出季，让人们再度折服于这位维多利亚时期的天才作家。单单一部《理想丈夫》，就将爱情与婚姻调侃得透彻，躺枪者无数，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "502",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.6"
+  }
+}

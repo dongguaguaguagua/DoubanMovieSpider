@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "凛冬兄弟 Vinterbrødre",
+  "url": "/subject/26824029/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2509327459.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377365/",
+      "name": "希尼尔·保尔马松 Hlynur Pálmason"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377365/",
+      "name": "希尼尔·保尔马松 Hlynur Pálmason"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382417/",
+      "name": "埃利奥特·克罗赛特·霍夫 Elliott Crosset Hove"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391625/",
+      "name": "西蒙·西尔斯 Simon Sears"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391626/",
+      "name": "维多利亚·卡门·索内 Victoria Carmen Sonne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045177/",
+      "name": "拉斯·米克尔森 Lars Mikkelsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334356/",
+      "name": "彼得·普劳格博格 Peter Plaugborg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366022/",
+      "name": "迈克尔·布罗斯楚普 Michael Brostrup"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016794/",
+      "name": "安德斯·霍夫 Anders Hove"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391627/",
+      "name": "Jannik Jensen Jannik Jensen"
+    }
+  ]
+,
+  "datePublished": "2017-08-03",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "电影是在寒冷的冬天拍摄的，讲述了一对兄弟之间的故事，他们的常规、习惯、仪式，以及他们和另一个家庭之间爆发的暴力冲突。这是一个缺爱的故事，所以影片关注了弟弟埃米尔，以及他被爱和被需要的渴望。《凛冬兄弟》...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "371",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

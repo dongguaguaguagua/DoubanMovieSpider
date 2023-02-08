@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蝴蝶夫人 Royal Opera House Live Cinema Season 2016/17: Madama Butterfly",
+  "url": "/subject/30294094/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2867321779.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1030143/",
+      "name": "朱塞佩·吉科萨 Giuseppe Giacosa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047002/",
+      "name": "路易吉·伊利卡 Luigi Illica"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410363/",
+      "name": "埃尔莫利拉·亚霍 Ermonela Jaho"
+    }
+  ]
+,
+  "datePublished": "2017-03-30",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u97f3\u4e50", "\u620f\u66f2"],
+  "duration": "PT2H51M",
+  "description": "《蝴蝶夫人》是普契尼一部伟大的抒情悲剧。该剧以日本为背景，叙述女主人公乔乔桑与美国海军军官平克尔顿结婚后空守闺房，等来的却是背弃，乔乔桑以自杀了结尘缘。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

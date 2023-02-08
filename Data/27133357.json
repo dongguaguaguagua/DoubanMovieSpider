@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一切皆无 Everything Is Free",
+  "url": "/subject/27133357/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505141580.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380916/",
+      "name": "布莱恩·乔丹·阿尔瓦雷斯 Brian Jordan Alvarez"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380916/",
+      "name": "布莱恩·乔丹·阿尔瓦雷斯 Brian Jordan Alvarez"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380916/",
+      "name": "布莱恩·乔丹·阿尔瓦雷斯 Brian Jordan Alvarez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074877/",
+      "name": "彼得·瓦克 Peter Vack"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336023/",
+      "name": "布鲁斯·邦迪 Bruce Bundy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333185/",
+      "name": "丹妮尔·沃茨 Danièle Watts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1216686/",
+      "name": "摩根科莱恩斯 Morgan Krantz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348032/",
+      "name": "Jimmy Fowlie Jimmy Fowlie"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u540c\u6027"],
+  "duration": "PT1H32M",
+  "description": "Ivan (Brian Jordan Alvarez) is an American Paint Artist residing in Colombia. He was visited by his ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "80",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

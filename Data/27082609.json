@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暮色之旅 Twilight Ride",
+  "url": "/subject/27082609/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2601260587.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437035/",
+      "name": "布兰登·诺克斯 Brandon Knox"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "In order to discover the truth about his brother&#39;s disappearance, a young man returns to his hometow...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "密室逃脱 Escape Room",
+  "url": "/subject/27108373/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2584245760.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340326/",
+      "name": "埃文·威廉斯 Evan Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1256117/",
+      "name": "安娜贝拉·史蒂文森 Annabelle Stevenson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322844/",
+      "name": "伊丽莎白·豪尔 Elisabeth Hower"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359301/",
+      "name": "丹·J·约翰逊 Dan J. Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430739/",
+      "name": "达瑞尔·切尔尼 Darrel Cherney"
+    }
+  ]
+,
+  "datePublished": "2017-06-09",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H21M",
+  "description": "姬丝汀为了庆祝男朋友泰勒30岁生日，决定带他及另外两对情侣，玩时下流行的「密室逃脱」游戏。玩家会被锁在一间密室里，透过房内线索限时一小时解谜并找到逃出方法。一开始大家都兴致勃勃，但当时间流逝，难度提高...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2873",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

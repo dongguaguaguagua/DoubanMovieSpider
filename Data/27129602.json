@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "母亲的肖像",
+  "url": "/subject/27129602/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502134538.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380546/",
+      "name": "赵国桦 Guohua Zhao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380548/",
+      "name": "王萌 Meng Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341771/",
+      "name": "郭月 Yue Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276893/",
+      "name": "艾丽娅 Liya Ai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372230/",
+      "name": "吴海棠 Haitang Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380549/",
+      "name": "苏雅拉达来 "
+    }
+  ]
+,
+  "datePublished": "2017-10-04",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H30M",
+  "description": "青年画家岸春自小在内蒙古长大，当地的风土人情造就了他的艺术才华。然而在他的内心一直有着一块难以抚平的伤痕，过早缺失的母爱让这位人前光鲜的艺术家在情感里陷入迷失，常以酒精为伴麻醉自我。当受一位蒙古老人所...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

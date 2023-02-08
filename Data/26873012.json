@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伪纪录片3D Found Footage 3D",
+  "url": "/subject/26873012/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2379717433.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033382/",
+      "name": "Scott Allen Perry Scott Allen Perry"
+    }
+  ]
+,
+  "datePublished": "2016-08-20",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H40M",
+  "description": "一组电影制作者想要拍摄史上第一部原生3D的伪纪录恐怖片，但他们拍摄影片中的邪恶力量从电影中逃出到了他们的日常生活，这时他们才发现自己正身处于一部伪纪录恐怖片中……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "150",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

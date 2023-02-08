@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "救命，我们没网了 Hilfe, wir sind offline",
+  "url": "/subject/27176604/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2504681394.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304464/",
+      "name": "Ingo Rasper Ingo Rasper"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331556/",
+      "name": "Martin Rauhaus Martin Rauhaus"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1105572/",
+      "name": "尼娜·昆岑多夫 Nina Kunzendorf"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000966/",
+      "name": "克里斯托弗·M·欧赫特 Christoph M. Ohrt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442461/",
+      "name": "安娜·莉娜·施温 Anna-Lena Schwing"
+    }
+  ]
+,
+  "datePublished": "2016-10-27",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "本片讲述了一个德国母亲看到自己的孩子沉溺于网络世界，忽视了真实世界。为了改变这个状况，她做出了大胆的尝试，禁止家人使用电子设备。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "疯妈传奇 Ma mère est folle",
+  "url": "/subject/30399125/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542155436.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037319/",
+      "name": "迪亚娜·库里 Diane Kurys"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002812/",
+      "name": "芬妮·阿尔丹 Fanny Ardant"
+    }
+  ]
+,
+  "datePublished": "2018-12-05",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H35M",
+  "description": "Nina is a mother a little bit crazy, Baptiste a son a little too wise. Angry since a long time they ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

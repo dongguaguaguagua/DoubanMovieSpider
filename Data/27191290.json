@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "戴头饰的男孩 The Boy with the Topknot",
+  "url": "/subject/27191290/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2513225954.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025455/",
+      "name": "米克·福德 Mick Ford"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274867/",
+      "name": "萨沙·达万 Sacha Dhawan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323856/",
+      "name": "乔安娜 范德汉姆 joanna vanderham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425715/",
+      "name": "曼普丽特· 班布拉 Manpreet Bambra"
+    }
+  ]
+,
+  "datePublished": "2017-11-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "《戴头饰的男孩》改编自英国记者 Sathnam Sanghera备受好评的同名回忆录。这部剧讲述了20世纪80年代他在伍尔弗汉普顿（Wolverhampton）的童年生活。他的童年有趣又伤感，因为他不...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

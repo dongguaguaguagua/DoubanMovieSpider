@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "昏神 Delirium",
+  "url": "/subject/11502902/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2511181345.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014576/",
+      "name": "约翰尼·马丁 Johnny Martin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280598/",
+      "name": "郑继宗 Andy Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014576/",
+      "name": "约翰尼·马丁 Johnny Martin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337762/",
+      "name": "迈克·C·曼宁 Mike C. Manning"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326430/",
+      "name": "格里芬·弗里曼 Griffin Freeman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004733/",
+      "name": "瑞恩·平克斯顿 Ryan Pinkston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340682/",
+      "name": "奥格斯·罗德 August Roads"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349377/",
+      "name": "特里萨·纳瓦罗 Teresa Navarro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010536/",
+      "name": "托弗·戈瑞斯 Topher Grace"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018283/",
+      "name": "泰尔·奥尔森 Tye Olson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1126747/",
+      "name": "卡兰·马尔韦 Callan Mulvey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1156675/",
+      "name": "罗宾·托马斯 Robin Thomas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335550/",
+      "name": "埃琳娜·桑切斯 Elena Sanchez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350601/",
+      "name": "Braden Fitzgerald Braden Fitzgerald"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1123441/",
+      "name": "黛西·麦克科拉金 Daisy McCrackin"
+    }
+  ]
+,
+  "datePublished": "2018-01-19",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H24M",
+  "description": "A group of young men dare a classmate to reach the porch of a legendary old house, said to be haunte...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "167",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

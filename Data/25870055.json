@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Men Who Kill",
+  "url": "/subject/25870055/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244227/",
+      "name": "托德·菲克斯曼 Todd Fixman"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1107320/",
+      "name": "迈克尔·B·乔丹 Michael B. Jordan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "",
+  "description": "迈克尔·B·乔丹将主演动作惊悚片[Men Who Kill]，这是20世纪福斯为他量身打造的作品。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

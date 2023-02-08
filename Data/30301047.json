@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Velvet",
+  "url": "/subject/30301047/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199101/",
+      "name": "安德里亚·斯特凡西科瓦 Andrea Stefancikova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108016/",
+      "name": "迈克尔·科普萨 Michael Kopsa"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "",
+  "description": "A troubled streetwalker meets a mysterious hitman. Together they go down an action-packed rabbit hol...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

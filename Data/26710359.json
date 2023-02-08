@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱情斑马线",
+  "url": "/subject/26710359/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2681374810.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316547/",
+      "name": "吴卫东 Weidong Wu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319509/",
+      "name": "夏花 Hua Xia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315144/",
+      "name": "杜宁林 Ninglin Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360057/",
+      "name": "含笑 Xiao Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368657/",
+      "name": "许紫青 Ziqing Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313513/",
+      "name": "李光复 Guangfu Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360156/",
+      "name": " "
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H31M",
+  "description": "影片主要讲述了女主角杨晓梦因交通违章被男主角庄智扣留，丢了工作，却再三遇到庄智。最终二人在命运的安排之下，从斗气冤家变成了欢喜冤家的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "213",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.1"
+  }
+}

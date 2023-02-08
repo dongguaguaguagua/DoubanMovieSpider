@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "庇护所 SHELTER",
+  "url": "/subject/26895987/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2390563275.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430285/",
+      "name": "赤井俊文 Toshifumi Akai"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319412/",
+      "name": "三泽纱千香 Sachika Misawa"
+    }
+  ]
+,
+  "datePublished": "2016-10-18",
+  "genre": ["\u79d1\u5e7b", "\u52a8\u753b"],
+  "duration": "PT0H6M",
+  "description": "美国电音制作人Porter Robinson与A1联手打造的单曲动画「SHELTER」，故事以在未来的虚拟现实VR世界中醒来的17岁孤独少女·凛（CV：三泽纱千香）为主角，每天操作着平板创造属于自己的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1416",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.6"
+  }
+}

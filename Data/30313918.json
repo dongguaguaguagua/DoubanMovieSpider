@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "9～ナイン～",
+  "url": "/subject/30313918/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2532736008.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417396/",
+      "name": "堤泰之 Yasuyuki Tsutsumi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422458/",
+      "name": "市来玲奈 Ichiki Rena"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462721/",
+      "name": "黒石高大 Takahiro Kuroishi "
+    }
+  ]
+,
+  "datePublished": "2018-02-17",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H41M",
+  "description": "オーディション29連敗、女子ボクサーの伝記舞台への応募が最後だと事務所から通告され、会長が工事現場で働くようなジムに役作りで入った女優・小夜。そこに、ジムは借金まみれで返せないと取り壊すと通告する金融...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

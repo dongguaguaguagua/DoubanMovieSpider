@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寻找乌姆 Looking for Oum Kulthum",
+  "url": "/subject/26746837/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2504546333.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000618/",
+      "name": "施林·奈沙 Shirin Neshat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395645/",
+      "name": "索夏·亚萨瑞 Shoja Azari"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000618/",
+      "name": "施林·奈沙 Shirin Neshat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050366/",
+      "name": "让-克劳德·卡里埃尔 Jean-Claude Carrière"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1119269/",
+      "name": "Mehdi Moinzadeh Mehdi Moinzadeh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286212/",
+      "name": "蕾拉·哈塔米 Leila Hatami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038950/",
+      "name": "阿里·莫沙法 Ali Mosaffa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300271/",
+      "name": "阿马尔·维克德 Amr Waked"
+    }
+  ]
+,
+  "datePublished": "2017-09-02",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "十多岁的米特拉是一位雄心勃勃的艺术家，她正在完成自己的梦想作品，也就是拍摄一部关于埃及传奇歌手及女星乌姆·库勒苏姆的电影。然而，为了更真实地刻画乌姆作为一个神话、一个女人和一位艺术家的本质，米特拉把家...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "找爱之旅",
+  "url": "/subject/30212331/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2521440316.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359439/",
+      "name": "陈艳 Yan Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393215/",
+      "name": "吴丽霞 Lixia Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359439/",
+      "name": "陈艳 Yan Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393215/",
+      "name": "吴丽霞 Lixia Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326697/",
+      "name": "李肖宁 Xiaoning Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369611/",
+      "name": "李牧芸 Muyun Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393217/",
+      "name": "庄紫薇 Ziwei Zhuang"
+    }
+  ]
+,
+  "datePublished": "2018-05-16",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H32M",
+  "description": "姜文涛和前妻吴桐雨被不知两人离婚的姜文涛的母亲设计加入了一场未知的旅行。在旅行中遭遇感情危机的姜文涛和吴桐雨，纠缠姜文涛的钱华梅，误以为钱华梅喜欢自己的导游夏宝密，总爱多管闲事的林奶奶和对老伴唯命是从...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

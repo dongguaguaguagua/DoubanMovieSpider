@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "旅行吧！井底之蛙",
+  "url": "/subject/30236775/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530181034.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390460/",
+      "name": "陈设 She Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330911/",
+      "name": "邓磊 Lei Deng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348775/",
+      "name": "王雪沁 Xueqin Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360698/",
+      "name": "吴凡 Fan Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388593/",
+      "name": "周宗禹 Zongyu Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394465/",
+      "name": "强光宗 Guangzong Qiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388594/",
+      "name": "张艺文 Yiwen Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360699/",
+      "name": "唐泽宗 Zezong Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394466/",
+      "name": "濮心宇 Xinyu Pu"
+    }
+  ]
+,
+  "datePublished": "2018-08-18",
+  "genre": ["\u52a8\u753b", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H18M",
+  "description": "一只井底的青蛙威尔，来到人类的世界，冒充一名被施咒的王子，帮助城堡中的小公主苏菲亚粉碎皇叔班特的阴谋，成功继承皇位，成为女王。而自己也带着爱人萝拉回归井下，告诉同伴井外的世界很大很大。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

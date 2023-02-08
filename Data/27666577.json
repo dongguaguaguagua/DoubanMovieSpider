@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "跟我回家",
+  "url": "/subject/27666577/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2510725532.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437743/",
+      "name": "百里屠伕 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437743/",
+      "name": "百里屠伕 "
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u540c\u6027", "\u97f3\u4e50"],
+  "duration": "PT0H10M",
+  "description": "如果爱情里只剩下爱情，那还是爱情么。",
+  "@type": "TVSeries",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

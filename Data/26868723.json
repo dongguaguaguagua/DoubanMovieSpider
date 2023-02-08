@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "工厂 Завод",
+  "url": "/subject/26868723/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540391310.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329316/",
+      "name": "尤里·贝科夫 Yuri Bykov"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329316/",
+      "name": "尤里·贝科夫 Yuri Bykov"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319920/",
+      "name": "弗拉季斯拉夫·阿巴申 Vladislav Abashin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329317/",
+      "name": "德尼斯·什韦多夫 Denis Shvedov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1039021/",
+      "name": "安德烈·斯莫利亚科夫 Andrei Smolyakov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400620/",
+      "name": "阿列克谢·法迪耶夫 Aleksey Faddeev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005330/",
+      "name": "亚历山大·布哈罗夫 Aleksandr Bukharov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329321/",
+      "name": "德米特里·库利奇科夫 Dmitriy Kulichkov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1466691/",
+      "name": "阿列克谢·科马什科 Aleksey Komashko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449758/",
+      "name": "伊万·扬科夫斯基 Ivan Yankovskiy"
+    }
+  ]
+,
+  "datePublished": "2018-09-07",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H49M",
+  "description": "电影«Завод»是导演Юрий Быков 2019年指导的一部现实主义的题材的电影，与上一部电影«Дурак»（危楼愚夫）一样，导演关注俄罗斯社会的底层阶级的悲苦生活，经济寡头毫无人性的巧取豪夺，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "411",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

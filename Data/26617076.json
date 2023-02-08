@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱恋 Loving",
+  "url": "/subject/26617076/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2352424380.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036969/",
+      "name": "杰夫·尼克尔斯 Jeff Nichols"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036969/",
+      "name": "杰夫·尼克尔斯 Jeff Nichols"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010631/",
+      "name": "乔尔·埃哲顿 Joel Edgerton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307508/",
+      "name": "鲁丝·内伽 Ruth Negga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1144415/",
+      "name": "迈克尔·珊农 Michael Shannon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009284/",
+      "name": "马尔顿·索克斯 Marton Csokas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321396/",
+      "name": "尼克·克罗尔 Nick Kroll"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349856/",
+      "name": "比尔·坎普 Bill Camp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055924/",
+      "name": "大卫·詹森 David Jensen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1256571/",
+      "name": "克里斯·格林 Chris Greene"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247100/",
+      "name": "迈克尔·阿伯特 Michael Abbott Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223936/",
+      "name": "克里斯托弗·曼恩 Christopher Mann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345840/",
+      "name": "柯莉·坎帕尼 Coley Campany"
+    }
+  ]
+,
+  "datePublished": "2016-05-16",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT2H3M",
+  "description": "故事发生在1958年的美国，年轻的女子米尔德（鲁丝·内伽 Ruth Negga 饰）爱上了名为理查德（乔尔·埃哲顿 Joel Edgerton 饰）的男人，两人很快就走到了一起。然而，这段恋情却在社会...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4917",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

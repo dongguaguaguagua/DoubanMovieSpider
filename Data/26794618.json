@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魔鬼的门廊 The Devil&#39;s Doorway",
+  "url": "/subject/26794618/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2524833289.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1200003/",
+      "name": "Martin Brennan Martin Brennan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328873/",
+      "name": "莱勒·罗迪 Lalor Roddy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340825/",
+      "name": "夏兰·弗林 Ciaran Flynn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361467/",
+      "name": "海伦娜·布林 Helena Bereen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367079/",
+      "name": "劳伦·考伊 Lauren Coe"
+    }
+  ]
+,
+  "datePublished": "2018-07-13",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H16M",
+  "description": "1960年秋天，托马斯·莱利神父和约翰·桑顿神父被梵蒂冈派遣去调查一个在鸢尾花园里一个“堕落的女人”引发的奇怪事件，但却发现了更可怕的事情。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "180",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

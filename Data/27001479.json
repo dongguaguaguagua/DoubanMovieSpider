@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "3 Flies In A Widow&#39;s Web",
+  "url": "/subject/27001479/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2449340139.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415101/",
+      "name": "安博瑞·约翰逊 Embry Johnson"
+    }
+  ]
+,
+  "datePublished": "2016-03-15",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "传世乐章 Resolution Song",
+  "url": "/subject/30465740/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2548761314.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1242121/",
+      "name": " Antonio James"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331195/",
+      "name": "莱斯特·斯派特 Lester Speight"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1103527/",
+      "name": "艾拉·乔伊斯 Ella Joyce"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163326/",
+      "name": "约翰J.约克 John J. York"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417573/",
+      "name": "肯尼迪·利·斯洛克姆 Kennedy Lea Slocum"
+    }
+  ]
+,
+  "datePublished": "2018-02-06",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H33M",
+  "description": "A young man&#39;s family torn apart by tragedy reaches out to begin rebuilding trust and seek healing by...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

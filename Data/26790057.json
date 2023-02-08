@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血嫁衣",
+  "url": "/subject/26790057/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2349996698.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364979/",
+      "name": "刘嘉文 Jiawen Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334346/",
+      "name": "王红梅 Hongmei Wang"
+    }
+  ]
+,
+  "datePublished": "2016-05-05",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H8M",
+  "description": "民国中期，一座富贵人家的古宅接连发生关于血嫁衣凶杀案，探长温子夜介入调查，未曾预料此案竟是案中之案，且勾起温子夜内心深处的感情创伤，经温子夜深入细致调查，真相慢慢浮出水面，而温子夜内心的情感创伤借此也...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

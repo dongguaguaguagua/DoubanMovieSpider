@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Igirl养成手册",
+  "url": "/subject/26718012/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2315627799.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376665/",
+      "name": "戈让 ROCKY"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376665/",
+      "name": "戈让 ROCKY"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325810/",
+      "name": "张超 Juck Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315295/",
+      "name": "王一 Yi Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276149/",
+      "name": "何苗 Miao He"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H0M",
+  "description": "在光棍节这天，小戈终于为自己的购物栏中的人工智能女友Igril5S点下付款键。尽管小戈付款后有着各种疑虑，但当这个全新行货版IGIRL真实出现在他面前时，他还是被科技深深震撼到。胸大腿长活好，主内主外...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "96",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.6"
+  }
+}

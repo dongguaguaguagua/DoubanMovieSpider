@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "富美子之足 富美子の足",
+  "url": "/subject/27664002/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2509091702.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381972/",
+      "name": "上田笃司 Atsushi Ueda"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025644/",
+      "name": "谷崎润一郎 Junichirô Tanizaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381972/",
+      "name": "上田笃司 Atsushi Ueda"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352222/",
+      "name": "片山萌美 Moemi Katayama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342122/",
+      "name": "渊上泰史 Yasushi Fuchikami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316641/",
+      "name": "绪方义博 Denden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449128/",
+      "name": "田村泰二郎 Taijirô Tamura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359145/",
+      "name": "山田真步 Maho Yamada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412481/",
+      "name": "武藤令子 Reiko Mutô"
+    }
+  ]
+,
+  "datePublished": "2018-02-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "天生一双令男人趋之若鹜的魔性美腿，让富美子成为老富翁冢越的情妇。即使死后也想拥着富美子的美腿，冢越请来专做动漫公仔的外甥卯，要他做出一双与富美子一模一样的美腿；而原本只爱动漫人物的卯，也渐渐成为富美子...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3052",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

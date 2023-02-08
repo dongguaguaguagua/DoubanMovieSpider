@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绕行 Detour",
+  "url": "/subject/26415376/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2398645897.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274962/",
+      "name": "克里斯托弗·史密斯 Christopher Smith"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274962/",
+      "name": "克里斯托弗·史密斯 Christopher Smith"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033093/",
+      "name": "艾莫里·科恩 Emory Cohen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328390/",
+      "name": "泰伊·谢里丹 Tye Sheridan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027136/",
+      "name": "史蒂芬·莫耶 Stephen Moyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1230380/",
+      "name": "蓓尔·波利 Bel Powley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1190738/",
+      "name": "格本加·阿金纳格贝 Gbenga Akinnagbe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054701/",
+      "name": "约翰·林奇 John Lynch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174785/",
+      "name": "乔·瓦兹 Joe Vaz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348974/",
+      "name": "尼克·伯莱尼 Nick Boraine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1241343/",
+      "name": "丹尼尔·福克斯 Daniel Fox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373049/",
+      "name": "杰瑞德·亚伯拉汉姆森 Jared Abrahamson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389634/",
+      "name": "蕾内·斯沃特 Reine Swart"
+    }
+  ]
+,
+  "datePublished": "2016-04-16",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "故事聚焦法律系男孩哈珀(谢里丹饰)的母亲遭遇意外重度昏迷，一夜借酒消愁后，他却发现已然雇佣杀手强尼(科恩饰)和他的女友彻丽(波利饰)去报复他的继父文森特(莫耶饰)。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "346",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

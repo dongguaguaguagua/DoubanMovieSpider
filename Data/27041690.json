@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "多明戈 Domingo",
+  "url": "/subject/27041690/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533347027.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373722/",
+      "name": "费力比·巴博萨 Fellipe Barbosa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450257/",
+      "name": "Clara Linhart  Clara Linhart"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387758/",
+      "name": "卢卡斯·帕拉伊佐 Lucas Paraizo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373722/",
+      "name": "费力比·巴博萨 Fellipe Barbosa"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386590/",
+      "name": "奥古斯托·马德拉 Augusto Madeira"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001385/",
+      "name": "卡米拉·莫基杜 Camila Morgado"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127529/",
+      "name": "伊塔拉·南迪 Ítala Nandi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403264/",
+      "name": "查伊·苏埃德 Chay Suede"
+    }
+  ]
+,
+  "datePublished": "2018-09-02",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H34M",
+  "description": "On January 1, 2003, in the south of Brazil, Laura, matriarch of a family of the upper middle class, ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血色青春 I Blodet",
+  "url": "/subject/26553315/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2405564136.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303041/",
+      "name": "拉斯莫斯·海斯特贝格 Rasmus Heisterberg"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303041/",
+      "name": "拉斯莫斯·海斯特贝格 Rasmus Heisterberg"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373395/",
+      "name": "Kristoffer Bech Kristoffer Bech"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382417/",
+      "name": "埃利奥特·克罗赛特·霍夫 Elliott Crosset Hove"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1229516/",
+      "name": "阿斯克·邦 Aske Bang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372715/",
+      "name": "马德斯·雷瑟 Mads Reuther"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391626/",
+      "name": "维多利亚·卡门·索内 Victoria Carmen Sonne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1062814/",
+      "name": "Gerard Bidstrup Gerard Bidstrup"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462237/",
+      "name": "娜娜·斯卡劳浦·沃斯 Nanna Skaarup Voss"
+    }
+  ]
+,
+  "datePublished": "2016-09-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H54M",
+  "description": "In the Blood, the portrait of a medical student in his 20s and his experiences in what will become t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

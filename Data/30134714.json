@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱情的单程列车",
+  "url": "/subject/30134714/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2512547376.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388265/",
+      "name": "张雷 Lei Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327798/",
+      "name": "范军 Jun Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388266/",
+      "name": "李月 Yue Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388267/",
+      "name": "郑亚龙 Yalong Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388268/",
+      "name": "王倚天 Yitian Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388269/",
+      "name": "李瑞瑶 Ruiyao Li"
+    }
+  ]
+,
+  "datePublished": "2018-02-14",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "何川为情萦绕，梦瑶山盟海誓。他们为自己的爱情忠贞不渝。18年以后共同踏上了满载爱情的单车，相守承诺，享受着人生单程爱情的旅程。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

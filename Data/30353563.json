@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绝命枪王",
+  "url": "/subject/30353563/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537246158.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405891/",
+      "name": "王玉 Yu Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350813/",
+      "name": "冯兵 Bing Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360986/",
+      "name": "书亚信 Ashin Shu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389793/",
+      "name": "郑旭东 Xudong Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1469780/",
+      "name": "王宸心 Chenxin Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028943/",
+      "name": "汤镇业 Ken Tong"
+    }
+  ]
+,
+  "datePublished": "2018-10-18",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H17M",
+  "description": "影片的故事发生在一个风云变幻的年代（1999~2000年），讲述了一个身怀绝技的保镖，因为一时受到利益的蛊惑，背叛了昔日的伙伴，用自己的余生保护爱人、偿还罪恶的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

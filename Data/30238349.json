@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阁楼房客是总裁",
+  "url": "/subject/30238349/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540021235.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409244/",
+      "name": "张层层 Cengceng Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422322/",
+      "name": "董天昊 Tianhao Dong"
+    }
+  ]
+,
+  "datePublished": "2018-11-23",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H56M",
+  "description": "讲述了地产集团二公子宋以昭为了争夺继承权，隐瞒身份，住进了夏天旅馆的阁楼，成为夏南笙的房客，意在拿下旅馆的拆迁同意书。随着宋以昭的入住，旅馆经历了种种麻烦，高傲自大的宋以昭与大大咧咧的夏南笙之间，发生...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

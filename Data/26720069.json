@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "惊魇",
+  "url": "/subject/26720069/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2322806188.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329269/",
+      "name": "邢博 Bo Xing"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341569/",
+      "name": "罗翔 Xiang Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318068/",
+      "name": "陈美行 Meixing Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354399/",
+      "name": "马维福 Weifu Ma"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "电影是由罗翔、陈美行等领衔主演，邢博执导的悬疑惊悚电影。主要讲述了雕塑家陆风（罗翔 饰）在艺术创作上处在瓶颈期加上妻子欧阳雪（陈美行 饰）的出轨，在巨大打击下导致精神崩溃而引发的一连串诡异事件……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "哎哟青春期",
+  "url": "/subject/26709545/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2310150396.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335650/",
+      "name": "王渤钧 Bojun Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327158/",
+      "name": "秦汉擂 Hanlei Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335650/",
+      "name": "王渤钧 Bojun Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327158/",
+      "name": "秦汉擂 Hanlei Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365028/",
+      "name": "童可可 Keke Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357566/",
+      "name": "朱元冰 Ryan Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374088/",
+      "name": "印子月 Luna Yin"
+    }
+  ]
+,
+  "datePublished": "2016-01-15",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "秦小汉是一个80后，也是个不会演哭戏的演员，尤其是在感情戏中，一次在片场拍摄感情戏因为哭不出来被导演痛批，深感伤自尊的秦小汉决定重回大学校园学习表演，不成想在学校遇到了不同性格的室友，还经历了一段刻骨...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

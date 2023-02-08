@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "D&#39;une pierre deux coups",
+  "url": "/subject/26881694/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2509628148.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282192/",
+      "name": "费伊里娅·德利巴 Fejria Deliba"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282192/",
+      "name": "费伊里娅·德利巴 Fejria Deliba"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028574/",
+      "name": "布里吉特·罗安 Brigitte Roüan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051034/",
+      "name": "伯纳德·布兰卡恩 Bernard Blancan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028743/",
+      "name": "萨米尔·盖丝米 Samir Guesmi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322107/",
+      "name": "阿德莱德·勒鲁 Adélaïde Leroux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002928/",
+      "name": "齐达内·苏阿内 Zinedine Soualem"
+    }
+  ]
+,
+  "datePublished": "2016-04-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

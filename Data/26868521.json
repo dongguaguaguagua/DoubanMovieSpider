@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "惊悚九部曲",
+  "url": "/subject/26868521/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2378905053.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349779/",
+      "name": "华容 Gavin Kao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349779/",
+      "name": "华容 Gavin Kao"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-09-04",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT0H16M",
+  "description": "惊悚九部曲是有九个故事组成的，讲述一位年轻人撞鬼的奇遇。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

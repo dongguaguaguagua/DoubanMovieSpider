@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "重返一九九七",
+  "url": "/subject/27021162/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2455905433.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400077/",
+      "name": "鲍天骄 Tianjiao Bao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400077/",
+      "name": "鲍天骄 Tianjiao Bao"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-04-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H26M",
+  "description": "一个家财万贯的富家子，不可一世，鹤立鸡群，内心却有旁人不可洞悉的忧伤。家中有一位冷漠的女强人母亲，面表坚韧刚毅，内心忧郁。母子之间一个不为人知的心结，导致母子之间的关系岌岌可危。一次偶然的意外，男主人...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

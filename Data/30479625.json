@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Shaking the Habitual - The Show: Live from Terminal 5",
+  "url": "/subject/30479625/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2549726537.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380133/",
+      "name": "Jake Yuzna Jake Yuzna"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313568/",
+      "name": "卡琳·德雷杰·安德森 Karin Dreijer Andersson"
+    }
+  ]
+,
+  "datePublished": "2017-09-01",
+  "genre": ["\u6b4c\u821e"],
+  "duration": "",
+  "description": "Terminal 5, New York City, April 30, 2014",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

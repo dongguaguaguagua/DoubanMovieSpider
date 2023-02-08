@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "好心肠动物 O Animal Cordial",
+  "url": "/subject/26712130/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503001147.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386408/",
+      "name": "加布里埃拉·阿马拉尔 Gabriela Amaral"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386408/",
+      "name": "加布里埃拉·阿马拉尔 Gabriela Amaral"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1064183/",
+      "name": "穆里略·本尼西奥 Murilo Benício"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386790/",
+      "name": "露西安娜·帕埃斯 Luciana Paes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1232676/",
+      "name": "伊兰迪尔·桑托斯 Irandhir Santos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001385/",
+      "name": "卡米拉·莫基杜 Camila Morgado"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386899/",
+      "name": "基杜·皮内罗 Jiddú Pinheiro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1136924/",
+      "name": "埃尔纳尼··摩拉艾斯 Ernani Moraes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209305/",
+      "name": "温贝托·卡劳 Humberto Carrão"
+    }
+  ]
+,
+  "datePublished": "2017-07-25",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H38M",
+  "description": "伊格内修是中产阶级，他经营着一家自己餐厅，并且铁腕管理。因此与员工不断产生摩擦，尤其是和厨师。一次，员工没打算联手设局反抗他，然而事情却并没有按照计划中进行...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大山深处的烛光",
+  "url": "/subject/30353468/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2569722541.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371693/",
+      "name": "李小江 Xiaojiang Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383735/",
+      "name": "韩玖诺 Jiunuo Han"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "影片主要讲述了范妹锁，白手起家办学，30年百折不挠、坚守承诺的回乡大学生；半生奉献，收获爱情、收获希望，获得“全国教书育人楷模”称号的山村教师。浓缩主人公艰辛历程，故事真实感人给人启迪的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

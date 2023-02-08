@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爸爸我来救你了",
+  "url": "/subject/26677940/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2311164632.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339798/",
+      "name": "叶田 Tian Ye"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315507/",
+      "name": "钱枫 Oscar Qian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339118/",
+      "name": "刘汉强 Hanqiang Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313517/",
+      "name": "崔杰 Jie Cui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1301215/",
+      "name": "黄一飞 Yut Fei Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474466/",
+      "name": " "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360597/",
+      "name": "马兆壮 Zhaozhuang Ma"
+    }
+  ]
+,
+  "datePublished": "2016-01-22",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u5bb6\u5ead", "\u513f\u7ae5", "\u5192\u9669"],
+  "duration": "PT1H30M",
+  "description": "《爸爸我来救你了》是2016年上映的亲子喜剧片，由叶田执导，刘汉强、钱枫等主演。影片讲述了三个好朋友，偶然的机会和爸爸们一起参加亲子旅游。一路上老爸们笑话百出，他们身后更有两个乌龙绑匪一路尾随。另一面...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "480",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.3"
+  }
+}

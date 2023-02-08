@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "白人女孩 White Girl",
+  "url": "/subject/26316965/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2394593552.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365581/",
+      "name": "伊丽莎白·伍德 Elizabeth Wood"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365581/",
+      "name": "伊丽莎白·伍德 Elizabeth Wood"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324062/",
+      "name": "摩根·塞勒 Morgan Saylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009257/",
+      "name": "贾斯汀·巴萨 Justin Bartha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040515/",
+      "name": "克里斯·诺斯 Chris Noth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1230894/",
+      "name": "拉尔夫·罗德里格斯 Ralph Rodriguez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342231/",
+      "name": "西莉亚·奥 Celia Au"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415754/",
+      "name": "可亚娜·西蒙妮·辛普森 Kyanna Simone Simpson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388489/",
+      "name": "安东尼·拉莫斯 Anthony Ramos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365615/",
+      "name": "安娜贝尔·德克斯特-琼斯 Annabelle Dexter-Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447449/",
+      "name": "布莱恩·马克 Brian Marc"
+    }
+  ]
+,
+  "datePublished": "2016-01-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "Summer, New York City. A college girl falls hard for a guy she just met. After a night of partying g...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "513",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

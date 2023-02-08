@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "仲夏夜之梦 A Midsummer Night&#39;s Dream",
+  "url": "/subject/27600777/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2873087643.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045596/",
+      "name": "萨沙·本奈特 Sacha Bennett"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044735/",
+      "name": "威廉·莎士比亚 William Shakespeare"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116923/",
+      "name": "罗伯特·林德森 Robert Lindsay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184769/",
+      "name": "塔姆金·莫钦特 Tamzin Merchant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061067/",
+      "name": "朱丽叶特·奥布瑞 Juliet Aubrey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393038/",
+      "name": "哈里·贾维斯 Harry Jarvis"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u5bb6\u5ead", "\u5947\u5e7b"],
+  "duration": "PT1H44M",
+  "description": "Shakespeare&#39;s classic comedy: Young lovers living under an oppressive state-rule flee their home-cit...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

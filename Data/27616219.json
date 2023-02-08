@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2017 SBS 歌谣大战 2017SBS歌谣大战",
+  "url": "/subject/27616219/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2772838567.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312852/",
+      "name": "李知恩 IU"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360328/",
+      "name": "柳熙烈 Yoo Hee-yeol"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438800/",
+      "name": "张多蕙 Heize"
+    }
+  ]
+,
+  "datePublished": "2017-12-25",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "",
+  "description": "2017SBS&lt;歌谣大战&gt;将于25日在首尔高尺巨蛋举行,韩国时间下午5点50分开始直播。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "132",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.9"
+  }
+}

@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "巡航 Cruise",
+  "url": "/subject/26612331/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531923279.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307559/",
+      "name": "罗伯特·D·西格尔 Robert D. Siegel"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307559/",
+      "name": "罗伯特·D·西格尔 Robert D. Siegel"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327702/",
+      "name": "艾米丽·拉塔科斯基 Emily Ratajkowski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134470/",
+      "name": "凯瑟琳·纳杜奇 Kathrine Narducci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364422/",
+      "name": "诺亚·罗宾斯 Noah Robbins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345516/",
+      "name": "卢卡斯·萨尔瓦尼奥 Lucas Salvagno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328410/",
+      "name": "斯宾塞·博德曼 Spencer Boldman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032999/",
+      "name": "吉诺·卡法雷利 Gino Cafarelli"
+    }
+  ]
+,
+  "datePublished": "2018-01-20",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "据外媒最新报道，艾米丽将搭档斯宾塞·博德曼（《龙虎少年队》），主演爱情电影《Cruise》。
+《Cruise》的故事发生在上世纪八十年代，讲述一个游手好闲的意大利裔美国青年，每天虚度光阴，直到有天遇到...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "82",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

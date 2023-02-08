@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱情向西 West of Her",
+  "url": "/subject/30134294/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512410188.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415134/",
+      "name": "凯尔希·西普赛 Kelsey Siepser"
+    }
+  ]
+,
+  "datePublished": "2016-04-30",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "Two alienated young strangers participate in a mysterious guerilla street project, traveling the cou...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

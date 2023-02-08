@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冬日肌肤 Winterskin",
+  "url": "/subject/30140601/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2603446640.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454756/",
+      "name": "查理·斯蒂兹 Charlie Steeds"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454756/",
+      "name": "查理·斯蒂兹 Charlie Steeds"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449297/",
+      "name": "罗威娜·本特利 Rowena Bentley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454750/",
+      "name": "巴林顿·代·拉·罗切 Barrington De La Roche"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454752/",
+      "name": "丹尼尔·麦基 Daniel McKee"
+    }
+  ]
+,
+  "datePublished": "2018-11-10",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Gunned down in the snowy wilderness and desperate for shelter, Billy Cavanagh is taken in by kooky o...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

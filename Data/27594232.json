@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "终极交换",
+  "url": "/subject/27594232/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2506586444.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365994/",
+      "name": "李恒建 Hengjian Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365994/",
+      "name": "李恒建 Hengjian Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374406/",
+      "name": "陈锦昀 Jinyun Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380109/",
+      "name": "张璐瑶 Luyao Zhang"
+    }
+  ]
+,
+  "datePublished": "2017-12-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H16M",
+  "description": "薛一漫是演员蒋钟硕的小迷妹，在自己的生日宴会上，喝多了的薛一漫许了一个荒唐的愿望，不巧的是在一次意外的车祸事故后这个荒唐的愿望竟然成真，薛一漫和蒋钟硕两人身体互换，在闹了许多笑话的同时，两人也都慢慢明...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "麻烦大了 L&#39;abbiamo fatta grossa",
+  "url": "/subject/26723420/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568574541.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041550/",
+      "name": "卡洛·维尔多内 Carlo Verdone"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284619/",
+      "name": "马西莫·高迪奥索 Massimo Gaudioso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294609/",
+      "name": "Pasquale Plastino Pasquale Plastino"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470283/",
+      "name": "欧金尼奥·克劳斯 Eugenio Krauss"
+    }
+  ]
+,
+  "datePublished": "2016-01-28",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H52M",
+  "description": "阿杜罗，这名混得差到要靠追踪逃跑的猫来赚钱的私家侦探，现在还住在他老年痴呆的姨妈家。尤里是一名舞台剧演员，自从跟妻子分开后，他连台词都记不住了，工作丢了，身无分文。阿杜罗和尤里的相遇开始于一桩跟踪委托...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "158",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

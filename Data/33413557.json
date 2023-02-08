@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迷失克莱辛 Lost in Klessin",
+  "url": "/subject/33413557/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553817857.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414756/",
+      "name": "海因切·彼得 Heintje Peter"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414756/",
+      "name": "海因切·彼得 Heintje Peter"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423888/",
+      "name": "弗兰兹·克洛泽 Franz Klose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423889/",
+      "name": "安德烈·亚斯莱西格 Andreas Lessig"
+    }
+  ]
+,
+  "datePublished": "2018-10-27",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H30M",
+  "description": "February/March 1945: While the Russians moved closer towards German home ground and towards Berlin f...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "濒死犹生 X Quinientos",
+  "url": "/subject/26849314/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2492307945.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325034/",
+      "name": "胡安·安德烈 Juan Andrés Arango Garcia"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325034/",
+      "name": "胡安·安德烈 Juan Andrés Arango Garcia"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H44M",
+  "description": "X Quinientos tells the story of three individuals living on the American continent who are confronte...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "净地",
+  "url": "/subject/30353252/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537215700.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336988/",
+      "name": "戈日泰 Ritai Ge"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396938/",
+      "name": "曹伟 Wei Cao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402698/",
+      "name": "孙涛 Tao Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380527/",
+      "name": "高雪儿 Xueer Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405034/",
+      "name": "叶沛 Pei Ye"
+    }
+  ]
+,
+  "datePublished": "2021-02-05",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "电影《净地》以南瓮河国家级自然保护区的湿地研究保护工作为背景，讲述了男主人公高鹏抛弃大城市工作回到家乡从事湿地保护研究，遇到了在南瓮河湿地放游纸船的女主人公戴婉婷，引出了一段跌宕起伏的爱情故事，展现了...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

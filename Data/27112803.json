@@ -1,0 +1,37 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "惊惧小丑 Clowntergeist",
+  "url": "/subject/27112803/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496118167.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423819/",
+      "name": "伯特·卡尔弗 Burt Culver"
+    }
+  ]
+,
+  "datePublished": "2017-09-12",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "经典鬼屋电影系列 Poltergeist！
+电影《Clowntergeist》是 Poltergeist 和恐怖小丑的结合：故事讲述一个名叫 Emma 的大学生拥有小丑恐惧症，而她即将就要与小丑进行接...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

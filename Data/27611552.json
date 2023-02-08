@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "说走就走之不说再见",
+  "url": "/subject/27611552/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2532597754.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314395/",
+      "name": "张承 Cheng Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397710/",
+      "name": "吴晓武 Xiaowu Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397711/",
+      "name": "熊少波 Shaobo Xiong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397712/",
+      "name": "王曾赓 Zenggeng Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397564/",
+      "name": "王苑菲 Wanfei Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322716/",
+      "name": "牛骏峰 Junfeng Niu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340456/",
+      "name": "白举纲 Jugang Bai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337020/",
+      "name": "吴谨言 Jinyan Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313582/",
+      "name": "叮当 Ding Dang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373721/",
+      "name": "赵浩闳 Haohong Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314331/",
+      "name": "李诚儒 Chengru Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274914/",
+      "name": "果靖霖 Jinglin Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470442/",
+      "name": "张海波 Haibo Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-09-14",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u5192\u9669"],
+  "duration": "PT1H45M",
+  "description": "青春版心花路放，四个屌丝的一场意外冒险之旅。经历邂逅女神、狼群围攻、沙漠跳伞、攀登雪山，一路狼狈不堪，笑料百出。他们从北京出发，途经内蒙草原、银川沙漠、一路到达西藏拉萨，最后来到雪山顶峰。沿途领略风光...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1507",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

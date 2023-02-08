@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "笑嗷喜剧人",
+  "url": "/subject/27021923/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2455838927.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367438/",
+      "name": "吴双艺 Shuangyi Wu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-11-04",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H36M",
+  "description": "靠耍小聪明替人出头的小混混戴小龙为了给重病的母亲筹集医疗费，不得不接下一单极具挑战性的困难任务：以卧底的身份潜入一所学校的喜剧班进行秘密破坏行动。然而在社会上游刃有余的戴小龙来到学校却屡遭碰壁，一群不...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "535",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.3"
+  }
+}

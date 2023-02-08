@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "邪恶校园 The School",
+  "url": "/subject/27072846/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2496575733.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403545/",
+      "name": "斯托姆·阿什伍德 Storm Ashwood"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403545/",
+      "name": "斯托姆·阿什伍德 Storm Ashwood"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1096007/",
+      "name": "尼古拉斯·霍普 Nicholas Hope"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428242/",
+      "name": "米莉·阿尔柯克 Milly Alcock"
+    }
+  ]
+,
+  "datePublished": "2018-07-27",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H40M",
+  "description": "艾美從又濕又冷的浴缸裡驚醒，發現自己似乎被軟禁在一所廢棄的學校。身邊一片漆黑又恐怖，斑駁的牆壁上有一些詭譎的塗鴉。在她遭軟禁期間，只能與腦中想法相依。身為一名醫生，同時也是妻子和悲傷的母親，始終無法認...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "288",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

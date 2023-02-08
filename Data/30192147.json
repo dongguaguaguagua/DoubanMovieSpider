@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "时间胶囊 The Time Capsule",
+  "url": "/subject/30192147/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519268020.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291343/",
+      "name": "布拉德福德·梅 Bradford May"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1238165/",
+      "name": "肖恩·哈珀 Shane Harper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328651/",
+      "name": "佩内洛普·米契尔 Penelope Mitchell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1227252/",
+      "name": "蔡斯·科尔曼 Chase Coleman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1234154/",
+      "name": "沙妮卡·诺尔斯 Shanica Knowles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1208335/",
+      "name": "布鲁诺·阿马托 Bruno Amato"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357811/",
+      "name": "克里斯蒂·尼科尔·卓别林 Christie Nicole Chaplin"
+    }
+  ]
+,
+  "datePublished": "2018-04-07",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H26M",
+  "description": "High school friends reunite to dig up their time capsule. When they open it, they make a pact to re-...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

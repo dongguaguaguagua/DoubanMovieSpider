@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红项圈 Le collier rouge",
+  "url": "/subject/27083670/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2512115563.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045330/",
+      "name": "让·贝克 Jean Becker"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045330/",
+      "name": "让·贝克 Jean Becker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029047/",
+      "name": "让-卢·达巴迪 Jean-Loup Dabadie"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050210/",
+      "name": "弗朗索瓦·克鲁塞 François Cluzet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000567/",
+      "name": "尼古拉斯·迪佛休尔 Nicolas Duvauchelle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357827/",
+      "name": "索菲·费尔贝克 Sophie Verbeeck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483396/",
+      "name": "罗克珊·阿纳尔 Roxane Arnal"
+    }
+  ]
+,
+  "datePublished": "2018-03-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "弗朗索瓦·克鲁塞([触不可及])加盟新片[红项圈](Le Collier rouge，暂译)。电影由让·贝克([与玛格丽特的午后])执导。故事发生在1919年的一个小镇，一位战争英雄被囚禁在废弃的兵营...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "137",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

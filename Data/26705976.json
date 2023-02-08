@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小飞的梦想",
+  "url": "/subject/26705976/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2552402697.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413746/",
+      "name": "王卫庆 Weiqing Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413747/",
+      "name": "霍学军 Xuejun Huo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413748/",
+      "name": "李浩然 Haoran Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405010/",
+      "name": "吕晴 Qing Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413749/",
+      "name": "王鹏 Peng Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413750/",
+      "name": "金梦坤 Mengkun Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413751/",
+      "name": "刘丰硕 Fengshuo Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413752/",
+      "name": "王丹祺 Danqi Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "张小飞是名顽皮的小学生，不服班长的领导，敢画赵主任的小漫画，最大的乐趣就是玩他的遥控飞机。看到讨厌的赵主任和新来的班主任田欣雨关系亲近，处处给田老师作对,搞得田老师狼狈不堪。田老师通过家访，得知张小飞...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

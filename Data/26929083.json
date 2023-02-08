@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "父子理疗！ Père Fils Thérapie !",
+  "url": "/subject/26929083/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555448617.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284635/",
+      "name": "埃米尔·戈德罗 Émile Gaudreault"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284635/",
+      "name": "埃米尔·戈德罗 Émile Gaudreault"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343530/",
+      "name": "盖伊·洛朗 Guy Laurent"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042991/",
+      "name": "菲利普∙德∙肖伏隆 Philippe de Chauveron"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055175/",
+      "name": "理查德·贝里 Richard Berry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041660/",
+      "name": "雅克·冈布兰 Jacques Gamblin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474387/",
+      "name": "巴蒂斯特·洛伯 Baptiste Lorber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474342/",
+      "name": "莱昂内尔·埃尔多安 Lionel Erdogan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323633/",
+      "name": "瑞查·班得瑞 Rachid Badouri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413604/",
+      "name": "爱丽丝·贝拉迪 Alice Belaïdi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036864/",
+      "name": "茱莉·费瑞尔 Julie Ferrier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474388/",
+      "name": "瓦利·迪亚 Waly Dia"
+    }
+  ]
+,
+  "datePublished": "2016-12-28",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H32M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "342",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

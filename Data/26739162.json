@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无神 Bezbog",
+  "url": "/subject/26739162/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2367153645.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334413/",
+      "name": "拉莉察·佩特罗娃 Ralitza Petrova"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334413/",
+      "name": "拉莉察·佩特罗娃 Ralitza Petrova"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174033/",
+      "name": "Ivan Nalbantov Ivan Nalbantov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421483/",
+      "name": "Irena Ivanova Irena Ivanova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421482/",
+      "name": "Ventzislav Konstantinov Ventzislav Konstantinov"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H39M",
+  "description": "在保加利亚一个偏远的小城里，伽娜负责照看痴呆老人们，并在黑市倒卖他们的身份证。她母亲没有工作，两人也不怎么说话。她跟男朋友的关系，说好听了也就那么回事；激情退去之后，两人关系的保持主要靠对吗啡的同样沉...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "137",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

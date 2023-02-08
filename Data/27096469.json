@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "第十二夜 RSC Live: Twelfth Night",
+  "url": "/subject/27096469/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534387240.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004942/",
+      "name": "亚德里安·埃德蒙松 Adrian Edmondson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1154942/",
+      "name": "卡拉·托恩顿 Kara Tointon"
+    }
+  ]
+,
+  "datePublished": "2018-02-14",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT2H40M",
+  "description": "塞巴斯蒂安（亚德里安·埃德蒙松 Adrian Edmondson 饰）和薇奥拉（卡拉·托恩顿 Kara Tointon 饰）是一对孪生兄妹，彼此之间感情十分的要好。在一场海难中，塞巴斯蒂安和薇奥拉失散...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "90",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

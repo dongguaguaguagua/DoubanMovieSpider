@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "骑士阿吉",
+  "url": "/subject/30238890/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2525583119.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395368/",
+      "name": "昭日特 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396219/",
+      "name": "阿吉 A JI"
+    }
+  ]
+,
+  "datePublished": "2018-06-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "阿吉是个蒙古族男孩，他有五个愿望，其中之一就是成为电影演员。一次，他居然成为了电影的候选主演。但是要求骑马能力，于是他被派去了内蒙古大草原，开始骑马训练。他克服了重重困难，完成训练回到上海的剧组。他渐...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

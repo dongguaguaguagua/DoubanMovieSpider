@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "四个春天",
+  "url": "/subject/27191492/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540578887.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386569/",
+      "name": "陆庆屹 Qingyi Lu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405092/",
+      "name": "陆运坤 Yunkun Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405093/",
+      "name": "李桂贤 Guixian Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431921/",
+      "name": "陆庆伟 Qingwei Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405096/",
+      "name": "陆庆松 Qingsong Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386569/",
+      "name": "陆庆屹 Qingyi Lu"
+    }
+  ]
+,
+  "datePublished": "2017-12-30",
+  "genre": ["\u7eaa\u5f55\u7247", "\u5bb6\u5ead"],
+  "duration": "PT1H45M",
+  "description": "《四个春天》是一部以真实家庭生活为背景的纪录片。15岁离家，在异乡漂泊多年的导演以自己南方小城里的父母为主角，在四年光阴里，以一己之力记录了他们的美丽日常。在如诗的乐活慢生活图景中，影像缓缓雕刻出一个...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "163866",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.8"
+  }
+}

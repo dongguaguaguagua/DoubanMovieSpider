@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "牧野传奇",
+  "url": "/subject/27059907/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2461163100.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375297/",
+      "name": "谢宝锐 Baorui Xie"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375297/",
+      "name": "谢宝锐 Baorui Xie"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-07-01",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H21M",
+  "description": "取材于中国家喻户晓的神话传说《封神演义》，讲述了少年天子武王姬发在逆境中的成长之路，是武王姬发从无到有，历尽艰辛，终于登上人生之巅的故事。
+商朝末年，纣王无道，天灾人祸接踵而来，妖魔为害人间，九尾狐为...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

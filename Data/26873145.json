@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不得不走",
+  "url": "/subject/26873145/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2548718411.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379930/",
+      "name": "张桥梁 Qiaoliang Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379930/",
+      "name": "张桥梁 Qiaoliang Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425889/",
+      "name": "杨云 Yun Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425890/",
+      "name": "赵亚男 Yanan Zhao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead", "\u513f\u7ae5"],
+  "duration": "PT1H30M",
+  "description": "赵梓江初中刚毕业，父母突然宣布离婚，他不舍养母的离开，抵触生母的回归；留守儿童张小璐，遭遇侵犯，精神抑郁，她又必须跟随父亲远离家乡；空巢独居老人杨大爷笑口常开的背后，却有无尽的心酸。面对生活的无奈，他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "希望之光 La llum d&#39;Elna",
+  "url": "/subject/26992390/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2461168973.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052155/",
+      "name": "西尔维亚·奎尔 Sílvia Quer"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341551/",
+      "name": "纳塔利娅·德·莫利纳 Natalia de Molina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066389/",
+      "name": "娜乌西卡·邦宁 Nausicaa Bonnín"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358770/",
+      "name": "诺埃米·施米特 Noémie Schmidt"
+    }
+  ]
+,
+  "datePublished": "2017-03-31",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H41M",
+  "description": "影片改编自伊丽莎白·艾登本兹的亲身经历。伊丽莎白在二战期间与她的同事救助了近600个婴儿。1940年代初，欧洲难民都在四处躲避纳粹的迫害。伊丽莎白·艾登本兹是一家妇产医院的院长，她决心帮助难民中的孕妇...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

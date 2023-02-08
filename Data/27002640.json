@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冰国战云(重制版) Ice Station Zebra",
+  "url": "/subject/27002640/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276314/",
+      "name": "克里斯托弗·麦奎里 Christopher McQuarrie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045367/",
+      "name": "阿利斯泰尔·麦克林 Alistair MacLean"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

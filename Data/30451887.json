@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Ariadne auf Naxos (Festival d&#39;Aix-en-Provence)",
+  "url": "/subject/30451887/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2547054611.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410109/",
+      "name": "凯蒂·米歇尔 Katie Mitchell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018735/",
+      "name": "理夏德·施特劳斯 Richard Strauss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008727/",
+      "name": "Hugo von Hofmannsthal Hugo von Hofmannsthal"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-07-11",
+  "genre": ["\u97f3\u4e50", "\u620f\u66f2"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "九天玄鸟",
+  "url": "/subject/27110380/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2495790884.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322748/",
+      "name": "于敏 Min Yu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329432/",
+      "name": "薛飞 Fei Xue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326520/",
+      "name": "张楚楚 Chuchu Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424971/",
+      "name": "张艺凡 Yifan Zhang"
+    }
+  ]
+,
+  "datePublished": "2017-08-11",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H3M",
+  "description": "由北京鲸鱼映像影视文化传媒有限公司出品，上海敏于行影业有限公司承制的古装玄幻大片《九天玄鸟》于8月11日在腾讯视频播出!
+影片讲述了传说中西街棺材铺掌柜离悠瑶（张楚楚饰）是封印法力修成的美女，因爱成魔...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

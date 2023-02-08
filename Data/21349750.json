@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "史蒂文斯小姐 Miss Stevens",
+  "url": "/subject/21349750/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2324329904.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355560/",
+      "name": "朱莉·哈特 Julia Hart"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355560/",
+      "name": "朱莉·哈特 Julia Hart"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315786/",
+      "name": "莉莉·拉贝 Lily Rabe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325862/",
+      "name": "提莫西·查拉梅 Timothée Chalamet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1180655/",
+      "name": "奥斯卡·努内斯 Oscar Nuñez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332257/",
+      "name": "丽丽·莱因哈特 Lili Reinhart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174693/",
+      "name": "罗布·许贝尔 Rob Huebel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019473/",
+      "name": "特蕾西·威格菲尔德 Tracey Wigfield"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345690/",
+      "name": "克里斯汀·思莱蒙 Kristin Slaysman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384404/",
+      "name": "安东尼·坎塔尔 Anthony Quintal"
+    }
+  ]
+,
+  "datePublished": "2016-03-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H27M",
+  "description": "影片围绕教师史蒂文斯(拉贝饰)陪伴三个学生赶赴戏剧竞赛，却在考场不经意地发现，那些考题不仅仅在考验着少年，也同时鞭策着成年人的内心。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2709",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

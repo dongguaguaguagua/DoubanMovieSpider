@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "莲花警队 The Lotus",
+  "url": "/subject/27188103/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2503922096.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1261052/",
+      "name": " Jorge Nuñez"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277696/",
+      "name": "卡尔·贝利 Carl Bailey"
+    }
+  ]
+,
+  "datePublished": "2018-03-06",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "In the not so distant future, biochemical technology has advanced in unexpected ways. Unfortunately....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

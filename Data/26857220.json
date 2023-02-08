@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马去哪儿死 Where Horses Go to Die",
+  "url": "/subject/26857220/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2541341374.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347912/",
+      "name": "安东尼·希克林 Antony Hickling"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347912/",
+      "name": "安东尼·希克林 Antony Hickling"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406869/",
+      "name": "伽拉·贝松 Gala Besson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481990/",
+      "name": "罗曼·布劳 Romain Brau"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H7M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

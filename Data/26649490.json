@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "入侵：已失联 Intrusion: Disconnected",
+  "url": "/subject/26649490/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2277251574.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387902/",
+      "name": "凯蒂·斯图尔特 Katie Stewart"
+    }
+  ]
+,
+  "datePublished": "2020-09-14",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H47M",
+  "description": "入侵事件发生将近一年后，玫瑰花蕾杀手的神秘死亡使问题尚未解决。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

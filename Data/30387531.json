@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "谁是坏孩子",
+  "url": "/subject/30387531/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2540951603.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383874/",
+      "name": "史震飞 Zhen Fei Shi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389384/",
+      "name": "韩丁 Ding Han"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406525/",
+      "name": "安智辉 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350016/",
+      "name": "方从伊 Congyi Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371623/",
+      "name": "沙学周 Xuezhou Sha"
+    }
+  ]
+,
+  "datePublished": "2018-12-11",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "马可（安智辉 饰）原是北京寄宿学校的优等生，父亲车祸去世、家庭破产，他随妈妈（方从伊 饰）转学到滨海小城的普通中学。被称为“坏孩子四人组”的几个同学其实都很仗义各有优点，从对峙到互相帮助，马可和“坏孩...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

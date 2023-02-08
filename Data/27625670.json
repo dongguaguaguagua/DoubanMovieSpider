@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "看护 The Nursery",
+  "url": "/subject/27625670/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510114278.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363233/",
+      "name": "卡莉·蕾·杰普森 Carly Rae Jepsen"
+    }
+  ]
+,
+  "datePublished": "2018-06-05",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H27M",
+  "description": "When Ranae agrees to babysit for a family with a tragic past, a run-of-the-mill Saturday night quick...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "ลูกทุ่ง ซิกเนเจอร์",
+  "url": "/subject/26740135/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2323276292.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474500/",
+      "name": "露娜·凌帕尼 Rungrat Mengpanit"
+    }
+  ]
+,
+  "datePublished": "2016-02-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

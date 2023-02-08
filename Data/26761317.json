@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "有用的事 İşe Yarar Bir Şey",
+  "url": "/subject/26761317/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2509288307.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331660/",
+      "name": "佩林·埃斯默 Pelin Esmer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331660/",
+      "name": "佩林·埃斯默 Pelin Esmer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000631/",
+      "name": "巴莎克·柯克露卡亚 Basak Köklükaya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340657/",
+      "name": "奥约库·卡拉耶尔 Öykü Karayel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172292/",
+      "name": "伊吉特·约兹贤尔 Yigit Özsener"
+    }
+  ]
+,
+  "datePublished": "2017-04-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H47M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

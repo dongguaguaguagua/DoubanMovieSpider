@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣地 Holy Lands",
+  "url": "/subject/30143855/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2538569234.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001691/",
+      "name": "阿曼达·斯特斯 Amanda Sthers"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001691/",
+      "name": "阿曼达·斯特斯 Amanda Sthers"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000050/",
+      "name": "詹姆斯·肯恩 James Caan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049625/",
+      "name": "汤姆·霍兰德尔 Tom Hollander"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012518/",
+      "name": "乔纳森·莱斯·梅耶斯 Jonathan Rhys Meyers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371504/",
+      "name": "伊芙雷特·多 Efrat Dor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025210/",
+      "name": "罗姗娜·阿奎特 Rosanna Arquette"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005347/",
+      "name": "丽姆·柯里奇 Reem Kherici"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045336/",
+      "name": "帕特里克·布鲁尔 Patrick Bruel"
+    }
+  ]
+,
+  "datePublished": "2019-01-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "“Holy Lands” follows Harry Rosenmerck (Caan), a Jewish-American cardiologist who left everything beh...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜花火",
+  "url": "/subject/26842488/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2681245644.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324997/",
+      "name": "高伟宁 Weining Gao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314471/",
+      "name": "王挺 Ting Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034637/",
+      "name": "颜丹晨 Danchen Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317526/",
+      "name": "王同辉 Tonghui Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315812/",
+      "name": "徐洁儿 Jill Hsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341583/",
+      "name": "上白 Shangbai"
+    }
+  ]
+,
+  "datePublished": "2018-09-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H26M",
+  "description": "颜丹晨在剧中演医院院长、市长夫人；王挺饰演环保局长；王同辉剧中饰演颜丹晨的市长老公。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大地母亲 Pachamama",
+  "url": "/subject/27046657/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2530740257.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302301/",
+      "name": "Juan Antin Juan Antin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302301/",
+      "name": "Juan Antin Juan Antin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304816/",
+      "name": "帕特里夏·瓦里克斯 Patricia Valeix"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389539/",
+      "name": "玛丽-克莉丝汀·达哈 Marie-Christine Darah"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414437/",
+      "name": "文森特·罗皮恩 Vincent Ropion"
+    }
+  ]
+,
+  "datePublished": "2018-12-12",
+  "genre": ["\u52a8\u753b", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H12M",
+  "description": "一名活泼男孩居住在安地斯山脉一座村庄，村裡的圣像失窃，梦想成为巫师的他，开始了取回圣像的勇敢任务。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "222",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

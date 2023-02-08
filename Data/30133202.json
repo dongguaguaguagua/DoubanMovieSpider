@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伏特加酒店谋杀案 Vodka Diaries",
+  "url": "/subject/30133202/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2512119655.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050395/",
+      "name": "凯·凯·门农 Kay Kay Menon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1141468/",
+      "name": "拉伊玛·森 Raima Sen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1168816/",
+      "name": "曼迪拉·贝迪 Mandira Bedi"
+    }
+  ]
+,
+  "datePublished": "2018-01-19",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT2H0M",
+  "description": "印度马纳利，冰天雪地，云雾缭绕，却发生了一系列离奇的凶案。警务助理处长阿什维尼·迪克西特，在破案过程中，遭遇了不可思议的怪事，而所有的线索都指向了“伏特加日记酒店”。不得不说，印度片在近年推行的国际版...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

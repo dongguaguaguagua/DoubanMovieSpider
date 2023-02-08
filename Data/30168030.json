@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱情短片",
+  "url": "/subject/30168030/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2516248533.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392665/",
+      "name": "郭宇 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392665/",
+      "name": "郭宇 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392635/",
+      "name": "麦尔哈巴·伊斯拉音 "
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "年轻的维族导演正在筹拍一部爱情短片，汉族男孩小马被朋友叫来剧组帮忙拍摄纪录片。拍摄在寒冷的夜晚有条不紊地进行着，男孩透过自己的DV发现了女孩麦子并产生了情愫，青涩的感情欲言又止，和拍摄一起在寒冷的夜晚...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

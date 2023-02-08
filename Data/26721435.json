@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Detroit Rising",
+  "url": "/subject/26721435/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2315865329.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037232/",
+      "name": "吉姆·范贝贝尔 Jim Van Bebber"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A shell shocked war veteran returns from Iraq to Detroit and finds the American Dream in ruins. Jim ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

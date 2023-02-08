@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美丽人生 비밥바룰라",
+  "url": "/subject/26800973/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509723346.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409606/",
+      "name": "李胜宰 Seong-jae Lee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409606/",
+      "name": "李胜宰 Seong-jae Lee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015328/",
+      "name": "朴仁焕 In-hwan Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316373/",
+      "name": "申久 Goo Shin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274595/",
+      "name": "林玄植 Hyeon-shik Lim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006493/",
+      "name": "金仁权 In-kwon Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382630/",
+      "name": "朴庸 Yong Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461213/",
+      "name": "崔顺子 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376058/",
+      "name": "李艺贤 Ye-hyun Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461806/",
+      "name": "姜吉宇 Kang Gil Woo"
+    }
+  ]
+,
+  "datePublished": "2018-01-24",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H37M",
+  "description": "《美丽人生》讲述的是为了家人辛劳操劳了一辈子四位爷爷，四个人为了完成各自心中的遗愿清单变身YOLO一族的搞笑故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "532",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猎刃归途 救援之路",
+  "url": "/subject/27600182/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384671/",
+      "name": "陈瑛麟 Cylin."
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384671/",
+      "name": "陈瑛麟 Cylin."
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323764/",
+      "name": "刘腾远 Tengyuan Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387396/",
+      "name": "刘凌菱 Lingling Liu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H11M",
+  "description": "李芓琳是东南亚某跨国医疗科技公司的医学研究员，她发现了公司黑幕并意识到危机降临，两组海外安全小队被指派为她提供援助，但势力强大的医科公司让他们的归途成为噩梦。
+.
+在某国工作的李芓琳偶然发现在职公司的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

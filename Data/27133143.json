@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "老爹 Daddy",
+  "url": "/subject/27133143/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542411526.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383898/",
+      "name": "拉杰·阿晶 Raj Arjun"
+    }
+  ]
+,
+  "datePublished": "2017-09-08",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "From the rough streets and back alleys of Central Mumbai comes the sensational true story of Arun Ga...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

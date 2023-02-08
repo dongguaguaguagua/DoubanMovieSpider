@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三夫",
+  "url": "/subject/30334399/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2552829833.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000726/",
+      "name": "陈果 Fruit Chan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289291/",
+      "name": "林纪陶 Jason Lam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000726/",
+      "name": "陈果 Fruit Chan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316471/",
+      "name": "曾美慧孜 Meihuizi Zeng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402590/",
+      "name": "陈湛文 Charm Man Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404642/",
+      "name": "陈万雷 Man-Lei Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404643/",
+      "name": "麦强 Mak Keung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366536/",
+      "name": "邓月平 Larine Tang"
+    }
+  ]
+,
+  "datePublished": "2018-10-26",
+  "genre": ["\u5267\u60c5", "\u60c5\u8272"],
+  "duration": "PT1H41M",
+  "description": "本片是香港导演陈果妓女三部曲最后一部（《榴莲飘飘》，《香港有个荷里活》），本片讲述了一个奇特的妓女在香港的一条船上生活的故事。她有着超乎常人的性欲和三个丈夫，她将自己地献身于她的工作。用性来讽刺时代，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "28691",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

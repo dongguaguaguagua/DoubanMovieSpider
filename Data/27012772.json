@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "骑士 The Rider",
+  "url": "/subject/27012772/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2520097023.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349079/",
+      "name": "赵婷 Chloé Zhao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349079/",
+      "name": "赵婷 Chloé Zhao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384814/",
+      "name": "布雷迪·詹德罗 Brady Jandreau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384815/",
+      "name": "蒂姆·詹德罗 Tim Jandreau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384816/",
+      "name": "莉莉·詹德罗 Lilly Jandreau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384817/",
+      "name": "卡特·克利福德 Cat Clifford"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384818/",
+      "name": "特丽·道恩·鲍里尔 Terri Dawn Pourier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384819/",
+      "name": "莱恩·斯科特 Lane Scott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384820/",
+      "name": "坦纳·朗道 Tanner Langdeau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384821/",
+      "name": "詹姆斯·卡尔霍恩 James Calhoon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384822/",
+      "name": "德里克·贾尼斯 Derrick Janis"
+    }
+  ]
+,
+  "datePublished": "2017-05-20",
+  "genre": ["\u5267\u60c5", "\u897f\u90e8"],
+  "duration": "PT1H44M",
+  "description": "布拉迪（布雷迪·詹德罗 Brady Jandreau 饰）是一名牛仔，同时也是一位富有天赋的驯马师，在牛仔竞技界前途无量。然而，在一次比赛中，布拉迪不幸受伤，撞到了颅骨，医生告诉他，他将再也无法继续他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "10719",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

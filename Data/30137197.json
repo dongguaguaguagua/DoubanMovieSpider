@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无用的杰里米 Jeremy the Dud",
+  "url": "/subject/30137197/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512474760.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387861/",
+      "name": "萨姆·汉弗莱 Sam Humphrey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391678/",
+      "name": "亚当·鲍斯 Adam Bowes"
+    }
+  ]
+,
+  "datePublished": "2017-11-02",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Imagine a world in which having a disability was the norm, and the select few that don&#39;t, duds, expe...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

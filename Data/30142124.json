@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亲爱的艾琳 愛しのアイリーン",
+  "url": "/subject/30142124/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2556028485.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337337/",
+      "name": "吉田惠辅 Keisuke Yoshida"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419408/",
+      "name": "新井英树 Hideki Arai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337337/",
+      "name": "吉田惠辅 Keisuke Yoshida"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276143/",
+      "name": "安田显 Ken Yasuda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413667/",
+      "name": "娜塔丽·西托伊 Natileigh Sitoy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1043635/",
+      "name": "河井青叶 Aoba Kawai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275370/",
+      "name": "福士诚治 Seiji Fukushi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110160/",
+      "name": "伊势谷友介 Yûsuke Iseya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025561/",
+      "name": "田中要次 Yôji Tanaka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1039577/",
+      "name": "品川彻 Tôru Shinagawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015520/",
+      "name": "木野花 Hana Kino"
+    }
+  ]
+,
+  "datePublished": "2018-09-14",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT2H17M",
+  "description": "新井英树名作漫画&lt;亲爱的艾琳&gt;将拍摄真人映画，安田显主演，吉田惠辅导演，以少子高龄化，外国人雇佣等社会问题为背景，描写主人公与菲律宾女性之间“爱与欲望”的故事。2018年秋季公映。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "643",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

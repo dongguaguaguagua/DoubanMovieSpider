@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们得谈谈 Tenemos que hablar",
+  "url": "/subject/26597143/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2315783819.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297236/",
+      "name": "David Serrano David Serrano"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297236/",
+      "name": "David Serrano David Serrano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1030038/",
+      "name": "迭戈·圣何塞 Diego San José"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045283/",
+      "name": "乌戈·席尔瓦 Hugo Silva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050174/",
+      "name": "米歇尔·珍娜 Michelle Jenner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037245/",
+      "name": "贝罗尼卡·福尔克 Verónica Forqué"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019255/",
+      "name": "安娜·贝伦 Ana Belén"
+    }
+  ]
+,
+  "datePublished": "2016-03-04",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H31M",
+  "description": "一名开心的女子正享受一帆风顺的新恋情，但她还需要一样东西：从沮丧的前夫手中拿到离婚协议书。为了达成目的，可能得使出欺骗手段。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

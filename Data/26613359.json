@@ -1,0 +1,130 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "水果宝贝之水果总动员",
+  "url": "/subject/26613359/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2355856200.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318062/",
+      "name": "杨劲松 Jinsong Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347857/",
+      "name": "梁董龙 Donglong Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355716/",
+      "name": "刘平劼 Pingjie Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318519/",
+      "name": "马广源 Guangyuan Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355718/",
+      "name": "蒋林辰 Linchen Jiang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316493/",
+      "name": "祖晴 Qing Zu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355720/",
+      "name": "明婧 Jing Ming"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355721/",
+      "name": "小玉 Xiao Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355718/",
+      "name": "蒋林辰 Linchen Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355722/",
+      "name": "李晶 Jing Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355723/",
+      "name": "黄珊珊 Shanshan Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355724/",
+      "name": "毛毛 Mao Mao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355725/",
+      "name": "小马 Xiao Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355726/",
+      "name": "齐冀宁 Jining Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355727/",
+      "name": "马瑞 Rui Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354192/",
+      "name": "赵然 Ran Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338294/",
+      "name": "泽飞 Zefei"
+    }
+  ]
+,
+  "datePublished": "2016-06-01",
+  "genre": ["\u559c\u5267", "\u52a8\u753b"],
+  "duration": "PT1H21M",
+  "description": "影片讲述了小橘子吉星为了捍卫水果村，成长为水果英雄的故事。吉星所住的地方是隐藏在茂盛森林中的一个神秘村落，村落名叫水果村，那里的村民都不被外界打扰，幸福快乐地生活着。这天的课上，桃老师讲述了30年前，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "290",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.7"
+  }
+}

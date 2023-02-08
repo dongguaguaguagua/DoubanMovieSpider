@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "甜甜圈杀人事件 Attack of the Killer Donuts",
+  "url": "/subject/26924348/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2401282145.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051128/",
+      "name": "Scott Wheeler Scott Wheeler"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383528/",
+      "name": "凯拉·康普顿 Kayla Compton"
+    }
+  ]
+,
+  "datePublished": "2016-07-08",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H38M",
+  "description": "A chemical accident turns ordinary donuts into blood thirsty killers. Now it&#39;s up to Johnny, Michell...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

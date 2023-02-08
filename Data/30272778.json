@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我儿子去了外星球",
+  "url": "/subject/30272778/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2539955692.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402779/",
+      "name": "张小鲨 Xiaosha Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402779/",
+      "name": "张小鲨 Xiaosha Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343092/",
+      "name": "罗四维 Siwei Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413782/",
+      "name": "邱文洋 Wenyang Qiu"
+    }
+  ]
+,
+  "datePublished": "2018-07-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "农民陈立根在村口捡到一具不知真假的外星人尸体，他认为尸体跟自己失踪的儿子有关，为了找回儿子，他开始守护尸体。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1506",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

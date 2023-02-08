@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女人来自金星 Venus",
+  "url": "/subject/30304541/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531687998.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407210/",
+      "name": "艾莎·玛莎拉 Eisha Marjara"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407210/",
+      "name": "艾莎·玛莎拉 Eisha Marjara"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338806/",
+      "name": "皮埃尔 - 伊夫·卡迪纳尔 Pierre-Yves Cardinal"
+    }
+  ]
+,
+  "datePublished": "2018-09-19",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H35M",
+  "description": "西德（Debargo Sanyal 饰）发现自己是一名跨性别者，在压抑了很多年后，他终于决定释放自己的本性，和父母摊了牌。虽然一直渴望能够享受天伦之乐的母亲难免感到非常失望，但是这对老夫妻还是开明的表...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "81",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

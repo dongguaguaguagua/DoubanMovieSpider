@@ -1,0 +1,49 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "诱惑 유혹",
+  "url": "/subject/26966622/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2423143749.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365552/",
+      "name": "朴银狐 Park Joo-bin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363456/",
+      "name": "安昭希 So-hee Ahn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455861/",
+      "name": "魏智雄 Ji-woong Wi"
+    }
+  ]
+,
+  "datePublished": "2017-01-25",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60c5\u8272"],
+  "duration": "PT1H22M",
+  "description": "부유하고 다정한 남편과 남부럽지 않은 삶을 살고 있던 슬기.
+하지만 그녀는 무언가 아쉬움을 느끼고 그러던 어느 날 우연히 만난 승환에게 거부할 수 없는 유혹을 느낀다. 자유분방한 ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "213",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恋人 Ishqeria",
+  "url": "/subject/30418870/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2544299540.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014243/",
+      "name": "尼尔·尼汀·穆科什 Neil Nitin Mukesh"
+    }
+  ]
+,
+  "datePublished": "2018-09-21",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H58M",
+  "description": "Ishqeria是一个关于一个小镇女孩的故事，她疯狂地爱上了大学里最受追捧的人。这是一段初恋，成长和第二次机会的旅程。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Qaidi Band",
+  "url": "/subject/27165981/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2501469528.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363168/",
+      "name": "哈比卜·法伊萨尔 Habib Faisal"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363168/",
+      "name": "哈比卜·法伊萨尔 Habib Faisal"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-08-25",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

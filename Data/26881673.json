@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们的时间就在当前 Unsere Zeit ist jetzt",
+  "url": "/subject/26881673/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2407739654.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416993/",
+      "name": "马丁·施莱尔 Martin Schreier"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417067/",
+      "name": "阿兰德·雷默斯 Arend Remmers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416993/",
+      "name": "马丁·施莱尔 Martin Schreier"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036398/",
+      "name": "蒂尔·施威格 Til Schweiger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007130/",
+      "name": "詹妮特·海因 Jeanette Hain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1222605/",
+      "name": "比亚内·梅德尔 Bjarne Mädel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1130970/",
+      "name": "沃坦·维尔克·默林 Wotan Wilke Möhring"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1105318/",
+      "name": "安雅·克林 Anja Kling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164019/",
+      "name": "蒂姆·维尔德 Tim Wilde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298800/",
+      "name": "奥斯卡·奥尔特加·桑切斯 Oscar Ortega Sánchez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333485/",
+      "name": "萨缪尔·芬齐 Samuel Finzi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351713/",
+      "name": "艾米利亚·舒勒 Emilia Schüle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366472/",
+      "name": "马克·本雅明 Marc Benjamin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374094/",
+      "name": "佩莉·鲍麦斯特 Peri Baumeister"
+    }
+  ]
+,
+  "datePublished": "2016-10-06",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Dawid, Vanessa and Ludwig are the finalists at a pitch-competition for a movie about the German Rap ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "106",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

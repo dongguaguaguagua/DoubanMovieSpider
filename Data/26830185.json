@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "En tu cabeza",
+  "url": "/subject/26830185/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2424828946.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303926/",
+      "name": "博尔哈·科贝亚加 Borja Cobeaga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019743/",
+      "name": "凯克·麦罗 Kike Maíllo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009805/",
+      "name": "丹尼尔·桑切斯·阿雷瓦洛 Daniel Sánchez Arévalo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050174/",
+      "name": "米歇尔·珍娜 Michelle Jenner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050220/",
+      "name": "萝西·德·帕尔马 Rossy de Palma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045283/",
+      "name": "乌戈·席尔瓦 Hugo Silva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005250/",
+      "name": "马克西·伊格莱西亚斯 Maxi Iglesias"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236774/",
+      "name": "阿德里安·拉斯特拉 Adrián Lastra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341551/",
+      "name": "纳塔利娅·德·莫利纳 Natalia de Molina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1097892/",
+      "name": "丹尼尔·古兹曼 Daniel Guzmán"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032653/",
+      "name": "费尔南多·特赫罗 Fernando Tejero"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1155762/",
+      "name": "路易斯·巴雷拉 Luis Varela"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1068520/",
+      "name": "Concha Cuetos Concha Cuetos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134256/",
+      "name": "米格尔·波维达 Miguel Poveda"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "Andrea lives in the year 2052 and her job consists of travelling back in time, inserting herself int...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

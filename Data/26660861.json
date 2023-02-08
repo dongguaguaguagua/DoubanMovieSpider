@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暴走兄弟VS僵尸古惑仔",
+  "url": "/subject/26660861/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2282052871.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289305/",
+      "name": "林华全 Wah-Chuen Lam"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010833/",
+      "name": "谢天华 Michael Tse"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312694/",
+      "name": "姜潮 Chao Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041695/",
+      "name": "黄又南 You-Nam Wong"
+    }
+  ]
+,
+  "datePublished": "2016-03-07",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H17M",
+  "description": "影片讲述两个城市化的热血青年意外踏上一段神奇的房车之旅，不仅结识了天使与恶魔属性集于一身的美女，也一路遭遇各种灵异事件的奇幻经历。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

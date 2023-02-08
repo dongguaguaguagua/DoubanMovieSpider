@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "孤立边缘 Edge of Isolation",
+  "url": "/subject/30240122/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2524212781.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337698/",
+      "name": "Alexandra Peters Alexandra Peters"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019147/",
+      "name": "蒙特·马卡姆 Monte Markham"
+    }
+  ]
+,
+  "datePublished": "2018-04-20",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H29M",
+  "description": "Stranded deep in the woods, a young married couple is taken in by an isolationist family, one that l...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Shopkins Wild",
+  "url": "/subject/30330820/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540559369.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006335/",
+      "name": "Richard &#39;Dr.&#39; Baily Richard &#39;Dr.&#39; Baily"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388912/",
+      "name": "贝尼亚·K·托马斯 Benja K. Thomas"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013966/",
+      "name": "乔希·戴维斯 Josie Davis"
+    }
+  ]
+,
+  "datePublished": "2018-03-01",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "Find your Wild Style and come on a totally Pawesome adventure to Pawville to meet the Shoppets. When...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

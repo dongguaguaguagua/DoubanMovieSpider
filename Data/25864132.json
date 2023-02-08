@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "水下危机 Submerged",
+  "url": "/subject/25864132/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2283646657.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032824/",
+      "name": "史蒂芬·C·米勒 Steven C. Miller"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454856/",
+      "name": "斯科特·米拉姆 Scott Milam"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025060/",
+      "name": "妲露拉·莱莉 Talulah Riley"
+    }
+  ]
+,
+  "datePublished": "2014-11-27",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H39M",
+  "description": "A young woman and her friends| who&#34;ve been targeted by kidnappers| must do everything they can to su...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "173",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

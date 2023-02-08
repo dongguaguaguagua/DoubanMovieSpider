@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "银河 После тебя",
+  "url": "/subject/26881566/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499156207.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362767/",
+      "name": "安娜·马提森 Anna Matison"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1056706/",
+      "name": "玛丽娜·亚历山德罗娃 Marina Aleksandrova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1063266/",
+      "name": "谢尔盖·别兹鲁科夫 Sergey Bezrukov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1093899/",
+      "name": "瓦连京·佳夫特 Valentin Gaft"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1266761/",
+      "name": " Denis Matsuev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050532/",
+      "name": "弗拉基米尔·缅绍夫 Vladimir Menshov"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u97f3\u4e50"],
+  "duration": "PT1H35M",
+  "description": "暂无",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

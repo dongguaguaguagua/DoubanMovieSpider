@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美人 めばえ",
+  "url": "/subject/34463298/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2562160183.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419850/",
+      "name": "森川凉花 Suzuka Morikawa"
+    }
+  ]
+,
+  "datePublished": "2018-09-28",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT4H0M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "守巢人",
+  "url": "/subject/26676413/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2290605163.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407929/",
+      "name": "王旭峰 Xufeng Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407929/",
+      "name": "王旭峰 Xufeng Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "原本是温暖的“家”，演变为冷冰冰的“巢”，“巢”是这个时代的产物，巢其实并未空，有孤独羸弱的老人在守望，有年幼的儿童在期盼！他们是无奈的“守巢人”！它代表了一类不可忽视的社会群体，代表了一种不可回避的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

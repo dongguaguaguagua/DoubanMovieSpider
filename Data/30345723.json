@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "原来如此",
+  "url": "/subject/30345723/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546359739.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414410/",
+      "name": "廖必翔 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414411/",
+      "name": "杜辉 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414412/",
+      "name": "池丹 Dan Chi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414414/",
+      "name": "徐志飞 Zhifei Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414415/",
+      "name": "杨燕 Yan Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414417/",
+      "name": "董燕伟 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414418/",
+      "name": "姜雪梅 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414419/",
+      "name": "徐千千 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414416/",
+      "name": "罗雅文 Yawen Luo"
+    }
+  ]
+,
+  "datePublished": "2018-10-20",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H23M",
+  "description": "午夜的宿舍楼内，传来鬼魅的唱戏声，那声音竟然来自已经死去的剧团女主演！全楼居民极度恐慌。年轻人陆离和哥们儿一起调查女鬼真相，却越陷越深，先是剧团化妆师被女鬼附身，离奇丧命，紧接着哥们儿也惊吓过度，疯癫...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小镇风云之仇富者联盟",
+  "url": "/subject/26831502/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2366345697.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427123/",
+      "name": "马成成 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001604/",
+      "name": "叶山豪 Hayama Go"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339775/",
+      "name": "李红陶 Hongtao Li"
+    }
+  ]
+,
+  "datePublished": "2016-07-28",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u60ac\u7591"],
+  "duration": "PT1H4M",
+  "description": "李子木是镇上多年来考的最好的大学生之一,因为毕业后频频受挫,加上家境原因就回到了小镇,照顾多病的母亲,但是他很难融入小镇生活。张三是一个小镇上的假牧师,之前做过传销,卖过安利,还当过假和尚,因为发现外...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

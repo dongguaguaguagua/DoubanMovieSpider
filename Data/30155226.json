@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玩世英雄",
+  "url": "/subject/30155226/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2515279255.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316056/",
+      "name": "韩杰 Jie Han"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409042/",
+      "name": "王志勇 Zhiyong Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276105/",
+      "name": "黄轩 Xuan Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274655/",
+      "name": "范明 Ming Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339526/",
+      "name": "张辛苑 Xinyuan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313659/",
+      "name": "李滨 Bin Li"
+    }
+  ]
+,
+  "datePublished": "2018-03-03",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u6218\u4e89", "\u5947\u5e7b"],
+  "duration": "PT1H8M",
+  "description": "某游戏公司的职员一行三人来到中国边境城市的某历史博物馆，他们是富二代吴淼，历史系毕业实习生梅峰，俄国酒鬼安德鲁。三人无意间同时穿越回1945年战争进入尾声的中国。
+该片拍摄于2014年，2016年参加...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2048",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.1"
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夏日时光 Lumière d&#39;été",
+  "url": "/subject/27113003/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496128220.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399538/",
+      "name": "让-加布瑞·贝里奥 Jean-Gabriel Périot"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399538/",
+      "name": "让-加布瑞·贝里奥 Jean-Gabriel Périot"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-08-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "Akihiro, a native japanese filmmaker living in Paris, came to Japan to interview survivors for a doc...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

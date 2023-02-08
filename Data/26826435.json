@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "艾米粒日记",
+  "url": "/subject/26826435/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2363255151.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379749/",
+      "name": "舒子 Boshu Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379749/",
+      "name": "舒子 Boshu Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379749/",
+      "name": "舒子 Boshu Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379750/",
+      "name": "刘晓萌 Xiaomeng Liu"
+    }
+  ]
+,
+  "datePublished": "2016-06-24",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H14M",
+  "description": "刚从导演专业毕业的艾米粒，喜欢拿着DV在街上偷拍。一次，她在咖啡厅偷拍一对情侣吵架时，被一杯冷水当头淋下，被一份真爱突然袭击。艾米粒用gopro记录下这段感情的开始和结束。这段感情，成了她导演生涯的第...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1442",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱是永恒",
+  "url": "/subject/30206391/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522423565.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391994/",
+      "name": "陈烈 Lie Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392487/",
+      "name": "邹丰 Feng Zou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391995/",
+      "name": "卢岚岚 Lanlan Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394371/",
+      "name": "阿曦 A Xi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391996/",
+      "name": "史振凯 Zhenkai Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364073/",
+      "name": "孙童心 Tongxin Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374091/",
+      "name": "曲博 Bo Qu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365987/",
+      "name": "廖语辰 Yuchen Liao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327797/",
+      "name": "李若斯 Ruosi Li"
+    }
+  ]
+,
+  "datePublished": "2018-05-29",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "在外留学的沈晖（史振凯 饰）被急电召回，看望病危的父亲沈明霖（曲博 饰）。因为母亲（李东艾 饰）的缘故，多年来父子间存有隔阂。弥留之际的父亲心心念念的是一段遥远的青春岁月和一个叫石青玉（廖语辰 饰）的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

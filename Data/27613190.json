@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我不是黄飞鸿",
+  "url": "/subject/27613190/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519072130.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419012/",
+      "name": "刘公子 Gongzi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337032/",
+      "name": "刘浩 Hao Liu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394145/",
+      "name": "严丰 Feng Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108968/",
+      "name": "罗家英 Kar-Ying Law"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355316/",
+      "name": "张冰倩 Bingqian Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331308/",
+      "name": "屠夏岩 Xiayan Tu"
+    }
+  ]
+,
+  "datePublished": "2018-04-13",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u53e4\u88c5"],
+  "duration": "PT1H55M",
+  "description": "都市青年黄辉冯靠与父亲演双簧，售卖祖上假药方维持生计，某日骗局败露，意外穿越至晚清，阴差阳错间被当做黄飞鸿留在了宝芝林。当时广州城正在遭受鸦片的毒害，知府佟甲勾结洋人中饱私囊，祸害一方；真正的黄飞鸿因...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

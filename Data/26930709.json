@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Idolle Ramayana",
+  "url": "/subject/26930709/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2403593793.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294867/",
+      "name": "普拉卡什·拉贾 Prakash Raj"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294867/",
+      "name": "普拉卡什·拉贾 Prakash Raj"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427947/",
+      "name": "阿丘特·库马尔 Achyuth Kumar"
+    }
+  ]
+,
+  "datePublished": "2016-10-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H51M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

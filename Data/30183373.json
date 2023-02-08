@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "凶残的沉默 Mörderische Stille",
+  "url": "/subject/30183373/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539498019.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001935/",
+      "name": "弗里德曼·弗洛姆 Friedemann Fromm"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001935/",
+      "name": "弗里德曼·弗洛姆 Friedemann Fromm"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023143/",
+      "name": "扬·约瑟夫·利费斯 Jan Josef Liefers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014218/",
+      "name": "西尔维·泰斯蒂 Sylvie Testud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007205/",
+      "name": "彼得·洛迈尔 Peter Lohmeyer"
+    }
+  ]
+,
+  "datePublished": "2017-01-09",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT1H29M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

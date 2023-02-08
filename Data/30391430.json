@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱在湘西",
+  "url": "/subject/30391430/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2541305323.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377728/",
+      "name": "李勇 Yong Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406879/",
+      "name": "李稳华 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406880/",
+      "name": "姚杭辰 Hangchen Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406881/",
+      "name": "王金锋 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396606/",
+      "name": "马亚楠 Yanan Ma"
+    }
+  ]
+,
+  "datePublished": "2018-12-18",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H39M",
+  "description": "大学生村官田野，在苗家阿妹石玲的帮助下，从“茶王”石天柱那里学得黄金茶的制作技术，充分利用当地旅游资源优势，因地制宜脱贫脱单，帮助九里乡八洞村村民建立美丽和谐家园的动人故事",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

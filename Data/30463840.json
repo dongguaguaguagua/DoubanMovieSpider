@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一路囧逃",
+  "url": "/subject/30463840/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2551807680.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319721/",
+      "name": "李克龙 Kelong Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317375/",
+      "name": "韩兆 Zhao Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048469/",
+      "name": "徐少强 Norman Chu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H33M",
+  "description": "陈家武馆的学员尚武， 在比武时误以为打死了武校教练王浩强，尚武浪迹天下，认识了KTV服务员玲玲，还卷入了一场和一个电影剧组演员的纷争，最后尚武改正好强的性子，在去公安局自首的时候才知道这是一场误会。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

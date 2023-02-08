@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "私人战争 A Private War",
+  "url": "/subject/20425292/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2532482728.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355160/",
+      "name": "马修·海涅曼 Matthew Heineman"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323618/",
+      "name": "阿拉什·阿梅尔 Arash Amel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038064/",
+      "name": "玛丽·布伦纳 Marie Brenner"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040989/",
+      "name": "裴淳华 Rosamund Pike"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045101/",
+      "name": "詹米·多南 Jamie Dornan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049625/",
+      "name": "汤姆·霍兰德尔 Tom Hollander"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040517/",
+      "name": "斯坦利·图齐 Stanley Tucci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349783/",
+      "name": "安东尼萨桑·杰苏萨桑 Antonythasan Jesuthasan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333357/",
+      "name": "费伊·马赛 Faye Marsay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410368/",
+      "name": "伊莫根·金 Imogen King"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410367/",
+      "name": "娜塔莎·杰伊特莱克 Natasha Jayetileke"
+    }
+  ]
+,
+  "datePublished": "2018-09-07",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u6218\u4e89"],
+  "duration": "PT1H50M",
+  "description": "杰米·多南加盟裴淳华、塔伦·艾格顿主演传记新片《私人战争》，马修·海涅曼(《贩毒之地》《幽灵城》)执导，阿拉什·阿梅尔(《摩纳哥王妃》)操刀剧本，将基于《名利场》撰写的科尔文生平事迹文章进行创作，查理...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "8542",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "罪恶终结者",
+  "url": "/subject/27055302/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2517271435.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316547/",
+      "name": "吴卫东 Weidong Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316547/",
+      "name": "吴卫东 Weidong Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328701/",
+      "name": "魏人 Ren Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424532/",
+      "name": "李兴萌 Xingmeng Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275576/",
+      "name": "陶灏景 Vincent Tao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275706/",
+      "name": "郑晓宁 Xiaoning Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314249/",
+      "name": "施予斐 Yufei Shi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H29M",
+  "description": "曾在警校成绩优异，以第一名毕业的廖永昌，由于心高气傲、性格孤僻，在缉毒警员选拔时落榜，最终因心理不平衡走上贩毒不归路。三年前的一次贩毒被自己的徒弟、缉毒警察钟葵发现，潜逃泰国，整容变脸成为外籍华裔人苏...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "94",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.5"
+  }
+}

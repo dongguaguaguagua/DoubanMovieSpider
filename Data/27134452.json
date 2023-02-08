@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "机器人弗雷迪 F.R.E.D.I.",
+  "url": "/subject/27134452/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522720094.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008571/",
+      "name": "肖恩·欧森 Sean Olson"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210520/",
+      "name": "Garrett Brawith Garrett Brawith"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006984/",
+      "name": "胡凯莉 Kelly Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049554/",
+      "name": "安古斯·麦克菲登 Angus Macfadyen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040708/",
+      "name": "泰勒·克里斯托弗 Tyler Christopher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071679/",
+      "name": "克里斯蒂娜·考克斯 Christina Cox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1212991/",
+      "name": "特夏斯·巴特尔 Texas Battle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362735/",
+      "name": "哈维·吉兰 Harvey Guillen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313162/",
+      "name": "坎迪斯·欣克尔 Candyce Hinkle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344767/",
+      "name": "卢修斯·霍约斯 Lucius Hoyos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372346/",
+      "name": "卡西米尔·乔莉特 Casimere Jollette"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284814/",
+      "name": "戴尔·吉布森 Dale Gibson"
+    }
+  ]
+,
+  "datePublished": "2018-05-03",
+  "genre": ["\u79d1\u5e7b", "\u5bb6\u5ead"],
+  "duration": "PT1H29M",
+  "description": "An intelligent, lovable robot known as &#34;F.R.E.D.I.&#34; is stolen from a secret research facility by the...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

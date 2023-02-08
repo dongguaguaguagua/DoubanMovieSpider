@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海平面上升 Oceans Rising",
+  "url": "/subject/26992694/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2482964274.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438785/",
+      "name": "安娜贝尔·布莱特 Annabel Barrett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446330/",
+      "name": "莎莫·斯皮罗 Summer Spiro"
+    }
+  ]
+,
+  "datePublished": "2017-02-07",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u707e\u96be"],
+  "duration": "PT1H27M",
+  "description": "A scientist builds a massive ark after his warnings of an Earth-destroying flood are ignored. But wh...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1036",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.5"
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Bloody Blacksmith",
+  "url": "/subject/26889746/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2617899266.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016711/",
+      "name": "大卫·德科提奥 David DeCoteau"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016711/",
+      "name": "大卫·德科提奥 David DeCoteau"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124746/",
+      "name": "尼克‧曼库索 Nick Mancuso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419076/",
+      "name": "丹尼尔·迪默 Daniel Diemer"
+    }
+  ]
+,
+  "datePublished": "2016-11-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H15M",
+  "description": "A group of history students are promised a reward if they can find the ancient tools of legendary bl...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

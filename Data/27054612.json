@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "笔仙咒怨",
+  "url": "/subject/27054612/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506139427.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319338/",
+      "name": "邓安东 Andong Deng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384364/",
+      "name": "林志国 Zhiguo Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319338/",
+      "name": "邓安东 Andong Deng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341569/",
+      "name": "罗翔 Xiang Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378792/",
+      "name": "李佳颖 Jiaying Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378788/",
+      "name": "江兰萱 Lanhui Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378789/",
+      "name": "俞晓晔 Xiaohua Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378790/",
+      "name": "马卉 Hui Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378791/",
+      "name": "徐勇 Yong Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384365/",
+      "name": "粟军 Jun Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384366/",
+      "name": "发哥 Xiaoyong Zheng"
+    }
+  ]
+,
+  "datePublished": "2017-12-01",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H36M",
+  "description": "故事讲述了开发商安东想强拆何倩倩外婆的老宅建成一片别墅区。为了不让安东强拆老宅，何倩倩暑假和同学江佳琪一起回到了老宅，初恋王晓峰还有一群初中同学陪着她想出了一个请笔仙装鬼的办法吓走开发商，可后来事情扑...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "857",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.1"
+  }
+}

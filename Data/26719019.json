@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Succulent &amp; Savory",
+  "url": "/subject/26719019/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1200196/",
+      "name": "瑞奇·惠特尔 Ricky Whittle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1139679/",
+      "name": "马克西姆·罗伊 Maxim Roy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209054/",
+      "name": "马里奥·梅尔奇奥特 Mario Melchiot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1259693/",
+      "name": " Cade Carradine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1097740/",
+      "name": "Christopher Holder Christopher Holder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1094189/",
+      "name": "Manouschka Guerrier Manouschka Guerrier"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "Chef Valentina realizes that it&#39;s time for her to search for a new recipe for love &amp; life [a year af...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

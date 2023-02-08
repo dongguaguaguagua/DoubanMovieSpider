@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一个神奇的男人 이, 기적인 남자",
+  "url": "/subject/30329928/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2536496317.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382564/",
+      "name": "朴浩山 Ho-san Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450017/",
+      "name": "黄成俊 Sung-joon Hwang"
+    }
+  ]
+,
+  "datePublished": "2018-10-25",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H32M",
+  "description": "四十歲的李在允是大學教授，他的太太尹美賢在同一所大學擔任行政人員，可是在允卻愛上了系上的助教徐智秀，甚至展開追求。他的婚姻並不美滿，在允的母親也總是在耳邊嘮叨，催促他們趕快生個孩子。美賢跟智秀關係很好...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "69",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

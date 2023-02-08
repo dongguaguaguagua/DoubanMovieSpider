@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马尔提格谋杀案 Crime à Martigues",
+  "url": "/subject/30391279/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012664/",
+      "name": "弗罗伦斯·派梅尔 Florence Pernel"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT1H29M",
+  "description": "助理檢察官伊麗莎白和警官保羅攜手合作，調查男子身著潛水服陳屍於沙灘上的案件，同時又發生外遇情殺仇殺案，調查陷入膠著",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

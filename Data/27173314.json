@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小小爸爸",
+  "url": "/subject/27173314/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502265478.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355104/",
+      "name": "崔俊杰 Junjie Cui"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275580/",
+      "name": "刘小光 Xiaoguang Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312937/",
+      "name": "汪涵 Han Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372584/",
+      "name": "赵海燕 Haiyan Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315489/",
+      "name": "唐鉴军 Jianjun Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318928/",
+      "name": "王小宝 Xiaobao Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321897/",
+      "name": "孙立荣 Lirong Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317627/",
+      "name": "关婷娜 Tingna Guan"
+    }
+  ]
+,
+  "datePublished": "2017-10-14",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u513f\u7ae5"],
+  "duration": "PT1H30M",
+  "description": "刘大雷（刘小光 饰）是一个平平无奇的快递员，每天过着混吃等死的闲散生活。刘大雷爱慕名为罗小美（赵海燕 饰）的老板娘多时，在他的热情攻势之下，罗小美总算是有了回应，刘大雷即将品尝到期望已久的爱情果实，就...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "916",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

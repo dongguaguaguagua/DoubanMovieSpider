@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "今夜，阳光灿烂 Sole, cuore, amore",
+  "url": "/subject/26843367/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2526865182.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033738/",
+      "name": "丹尼利·维肯 Daniele Vicari"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033738/",
+      "name": "丹尼利·维肯 Daniele Vicari"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045302/",
+      "name": "伊莎贝拉·拉贡内瑟 Isabella Ragonese"
+    }
+  ]
+,
+  "datePublished": "2016-10-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H53M",
+  "description": "艾莉擁有4個可愛小孩跟一個愛她、卻長期失業的老公。當經濟壓力都落到她肩上時，她每天早上得四點半起床，遠赴兩小時車程遠的咖啡店工作，卻總在晚上十點過後才能回到家。儘管每天只睡四個小時，艾莉卻總是面帶微笑...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "155",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

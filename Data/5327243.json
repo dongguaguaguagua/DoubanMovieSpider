@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "分解人 Unwind",
+  "url": "/subject/5327243/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049901/",
+      "name": "罗杰·阿夫瑞 Roger Avary"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049901/",
+      "name": "罗杰·阿夫瑞 Roger Avary"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u5bb6\u5ead"],
+  "duration": "",
+  "description": "20 years from now, life and death in America has changed. Organ transplant is at an all time high. T...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

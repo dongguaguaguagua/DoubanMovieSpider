@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "球舞青春",
+  "url": "/subject/26924326/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530778425.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378870/",
+      "name": "高扬 Yang Gao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323184/",
+      "name": "赵强 Qiang Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365458/",
+      "name": "高翔宇 Xiangyu Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365459/",
+      "name": "孙婕 Jie Sun"
+    }
+  ]
+,
+  "datePublished": "2016-12-09",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H18M",
+  "description": "电影《球舞青春》是一部以青春校园篮球为题材的网络大电影。影片叙述了一群在大学期间，因蓝球而走在一起的励志青春少年故事。儿童时代它们就非常热爱篮球，更因少年男孩与女孩的球场博弈而将故事巧妙传奇的渐入到大...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

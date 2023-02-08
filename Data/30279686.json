@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Zalla",
+  "url": "/subject/30279686/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2528611111.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425097/",
+      "name": "王天炜 Tianwei Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "A mother escapes a futuristic Compound to save her son, only to be transported into the desert of Ca...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

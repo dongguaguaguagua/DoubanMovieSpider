@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不义之财 Pickings",
+  "url": "/subject/30192279/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2518847443.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406203/",
+      "name": "埃利斯·普莱斯 Elyse Price"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406204/",
+      "name": "凯蒂·文森特 Katie Vincent"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406205/",
+      "name": "萨曼莎·泽诺 Samantha Zaino"
+    }
+  ]
+,
+  "datePublished": "2018-03-02",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H35M",
+  "description": "When a short-tempered mobster and his gang of thugs try to shake down a neighborhood bar, they&#39;re so...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

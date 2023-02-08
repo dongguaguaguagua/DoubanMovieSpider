@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣诞婚礼策划师 Christmas Wedding Planner",
+  "url": "/subject/30134316/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2512194735.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315827/",
+      "name": "斯蒂芬·鲁斯泽 Stephen Huszar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403520/",
+      "name": "丽贝卡·多尔顿 Rebecca Dalton"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H26M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

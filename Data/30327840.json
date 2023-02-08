@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "李司法的冬暖夏凉",
+  "url": "/subject/30327840/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534380070.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318272/",
+      "name": "宋江波 Jiangbo Song"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404449/",
+      "name": "王家男 Jianan Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321589/",
+      "name": "李梦男 Mengnan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326918/",
+      "name": "李晓红 Xiaohong Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478148/",
+      "name": "付晓博 Xiaobo Fu"
+    }
+  ]
+,
+  "datePublished": "2017-09-08",
+  "genre": ["\u4f20\u8bb0"],
+  "duration": "PT1H33M",
+  "description": "影片根据“全国优秀共产党员”、“全国司法行政系统一级英模”、原山西省阳高县龙泉镇司法所所长李培斌同志的生前事迹编导摄制，讲述了一位基层干部的感人事迹。李培斌坚守司法基层一线28年，卓有成效地开展人民调...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

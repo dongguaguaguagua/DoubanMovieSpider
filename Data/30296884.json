@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "外国人 Firangi",
+  "url": "/subject/30296884/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2530607513.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378310/",
+      "name": "鲁平德·查尔 Rupinder Chahal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378311/",
+      "name": "拉什·查拉 Rajesh Chawla"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378313/",
+      "name": "巴尔温德·辛格·扬尤亚 Balwinder Singh Janjua"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353922/",
+      "name": "伊西塔·杜塔 Ishita Dutta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365265/",
+      "name": "库玛·米什拉 Kumud Mishra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336122/",
+      "name": "Anjan Srivastav Anjan Srivastav"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350832/",
+      "name": "拉杰什·沙玛 Rajesh Sharma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321338/",
+      "name": "贾米勒汗 Jameel Khan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027845/",
+      "name": "阿米达普·巴强 Amitabh Bachchan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1126876/",
+      "name": "Om Prakash Om Prakash"
+    }
+  ]
+,
+  "datePublished": "2017-12-01",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c", "\u5386\u53f2"],
+  "duration": "PT2H38M",
+  "description": "In the year 1920, when India&#39;s freedom movement was gaining momentum, one man firmly believed that t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

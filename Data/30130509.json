@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "永恒的绿光 Permanent Green Light",
+  "url": "/subject/30130509/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2526999551.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281227/",
+      "name": "丹尼斯·库伯 Dennis Cooper"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281227/",
+      "name": "丹尼斯·库伯 Dennis Cooper"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "Acclaimed American writer Dennis Cooper is famous for his novels, poems and short stories full of vi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

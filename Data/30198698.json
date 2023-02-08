@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神龙策",
+  "url": "/subject/30198698/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2871372408.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391914/",
+      "name": "高成岗 Chenggang Gao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334288/",
+      "name": "言杰 Jie Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337599/",
+      "name": "苏濛濛 Mengmeng Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332806/",
+      "name": "刘峰超 Fengchao Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318313/",
+      "name": "韩月乔 Yueqiao Han"
+    }
+  ]
+,
+  "datePublished": "2018-04-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "北宋年间，公孙策返乡探母，却意外卷入一场离奇的凶杀案。经过一番调查，凶手竟然是与公孙策有多年情谊的莫慕华。在情与法之间，公孙策毅然选择了秉公执法。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

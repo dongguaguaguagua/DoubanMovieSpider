@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "彼得堡旋转木马 Petersburg Carousel",
+  "url": "/subject/26250810/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325335/",
+      "name": "巴库·巴库拉德泽 Bakur Bakuradze"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009398/",
+      "name": "提莫·贝克曼贝托夫 Timur Bekmambetov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006956/",
+      "name": "拉尔夫·费因斯 Ralph Fiennes"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "A collection  of short films focusing on different aspects of the city of St. Petersburg.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

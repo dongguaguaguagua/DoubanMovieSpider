@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "surviving-the-outbreak",
+  "url": "/subject/30146703/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402584/",
+      "name": "唐纳德·保罗 Donald Paul"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "",
+  "description": "在传染性爆发导致人们充满愤怒和食人族之后，一群幸存者必须找出如何摆脱困境。虽然受感染者不是唯一的威胁。在社会崩溃之后，人们开始失去人性，因为这三个人坚持不懈。 由匿名撰写",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

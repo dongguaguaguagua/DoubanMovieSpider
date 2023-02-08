@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Sable",
+  "url": "/subject/30226435/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2522507653.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1237325/",
+      "name": "迈克尔·马特奥·罗西 Michael Matteo Rossi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1237325/",
+      "name": "迈克尔·马特奥·罗西 Michael Matteo Rossi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332143/",
+      "name": "妮可·亚历山德拉·希普利 Nicole Alexandra Shipley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330550/",
+      "name": "克里斯·彼得罗夫斯基 Chris Petrovski"
+    }
+  ]
+,
+  "datePublished": "2017-02-22",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H25M",
+  "description": "A young woman&#39;s dreams of moving to Wyoming are halted when her unstable boyfriend accidentally kill...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "罗拉秘史 Laura",
+  "url": "/subject/25972490/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042253/",
+      "name": "维拉·卡斯帕 Vera Caspary"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473862/",
+      "name": "詹姆斯·艾尔罗伊 James Ellroy"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ac\u7591"],
+  "duration": "",
+  "description": "Fox 2000公司最近打算重拍1944年的悬疑电影《罗拉秘史》（Laura），他们还与写过《洛城机密》（L.A. Confidential）、《黑色大丽花》（Black Dahlia）的著名黑色小说...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

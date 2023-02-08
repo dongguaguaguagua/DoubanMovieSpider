@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "万花筒 Kaleidoscope",
+  "url": "/subject/26992899/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2506788476.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371574/",
+      "name": "鲁伯特·琼斯 Rupert Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1136688/",
+      "name": "鲁伯特·彭利-琼斯 Rupert Penry-Jones"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371574/",
+      "name": "鲁伯特·琼斯 Rupert Jones"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1107884/",
+      "name": "托比·琼斯 Toby Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1142609/",
+      "name": "安妮·雷德 Anne Reid"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345018/",
+      "name": "西妮德·马修斯 Sinead Matthews"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335906/",
+      "name": "黛博拉·芬德莱 Deborah Findlay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110413/",
+      "name": "卡尔·约翰逊 Karl Johnson"
+    }
+  ]
+,
+  "datePublished": "2016-10-21",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H40M",
+  "description": "心理惊悚片《万花筒》讲述了一名中年男子与母亲关系崩坏的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

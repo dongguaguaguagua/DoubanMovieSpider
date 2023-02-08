@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Svart Cirkel",
+  "url": "/subject/27056449/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2616987306.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010158/",
+      "name": "阿德里安·加西亚·波哥里亚诺 Adrián García Bogliano"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010158/",
+      "name": "阿德里安·加西亚·波哥里亚诺 Adrián García Bogliano"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036747/",
+      "name": "克里斯蒂娜·林德伯格 Christina Lindberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442774/",
+      "name": "菲丽丝·扬克 Felice Jankell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134624/",
+      "name": "英格·尼尔松 Inger Nilsson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1065076/",
+      "name": "Iwa Boman Iwa Boman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1186742/",
+      "name": "Martin Rutegard Martin Rutegard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405812/",
+      "name": "Pablo Guisa Koestinger Pablo Guisa Koestinger"
+    }
+  ]
+,
+  "datePublished": "2018-10-04",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H41M",
+  "description": "The lives of two sisters change dramatically, since they were hypnotized by a mystical vinyl record ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

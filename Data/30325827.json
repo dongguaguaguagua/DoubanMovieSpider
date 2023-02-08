@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "电表人生 Batti Gul Meter Chalu",
+  "url": "/subject/30325827/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2534101545.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339168/",
+      "name": "什里·那拉扬·辛 Shree Narayan Singh"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1194839/",
+      "name": "沙希德·卡普尔 Shahid Kapur"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337680/",
+      "name": "施拉德哈·卡普尔 Shraddha Kapoor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369331/",
+      "name": "迪韦严杜·沙玛 Divyendu Sharma"
+    }
+  ]
+,
+  "datePublished": "2018-09-21",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT2H41M",
+  "description": "The life of three friends takes a tragic turn due to an inflated electricity bill, which leads to a ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

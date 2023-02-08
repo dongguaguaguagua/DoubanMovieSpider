@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "失足 Unfallen",
+  "url": "/subject/26944601/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2408676436.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1256328/",
+      "name": "乔什·霍金斯 Josh Hodgins"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1217960/",
+      "name": "利百加·科汉 Rebekah Kochan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031824/",
+      "name": "吴汉章 James Hong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027816/",
+      "name": "迈克尔·马德森 Michael Madsen"
+    }
+  ]
+,
+  "datePublished": "2017-06-01",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u6218\u4e89"],
+  "duration": "PT1H37M",
+  "description": "塔吉克斯坦内战期间，一对八岁的兄弟被迫分开，数年后他们再见面时，一人是塔利班战士，一人是美国大兵",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Thodi Thodi Si Manmaaniyan",
+  "url": "/subject/30411693/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543534414.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1104632/",
+      "name": "阿姆贾德·汗 Amjad Khan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1299316/",
+      "name": "穆克什·迪瓦里 Mukesh Tiwari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452316/",
+      "name": "施瑞努·帕利克 Shrenu Parikh"
+    }
+  ]
+,
+  "datePublished": "2017-05-26",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT2H15M",
+  "description": "Siddharth, a young boy is brought up by his single mother with dreams of settling abroad. Being a pa...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

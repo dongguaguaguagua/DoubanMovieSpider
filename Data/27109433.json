@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "强迫症联欢会 Toc Toc",
+  "url": "/subject/27109433/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495690437.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050220/",
+      "name": "萝西·德·帕尔马 Rossy de Palma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236774/",
+      "name": "阿德里安·拉斯特拉 Adrián Lastra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028211/",
+      "name": "帕科·莱昂 Paco León"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184994/",
+      "name": "亚历山德拉·希门内斯 Alexandra Jiménez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291164/",
+      "name": "奥斯卡·马丁内兹 Oscar Martínez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1480851/",
+      "name": " Cecilia Solaguren"
+    }
+  ]
+,
+  "datePublished": "2017-10-06",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H36M",
+  "description": "一群强迫症患者在候诊室里等待因航班延误而尚未赴约的医生，这迫使他们必须互相忍受彼此的怪癖。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "926",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

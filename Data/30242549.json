@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迷失地铁",
+  "url": "/subject/30242549/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2525581412.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395516/",
+      "name": "孟瑀 Yu Meng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355777/",
+      "name": "周贺 He Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346550/",
+      "name": "王真儿 Zhen&#39;er Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339093/",
+      "name": "王煜 Yu Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395035/",
+      "name": "朱孟黎 Mengli Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344492/",
+      "name": "杜子名 Ziming Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395036/",
+      "name": "居亚运 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436699/",
+      "name": "高照清雅 Zhaoqingya Gao"
+    }
+  ]
+,
+  "datePublished": "2018-06-29",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H22M",
+  "description": "天赋异禀的心理幻境师麦芯（王真儿 饰），擅长催眠治疗，洞察力惊人的她能读懂所有人心，却无法找回自己过去的记忆。而一位患者的失踪打破了她平静的生活，使其意外卷入了一场别开生面的心理游戏。与正在寻找妹妹的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "734",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.2"
+  }
+}

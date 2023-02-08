@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "记忆折叠",
+  "url": "/subject/27614899/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539089549.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386497/",
+      "name": "张博维 Bowei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380258/",
+      "name": "陈鹏翱 Peng&#39;Ao Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342806/",
+      "name": "刘安琪 Angie Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335553/",
+      "name": "唐川 Chuan Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386515/",
+      "name": "林孟姣 Mengjiao Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318260/",
+      "name": "颜卓灵 Cherry Ngan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317745/",
+      "name": "张赫 He Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376956/",
+      "name": "曲尼次仁 Choenyi Tsering"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362481/",
+      "name": "李诺诺 Nuonuo Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386498/",
+      "name": "黄巾龙 Jinlong Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353627/",
+      "name": "张墨锡 Moxi Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-11-16",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H25M",
+  "description": "周月(颜卓灵 饰)和男友李嵩(张赫 饰)来到海边的别墅度假,然而,女房东(曲尼次仁 饰)的行为极为怪异,入住的房间到处是奇异装饰,这一切让她陷入莫名的恐惧当中。很快,奇怪的事情接连发生,周月发现了别墅...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "396",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣蛋传奇之猪公的骰子",
+  "url": "/subject/27602209/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523254448.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402861/",
+      "name": "邓伯超 Bochao Deng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402861/",
+      "name": "邓伯超 Bochao Deng"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-09-26",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5947\u5e7b"],
+  "duration": "PT1H26M",
+  "description": "萝卜为了卖军火，挑起鸡蛋和苹果之间的战争。大家都是生意人，只是为了干点买卖，不想却打破了这个星系的平衡……猪，无辜的被拉下神坛……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

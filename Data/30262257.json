@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "完美皮肤 Perfect Skin",
+  "url": "/subject/30262257/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2526792554.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410634/",
+      "name": "凯文·崔肯 Kevin Chicken"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410634/",
+      "name": "凯文·崔肯 Kevin Chicken"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036682/",
+      "name": "理查德·布雷克 Richard Brake"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050231/",
+      "name": "乔·伍德考克 Jo Woodcock"
+    }
+  ]
+,
+  "datePublished": "2018-08-25",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H50M",
+  "description": "Katia Matuschak, 18, a Romanian ex-au pair is now adrift in London. She befriends Bob Reid, a seemin...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

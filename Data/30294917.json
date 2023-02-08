@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Santa Jaws",
+  "url": "/subject/30294917/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2530396879.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352771/",
+      "name": "吉姆·克洛克 Jim Klock"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "",
+  "description": "Trying to survive the family Christmas, Cody makes a wish to be alone, which ends up backfiring when...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

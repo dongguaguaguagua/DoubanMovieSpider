@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "季节 Temporada",
+  "url": "/subject/30279830/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553820605.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329118/",
+      "name": "安德烈·诺瓦伊斯·奥利维拉 André Novais Oliveira"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329118/",
+      "name": "安德烈·诺瓦伊斯·奥利维拉 André Novais Oliveira"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-08-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H53M",
+  "description": "In order to take a new job as an employee in the public sanitation department, Juliana moves from th...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

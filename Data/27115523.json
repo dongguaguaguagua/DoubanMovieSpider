@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Malady",
+  "url": "/subject/27115523/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2496530641.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383992/",
+      "name": "Brian Frank Visciglia Brian Frank Visciglia"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383992/",
+      "name": "Brian Frank Visciglia Brian Frank Visciglia"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134732/",
+      "name": "Paulo Nigro Paulo Nigro"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A group of friends decide to escape the daily hustle and bustle of LA, by going on a camping adventu...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

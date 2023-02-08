@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "贪婪 탐욕",
+  "url": "/subject/26761874/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2354048048.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321465/",
+      "name": "金正旭 Jeong-wook Kim"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321465/",
+      "name": "金正旭 Jeong-wook Kim"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361621/",
+      "name": "金民起 Kim Min-gi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340156/",
+      "name": "古川伊织 Iori Kogawa"
+    }
+  ]
+,
+  "datePublished": "2016-05-12",
+  "genre": ["\u7231\u60c5", "\u60c5\u8272"],
+  "duration": "PT1H25M",
+  "description": "寫作遇上瓶頸的小說家震明，在咖啡廳看見一個前來應徵工作的日本女孩。靈光乍現的他，決定為這個女孩創作三段不同的故事，隔壁桌的客人、收銀員、店長都成了他筆下的人物。這個女孩叫米卡，不論她是什麼角色，都無法...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "620",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

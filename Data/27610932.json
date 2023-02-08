@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜惊：死亡出租车 야경:죽음의 택시",
+  "url": "/subject/27610932/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508280510.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349163/",
+      "name": "吴仁川 In-chun Oh"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349163/",
+      "name": "吴仁川 In-chun Oh"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-12-20",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H11M",
+  "description": "The motive of NIGHTSCAPE is a TAXI SERIAL KILLER in South Korea from 2004 to 2010. The killer in kno...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

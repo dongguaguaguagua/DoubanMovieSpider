@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "决一胜负 One",
+  "url": "/subject/27625598/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2510111891.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424789/",
+      "name": "比尔沙·达斯古普多 Birsa Dasgupta"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1073187/",
+      "name": "普罗森吉特· 查特吉 Prasenjit Chatterjee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422134/",
+      "name": "努莎拉特·贾汗 Nusrat Jahan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422170/",
+      "name": "亚什·达斯古普多 Yash Dasgupta"
+    }
+  ]
+,
+  "datePublished": "2017-04-14",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT2H28M",
+  "description": "正直的警察罗诺·玻色以净化社会腐败为人生目标, 与腐败的获奖科学家阿迪亚·森, 展开了一场猫鼠的追逐和脑力游戏, 他们将如何发挥各自所长? 正义最终会战胜邪恶吗?",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

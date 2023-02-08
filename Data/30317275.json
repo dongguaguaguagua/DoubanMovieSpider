@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "忘忧酒馆3",
+  "url": "/subject/30317275/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533207378.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481169/",
+      "name": "褚盟 Meng Chu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275620/",
+      "name": "赵丽颖 Liying Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314535/",
+      "name": "林更新 Gengxin Lin"
+    }
+  ]
+,
+  "datePublished": "2018-09-19",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "",
+  "description": "看上去是个武林争霸的故事，实际上却是推理悬疑故事： 20年前，华山派发生一场惨案，老掌门独孤绝、儿媳妇周若曦被叛徒李宗佑杀害，李亦同归于尽。自此，华山派镇派武学“浮屠剑法”第三层“气决”第四层“化决”...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3049",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

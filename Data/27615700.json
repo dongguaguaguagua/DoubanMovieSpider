@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "WWE 冠军争霸 2017 WWE Clash of Champions 2017",
+  "url": "/subject/27615700/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2508826125.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049634/",
+      "name": "凯文·杜恩 Kevin Dunn"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195505/",
+      "name": "丹尼尔·布莱恩 Bryan Danielson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1208532/",
+      "name": "艾伦·琼斯 Allen Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000255/",
+      "name": "兰迪·奥顿 Randy Orton"
+    }
+  ]
+,
+  "datePublished": "2017-12-17",
+  "genre": ["\u52a8\u4f5c", "\u8fd0\u52a8"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

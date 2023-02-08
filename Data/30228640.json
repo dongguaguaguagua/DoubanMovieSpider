@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "花月影",
+  "url": "/subject/30228640/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522776707.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351966/",
+      "name": "黎涛 Tao Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393892/",
+      "name": "倪惠英 Huiying Ni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393893/",
+      "name": "黎俊声 Junsheng Li"
+    }
+  ]
+,
+  "datePublished": "2018-05-21",
+  "genre": ["\u7231\u60c5", "\u620f\u66f2"],
+  "duration": "PT2H1M",
+  "description": "红船戏班女子杜采薇与青年军官林园生一见倾心，相知相恋。两人先后得罪粤州总兵何镇南。何镇南为平息海盗匪患，命林园生送杜采薇往侍海盗。杜采薇自杀于送亲的路上，林园生回城复命，被削去官职。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

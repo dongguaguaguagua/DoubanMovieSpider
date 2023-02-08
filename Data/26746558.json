@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们疯狂的年代 Nos années folles",
+  "url": "/subject/26746558/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494732108.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032421/",
+      "name": "安德烈·泰希内 André Téchiné"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032421/",
+      "name": "安德烈·泰希内 André Téchiné"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359170/",
+      "name": "赛德里克·安热 Cédric Anger"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329007/",
+      "name": "皮埃尔·德隆尚 Pierre de Ladonchamps"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320325/",
+      "name": "席琳·赛莱 Céline Sallette"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274547/",
+      "name": "格雷戈瓦·勒普兰斯-林盖 Grégoire Leprince-Ringuet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1099386/",
+      "name": "克洛德·让萨克 Claude Gensac"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354317/",
+      "name": "米歇尔·富 Michel Fau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328876/",
+      "name": "阿黛尔·艾克萨勒霍布洛斯 Adèle Exarchopoulos"
+    }
+  ]
+,
+  "datePublished": "2017-05-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "影片以一战为背景讲述一位逃兵波诡云谲的生活。为了逃避军事法庭审判，他不惜乔装打扮成女性，让妻子陪他一同演戏。而当赦免令最终到来时，“她”已经成为巴黎的社交名媛，重新找回自己的道路铺满荆棘。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "341",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

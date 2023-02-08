@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "命运改变者 Lifechanger",
+  "url": "/subject/30237579/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2526507866.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450800/",
+      "name": "贾斯汀·麦康奈尔 Justin McConnell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450800/",
+      "name": "贾斯汀·麦康奈尔 Justin McConnell"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001286/",
+      "name": "杰克福利 Jack Foley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410597/",
+      "name": "瑞秋·凡杜泽 Rachel VanDuzer"
+    }
+  ]
+,
+  "datePublished": "2018-12-05",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H24M",
+  "description": "A murderous shapeshifter sets out on a blood-soaked mission to make things right with the woman he l...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "384",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

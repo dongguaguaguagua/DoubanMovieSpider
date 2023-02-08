@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红剪花",
+  "url": "/subject/27067932/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2493859594.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274725/",
+      "name": "王长虹 Changhong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329855/",
+      "name": "原雅轩 Yaxuan Yuan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341217/",
+      "name": "孟宪明 Xianming Meng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372548/",
+      "name": "钟熠璠 YiFan Zhong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365241/",
+      "name": "陈相丞 Xiangcheng Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412109/",
+      "name": "无 Dasiy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400046/",
+      "name": "庄则熙 Zexi Zhuang"
+    }
+  ]
+,
+  "datePublished": "2017-10-27",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5"],
+  "duration": "PT1H40M",
+  "description": "孤独的残疾女孩以剪纸为伴，后天不幸导致家庭更加贫困，改变了原本充满希望的生活。她成了村子里可有可无的人，即使在家也让她无所适从。小小的纸片纾解着女孩孤独与惆怅，但是女孩剪出却是一个个人心中的希望的故事...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

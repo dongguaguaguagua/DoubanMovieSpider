@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "未择之路 Untaken Paths",
+  "url": "/subject/30183721/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2518282061.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292027/",
+      "name": "泰米妮·米兰妮 Tahmineh Milani"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292027/",
+      "name": "泰米妮·米兰妮 Tahmineh Milani"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1059775/",
+      "name": "Afsar Asadi Afsar Asadi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1059719/",
+      "name": "Jamshid Hashempur Jamshid Hashempur"
+    }
+  ]
+,
+  "datePublished": "2017-09-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H46M",
+  "description": "年轻女孩玛丽遇到了一位男子希亚，并被他深深吸引，二人开启了一段秘密恋情。这段关系很快就被玛丽的家庭发现了。按照当地传统的文化习俗，玛丽和希亚继续恋情的唯一方法就是结婚。尽管遭到了玛丽家庭的反对，他们还...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

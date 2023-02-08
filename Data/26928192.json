@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "旗袍先生",
+  "url": "/subject/26928192/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2540044833.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322480/",
+      "name": "王择谚 Zeyan Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352325/",
+      "name": "柯伊善 YiShan  Ke"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339093/",
+      "name": "王煜 Yu Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274438/",
+      "name": "李立群 Lichun Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351148/",
+      "name": "成琪 Qi Cheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377075/",
+      "name": "郭超 Chao Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343601/",
+      "name": "杨大鹏 Dapeng Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353049/",
+      "name": "赵慧仙 Hyesun Cho"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021830/",
+      "name": "谢园 Yuan Xie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318313/",
+      "name": "韩月乔 Yueqiao Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318861/",
+      "name": "朱亚英 Yaying Zhu"
+    }
+  ]
+,
+  "datePublished": "2017-09-15",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H44M",
+  "description": "本片是根据超级演说家崔万志的真实故事改编的电影，他一出生就患上小儿麻痹症，腿脚不灵活、说话不流利，这成为他学习和生活最大的阻碍。在他以全县第三名的成绩考入重点高中时，却被校长以我们是重点中学不收残废人...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "姐姐 آبجی",
+  "url": "/subject/27013586/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2454297815.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391448/",
+      "name": "Marjan Ashrafizadeh Marjan Ashrafizadeh"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391448/",
+      "name": "Marjan Ashrafizadeh Marjan Ashrafizadeh"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1060187/",
+      "name": "戈拉布·阿迪娜 Golab Adineh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371629/",
+      "name": "希尔·亚齐丹巴克什 Shirin Yazdanbakhsh"
+    }
+  ]
+,
+  "datePublished": "2016-12-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "塔拉带着女儿阿蒂（姐姐）共同生活了近50年。阿蒂患有癫痫，无法独立，而塔拉年事渐高，疾病缠身，母女俩相守相依的日子再难平静。得知自己时日无多的塔拉，为妥善安排阿蒂的将来煞费苦心，一场大家庭的悲欢离合在...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "88",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

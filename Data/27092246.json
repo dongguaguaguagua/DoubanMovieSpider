@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们的父辈 Our Father",
+  "url": "/subject/27092246/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550705398.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270788/",
+      "name": " Calum Rhys"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1270788/",
+      "name": " Calum Rhys"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444412/",
+      "name": "亚伦·杰夫科特 Aaron Jeffcoate"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1444464/",
+      "name": "卢克·戈达德 Luke Goddard"
+    }
+  ]
+,
+  "datePublished": "2015-12-25",
+  "genre": ["\u77ed\u7247", "\u6218\u4e89"],
+  "duration": "PT0H15M",
+  "description": "从一名英国列兵的视角看待二战欧陆战场的十五分钟短片。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "9981",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "9.1"
+  }
+}

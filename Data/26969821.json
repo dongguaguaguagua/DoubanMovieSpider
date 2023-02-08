@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "笨鸟",
+  "url": "/subject/26969821/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2669456223.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324478/",
+      "name": "黄骥 Ji Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362608/",
+      "name": "大塚龙治 Ryuji Otsuka"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324478/",
+      "name": "黄骥 Ji Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362608/",
+      "name": "大塚龙治 Ryuji Otsuka"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380889/",
+      "name": "姚红贵 Honggui Yao"
+    }
+  ]
+,
+  "datePublished": "2017-02-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H58M",
+  "description": "秋末冬初的中国南方小镇，留守少女林森（16岁）正在准备高考，远赴广东打工多年的妈妈一心要她考警察大学。林森却在班里每天被同学霸凌，在家亦常被三个表弟捉弄，十分烦躁，邻近高中女生梅子是她惟一的疏解对象。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2254",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

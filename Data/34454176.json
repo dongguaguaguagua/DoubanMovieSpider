@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "以西结的奇案 O Estranho Caso de Ezequiel",
+  "url": "/subject/34454176/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561443465.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272910/",
+      "name": " Guto Parente"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272910/",
+      "name": " Guto Parente"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-06-11",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b", "\u5947\u5e7b"],
+  "duration": "PT1H1M",
+  "description": "After the sudden death of his wife, Ezequiel lives sad and resigned in solitude. Until the day that ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

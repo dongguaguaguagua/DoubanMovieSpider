@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "摆动 Pendular",
+  "url": "/subject/26964452/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2423771212.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368930/",
+      "name": "朱莉娅·穆拉特 Júlia Murat"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368930/",
+      "name": "朱莉娅·穆拉特 Júlia Murat"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368931/",
+      "name": "拉克尔·凯若奥 Raquel Karro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368932/",
+      "name": "罗德里戈·博尔赞 Rodrigo Bolzan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051924/",
+      "name": "马西奥·维托 Márcio Vito"
+    }
+  ]
+,
+  "datePublished": "2017-02-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H0M",
+  "description": "讲述一名雕刻家和一位舞者的爱情故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

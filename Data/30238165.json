@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "ماهورا",
+  "url": "/subject/30238165/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523769762.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101484/",
+      "name": "Mitra Hajjar Mitra Hajjar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277389/",
+      "name": "Dariush Arjmand Dariush Arjmand"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

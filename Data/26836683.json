@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绝美监狱 Beautiful Prison",
+  "url": "/subject/26836683/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2366761807.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1077230/",
+      "name": "Ernesto D&#39;Alessio Ernesto D&#39;Alessio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010898/",
+      "name": "马修·泰尔福德 Matthew Tailford"
+    }
+  ]
+,
+  "datePublished": "2016-07-12",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H23M",
+  "description": "Beautiful Prison is a heavily stylized, genre-blending narrative focused around a brain damaged man,...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

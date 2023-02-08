@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海上城市",
+  "url": "/subject/30276399/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528245189.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426775/",
+      "name": "林子 Zi Lin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426775/",
+      "name": "林子 Zi Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-08-09",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H21M",
+  "description": "金钱与亲情面前，正逢大年三十，黄翠英的妹妹黄翠娜上门来要债，闹得哥哥（林凡成）报警，全家去了警察局过春节。黄翠英又接到了小儿子（林凡超）班主任的告状电话。事事不顺，黄翠英还是带着家人回到家乡过年。春节...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

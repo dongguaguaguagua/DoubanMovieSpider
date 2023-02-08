@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "1985",
+  "url": "/subject/27032656/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2515843193.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305723/",
+      "name": "陈俊彦 Yen Tan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305723/",
+      "name": "陈俊彦 Yen Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016144/",
+      "name": "赫奇 Hutch"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340548/",
+      "name": "科里·迈克尔·史密斯 Cory Michael Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049512/",
+      "name": "维吉妮娅·马德森 Virginia Madsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049631/",
+      "name": "迈克尔·切克利斯 Michael Chiklis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409884/",
+      "name": "艾丹·朗福德 Aidan Langford"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000068/",
+      "name": "郑智麟 Jamie Chung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317832/",
+      "name": "比尔·赫克 Bill Heck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1178341/",
+      "name": "瑞恩·皮尔斯·威廉姆斯 Ryan Piers Williams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372366/",
+      "name": "蒂娜·帕克 Tina Parker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409885/",
+      "name": "亚历克斯·妮科尔·麦康诺 Alex Nicole McConnell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409886/",
+      "name": "戴维·奥佩贝米 David Opegbemi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402549/",
+      "name": "布赖恩·马西 Bryan Massey"
+    }
+  ]
+,
+  "datePublished": "2018-03-09",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H25M",
+  "description": "科里·迈克尔·史密斯、迈克尔·切克利斯(《哥谭镇》)以及维吉妮娅·马德森(《指定幸存者》)将加盟一部艾滋病题材的独立剧情片[1985]。影片由华裔导演陈俊彦([你好、再见 ]、[人来，人往])自编自导...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2819",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.1"
+  }
+}

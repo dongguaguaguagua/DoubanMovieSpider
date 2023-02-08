@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "忠贞 Fidaa",
+  "url": "/subject/27147478/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499620587.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402572/",
+      "name": "赛·帕拉维 Sai Pallavi"
+    }
+  ]
+,
+  "datePublished": "2017-07-20",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT2H22M",
+  "description": "Varun and Bhanu, both from different worlds, face challenges in their relationship.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

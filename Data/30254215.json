@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我要变身 Njan Marykutty",
+  "url": "/subject/30254215/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2528660842.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426793/",
+      "name": "阿朱·瓦尔吉斯 Aju Varghese"
+    }
+  ]
+,
+  "datePublished": "2018-06-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H6M",
+  "description": "A transsexual man&#39;s attempt to realize his true orientation in a society that stigmatizes gender tra...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

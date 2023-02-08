@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鸣枪警告 Warning Shot",
+  "url": "/subject/27000359/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2519560454.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013800/",
+      "name": "詹姆斯·厄尔·琼斯 James Earl Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010646/",
+      "name": "弗兰克·威利 Frank Whaley"
+    }
+  ]
+,
+  "datePublished": "2018-09-14",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "一位单身母亲和她的小女儿努力维持生计，直到他们从祖父那里继承了农舍。 当一个家族企业的竞争对手派武装人员用武力将水权带到农场的小溪时，情况开始失控。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "209",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

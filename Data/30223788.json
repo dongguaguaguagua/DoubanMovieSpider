@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Contromano",
+  "url": "/subject/30223788/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526198437.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028849/",
+      "name": "安东尼奥·阿尔巴内斯 Antonio Albanese"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028849/",
+      "name": "安东尼奥·阿尔巴内斯 Antonio Albanese"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028849/",
+      "name": "安东尼奥·阿尔巴内斯 Antonio Albanese"
+    }
+  ]
+,
+  "datePublished": "2018-03-29",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Mario Cavallaro is a Milanese who has just turned fifty. One day, Oba, a Senegalese sock vendor, app...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

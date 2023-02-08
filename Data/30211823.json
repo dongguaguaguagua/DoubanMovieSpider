@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Shab",
+  "url": "/subject/30211823/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2521065023.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364646/",
+      "name": "默尔·克罗格 Merle Kröger"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433174/",
+      "name": "阿尔碧塔·帕尔 Arpita Pal"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

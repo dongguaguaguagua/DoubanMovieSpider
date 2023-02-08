@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "非常四侠之天罗地网",
+  "url": "/subject/30361975/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2678347643.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433972/",
+      "name": "黄庆奇 Hing-Kei Wong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465034/",
+      "name": "边垒 Lei Bian"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350017/",
+      "name": "李易霖 Yilin Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450519/",
+      "name": "李旭东 Xudong Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408595/",
+      "name": "皓乔 Shuaiqi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465101/",
+      "name": "张雍 "
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H29M",
+  "description": "锦衣卫押运要犯和宝物在吉祥镇休整。结果遭到攻击，犯人被杀，宝物失踪。四侠遭人陷害，成为了劫宝嫌犯。锦衣卫精英组织“天罗地网”来到吉祥镇抓捕四侠，四侠联手对抗“天罗地网”，并查出真相，洗脱了罪名。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

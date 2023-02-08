@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2BR02B: To Be or Naught to Be",
+  "url": "/subject/30334835/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535166994.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1170382/",
+      "name": "Marco Checa Garcia Marco Checa Garcia"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393129/",
+      "name": "德里克·瑞安·杜克 Derek Ryan Duke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040874/",
+      "name": "库尔特·冯内古特 Kurt Vonnegut Jr."
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1235350/",
+      "name": "泰勒·约翰斯顿 Tyler Johnston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339863/",
+      "name": "梅丽莎·罗斯伯格 Melissa Roxburgh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014073/",
+      "name": "威廉·B·戴维斯 William B. Davis"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "",
+  "description": "Set in a dystopian future where population is strictly controlled, a father waits for his children t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

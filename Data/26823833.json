@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海边的恋人们 渚の恋人たち",
+  "url": "/subject/26823833/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494981118.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342527/",
+      "name": "大九明子 Akiko Ohku"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342527/",
+      "name": "大九明子 Akiko Ohku"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320978/",
+      "name": "松冈茉优 Mayu Matsuoka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315181/",
+      "name": "落合扶树 Motoki Ochiai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275840/",
+      "name": "荒井萌 Moe Arai"
+    }
+  ]
+,
+  "datePublished": "2016-01-31",
+  "genre": ["\u7231\u60c5", "\u97f3\u4e50"],
+  "duration": "PT0H55M",
+  "description": "本片是为了纪念2015年Tube乐队出道30周年所拍摄的。电影间的插曲都是Tube在去年春夏秋冬四个季节特别发行的4张单曲",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "155",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

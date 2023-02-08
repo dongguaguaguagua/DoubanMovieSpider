@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马赛物语 Marseille",
+  "url": "/subject/26710541/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2321492065.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000491/",
+      "name": "凯德·麦拉德 Kad Merad"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000491/",
+      "name": "凯德·麦拉德 Kad Merad"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327249/",
+      "name": "朱迪斯·厄尔·泽恩 Judith El Zein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1062080/",
+      "name": "Patrick Bosso Patrick Bosso"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000491/",
+      "name": "凯德·麦拉德 Kad Merad"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327249/",
+      "name": "朱迪斯·厄尔·泽恩 Judith El Zein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1158551/",
+      "name": "韦朗第洛·维朗迪尼 Venantino Venantini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018602/",
+      "name": "朱利安·波义塞利尔 Julien Boisselier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088133/",
+      "name": "路易多·德·朗克桑 Louis-Do de Lencquesaing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304135/",
+      "name": "菲利普·莱夫布瓦尔 Philippe Lefebvre"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1062080/",
+      "name": "Patrick Bosso Patrick Bosso"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363401/",
+      "name": "克里斯蒂安·妮科尼尔 Christiane Conil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406774/",
+      "name": "安娜·沙利耶 Anne Charrier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427510/",
+      "name": "史蒂夫·曼丹达 Steve Mandanda"
+    }
+  ]
+,
+  "datePublished": "2016-03-16",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H42M",
+  "description": "保罗已经25年没见哥哥约瑟夫了，为了照顾自己粗犷年老的父亲，保罗决定放弃在加拿大平静和谐的生活，带着儿子回到马赛，期望不会在父亲身边逗留太久。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "337",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

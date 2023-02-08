@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心语阳光",
+  "url": "/subject/26841635/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2385073102.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363158/",
+      "name": "卢浩天 Haotian Lu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363158/",
+      "name": "卢浩天 Haotian Lu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336347/",
+      "name": "李嘉明 Jiaming Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314630/",
+      "name": "李净洋 Jingyang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359016/",
+      "name": "标马 Ma Biao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363159/",
+      "name": "胡子俊 Zijun Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363160/",
+      "name": "延梅 Mei Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363161/",
+      "name": "大龙 Dalong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363162/",
+      "name": "王嘉丽 Jiali Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363163/",
+      "name": "袁小良 Xiaoliang Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352321/",
+      "name": "荣梓杉 Zishan Rong"
+    }
+  ]
+,
+  "datePublished": "2016-10-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "《心语阳光》以残疾人事迹为故事原型，从残疾人内心出发，讲述了残疾人自强不息、身残志坚的故事和令人钦佩，催人奋进的精神。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

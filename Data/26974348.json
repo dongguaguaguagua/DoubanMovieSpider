@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "谁动了我的大瓶",
+  "url": "/subject/26974348/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2447432163.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275880/",
+      "name": "蒋恺 Kai Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322073/",
+      "name": "何文辉 Wenhui He"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H55M",
+  "description": "一次考古发掘出稀世珍宝——五彩大瓶 一个电话惊扰了考古专员郑一鸣。不得已他必须暂时离开考古现场，却遭遇车祸险些丧命。稀世珍宝押送途中遭遇神秘调包，让一切美梦成为泡影。面对埋怨、指责、情敌的逼迫，丈母娘...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

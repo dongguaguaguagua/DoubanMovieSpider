@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "太爱火柴的小女孩 La petite fille qui aimait trop les allumettes",
+  "url": "/subject/27115511/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506346298.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380116/",
+      "name": "西蒙·拉瓦 Simon Lavoie"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380116/",
+      "name": "西蒙·拉瓦 Simon Lavoie"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1311994/",
+      "name": "Antoine L&#39;Écuyer Antoine L&#39;Écuyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402131/",
+      "name": "马丽恩·约翰逊 Marine Johnson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H51M",
+  "description": "The latest by Québecois auteur Simon Lavoie (Those Who Make Revolution Halfway Only Dig Their Own Gr...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

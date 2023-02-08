@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "神勇投弹手2",
+  "url": "/subject/27163292/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2581623224.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322303/",
+      "name": "高力强 Liqiang Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322142/",
+      "name": "肖莫庸 Moyong Xiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322305/",
+      "name": "海流 Liu Hai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322307/",
+      "name": "答有为 Youwei Da"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391205/",
+      "name": "卢琳 Celine Lu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H30M",
+  "description": "该片讲述了将一个傻子，置于残酷的抗日战场，通过战场的生死历练，成长为一个活生生的抗日英雄的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

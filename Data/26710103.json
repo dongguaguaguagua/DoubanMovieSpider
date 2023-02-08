@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "白色垃圾 Vitt skräp",
+  "url": "/subject/26710103/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2678886455.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1129052/",
+      "name": "奥拉·拉佩斯 Ola Rapace"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360630/",
+      "name": "埃达·英格薇 Ida Engvoll"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1155391/",
+      "name": "Peter Viitanen Peter Viitanen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1171490/",
+      "name": "Erik Bolin Erik Bolin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1107353/",
+      "name": "Donald Högberg Donald Högberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1169325/",
+      "name": "Peter Eriksson Peter Eriksson"
+    }
+  ]
+,
+  "datePublished": "2021-06-04",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H47M",
+  "description": "In a small Swedish town during the 1980s two strangers accidentally find themselves caught up in a d...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "盖 Guy",
+  "url": "/subject/27139347/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2521305954.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399985/",
+      "name": "亚历克斯·鲁茨 Alex Lutz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399985/",
+      "name": "亚历克斯·鲁茨 Alex Lutz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409645/",
+      "name": "Anaïs Deban Anaïs Deban"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409646/",
+      "name": "Thibault Ségouin Thibault Ségouin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399985/",
+      "name": "亚历克斯·鲁茨 Alex Lutz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406439/",
+      "name": "汤姆·丁勒 Tom Dingler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325459/",
+      "name": "帕斯卡·艾比约 Pascale Arbillot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028574/",
+      "name": "布里吉特·罗安 Brigitte Roüan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032881/",
+      "name": "尼科尔·卡尔方 Nicole Calfan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328951/",
+      "name": "斯代芬·沃杰托维茨 Stéphan Wojtowicz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394828/",
+      "name": "莎拉·苏克 Sarah Suco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360794/",
+      "name": "弗朗索瓦·纳伯 François Nambot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468621/",
+      "name": "妮可·费罗尼 Nicole Ferroni"
+    }
+  ]
+,
+  "datePublished": "2018-05-16",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u97f3\u4e50", "\u72af\u7f6a"],
+  "duration": "PT1H41M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你幸福我快乐",
+  "url": "/subject/26786767/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2346793067.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349547/",
+      "name": "郦虹 Hong Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364488/",
+      "name": "焉栩嘉 Xujia Yan"
+    }
+  ]
+,
+  "datePublished": "2018-06-15",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H23M",
+  "description": "这部聚焦深圳学生快乐成长的儿童影片，以新课改为背景，用歌舞形式讲述了家庭背景不同的两个孩子及一群五年级的孩子，在日常生活学习中遇到种种困难，并以积极向上的心态去面对，在快乐教学法的培养中不断提升学习兴...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

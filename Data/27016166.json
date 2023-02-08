@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Formentera Lady",
+  "url": "/subject/27016166/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523331918.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028583/",
+      "name": "何塞·萨克里斯坦 José Sacristán"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1144297/",
+      "name": "胡丽叶塔·塞拉诺 Julieta Serrano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318873/",
+      "name": "诺拉·纳瓦斯 Nora Navas"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "Samuel is an old hippie musician who settled in Formentera in the 1970s, when King Crimson and other...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狩猎季节 Temporada de Caza",
+  "url": "/subject/26868726/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497839709.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420280/",
+      "name": "娜塔莉娅·加拉吉欧拉 Natalia Garagiola"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1128689/",
+      "name": "日尔曼·帕拉西奥斯 Germán Palacios"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1129054/",
+      "name": "Rita Paul Rita Paul"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1480417/",
+      "name": "劳塔洛·贝托尼 Lautaro Bettoni"
+    }
+  ]
+,
+  "datePublished": "2017-09-02",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "德高望重的导猎员Ernesto本应跟新组织的家庭在巴塔哥尼亚过着美好的生活，可是在前妻离世后，他迫于无奈收留多年不见的儿子Nahuel。基于旧日往事，Ernesto面对脾气暴躁的儿子显得有点手足无措。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

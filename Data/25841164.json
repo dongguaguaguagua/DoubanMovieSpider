@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蓝色吉他 blue guitar",
+  "url": "/subject/25841164/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2173050416.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013969/",
+      "name": "伊莲·卡西迪 Elaine Cassidy"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "A perspective on Palestinian people dealing with Israeli occupation and how this affect human relati...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "西瓜队",
+  "url": "/subject/26781755/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2685765890.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359147/",
+      "name": "葛鹏翔 Pengxiang Ge"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457643/",
+      "name": "赵秀才 Jie Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359147/",
+      "name": "葛鹏翔 Pengxiang Ge"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329445/",
+      "name": "裘恩典 Grace Qiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457642/",
+      "name": "韩帅 Shuai Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457644/",
+      "name": "谢樑 Liang Xie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451043/",
+      "name": "郑佾奇 Yiqi Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457645/",
+      "name": "张稀研 Xiyan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430630/",
+      "name": "孙麒鹏 Qipeng Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377255/",
+      "name": "李冠星 Guanxing Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H40M",
+  "description": "《麦克乔丹》主要讲述了在90年代背景下，以乔丹、麦克为首的村民为保住承载了20多年记忆的娱乐仓库，而与服装厂老板对峙，进行篮球男女混合联赛PK的喜剧题材故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

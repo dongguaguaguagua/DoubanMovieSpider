@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灰烬 Ashes",
+  "url": "/subject/30349274/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2536815516.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361002/",
+      "name": "Damien Diaz Damien Diaz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393167/",
+      "name": "玛利亚·奥尔森 Maria Olsen"
+    }
+  ]
+,
+  "datePublished": "2018-10-06",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "After a family&#39;s &#34;black sheep&#34; aunt passes away, they&#39;re reluctant and creeped out to receive her cr...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "画皮师",
+  "url": "/subject/26940024/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522164845.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324376/",
+      "name": "田少波 Shaobo Tian"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355443/",
+      "name": "蔡俊涛 Juntao Cai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390306/",
+      "name": "邢雨静 Yujing Xing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391718/",
+      "name": "王蕾 Lei Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392447/",
+      "name": "尹玲 Crystal Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371115/",
+      "name": "芮伟航 Weihang Rui"
+    }
+  ]
+,
+  "datePublished": "2018-04-21",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H30M",
+  "description": "天地之间灵韵万生，沧海桑田的数千年中，孕育了无数玄妙而诡谲的族群。妖、魔为一己贪念蚕食弱小的人类，力求生存的人类中随之诞生了一些拥有特殊能力的人。其中更有可化腐朽为神奇之人，仅凭一支画笔，便可为人重塑...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "309",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.8"
+  }
+}

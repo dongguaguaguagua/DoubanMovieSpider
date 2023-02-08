@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "丧尸屠城2",
+  "url": "/subject/26838501/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2368920194.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364923/",
+      "name": "戴金垸 Jinhuan Dai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364923/",
+      "name": "戴金垸 Jinhuan Dai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362972/",
+      "name": "韩彦博 Yanbo Han"
+    }
+  ]
+,
+  "datePublished": "2016-07-21",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H12M",
+  "description": "导演戴金垸继《丧尸屠城》仅仅一年后又再度携手《丧尸屠城2》归来，电影由戴金垸与唐彬彬共同编剧，五百和陈娇娇担任总制片人、王文姐担任制片、贲放担任监制。此次的全新作品不仅将国内稀缺的末日灾难题材电影以全...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "263",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

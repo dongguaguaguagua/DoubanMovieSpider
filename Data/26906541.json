@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "边境杀手",
+  "url": "/subject/26906541/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353007/",
+      "name": "安然 Ran An"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332806/",
+      "name": "刘峰超 Fengchao Liu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "在中缅边陲，一个人迹罕至的小镇，一帮身怀绝技的流亡特工，为着各自的利益、爱情和信仰，展开了一场生死搏杀。他们中间，有中国的退伍特种兵，有被除名的韩国国家情报局特工，还有泰国皇家卫队的搏击高手",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

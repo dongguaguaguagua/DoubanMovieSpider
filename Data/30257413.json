@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Manos Returns",
+  "url": "/subject/30257413/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2602738631.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132259/",
+      "name": "Jackey Neyman Jackey Neyman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1161474/",
+      "name": "哈罗德·P·沃伦 Harold P. Warren"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132259/",
+      "name": "Jackey Neyman Jackey Neyman"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H10M",
+  "description": "MANOS Returns is the follow up film to the cult favorite Manos: The Hands of Fate, created by Jackey...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "千万别睡着 Don&#39;t Sleep",
+  "url": "/subject/27072841/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2471950613.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278599/",
+      "name": "里克·比伯 Rick Bieber"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278599/",
+      "name": "里克·比伯 Rick Bieber"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040521/",
+      "name": "加利·艾尔维斯 Cary Elwes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012513/",
+      "name": "德瑞·德·玛泰 Drea de Matteo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329292/",
+      "name": "多米尼克·谢尔伍德 Dominic Sherwood"
+    }
+  ]
+,
+  "datePublished": "2017-09-29",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H41M",
+  "description": "After moving into a cottage together, two young lovers confront the horrors of a forgotten childhood...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "215",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

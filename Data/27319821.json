@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "傲娇千金惹人醉",
+  "url": "/subject/27319821/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528305709.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398414/",
+      "name": "巴晨旭 Chenxu Ba"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398455/",
+      "name": "夏梦莹 Mengying Xia"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360845/",
+      "name": "冯芷墨 Zhimo Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374406/",
+      "name": "陈锦昀 Jinyun Chen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H27M",
+  "description": "陆昊羽（陈锦昀 饰）在一场拍卖会上结识了名为滕娇娇（冯芷墨 饰）的女孩，滕娇娇在阴差阳错之下卖了一瓶红酒给陆昊羽，结果陆昊羽发现这瓶红酒是假的。陆昊羽误以为滕娇娇骗了他，于是要她打工还债。刚开始，滕娇...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "烟草商 Der Trafikant",
+  "url": "/subject/27595052/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533372765.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042654/",
+      "name": "尼古拉斯·莱特纳 Nikolaus Leytner"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042654/",
+      "name": "尼古拉斯·莱特纳 Nikolaus Leytner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004809/",
+      "name": "克劳斯·里克特 Klaus Richter"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000247/",
+      "name": "布鲁诺·冈茨 Bruno Ganz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316850/",
+      "name": "约翰内斯·克里施 Johannes Krisch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041926/",
+      "name": "卡罗莉内·艾希霍恩 Karoline Eichhorn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420677/",
+      "name": "西蒙·莫尔泽 Simon Morzé"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420678/",
+      "name": "艾玛·卓冈诺娃 Emma Drogunova"
+    }
+  ]
+,
+  "datePublished": "2018-11-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H57M",
+  "description": "Based on the international bestseller by Robert Seethaler. A tender, heart-breaking story about one ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "137",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

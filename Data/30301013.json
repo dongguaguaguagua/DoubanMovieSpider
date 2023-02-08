@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Til vi falder",
+  "url": "/subject/30301013/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2576828469.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434083/",
+      "name": "奥斯卡·卡萨斯 Óscar Casas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440412/",
+      "name": "马里奥·德·拉·罗萨 Mario de la Rosa"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H48M",
+  "description": "How should you live if there are no answers to your questions? Those looking for answers rush into t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

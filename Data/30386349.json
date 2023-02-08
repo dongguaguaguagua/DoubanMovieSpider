@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "明日之星",
+  "url": "/subject/30386349/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2540823893.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321304/",
+      "name": "黄柏钧 Denny Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322563/",
+      "name": "袁艾菲 Phoebe Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275283/",
+      "name": "林辰唏 Zaizai Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317888/",
+      "name": "路斯明 Johnny Lu Sze-Ming"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327199/",
+      "name": "聂云 Dennis Nieh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319806/",
+      "name": "梁心颐 Lara Veronin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419501/",
+      "name": "黄敏烨 Michelle Huang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "PT1H17M",
+  "description": "When an up-and-coming singer meets the cruel reality of the entertainment industry, she must sing he...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

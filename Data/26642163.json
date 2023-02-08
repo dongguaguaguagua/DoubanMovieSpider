@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "父亲与伊藤先生 お父さんと伊藤さん",
+  "url": "/subject/26642163/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2365303540.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319228/",
+      "name": "棚田由纪 Yuki Tanada"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333027/",
+      "name": "黑泽久子 Hisako Kurosawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372220/",
+      "name": "中泽日菜子 Hinako Nakazawa"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018591/",
+      "name": "上野树里 Juri Ueno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042693/",
+      "name": "中川雅也 Lily Franky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050482/",
+      "name": "藤龙也 Tatsuya Fuji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322312/",
+      "name": "长谷川朝晴 Tomoharu Hasegawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325903/",
+      "name": "安藤圣 Sei Ando"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016983/",
+      "name": "渡边绘里 Eri Watanabe"
+    }
+  ]
+,
+  "datePublished": "2016-10-08",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H59M",
+  "description": "三十三岁的山中彩（上野树里 饰）一直过着形单影只的独居生活，一次偶然中，她结识了名为伊藤（中川雅也 饰）的男子，尽管伊藤比彩年长二十岁，没有一分正式的工作，整日里过着得过且过的随意生活，但他身上散发出...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "10379",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

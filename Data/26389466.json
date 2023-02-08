@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一句顶一万句",
+  "url": "/subject/26389466/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2389970856.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361863/",
+      "name": "刘雨霖 Yulin Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316117/",
+      "name": "刘震云 Zhenyun Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315488/",
+      "name": "毛孩 Hai Mao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313760/",
+      "name": "李倩 Qian Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304661/",
+      "name": "刘蓓 Bei Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051526/",
+      "name": "范伟 Wei Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362481/",
+      "name": "李诺诺 Nuonuo Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318634/",
+      "name": "齐溪 Xi Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274271/",
+      "name": "喻恩泰 Entai Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318082/",
+      "name": "孙茜 Qian Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420895/",
+      "name": "马兰 Lan Ma"
+    }
+  ]
+,
+  "datePublished": "2016-11-04",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H50M",
+  "description": "牛爱国（毛孩饰演）是县城里的鞋匠，他姐叫牛爱香（刘蓓饰演）。牛爱国要离婚，牛爱香想结婚。牛爱香年轻时谈恋爱受到伤害，直到快40岁才为了找一个能说话的人，和能说会道的厨师宋解放（范伟饰演）结婚，可是婚后...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "33911",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

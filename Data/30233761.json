@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "茶花女 La Traviata",
+  "url": "/subject/30233761/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523340813.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054399/",
+      "name": "索菲亚·科波拉 Sofia Coppola"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-03-19",
+  "genre": ["\u97f3\u4e50"],
+  "duration": "PT2H21M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

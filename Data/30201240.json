@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "FrankenThug",
+  "url": "/subject/30201240/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2519869451.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446328/",
+      "name": "丹·贝克 Dan Beck"
+    }
+  ]
+,
+  "datePublished": "2017-12-31",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H15M",
+  "description": "THOT&#39;s, Thugs and T.H.C. It&#39;s just another day in the hood; until, a new gang rolls into town and sh...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

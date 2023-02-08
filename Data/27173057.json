@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "深夜中的超跑 真夜中のスーパーカー",
+  "url": "/subject/27173057/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504350708.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364565/",
+      "name": "大桥守 Mamoru Ohashi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312880/",
+      "name": "会川升 Shô Aikawa"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325630/",
+      "name": "山本美月 Mizuki Yamamoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019420/",
+      "name": "唐泽寿明 Toshiaki Karasawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322606/",
+      "name": "上远野太洸 Taikou Katoono"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1077557/",
+      "name": "团时朗 Jiro Dan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118818/",
+      "name": "水木一郎 Ichirô Mizuki"
+    }
+  ]
+,
+  "datePublished": "2018-03-28",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b"],
+  "duration": "",
+  "description": "《深夜中的SUPERCAR》是一部关于汽车梦想的幻想剧，故事舞台设定在日本爱知县长久手市，女主白雪（山本美月 饰 ）是一位汽车设计师，她很憧憬日本国产车史上最高杰作“NAGOYA 2000GT”，期待...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "77",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

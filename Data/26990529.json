@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "悲惨世界 Les misérables",
+  "url": "/subject/26990529/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2507301757.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414906/",
+      "name": "拉吉·利 Ladj Ly"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396739/",
+      "name": "亚历克西斯·曼蒂 Alexis Manenti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414906/",
+      "name": "拉吉·利 Ladj Ly"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332596/",
+      "name": "达米安·勃纳尔 Damien Bonnard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429150/",
+      "name": "贾布里勒·宗加 Djibril Zonga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396739/",
+      "name": "亚历克西斯·曼蒂 Alexis Manenti"
+    }
+  ]
+,
+  "datePublished": "2017-02-03",
+  "genre": ["\u5267\u60c5", "\u77ed\u7247"],
+  "duration": "PT0H16M",
+  "description": "新警察潘多，与警车前座的两位搭档，注定将共度难忘的一天。老练的搭档们领着他巡视管区，一边执行勤务。不料无人空拍机却捕捉到三人擦枪走火的值勤，执法者顿时成了戾气十足的追杀者，誓要找到空拍机的下落……。高...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "545",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

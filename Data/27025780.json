@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Hollywood Warrioress The Movie",
+  "url": "/subject/27025780/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2456082476.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483046/",
+      "name": "Skye Delamey Skye Delamey"
+    }
+  ]
+,
+  "datePublished": "2016-05-17",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "Teens in LA are being kidnapped and turned into an army of zombies by a demonic madman. With the Hea...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

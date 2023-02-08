@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海上良宵",
+  "url": "/subject/27019861/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456275908.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383865/",
+      "name": "钟倍尔 Bell Zhong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383865/",
+      "name": "钟倍尔 Bell Zhong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383866/",
+      "name": "金飞 Fei Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383865/",
+      "name": "钟倍尔 Bell Zhong"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT0H9M",
+  "description": "Mesmerized by a pair of red heels, a lonely street guy in Shanghai follows its owner into a forbidde...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "326",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

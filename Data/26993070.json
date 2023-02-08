@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "混混拳王",
+  "url": "/subject/26993070/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2498194224.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392312/",
+      "name": "黄建业 Jianye Huang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393441/",
+      "name": "陈逸豪 Michael Chin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040352/",
+      "name": "淳于珊珊 Shanshan Chunyu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384526/",
+      "name": "马筱哲 Xiaozhe Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317003/",
+      "name": "王洪祥 Hongxiang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297537/",
+      "name": "沈威 Wai Shum"
+    }
+  ]
+,
+  "datePublished": "2017-09-08",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H30M",
+  "description": "影片主要讲述了搏击天才肖飞为筹集母亲医药费而打黑拳，从此走上了混混之路，后来在奥城拳王段平的鼓励下重新走上正轨，逐渐成为一名拳王的励志故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

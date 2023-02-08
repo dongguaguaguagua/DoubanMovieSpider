@@ -1,0 +1,95 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "达芙妮 Daphne",
+  "url": "/subject/26727941/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2503859261.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011325/",
+      "name": "彼特·麦基·本斯 Peter Mackie Burns"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316324/",
+      "name": "艾米丽·比查姆 Emily Beecham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010653/",
+      "name": "杰拉丁妮·詹姆斯 Geraldine James"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332428/",
+      "name": "汤姆-沃恩-劳勒 Tom Vaughan-Lawlor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338864/",
+      "name": "奥赛·伊克希尔 Osy Ikhile"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345018/",
+      "name": "西妮德·马修斯 Sinead Matthews"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319598/",
+      "name": "卡瑞娜·费尔南德斯 Karina Fernandez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1120529/",
+      "name": "斯图尔特·麦克奎里 Stuart McQuarrie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189295/",
+      "name": "露丝·布莱德利 Ruth Bradley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372631/",
+      "name": "蒂莫西·英纳斯 Timothy Innes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396614/",
+      "name": "里图·阿亚 Ritu Arya"
+    }
+  ]
+,
+  "datePublished": "2017-09-29",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H27M",
+  "description": "Golden Bear winner Peter Mackie Burns has started shooting his London-set debut feature Daphne, prod...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大猩小怪",
+  "url": "/subject/30175223/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516851957.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275160/",
+      "name": "吴炫辉 Yuen Fai Ng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274275/",
+      "name": "罗志良 Chi-Leung Law"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027577/",
+      "name": "古天乐 Louis Koo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "阿正，生活在一個成人離開、只剩下老人照顧小孩、與世隔絕的村裡。阿正一直記恨父親拋下自己，調皮搗蛋的闖入森林，被小雪怪救回，泉水在阿正身上產生奇效。阿正試圖隱瞞雪怪身份一起在村裡生活。工作、生活、愛情這...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

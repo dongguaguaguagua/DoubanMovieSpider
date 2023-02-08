@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美国驱魔 American Exorcism",
+  "url": "/subject/27037712/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2458117986.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385819/",
+      "name": "哈娜可·福特曼 Hanako Footman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456225/",
+      "name": "Sicily Fontaine Sicily Fontaine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456227/",
+      "name": "Kate Tumanova Kate Tumanova"
+    }
+  ]
+,
+  "datePublished": "2017-05-02",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Damon Richter thought he left the world of possessions, exorcisms, and evil behind until an old frie...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

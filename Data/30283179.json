@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "撞死了一只羊",
+  "url": "/subject/30283179/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2550800623.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316181/",
+      "name": "万玛才旦 Pema Tseden"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316181/",
+      "name": "万玛才旦 Pema Tseden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415681/",
+      "name": "次仁罗布 Tsering Norbu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362878/",
+      "name": "金巴 Jinpa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363820/",
+      "name": "更登彭措 Genden Phuntsok"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400147/",
+      "name": "索朗旺姆 Sonam Wangmo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431565/",
+      "name": "加华草 Japal Tso"
+    }
+  ]
+,
+  "datePublished": "2018-09-04",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H27M",
+  "description": "司机金巴在路上撞死了一只羊，决意超度此羊；杀手金巴即将找到杀父仇人，准备报仇雪恨。阴差阳错，杀手金巴搭上了司机金巴的卡车。于是，两个叫金巴的男人的命运便神秘地联系在了一起，一段惊心动魄的旅程开始……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "55147",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

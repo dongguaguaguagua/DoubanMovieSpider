@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蝶影之灾",
+  "url": "/subject/27300804/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2505814834.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383960/",
+      "name": "易屹 Nicolas Yi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384027/",
+      "name": "邓凯蓝 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380143/",
+      "name": "黄菀乔 Wanqiao Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274267/",
+      "name": "梁小龙 Siu-Lung Leung"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b"],
+  "duration": "PT1H20M",
+  "description": "电影《蝶影之灾》讲述现代的城市里生物保护局发现了几百年前的蝴蝶精复活，于是局长派出生物安全局的史祥飞与其它队员前往蝴蝶谷一探究竟，蝴蝶谷里住着成千上万的蝴蝶人，他们与人类并没有直接冲突，但是随着蝴蝶谷...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

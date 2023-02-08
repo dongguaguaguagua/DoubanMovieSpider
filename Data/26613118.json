@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "野性侵袭 Feral",
+  "url": "/subject/26613118/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2520579165.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334823/",
+      "name": "马克·杨 Mark Young"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334823/",
+      "name": "马克·杨 Mark Young"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1071517/",
+      "name": "丝柯·泰勒-考普顿 Scout Taylor-Compton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351869/",
+      "name": "奥莉维亚·卢卡尔迪 Olivia Luccardi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149667/",
+      "name": "卢·坦普尔 Lew Temple"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1192411/",
+      "name": "布洛克·凯利 Brock Kelly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1057037/",
+      "name": "兰德里·阿尔伯特 Landry Allbright"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337938/",
+      "name": "乔治·芬 George Finn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017937/",
+      "name": "芮妮·奥斯黛德 Renee Olstead"
+    }
+  ]
+,
+  "datePublished": "2017-09-23",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "一只野生动物在树林里周末徒步旅行时袭击了六名医科学生。他们一个个地感染了一种“野性疾病”，把它们变成狂暴嗜血的生物，当他们为了生存而斗争时，假期变成噩梦。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "442",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

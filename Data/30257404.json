@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Prepper&#39;s Grove",
+  "url": "/subject/30257404/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014843/",
+      "name": "莉萨·艾诺斯 Lisa Enos"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036371/",
+      "name": "汤姆·塞兹摩尔 Tom Sizemore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163219/",
+      "name": "约翰尼·惠特克 Johnny Whitaker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016694/",
+      "name": "玛格丽特·奥布赖恩 Margaret O&#39;Brien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014843/",
+      "name": "莉萨·艾诺斯 Lisa Enos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110926/",
+      "name": "兰迪·琼斯 Randy Jones"
+    }
+  ]
+,
+  "datePublished": "2018-10-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

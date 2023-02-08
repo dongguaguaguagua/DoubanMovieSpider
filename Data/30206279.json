@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Arrivano i prof",
+  "url": "/subject/30206279/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2520444791.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278695/",
+      "name": "克劳迪奥·比西奥 Claudio Bisio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349458/",
+      "name": "利诺·关恰莱 Lino Guanciale"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045748/",
+      "name": "毛里齐奥·尼凯蒂 Maurizio Nichetti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1248437/",
+      "name": " Alessio Sakara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372343/",
+      "name": "Giusy Buscemi Giusy Buscemi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1255003/",
+      "name": "克里斯蒂安·吉内普 Christian Ginepro"
+    }
+  ]
+,
+  "datePublished": "2018-05-01",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

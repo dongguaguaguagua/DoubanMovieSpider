@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "当世界毁灭时 When Worlds Collide",
+  "url": "/subject/2131673/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032090/",
+      "name": "斯蒂芬·索莫斯 Stephen Sommers"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024098/",
+      "name": "埃德温·巴尔默 Edwin Balmer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032090/",
+      "name": "斯蒂芬·索莫斯 Stephen Sommers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046274/",
+      "name": "菲利普·威利 Philip Wylie"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "",
+  "description": "A rogue planet is discovered on a collision course for Earth, and mass hysteria of biblical proporti...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

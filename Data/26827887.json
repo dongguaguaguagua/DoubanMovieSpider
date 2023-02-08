@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "结婚三部曲",
+  "url": "/subject/26827887/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2363649594.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339115/",
+      "name": "阿岗·雅尔基 Agang Yargyi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333853/",
+      "name": "陈小雨 Xiaoyu Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353612/",
+      "name": "王育臣 Yuchen Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339115/",
+      "name": "阿岗·雅尔基 Agang Yargyi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333853/",
+      "name": "陈小雨 Xiaoyu Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353612/",
+      "name": "王育臣 Yuchen Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340875/",
+      "name": "旺卓措 Zhuo Cuo Wang"
+    }
+  ]
+,
+  "datePublished": "2016-07-09",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H33M",
+  "description": "《结婚三部曲》由三个故事组成：
+《她的名字叫索拉》索拉从小就被人们说成是魔鬼的化身。东周是索拉唯一的玩伴，也是后来相爱如命的情人。东周为了给索拉买一条珊瑚项链，偷偷把村里很多牦牛的尾巴割了去卖，因此引...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "55步 55 Steps",
+  "url": "/subject/26371229/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516404967.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041311/",
+      "name": "比利·奥古斯特 Bille August"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403360/",
+      "name": "马克·布鲁斯·罗森 Mark Bruce Rosin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016680/",
+      "name": "海伦娜·伯翰·卡特 Helena Bonham Carter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054411/",
+      "name": "希拉里·斯万克 Hilary Swank"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010578/",
+      "name": "杰弗里·塔伯 Jeffrey Tambor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286385/",
+      "name": "约翰·海尔登贝格 Johan Heldenbergh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050406/",
+      "name": "蒂姆· 普莱斯特 Tim Plester"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338040/",
+      "name": "迈克尔·卡尔金 Michael Culkin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1106325/",
+      "name": "乔纳森·克里根 Jonathan Kerrigan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313126/",
+      "name": "理查德·莱恩 Richard Laing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018054/",
+      "name": "理查德·瑞德尔 Richard Riddell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420501/",
+      "name": "娜塔莉亚·罗曼诺娃 Natalia Romanova"
+    }
+  ]
+,
+  "datePublished": "2017-09-07",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT1H55M",
+  "description": "海伦娜·伯翰·卡特饰演了一位对医疗机构制度不满的精神病人，她持续反抗，希望病人们的待遇得到改善。希拉里·斯万克饰演的律师偶然之下代理了这个案子，她没有想到的是，这个病人的坚韧和勇敢最终感染了自己，令这...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1839",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.1"
+  }
+}

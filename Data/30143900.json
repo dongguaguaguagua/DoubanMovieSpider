@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "怒海仁心 Styx",
+  "url": "/subject/30143900/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546242749.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400717/",
+      "name": "沃尔夫冈·费希尔 Wolfgang Fischer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400717/",
+      "name": "沃尔夫冈·费希尔 Wolfgang Fischer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318930/",
+      "name": "苏珊·沃尔夫 Susanne Wolff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012598/",
+      "name": "亚历山大·拜尔 Alexander Beyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1228640/",
+      "name": "伊嘉·比肯费尔德 Inga Birkenfeld"
+    }
+  ]
+,
+  "datePublished": "2018-02-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "三十多岁的里克来自欧洲，是一名医生。急需一个假期的她，踏上了前往直布罗陀的旅途。但是她的梦幻假期很快就破灭了。风暴过后，她发现附近有一艘遭受重创的难民船。这艘超载的船已经开始漏水，如果她不伸出援手的话...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "635",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

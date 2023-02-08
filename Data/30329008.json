@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "贺小兵的十六岁",
+  "url": "/subject/30329008/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537856977.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323977/",
+      "name": "金舸 Ge Jin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391661/",
+      "name": "易正福 Zhengfu Yi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355801/",
+      "name": "茅菁 Jing Mao"
+    }
+  ]
+,
+  "datePublished": "2018-09-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H24M",
+  "description": "本片以16岁炊事兵贺小兵的视角，展示了抗战初期发生在井陉乏驴岭的一场战役。1937年10月9日起与日军展开了9天9夜的殊死搏斗。贺小兵在经历了鲜血洗礼后，与日军进行了最后的搏杀。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "萤火虫 Luciérnagas",
+  "url": "/subject/30441352/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570598098.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333118/",
+      "name": "班尼·科什努迪 Bani Khoshnoudi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333118/",
+      "name": "班尼·科什努迪 Bani Khoshnoudi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352068/",
+      "name": "路易斯·阿伯提 Luis Alberti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291820/",
+      "name": "埃利希奥·梅兰德斯 Eligio Meléndez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443155/",
+      "name": "阿拉什·马兰迪 Arash Marandi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H28M",
+  "description": "拉敏为逃脱祖国对同性恋者的迫害，躲在一艘土耳其货船上离开伊朗。但他并未想到，自己竟会远离自己熟悉的一切，意外来到墨西哥韦拉克鲁斯市，在这座热带港城过起流亡生活。他尝试适应更自由的新生活，结识新的人；他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "631",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

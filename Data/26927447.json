@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀儿凶手 Im Namen meines Sohnes",
+  "url": "/subject/26927447/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508237257.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290443/",
+      "name": "Damir Lukacevic Damir Lukacevic"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290443/",
+      "name": "Damir Lukacevic Damir Lukacevic"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010755/",
+      "name": "托比亚斯·莫雷蒂 Tobias Moretti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284255/",
+      "name": "英卡·芙德瑞 Inka Friedrich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009648/",
+      "name": "马克西姆·梅米特 Maxim Mehmet"
+    }
+  ]
+,
+  "datePublished": "2016-05-02",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "20年來，一名連續殺人犯每隔三年就殺害一名男孩。警方辦案不力，其中一名受害者的父親決心親自找出帶面具的兇手，即使犧牲自己婚姻和另一個兒子的愛也在所不惜。根據真實故事改編。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "319",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

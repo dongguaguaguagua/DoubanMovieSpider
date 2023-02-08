@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Rude Buay ... The Untouchable",
+  "url": "/subject/25890112/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2442064117.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009396/",
+      "name": "F·加里·格雷 F. Gary Gray"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040469/",
+      "name": "John Andrews John Andrews"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049844/",
+      "name": "马利克·约巴 Malik Yoba"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004996/",
+      "name": "赛丽塔·伊班克斯 Selita Ebanks"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "Author John A. Andrews, son of the Caribbean soil, polices the drug trade by penetrating inside the ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

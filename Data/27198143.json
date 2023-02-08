@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "嫐",
+  "url": "/subject/27198143/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2508065974.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332285/",
+      "name": "余为彦 Wei-yen Yu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332285/",
+      "name": "余为彦 Wei-yen Yu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427126/",
+      "name": "张育邦 Yu Pang Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384385/",
+      "name": "隋玲 Ling Sui"
+    }
+  ]
+,
+  "datePublished": "2017-05-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "「嫐」，戲弄、擾亂的意思。富家妙齡女子姈在一次的機會下認識地產商馬氏夫婦，在好奇心的驅使下介入他們的婚姻；並對兩夫婦展開獵誘行動。兩夫妻在毫無招架能力下分別對她產生了不同的情愫；然而對姈而言這只是個遊...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "254",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

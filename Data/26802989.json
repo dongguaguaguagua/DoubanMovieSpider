@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "直男正传",
+  "url": "/subject/26802989/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2355826131.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323917/",
+      "name": "张元龙 Yuanlong Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321635/",
+      "name": "乔若熙 Ruoxi Qiao"
+    }
+  ]
+,
+  "datePublished": "2016-05-25",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H3M",
+  "description": "陈大明是一个现代都市中的“普通青年”。他颜值普通，收入普通，没啥梦想，没啥追求。由于长期缺乏女人缘，使他对自己的性向产生了怀疑。女人不喜欢自己，自己也不知道喜欢什么样的女人，难不成，找个男人才是最终归...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "115",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "高光 هایلایت",
+  "url": "/subject/30238128/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523763779.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189757/",
+      "name": "Sam Gharibian Sam Gharibian"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "A man and a woman are have a car accident in the north of Iran. They go into a coma but their spouse...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天使图书馆 天使のいる図書館",
+  "url": "/subject/26834666/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2414798809.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381972/",
+      "name": "上田笃司 Atsushi Ueda"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012073/",
+      "name": "狗饲恭子 Kyoko Inukai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321677/",
+      "name": "小芝风花 Fuka Koshiba"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328737/",
+      "name": "横滨流星 Ryûsei Yokohama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317454/",
+      "name": "森永悠希 Yuki Morinaga"
+    }
+  ]
+,
+  "datePublished": "2017-02-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H48M",
+  "description": "故事设定在奈良葛城地区的一家图书馆中，描写新人职员的成长物语。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "455",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

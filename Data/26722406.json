@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "释放 Uncaged",
+  "url": "/subject/26722406/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2528353743.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478356/",
+      "name": "马克·拉帕波特 Mark Rapaport"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399964/",
+      "name": "吉因·琼斯 Gene Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1234962/",
+      "name": " Kyle Kirkpatrick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371471/",
+      "name": "约瑟夫·波多尔斯基 Yosef Podolski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409084/",
+      "name": "扎克·维纳 Zack Weiner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1478356/",
+      "name": "马克·拉帕波特 Mark Rapaport"
+    }
+  ]
+,
+  "datePublished": "2016-02-02",
+  "genre": ["\u559c\u5267", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H35M",
+  "description": "A sleepwalking teen straps a camera to himself and discovers a sinister family secret.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

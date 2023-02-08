@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "家蛇",
+  "url": "/subject/26946506/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2409429283.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353612/",
+      "name": "王育臣 Yuchen Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353612/",
+      "name": "王育臣 Yuchen Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337256/",
+      "name": "张植绿 Zhilü Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-09-14",
+  "genre": ["\u7231\u60c5", "\u5bb6\u5ead", "\u5947\u5e7b"],
+  "duration": "PT0H45M",
+  "description": "三线电视剧演员张植绿要改行做房屋推销,他在准备面试的档口找到一个保姆去打扫他无人居住的老宅。
+一个保姆在接到清扫一个空房的任务,在一次公交停运后留宿空房,随后她在蛛丝马迹中幻想出了一屋子家人和秘密,也...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

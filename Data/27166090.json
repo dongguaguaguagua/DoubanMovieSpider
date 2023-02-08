@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "邪恶礼物 The Wicked Gift",
+  "url": "/subject/27166090/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501481704.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434915/",
+      "name": "卡特莉娜·科尔钦斯卡 Kateryna Korchynska"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331849/",
+      "name": "迈克尔·西格尔 Michael Segal"
+    }
+  ]
+,
+  "datePublished": "2017-12-06",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H52M",
+  "description": "Ethan is a young, shy and rather reserved designer who has suffered from insomnia for many years due...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

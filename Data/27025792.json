@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异常 Anomaly",
+  "url": "/subject/27025792/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2478387203.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1261825/",
+      "name": " Lara Jean Mummert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293358/",
+      "name": "Pablo Núñez Pablo Núñez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407655/",
+      "name": "查尔斯·丘达巴拉 Charles Chudabala"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u79d1\u5e7b", "\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H12M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

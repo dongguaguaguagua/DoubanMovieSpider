@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "沙海番外之画媒",
+  "url": "/subject/30328937/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2885324681.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380488/",
+      "name": "卫立洲 Lizhou Wei"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411262/",
+      "name": "刘畅 Mufasa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373982/",
+      "name": "傅奕晨 Yichen Fu"
+    }
+  ]
+,
+  "datePublished": "2018-09-18",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H11M",
+  "description": "吴山居招聘伙计，刘丧受吴山居的老板吴邪之托前来应聘并照看吴山居。初来乍到的刘丧与临时老板霍道夫和伙计豹萨结了怨，两人设计整刘丧报仇，却阴差阳错的让刘丧揭开了一个吴山居多年以前留下的未解之谜，解开了一个...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "619",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

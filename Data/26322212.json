@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "证人 The Witness",
+  "url": "/subject/26322212/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2555553831.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001905/",
+      "name": "Mitko Panov Mitko Panov"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001905/",
+      "name": "Mitko Panov Mitko Panov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019744/",
+      "name": "瓦迪斯瓦夫·帕西科夫斯基 Wladyslaw Pasikowski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295669/",
+      "name": "大卫·赖克 David Riker"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000247/",
+      "name": "布鲁诺·冈茨 Bruno Ganz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041300/",
+      "name": "帕德莱克·德兰尼 Padraic Delaney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054666/",
+      "name": "Refet Abazi Refet Abazi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1093757/",
+      "name": "埃米尔·哈齐哈夫茨比哥维奇 Emir Hadzihafizbegovic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004984/",
+      "name": "玛尔特·克勒尔 Marthe Keller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340558/",
+      "name": "尼克·李 Nick Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320241/",
+      "name": "维利贝·托皮奇 Velibor Topic"
+    }
+  ]
+,
+  "datePublished": "2018-11-04",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H53M",
+  "description": "An action drama about an enthusiastic junior officer from the Hague War Tribunal in pursuit of justi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

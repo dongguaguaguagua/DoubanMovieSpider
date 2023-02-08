@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "骗徒奇遇记 Yucatán",
+  "url": "/subject/30320515/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2533484803.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292388/",
+      "name": "丹尼尔·蒙宗 Daniel Monzón"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285615/",
+      "name": "豪尔赫·格力加耶切瓦利亚 Jorge Guerricaechevarría"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292388/",
+      "name": "丹尼尔·蒙宗 Daniel Monzón"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027448/",
+      "name": "路易斯·托萨尔 Luis Tosar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000585/",
+      "name": "罗德里戈·德拉·塞尔纳 Rodrigo De la Serna"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076827/",
+      "name": "斯蒂芬妮·卡约 Stephanie Cayo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1131501/",
+      "name": "琼·佩拉 Joan Pera"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1133087/",
+      "name": "格洛里亚·穆诺兹 Gloria Muñoz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412944/",
+      "name": "艾丽西亚·费尔南德斯 Alicia Fernández"
+    }
+  ]
+,
+  "datePublished": "2018-08-31",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H9M",
+  "description": "西班牙黑色喜剧。两个白领小偷相互之间激烈竞争, 都试图偷走一位老面包师中乐透所赢得的数百万元奖金。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "492",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

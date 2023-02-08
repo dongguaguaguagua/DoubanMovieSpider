@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "展昭夜遇女司机",
+  "url": "/subject/26985984/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2436948939.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008125/",
+      "name": "梁家仁 Ka-Yan Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002051/",
+      "name": "黄志玮 Jerry Huang"
+    }
+  ]
+,
+  "datePublished": "2017-03-02",
+  "genre": ["\u559c\u5267", "\u60ac\u7591", "\u5947\u5e7b"],
+  "duration": "PT1H8M",
+  "description": "影片讲述了展昭奉包拯之命侦查一起和田玉失窃案，遭遇乾坤突变来到一千多年后的今天，并邂逅了包拯后人、专车女司机董小一。俩人一同牵涉进一起由柴荣后人柴德谋划的连环杀人案中，一度困惑、无助，到暗生情愫，展昭...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

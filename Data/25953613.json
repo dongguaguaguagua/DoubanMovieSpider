@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐怖笔记",
+  "url": "/subject/25953613/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2393751703.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359365/",
+      "name": "闵晋涛 Jintao MIn"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359364/",
+      "name": "李淡淡 Dandan Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324188/",
+      "name": "赵泳鑫 Yongxin Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321055/",
+      "name": "檀健次 Jianci Tan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337324/",
+      "name": "冯家妹 Jiamei Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338247/",
+      "name": "潘春春 Chunchun Pan"
+    }
+  ]
+,
+  "datePublished": "2016-11-04",
+  "genre": ["\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "电影讲述了报社记者、业余网络悬疑故事作家追查十年前发生在“谜镇”的几件知名鬼事的真相，根据匿名电话来到了所有传闻最早开始的地方，而十年过去后，这个地方因为闹鬼已经成了无人居住的鬼楼。随着真相慢慢揭开，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "602",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.5"
+  }
+}

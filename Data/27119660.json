@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的余生 Die reste meines Lebens",
+  "url": "/subject/27119660/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497177430.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1094318/",
+      "name": "Christian Grashof Christian Grashof"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H48M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

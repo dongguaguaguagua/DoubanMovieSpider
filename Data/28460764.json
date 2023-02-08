@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "修复表面 La surface de réparation",
+  "url": "/subject/28460764/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2511124383.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350461/",
+      "name": "弗兰克·盖思堂彼得 Franck Gastambide"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028158/",
+      "name": "伊波利特·吉拉尔多 Hippolyte Girardot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339549/",
+      "name": "爱丽丝·伊萨 Alice Isaaz"
+    }
+  ]
+,
+  "datePublished": "2018-01-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "Franck vit depuis 10 ans en marge d’un club de foot de province. Sans statut ni salaire, il connait ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

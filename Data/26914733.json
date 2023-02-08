@@ -1,0 +1,61 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灯时",
+  "url": "/subject/26914733/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2455945459.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357070/",
+      "name": "吴雅文 Even Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357070/",
+      "name": "吴雅文 Even Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352796/",
+      "name": "顾靖 Jing Gu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352796/",
+      "name": "顾靖 Jing Gu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H5M",
+  "description": "灯 暗处的明光是广袤黑暗里的希望 。
+“灯时”声同\&#34;登时”有急促的意思
+少年时渴望长大
+青年时憎恶衰老
+衰败后又希望重新来过
+人人都是如此
+一旦有机会进入灯时
+和过去的自己碰面
+有机会穿墙过去
+代价...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

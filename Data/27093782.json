@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "诡域新娘",
+  "url": "/subject/27093782/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2497928025.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337595/",
+      "name": "李斌 Bin Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336641/",
+      "name": "陈圆 Yuan Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380141/",
+      "name": "奇凌 Ling Qi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380142/",
+      "name": "郑文杰 Wenjie Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380143/",
+      "name": "黄菀乔 Wanqiao Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377734/",
+      "name": "黄莞乔 Vivian Huang"
+    }
+  ]
+,
+  "datePublished": "2017-09-08",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H27M",
+  "description": "此片以在民间广为流传的民国“鬼新娘”故事为背景，讲述了都市青年林青衣和梁晓光感人至深的爱情故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

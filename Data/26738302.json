@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "听见爱",
+  "url": "/subject/26738302/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2322884681.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391587/",
+      "name": "关夕晓 Xixiao Guan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1457639/",
+      "name": "金凝 Ning Jin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402698/",
+      "name": "孙涛 Tao Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358861/",
+      "name": "马丁 Ding Ma"
+    }
+  ]
+,
+  "datePublished": "2016-02-25",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H32M",
+  "description": "主人翁是一个超高颜值且史上最任性的客栈老板（孙涛饰），他的客栈只需住店客人告诉他一个爱的故事，就能换房间免单。于是他看到了来住店的人们背后藏着的故事——有隐瞒孩子妈妈去世的单亲爸爸，有怀孕不自知潜水看...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -136,7 +136,6 @@ def get_qg_proxy(choice='http'):
             "http"  : proxyMeta,
             "https"  : proxyMeta
         }
-        time.sleep(1000)
         return proxies
     elif(ip_data['code']==-11):
         print("获取ip失败,计划不存在或已过期");

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "速度滑雪 Cross Country",
+  "url": "/subject/3764950/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046044/",
+      "name": "Timothy Fielding Timothy Fielding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040889/",
+      "name": "Paul Fielding Paul Fielding"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040889/",
+      "name": "Paul Fielding Paul Fielding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046044/",
+      "name": "Timothy Fielding Timothy Fielding"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012517/",
+      "name": "鲁伯特·格林特 Rupert Grint"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1238263/",
+      "name": " Jamie Doyle"
+    }
+  ]
+,
+  "datePublished": "2017-05-01",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "A group of friends decide to spend the weekend biking and camping within woods. However blood and vi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "吸血鬼战争 Dead South",
+  "url": "/subject/25750186/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2493166557.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027787/",
+      "name": "伊莎贝拉·麦克罗林 Elizabeth McLaughlin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426164/",
+      "name": "贾里德·德帕斯夸尔 Jared DePasquale"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "PT1H48M",
+  "description": "In the wake of the American Civil War two vampires rise and fight to reclaim their land from the inh...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

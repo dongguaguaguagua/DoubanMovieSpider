@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "艾瑞斯 Iris",
+  "url": "/subject/26837803/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2395369520.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050468/",
+      "name": "加里·勒斯培 Jalil Lespert"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037217/",
+      "name": "安德鲁·伯维尔 Andrew Bovell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397142/",
+      "name": "耶利米·古埃兹 Jérémie Guez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050468/",
+      "name": "加里·勒斯培 Jalil Lespert"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018093/",
+      "name": "罗曼·杜里斯 Romain Duris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050468/",
+      "name": "加里·勒斯培 Jalil Lespert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330092/",
+      "name": "夏洛特·勒·邦 Charlotte Le Bon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313229/",
+      "name": "阿德尔·本谢里夫 Adel Bencherif"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348664/",
+      "name": "卡米尔·科坦 Camille Cottin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357827/",
+      "name": "索菲·费尔贝克 Sophie Verbeeck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379246/",
+      "name": "赖赟 Yun Lai"
+    }
+  ]
+,
+  "datePublished": "2016-11-02",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H39M",
+  "description": "富有銀行家的妻子突然失蹤，繼而開啟充斥著秘密癖好、鋌而走險，以及精心欺瞞的迷炫世界。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "272",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冬脊 Winter Ridge",
+  "url": "/subject/30328639/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534456179.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409717/",
+      "name": "马特·霍金斯 Matt Hookings"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366252/",
+      "name": "奥尔雯·凯瑟琳·凯莉 Olwen Catherine Kelly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316240/",
+      "name": "汉娜·沃丁厄姆 Hannah Waddingham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088735/",
+      "name": "阿兰·福德 Alan Ford"
+    }
+  ]
+,
+  "datePublished": "2018-09-05",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H26M",
+  "description": "一名年轻的侦探在他的妻子昏迷不醒的同时还在追捕一个连环杀手后被撕裂。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "155",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

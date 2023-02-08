@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美景之屋3 전망좋은 집3",
+  "url": "/subject/26913954/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2397350463.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346422/",
+      "name": "李洙成 Soo-seong Lee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346422/",
+      "name": "李洙成 Soo-seong Lee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327583/",
+      "name": "许娜京 Ha Na kyeong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368004/",
+      "name": "刘智苑 Yoo Ji-won"
+    }
+  ]
+,
+  "datePublished": "2016-12-01",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H33M",
+  "description": "屋顶似乎令人窒息的因为所有的窗户都被其他建筑挡住了。每天晚上，美景之屋3从隔壁的妇女可以看到通过窗户吗？！宰民进入天台中学对面disappoointed，但所有的窗户都被其他建筑挡住了。然而，他知道，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "903",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

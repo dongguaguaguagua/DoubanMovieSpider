@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Family Remains",
+  "url": "/subject/5185308/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2628959232.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282202/",
+      "name": "加比·德拉尔 Gaby Dellal"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025188/",
+      "name": "斯蒂芬·多尔夫 Stephen Dorff"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "Meg Louglin has been left in charge of her dis-functional family as they travel from Boston to Irela...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

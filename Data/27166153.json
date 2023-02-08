@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小岛 The Isle",
+  "url": "/subject/27166153/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2547580736.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408621/",
+      "name": "托莉·巴特勒-哈特 Tori Butler-Hart"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1096920/",
+      "name": "康勒斯·希尔 Conleth Hill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355264/",
+      "name": "阿历克斯·哈赛尔 Alex Hassell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1259060/",
+      "name": "艾利克斯·威尔顿·里根 Alix Wilton Regan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408619/",
+      "name": "艾玛·金 Emma King"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408621/",
+      "name": "托莉·巴特勒-哈特 Tori Butler-Hart"
+    }
+  ]
+,
+  "datePublished": "2019-02-08",
+  "genre": ["\u60ca\u609a", "\u6050\u6016", "\u5386\u53f2", "\u5947\u5e7b"],
+  "duration": "PT1H36M",
+  "description": "On a remote island off the west coast of Scotland in 1846 a heavy storm hits, causing a ship to sink...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "117",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "创业吧，骚年",
+  "url": "/subject/27197205/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2510140912.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387009/",
+      "name": "周伦 Lun Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435827/",
+      "name": "石靖怡 Jingyi Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391144/",
+      "name": "刘特 Te Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451880/",
+      "name": "冀雅凡 Yafan Ji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412537/",
+      "name": "李卓阳 Zhuoyang Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H16M",
+  "description": "影片讲述了5个即将毕业的电影学院学生，在毕业前夕的实习中遭遇了各种“坑”，面临没毕业即“失业”的窘境。 聚会中，几人决定创业，实现大家的梦想---拍电影。而拍电影就是创业项目。 没设备、没资金、没人脉...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

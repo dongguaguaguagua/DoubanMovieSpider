@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "好心好意 Good Favour",
+  "url": "/subject/27073185/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2617650955.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1181516/",
+      "name": "丽贝卡·达利 Rebecca Daly"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1181516/",
+      "name": "丽贝卡·达利 Rebecca Daly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1269762/",
+      "name": " Glenn Montgomery"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164580/",
+      "name": "亚历山大·维尧姆 Alexandre Willaume"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408101/",
+      "name": "克拉拉·卢嘉 Clara Rugaard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1125949/",
+      "name": "维多利亚·迈耶 Victoria Mayer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1068354/",
+      "name": "拉尔斯·博格曼 Lars Brygmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467496/",
+      "name": "莎乐美·德瓦斯 Salomé Dewaels "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1133119/",
+      "name": "巴尔德·奥维 Baard Owe"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "Rebbeca Daly&#39;s subtle and brilliantly realized parable , a teenage stranger welcomed into a househol...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

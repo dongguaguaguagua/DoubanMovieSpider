@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "古寨警情",
+  "url": "/subject/30166920/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2656818789.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313513/",
+      "name": "李光复 Guangfu Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H27M",
+  "description": "这部电影是根据2015年“6·8”抗洪抢险中，贵定县公安局民警李光进在洪水中救出6名遇险游客后，自己却因水流湍急陷入险境。沿途盘江镇麦董村6名群众得知民警遇险，不顾自身安危纷纷跳入洪水中，展开了10余...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "威尼斯商人 The Merchant of Venice",
+  "url": "/subject/30246422/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2524744994.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019055/",
+      "name": "乔纳森·普雷斯 Jonathan Pryce"
+    }
+  ]
+,
+  "datePublished": "2016-04-23",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H45M",
+  "description": "Portia, a wealthy heiress of Belmont, is forced to set her suitors a challenge. The winner will win ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "769",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "9.2"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "达伦·布朗：牺牲 Derren Brown: Sacrifice",
+  "url": "/subject/30353429/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537379423.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1208907/",
+      "name": "达伦·布朗 Derren Brown"
+    }
+  ]
+,
+  "datePublished": "2018-10-19",
+  "genre": ["\u60ca\u609a", "\u771f\u4eba\u79c0"],
+  "duration": "PT0H50M",
+  "description": "Illusionist Derren Brown concocts a psychological experiment in which he tries to manipulate an ordi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "360",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.0"
+  }
+}

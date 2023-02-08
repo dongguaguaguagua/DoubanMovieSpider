@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "忙人日记 Un homme pressé",
+  "url": "/subject/27604232/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537257753.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313833/",
+      "name": "埃尔威·米姆兰 Hervé Mimran"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313833/",
+      "name": "埃尔威·米姆兰 Hervé Mimran"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316458/",
+      "name": "莱拉·贝蒂 Leïla Bekhti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041432/",
+      "name": "法布莱斯·鲁奇尼 Fabrice Luchini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377124/",
+      "name": "伊戈尔·戈特曼 Igor Gotesman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045572/",
+      "name": "伊夫·雅克 Yves Jacques"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463195/",
+      "name": " Olivier Rosemberg"
+    }
+  ]
+,
+  "datePublished": "2018-11-07",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H40M",
+  "description": "电影改编自法国标致雪铁龙公司前任CEO克里斯蒂安·斯泰福的真人真事。影片讲述严苛的工作狂总裁--斯泰福在办公室午睡醒来时，竟意外中风。语言能力和记忆力因此受到损伤，并被公司无预警解雇。经历漫长的复健之...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "601",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

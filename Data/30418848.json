@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "侏罗纪星系 Jurassic Galaxy",
+  "url": "/subject/30418848/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2544299265.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1480952/",
+      "name": "乔恩·康得立克 Jon Kondelik"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1083364/",
+      "name": "埃里克·保罗·埃里克森 Eric Paul Erickson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1083364/",
+      "name": "埃里克·保罗·埃里克森 Eric Paul Erickson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1480498/",
+      "name": "麦迪逊·外斯特 Madison West"
+    }
+  ]
+,
+  "datePublished": "2018-08-20",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H14M",
+  "description": "在不久的将来，一艘太空探索船在一个未知的星球上坠毁。当他们发现这个星球上居住着巨大的恐龙时，他们很快就会遇到一些最可怕的恐惧",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "290",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.6"
+  }
+}

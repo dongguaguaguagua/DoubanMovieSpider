@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "凯达尔纳特 Kedarnath",
+  "url": "/subject/30388421/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541039488.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330063/",
+      "name": "阿皮谢克·卡普尔 Abhishek Kapoor"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330063/",
+      "name": "阿皮谢克·卡普尔 Abhishek Kapoor"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330066/",
+      "name": "苏尚特·辛格·拉吉普特 Sushant Singh Rajput"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374339/",
+      "name": "索纳利·萨查德夫 Sonali Sachdev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394353/",
+      "name": "阿尔卡·阿明 Alka Amin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428268/",
+      "name": "萨拉·阿里·汗 Sara Ali Khan"
+    }
+  ]
+,
+  "datePublished": "2018-12-07",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "电影于印度凯达尔纳特取景。描述一名穆斯林教徒在意外中救了一位印度教徒，两人渐渐滋生爱苗。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "86",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

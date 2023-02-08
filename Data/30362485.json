@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "起点",
+  "url": "/subject/30362485/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2538064687.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329039/",
+      "name": "杨杏 Xing Yang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u8fd0\u52a8"],
+  "duration": "PT1H26M",
+  "description": "讲述一个女孩从普通人到克服挫折与困难成为一名优秀拳手的励志故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

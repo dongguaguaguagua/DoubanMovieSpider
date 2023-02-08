@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "龙水降",
+  "url": "/subject/30132462/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512057309.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405034/",
+      "name": "叶沛 Pei Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476838/",
+      "name": "孙曳汐 Yexi Sun"
+    }
+  ]
+,
+  "datePublished": "2018-05-18",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u60ac\u7591", "\u6b66\u4fa0"],
+  "duration": "PT1H10M",
+  "description": "梅山教掌门下落不明，三名大弟子开始争夺掌门之位。霸道师姐黄英手拿圣物芭蕉扇，对战师弟黑星的宝器紫金红葫芦。黑星不敌师姐，卷走了禁功秘籍龙水降后逃入异界。争斗中，黑星错手伤到了师兄紫圣，紫圣丢失命魂，行...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

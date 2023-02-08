@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "致命湖畔 Deadly Secrets by the Lake",
+  "url": "/subject/30256793/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526154919.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291424/",
+      "name": "Don McBrearty Don McBrearty"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029004/",
+      "name": "Roma Roth Roma Roth"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044938/",
+      "name": "塔莫·潘尼凯 Tahmoh Penikett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070099/",
+      "name": "史蒂夫·拜尔斯 Steve Byers"
+    }
+  ]
+,
+  "datePublished": "2017-02-25",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "Based on an original idea co-developed by LMN and Harlequin, this whodunit murder mystery uncovers t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

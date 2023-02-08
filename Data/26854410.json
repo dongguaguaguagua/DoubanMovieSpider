@@ -1,0 +1,49 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "啖情说爱 Appetite for Love",
+  "url": "/subject/26854410/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2374295439.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044962/",
+      "name": "泰勒·科尔 Taylor Cole"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1191098/",
+      "name": "安德鲁·W·沃克 Andrew W. Walker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1115911/",
+      "name": "艾莉·米尔斯 Alley Mills"
+    }
+  ]
+,
+  "datePublished": "2016-02-06",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u513f\u7ae5"],
+  "duration": "",
+  "description": "贺曼国际电影台自制的情人节电影系列
+女主角前往家乡小镇为公司战略收购的餐厅进行品牌重新规划，但小镇餐厅老板很固执地对抗大企业不愿意改……并且小餐厅的老板刚好是女主角的高中男友……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "65",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

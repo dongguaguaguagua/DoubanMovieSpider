@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狼 Wolf",
+  "url": "/subject/30257489/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533977774.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028518/",
+      "name": "Stuart Brennan Stuart Brennan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028518/",
+      "name": "Stuart Brennan Stuart Brennan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343976/",
+      "name": "罗斯·安德森 Ross Anderson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028518/",
+      "name": "Stuart Brennan Stuart Brennan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1264901/",
+      "name": " Mark Paul Wake"
+    }
+  ]
+,
+  "datePublished": "2019-09-13",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "大不列颠。150AD。当四名使者被罗马派往感染了瘟疫的喀里多尼亚，并给他们的国王以和平与帮助的讯息时，失踪了，罗马别无选择，只能将十个最好的信徒送出哈德良长城，以找到并把他们带回。在他们的队长多米蒂乌...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

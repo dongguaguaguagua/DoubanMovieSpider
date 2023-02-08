@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "京城之王 King of Peking",
+  "url": "/subject/27021882/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456159708.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307672/",
+      "name": "司马优 Sam Voutas"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307672/",
+      "name": "司马优 Sam Voutas"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-04-20",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H28M",
+  "description": "一部以20世纪90年代北京为背景的喜剧片。影片讲述了一名穷困潦倒电影放映员和他的儿子想通过开盗版片加工厂来致富的故事。这部电影由澳大利亚导演司马优（Sam Voutas）担任编剧和导演，灵感来源于司马...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "473",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

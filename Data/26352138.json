@@ -1,0 +1,84 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "朝圣 Pilgrimage",
+  "url": "/subject/26352138/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2492861320.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049679/",
+      "name": "乔·博恩瑟 Jon Bernthal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022639/",
+      "name": "理查德·阿米蒂奇 Richard Armitage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325351/",
+      "name": "汤姆·赫兰德 Tom Holland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328219/",
+      "name": "斯坦利·韦伯 Stanley Weber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054701/",
+      "name": "约翰·林奇 John Lynch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1128773/",
+      "name": "休·奥康纳 Hugh O&#39;Conor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009215/",
+      "name": "艾力克·高敦 Eric Godon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132001/",
+      "name": "洛克伦·奥米拉因 Lochlainn O&#39;Mearain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281153/",
+      "name": "Rúaidhrí Conroy Rúaidhrí Conroy"
+    }
+  ]
+,
+  "datePublished": "2017-07-03",
+  "genre": ["\u5267\u60c5", "\u5192\u9669"],
+  "duration": "PT1H36M",
+  "description": "故事设定于13世纪的爱尔兰，一队修道士守护着神秘的遗留圣物，而这场守护之旅却潜藏了许多意想不到的危险。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "376",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

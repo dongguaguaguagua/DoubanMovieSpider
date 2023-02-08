@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "藏尸房 The Charnel House",
+  "url": "/subject/26909549/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2629473824.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040578/",
+      "name": "娜丁·维拉兹盖兹 Nadine Velazquez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360284/",
+      "name": "乔·基瑞 Joe Keery"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390048/",
+      "name": "安迪·费儒 Andy Favreau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459381/",
+      "name": "达尼埃尔·兰黛 Danielle Lauder"
+    }
+  ]
+,
+  "datePublished": "2016-11-04",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "一个废弃很久的屠宰场如今已经成为了现代城市的新社区，但租户迁入后不久，就发现他们已被一个有30多年的黑暗秘密所困扰和折磨......",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "114",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

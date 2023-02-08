@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玩爵士的孩子 クハナ！",
+  "url": "/subject/26769482/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2401413686.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321681/",
+      "name": "秦建日子 Takehiko Hata"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321681/",
+      "name": "秦建日子 Takehiko Hata"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350705/",
+      "name": "松本来梦 Ramu Matsumoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482247/",
+      "name": "咲良菜绪 Nao Sakura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118806/",
+      "name": "圆居丰 Yutaka Maido"
+    }
+  ]
+,
+  "datePublished": "2016-10-08",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50", "\u513f\u7ae5"],
+  "duration": "PT1H44M",
+  "description": "三重県桑名市。小学6年生の少女・西田真珠が通う小学校は、町の人口減や少子化の影響で廃校が決定し、学校生活はパッとしない。ある日、プロのジャズプレイヤーだったという教師がやってくる。それを契機に、真珠た...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

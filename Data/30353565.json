@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "说唱歌王",
+  "url": "/subject/30353565/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537246188.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447493/",
+      "name": "谭柏丞 Bocheng Tan"
+    }
+  ]
+,
+  "datePublished": "2018-10-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H10M",
+  "description": "影片讲述了曾经的rapper高手斯威特（刘咏涛 饰）因为生活不得已成为了一名家庭教师，遇到励志成为rapper的口吃学生朱立凡（杨浩琛 饰），发生的一些关于嘻哈的故事。同样对嘻哈音乐着迷的两人也因嘻哈...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

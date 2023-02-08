@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "初恋小姐",
+  "url": "/subject/30212140/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2521782526.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361838/",
+      "name": "葛宁宁 Ningning Ge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314564/",
+      "name": "吴昊昊 Wu Haohao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "本片根据葛宁宁同名小说改编。
+一个受享乐主义感染的平民女排除世俗，追求自己爱情与幸福的过程中，遇到的各色各等男人。爱与被爱、欺骗与被欺骗、利用与被利用、厌倦与被厌倦。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

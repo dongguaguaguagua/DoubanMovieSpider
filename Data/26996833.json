@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的青霞女友",
+  "url": "/subject/26996833/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2448632103.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484822/",
+      "name": "孙一诺 Yinuo Sun"
+    }
+  ]
+,
+  "datePublished": "2017-03-10",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H3M",
+  "description": "罗胜男自幼习武在影视城当群众演员，幻想着自己能够成为像林青霞一样的正义女侠，某日罗胜男出手相救了一对形迹可疑的父子。后来才知晓父子二人是落难到此。李华父子得到了罗晓英一家的热情款待。席间浩峰找上门来要...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

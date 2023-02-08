@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "音乐乡悖论 Paradox",
+  "url": "/subject/30164471/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517491038.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036348/",
+      "name": "达丽尔·汉纳 Daryl Hannah"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036348/",
+      "name": "达丽尔·汉纳 Daryl Hannah"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165350/",
+      "name": "尼尔·杨 Neil Young"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048221/",
+      "name": "威利·纳尔逊 Willie Nelson"
+    }
+  ]
+,
+  "datePublished": "2018-03-15",
+  "genre": ["\u97f3\u4e50"],
+  "duration": "PT1H13M",
+  "description": "Time is fluid in this far-fetched, whimsical western tale of music and love. Somewhere in the future...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "177",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

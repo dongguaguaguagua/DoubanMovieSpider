@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "星光岛 별리섬",
+  "url": "/subject/30331468/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2536696356.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344889/",
+      "name": "卞约汉 Yo-han Byun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431016/",
+      "name": "朴柾佑 Park Jung Woo"
+    }
+  ]
+,
+  "datePublished": "2018-10-26",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "《My Dream Class》讲述为了丰富履历，作为新人讲师前往孤岛的大学生韩基卓和不听话的中学生一起寻找梦想的故事，是一部剧情喜剧。本片由《欢迎来到东莫村》和《被操纵的城市》的朴光铉导演执导。卞约...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

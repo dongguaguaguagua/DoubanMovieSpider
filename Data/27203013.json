@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "清醒梦2之疯狂快递",
+  "url": "/subject/27203013/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2505517076.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313396/",
+      "name": "陈彦妃 Yedda Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313396/",
+      "name": "陈彦妃 Yedda Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362921/",
+      "name": "牟紫 Zi Mu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424604/",
+      "name": "杨峰 "
+    }
+  ]
+,
+  "datePublished": "2017-12-01",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H10M",
+  "description": "《清醒梦2》由耀晴传媒和莱可传媒联合出品，是陈彦妃自编自导的第二部电影作品，由王俊东、杨峰、张庆庆、费凡等领衔主演，影片讲述了两位素不相识的男子，因为一个神秘快递开启了一段奇葩、搞笑的旅途。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

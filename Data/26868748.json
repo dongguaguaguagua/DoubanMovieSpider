@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美国民谣 American Folk",
+  "url": "/subject/26868748/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2503453485.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054784/",
+      "name": "大卫·芬恩 David Fine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1255695/",
+      "name": "迈克尔·格兰特 Michael Grant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080812/",
+      "name": "Elizabeth Dennehy Elizabeth Dennehy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1122838/",
+      "name": "劳伦斯·曼德利 Lawrence Mandley"
+    }
+  ]
+,
+  "datePublished": "2017-02-03",
+  "genre": ["\u5267\u60c5", "\u6b4c\u821e"],
+  "duration": "PT1H39M",
+  "description": "Two strangers, both folk musicians stranded in California, take a road trip to New York in the days ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "139",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幸运饼干 Fortune Cookie",
+  "url": "/subject/26815263/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2429882130.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418727/",
+      "name": "罗布·帕拉廷 Rob Pallatina"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418727/",
+      "name": "罗布·帕拉廷 Rob Pallatina"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031824/",
+      "name": "吴汉章 James Hong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000185/",
+      "name": "瑞恩·莫里曼 Ryan Merriman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433149/",
+      "name": "摩根·奥本瑞德 Morgan Obenreder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450533/",
+      "name": "谢鹤群 Ho-Kwan Tse"
+    }
+  ]
+,
+  "datePublished": "2016-03-28",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Cryptic fortune cookie messages become death omens for a group of friends.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

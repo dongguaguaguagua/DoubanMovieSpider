@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异端教派 Coven of Evil",
+  "url": "/subject/27193193/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2604553759.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004608/",
+      "name": "马修·劳伦斯 Matthew Lawrence"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004608/",
+      "name": "马修·劳伦斯 Matthew Lawrence"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354281/",
+      "name": "Laura Peterson Laura Peterson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1241812/",
+      "name": " Brian Woodward"
+    }
+  ]
+,
+  "datePublished": "2020-05-26",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "一位调查记者试图从巫术邪教中拯救一个无辜的年轻女子，但这样做，却被卷入了现代巫术的怪异和致命的世界。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

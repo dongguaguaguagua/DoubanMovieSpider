@@ -1,0 +1,130 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鬼故事 Ghost Stories",
+  "url": "/subject/26721644/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528217984.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018799/",
+      "name": "杰瑞米·德桑 Jeremy Dyson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000299/",
+      "name": "安迪·尼曼 Andy Nyman"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018799/",
+      "name": "杰瑞米·德桑 Jeremy Dyson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000299/",
+      "name": "安迪·尼曼 Andy Nyman"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000299/",
+      "name": "安迪·尼曼 Andy Nyman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049612/",
+      "name": "马丁·弗瑞曼 Martin Freeman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044984/",
+      "name": "保罗·怀特豪斯 Paul Whitehouse"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343731/",
+      "name": "埃里克斯·劳瑟 Alex Lawther"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042323/",
+      "name": "保罗·沃伦 Paul Warren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346131/",
+      "name": "寇布勒·霍尔德布鲁克-史密斯 Kobna Holdbrook-Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328080/",
+      "name": "尼古拉斯·本恩斯 Nicholas Burns"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319370/",
+      "name": "丹尼尔·希尔 Daniel Hill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397639/",
+      "name": "塞缪尔·博顿利 Samuel Bottomley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397638/",
+      "name": "杰克 ·戴维斯 Jake Davies"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1208907/",
+      "name": "达伦·布朗 Derren Brown"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032148/",
+      "name": "乔治·麦凯 George MacKay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341652/",
+      "name": "Oliver Woollford Oliver Woollford"
+    }
+  ]
+,
+  "datePublished": "2017-10-05",
+  "genre": ["\u5267\u60c5", "\u6050\u6016"],
+  "duration": "PT1H38M",
+  "description": "英国知名舞台剧《鬼故事》将被搬上大银幕，新片主演马丁·弗瑞曼、乔治·麦凯、安迪·尼曼等。尼曼继续出演他在剧中的角色古德曼教授。古德曼是一位心理治疗师，从不相信鬼怪之说；然而三个病人的“见鬼实录”让他对...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "27808",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

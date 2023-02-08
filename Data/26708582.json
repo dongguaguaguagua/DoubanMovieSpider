@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿洛伊斯 Aloys",
+  "url": "/subject/26708582/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2324350106.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366941/",
+      "name": "托拜厄斯·诺伊尔 Tobias Nölle"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366941/",
+      "name": "托拜厄斯·诺伊尔 Tobias Nölle"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041759/",
+      "name": "格奥尔格·弗里德里希 Georg Friedrich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366944/",
+      "name": "提德·冯·奥弗贝克 Tilde von Overbeck"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1173453/",
+      "name": "卡米尔·克里希奇 Kamil Krejcí"
+    }
+  ]
+,
+  "datePublished": "2016-02-13",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H31M",
+  "description": "个性孤僻的私家侦探Aloys透过摄影机观察记录生活中一切，过着死板墨守成规的生活，有一天，他酒醉后醒来，发现摄影机与日积月累的录影带消失了，正在疑惑不解之时，他接到了神秘女人的电话威胁，要求他加一个游...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2380",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

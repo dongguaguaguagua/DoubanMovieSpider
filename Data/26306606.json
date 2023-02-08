@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "情歌 Lovesong",
+  "url": "/subject/26306606/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2458066745.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297993/",
+      "name": "金素英 So Yong Kim"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297993/",
+      "name": "金素英 So Yong Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285330/",
+      "name": "布拉德利·拉斯特·格雷 Bradley Rust Gray"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040982/",
+      "name": "吉娜·马隆 Jena Malone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1237039/",
+      "name": "丽莉·吉欧 Riley Keough"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000213/",
+      "name": "布鲁克琳·黛克 Brooklyn Decker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022745/",
+      "name": "瑞安·艾戈尔德 Ryan Eggold"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025210/",
+      "name": "罗姗娜·阿奎特 Rosanna Arquette"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307449/",
+      "name": "艾米·西米茨 Amy Seimetz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009531/",
+      "name": "凯瑞·福永 Cary Fukunaga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340785/",
+      "name": "尼尔·哈夫 Neal Huff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374148/",
+      "name": "马歇尔·查普曼 Marshall Chapman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465404/",
+      "name": "杰西·欧凯·格雷 Jessie Ok Gray"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465415/",
+      "name": "思盖·欧凯·格雷 Sky Ok Gray"
+    }
+  ]
+,
+  "datePublished": "2016-01-25",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H24M",
+  "description": "莎拉(克亚芙饰)的家庭生活并不美满，便将情感倾注于女儿及好友敏迪(吉娜·马隆饰)身上。和敏迪几番往来后，两人的情感似乎超出友谊的范围。直到敏迪结婚，莎拉才察觉内心所爱即将溜走。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3706",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

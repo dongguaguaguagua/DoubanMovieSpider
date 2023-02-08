@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你的苏露 Tumhari Sulu",
+  "url": "/subject/27599776/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2507054634.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1183702/",
+      "name": "薇迪亚·巴兰 Vidya Balan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049993/",
+      "name": "内哈·迪胡皮阿 Neha Dhupia"
+    }
+  ]
+,
+  "datePublished": "2017-11-17",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT2H15M",
+  "description": "苏露钦娜是一个活泼开朗、兴趣广泛的家庭主妇，儿子乖巧、老公温顺，小两口恩恩爱爱，一家人其乐融融。两个人约定等儿子长大后，苏露就可以出去工作。他们经常幻想丈夫结束打工生活，两人一起做点生意，比如开出租车...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "181",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

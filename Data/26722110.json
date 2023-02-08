@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "别叫我儿子 Mãe só há uma",
+  "url": "/subject/26722110/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2362503380.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046105/",
+      "name": "安娜·穆拉尔特 Anna Muylaert"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046105/",
+      "name": "安娜·穆拉尔特 Anna Muylaert"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-02-12",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H22M",
+  "description": "他的人生被偷走两次，一次刚出生，一次十七岁。
+皮耶和妹妹由单亲妈妈独力扶养，生活虽不富有，却是一家和乐。突然有一天，“妈妈”被警察带走，这才知道她其实是当年从医院抱走他的小偷，真正的父母找了他十七年。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "375",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

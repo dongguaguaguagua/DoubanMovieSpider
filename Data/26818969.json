@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "瓜田喜事",
+  "url": "/subject/26818969/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2521235515.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414492/",
+      "name": "张广峰 Guangfeng Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359082/",
+      "name": "蓝飞洋 Feiyang Lan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322999/",
+      "name": "韩三明 Sanming Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392399/",
+      "name": "张艺宣 Yixuan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287953/",
+      "name": "句号 Hao Ju"
+    }
+  ]
+,
+  "datePublished": "2017-08-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "农村大学生穆瓜（蓝飞洋饰）毕业后决心回乡创业种植西瓜，却遭到了前女友及追求者的不看好，和父亲穆老凿儿的强烈反对。穆瓜不顾众人非议，开发新品种，研究新技术，却遭到人为破坏、自然灾害等接二连三的打击。穆瓜...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

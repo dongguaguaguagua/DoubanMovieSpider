@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "画室惊魂",
+  "url": "/subject/27104249/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2496393805.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329269/",
+      "name": "邢博 Bo Xing"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379378/",
+      "name": "李名 Ming Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341569/",
+      "name": "罗翔 Xiang Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1180718/",
+      "name": "杨欣 Xin Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318068/",
+      "name": "陈美行 Meixing Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317859/",
+      "name": "彭波 Bo Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275399/",
+      "name": "于新博 Xinbo Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275600/",
+      "name": "那威 Wei Na"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313545/",
+      "name": "张山 Shan Zhang"
+    }
+  ]
+,
+  "datePublished": "2017-09-22",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H40M",
+  "description": "古镇民间传说画画有三大禁忌，所谓“三不画”：午夜不画、眼睛不画、鬼不画。午夜作画，可能引起阴气，招来鬼魂；画眼睛，可能将人摄魂；画鬼，这个鬼就会缠着你。画家陆风初来乍到，不相信这个传说，和妻子欧阳雪搬...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

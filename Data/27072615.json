@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀瓜",
+  "url": "/subject/27072615/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2520663391.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324256/",
+      "name": "高则豪 Zehao Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324256/",
+      "name": "高则豪 Zehao Gao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274637/",
+      "name": "董勇 Yong Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274276/",
+      "name": "刘桦 Hua Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275967/",
+      "name": "胡明 Ming Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313632/",
+      "name": "李煜 Yu Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274603/",
+      "name": "曹曦文 Xiwen Cao"
+    }
+  ]
+,
+  "datePublished": "2017-07-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "一个炎热的三伏天，路人、老婆、村长、杀人犯、县领导、警察，轮番出现在他的瓜棚。这个从来都是老实巴交、逆来顺受的瓜农，生平第一次意识到自己在这个世界的存在。这是一个关于底层人们反抗意识觉醒的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3495",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

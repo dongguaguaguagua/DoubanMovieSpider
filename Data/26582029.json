@@ -1,0 +1,95 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "审讯 Interrogation",
+  "url": "/subject/26582029/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2383335645.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342610/",
+      "name": "迈克尔·芬奇 Michael Finch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1143381/",
+      "name": "Adam Rodin Adam Rodin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078613/",
+      "name": "艾吉 Adam Copeland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334872/",
+      "name": "朱莉娅·本森 Julia Benson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345000/",
+      "name": "艾丽卡·卡罗尔 Erica Carroll"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337695/",
+      "name": "C.J. Perry C.J. Perry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349835/",
+      "name": "Mitchell Kummen Mitchell Kummen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014383/",
+      "name": "帕特里克·萨邦圭 Patrick Sabongui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1239370/",
+      "name": "弗雷泽·科比特 Fraser Corbett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1085204/",
+      "name": "鲍勃·弗雷泽 Bob Frazer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209252/",
+      "name": "艾德里安·佩特里 Adrian Petriw"
+    }
+  ]
+,
+  "datePublished": "2016-09-20",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H33M",
+  "description": "美国联邦调查局调查网路上一种智力游戏恐危及到整个城市，而这种智力游戏牵扯出更多的刑事主谋，为保护数众人的生命，必须揭露真正主谋拼与时间赛跑，即时给于罪犯一个毁灭性的打击。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "441",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

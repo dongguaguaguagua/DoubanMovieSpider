@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美丽的精神 Chacun pour tous",
+  "url": "/subject/30330694/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534634797.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422765/",
+      "name": "范尼·勒巴斯克 Vianney Lebasque"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037192/",
+      "name": "让-皮埃尔·达鲁森 Jean-Pierre Darroussin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1262255/",
+      "name": "卡梅丽雅·乔丹娜 Camélia Jordana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393293/",
+      "name": "埃文特·斯特朗 Avant Strangel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376129/",
+      "name": "托马斯·德·普奎里 Thomas De Pourquery"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H34M",
+  "description": "21世紀轟動國際的騙案層出不窮。有收錢幫人考試的「出貓特攻隊」，亦有人假扮殘疾人士組成「非常籃團」，「勇奪」2000年悉尼殘奧籃球金牌？﹗聽來難以置信的電影橋段，竟是改編自真人真事：一名籃球教練為怕失...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "100",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

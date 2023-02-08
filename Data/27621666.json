@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我为楼狂 Toppen av ingenting",
+  "url": "/subject/27621666/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2513534063.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374286/",
+      "name": "曼斯·曼斯森 Måns Månsson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388557/",
+      "name": "阿克塞尔·彼得森 Axel Petersén"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-03-16",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT1H28M",
+  "description": "诺捷特（Christian Saldert 饰）68岁那一年，父亲去世了，诺捷特获得了父亲拥有的位于斯德哥尔摩市中心的一幢公寓楼的产权，这大概是诺捷特一生中发生过的最好的事了。诺捷特想要将这幢大楼卖掉...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "271",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

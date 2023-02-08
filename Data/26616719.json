@@ -1,0 +1,172 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "弗兰兹 Frantz",
+  "url": "/subject/26616719/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2383307897.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053578/",
+      "name": "弗朗索瓦·欧容 François Ozon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053578/",
+      "name": "弗朗索瓦·欧容 François Ozon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367807/",
+      "name": "菲利普·皮亚佐 Philippe Piazzo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007140/",
+      "name": "恩斯特·刘别谦 Ernst Lubitsch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003545/",
+      "name": "山姆森·雷佛森 Samson Raphaelson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020802/",
+      "name": "欧内斯特·沃伊道 Ernest Vajda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024873/",
+      "name": "雷金纳德·贝克莱 Reginald Berkeley"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314577/",
+      "name": "皮埃尔·尼内 Pierre Niney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315447/",
+      "name": "葆拉·贝尔 Paula Beer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327344/",
+      "name": "恩斯特·施托兹 Ernst Stötzner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1100594/",
+      "name": "玛丽·格鲁伯 Marie Gruber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166460/",
+      "name": "约翰·冯·比罗 Johann von Bülow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367808/",
+      "name": "安东·范·卢克 Anton von Lucke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1068625/",
+      "name": "谢丽埃勒·克莱尔 Cyrielle Clair"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316091/",
+      "name": "阿丽斯·德·朗克桑 Alice de Lencquesaing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371867/",
+      "name": "阿克塞尔·旺克 Axel Wandtke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371868/",
+      "name": "赖纳·埃格 Rainer Egger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371869/",
+      "name": "赖纳·希尔贝斯奈德 Rainer Silberschneider"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354557/",
+      "name": "梅林·罗斯 Merlin Rose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1121622/",
+      "name": "托尔斯滕·米凯利斯 Torsten Michaelis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356289/",
+      "name": "泽姆斯基 Zimsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1062306/",
+      "name": "让-克劳德·古卢姆伯格 Jean-Claude Bolle-Reddat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340871/",
+      "name": "让-波尔·布里萨尔 Jean-Pol Brissart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1181620/",
+      "name": "卢茨·布洛赫伯格 Lutz Blochberger"
+    }
+  ]
+,
+  "datePublished": "2016-09-03",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5386\u53f2", "\u6218\u4e89"],
+  "duration": "PT1H53M",
+  "description": "法国导演弗朗索瓦·欧容在沉寂两年后，终于带着皮埃尔·尼内、葆拉·贝尔主演的《弗兰兹》杀回影坛。影片将以一战后的法国为背景，聚焦贝尔饰演的德国女人正因未婚夫的惨死而悲痛欲绝，尼内饰演的神秘法国男子却悄然...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "42155",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.4"
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "秋田",
+  "url": "/subject/30162262/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559405359.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401286/",
+      "name": "周立冬 Lidong Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401286/",
+      "name": "周立冬 Lidong Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401286/",
+      "name": "周立冬 Lidong Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331032/",
+      "name": "闫鹿杨 Luyang Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361123/",
+      "name": "马嘉铭 Jiaming Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402622/",
+      "name": "鲁大举 Daju Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402704/",
+      "name": "陈刚 Gang Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384081/",
+      "name": "杨明逸 Mingyi Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397568/",
+      "name": "牛钸斯 Herman Lau"
+    }
+  ]
+,
+  "datePublished": "2018-10-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H48M",
+  "description": "老林经营着一个不大的公司，是个小老板。他一家三口，老婆在国外，儿子马上高考。老林没啥特别的爱好，他的日常很简单：除了上班、下班，在家里看看电视、吆喝吆喝儿子，就是与老友们喝喝小酒。他的生活机器也就这般...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "443",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

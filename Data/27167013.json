@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "年轻的丈夫 젊은 남편 젊은 아빠",
+  "url": "/subject/27167013/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501549455.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364146/",
+      "name": "崔元俊 Choi Won Joon"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363456/",
+      "name": "安昭希 So-hee Ahn"
+    }
+  ]
+,
+  "datePublished": "2017-10-05",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60c5\u8272"],
+  "duration": "PT1H21M",
+  "description": "“石云”小小年纪就产生一个唯一的女儿”，“日本留学，我一个人孤独的大雁爸爸。
+“有一天”一个爸爸偷偷回国，“东树”的男朋友的夜晚和我交往。
+“一”是日本的朋友“住”和假期在家里一起住，“石云”“史”上...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "165",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美少女战队",
+  "url": "/subject/27059357/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2461154777.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366415/",
+      "name": "赵蕴卓 Yunzhuo Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404766/",
+      "name": "赵梦迪 Mengdi Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416667/",
+      "name": "李沫颔 Mohan Li"
+    }
+  ]
+,
+  "datePublished": "2017-05-29",
+  "genre": ["\u79d1\u5e7b"],
+  "duration": "PT1H6M",
+  "description": "影片讲述了女主角罗罗在一次阴差阳错的际遇之中发现，现实生活世界好像在被某种神秘的力量控制着。在偶然遇到的少女夏天、费宁、依米的帮助下，罗罗见到了那个曾经在梦中呼唤过她的人的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

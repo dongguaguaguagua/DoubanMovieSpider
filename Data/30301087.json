@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "走入荒野 Enter The Wild",
+  "url": "/subject/30301087/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531109760.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1098478/",
+      "name": "Ben Geurens Ben Geurens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319436/",
+      "name": "瑞恩·约翰逊 Ryan Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1117093/",
+      "name": "艾拉·斯科特·林奇 Ella Scott Lynch"
+    }
+  ]
+,
+  "datePublished": "2018-01-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H36M",
+  "description": "On a trek to find the world&#39;s rarest tree, Dylan and his friends descend into harsh ravines and cany...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

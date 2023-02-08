@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "出路 The Circuit",
+  "url": "/subject/26917395/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2869875725.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360036/",
+      "name": "本·泰勒 Ben Taylor"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305370/",
+      "name": "莎朗·豪根 Sharon Horgan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310891/",
+      "name": "丹尼斯·凯利 Dennis Kelly"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344938/",
+      "name": "戴思睿·阿卡万 Desiree Akhavan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352050/",
+      "name": "阿迪勒·阿赫塔尔 Adeel Akhtar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278680/",
+      "name": "伊娃·柏西斯托 Eva Birthistle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000494/",
+      "name": "维多利亚·汉密尔顿 Victoria Hamilton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1123265/",
+      "name": "托比亚斯·门基斯 Tobias Menzies"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323248/",
+      "name": "妮可拉·沃克 Nicola Walker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347993/",
+      "name": "保罗·雷迪 Paul Ready"
+    }
+  ]
+,
+  "datePublished": "2016-08-25",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT0H50M",
+  "description": "Newly arrived in town Nat and Gabe accept a dinner invitation from the volatile Hungarian Helene and...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

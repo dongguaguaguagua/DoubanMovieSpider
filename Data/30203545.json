@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小锅盖离婚",
+  "url": "/subject/30203545/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2677880105.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354240/",
+      "name": "李万兴 Wanxing Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354240/",
+      "name": "李万兴 Wanxing Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392113/",
+      "name": "孙举亮 Juliang Sun"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H27M",
+  "description": "小锅盖和二云因为当不当这个村主任产生了矛盾，赌气要离婚，却因为村里单亲小女孩抚养问题和女孩的叔叔闹得不可开交，两人的关系暂时缓和，又因为锅盖娘逼着二云要孩子，险些真的离婚，最终误会解开，两人和好。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

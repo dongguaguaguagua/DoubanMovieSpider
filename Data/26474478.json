@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "出生取胜 Nacida para ganar",
+  "url": "/subject/26474478/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2346385411.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010698/",
+      "name": "维多利亚·阿夫里尔 Victoria Abril"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184994/",
+      "name": "亚历山德拉·希门内斯 Alexandra Jiménez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1072814/",
+      "name": "克里斯汀娜·卡斯达尼奥 Cristina Castaño"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373161/",
+      "name": "安娜·玛丽亚·阿亚拉 Ana María Ayala"
+    }
+  ]
+,
+  "datePublished": "2016-05-06",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

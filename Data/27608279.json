@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "网诱惊魂 Profile",
+  "url": "/subject/27608279/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2640506011.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009398/",
+      "name": "提莫·贝克曼贝托夫 Timur Bekmambetov"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421544/",
+      "name": "布里特·普尔顿 Britt Poulton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456905/",
+      "name": "奥尔加·卡里纳 Olga Kharina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009398/",
+      "name": "提莫·贝克曼贝托夫 Timur Bekmambetov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456906/",
+      "name": "安娜·埃雷尔 Anna Érelle"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355661/",
+      "name": "瓦伦·凯恩 Valene Kane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332334/",
+      "name": "沙扎德·拉蒂夫 Shazad Latif"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325312/",
+      "name": "克里斯蒂尼·亚当斯 Christine Adams"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456907/",
+      "name": "阿米尔·拉希姆扎德 Amir Rahimzadeh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456908/",
+      "name": "凯利·麦克 Kelley Mack"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320054/",
+      "name": "摩根·华金斯 Morgan Watkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456909/",
+      "name": "艾玛·凯特 Emma Cater"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409847/",
+      "name": "路易斯·马丁 Louis Martin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430281/",
+      "name": "凯特·沃森 Kate Watson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417527/",
+      "name": "特里卡·威尔逊-瑞德 Therica Wilson-Read"
+    }
+  ]
+,
+  "datePublished": "2018-02-17",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H46M",
+  "description": "故事描述一名英国记者为了调查百名欧洲女子皈依伊斯兰教，并前往伊斯兰国加入ISIS的原因，创立了一个假帐号，与叙利亚的圣战士展开了交流，试图得到更多资讯，但对方一心只想娶她为妻。然而在身份不断切换之时，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "14862",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

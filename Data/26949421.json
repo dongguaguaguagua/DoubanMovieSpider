@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "王牌游戏 Game of Aces",
+  "url": "/subject/26949421/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2410626052.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031796/",
+      "name": "克里斯·克莱因 Chris Klein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1240428/",
+      "name": "维多利亚·萨默 Victoria Summer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329750/",
+      "name": "维尔纳·德恩 Werner Daehn"
+    }
+  ]
+,
+  "datePublished": "2016-09-09",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H37M",
+  "description": "A rescue attempt of a German traitor during World War I has unexpected consequences and sets off an ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

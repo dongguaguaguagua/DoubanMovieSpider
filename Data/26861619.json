@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "主播36式",
+  "url": "/subject/26861619/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2375874357.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042785/",
+      "name": "温兆伦 Siu-Lun Wan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386644/",
+      "name": "袁近辉 Jinhui Yuan"
+    }
+  ]
+,
+  "datePublished": "2016-08-27",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H13M",
+  "description": "在这个明星快速消费的时代,红不红除了看脸,还得看命!而年龄36的过气男模David显然是属于宁死不屈的那一种。眼见收入越来越少,年龄越来越大,习惯了花天酒地、过惯了奢侈生活的David忍辱负重签约了D...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

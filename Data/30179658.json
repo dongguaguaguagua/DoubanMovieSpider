@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "罗伯特玩偶的复仇 The Revenge of Robert the Doll",
+  "url": "/subject/30179658/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540602829.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257656/",
+      "name": "安德鲁·琼斯 Andrew Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343662/",
+      "name": "安德鲁·斯图尔特-琼斯 Andrew Stewart-Jones"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257656/",
+      "name": "安德鲁·琼斯 Andrew Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343662/",
+      "name": "安德鲁·斯图尔特-琼斯 Andrew Stewart-Jones"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419918/",
+      "name": "李·贝恩 Lee Bane"
+    }
+  ]
+,
+  "datePublished": "2018-03-06",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "在纳粹德国，玩具制造商拥有一本神秘的书籍，赋予无生命的生命。在躲过希特勒命令取回书的党卫军之后，这位玩具商登上了一列火车企图逃离该国。认为他很清楚，玩具制造商很快就发现，一批高级纳粹军官也加入进来。最...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "230",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

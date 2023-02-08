@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "功夫小镇",
+  "url": "/subject/30259856/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2572399210.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324356/",
+      "name": "张艺飞 Yifei Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340970/",
+      "name": "龙武 Wu Long"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344879/",
+      "name": "孙蛟龙 Jiaolong Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274267/",
+      "name": "梁小龙 Siu-Lung Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389570/",
+      "name": "董昕赟 Xinyun Dong"
+    }
+  ]
+,
+  "datePublished": "2019-10-25",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H27M",
+  "description": "影片主要讲述了少林武僧大龙，痴迷武功，争强好胜，在争夺达摩院弟子席位时出手狠厉，师傅认为其武功虽强，武学尚浅，于是将名额给了大龙的师弟，并让大龙还俗下山，在红尘中修行，大龙还俗后来到了功夫小镇生活。这...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

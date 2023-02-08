@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "房子鲨鱼 House Shark",
+  "url": "/subject/27115307/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2496538532.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1240184/",
+      "name": " Wes Reid"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1115649/",
+      "name": "Ed Mastin Ed Mastin"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H51M",
+  "description": "When he finds a shark that can travel on land residing in his home, an ex-cop enlists the help of a ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "104",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.3"
+  }
+}

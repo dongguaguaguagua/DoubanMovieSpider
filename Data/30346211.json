@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Kinky",
+  "url": "/subject/30346211/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2536512761.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459673/",
+      "name": "莱昂内尔·克劳德 "
+    }
+  ]
+,
+  "datePublished": "2018-10-12",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H31M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

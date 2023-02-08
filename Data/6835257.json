@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "364天 364",
+  "url": "/subject/6835257/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324769/",
+      "name": "大卫·古根海姆 David Guggenheim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040651/",
+      "name": "戴维斯·古根海姆 Davis Guggenheim"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "The film centers on a man who has superpowers only one day a year.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

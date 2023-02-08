@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黎明前的曙光",
+  "url": "/subject/30327630/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362972/",
+      "name": "韩彦博 Yanbo Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376912/",
+      "name": "钟祺 Qi Zhong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355797/",
+      "name": "大力 Dali Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428163/",
+      "name": "潘宣伊 Stella"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ac\u7591"],
+  "duration": "",
+  "description": "电影《黎明前的曙光》采取平行蒙太奇四条线索交叉叙事。有才的画家林萧(杜衡饰)被黄永中(大力饰)、马六(裴山饰)、800哥(韩彦博饰)等一伙儿绑匪绑架到孤岛画画，因为林萧的画天价。诸不知林萧作品价高是一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

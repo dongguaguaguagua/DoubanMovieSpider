@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "蕾拉 Layla M.",
+  "url": "/subject/26889783/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2387875813.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282014/",
+      "name": "梅卡·德容 Mijke de Jong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282014/",
+      "name": "梅卡·德容 Mijke de Jong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1229652/",
+      "name": "伊利亚斯·阿达布 Ilias Addab"
+    }
+  ]
+,
+  "datePublished": "2016-11-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H50M",
+  "description": "Layla is an 18-year old girl, born and raised in Amsterdam. Layla is smart, witty and stubborn - and...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

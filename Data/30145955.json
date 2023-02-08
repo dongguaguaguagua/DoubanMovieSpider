@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Gatecrash",
+  "url": "/subject/30145955/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2637716881.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372700/",
+      "name": "劳伦斯·高福 Lawrence Gough"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372700/",
+      "name": "劳伦斯·高福 Lawrence Gough"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020266/",
+      "name": "Alan Pattison Alan Pattison"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050177/",
+      "name": "奥利维亚·波纳梅 Olivia Bonamy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019133/",
+      "name": "萨缪尔·韦斯特 Samuel West"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "A dark psychological thriller which follows a couple who find themselves in a hit and run situation,...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

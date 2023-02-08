@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Alegría, tristeza",
+  "url": "/subject/30418904/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2544301536.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046375/",
+      "name": "伊邦·科门扎纳 Ibón Cormenzana"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1046375/",
+      "name": "伊邦·科门扎纳 Ibón Cormenzana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398434/",
+      "name": "约尔迪·瓦列霍 Jordi Vallejo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343540/",
+      "name": "罗伯托·阿拉莫 Roberto Álamo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014409/",
+      "name": "曼努埃拉·贝列斯 Manuela Vellés"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385274/",
+      "name": "克劳蒂亚·普莱瑟 Claudia Placer"
+    }
+  ]
+,
+  "datePublished": "2018-11-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

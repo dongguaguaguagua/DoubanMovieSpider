@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "教堂 The Church",
+  "url": "/subject/25721154/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2389460531.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1242835/",
+      "name": "阿什利 C.威廉姆斯 Ashley C. Williams"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H27M",
+  "description": "After a Pastor and select members of his congregation agree to sell his family&#39;s 100-year-old church...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

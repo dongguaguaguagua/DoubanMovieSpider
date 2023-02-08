@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Aandavan Kattalai",
+  "url": "/subject/27147479/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2499620493.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377624/",
+      "name": "M·马尼康丹 M. Manikandan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377624/",
+      "name": "M·马尼康丹 M. Manikandan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339193/",
+      "name": "维杰·西图帕提 Vijay Sethupathi"
+    }
+  ]
+,
+  "datePublished": "2016-09-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H33M",
+  "description": "Gandhi and Pandi decided to get a passport and travel to London to get rid of debts in their village...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

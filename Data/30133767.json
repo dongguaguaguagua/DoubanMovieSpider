@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我被青春闪了腰",
+  "url": "/subject/30133767/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512243988.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411462/",
+      "name": "李振飞 Zhenfei Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463538/",
+      "name": "张婉芳 Wanfang Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-02-01",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H6M",
+  "description": "李建兴监制，李建兴影视工作室出品，浙江东阳五元大有文化传播有限公司独家发行，杜娇、孙夕梦任编剧，张婉芳、赵宇、孙夕梦、汤亚男领衔主演的校园爱情电影",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

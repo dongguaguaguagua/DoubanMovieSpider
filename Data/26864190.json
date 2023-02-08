@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "2珍妮佛 2.Jennifer",
+  "url": "/subject/26864190/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2377079074.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199549/",
+      "name": "亨特·约翰逊 Hunter Johnson"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407655/",
+      "name": "查尔斯·丘达巴拉 Charles Chudabala"
+    }
+  ]
+,
+  "datePublished": "2016-06-03",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Two filmmakers attempt to make the perfect sequel to &#34;To Jennifer|&#34; however a dark secret threatens ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

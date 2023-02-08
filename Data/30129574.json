@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地狱酒吧 Inferninho",
+  "url": "/subject/30129574/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2511807486.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425618/",
+      "name": "Pedro Diogenes Pedro Diogenes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272910/",
+      "name": " Guto Parente"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H22M",
+  "description": "In a bar called Inferninho, the staff dream of escape. A handsome sailor with a dream of finding hom...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "153",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

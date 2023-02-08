@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "家在兰若寺 家在蘭若寺",
+  "url": "/subject/27091250/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497924259.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054505/",
+      "name": "蔡明亮 Ming-liang Tsai"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054505/",
+      "name": "蔡明亮 Ming-liang Tsai"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289683/",
+      "name": "李康生 Kang-sheng Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011213/",
+      "name": "尹馨 Ivy Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290389/",
+      "name": "陆弈静 Yi-Ching Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280579/",
+      "name": "陈湘琪 Shiang-chyi Chen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT0H56M",
+  "description": "【家在蘭若寺】華語首部VR電影！蔡明亮導演，李康生主演。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "784",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

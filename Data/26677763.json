@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "干涉 The Intervention",
+  "url": "/subject/26677763/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2376334445.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027191/",
+      "name": "克里·杜瓦尔 Clea DuVall"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027191/",
+      "name": "克里·杜瓦尔 Clea DuVall"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044729/",
+      "name": "梅兰妮·林斯基 Melanie Lynskey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000018/",
+      "name": "寇碧·史莫德斯 Cobie Smulders"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000021/",
+      "name": "阿莉雅·肖卡特 Alia Shawkat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027191/",
+      "name": "克里·杜瓦尔 Clea DuVall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000096/",
+      "name": "娜塔莎·雷昂 Natasha Lyonne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314604/",
+      "name": "本·施瓦茨 Ben Schwartz"
+    }
+  ]
+,
+  "datePublished": "2016-08-26",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "A weekend getaway for four couples takes a sharp turn when one of the couples discovers the entire t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "223",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

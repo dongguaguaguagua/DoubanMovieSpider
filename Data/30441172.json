@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一起走過的日子",
+  "url": "/subject/30441172/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274764/",
+      "name": "吴卓羲 Ron Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314143/",
+      "name": "艾威 Wei Ai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349293/",
+      "name": "林熹瞳 Rachel Lam"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "電影劇情是一部勵志愛情故事，講述男女主角兩人因一次交通意外，女方失去記憶，男方因此有預知未來能力。吳卓羲表示：「我哋呢套係一部愛情至上，又好凄美又浪漫嘅愛情片，男女之間又唔係牽涉床上戲嘅，溫馨鏡頭嘅床...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

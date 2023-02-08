@@ -1,0 +1,38 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "PriPara The Movie 2017",
+  "url": "/subject/30210207/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2612958243.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422146/",
+      "name": "粕谷雄太 Kasuya Yuuta"
+    }
+  ]
+,
+  "datePublished": "2017-07-20",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT0H58M",
+  "description": "藉由星光樂園的太陽系行星之旅，將星光樂園的美好推廣給大家！」
+接受了這個任務的菈菈一行人，搭上了「星史克伯萊號」巡迴在各個行星時，一群奇妙的星宙人前來迎接。
+但是不論到哪個行星，任務都不簡單，有點棘手...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

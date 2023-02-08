@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Almosting It",
+  "url": "/subject/27197430/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505172261.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108557/",
+      "name": "特利·奇瑟 Terry Kiser"
+    }
+  ]
+,
+  "datePublished": "2016-05-03",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

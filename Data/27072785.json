@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑暗崛起 Darkness Rising",
+  "url": "/subject/27072785/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2630386237.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318939/",
+      "name": "卡特丽娜·洛 Katrina Law"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000197/",
+      "name": "拜斯·约翰逊 Bryce Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1117787/",
+      "name": "希瑟·马祖尔 Heather Mazur"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163748/",
+      "name": "迈克·沃特福德 Myk Watford"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393178/",
+      "name": "克里斯蒂安·加尼埃 Christian Ganiere"
+    }
+  ]
+,
+  "datePublished": "2017-06-30",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H21M",
+  "description": "Nearly murdered as a child by her mother, a woman (Katrina Law) returns to the house where her mom w...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "248",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

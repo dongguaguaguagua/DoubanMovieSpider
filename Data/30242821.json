@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "虎年 Jahr des Tigers",
+  "url": "/subject/30242821/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2527439272.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396946/",
+      "name": "托尔·伊本 Tor Iben"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396946/",
+      "name": "托尔·伊本 Tor Iben"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396944/",
+      "name": "朱利安·利克特 Julien Lickert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426878/",
+      "name": "Alexander Tsypilev Alexander Tsypilev"
+    }
+  ]
+,
+  "datePublished": "2017-10-27",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u540c\u6027"],
+  "duration": "PT1H25M",
+  "description": "Tom在一次和朋友的行窃时爱上了住在公寓的历史讲师Lars，之后Tom开始秘密关注Lars的一举一动，甚至偷偷溜进对方的公寓寻找Lars的味道。与此同时，一位神秘摩托车手的出现让Tom陷入了情欲的迷宫...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "383",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

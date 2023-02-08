@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死于独特 Murdered for Being Different",
+  "url": "/subject/27090211/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2588533864.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306802/",
+      "name": "保罗·安德鲁·威廉姆斯 Paul Andrew Williams"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378461/",
+      "name": "尼克·莱瑟 Nick Leather"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1233194/",
+      "name": "查内尔·克雷斯韦尔 Chanel Cresswell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316271/",
+      "name": "尼克·迈瑞莱格伦 Nico Mirallegro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378462/",
+      "name": "阿比盖尔·劳里 Abigail Lawrie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378463/",
+      "name": "刘易斯·布朗 Lewis Brown"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378465/",
+      "name": "多米尼克·卡特 Dominic Carter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378466/",
+      "name": "阿米莉亚·克拉克 Amelia Clarke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303534/",
+      "name": "克里斯·乔奇 Chris Coghill"
+    }
+  ]
+,
+  "datePublished": "2017-06-18",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H1M",
+  "description": "BBC电视电影，本片根据真实故事改编，剧情基于大量事实，并得到了当事人及其亲属的合作与支持，尽力还原了整个事件。
+2007年八月，Sophie Lancaster和男友Robert Maltby在公园...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3805",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.9"
+  }
+}

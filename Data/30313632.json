@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "勇闯大都市 Maanagaram",
+  "url": "/subject/30313632/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2532693323.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428390/",
+      "name": "桑迪普·基尚 Sundeep Kishan"
+    }
+  ]
+,
+  "datePublished": "2017-03-10",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT2H17M",
+  "description": "A City based thriller that travels on the Hyperlink plot connecting the four youngsters from the dif...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

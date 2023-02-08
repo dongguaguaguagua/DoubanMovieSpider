@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灰熊 The Grizzlies",
+  "url": "/subject/26990839/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2561272601.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023167/",
+      "name": "米兰达·德·彭西尔 Miranda de Pencier"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331467/",
+      "name": "莫伊拉·沃利-贝克特 Moira Walley-Beckett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322426/",
+      "name": "格雷厄姆·约斯特 Graham Yost"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335298/",
+      "name": "本·施耐泽 Ben Schnetzer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010753/",
+      "name": "坦图·卡丁诺 Tantoo Cardinal"
+    }
+  ]
+,
+  "datePublished": "2018-09-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "Tells the true story of high school teacher Russ Sheppard, who arrived in a struggling Arctic commun...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

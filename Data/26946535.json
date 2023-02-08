@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "逆境王牌",
+  "url": "/subject/26946535/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2457308906.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381542/",
+      "name": "弓子 FAN"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381542/",
+      "name": "弓子 FAN"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312271/",
+      "name": "巫刚 Gang Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274736/",
+      "name": "吴军 Jun Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274449/",
+      "name": "许绍雄 Siu-Hung Hui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1152997/",
+      "name": "邵美琪 Maggie Siu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015186/",
+      "name": "孔琳 Lin Kong"
+    }
+  ]
+,
+  "datePublished": "2017-04-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "影片是以真实事迹为依据的励志作品，是中国唯一一部化工背景的影片",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

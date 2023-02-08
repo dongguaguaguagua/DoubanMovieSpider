@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "双面人 Iru Mugan",
+  "url": "/subject/26913173/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2401397168.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1188888/",
+      "name": "维克拉姆 Chiyaan Vikram"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195838/",
+      "name": "纳彦塔拉 Nayanthara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359669/",
+      "name": "内森·梅农 Nithya Menen"
+    }
+  ]
+,
+  "datePublished": "2016-09-08",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "PT2H27M",
+  "description": "平静的印度驻马来西亚大使馆，人们在办理着各种业务，这时走进一位70多岁的老人，拿着治疗哮喘病的吸入器深吸一口，忽然瞳孔扩张，如猛虎下山，刚猛无俦，杀掉了20名荷枪实弹的印度军人后倒地毙命。在调查过程中...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "215",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

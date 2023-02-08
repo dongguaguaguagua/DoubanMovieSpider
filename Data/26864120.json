@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "危情密友",
+  "url": "/subject/26864120/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2376919108.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359745/",
+      "name": "朴成镇 Chengzhen Piao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318844/",
+      "name": "武艺 Philip Lau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315185/",
+      "name": "王啸坤 Xiaokun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423968/",
+      "name": "王靓雅 Jingya Wang"
+    }
+  ]
+,
+  "datePublished": "2016-08-26",
+  "genre": ["\u7231\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT0H59M",
+  "description": "小说家宁小艾（郑雪 饰）为完成新作品，入住了莫名价廉的乡间木屋。房东提醒小艾不要跟室友凌兰（王靓雅 饰）有太多来往。而凌兰正如小艾笔下的女主角一样，优雅貌美，精致神秘，小艾开始把和凌兰的生活写在小说里...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

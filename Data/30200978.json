@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "漫长阴影 Alles Isy",
+  "url": "/subject/30200978/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534624410.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303500/",
+      "name": "马克·蒙海姆 Mark Monheim"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303500/",
+      "name": "马克·蒙海姆 Mark Monheim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309782/",
+      "name": "Max Eipp Max Eipp"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118822/",
+      "name": "克劳迪亚·米歇尔森 Claudia Michelsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391566/",
+      "name": "米开朗基罗·福尔图齐 Michelangelo Fortuzzi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410463/",
+      "name": "米莲娜·柴特克 Milena Tscharntke"
+    }
+  ]
+,
+  "datePublished": "2018-07-04",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "A group of teenagers is involved in a rape. As offenders, accomplices and victims. The crime seems t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "109",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

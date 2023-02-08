@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卢娜 Luna",
+  "url": "/subject/27621583/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2524521244.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385421/",
+      "name": "丽莎·维卡里 Lisa Vicari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018786/",
+      "name": "卡罗·柳别克 Carlo Ljubek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1208904/",
+      "name": "布兰科·托莫维奇 Branko Tomovic"
+    }
+  ]
+,
+  "datePublished": "2018-02-15",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "",
+  "description": "When Luna&#39;s family is killed in cold blood on a mountain vacation, she barely escapes, and has to di...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "317",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

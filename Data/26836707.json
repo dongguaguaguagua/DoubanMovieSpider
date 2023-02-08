@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "施毒天使 Fleur de tonnerre",
+  "url": "/subject/26836707/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2398689338.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391446/",
+      "name": "斯黛法妮·皮隆卡 Stéphanie Pillonca"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391446/",
+      "name": "斯黛法妮·皮隆卡 Stéphanie Pillonca"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303251/",
+      "name": "古斯塔弗·科文 Gustave Kervern"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018225/",
+      "name": "黛博拉·弗朗索瓦 Déborah François"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005370/",
+      "name": "班哲明·比欧雷 Benjamin Biolay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009769/",
+      "name": "乔纳森·扎凯 Jonathan Zaccaï"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031196/",
+      "name": "费奥多尔·阿特金 Féodor Atkine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410740/",
+      "name": "约翰·西希尔 John Sehil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391446/",
+      "name": "斯黛法妮·皮隆卡 Stéphanie Pillonca"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467098/",
+      "name": "路易斯·唐瓦尔 Louis Donval"
+    }
+  ]
+,
+  "datePublished": "2016-08-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

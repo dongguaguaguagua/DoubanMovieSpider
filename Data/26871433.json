@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "动物园",
+  "url": "/subject/26871433/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2381770615.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361838/",
+      "name": "葛宁宁 Ningning Ge"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361838/",
+      "name": "葛宁宁 Ningning Ge"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361838/",
+      "name": "葛宁宁 Ningning Ge"
+    }
+  ]
+,
+  "datePublished": "2016-05-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H0M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "指尖的宇宙 爪先の宇宙",
+  "url": "/subject/27094902/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502308640.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367965/",
+      "name": "谷内田彰久 Akihisa Yachida"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322016/",
+      "name": "中野裕太 Yuta Nakano "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362995/",
+      "name": "北村谅 Ryo Kitamura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364342/",
+      "name": "加村真美 Mami Kamura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353252/",
+      "name": "美沙玲奈 Reina Visa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048640/",
+      "name": "名冢佳织 Kaori Nazuka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353581/",
+      "name": "广濑智纪 Tomoki Hirose"
+    }
+  ]
+,
+  "datePublished": "2017-11-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H7M",
+  "description": "《指尖的宇宙》是主要围绕一个孤僻女生吉河亚纪而展开的成长故事。主演名单如下：曾演唱过《柔らかな物体》的桐嶋ノドカ将饰演女主角吉河亚纪，曾出演《飙速宅男》舞台剧的北村谅将饰演男主角宽治，因酷似桥本环奈而...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "69",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

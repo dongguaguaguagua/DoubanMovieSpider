@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "驱逐",
+  "url": "/subject/26946592/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2411856308.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390222/",
+      "name": "韩涛 Tao Han"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390222/",
+      "name": "韩涛 Tao Han"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340479/",
+      "name": "刘一麟 Yilin Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357514/",
+      "name": "吴修玲 Xiuling Wu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H11M",
+  "description": "2045年．世界格局的改变，边境全面封锁。经济崩溃，通货膨胀严重，人们回到了以物易物的状态，中国北方一部分地区每年初冬都会下一场红色的雪，人和动物如果长期皮肤接触，就会失去生育能力。这是冷战的第14个...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

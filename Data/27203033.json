@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "孤高の叫び",
+  "url": "/subject/27203033/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2510289273.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012863/",
+      "name": "增本庄一郎 Shôichirô Masumoto"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024830/",
+      "name": "前田耕阳 Koyo Maeda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033713/",
+      "name": "村田雄浩 Takehiro Murata"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012727/",
+      "name": "板尾创路 Itsuji Itao"
+    }
+  ]
+,
+  "datePublished": "2018-01-25",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT1H10M",
+  "description": "互いに孤独な過去を持つ二人の男、工藤仁と赤石竜司。二人は、時任繁を組長とする鷲州組の「仁竜一派」として、平和協定を無視して他所のシマを荒らし、好き勝手しのぎを行っていた。平和協定を結んだヤクザ組織を統...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

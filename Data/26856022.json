@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Game Day",
+  "url": "/subject/26856022/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2674261427.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164869/",
+      "name": "罗梅罗·米勒 Romeo Miller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335123/",
+      "name": "伊丽莎白·奥尔德弗 Elizabeth Alderfer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000300/",
+      "name": "丽萨·赞恩 Lisa Zane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050080/",
+      "name": "克里斯·约翰逊 Chris Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088707/",
+      "name": "皮波士·芬克尔 Fyvush Finkel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391092/",
+      "name": "杰罗德·海恩斯 Jerod Haynes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1256409/",
+      "name": "豪威·约翰逊 Howie Johnson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H41M",
+  "description": "GAME DAY is a dramedy about Ricki, a self-centered, female tech entrepreneur who must bounce back fr...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

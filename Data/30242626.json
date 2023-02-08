@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血船 Blood Vessel",
+  "url": "/subject/30242626/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2609223770.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029567/",
+      "name": "贾斯汀·迪克斯 Justin Dix"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029567/",
+      "name": "贾斯汀·迪克斯 Justin Dix"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1241718/",
+      "name": " Jordan Prosser"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340334/",
+      "name": "阿丽莎·萨瑟兰 Alyssa Sutherland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324622/",
+      "name": "罗伯特·泰勒 Robert Taylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294467/",
+      "name": "内森·菲利普斯 Nathan Phillips"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319984/",
+      "name": "克里斯托弗·卡比 Christopher Kirby"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260294/",
+      "name": "史蒂夫·扬 Steve Young"
+    }
+  ]
+,
+  "datePublished": "2019-09-14",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H35M",
+  "description": "讲述二战时期的1945年，一群人在北大西洋上遇险漂流，遇到一艘希特勒部队的大船，原船员们都已血腥、离奇地死去，这群幸存者很快发现了原因：船上存放的古老棺材里，有嗜血的存在苏醒了。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "500",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "摇滚收音机 Radio Dreams",
+  "url": "/subject/26702055/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2870082791.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382706/",
+      "name": "巴巴克·贾拉利 Babak Jalali"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382706/",
+      "name": "巴巴克·贾拉利 Babak Jalali"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110549/",
+      "name": "拉里·莱弗蒂 Larry Laverty"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u97f3\u4e50"],
+  "duration": "PT1H33M",
+  "description": "一个才华横溢却饱受误解的伊朗作家，正努力实现他的梦想：让metallica和kabul dreams 成为阿富汗的第一支摇滚乐队的故事",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "94",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

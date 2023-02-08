@@ -1,0 +1,55 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猫咪咖啡厅 猫カフェ",
+  "url": "/subject/30309258/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2539258655.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349284/",
+      "name": "久保由利香 Yurika Kubo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342481/",
+      "name": "新井爱瞳 Manami Arai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000031/",
+      "name": "池内万作 Mansaku Ikeuchi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373033/",
+      "name": "小仓优香 Yuka Ogura"
+    }
+  ]
+,
+  "datePublished": "2018-10-18",
+  "genre": [],
+  "duration": "PT1H30M",
+  "description": "猫に囲まれながらお客様の相談に乗り、笑顔になってもらうという少し変わった場所があります――。
+主人公・桜木さくら（久保ユリカ）は、秋葉原にある猫カフェ『MOCHA（モカ）』で働いている。そこには、様々...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "340",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

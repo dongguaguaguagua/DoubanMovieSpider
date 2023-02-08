@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "商战街 Baazaar",
+  "url": "/subject/27133051/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2537860716.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394592/",
+      "name": "Aseem Arora Aseem Arora"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-10-26",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT2H17M",
+  "description": "这是一部关于股票交易的影片，处处流露着金钱和欲望，一个草根凤凰男逆袭的故事。男主出生并成长在印度的一个小山村里。男主一心梦想前往孟买，去为自己的偶像（一位金融大鳄）去打工。金融大鳄亦是贫寒出身但却成功...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "480",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

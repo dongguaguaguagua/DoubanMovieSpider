@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "喋血特攻",
+  "url": "/subject/27617280/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314262/",
+      "name": "梁俊一 Anson Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338932/",
+      "name": "章小军 Xiaojun Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "出品人/艺术总监吴凌霖、出品人马雄伟、出品人/总制片艾伦携联合出品人徐爱名",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

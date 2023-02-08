@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "舌魔",
+  "url": "/subject/30210249/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322450/",
+      "name": "王连平 Lianping Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317150/",
+      "name": "李彦明 Yanming Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391929/",
+      "name": "麻家铭 Jiaming Ma"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "《舌魔》是一部青春悬疑影片，主要讲述了一帮青春正盛的大学生在一次郊游中，入住在一家偏远的小旅馆之后，发生了一系列诡异、惊悚的灵异事件。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

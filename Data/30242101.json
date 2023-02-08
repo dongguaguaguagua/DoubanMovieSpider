@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "搏击少年",
+  "url": "/subject/30242101/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2524185329.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326592/",
+      "name": "韩旭 Xu Han"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363146/",
+      "name": "蒋林伶 Linli Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379121/",
+      "name": "傅晓 Xiao Fu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397043/",
+      "name": "李宁 Ning Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415289/",
+      "name": "龚子棋 Russell"
+    }
+  ]
+,
+  "datePublished": "2018-06-15",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H15M",
+  "description": "影片由芒果娱乐、优酷联合出品，故事讲述了，原本的不良少年高灿（龚子琪饰），在高考失败后，偶遇心中女神，毅然决然的进入一个陌生的世界。朦胧的爱情、热血的格斗，一次次的成长和蜕变，让他在梦想与青春面前他奋...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

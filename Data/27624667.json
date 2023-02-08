@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "紫禁秘录",
+  "url": "/subject/27624667/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2562106902.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391174/",
+      "name": "徐飞 Fei Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391175/",
+      "name": "游千惠 Qianhui You"
+    }
+  ]
+,
+  "datePublished": "2019-07-07",
+  "genre": ["\u7231\u60c5", "\u60ac\u7591", "\u53e4\u88c5"],
+  "duration": "PT1H36M",
+  "description": "宫廷宴会上一个离奇死亡的宫女和多个不断被发现的死因不明肚子高高隆起的宫女尸体引发悬念。皇家丑闻不断爆发，皇帝大怒。随着案件的深入调查，引发了一系列惊心动魄、出人意料又环环相扣的故事。容妃，静妃与皇后这...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "356",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.2"
+  }
+}

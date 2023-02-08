@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Lord Jones Is Dead",
+  "url": "/subject/26849732/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2371582936.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1188301/",
+      "name": "Austin Andrews Austin Andrews"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1177561/",
+      "name": "马修·克莱菲尔德 Matthew Clayfield"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342882/",
+      "name": "丹尼尔·詹克斯 Daniel Janks"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324906/",
+      "name": "查德·克罗彻克 Chad Krowchuk"
+    }
+  ]
+,
+  "datePublished": "2016-07-21",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H23M",
+  "description": "Two journalists from rival newspapers, The Daily Herald and The National, wait outside a suburban ho...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

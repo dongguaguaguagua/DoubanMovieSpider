@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Culling Hens",
+  "url": "/subject/6875942/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1248936900.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001666/",
+      "name": "Christopher Jarvis Christopher Jarvis"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001666/",
+      "name": "Christopher Jarvis Christopher Jarvis"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280748/",
+      "name": "斯坦因·费舍尔·克里斯滕森 Stine Fischer Christensen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027220/",
+      "name": "汤姆·盖里 Tom Guiry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040555/",
+      "name": "希瑟·玛塔拉佐 Heather Matarazzo"
+    }
+  ]
+,
+  "datePublished": "2016-11-01",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "",
+  "description": "The uneducated and credulous wife of a plowman works beside her husband in the fields. Whether by me...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

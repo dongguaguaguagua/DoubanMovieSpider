@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的野蛮室友",
+  "url": "/subject/27081612/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2497520461.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418580/",
+      "name": "意紫 Zi Yi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434636/",
+      "name": "张小溪 Xiaoxi Zhang"
+    }
+  ]
+,
+  "datePublished": "2017-06-28",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "民谣歌手小武，在酒吧唱歌结识了白富美玛丽，两人十分投缘。 小武家，前来寻找男友的刘思涵，发现一直与小武合租的男友不仅早已搬走，还被男友打电话分手……思涵想不通，决定留在这里，让小武帮自己追回男友。 玛...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

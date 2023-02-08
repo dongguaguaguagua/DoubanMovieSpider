@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "男孩电影18：我的英雄 Boys on Film 18: Heroes",
+  "url": "/subject/30211016/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521032960.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260772/",
+      "name": "尼尔斯·布尔贡杰 Niels Bourgonje"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306974/",
+      "name": "霍普·迪金森·利奇 Hope Dickson Leach"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333445/",
+      "name": "维克多·林格伦 Victor Lindgren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359906/",
+      "name": "凯·斯泰尼克 Kai Stänicke"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319194/",
+      "name": "亨利·加勒特 Henry Garrett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357187/",
+      "name": "乔什·奥康纳 Josh O&#39;Connor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410112/",
+      "name": "雅各布·奥滕斯滕 Jacob Ottensten"
+    }
+  ]
+,
+  "datePublished": "2018-04-18",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT2H13M",
+  "description": "BOYS ON FILM comes of age with ten uplifting and powerful tales recounting the lives of everyday her...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天堂海岸 Paradise beach",
+  "url": "/subject/30173637/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2547189908.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037891/",
+      "name": "格扎维埃·杜兰热 Xavier Durringer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037891/",
+      "name": "格扎维埃·杜兰热 Xavier Durringer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314664/",
+      "name": "雨果·贝克 Hugo Becker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014363/",
+      "name": "哈勃·孔黛 Hubert Koundé"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045427/",
+      "name": "塞米·鲍亚吉拉 Sami Bouajila"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041372/",
+      "name": "梅拉妮·杜泰 Mélanie Doutey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329952/",
+      "name": "陶菲克·杰拉巴 Tewfik Jallab"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341716/",
+      "name": "弗洛尔·博纳文图拉 Flore Bonaventura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1145031/",
+      "name": "布鲁诺·洛普斯 Kool Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1464430/",
+      "name": "卡恩皮彻尔·凯特玛妮 Karnpitchar Ketmanee"
+    }
+  ]
+,
+  "datePublished": "2019-02-20",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT1H33M",
+  "description": "从监狱里出来后，梅迪打算清算旧账。但首先，他必须与他的帮派恢复联系，而那群人正悠闲地住在一处优美的泰国海滨度假村。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "178",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.1"
+  }
+}

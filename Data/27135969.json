@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "派对落幕 La fête est finie",
+  "url": "/subject/27135969/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2514683231.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329955/",
+      "name": "玛丽·德纳尔诺 Marie Denarnaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354321/",
+      "name": "琪塔·昂赫 Zita Hanrot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399992/",
+      "name": "贝希·贾纳蒂·阿泰 Behi Djanati Atai"
+    }
+  ]
+,
+  "datePublished": "2018-02-28",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "19-year-old Celeste and 26-year-old Sihem, both heroin addicts, are admitted to a rehab clinic the s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

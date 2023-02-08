@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "因为爱情",
+  "url": "/subject/26301563/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2221733538.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349562/",
+      "name": "杜泓达 Hongda Du"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349562/",
+      "name": "杜泓达 Hongda Du"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417702/",
+      "name": "马钦承 Qincheng Ma"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "微电影《因为爱情》，是第一部关注中国私人伴游的影片，讲述了从一生到一世最近的爱情。它让我们记住了一句话:&#34;真相永远比真理令人惨痛。男主角为了女主角,什么都愿意做,哪怕是去做“伴游”，然而结局总是出乎我...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

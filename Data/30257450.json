@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "这是我们的房子 This Is Our Home",
+  "url": "/subject/30257450/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2549923890.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427573/",
+      "name": "欧姆里·多拉尼 Omri Dorani"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-03-19",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A struggling couple&#39;s weekend getaway goes awry when a child arrives in the middle of the night clai...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

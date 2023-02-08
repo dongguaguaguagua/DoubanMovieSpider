@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "北京往事",
+  "url": "/subject/26914402/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2401114763.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475881/",
+      "name": "廖美露 Meilu Liao"
+    }
+  ]
+,
+  "datePublished": "2016-11-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H3M",
+  "description": "1997年，北京，这一年小巴依18岁，默默无闻的在北京一所高中读高三，他家境贫寒，从小父母双亡，是奶奶把他拉扯大。小巴依在学校时常遭到社会上小痞子的骚扰，当地有名顽主吕布就经常劫他钱。直到有一天，学校...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

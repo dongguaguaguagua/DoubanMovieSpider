@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Sickhouse",
+  "url": "/subject/26808840/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2406584724.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418564/",
+      "name": "卢卡斯·盖奇 Lukas Gage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420689/",
+      "name": "莱恩·尼尔 Laine Neil"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "A group of teenagers film a live documentary on the Sickhouse legend to millions around the world.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

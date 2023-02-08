@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "诱人的魔鬼 Que Le Diable Nous Emporte",
+  "url": "/subject/26954361/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2510366324.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009695/",
+      "name": "让-克洛德·布里索 Jean-Claude Brisseau"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009695/",
+      "name": "让-克洛德·布里索 Jean-Claude Brisseau"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422138/",
+      "name": "伊莎贝拉·普里姆 Isabelle Prim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014730/",
+      "name": "法比恩·巴布 Fabienne Babe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366078/",
+      "name": "安娜·西加勒维奇 Anna Sigalevitch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003530/",
+      "name": "让-克里斯托夫·布维 Jean-Christophe Bouvet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009695/",
+      "name": "让-克洛德·布里索 Jean-Claude Brisseau"
+    }
+  ]
+,
+  "datePublished": "2018-01-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "一个圣洁的女人克拉拉，在Tonton的帮助下，带领着三个新认识的人踏上了自我发现之旅。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "92",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三界奇侠传",
+  "url": "/subject/26904026/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2550499392.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343945/",
+      "name": "焦洋 Stephen Jiao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401833/",
+      "name": "陈泳旭 Yongxu Chen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349114/",
+      "name": "彭禺厶 Yusi Peng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355105/",
+      "name": "朱佳希 Jiaxi Zhu"
+    }
+  ]
+,
+  "datePublished": "2016-10-29",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b"],
+  "duration": "PT1H13M",
+  "description": "现实生活中的三个游戏玩家神奇般地穿越到了手游“神武”的世界中，并分别化身为人族、仙族、魔族的游戏主角剑侠客、凌霜月、白无忧。三位玩家虽然每天面对着游戏的画面，但当自己化身为活生生的游戏主角后，一时间还...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

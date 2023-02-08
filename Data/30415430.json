@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "午夜帮 The Midnight Gang",
+  "url": "/subject/30415430/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2543841063.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286354/",
+      "name": "埃利奥特·赫加蒂 Elliot Hegarty"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342870/",
+      "name": "凯文·塞西尔 Kevin Cecil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025261/",
+      "name": "大卫·威廉姆斯 David Walliams"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032170/",
+      "name": "艾伦·戴维斯 Alan Davies"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404562/",
+      "name": "奥利弗·泽特斯特姆 Oliver Zetterström"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342058/",
+      "name": "阿米特·沙阿 Amit Shah"
+    }
+  ]
+,
+  "datePublished": "2018-12-26",
+  "genre": ["\u559c\u5267", "\u5bb6\u5ead", "\u513f\u7ae5"],
+  "duration": "PT1H3M",
+  "description": "讲述一个少年受伤住院后，展开了一趟奇妙的冒险旅程。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "164",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

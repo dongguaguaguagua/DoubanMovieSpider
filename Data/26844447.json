@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小妞万万岁",
+  "url": "/subject/26844447/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312781/",
+      "name": "程孝泽 Hsiao-tse Cheng"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "和和影业公布的“和动力”片单计划近30部作品之一。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

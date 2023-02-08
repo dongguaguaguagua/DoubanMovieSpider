@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "滚动十字架 Raoul Taburin",
+  "url": "/subject/30218761/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550473859.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414332/",
+      "name": "皮埃尔·戈多 Pierre Godeau"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289511/",
+      "name": "纪尧姆·洛朗 Guillaume Laurant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414332/",
+      "name": "皮埃尔·戈多 Pierre Godeau"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050088/",
+      "name": "伯努瓦·波尔沃德 Benoît Poelvoorde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482134/",
+      "name": "玛丽露·奥西欧 Marilou Aussilloux"
+    }
+  ]
+,
+  "datePublished": "2018-10-03",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H29M",
+  "description": "在法国南部的小村庄圣塞隆，说起自行车的话，没有比卖自行车的拉乌更懂行的人。然而，拉乌其实有个小秘密：他必须使用辅助工具，才能勉强在自行车上保持平衡。从小到大，他都想要迈过这个难关，但一直没有成功。他也...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

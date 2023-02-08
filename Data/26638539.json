@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "差不多的朋友 Almost Friends",
+  "url": "/subject/26638539/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505162313.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047892/",
+      "name": "杰克·哥德博尔格 Jake Goldberger"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047892/",
+      "name": "杰克·哥德博尔格 Jake Goldberger"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016672/",
+      "name": "弗莱迪·海默 Freddie Highmore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325214/",
+      "name": "奥德娅·拉什 Odeya Rush"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000052/",
+      "name": "克里斯托弗·米洛尼 Christopher Meloni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025137/",
+      "name": "海利·乔·奥斯蒙 Haley Joel Osment"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040561/",
+      "name": "杰克·阿贝尔 Jake Abel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339955/",
+      "name": "丽塔·沃尔克 Rita Volk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040559/",
+      "name": "玛格·海根柏格 Marg Helgenberger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349152/",
+      "name": "泰勒·约翰·史密斯 Taylor John Smith"
+    }
+  ]
+,
+  "datePublished": "2016-10-14",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H41M",
+  "description": "本片是由杰克·哥德博尔格执导并担任编剧，弗莱迪·海默、奥德娅·拉什和克里斯托弗·米洛尼等人出演的喜剧片。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "652",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

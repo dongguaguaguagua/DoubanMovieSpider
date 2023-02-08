@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猪 خوک",
+  "url": "/subject/27668220/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2513322775.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310189/",
+      "name": "曼尼·夏希希 Mani Haghighi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310189/",
+      "name": "曼尼·夏希希 Mani Haghighi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286212/",
+      "name": "蕾拉·哈塔米 Leila Hatami"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358592/",
+      "name": "阿里·巴格利 Ali Bagheri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353817/",
+      "name": "Ainaz Azarhoush Ainaz Azarhoush"
+    }
+  ]
+,
+  "datePublished": "2018-02-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H48M",
+  "description": "一个多年被禁止拍片的导演哈桑面对着复杂的家庭和情感问题，当镇上的电影制作人被一个接一个地谋杀时，逃过一劫的哈桑却被视为嫌疑人，他只能凭自己的行动为自己赢回声誉。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "197",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

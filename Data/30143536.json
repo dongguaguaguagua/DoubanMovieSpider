@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Karuppuraja Vellairaja",
+  "url": "/subject/30143536/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388497/",
+      "name": "萨耶莎·赛加尔 Sayyeshaa Saigal"
+    }
+  ]
+,
+  "datePublished": "2018-01-26",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H56M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

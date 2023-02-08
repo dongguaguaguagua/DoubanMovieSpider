@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "轻松+愉快",
+  "url": "/subject/26335560/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2414682514.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315183/",
+      "name": "耿军 Jun Geng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315183/",
+      "name": "耿军 Jun Geng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370933/",
+      "name": "刘兵 Bing Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425760/",
+      "name": "冯宇华 Yuhua Feng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407563/",
+      "name": "徐刚 Gang Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280462/",
+      "name": "张志勇 Zhiyong Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407566/",
+      "name": "薛宝鹤 Baohe Xue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407564/",
+      "name": "张迅 Xun Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407565/",
+      "name": "袁利国 Liguo Yuan"
+    }
+  ]
+,
+  "datePublished": "2017-01-21",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H39M",
+  "description": "《轻松+愉快》虚构了一个荒诞的北方，群氓的家伙们在互相拥抱中厮杀，在称兄道弟的关系中互相关爱与猜疑，在互相点燃的希望中灰飞烟灭！
+电影里汇聚了忙碌破案的警察，忙碌骗钱的骗子，忙碌抓偷树贼的护林员，忙碌...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6994",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

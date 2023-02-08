@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "95",
+  "url": "/subject/27109315/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502680357.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042106/",
+      "name": "Aleksi Mäkelä Aleksi Mäkelä"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037016/",
+      "name": "弗里达·霍尔格伦 Frida Hallgren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1207636/",
+      "name": "劳拉·布林 Laura Birn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1106631/",
+      "name": "延斯·赫尔腾 Jens Hultén"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320668/",
+      "name": "劳瑞·提卡宁 Lauri Tilkanen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399660/",
+      "name": "亚里·维尔曼 Jari Virman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442168/",
+      "name": "卡塔莉娜·哈武凯宁 Katariina Havukainen"
+    }
+  ]
+,
+  "datePublished": "2017-12-25",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5386\u53f2"],
+  "duration": "",
+  "description": "Final weekend of the 1995 Ice Hockey World Championship Games in Helsinki and Stockholm",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

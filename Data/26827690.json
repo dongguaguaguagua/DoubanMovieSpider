@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "陈甘快跑",
+  "url": "/subject/26827690/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2363596451.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351376/",
+      "name": "谢悠 You Xie"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351376/",
+      "name": "谢悠 You Xie"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320749/",
+      "name": "沈建宏 Jianhong Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051459/",
+      "name": "周励淇 Niki Chow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330507/",
+      "name": "董晴 Qing Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367526/",
+      "name": "陈玺旭 Xixu Chen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "电影讲述了被现实困扰却坚持电影梦想的菜鸟导演陈甘的故事。他的梦想在现实中一次一次被虐，在富二代“阴谋”的促成下拍电影作品，并和两个女演员有了感情纠葛，陈甘从一个失败者华丽转身，是不是人生赢家仍是个迷。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

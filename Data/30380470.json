@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "苏格拉底 Socrates",
+  "url": "/subject/30380470/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2573210050.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404635/",
+      "name": "亚历山大·莫拉托 Alexandre Moratto"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404635/",
+      "name": "亚历山大·莫拉托 Alexandre Moratto"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404627/",
+      "name": "克里斯蒂安·马尔赫罗斯 Christian Malheiros"
+    }
+  ]
+,
+  "datePublished": "2018-09-21",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H11M",
+  "description": "母亲突然去世后，现年15岁的苏格拉底（Socrates）生活在圣保罗（SãoPaulo）沿海边缘，必须在独自度过难关的同时生存下来。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "364",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "武林群英传",
+  "url": "/subject/26701211/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2305075451.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320462/",
+      "name": "王紫潼 Zitong Wang"
+    }
+  ]
+,
+  "datePublished": "2016-01-05",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u6b66\u4fa0"],
+  "duration": "PT1H3M",
+  "description": "隐没了100年的“天魔利刃”在华山之巅重现江湖。据闻，此神兵利器不仅威力无穷，内中更是隐藏着一个不为人知的天大秘密。一时间，江湖上腥风血雨，不论是武林正道还是邪魔外道都加入了这场惨烈的夺宝大战中......",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "68",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.8"
+  }
+}

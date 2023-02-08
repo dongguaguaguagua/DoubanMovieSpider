@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "片甲不留",
+  "url": "/subject/26710412/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2310761325.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473338/",
+      "name": "郭伟伦 William Kwok "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332079/",
+      "name": "郑阔 Kuo Zheng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402293/",
+      "name": "缪艺豪 Yihao Miao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389001/",
+      "name": "袁丽 Li Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373574/",
+      "name": "马条 Tiao Ma"
+    }
+  ]
+,
+  "datePublished": "2016-01-17",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H35M",
+  "description": "唐平很多年一直堅持畫黑畫。所謂的“黑畫”就是在黑色的背景上用黑色的顏料作畫，所有完成的作品都是一個模樣。
+故事始於唐平所居住的畫家村被強行遷拆，他因阻礙執法而被治安拘留七天。他與妻女只好流徙到新的畫家...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

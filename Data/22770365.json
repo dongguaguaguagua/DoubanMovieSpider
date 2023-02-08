@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "六年 Six Years",
+  "url": "/subject/22770365/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1913246164.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319045/",
+      "name": "大卫·阿耶 David Ayer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014433/",
+      "name": "哈兰·科本 Harlan Coben"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5", "\u60ac\u7591"],
+  "duration": "",
+  "description": "大卫·阿耶将执导改编自哈兰·科本惊悚小说《六年》(Six Years，暂译)的影片。该项目由Netflix开发，阿耶同时负责剧本改编，并担任制片人。书名中的“六年”指的是男主角杰克·费舍尔，注视他的一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

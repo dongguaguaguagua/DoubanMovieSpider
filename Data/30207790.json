@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鹬 Bécassine",
+  "url": "/subject/30207790/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2523065254.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032984/",
+      "name": "布鲁诺·波达里德斯 Bruno Podalydès"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1128434/",
+      "name": "J.P. Pinchon J.P. Pinchon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032984/",
+      "name": "布鲁诺·波达里德斯 Bruno Podalydès"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005104/",
+      "name": "嘉莲·维雅 Karin Viard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002859/",
+      "name": "若西安·巴拉斯科 Josiane Balasko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048414/",
+      "name": "德尼·波达利德斯 Denis Podalydès"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300210/",
+      "name": "米歇尔·维耶尔莫 Michel Vuillermoz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343013/",
+      "name": "维玛拉·庞斯 Vimala Pons"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382424/",
+      "name": "伊莎贝尔·冈德列 Isabelle Candelier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379618/",
+      "name": "Jean-Noël Brouté Jean-Noël Brouté"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287072/",
+      "name": "菲利普·乌禅 Philippe Uchan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435139/",
+      "name": "埃米琳·巴亚尔特 Emeline Bayart"
+    }
+  ]
+,
+  "datePublished": "2018-06-20",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H31M",
+  "description": "Bécassine, a naive and clumsy farm girl, is hired as a nanny in a bourgeois family.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

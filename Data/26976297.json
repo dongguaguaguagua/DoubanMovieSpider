@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "另一端 Fala Comigo",
+  "url": "/subject/26976297/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509336686.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356579/",
+      "name": "费莉佩·舒尔 Felipe Sholl"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356579/",
+      "name": "费莉佩·舒尔 Felipe Sholl"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354652/",
+      "name": "卡林·特莱斯 Karine Teles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1081127/",
+      "name": "丹妮斯·弗拉加 Denise Fraga"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "Diogo (17) likes to make anonymous phone calls to his psychoanalyst mother’s patients. That’s how he...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

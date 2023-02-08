@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Obsidian Curse",
+  "url": "/subject/30337971/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2537944014.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400577/",
+      "name": "雷纳·佩雷斯 Rene Perez"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027536/",
+      "name": "雷吉·班尼斯特 Reggie Bannister"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007041/",
+      "name": "理查德·泰森 Richard Tyson"
+    }
+  ]
+,
+  "datePublished": "2016-12-01",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Blair Jensen, a young mother, get&#39;s released out of prison after being arrested on multiple drug cha...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "情人的眼泪",
+  "url": "/subject/26738298/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2322884099.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456336/",
+      "name": "刘君 Jun Liu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465634/",
+      "name": "王宏政 Hongzheng Wang"
+    }
+  ]
+,
+  "datePublished": "2016-02-22",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H2M",
+  "description": "台湾女孩诗诗，失恋后到美丽的霍尔果斯去旅游，希望能够走出阴影，但万万没有想到，情伤未愈，又不可救药的爱上了粗犷柔情的哈萨克族硬汉哈里，这一切如同梦境轮回，就像草原上军垦时代爱情一样，爱了就没有回头…",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

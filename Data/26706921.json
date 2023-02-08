@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "旅馆情雾 โรงแรมต่างดาว",
+  "url": "/subject/26706921/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2561185931.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306712/",
+      "name": "普拉布达·允 Prabda Yoon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306712/",
+      "name": "普拉布达·允 Prabda Yoon"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-01-30",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H45M",
+  "description": "Sopol, a typical Thai father-like figure with kinky and dangerous sexual fetishes, brings his new yo...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

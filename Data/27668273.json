@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "ヒロインスキャンダル セーラーゴージャス",
+  "url": "/subject/27668273/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2511522631.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387695/",
+      "name": "北川绘里香 Erika Kitagawa"
+    }
+  ]
+,
+  "datePublished": "2017-02-01",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "PT2H8M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

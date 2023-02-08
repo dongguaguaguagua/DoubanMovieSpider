@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Glare",
+  "url": "/subject/26286420/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2518121842.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390979/",
+      "name": "Montetré Montetré"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390979/",
+      "name": "Montetré Montetré"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054246/",
+      "name": "洛伊德·考夫曼 Lloyd Kaufman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390979/",
+      "name": "Montetré Montetré"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "A demigod and a hunter will team up to save a town from The Four, a family of vampires set to unleas...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

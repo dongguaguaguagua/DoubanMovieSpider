@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Uma Quase Dupla",
+  "url": "/subject/30312788/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2532635746.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371563/",
+      "name": "费尔南多·弗雷哈 Fernando Fraiha"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045395/",
+      "name": "卡瓦·雷蒙德 Cauã Reymond"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408133/",
+      "name": "塔塔·威尔尼克 Tatá Werneck"
+    }
+  ]
+,
+  "datePublished": "2018-07-19",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "Keyla the police officer and the unprepared detective Claudio could not be more incompatible. Howeve...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

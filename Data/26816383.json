@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "喜欢你",
+  "url": "/subject/26816383/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2455926001.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275501/",
+      "name": "许宏宇 Derek Hui"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359882/",
+      "name": "李媛 Yuan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330070/",
+      "name": "许伊萌 Yimeng Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372927/",
+      "name": "蓝白色 Lan Bai Se"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027883/",
+      "name": "金城武 Takeshi Kaneshiro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274224/",
+      "name": "周冬雨 Dongyu Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313842/",
+      "name": "孙艺洲 Yizhou Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337674/",
+      "name": "奚梦瑶 Ming Xi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051157/",
+      "name": "杨祐宁 Yo Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315239/",
+      "name": "张国柱 Kuo-Chu Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313094/",
+      "name": "高晓松 Xiaosong Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036839/",
+      "name": "林志玲 Chiling Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315474/",
+      "name": "赵英俊 Yingjun Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362793/",
+      "name": "权桐 Hai Tong"
+    }
+  ]
+,
+  "datePublished": "2017-04-08",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H46M",
+  "description": "一场意外让平凡的厨师顾胜男（周冬雨 饰）结识了霸道总裁路晋（金城武 饰）。之后，路晋入住了顾胜男所在的酒店，在并不知晓对方真实身份的情况下，顾胜男用一道“女巫汤”征服了路晋挑剔的味蕾，一位厨师和一位食...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "316990",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

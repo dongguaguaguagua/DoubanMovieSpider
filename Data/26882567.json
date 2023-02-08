@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夏威夷往事 Kuleana",
+  "url": "/subject/26882567/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2595890632.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040780/",
+      "name": "克里斯汀娜·安娜波 Kristina Anapau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322171/",
+      "name": "索尼娅·巴摩斯 Sonya Balmores"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307320/",
+      "name": "Stefan C. Schaefer Stefan C. Schaefer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025323/",
+      "name": "布兰斯康比·里奇蒙德 Branscombe Richmond"
+    }
+  ]
+,
+  "datePublished": "2017-05-05",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "A disabled Vietnam vet suspected of murder on Maui in 1971 must rediscover the Hawaiian warrior with...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

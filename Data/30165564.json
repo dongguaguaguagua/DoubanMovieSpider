@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿青，回家了",
+  "url": "/subject/30165564/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540822687.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307492/",
+      "name": "周美玲 Zero Chou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307492/",
+      "name": "周美玲 Zero Chou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320749/",
+      "name": "沈建宏 Jianhong Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275953/",
+      "name": "是元介 Jay Shin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372793/",
+      "name": "王琄 Chuan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365666/",
+      "name": "姚蜜 Fairy Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349407/",
+      "name": "孙绽 Sean Sun"
+    }
+  ]
+,
+  "datePublished": "2018-03-31",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "电影中沈建宏饰演的阿青是患有妥瑞症的少年，纵火杀人犯背上四条人命，另一位是在社会底层打拚、为了让弱势弟弟不被欺凌的哥哥阿骏（是元介饰）。是元介这次演出为了生活努力打拚的底层工人，不仅要顾自己，还把妥瑞...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,101 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一位著名的病人 Masaryk",
+  "url": "/subject/26952990/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2412135837.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308449/",
+      "name": "朱利斯·舍夫契克 Julius Sevcík"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1143398/",
+      "name": "卡瑞尔·罗登 Karel Roden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316102/",
+      "name": "雅丽·乔维尔 Arly Jover"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070924/",
+      "name": "德尔莫特·克劳利 Dermot Crowley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036920/",
+      "name": "保罗·尼古拉斯 Paul Nicholas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032413/",
+      "name": "伊娃·赫兹格瓦 Eva Herzigova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016662/",
+      "name": "汉斯·齐施勒 Hanns Zischler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127155/",
+      "name": "Stewart Moss Stewart Moss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165479/",
+      "name": "艾米丽娅·瓦萨约娃 Emília Vásáryová"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1131852/",
+      "name": "‎蒂姆·普雷斯‎ Tim Preece"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1104379/",
+      "name": "奥德里奇•凯瑟 Oldrich Kaiser"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1113623/",
+      "name": "祖扎娜·克罗内洛娃 Zuzana Kronerová"
+    }
+  ]
+,
+  "datePublished": "2017-03-10",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u5386\u53f2"],
+  "duration": "PT1H54M",
+  "description": "故事发生于1939年。在德国肆无忌惮地入侵捷克斯洛伐克之后，捷克外交官扬·马萨里克逃到了美国。信心和意志遭受严重打击的马萨里克躲进了一家精神病院，和活下去的意志作着斗争。在德国精神科专家施泰因医生的帮...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "157",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

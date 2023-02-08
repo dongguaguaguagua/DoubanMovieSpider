@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "情归昆仑",
+  "url": "/subject/26873823/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2509274173.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328741/",
+      "name": "钟海 Hai Zhong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342939/",
+      "name": "尹俭 Jian Yin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315908/",
+      "name": "郭家铭 Jiaming Guo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "影片讲述了大漠县援疆指挥长余恩华在工作中突发心脏病去世。他的同事江波送余恩华骨灰回家乡，却在机场遇到了余恩华的女儿宁宁，两人重返大漠县。在与援疆干部和当地群众的接触中，宁宁从父亲去世的阴影中走出，江波...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

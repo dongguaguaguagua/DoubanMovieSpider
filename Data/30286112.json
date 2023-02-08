@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乔纳斯 Jonas",
+  "url": "/subject/30286112/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2538157284.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407521/",
+      "name": "克里斯托夫·查理尔 Christophe Charrier"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407521/",
+      "name": "克里斯托夫·查理尔 Christophe Charrier"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385669/",
+      "name": "费利克斯·马利陶德 Félix Maritaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407522/",
+      "name": "尼古拉斯·鲍文斯 Nicolas Bauwens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407523/",
+      "name": "汤米·李·巴克 Tommy Lee Baïk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009613/",
+      "name": "奥雷·阿蒂卡 Aure Atika"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329955/",
+      "name": "玛丽·德纳尔诺 Marie Denarnaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350117/",
+      "name": "伊连·贝加拉 Ilian Bergala"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384894/",
+      "name": "戴维·鲍伊特 David Baïot"
+    }
+  ]
+,
+  "datePublished": "2018-09-13",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H22M",
+  "description": "1995年，Jonas是个躲在柜中的14岁男孩，他对英俊潇洒的同学Nathan一见钟情，尤其对Nathan桀骜不驯的一面又爱又怕。18年后，三十而立的Jonas已是风流倜傥的熟男，却仍在寻找人生平衡点...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5639",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

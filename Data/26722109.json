@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无尽的时间 Antes o Tempo Não Acabava",
+  "url": "/subject/26722109/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2319915137.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1220587/",
+      "name": "塞尔希奥·安德拉德 Sergio Andrade"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468598/",
+      "name": "凯伊·萨拉 Kay Sara"
+    }
+  ]
+,
+  "datePublished": "2016-02-13",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H25M",
+  "description": "Anderson is a young native Brazilian. In struggle with archaic traditions and the social and religio...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

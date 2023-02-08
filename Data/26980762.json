@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冲入无限 Corniche Kennedy",
+  "url": "/subject/26980762/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509554986.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040483/",
+      "name": "多米尼克·卡布雷 Dominique Cabrera"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040483/",
+      "name": "多米尼克·卡布雷 Dominique Cabrera"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195365/",
+      "name": "萝拉·克雷顿 Lola Créton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329898/",
+      "name": "爱伊莎·玛依卡 Aïssa Maïga"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "to be revised...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

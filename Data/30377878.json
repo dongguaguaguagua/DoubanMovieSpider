@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "隐秘家族",
+  "url": "/subject/30377878/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554397059.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414933/",
+      "name": "周天阳 Tianyang Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414933/",
+      "name": "周天阳 Tianyang Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-11-23",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H3M",
+  "description": "故事主人公金钟贤和易阳游昊时常会在学校里为同班女生淑芬吃醋，并常常因此进行各种杀马特式的比赛，可淑芬对此完全不感冒。学校的看门大爷一直在学校门口边吃蒜边吹箫，令所有人都不知其真实目的。故事的讲述者熊霸...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

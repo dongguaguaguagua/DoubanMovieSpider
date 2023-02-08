@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "北京国家大剧院歌剧演出现场版 这里的黎明静悄悄",
+  "url": "/subject/30194370/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2550464241.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399708/",
+      "name": "滕俊杰 Junjie Teng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018906/",
+      "name": "鲍里斯·瓦西里耶夫 Boris Vasilyev"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378585/",
+      "name": "刘恋 Lian Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356092/",
+      "name": "张扬 Yang Zhang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u97f3\u4e50"],
+  "duration": "",
+  "description": "二战时期的苏联，准尉瓦斯科夫带领着一队女兵守卫着重要铁路设施。她们中有单纯善良的丽莎、才情横溢的索妮娅、热爱幻想的嘉丽娅、聪明漂亮的冉卡、精明干练的丽达，女兵年轻的心中都怀揣着对未来和幸福的无限向往。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

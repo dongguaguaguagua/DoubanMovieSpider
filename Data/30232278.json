@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小王刚传奇2",
+  "url": "/subject/30232278/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523153719.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414486/",
+      "name": "小王刚 Gang Wang"
+    }
+  ]
+,
+  "datePublished": "2018-05-31",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H11M",
+  "description": "由丹东佳钰文化传播有限公司出品，华启文化发展（北京）有限公司联合出品的《小王刚传奇2》已制作完成，该片由宋思明 、唐纯祺执导，宋思明、王刚编剧，魏亚平担任制片人，由著名综艺娱乐节目《笑傲江湖》新晋网红...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

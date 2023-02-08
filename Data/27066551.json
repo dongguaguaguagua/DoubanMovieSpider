@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑人纳粹 Der Schwarze Nazi",
+  "url": "/subject/27066551/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462351388.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1113813/",
+      "name": "Aloysius Itoka Aloysius Itoka"
+    }
+  ]
+,
+  "datePublished": "2016-04-01",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

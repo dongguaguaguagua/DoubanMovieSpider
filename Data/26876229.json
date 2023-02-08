@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狗狗监护权 Who Gets the Dog?",
+  "url": "/subject/26876229/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2381774284.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363988/",
+      "name": "哈克·博特科 Huck Botko"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031789/",
+      "name": "艾丽西亚·希尔维斯通 Alicia Silverstone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036305/",
+      "name": "瑞恩·柯万腾 Ryan Kwanten"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054864/",
+      "name": "兰道尔·巴蒂尼科夫 Randall Batinkoff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252250/",
+      "name": "瑞秋·塞雷达 Rachel Cerda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038454/",
+      "name": "Paul Rawson Paul Rawson"
+    }
+  ]
+,
+  "datePublished": "2016-12-13",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H35M",
+  "description": "一对夫妇的经历在他们心爱的狗的监护权离婚的争吵。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "527",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

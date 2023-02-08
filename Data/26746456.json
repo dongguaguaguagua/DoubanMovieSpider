@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "家庭游戏 Juegos de familia",
+  "url": "/subject/26746456/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2325715397.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290679/",
+      "name": "贝伦·马西亚斯 Belén Macías"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356712/",
+      "name": "胡安·莫斯卡多·里乌斯 Juanjo Moscardó Rius"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356713/",
+      "name": "恩里克·阿尔切 Enrique Arce"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012651/",
+      "name": "胡安霍·普伊科维 Juanjo Puigcorbé"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1131670/",
+      "name": "维姬·皮娜 Vicky Peña"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319134/",
+      "name": "玛尔塔·贝伦格尔 Marta Belenguer"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H34M",
+  "description": "一个家庭主妇，为了拯救她的婚姻，伪造了一个情人来引起丈夫的嫉妒。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

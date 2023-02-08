@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绝世神偷",
+  "url": "/subject/26828259/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2398700921.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352509/",
+      "name": "风清扬 Feng Qing Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323037/",
+      "name": "宣言 Yan Xuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354680/",
+      "name": "李萌萌 Mengmeng Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375022/",
+      "name": "孙看 Kan Sun"
+    }
+  ]
+,
+  "datePublished": "2016-11-12",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H30M",
+  "description": "该片讲述生于怪盗世家的男主郑亦轩，因多年前父亲的意外去世而家道中落，虽然生活在苦闷的现实中，却一心想成为像父亲一样的超级侠盗。郑亦轩与被赶出家门的富二代黑客纪辰组成了搭档，但两人一直做的都是小打小闹的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

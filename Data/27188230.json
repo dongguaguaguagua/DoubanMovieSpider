@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Eine gute Mutter",
+  "url": "/subject/27188230/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2504326181.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359299/",
+      "name": "尤里·温克勒 Juri Winkler"
+    }
+  ]
+,
+  "datePublished": "2017-06-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

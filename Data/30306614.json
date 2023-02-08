@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Seder-Masochism",
+  "url": "/subject/30306614/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2531900906.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045689/",
+      "name": "妮娜·佩利 Nina Paley"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045689/",
+      "name": "妮娜·佩利 Nina Paley"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-06-11",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H18M",
+  "description": "Loosely following a traditional Passover Seder, events from the Book of Exodus are retold by Moses, ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

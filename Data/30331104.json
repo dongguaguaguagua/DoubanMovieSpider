@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恋恋不舍",
+  "url": "/subject/30331104/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2570127606.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376899/",
+      "name": "李珈西 Jiaxi Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376899/",
+      "name": "李珈西 Jiaxi Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398762/",
+      "name": "王韬 Tao Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316046/",
+      "name": "周浩东 Haodong Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402438/",
+      "name": "董昱皓 Yuhao Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376899/",
+      "name": "李珈西 Jiaxi Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372053/",
+      "name": "张鸿敬 Hongjing Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403480/",
+      "name": "贾晓宇 Xiaoyu Jia"
+    }
+  ]
+,
+  "datePublished": "2018-10-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H22M",
+  "description": "电影《恋恋不舍》根据导演自己的小说《两次恋爱三次分离》改编而成，讲述了一个女孩的三次别离。文艺女青年泽清人到中年，在家乡筹备画展的同时，在高考美术班教书，她的博学和知性深受学生喜爱。但面对纷繁复杂的社...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "334",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.5"
+  }
+}

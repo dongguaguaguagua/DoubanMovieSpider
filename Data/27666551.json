@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小宅往事",
+  "url": "/subject/27666551/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446746/",
+      "name": "黄文美 Wendy"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454822/",
+      "name": "许佩云 Peiyun Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453368/",
+      "name": "魏群 Qun Wei"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "在贫富差距越来越大的大背景下，老马一家本是和乐安宁，一次次的变故，让亲情走的越来越远，大哥马建平和二哥马建强一个穷一个富，久久彼此有了很深的隔阂，三妹马红梅的丈夫吃喝嫖赌，欠下巨大的债务，母亲正要叫他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

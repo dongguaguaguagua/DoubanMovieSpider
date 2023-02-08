@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "决战疯人院",
+  "url": "/subject/30438059/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545987664.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339970/",
+      "name": "李骏诚 Juncheng Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318195/",
+      "name": "曹磊 Lei Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348947/",
+      "name": "尹智玄 Zhixuan Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358064/",
+      "name": "刘博皓 Bohao Liu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H19M",
+  "description": "民国时期，一种掺杂致幻剂的香烟荼毒了不少烟民。警探司马洛暗自追查毒烟来源。同时他的搭档林复也正经历一起诡异的案件——一群疯癫的人被杀，但是现场却找不到尸体。两条线索引出一个惊天秘密，神探兄弟联手破案。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

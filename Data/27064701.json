@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "他和他的心旅程 Tale of the Lost Boys",
+  "url": "/subject/27064701/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2461909758.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422560/",
+      "name": "佐萨利多·奥塔利荷斯 Joselito Altarejos"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322565/",
+      "name": "苏达 Soda Voyu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1198660/",
+      "name": "Oliver Aquino Oliver Aquino"
+    }
+  ]
+,
+  "datePublished": "2017-07-21",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H21M",
+  "description": "艾利克斯（Oliver Aquino 饰）是从菲律宾只身一人俩到台湾讨生活的技工，实际上，他远赴重洋只有一个目的，那就是逃避患有他孩子的女友，艾利克斯完全没有做好当爸爸的准备，每一天，她都生活在愧疚感...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "110",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

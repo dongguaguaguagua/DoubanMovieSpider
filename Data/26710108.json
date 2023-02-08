@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "深水区 12 Feet Deep",
+  "url": "/subject/26710108/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2464640732.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376078/",
+      "name": "马特·伊斯坎达里 Matt Eskandari"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376078/",
+      "name": "马特·伊斯坎达里 Matt Eskandari"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376079/",
+      "name": "迈克尔·豪特奎斯特 Michael Hultquist"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210392/",
+      "name": "诺拉简·努恩 Nora-Jane Noone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349141/",
+      "name": "亚历山德拉·帕克 Alexandra Park"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049648/",
+      "name": "戴安·法尔 Diane Farr"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025219/",
+      "name": "托宾·贝尔 Tobin Bell"
+    }
+  ]
+,
+  "datePublished": "2017-06-20",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H25M",
+  "description": "两姐妹被困于公共泳池的玻璃纤维盖之下，妹妹必须在低血糖的姐姐昏迷之前，带她一起逃出生天…
+游泳馆管理员由“竖锯”托宾·贝尔饰演",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2049",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "野人之雨林诀",
+  "url": "/subject/30128878/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2711895458.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045851/",
+      "name": "鹿峰 Feng Lu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383838/",
+      "name": "徐巾淇 Jinqi Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391150/",
+      "name": "王兴元 Xingyuan Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H28M",
+  "description": "主要讲述民国时期，广西边远村寨里年仅十岁的韦氏姐弟俩父母被恶徒杀害，躲进深山。十年后，回村欲杀恶徒，为父母报仇，但是仇家却侥幸的躲进进山寻找生化武器成份的日军队伍里。韦氏姐弟为了复仇和“回家”与日军斗...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

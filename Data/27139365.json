@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "西姆兰 Simran",
+  "url": "/subject/27139365/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2506347575.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277514/",
+      "name": "阿普瓦·阿斯拉尼 Apurva Asrani"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032268/",
+      "name": "康格娜·拉瑙特 Kangana Ranaut"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282896/",
+      "name": "凯萨琳·戴尔 Catherine Dyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050092/",
+      "name": "杰夫·罗斯 Jeff Rose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353715/",
+      "name": "索姆·沙 Sohum Shah"
+    }
+  ]
+,
+  "datePublished": "2017-09-15",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT3H58M",
+  "description": "A Gujarati housekeeping lady in the US allows ambition to get the better of her &amp; gets involved in a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

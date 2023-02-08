@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "命运赌神",
+  "url": "/subject/26920898/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2399934723.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274575/",
+      "name": "李国麟 Kwok-Lun Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324509/",
+      "name": "张一凡 Yifan Zhang"
+    }
+  ]
+,
+  "datePublished": "2017-01-01",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT1H20M",
+  "description": "《命运赌神》是由青年导演芦伟执导的一部都市动作喜剧片，影片讲述了一个屌丝出身的导演为拍电影被高利贷追杀、与女友兄弟反目，最终众叛亲离、深陷跨国犯罪活动的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

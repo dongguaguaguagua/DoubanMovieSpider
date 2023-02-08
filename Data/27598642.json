@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "彼得松和芬杜斯：最好的圣诞节 Pettersson und Findus 2 - Das schönste Weihnachten überhaupt",
+  "url": "/subject/27598642/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2506887206.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385388/",
+      "name": "阿里·萨马迪·阿哈迪 Ali Samadi Ahadi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385389/",
+      "name": "托马斯·斯普林格 Thomas Springer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385384/",
+      "name": "斯文·诺德奎斯特 Sven Nordqvist"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029045/",
+      "name": "施特凡·库尔特 Stefan Kurt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385390/",
+      "name": "罗哈娜·萨马迪 Roxana Samadi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1092025/",
+      "name": "马克斯·赫布雷希特 Max Herbrechter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1151535/",
+      "name": "马丽安·萨格布雷特 Marianne Sägebrecht"
+    }
+  ]
+,
+  "datePublished": "2016-11-03",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5947\u5e7b"],
+  "duration": "PT1H20M",
+  "description": "Pettson promised Findus they would have the best christmas ever this year, but then everything goes ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "好男人 Bonhomme",
+  "url": "/subject/30265726/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527126977.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010933/",
+      "name": "玛丽安·费尔努 Marion Vernoux"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365038/",
+      "name": "罗曼·康宁 Romain Compingt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010933/",
+      "name": "玛丽安·费尔努 Marion Vernoux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274924/",
+      "name": "格雷古瓦·维涅隆 Grégoire Vigneron"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000567/",
+      "name": "尼古拉斯·迪佛休尔 Nicolas Duvauchelle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348247/",
+      "name": "安娜·吉拉多特 Ana Girardot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445259/",
+      "name": "朱利安·奥诺雷 Julien Honoré"
+    }
+  ]
+,
+  "datePublished": "2018-08-29",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H43M",
+  "description": "皮奧特和瑪希蓮是住在市郊的一對年輕夫婦，他們的生活因一次車禍而從此天翻地覆。皮奧特由於頭部受到創傷，他的身體雖然仍壯健，但精神狀況卻出現了問題：他有時如冷漠的野貓，有時又像一隻處於發情期的動物一般有着...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

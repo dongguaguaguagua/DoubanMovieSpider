@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雪·葬",
+  "url": "/subject/27592569/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519425147.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391914/",
+      "name": "高成岗 Chenggang Gao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362151/",
+      "name": "张园 Yuan Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316743/",
+      "name": "任帅 Shuai Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314326/",
+      "name": "徐永革 Yongge Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334491/",
+      "name": "叶鹏 Peng Ye"
+    }
+  ]
+,
+  "datePublished": "2018-04-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "文革中，农村青年赵天佑，因家庭出身为地主，差点沦落为神经病，无奈中入赘山区柳沟河。改革开放后，当选为村委会主任。在爷爷帮助过的长工儿子的帮助下，做起了中药材生意，几年功夫，柳沟河人靠种植中药材发家致富...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "779",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

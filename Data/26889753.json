@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Sam and Me",
+  "url": "/subject/26889753/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534197727.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028420/",
+      "name": "Declan Joyce Declan Joyce"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1158587/",
+      "name": "玛德琳.石文顿 Madylin Sweeten"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337289/",
+      "name": "Kary Musa Kary Musa"
+    }
+  ]
+,
+  "datePublished": "2016-09-08",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u5bb6\u5ead", "\u72af\u7f6a"],
+  "duration": "PT1H28M",
+  "description": "&#34;Uncle Sam&#34; Armstrong (Craig Henne) is getting out of court ordered rehab - for the 8th time. Sam wa...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

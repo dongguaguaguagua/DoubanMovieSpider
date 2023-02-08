@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "颤栗汪洋3 Open Water 3: Cage Dive",
+  "url": "/subject/26892964/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495804417.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459241/",
+      "name": "杰拉尔德·拉西奥纳托 Gerald Rascionato"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459241/",
+      "name": "杰拉尔德·拉西奥纳托 Gerald Rascionato"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-08-18",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "三位朋友，拍摄一场极限真人秀的录像带，进入了鲨鱼笼潜水，但是没想到，很快会变成一场灾难性的转折，把他们留在巨大的白色鲨鱼出没的水域，把他们的录像变成一本关于生存和死亡的冷血日记。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "385",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

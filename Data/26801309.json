@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "听见寂静 Höre die Stille",
+  "url": "/subject/26801309/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2356598179.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1080103/",
+      "name": "埃德·埃伦伯格 Ed Ehrenberg"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1043907/",
+      "name": "阿克塞尔·梅尔兹纳 Axel Melzener"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358686/",
+      "name": "朱莉娅·彼得斯 Julia Peters"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473152/",
+      "name": " Alexandra Grant  Alexandra Grant"
+    }
+  ]
+,
+  "datePublished": "2016-06-11",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H35M",
+  "description": "Ukrainia - October 1941 - A small group of scattered German soldiers occupies a beautiful little set...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "124",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

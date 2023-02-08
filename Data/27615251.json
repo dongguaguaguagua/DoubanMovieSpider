@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "隧洞之中 Im Tunnel",
+  "url": "/subject/27615251/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2634079652.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051104/",
+      "name": "凯伊·威索 Kai Wessel"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331592/",
+      "name": "Astrid Ströher Astrid Ströher"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297632/",
+      "name": "玛丽亚·西蒙 Maria Simon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018786/",
+      "name": "卡罗·柳别克 Carlo Ljubek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014286/",
+      "name": "雅斯明·格拉特 Jasmin Gerat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386125/",
+      "name": "汤姆·菲利普 Tom Philipp"
+    }
+  ]
+,
+  "datePublished": "2017-04-24",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "Shattered after the the death of her brother, Maria begins to follow the actions that resulted in a ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

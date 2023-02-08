@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恶魔App Bedeviled",
+  "url": "/subject/26881690/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2387225530.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461685/",
+      "name": "阿贝尔·万格 Abel Vang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461686/",
+      "name": "布里·万格 Burlee Vang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461685/",
+      "name": "阿贝尔·万格 Abel Vang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461686/",
+      "name": "布里·万格 Burlee Vang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329625/",
+      "name": "萨克斯·沙比诺 Saxon Sharbino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292480/",
+      "name": "邦妮·摩根 Bonnie Morgan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040758/",
+      "name": "布兰登·司徒 Brandon Soo Hoo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1266820/",
+      "name": "维多利·范·图尔 Victory Van Tuyl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1250893/",
+      "name": "Angelina Armani Angelina Armani"
+    }
+  ]
+,
+  "datePublished": "2016-10-22",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H31M",
+  "description": "5个年轻人下载了一个神秘的手机App，在安装上之后，他们受到了恶魔的骚扰...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "105",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

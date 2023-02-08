@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "跃迁管理局",
+  "url": "/subject/27317684/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2506036543.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353391/",
+      "name": "刘同 Tong Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359699/",
+      "name": "王子鸿 Zihong Wang"
+    }
+  ]
+,
+  "datePublished": "2017-11-29",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b", "\u60ac\u7591"],
+  "duration": "PT1H10M",
+  "description": "跃迁管理局是专门管理非法穿越时空者的管理机构，秉承“历史车轮转，事事不能乱”的原则，把非法穿越时空的人带回到正常时间节点，以防更改历史发展进程的事情发生。陈零与欧阳壹分别是管理局的中级执法者和低级办事...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "远去的牧歌",
+  "url": "/subject/30327768/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553215529.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413569/",
+      "name": "阿迪夏·夏热合曼 Adixia Xiareheman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352310/",
+      "name": "周军 Jun Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413567/",
+      "name": "哈依夏·塔巴热克 Hajxia Tabazhek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342940/",
+      "name": "高黄刚 Huanggang Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352310/",
+      "name": "周军 Jun Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413550/",
+      "name": "海拉提·哈木 Hailaiti Hamu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413551/",
+      "name": "玛尔江·巴依吐肯 Maerjiang Bayituken"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413552/",
+      "name": "丽娜·夏侃 Lina Xiakan"
+    }
+  ]
+,
+  "datePublished": "2018-09-11",
+  "genre": ["\u5267\u60c5", "\u897f\u90e8", "\u5192\u9669"],
+  "duration": "PT1H34M",
+  "description": "影片以胡玛尔和哈迪夏两家人因一次意外事故造成的矛盾展开故事，演绎了40年来草原轮回迁徙的生活、人物的情感心路历程，讲述了世代逐水草而居的中国哈萨克族牧民，在改革开放后生活发生的巨大变化。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1799",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

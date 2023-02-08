@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "晕头腌酸菜 Sauerkrautkoma",
+  "url": "/subject/33218445/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2551358411.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384763/",
+      "name": "埃德·赫尔佐格 Ed Herzog"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007448/",
+      "name": "Stefan Betz Stefan Betz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394453/",
+      "name": "Rita Falk Rita Falk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384763/",
+      "name": "埃德·赫尔佐格 Ed Herzog"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1066594/",
+      "name": "塞巴斯蒂安·贝策尔 Sebastian Bezzel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014705/",
+      "name": "西蒙·舒瓦茨 Simon Schwarz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023557/",
+      "name": "丽萨·波特霍夫 Lisa Potthoff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1065265/",
+      "name": "Ulrike Beimpold Ulrike Beimpold"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394452/",
+      "name": "Daniel Christensen Daniel Christensen"
+    }
+  ]
+,
+  "datePublished": "2018-08-09",
+  "genre": ["\u559c\u5267", "\u72af\u7f6a"],
+  "duration": "PT1H36M",
+  "description": "下巴伐利亚的警察弗朗茨（塞巴斯蒂安·贝策尔 Sebastian Bezzel 饰）因为工作失误而被下放到慕尼黑，接手管理他的是那里出了名的严厉女上司。在好友的帮助下，弗朗茨总算在新城市落地生根了，但此...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

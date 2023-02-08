@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "昨日青空",
+  "url": "/subject/26290410/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533173724.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378560/",
+      "name": "奚超 Chao Xi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378561/",
+      "name": "口袋巧克力 Pocket Chocolate"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359405/",
+      "name": "苏尚卿 Shangqing Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354130/",
+      "name": "王一博 Yibo Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403289/",
+      "name": "段艺璇 Yixuan Duan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343036/",
+      "name": "马斑马 Banma Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340112/",
+      "name": "林强 Qiang Lin"
+    }
+  ]
+,
+  "datePublished": "2018-10-26",
+  "genre": ["\u7231\u60c5", "\u52a8\u753b"],
+  "duration": "PT1H22M",
+  "description": "中国首部青春题材动画电影《昨日青空》将于2018年暑期全国上映。该片改编自口袋巧克力同名人气漫画作品，由咕咚导演奚超执导。影片以中国南方小镇兰溪为实际取景地，讲述了小镇上的几位高三学生，有关梦想、友谊...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "99370",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

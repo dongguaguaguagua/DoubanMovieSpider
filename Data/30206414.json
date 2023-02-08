@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一个任务的故事 История одного назначения",
+  "url": "/subject/30206414/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537841167.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297830/",
+      "name": "Dunya Smirnova Dunya Smirnova"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2"],
+  "duration": "",
+  "description": "According to the published synopsis, the film will tell about the lieutenant of Grigory Kolokoltsov,...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

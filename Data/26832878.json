@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱上夜蒲团",
+  "url": "/subject/26832878/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2365879365.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375598/",
+      "name": "吉米 Jimmy Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375598/",
+      "name": "吉米 Jimmy Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351852/",
+      "name": "王羿均 Yijun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357155/",
+      "name": "张已桂 Yigui Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401822/",
+      "name": "邱雨铄 Yushuo Qiu"
+    }
+  ]
+,
+  "datePublished": "2016-07-15",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H11M",
+  "description": "本片讲述了水晶在酒吧当陪酒女，爱上了富二代公子哥恒宇，恒宇的大方和魅力让水晶疯狂。
+惜雨是网络主播，宝强作为最疯狂的粉丝，出场方式却令人大跌眼镜！
+当公司出现问题，恒宇把水晶送到了高利贷公司王老板的床...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "144",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

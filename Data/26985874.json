@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恨世者 Le Misanthrope",
+  "url": "/subject/26985874/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561348836.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429823/",
+      "name": "莫里哀 Molière"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421900/",
+      "name": "埃里克·吉诺维斯 Eric Génovèse"
+    }
+  ]
+,
+  "datePublished": "2017-02-09",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT3H0M",
+  "description": "《伪君子》《吝啬鬼》《恨世者》……莫里哀的作品构成了鲜活又辛辣的社会风俗画，也以高级喜剧的典范地位屹立于世界戏剧史上。
+以莫里哀及其作品为灵魂的法国老牌国家剧院法兰西喜剧院2017年复排《恨世者》，导...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "330",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.2"
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美丽战争",
+  "url": "/subject/27204589/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2558196473.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280419/",
+      "name": "陈勋奇 Frankie Chan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280419/",
+      "name": "陈勋奇 Frankie Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340063/",
+      "name": "周小飞 Xiaofei Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033280/",
+      "name": "谭耀文 Patrick Tam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023141/",
+      "name": "孟广美 Jessey Meng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1245590/",
+      "name": "马国明 Kwok-Ming Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341803/",
+      "name": "那广子 Guangzi Na"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397651/",
+      "name": "罗彬 Robin Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460954/",
+      "name": "宋可欣 "
+    }
+  ]
+,
+  "datePublished": "2018-10-19",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H53M",
+  "description": "在一次庆功宴上，看似平静实则妒火中烧的超模安薇薇因男友背叛而当众宣布决裂。分手后冲动飙车遭遇车祸，小腿遭截肢，命运跌入低谷。在短暂的痛苦挣扎后，她毅然决定使用义肢重回T台，一场逐梦之战由此慢慢揭开帷幕...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

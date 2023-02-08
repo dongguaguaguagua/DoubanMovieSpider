@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女访客 De sas en sas",
+  "url": "/subject/26701657/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2428020667.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005252/",
+      "name": "拉奇妲·布拉克尼 Rachida Brakni"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005252/",
+      "name": "拉奇妲·布拉克尼 Rachida Brakni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411955/",
+      "name": "拉斐尔·克莱勒丰 Raphaël Clairefond"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354321/",
+      "name": "琪塔·昂赫 Zita Hanrot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411956/",
+      "name": "朱迪思·卡恩 Judith Caen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1063727/",
+      "name": "萨沙·布铎 Sacha Bourdo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014730/",
+      "name": "法比恩·巴布 Fabienne Babe"
+    }
+  ]
+,
+  "datePublished": "2016-11-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H22M",
+  "description": "诺拉跟妈妈一起开车出了门，行驶在宽阔的公路上，妈妈开着车，诺拉昏昏欲睡，在漫长的行驶之后，她们终于停下来，不远处的球场上，有几个男人在烧烤，孩子们围绕着他们跑来跑去，很快她们便接到通知，2点15探监的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "203",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

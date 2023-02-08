@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "以吻之名 With a Kiss I Die",
+  "url": "/subject/30306079/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2531863205.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342451/",
+      "name": "迈克尔·安吉斯 Michael Gordon Andricopoulos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400316/",
+      "name": "艾拉·克维伊库 Ella Kweku"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400317/",
+      "name": "佩吉·艾默森 Paige Emerson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400319/",
+      "name": "乔治·科西达 George Kopsidas"
+    }
+  ]
+,
+  "datePublished": "2018-08-23",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H13M",
+  "description": "Filmed on the beautiful islands of Greece, &#34;With a Kiss I Die&#34; is a dark love story about Juliet Cap...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "220",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.2"
+  }
+}

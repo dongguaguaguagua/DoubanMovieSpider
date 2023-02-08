@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "肉食动物 Carnivore: Werewolf of London",
+  "url": "/subject/27109540/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495684860.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1243453/",
+      "name": "本·洛伊德·霍尔姆斯 Ben Loyd-Holmes"
+    }
+  ]
+,
+  "datePublished": "2017-12-04",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H22M",
+  "description": "Whilst trying to reignite their relationship at a remote cottage, Dave and Abi are stalked by a terr...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们的家 わたしたちの家",
+  "url": "/subject/26984173/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2508604193.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1435474/",
+      "name": "加藤法子 Noriko Kato"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395047/",
+      "name": "河西和香 Nodoka Kawanishi"
+    }
+  ]
+,
+  "datePublished": "2018-01-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "她们这一屋，这边厢，住着一对母女，父亲失踪，母亲桐子另结新欢，女儿Seri迎来十四岁生日，写下少女日记，忐忑面对母亲快要改嫁的现实。那边厢，住着两个女子，透子干着神秘工作，收留在渡轮上失去记忆的San...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "152",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

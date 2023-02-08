@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Paralytic",
+  "url": "/subject/30220733/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522012139.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372627/",
+      "name": "劳伦·帕金森 Lauren Parkinson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1220311/",
+      "name": " Margo Rowder"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H29M",
+  "description": "Buying the house was supposed to be a dream come true. But for Drew and Kara Townsend the nightmare ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亚马逊热盒 Amazon Hot Box",
+  "url": "/subject/30325829/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2534103153.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1026704/",
+      "name": "James Bickert James Bickert"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1026704/",
+      "name": "James Bickert James Bickert"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1258761/",
+      "name": "崔斯坦·瑞斯克 Tristan Risk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1228255/",
+      "name": "艾伦·比尔纳 Aaron Beelner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1459895/",
+      "name": "Jordan Phipps Jordan Phipps"
+    }
+  ]
+,
+  "datePublished": "2018-06-15",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H25M",
+  "description": "An American college student named Penny is erroneously apprehended during a dissident round-up in th...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

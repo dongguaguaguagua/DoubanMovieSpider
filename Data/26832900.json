@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "从地狱归来",
+  "url": "/subject/26832900/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2366194616.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275768/",
+      "name": "黄鸿升 Alien Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356952/",
+      "name": "李欣烨 Xinye Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "曾是东亚细亚·大都会杀手集团空想旅团的王牌杀手莲被心爱的女人杀害后，来到了灵魂收集地。但发现来到灵魂收集地的只有他的灵魂，身体却被人类聚集地的神秘人收留。而这个神秘人，要保证其不被空想旅团的偶像女子杀...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

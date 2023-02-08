@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "京城双煞",
+  "url": "/subject/27126395/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2587819977.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359393/",
+      "name": "张轶祺 Yiqi Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431845/",
+      "name": "李路琦 Luqi Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425281/",
+      "name": "李梓豪 Zihao Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368638/",
+      "name": "韩锐 Rui Han"
+    }
+  ]
+,
+  "datePublished": "2017-09-04",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H6M",
+  "description": "李天洋和郑月两位年轻“小炮儿”在执行神秘任务时失败，惹怒老大闫老板，开始了亡命天涯的故事。在找寻货物的过程中，郑月偶遇发小并帮发小找回了失踪多时的男朋友。同时，郑月发现了货物的秘密并明白如果不逃离这个...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Sunshine Music Tours",
+  "url": "/subject/26962648/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2417927216.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425707/",
+      "name": "桑尼·考沙尔 Sunny Kaushal"
+    }
+  ]
+,
+  "datePublished": "2016-09-02",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H50M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

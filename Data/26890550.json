@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夏之爱恋 Summer Love",
+  "url": "/subject/26890550/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2388275811.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298513/",
+      "name": "林恩·史都克威 Lynne Stopkewich"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027150/",
+      "name": "瑞切尔·蕾·库克 Rachael Leigh Cook"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314511/",
+      "name": "卢卡斯·布莱恩特 Lucas Bryant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323008/",
+      "name": "崔维斯·米尔恩 Travis milne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393786/",
+      "name": "汉娜·切尔敏 Hannah Cheramy"
+    }
+  ]
+,
+  "datePublished": "2016-08-20",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H23M",
+  "description": "A widowed mom gets a summer internship at a tech company and draws the attention of two very differe...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

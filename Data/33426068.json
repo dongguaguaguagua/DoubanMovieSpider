@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "出什么事了 Il se passe quelque chose",
+  "url": "/subject/33426068/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554634444.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027590/",
+      "name": "洛拉·杜埃尼亚斯 Lola Dueñas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317789/",
+      "name": "Bojena Horackova Bojena Horackova"
+    }
+  ]
+,
+  "datePublished": "2018-08-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "Something is Happening begins like an uplifting, charmingly quirky road movie: having lost her husba...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

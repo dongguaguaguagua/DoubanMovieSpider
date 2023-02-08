@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "牛肉 Beef",
+  "url": "/subject/26908251/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2454153264.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323609/",
+      "name": "约翰·斯托伯格 John Stalberg"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272859/",
+      "name": "托马斯·曼 Thomas Mann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360284/",
+      "name": "乔·基瑞 Joe Keery"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "A manager of a fast food restaurant in the Midwest is wanted by his bookies.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

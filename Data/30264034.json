@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雷遇见海伦 Ray Meets Helen",
+  "url": "/subject/30264034/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2674203758.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036987/",
+      "name": "阿兰·鲁道夫 Alan Rudolph"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036987/",
+      "name": "阿兰·鲁道夫 Alan Rudolph"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025211/",
+      "name": "基思·卡拉丹 Keith Carradine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018010/",
+      "name": "桑德拉·洛克 Sondra Locke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019012/",
+      "name": "凯斯·大卫 Keith David"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H40M",
+  "description": "In bizarre, unrelated turns of events, Ray and Helen each happen upon large sums of money which give...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

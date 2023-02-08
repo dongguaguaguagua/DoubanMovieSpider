@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "最后一次美国恐怖秀 Last American Horror Show",
+  "url": "/subject/30306584/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540230986.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1138200/",
+      "name": "费莉莎·罗斯 Felissa Rose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1102290/",
+      "name": "Arch Hall Jr. Arch Hall Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1123068/",
+      "name": "琳恩·劳里 Lynn Lowry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132099/",
+      "name": "Robert Allen Mukes Robert Allen Mukes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037232/",
+      "name": "吉姆·范贝贝尔 Jim Van Bebber"
+    }
+  ]
+,
+  "datePublished": "2018-06-30",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H22M",
+  "description": "Three terrifying tales to keep you awake all night: ‘Night of the Sea Monkey’, ‘Lamb Feed’ and ‘Home...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "千禧一代 Millennials",
+  "url": "/subject/26979031/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2435754229.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452547/",
+      "name": "Jana Bürgelin "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354630/",
+      "name": "安娜•左拉•贝哈赫德 Anne Zohra Berrached"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1097439/",
+      "name": "Anna Hermann Anna Hermann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425170/",
+      "name": "格奥尔格·阿姆斯 Georg Arms"
+    }
+  ]
+,
+  "datePublished": "2017-02-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H10M",
+  "description": "This film follows its two protagonists Anne and Leo like a wandering companion. Both in their early ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

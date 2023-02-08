@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "寻找法蒂玛 Finding Fatimah",
+  "url": "/subject/27043981/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499339279.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386472/",
+      "name": "保罗·G·雷蒙德 Paul G. Raymond"
+    }
+  ]
+,
+  "datePublished": "2017-04-21",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H39M",
+  "description": "沙希德挣扎着在亚洲社会寻找爱情, 由于他几年前离婚的耻辱。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,154 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鲁滨逊漂流记 Robinson Crusoe",
+  "url": "/subject/26721478/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2384412081.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354415/",
+      "name": "文森特·凯斯特鲁特 Vincent Kesteloot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298282/",
+      "name": "本·斯塔森 Ben Stassen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362193/",
+      "name": "李·克里斯托弗 Lee Christopher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323287/",
+      "name": "多米尼克·帕里斯 Domonic Paris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362194/",
+      "name": "格雷恩姆·威尔登 Graham Weldon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050734/",
+      "name": "丹尼尔·笛福 Daniel Defoe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362195/",
+      "name": "格雷恩姆·威尔登 Graham Weldon"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032127/",
+      "name": "马提亚斯·施维赫夫 Matthias Schweighöfer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163569/",
+      "name": "卡亚·叶娜尔 Kaya Yanar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1252784/",
+      "name": "伊尔卡·贝桑 Ilka Bessin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050682/",
+      "name": "迪特·哈勒沃登 Dieter Hallervorden"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327060/",
+      "name": "艾琳·特策尔 Aylin Tezel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362196/",
+      "name": "杰拉德·沙勒 Gerald Schaale"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362198/",
+      "name": "梅兰妮·欣茨 Melanie Hinze"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362199/",
+      "name": "托拜厄斯·莱勒 Tobias Lelle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1201394/",
+      "name": "伽达·雅拉科 Ghadah Al-Akel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362200/",
+      "name": "汤米·摩根施特恩 Tommy Morgenstern"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362201/",
+      "name": "伯特·弗兰兹克 Bert Franzke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362202/",
+      "name": "杰斯克·维特根 Jesco Wirthgen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362203/",
+      "name": "简·牧野 Jan Makino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362204/",
+      "name": "阿克塞尔·勒特 Axel Lutter"
+    }
+  ]
+,
+  "datePublished": "2016-03-30",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H31M",
+  "description": "故事开始于一座孤岛之上，在这里，居住着一群动物们，其中，十分勇敢对于新鲜事物有着无尽好奇心的鹦鹉麦克（大卫·霍华德·桑顿 David Howard Thornton 配音）对小岛外面的世界十分的向往，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6449",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

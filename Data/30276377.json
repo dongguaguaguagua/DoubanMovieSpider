@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "世界之心 Сердце мира",
+  "url": "/subject/30276377/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528266515.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389644/",
+      "name": "纳塔莉娅·梅什查尼诺娃 Natalya Meshchaninova"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051041/",
+      "name": "鲍里斯·赫列勃尼科夫 Boris Khlebnikov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389644/",
+      "name": "纳塔莉娅·梅什查尼诺娃 Natalya Meshchaninova"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385345/",
+      "name": "德米特里·珀德诺佐夫 Dmitriy Podnozov"
+    }
+  ]
+,
+  "datePublished": "2018-09-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H0M",
+  "description": "青年伊果為獵犬療傷，然而住在他心裏那頭受了傷的野獸，要療癒卻不易。在森林深處的獵犬訓練所，伊果對動物照顧有加，但親密關係令他焦慮，既渴望被老闆一家接納，又不善與人相處，酗酒母親的陰影更是揮之不去。老闆...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

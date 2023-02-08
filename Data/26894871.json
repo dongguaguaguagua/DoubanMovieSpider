@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "毫无希望 Emtehan Nahaee",
+  "url": "/subject/26894871/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543521099.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054510/",
+      "name": "阿巴斯·基亚罗斯塔米 Abbas Kiarostami"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1175128/",
+      "name": "谢哈布·侯赛尼 Shahab Hosseini"
+    }
+  ]
+,
+  "datePublished": "2016-10-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "Farhad, a respected math teacher, is engaged to the mother of one of his pupils. But rather than emb...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

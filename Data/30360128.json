@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狐",
+  "url": "/subject/30360128/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537875191.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316357/",
+      "name": "王卫国 Weiguo Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343944/",
+      "name": "刘頔 Natas Asoka "
+    }
+  ]
+,
+  "datePublished": "2018-07-06",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u9ed1\u8272\u7535\u5f71"],
+  "duration": "PT0H27M",
+  "description": "养狐人王江水在山间打猎，远远望见牧羊人张雄被吊在一颗枯树上，奄奄一息。王江水本想用猎枪打断绳子救张雄一命，不料，子弹竟射中了他的胸口。王江用枯草将张雄的尸体遮住后仓惶逃离，可当夜张雄竟又被儿子王磊带回...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

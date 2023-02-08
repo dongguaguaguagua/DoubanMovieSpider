@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Number 13",
+  "url": "/subject/27025820/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193061/",
+      "name": "安蒂·朱西·安妮拉 Antti-Jussi Annila"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193061/",
+      "name": "安蒂·朱西·安妮拉 Antti-Jussi Annila"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052138/",
+      "name": "Iiro Küttner Iiro Küttner"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "",
+  "description": "Northern Canada, the dead of winter, and some scientists studying a wolf pack dynamics try to anesth...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

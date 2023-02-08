@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "妈妈2 Mama 2",
+  "url": "/subject/27062847/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2461709177.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363546/",
+      "name": "凯文·库尔施 Kevin Kolsch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363547/",
+      "name": "丹尼斯·维德迈尔 Dennis Widmyer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326371/",
+      "name": "尼尔·克洛斯 Neil Cross"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363546/",
+      "name": "凯文·库尔施 Kevin Kolsch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363547/",
+      "name": "丹尼斯·维德迈尔 Dennis Widmyer"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "根据导演所说，第二部是第一部的后续电影，具体情况未知",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

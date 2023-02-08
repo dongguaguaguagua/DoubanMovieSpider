@@ -1,0 +1,95 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "动植物大战",
+  "url": "/subject/26801581/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2355521226.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358632/",
+      "name": "范文彬 Wenbin Fan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358633/",
+      "name": "肖智慧 Zhihui Xiao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358634/",
+      "name": "苏子芜 Ziwu Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340250/",
+      "name": "苏俣 Yu Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345272/",
+      "name": "朱蓉蓉 Rongrong Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342846/",
+      "name": "苏倩云 Qianyun Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345276/",
+      "name": "小连杀 Jing Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340112/",
+      "name": "林强 Qiang Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358635/",
+      "name": "黄扬梓淇 ZIqi Huangyang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358636/",
+      "name": "徐小丁 Xiaoding Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358637/",
+      "name": "姚伊明月 Mingyue Yaoyi"
+    }
+  ]
+,
+  "datePublished": "2016-06-01",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H19M",
+  "description": "奇幻的松松小镇，动物、植物们可以相互沟通，新奇天然。
+新来到小镇的小松鼠松松和乐乐用神树爷爷赐予的树叶眼镜观察到一个用肉眼看不到的世界——层层岩石土层覆盖下的地底根系森林、隐藏在植物表皮下的神奇能量流...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "223",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.6"
+  }
+}

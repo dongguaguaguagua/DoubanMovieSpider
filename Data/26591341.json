@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "这一家人什么鬼？！ C&#39;est quoi cette famille?!",
+  "url": "/subject/26591341/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2373286830.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341568/",
+      "name": "罗曼·普罗塔特 Romain Protat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318819/",
+      "name": "奥利维耶·特雷内 Olivier Treiner"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018358/",
+      "name": "朱莉·加耶 Julie Gayet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018265/",
+      "name": "朱莉·德帕迪约 Julie Depardieu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023310/",
+      "name": "蒂埃里·钮维 Thierry Neuvic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350909/",
+      "name": "吕西安·让-巴蒂斯特 Lucien Jean-Baptiste"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1288643/",
+      "name": "尼诺·柯塔德泽 Nino Kirtadze"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426873/",
+      "name": "克劳迪娅·塔格博 Claudia Tagbo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "离异父母的七个孩子，厌倦了总是每周更换房子，因此决定建立一个反抗父母的计划。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "143",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

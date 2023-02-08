@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小伙时代之忆当年",
+  "url": "/subject/26813310/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412947/",
+      "name": "孙一然 Yiran Sun"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412947/",
+      "name": "孙一然 Yiran Sun"
+    }
+  ]
+,
+  "datePublished": "2016-06-01",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H23M",
+  "description": "小伙时代之忆当年，回忆年少时光的不羁往事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

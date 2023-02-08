@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Big Fat City",
+  "url": "/subject/30412448/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305946/",
+      "name": "Mahesh Dattani Mahesh Dattani"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402290/",
+      "name": "伊万·罗德里格斯 Ivan Rodrigues"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187105/",
+      "name": "席尔帕.舒克拉 Shilpa Shukla"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H36M",
+  "description": "A Mumbai couple in dire financial straits hosts a dinner party for friends, but their evening takes ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一路春风",
+  "url": "/subject/26790909/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519072877.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362790/",
+      "name": "汪小龙 Xiaolong Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362790/",
+      "name": "汪小龙 Xiaolong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362791/",
+      "name": "岳暄捷 Xuanjie Yue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362792/",
+      "name": "梁羽坤 Yukun Liang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325360/",
+      "name": "马启光 Qiguang Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362793/",
+      "name": "权桐 Hai Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362794/",
+      "name": "萧松 Song Xiao"
+    }
+  ]
+,
+  "datePublished": "2018-05-03",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT2H0M",
+  "description": "电影《一路春风》是一部由汪小龙导演的电影作品，影片主要讲述苏南偶遇摄影师韩嫣，宿醉断片后，韩嫣错拿了苏南的U盘离去。U盘里的资料关系着苏南公司存亡，苏南在无奈之下踏上寻找韩嫣的旅途。途中遇见前来追债的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

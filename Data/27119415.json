@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "电影痴 電影痴",
+  "url": "/subject/27119415/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2516652076.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401021/",
+      "name": "徐梓耀 Chui Tze Yiu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401021/",
+      "name": "徐梓耀 Chui Tze Yiu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317884/",
+      "name": "姜皓文 Philip Keung Ho-Man"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316214/",
+      "name": "陈静 Dada Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337783/",
+      "name": "廖子妤 Fish Liew"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326940/",
+      "name": "周国贤 Endy Chow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374083/",
+      "name": "徐浩昌 Eric Tsui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377721/",
+      "name": "陈嘉莉 Kelly Chen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "影片讲述了姜皓文饰演的一名小小的电影导演,对电影事业不懈追求,追寻梦想的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

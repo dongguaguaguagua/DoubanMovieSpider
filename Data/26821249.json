@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Mob Handed",
+  "url": "/subject/26821249/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2392032573.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027894/",
+      "name": "丽赛特·安东尼 Lysette Anthony"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218535/",
+      "name": "乔恩·坎普林 Jon Campling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074807/",
+      "name": "杰斯·康拉德 Jess Conrad"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074693/",
+      "name": "Dave Courtney Dave Courtney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1086900/",
+      "name": "阿梅吉特·德尤 Amerjit Deu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443255/",
+      "name": "亚历克斯·里斯 Alex Reece"
+    }
+  ]
+,
+  "datePublished": "2016-06-13",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H40M",
+  "description": "A female journalist joins a vigilante group after her daughter is murdered.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

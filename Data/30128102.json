@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "盗梦迷情",
+  "url": "/subject/30128102/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364691/",
+      "name": "索笑坤 Xiaokun Suo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350007/",
+      "name": "林晨 Lynne Lin"
+    }
+  ]
+,
+  "datePublished": "2018-01-25",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H10M",
+  "description": "心理治疗师莫声，因为在妻子怀孕期间出轨而产生愧疚感，导致自己精神失常，一直做噩梦，无法区分现实和梦境。一天莫声遇到了一个自称道士的妄想症患者，在治疗过程中，莫声却发现自己的噩梦逐渐变为现实。莫声开始意...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

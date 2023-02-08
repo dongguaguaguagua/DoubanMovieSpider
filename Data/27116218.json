@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "森林之子 Vanamagan",
+  "url": "/subject/27116218/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2496689196.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376491/",
+      "name": "杰亚姆·拉维 Jayam Ravi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388497/",
+      "name": "萨耶莎·赛加尔 Sayyeshaa Saigal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339196/",
+      "name": "丹比·拉马亚 Thambi Ramayya"
+    }
+  ]
+,
+  "datePublished": "2017-06-23",
+  "genre": ["\u52a8\u4f5c", "\u5192\u9669"],
+  "duration": "PT2H21M",
+  "description": "家境优越的卡维亚自幼父母双亡，在父亲朋友的抚养与照料下长大，所有的生意都由父亲的朋友打理，只需要适时地在合同上签下名字却从不过目签约内容。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "130",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

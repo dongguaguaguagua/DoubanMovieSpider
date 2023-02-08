@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天涯小逃犯",
+  "url": "/subject/30320262/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2610039622.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307492/",
+      "name": "周美玲 Zero Chou"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315831/",
+      "name": "巫建和 Chien-He Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317805/",
+      "name": "曾珮瑜 Peggy Tseng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1273718/",
+      "name": "王少伟 Shao-wei Wang"
+    }
+  ]
+,
+  "datePublished": "2018-03-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "刚满18岁的杜飞，与父亲吵了一架之后，离家出走去寻找生母的下落，他在旅途中误劫了一辆娃娃车，挟持了幼儿园老师岳荷逃亡。岳荷这天正收到丈夫要求离婚的逼迫，在得知少年不过是思母心切之后，她决定协助少年去找...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

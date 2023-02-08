@@ -1,0 +1,37 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "深圳鸟人",
+  "url": "/subject/26903795/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2393740491.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365460/",
+      "name": "彭静 Jing Peng"
+    }
+  ]
+,
+  "datePublished": "2016-10-26",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H20M",
+  "description": "电影《深圳鸟人》是一部具有深圳特色和情怀，折射社会现实，反思人性欲望挣扎的都市剧情片。
+深二代许文强（饰）成长在一个缺爱的家庭环境中，以逃避、怀疑的心态在纸醉金迷的都市中卑微的苟活，他整日混迹于各种女...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "稻草人 Scarecrow",
+  "url": "/subject/26704650/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2502614802.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223520/",
+      "name": " Mark France"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-10-28",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Autistic teen, Tony and his friendship with Cameron, a boy who is still trying to deal with the deat...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

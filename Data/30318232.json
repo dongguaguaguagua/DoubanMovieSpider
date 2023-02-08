@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夏末 늦여름",
+  "url": "/subject/30318232/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2537032856.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319174/",
+      "name": "曹圣奎 David Cho"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029525/",
+      "name": "林元熙 Won-hie Lim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350943/",
+      "name": "全锡浩 Suk-Ho Jun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322163/",
+      "name": "申素率 So-yul Shin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318486/",
+      "name": "郑妍周 Yeon-joo Jung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423910/",
+      "name": "曹善默 Sun-mook Jo"
+    }
+  ]
+,
+  "datePublished": "2018-10-25",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H33M",
+  "description": "发生在济州岛宾馆的爱情故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "124",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

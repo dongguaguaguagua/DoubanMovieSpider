@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "哥们儿",
+  "url": "/subject/26931173/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2403794738.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409923/",
+      "name": "胡世闻 Shiwen Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365994/",
+      "name": "李恒建 Hengjian Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389576/",
+      "name": "李兴华 Kelvin Lee"
+    }
+  ]
+,
+  "datePublished": "2016-12-08",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u540c\u6027"],
+  "duration": "",
+  "description": "品学兼优的云逸泽在学校中实习，与狂放不羁的差生丁辰互相看不顺眼，却因一次意外得知了丁辰的秘密身份，转而与丁辰哥们儿相称，在校园里上演一幕幕生猛搞笑的青春趣事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

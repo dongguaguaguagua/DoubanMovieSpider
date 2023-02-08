@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Music Station Ultra FES 30周年纪念特别节目 ミュージックステーション ウルトラFES 2016",
+  "url": "/subject/26881009/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2386274313.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028304/",
+      "name": "滨崎步 Ayumi Hamasaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006103/",
+      "name": "福山雅治 Masaharu Fukuyama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1169581/",
+      "name": "平井坚 Ken Hirai"
+    }
+  ]
+,
+  "datePublished": "2016-09-19",
+  "genre": ["\u97f3\u4e50", "\u771f\u4eba\u79c0"],
+  "duration": "PT10H0M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

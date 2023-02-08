@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "莉莉国旗下的勇敢演讲",
+  "url": "/subject/26770359/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2332138912.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351980/",
+      "name": "黄刚 Gang Huang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-04-11",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT0H11M",
+  "description": "青春懵懂的莉莉喜欢上班里的一个男孩，她情不自禁地注意着这个男孩的一举一动。于是在一次年级表彰大会上，莉莉做了一个勇敢的决定……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

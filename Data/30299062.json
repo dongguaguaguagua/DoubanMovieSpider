@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "えんぎもん",
+  "url": "/subject/30299062/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2530885358.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367566/",
+      "name": "山田由香 Yuka Yamada"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399515/",
+      "name": "堂坂晃三 Douzaka Kouzou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399517/",
+      "name": "神尾晋一郎 Kamio Shin`ichirou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413860/",
+      "name": "山盛由果 Yamamori Yuka"
+    }
+  ]
+,
+  "datePublished": "2018-05-08",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "子どもに夢を与え、想像力をはぐくむコンテンツ作りをめざして、キャラクターアニメーションを中心にデジタル絵本やARといったアプリなどを通して、エンタメから知育まで幅広く活動しているスタジオななほしが、ジ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

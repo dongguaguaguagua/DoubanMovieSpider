@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "树中男孩 Boys in the Trees",
+  "url": "/subject/26597261/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2377581968.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385331/",
+      "name": "Nicholas Verso Nicholas Verso"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385331/",
+      "name": "Nicholas Verso Nicholas Verso"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357356/",
+      "name": "托比·华莱士 Toby Wallace"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323237/",
+      "name": "格列佛·麦格拉思 Gulliver McGrath"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434770/",
+      "name": "Lauren Koopowitz Lauren Koopowitz"
+    }
+  ]
+,
+  "datePublished": "2016-09-10",
+  "genre": ["\u540c\u6027", "\u5947\u5e7b"],
+  "duration": "PT1H52M",
+  "description": "Halloween 1997 – the last night of high school for Corey, Jango and their skater gang, The Gromits. ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "109",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

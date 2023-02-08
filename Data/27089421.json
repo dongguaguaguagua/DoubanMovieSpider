@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "肥伊不容易 Easy - Un viaggio facile facile",
+  "url": "/subject/27089421/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2493015686.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381600/",
+      "name": "安德里亚·马格亚尼 Andrea Magnani"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381600/",
+      "name": "安德里亚·马格亚尼 Andrea Magnani"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025346/",
+      "name": "芭芭拉·布薛特 Barbara Bouchet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282074/",
+      "name": "利贝罗·德·瑞恩佐 Libero De Rienzo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1158897/",
+      "name": "奥斯塔普·斯图普卡 Ostap Stupka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376893/",
+      "name": "尼科拉·诺塞拉 Nicola Nocella"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381601/",
+      "name": "维诺妮卡·肖斯塔克 Veronika Shostak"
+    }
+  ]
+,
+  "datePublished": "2017-08-08",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H31M",
+  "description": "Easy曾经是一级方程式世界锦标赛最年轻的冠军，但在一次意外后他被勒令退赛，从此患上肥胖抑郁症一蹶不振。为黑手党工作的哥哥为他找了个穿越国境处理尸体的工作。于是他独自开着车开始了从意大利到匈牙利再到乌...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "300",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

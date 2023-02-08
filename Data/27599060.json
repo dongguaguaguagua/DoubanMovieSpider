@@ -1,0 +1,96 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Carol Burnett 50th Anniversary Special",
+  "url": "/subject/27599060/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2584463061.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055826/",
+      "name": "卡罗尔·博内特 Carol Burnett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036591/",
+      "name": "蒂姆·康威 Tim Conway"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110333/",
+      "name": "薇姬·劳伦斯 Vicki Lawrence"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1162107/",
+      "name": "Lyle Waggoner Lyle Waggoner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012550/",
+      "name": "斯蒂夫·劳伦斯 Steve Lawrence"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054438/",
+      "name": "金·凯瑞 Jim Carrey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044970/",
+      "name": "杰·雷诺 Jay Leno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002740/",
+      "name": "马丁·肖特 Martin Short"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031894/",
+      "name": "伯纳黛特·彼得斯 Bernadette Peters"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022589/",
+      "name": "克里斯汀·肯诺恩斯 Kristin Chenoweth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017902/",
+      "name": "比尔·哈德尔 Bill Hader"
+    }
+  ]
+,
+  "datePublished": "2017-12-03",
+  "genre": ["\u559c\u5267", "\u6b4c\u821e"],
+  "duration": "PT1H28M",
+  "description": "Celebrate the 50th anniversary of Carol Burnett&#39;s classic, award-winning comedy series with a new tw...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "梅纳什 Menashe",
+  "url": "/subject/26928141/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497255339.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383089/",
+      "name": "乔舒亚·Z·维恩斯坦 Joshua Z Weinstein"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383089/",
+      "name": "乔舒亚·Z·维恩斯坦 Joshua Z Weinstein"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391687/",
+      "name": "梅纳什·莱斯蒂奇 Menashe Lustig"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391688/",
+      "name": "约尔·法尔科威茨 Yoel Falkowitz"
+    }
+  ]
+,
+  "datePublished": "2017-01-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H22M",
+  "description": "《梅纳什》根据哈西德明星梅纳什·莱斯蒂奇的真实生活改编而成。在位于布鲁克林自治市区的纽约哈西德社区内，不幸丧失妻子的超市营业员梅纳什试图保留他们的孩子瑞文的监护权。由于整个社区的传统文化要求每个家庭必...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "132",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

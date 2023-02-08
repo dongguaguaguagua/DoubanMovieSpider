@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "仿形魔 Head Count",
+  "url": "/subject/30334135/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554694410.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417563/",
+      "name": "艾丽·卡拉翰 Elle Callahan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417563/",
+      "name": "艾丽·卡拉翰 Elle Callahan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1127385/",
+      "name": "迈克尔·纳德 Michael Nader"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406555/",
+      "name": "艾萨克·杰伊 Isaac Jay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417564/",
+      "name": "贝文·布茹 Bevin Bru"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417566/",
+      "name": "迈克尔·赫曼 Michael Herman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417845/",
+      "name": "比利·米德 Billy Meade"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1438810/",
+      "name": "库珀·罗韦 Cooper Rowe"
+    }
+  ]
+,
+  "datePublished": "2018-09-24",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "几个年轻人在去往约书亚树沙漠的旅行途中在不知情地情况下召唤出一个怪物，这怪物通过模仿他们的外表，把他们分开去完成一个致命的仪式...他们的结局会如何呢？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "199",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

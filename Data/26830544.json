@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Zorawar",
+  "url": "/subject/26830544/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2570406488.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336242/",
+      "name": "帕文·马特拉 Pavan Malhotra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423816/",
+      "name": "Yo Yo Honey Singh Yo Yo Honey Singh"
+    }
+  ]
+,
+  "datePublished": "2016-05-06",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u7231\u60c5", "\u60ac\u7591"],
+  "duration": "PT2H31M",
+  "description": "A soldier travels to Durban in order to search for his father, who settled there.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

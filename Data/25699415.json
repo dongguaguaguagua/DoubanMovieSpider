@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "厨房往事 Once Upon a Time in the Kitchen",
+  "url": "/subject/25699415/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029106/",
+      "name": "Alexander Williams Alexander Williams"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247642/",
+      "name": "克里斯·布朗 Chris Brown"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036341/",
+      "name": "尼古拉斯·霍尔特 Nicholas Hoult"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016670/",
+      "name": "杰玛·阿特登 Gemma Arterton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049500/",
+      "name": "斯蒂芬·弗雷 Stephen Fry"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "A rivalry forms in the kitchen amongst the cutlery who come to life when the chefs aren&#39;t looking.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

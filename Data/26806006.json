@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "非常通缉",
+  "url": "/subject/26806006/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2356790327.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316006/",
+      "name": "范雨林 Yulin Fan"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316006/",
+      "name": "范雨林 Yulin Fan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H12M",
+  "description": "电影《非常通缉》是一部发生在二十一世纪初期，没有国界、打击国际制毒和贩毒团伙的谍战动作片。影片中以中国特工人员李奇(范雨林饰)为代表，与美国中情局特派员强强联手打击犯罪。其中，美国中情局出现叛徒前往中...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

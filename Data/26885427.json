@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伊凡王子与百变公主 Ivan Tsarévitch et la Princesse Changeante",
+  "url": "/subject/26885427/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2386783741.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293463/",
+      "name": "米歇尔·欧斯洛 Michel Ocelot"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293463/",
+      "name": "米歇尔·欧斯洛 Michel Ocelot"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323482/",
+      "name": "朱利安·贝朗米斯 Julien Beramis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323483/",
+      "name": "马里内·格里泽 Marine Griset"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1063936/",
+      "name": "伊夫·巴萨克 Yves Barsacq"
+    }
+  ]
+,
+  "datePublished": "2016-09-28",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT0H53M",
+  "description": "每天晚上，一个女孩、一个男孩和一个老电影放映员都会在一个小电影院碰头，这个小电影院看似被废弃了，可实际上却十分奇妙。三个朋友一起创作、绘图、变装，成为了神奇的故事中的主角。地球深处、东方边境，他们极尽...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3397",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.2"
+  }
+}

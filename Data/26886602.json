@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "复仇女神 Las furias",
+  "url": "/subject/26886602/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2386606739.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282161/",
+      "name": "Miguel Del Arco Miguel Del Arco"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282161/",
+      "name": "Miguel Del Arco Miguel Del Arco"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009864/",
+      "name": "埃玛·苏亚雷斯 Emma Suárez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193676/",
+      "name": "卡门·马奇 Carmen Machi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028583/",
+      "name": "何塞·萨克里斯坦 José Sacristán"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000889/",
+      "name": "巴巴拉·莱涅 Bárbara Lennie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041701/",
+      "name": "阿尔维托·圣胡安 Alberto San Juan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008084/",
+      "name": "梅塞德斯·桑比特罗 Mercedes Sampietro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281993/",
+      "name": "冈扎洛·德·卡斯特 Gonzalo de Castro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165755/",
+      "name": "劳尔·普列托 Raúl Prieto"
+    }
+  ]
+,
+  "datePublished": "2016-10-28",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H5M",
+  "description": "A family reunion. A house to sale. A wedding to celebrate. And a weekend full of secrets to reveal.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

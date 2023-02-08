@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狗猪 Dhogs",
+  "url": "/subject/30230593/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522976215.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453608/",
+      "name": "伊万·马科斯 Iván Marcos"
+    }
+  ]
+,
+  "datePublished": "2017-10-11",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H25M",
+  "description": "Three stories of sordid and animalistic human behavior taking place under the gaze of spectators.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

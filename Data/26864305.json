@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "北地猎人 The Northlander",
+  "url": "/subject/26864305/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2460610654.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009443/",
+      "name": "柯里·瑟威尔 Corey Sevier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329304/",
+      "name": "罗丝安妮·休佩诺特 Roseanne Supernault"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346231/",
+      "name": "朱利安·布莱克·安蒂洛普 Julian Black Antelope"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041389/",
+      "name": "纳森尼尔·阿坎德 Nathaniel Arcand"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1171697/",
+      "name": "Paul Welch Paul Welch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366296/",
+      "name": "米歇尔·史拉斯 Michelle Thrush"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H38M",
+  "description": "In the year 2961, the time is after humanity and nature has recovered the land. A hunter named Cygnu...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

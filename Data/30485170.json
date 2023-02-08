@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "傲慢与偏见与槲寄生 Pride, Prejudice and Mistletoe",
+  "url": "/subject/30485170/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2550271382.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291424/",
+      "name": "Don McBrearty Don McBrearty"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027157/",
+      "name": "莱西·沙伯特 Lacey Chabert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388095/",
+      "name": "布兰登·佩尼 Brendan Penny"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1466640/",
+      "name": "凯特·亚历山大 Cait Alexander"
+    }
+  ]
+,
+  "datePublished": "2013-11-23",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H22M",
+  "description": "Darcy (Chabert) started her own company, rather than work with her father. Returning to her hometown...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

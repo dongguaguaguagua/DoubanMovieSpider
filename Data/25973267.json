@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "百老汇4D Broadway 4D",
+  "url": "/subject/25973267/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2386434280.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009761/",
+      "name": "加里·戈达尔 Gary Goddard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049586/",
+      "name": "布莱恩·辛格 Bryan Singer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009761/",
+      "name": "加里·戈达尔 Gary Goddard"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010508/",
+      "name": "休·杰克曼 Hugh Jackman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053552/",
+      "name": "克里斯蒂娜·阿奎莱拉 Christina Aguilera"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017976/",
+      "name": "哈维·费斯特恩 Harvey Fierstein"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032098/",
+      "name": "丽娅·萨隆加 Lea Salonga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040498/",
+      "name": "马修·莫里森 Matthew Morrison"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032567/",
+      "name": "乔治·凯特 George Katt"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6b4c\u821e"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

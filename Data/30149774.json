@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜魔莉莉丝 Lilith",
+  "url": "/subject/30149774/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2513865553.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164947/",
+      "name": "弗农·威尔斯 Vernon Wells"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1138200/",
+      "name": "费莉莎·罗斯 Felissa Rose"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1190743/",
+      "name": "德瓦尼·平 Devanny Pinn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407655/",
+      "name": "查尔斯·丘达巴拉 Charles Chudabala"
+    }
+  ]
+,
+  "datePublished": "2018-07-18",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "Lilith is a figure in Jewish mythology, developed earliest in the Babylonian Talmud (3rd to 5th cent...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

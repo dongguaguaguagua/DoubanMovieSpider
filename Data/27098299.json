@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Ivan Thanthiran",
+  "url": "/subject/27098299/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2584924210.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427035/",
+      "name": "高达姆·卡尔迪克 Gautham Karthik"
+    }
+  ]
+,
+  "datePublished": "2017-06-30",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "Two engineering dropouts stumble upon the activities of a corrupt education minister owning engineer...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

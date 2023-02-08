@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "异星觉醒 Life",
+  "url": "/subject/26718838/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2456571580.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000735/",
+      "name": "丹尼尔·伊斯皮诺萨 Daniel Espinosa"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327382/",
+      "name": "瑞特·里斯 Rhett Reese"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327381/",
+      "name": "保罗·韦尼克 Paul Wernick"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048002/",
+      "name": "杰克·吉伦哈尔 Jake Gyllenhaal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088314/",
+      "name": "丽贝卡·弗格森 Rebecca Ferguson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053623/",
+      "name": "瑞安·雷诺兹 Ryan Reynolds"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027879/",
+      "name": "真田广之 Hiroyuki Sanada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347910/",
+      "name": "阿利安·巴克瑞 Ariyon Bakare"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371111/",
+      "name": "奥尔加·戴维克娜雅 Olga Dihovichnaya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371112/",
+      "name": "大卫·梅尔 David Muir"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1154606/",
+      "name": "伊莉莎白·巴尔加斯 Elizabeth Vargas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371113/",
+      "name": "卡米尔·沃伦-泰勒 Camiel Warren-Taylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1133440/",
+      "name": "森尚子 Naoko Mori"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358779/",
+      "name": "亚历山大·阮 Alexandre Nguyen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371114/",
+      "name": "希·伍辛 Hiu Woong-Sin"
+    }
+  ]
+,
+  "datePublished": "2017-03-18",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H44M",
+  "description": "大卫（杰克·吉伦哈尔 Jake Gyllenhaal 饰）、米兰达（丽贝卡·弗格森 Rebecca Ferguson 饰）、罗里（瑞安·雷诺兹 Ryan Reynolds 饰）、秀（真田广之 饰）和休...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "147293",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

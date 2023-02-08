@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大闹西游",
+  "url": "/subject/30142649/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533745160.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329113/",
+      "name": "马系海 Jihai Ma"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388537/",
+      "name": "张琛 Chen Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445525/",
+      "name": "生凌志 Lingzhi Sheng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349113/",
+      "name": "孙晔 Ye Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326543/",
+      "name": "沈达威 Dawei Shen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350677/",
+      "name": "陶典 Dian Tao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328394/",
+      "name": "刘北辰 Beichen Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423663/",
+      "name": "张琦 Qi Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-09-22",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H32M",
+  "description": "玩具孙五元自认是美猴王，却因拿不出金箍棒在玩具世界饱受嘲笑。机缘巧合之下，孙五元只身一人进入了西游世界，并偶遇被赶回花果山的孙悟空。一心想要金箍棒的孙五元死缠烂打，孙悟空无奈提出条件：孙五元要拜其为师...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1990",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.9"
+  }
+}

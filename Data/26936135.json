@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "独眼王 El rei borni",
+  "url": "/subject/26936135/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2405760928.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365967/",
+      "name": "Marc Crehuet Marc Crehuet"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365967/",
+      "name": "Marc Crehuet Marc Crehuet"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356375/",
+      "name": "米奇·艾斯巴尔贝 Miki Esparbé"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399946/",
+      "name": "贝茜·特内兹 Betsy Túrnez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445328/",
+      "name": "露丝·略皮斯 Ruth Llopis"
+    }
+  ]
+,
+  "datePublished": "2016-05-20",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H27M",
+  "description": "是由马克·格雷休特自编自导的黑色喜剧，整部影片幽默诙谐却又引人深思。 影片讲述了因警察大卫的街头执法而失去一只眼睛的男子纳乔，机缘巧合下去大卫家中坐客，认出对方身份而发生的一系列事件。在影片中，大卫认...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

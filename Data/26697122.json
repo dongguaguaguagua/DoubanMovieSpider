@@ -1,0 +1,78 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "梅花森林 La forêt de Quinconces",
+  "url": "/subject/26697122/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2355709667.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274547/",
+      "name": "格雷戈瓦·勒普兰斯-林盖 Grégoire Leprince-Ringuet"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274547/",
+      "name": "格雷戈瓦·勒普兰斯-林盖 Grégoire Leprince-Ringuet"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274547/",
+      "name": "格雷戈瓦·勒普兰斯-林盖 Grégoire Leprince-Ringuet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1417901/",
+      "name": "保琳·卡彭尼 Pauline Caupenne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1067437/",
+      "name": "玛丽莲·坎托 Marilyne Canto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328837/",
+      "name": "安托万·夏佩 Antoine Chappey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1098173/",
+      "name": "蒂埃里·汉西斯 Thierry Hancisse"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1097138/",
+      "name": "海洛依丝·戈多 Héloise Godet"
+    }
+  ]
+,
+  "datePublished": "2016-05-17",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H49M",
+  "description": "翁蒂娜和保罗曾经相爱。当翁蒂娜离开保罗，他发誓自己不会再爱了。为了证明自己，他去追求美丽的卡米尔，打算引诱她后再抛弃她。
+但卡米尔希望保罗只属于自己，并在他身上施了魔咒。
+慢慢为卡米尔的魅力所倾倒，保...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "96",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

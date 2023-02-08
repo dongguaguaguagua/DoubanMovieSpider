@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "皇室冬日 A Royal Winter",
+  "url": "/subject/26961037/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2416323057.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377926/",
+      "name": "迪克西·艾格瑞克斯 Dixie Egerickx"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413617/",
+      "name": "乔治·雷米斯 George Remes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328236/",
+      "name": "梅里特·帕特森 Merritt Patterson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335088/",
+      "name": "杰克·唐纳利 Jack Donnelly"
+    }
+  ]
+,
+  "datePublished": "2017-01-14",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "When Maggie Marks faces a tough career decision, she flees to Europe for some soul searching and sig...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "101",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

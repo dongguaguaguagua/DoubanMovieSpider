@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Guys Reading Poems",
+  "url": "/subject/26576867/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2300849010.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050239/",
+      "name": "莉蒂亚·赫斯特 Lydia Hearst"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467813/",
+      "name": "克里斯·克里 Chris Crema"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "",
+  "description": "An all-male, literary secret society intervenes in the lives of a creative but troubled family resid...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

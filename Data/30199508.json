@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "永远的艾玛 Für Emma und ewig",
+  "url": "/subject/30199508/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2620115436.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330916/",
+      "name": "多伦·维索茨基 Doron Wisotzky"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330916/",
+      "name": "多伦·维索茨基 Doron Wisotzky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038467/",
+      "name": "米莎·路文斯基 Micha Lewinsky"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061081/",
+      "name": "帕斯奎尔·阿莱亚尔迪 Pasquale Aleardi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1212020/",
+      "name": "Nadja Becker Nadja Becker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019307/",
+      "name": "曼努尔·科特兹 Manuel Cortez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1211532/",
+      "name": "Inez Björg David Inez Björg David"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481227/",
+      "name": "路易斯·沃巴赫 Luis Vorbach"
+    }
+  ]
+,
+  "datePublished": "2017-02-21",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "Emma, a wedding registrar, is unhappily married. When a former lover, Ben, re-appears in her life wi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

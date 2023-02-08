@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "林屋惊魂 The Cabin",
+  "url": "/subject/30380326/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2628753399.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1093502/",
+      "name": "Thomas Hedengran Thomas Hedengran"
+    }
+  ]
+,
+  "datePublished": "2018-12-04",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "When a couple visits a remote cabin and cross paths with a compulsive liar, their vacation takes a d...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "81",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

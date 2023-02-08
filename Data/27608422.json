@@ -1,0 +1,56 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "瀛花劫",
+  "url": "/subject/27608422/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528610367.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318068/",
+      "name": "陈美行 Meixing Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375414/",
+      "name": "俞艾辰 Aichen YU"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320465/",
+      "name": "张德晖 Dehui Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410708/",
+      "name": "李易芸 Yiyun Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "电影《瀛花劫》讲述了沈楠的妻子在日本旅游时失踪，侦探罗薇抽丝剥茧于重重迷雾之中，揭开了事件真相，从而破获了一个跨国贩卖人口的黑社会团伙。
+此片入围第八届迈阿密美洲电影节暨金灯塔电影节
+入围第三届加拿大...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

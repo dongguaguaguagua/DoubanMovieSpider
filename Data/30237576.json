@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拉皮条 Pimped",
+  "url": "/subject/30237576/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2528869042.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054922/",
+      "name": "大卫·J·巴克 David J. Barker"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1117093/",
+      "name": "艾拉·斯科特·林奇 Ella Scott Lynch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352171/",
+      "name": "本尼迪克特·萨缪尔 Benedict Samuel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394765/",
+      "name": "Heather Mitchell Heather Mitchell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1083123/",
+      "name": "刘易斯·菲茨-杰拉德 Lewis Fitz-Gerald"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377119/",
+      "name": "卡玛·莎伦 Carma Sharon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223363/",
+      "name": " Heather Roberson"
+    }
+  ]
+,
+  "datePublished": "2019-02-05",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H19M",
+  "description": "Two twisted housemates lure an unbalanced woman into a sexual trap, with murderous results.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

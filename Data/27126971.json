@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "抓鬼",
+  "url": "/subject/27126971/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557660047.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380453/",
+      "name": "冯轶 Feng Yi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380453/",
+      "name": "冯轶 Feng Yi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385621/",
+      "name": "荆松凯 Jing Songkai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380453/",
+      "name": "冯轶 Feng Yi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u6050\u6016"],
+  "duration": "PT0H45M",
+  "description": "四名大学生在暑假进行社会实践，到偏远的村庄拍摄纪录片，调查民间鬼怪文化。
+然而，随着调查的深入，怪事频频发生，他们渐渐发现事情远没想象的那么简单。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

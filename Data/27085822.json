@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卫校男生",
+  "url": "/subject/27085822/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2490976017.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376826/",
+      "name": "田甜 Tian Tian"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376827/",
+      "name": "吴为 Wei Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376826/",
+      "name": "田甜 Tian Tian"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376829/",
+      "name": "李奕增 Yizeng Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376830/",
+      "name": "张悦楠 Yuenan Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376832/",
+      "name": "舒贵林 Guilin Shu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376833/",
+      "name": "孙书博 Shubo Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376834/",
+      "name": "许伊宁 Yining Xu"
+    }
+  ]
+,
+  "datePublished": "2017-07-13",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H15M",
+  "description": "新生报道，一直对男生“虎视眈眈“的护理学院居然来了3个帅哥，这在整个护理学院可是十年不遇！身为学霸的马海波因好友张晓晓帮自己填错志愿来到护理学院后，一心学习，不近女色。这等高颜值学霸款更是引得各路学姐...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

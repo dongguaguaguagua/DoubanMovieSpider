@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "防暴女孩 Riot Girls",
+  "url": "/subject/30151967/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2563413560.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1221411/",
+      "name": "乔宛卡·默克维克 Jovanka Vuckovic"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363304/",
+      "name": "麦迪森·伊瑟曼 Madison Iseman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329231/",
+      "name": "帕洛玛·克维亚特科夫斯基 Paloma Kwiatkowski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428575/",
+      "name": "阿提克斯·米切尔 Atticus Mitchell"
+    }
+  ]
+,
+  "datePublished": "2019-09-13",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "A post-apocalyptic thriller set in an alternate 1995, where a mysterious disease has wiped out all o...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冤家姐妹 Pataakha",
+  "url": "/subject/30334090/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2535089212.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278579/",
+      "name": "维夏·巴德瓦杰 Vishal Bhardwaj"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372458/",
+      "name": "桑亚·玛荷塔 Sanya Malhotra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295088/",
+      "name": "维贾伊·拉齐 Vijay Raaz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050349/",
+      "name": "玛拉伊卡·阿罗拉 Malaika Arora"
+    }
+  ]
+,
+  "datePublished": "2018-09-28",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT2H14M",
+  "description": "本片改编自查兰·辛格·帕提克的短篇小说《多贝宁》，该片讲述了两个长期不和的姐妹在婚姻破裂后才意识到彼此关系本质的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

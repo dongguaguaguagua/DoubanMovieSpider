@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "意图2：浮现 The Intent 2: The Come Up",
+  "url": "/subject/30430663/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2545384067.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382874/",
+      "name": "凯伦·布莱森 Karen Bryson"
+    }
+  ]
+,
+  "datePublished": "2018-09-21",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT1H43M",
+  "description": "Prequel the the successful 2016 film &#39;The Intent&#39;",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

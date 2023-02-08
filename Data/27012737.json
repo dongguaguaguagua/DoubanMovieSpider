@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "误入歧途 The Misguided",
+  "url": "/subject/27012737/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2511117282.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371436/",
+      "name": "凯瑟琳·兰福德 Katherine Langford"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H29M",
+  "description": "After planning to leave the city with his girlfriend, a young man must first betray her in order to ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

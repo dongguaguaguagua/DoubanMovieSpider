@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们之一 One of Us",
+  "url": "/subject/26909798/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2446351059.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029319/",
+      "name": "Blake Reigle Blake Reigle"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023430/",
+      "name": "Andrea Ajemian Andrea Ajemian"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040637/",
+      "name": "克丽丝塔·B·艾伦 Christa B. Allen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333173/",
+      "name": "Derek Smith Derek Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027236/",
+      "name": "卡莉·许洛德 Carly Schroeder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316926/",
+      "name": "查斯蒂·巴勒斯特罗斯 Chasty Ballesteros"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "A young journalist goes deep undercover within a mountain commune and becomes manipulated by a dupli...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "166",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

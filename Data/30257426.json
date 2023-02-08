@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Safe Place",
+  "url": "/subject/30257426/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1238522/",
+      "name": "小比尔·奥伯斯特 Bill Oberst Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1261825/",
+      "name": " Lara Jean Mummert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392772/",
+      "name": "约翰·盖蒂尔 John Gettier"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Lori and her friends have their whole lives ahead of them. Or so they think - When art student Lori ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

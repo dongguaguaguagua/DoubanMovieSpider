@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "她要嫁给史蒂夫 She&#39;s Marrying Steve",
+  "url": "/subject/34676447/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2563737768.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408234/",
+      "name": "珍娜·劳伦索 Jenna Laurenzo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u540c\u6027"],
+  "duration": "PT0H23M",
+  "description": "A 20-something woman gets invited to her ex-girlfriend&#39;s wedding to a man and decides to go.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "86",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

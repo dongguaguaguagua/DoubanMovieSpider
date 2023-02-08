@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "留住我的灵魂 My Soul to Keep",
+  "url": "/subject/30344292/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2571060590.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440044/",
+      "name": "艾曼纽·图柯 Emmanuelle Turco"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440046/",
+      "name": "帕克·斯梅雷克 Parker Smerek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440047/",
+      "name": "Remington Gielniak Remington Gielniak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440051/",
+      "name": "玛丽亚·瓦西科夫斯基 Maria Wasikowski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440050/",
+      "name": "阿莉尔·奥利霍夫斯基 Arielle Olkhovsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440052/",
+      "name": "杰克·罗杰 Jake Rotger"
+    }
+  ]
+,
+  "datePublished": "2019-04-12",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "Like many 9-year-old boys, Eli Braverman believes something menacing lives in his basement. When his...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "145",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

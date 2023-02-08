@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "呦呦鹿鸣",
+  "url": "/subject/30279678/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2660155384.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353185/",
+      "name": "赵麒 Qi Zhao"
+    }
+  ]
+,
+  "datePublished": "2019-04-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "20几年前一个北朝鲜女人为了寻找她的丈夫，挺着孕肚只身翻山越岭来到中国鹿乡，被善良的养鹿人救起。有时候命运就是这样神秘莫测，每一次偶然的相遇，很可能都是久别重逢。转业回乡的侦察兵碰巧遇到艺术女孩开画展...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

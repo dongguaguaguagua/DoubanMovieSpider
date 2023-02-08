@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "自杀解决方案 Daddy&#39;s Girl",
+  "url": "/subject/30149889/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2537313314.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023459/",
+      "name": "朱利安·理查德 Julian Richards"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1479287/",
+      "name": "肖恩·霍根 Sean Hogan  "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334281/",
+      "name": "杰玛·达兰德 Jemma Dallender"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1057556/",
+      "name": "马克·阿诺德 Mark Arnold"
+    }
+  ]
+,
+  "datePublished": "2018-10-04",
+  "genre": ["\u60ca\u609a", "\u6050\u6016", "\u72af\u7f6a"],
+  "duration": "PT1H21M",
+  "description": "A young woman held captive by her stepfather becomes the focus of a female vigilante.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

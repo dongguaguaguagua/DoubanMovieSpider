@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "诡梦凶铃",
+  "url": "/subject/26582780/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2382005024.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319338/",
+      "name": "邓安东 Andong Deng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319338/",
+      "name": "邓安东 Andong Deng"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1171687/",
+      "name": "方力申 Lik-Sun Fong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318220/",
+      "name": "李斯丹妮 Dany Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362526/",
+      "name": "何映桥 Yingqiao He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362525/",
+      "name": "王馨彤 Xintong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409477/",
+      "name": "刘小东 Xiaodong Liu"
+    }
+  ]
+,
+  "datePublished": "2016-09-23",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H30M",
+  "description": "手机里的呼叫人讲着不知所谓的内容，但那毫无疑问的是自己的声音，这是怎么回事？
+妻子、情人、助理先后死于这通电话，杜阳（方力申 饰）企图揭开真相，可很快，他发现一旦接到“鬼来电”，必然在电话所预言的时间...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "608",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.4"
+  }
+}

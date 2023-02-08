@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "追捕2",
+  "url": "/subject/26780009/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2340173047.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357107/",
+      "name": "曾伏虎 Zeng Fuhu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357108/",
+      "name": "舒广袖 Shu Guangxiu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357108/",
+      "name": "舒广袖 Shu Guangxiu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT0H30M",
+  "description": "曾伏虎导演、兄妹影业出品电影《追捕》既是为武侠巨制《叶如翼》做的系列武侠电影，又分别是一部单独的作品。 这一系列悬疑短片的实践是曾伏虎导演在表现手法上力图把中国传统美学、武侠片脉路传承创新迈开的重要一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

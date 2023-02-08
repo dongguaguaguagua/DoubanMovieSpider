@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "事儿",
+  "url": "/subject/27012356/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2656820463.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320537/",
+      "name": "秦梦擎 Meng-qin Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316019/",
+      "name": "王伟光 Weiguang Wang "
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "几段循环故事结构，一对情侣想要在北京买房，两对夫妻想要拿到北京车牌，一位老人想要帮助儿子解决买学区房的困难，几个人物纠葛在一起……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "107",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

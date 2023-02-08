@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "容基耶尔女士 Mademoiselle de Joncquières",
+  "url": "/subject/27596261/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2558500609.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010465/",
+      "name": "埃马纽埃尔·穆雷 Emmanuel Mouret"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1030131/",
+      "name": "丹尼斯·狄德罗 Denis Diderot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010465/",
+      "name": "埃马纽埃尔·穆雷 Emmanuel Mouret"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009435/",
+      "name": "塞西尔·德·弗朗斯 Cécile De France"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037147/",
+      "name": "埃德瓦·贝耶 Edouard Baer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339549/",
+      "name": "爱丽丝·伊萨 Alice Isaaz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317067/",
+      "name": "娜塔莉亚·多切瓦 Natalia Dontcheva"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332593/",
+      "name": "劳尔·卡拉米 Laure Calamy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384897/",
+      "name": "让-米歇尔·拉米 Jean-Michel Lahmi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371903/",
+      "name": "塞巴斯蒂安·劳德巴克 Sébastien Laudenbach"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1204223/",
+      "name": "Gabrielle Atger Gabrielle Atger"
+    }
+  ]
+,
+  "datePublished": "2018-09-07",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H49M",
+  "description": "一个富有的寡妇爱上了一个好色的侯爵，但两人的爱情却急转向下，于是她决定在一名年轻的女子的帮助下实施报复",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1985",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "间谍的儿子 Spy&#39;s Kid",
+  "url": "/subject/26007858/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014019/",
+      "name": "D·J·卡卢索 D.J. Caruso"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "The son of a convicted American double agent is caught giving secrets to the Russians.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

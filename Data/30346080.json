@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "沉默的牧羊人",
+  "url": "/subject/30346080/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2620379200.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402463/",
+      "name": "海萨尔 Kayser"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402463/",
+      "name": "海萨尔 Kayser"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H0M",
+  "description": "游牧的生活方式，一直是哈萨克民族的根基，但是城市化的推进使游牧为生的这种方式逐渐堕落，这种转变，对牧民来说无奈而又迷茫，却不得不去承受、去尽力适应，甚至要去改变自己。主人公的家庭正在遭受着这样的冲击，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

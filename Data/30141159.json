@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Christmas Princess",
+  "url": "/subject/30141159/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512822029.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388495/",
+      "name": "克里斯托弗·德-舒斯特 Christopher De-Schuster"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390424/",
+      "name": "奥莉维亚·斯提尔·法奥康纳 Olivia Steele Falconer"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

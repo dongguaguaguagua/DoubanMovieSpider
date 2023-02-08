@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "王牌宫女",
+  "url": "/subject/30122629/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2521081983.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361769/",
+      "name": "赵世尧 Shiyao Zhao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372696/",
+      "name": "杨雪儿 Xueer Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393879/",
+      "name": "郝文婷 Wenting Hao"
+    }
+  ]
+,
+  "datePublished": "2018-04-14",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "",
+  "description": "《王牌宫女》是一部由赵世尧导演的电影，影片讲述李礽从小被推上太子之位，被迫身处政治斗争漩涡的中心，实则极其不喜官场的尔虞我诈，最大愿望是当一个文人墨客浪迹天涯。但因是太子身份，愿望看似遥遥无期，直到遇...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

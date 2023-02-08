@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Entire Universe",
+  "url": "/subject/26948778/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2410551337.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1056317/",
+      "name": "伊恩·阿什皮特尔 Ian Ashpitel"
+    }
+  ]
+,
+  "datePublished": "2016-12-26",
+  "genre": ["\u559c\u5267", "\u6b4c\u821e"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

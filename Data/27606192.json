@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "男孩们 Boys",
+  "url": "/subject/27606192/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2507840780.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475991/",
+      "name": "皮尔斯·约乍 pearce joza"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476000/",
+      "name": "怀亚特·哥利斯沃特 Wyatt Griswold"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u540c\u6027", "\u513f\u7ae5"],
+  "duration": "PT0H14M",
+  "description": "BOYS is a story about two best friends on the first day of summer. Set in 1999, Brian sleeps over at...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "249",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "那年，我还没长大",
+  "url": "/subject/30230515/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523175541.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375139/",
+      "name": "马和平 Heping Ma"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375139/",
+      "name": "马和平 Heping Ma"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394056/",
+      "name": "王广达 Guangda Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375141/",
+      "name": "赵纪东 Jidong Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394057/",
+      "name": "曾浩宇 Haoyu Zeng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460826/",
+      "name": "王嘉轩 Jiaxuan Wang"
+    }
+  ]
+,
+  "datePublished": "2018-06-08",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5"],
+  "duration": "PT1H35M",
+  "description": "上世纪八十年代初，小石头的父母因躲债背井离乡，石头与二叔在山村里相依为命。为了得到正义象征的大盖帽，小石头想尽办法。期间，与伙伴、二叔发生了很多感人的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

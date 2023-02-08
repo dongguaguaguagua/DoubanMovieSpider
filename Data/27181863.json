@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "红色夏天 Verano Rojo",
+  "url": "/subject/27181863/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503238619.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1058576/",
+      "name": "西蒙·安德鲁 Simón Andreu"
+    }
+  ]
+,
+  "datePublished": "2017-01-30",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H45M",
+  "description": "Four young people come to Mallorca to enjoy idyllic summer holidays, but delving into the most inhos...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "155",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

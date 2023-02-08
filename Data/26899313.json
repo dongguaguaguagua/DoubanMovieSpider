@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑山迷踪 A Balkan Noir",
+  "url": "/subject/26899313/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2509005082.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346488/",
+      "name": "约翰内斯·昆科 Johannes Kuhnke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1150450/",
+      "name": "谢尔盖·特里富诺维奇 Sergej Trifunović"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1155730/",
+      "name": "安娜·索夫雷诺维奇 Ana Sofrenovic"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "It has been seven years since Nina&#39;s daughter went missing and only during cigarette breaks do we ge...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

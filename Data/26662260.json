@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伍德肖克的偏执 Woodshock",
+  "url": "/subject/26662260/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2493667233.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373887/",
+      "name": "凯特·穆里维 Kate Mulleavy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373888/",
+      "name": "劳拉·穆里维 Laura Mulleavy"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373887/",
+      "name": "凯特·穆里维 Kate Mulleavy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373888/",
+      "name": "劳拉·穆里维 Laura Mulleavy"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054429/",
+      "name": "克斯汀·邓斯特 Kirsten Dunst"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317564/",
+      "name": "乔·科尔 Joe Cole"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339907/",
+      "name": "罗蕾莱·林克莱特 Lorelei Linklater"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032805/",
+      "name": "皮鲁·埃斯贝克 Pilou Asbæk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339107/",
+      "name": "杰克·基默 Jack Kilmer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276527/",
+      "name": "苏珊·特雷勒 Susan Traylor"
+    }
+  ]
+,
+  "datePublished": "2017-09-04",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u5947\u5e7b"],
+  "duration": "PT1H41M",
+  "description": "A24家的惊悚新片，穆里维姐妹执导的长片处女作，她们是美国知名的服装设计师，曾创立了罗达特时装品牌。这部电影此前在威尼斯电影节进行了展映，由戛纳影后克斯汀·邓斯特担任主演，故事主要围绕一个服用了某种药...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "345",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.4"
+  }
+}

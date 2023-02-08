@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "荣誉 Honor Up",
+  "url": "/subject/30149492/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2519027065.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045212/",
+      "name": "达蒙·达什 Damon Dash"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045212/",
+      "name": "达蒙·达什 Damon Dash"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1065456/",
+      "name": "Jay Black Jay Black"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1187983/",
+      "name": "Cam&#39;ron Cam&#39;ron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045212/",
+      "name": "达蒙·达什 Damon Dash"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006976/",
+      "name": "斯黛西·达什 Stacey Dash"
+    }
+  ]
+,
+  "datePublished": "2018-02-16",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a", "\u5192\u9669"],
+  "duration": "PT1H24M",
+  "description": "A drug lord&#39;s lieutenant struggles to protect his crime family and his own honor after a shootout.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

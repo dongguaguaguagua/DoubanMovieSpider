@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "唤醒杀手 Awakening the Zodiac",
+  "url": "/subject/27007255/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457976359.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163753/",
+      "name": "Jonathan Wright Jonathan Wright"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163753/",
+      "name": "Jonathan Wright Jonathan Wright"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017909/",
+      "name": "夏恩·韦斯特 Shane West"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040520/",
+      "name": "莱丝莉·比伯 Leslie Bibb"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041223/",
+      "name": "马特·克拉文 Matt Craven"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385949/",
+      "name": "伊娃·林克 Eva Link"
+    }
+  ]
+,
+  "datePublished": "2017-06-09",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H40M",
+  "description": "影片讲述了哈维无意中发现了多年前连环杀手十二宫自拍的杀人录像，他联系好友决定报警并平分十万美金的悬赏，不料当夜杀手便将他们盯上，一场屠杀即将开始。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "297",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

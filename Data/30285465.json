@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拖车大叔的一夜惊喜 Roulez Jeunesse",
+  "url": "/subject/30285465/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540780457.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023375/",
+      "name": "埃里克·朱多尔 Eric Judor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429658/",
+      "name": "路易丝·拉贝克 Louise Labeque"
+    }
+  ]
+,
+  "datePublished": "2018-07-28",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H24M",
+  "description": "Alex, 43 ans, est dépanneur automobile dans le garage que dirige d&#39;une main de fer sa mère. Un jour,...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

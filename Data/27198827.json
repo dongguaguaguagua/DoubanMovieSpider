@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Ki Kore Toke Bolbo",
+  "url": "/subject/27198827/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2504941605.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424034/",
+      "name": "罗比·奇那基 Rabi Kinagi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424034/",
+      "name": "罗比·奇那基 Rabi Kinagi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384165/",
+      "name": "安库什·哈扎拉 Ankush Hazra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423479/",
+      "name": "卡拉吉·穆克吉 Kharaj Mukherjee"
+    }
+  ]
+,
+  "datePublished": "2016-02-12",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H24M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

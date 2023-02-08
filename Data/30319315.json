@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "沙丘",
+  "url": "/subject/30319315/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2533372604.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400449/",
+      "name": "王同贺 Tonghe Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400449/",
+      "name": "王同贺 Tonghe Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373862/",
+      "name": "范家其 Jiaqi Fan"
+    }
+  ]
+,
+  "datePublished": "2018-05-21",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT0H18M",
+  "description": "平行时间线的未来，能源短缺、战争、饥荒、瘟疫等种种问题已经使得人类文明濒临灭绝，往日的城市被掩埋在黄沙之下，幸存下来的人们挣扎在废土的世界中。许多人依然相信有“绿洲”的存在，为了继续在这片被神抛弃的世...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "索菲亚 Sofia",
+  "url": "/subject/30226802/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2534302953.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391632/",
+      "name": "梅丽安·班巴荷克 Meryem Benm&#39;Barek-Aloïsi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391632/",
+      "name": "梅丽安·班巴荷克 Meryem Benm&#39;Barek-Aloïsi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314431/",
+      "name": "卢巴纳·阿兹巴尔 Lubna Azabal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033559/",
+      "name": "法兹·本沙迪 Faouzi Bensaïdi"
+    }
+  ]
+,
+  "datePublished": "2018-05-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H20M",
+  "description": "未婚產子不單令家族蒙羞，更可能身陷囹圄。在家人威迫下，蘇菲亞供出經手人是一面之緣的窮青年。他矢口否認，但終允奉子成婚，以避牢獄之災，亦讓貧困母親得到女方家庭的經濟援助。婚禮風光背後，隱藏見不得光的秘密...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Kreep",
+  "url": "/subject/27030953/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2456900051.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1463418/",
+      "name": "布雷特·本特曼 Brett Bentman"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036363/",
+      "name": "贾德·尼尔森 Judd Nelson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1221276/",
+      "name": "查尔斯·贝克 Charles Baker"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a", "\u5192\u9669"],
+  "duration": "PT1H16M",
+  "description": "Fleeing a bounty hunter, a thief and a farmer set out on an incredible journey across Texas.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

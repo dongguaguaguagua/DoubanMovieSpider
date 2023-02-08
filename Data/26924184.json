@@ -1,0 +1,78 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小的大惊喜 Little Big Awesome",
+  "url": "/subject/26924184/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2401230173.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320585/",
+      "name": "弗雷德·塔特西奥 Fred Tatasciore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1156601/",
+      "name": "詹姆斯·阿诺德·泰勒 James Arnold Taylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1171011/",
+      "name": "达纳·斯耐德 Dana Snyder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322445/",
+      "name": "罗格·杰克逊 Roger Jackson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1157673/",
+      "name": "Brendon Small Brendon Small"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1099725/",
+      "name": "Denise Gorzellany Denise Gorzellany"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362203/",
+      "name": "简·牧野 Jan Makino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392603/",
+      "name": "洁西卡麦肯纳 Jessica McKenna"
+    }
+  ]
+,
+  "datePublished": "2016-06-17",
+  "genre": ["\u52a8\u753b", "\u5bb6\u5ead"],
+  "duration": "PT0H12M",
+  "description": "Two inseparable buddies, Gluko and Lennon, are in for a wonderfully strange adventure. Not only must...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

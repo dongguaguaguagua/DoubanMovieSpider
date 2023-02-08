@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "青芒",
+  "url": "/subject/26954002/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2886144661.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400916/",
+      "name": "周建兵 Jianbin Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483455/",
+      "name": "徐生宝 Shengbao Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405831/",
+      "name": "梁达弘 Darren Leung"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "该片改编自江苏作家徐生宝的同名小说，讲述了男女主人公失散后，经历多年，女主人公在失足状态下，与男主人公再次相遇、相知，化解各种误会，掀起一场正义之道与恶势力角斗的狂澜，成功截获了被黑社会盗取的千年泗水...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

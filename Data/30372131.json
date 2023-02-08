@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "米奇的第90次精彩表演 Mickey&#39;s 90th Spectacular",
+  "url": "/subject/30372131/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2539281015.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044707/",
+      "name": "道恩·强森 Dwayne Johnson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031240/",
+      "name": "克里斯汀·贝尔 Kristen Bell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009463/",
+      "name": "汤姆·霍兰德 Tom Holland"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1208919/",
+      "name": "温迪·麦丽登·康薇 Wendi McLendon-Covey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000011/",
+      "name": "亚历克·鲍德温 Alec Baldwin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036376/",
+      "name": "萨拉·海蓝德 Sarah Hyland"
+    }
+  ]
+,
+  "datePublished": "2018-11-04",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "",
+  "description": "A two-hour TV special celebrating 90 years of Mickey Mouse.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

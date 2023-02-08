@@ -1,0 +1,95 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Chair",
+  "url": "/subject/25971611/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2197830995.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000713/",
+      "name": "Chad Ferrin Chad Ferrin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002670/",
+      "name": "埃里克·罗伯茨 Eric Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049671/",
+      "name": "布莱恩·汤普森 Brian Thompson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040595/",
+      "name": "诺亚·海瑟威 Noah Hathaway"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007086/",
+      "name": "扎克·加利根 Zach Galligan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328256/",
+      "name": "娜奥米·格罗斯曼 Naomi Grossman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1238522/",
+      "name": "小比尔·奥伯斯特 Bill Oberst Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321479/",
+      "name": "苏珊·爱森伯格 Susan Eisenberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1138186/",
+      "name": "金·施赖纳 Kin Shriner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1170944/",
+      "name": "Paul Lacovara Paul Lacovara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134402/",
+      "name": "罗迪·派彭 Roddy Piper"
+    }
+  ]
+,
+  "datePublished": "2016-10-08",
+  "genre": ["\u60ca\u609a", "\u6050\u6016", "\u72af\u7f6a"],
+  "duration": "PT1H24M",
+  "description": "THE CHAIR follows the story of Richard Sullivan, an innocent man struggling to escape execution on d...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

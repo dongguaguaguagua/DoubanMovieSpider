@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "商界",
+  "url": "/subject/26586692/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2450357090.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357474/",
+      "name": "陈木川 Mu Chuan Chen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371160/",
+      "name": "鬼斗 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355060/",
+      "name": "任旭东 Xudong Ren"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054282/",
+      "name": "午马 Wu Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317162/",
+      "name": "石天龙 Dragon Shek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322642/",
+      "name": "尚华 Hua Shang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328282/",
+      "name": "刘勇 Yong Liu"
+    }
+  ]
+,
+  "datePublished": "2017-03-31",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "影片主要讲述深圳的两家手机运营商因为世仇而引出的一段生死恩怨。這其中又穿插错综复杂的爱情与友情，还有国际投资机构的介入等。在生死一线之际，中国的民族企业到底该何去何从？影片不仅营造了引人入胜的情节，还...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

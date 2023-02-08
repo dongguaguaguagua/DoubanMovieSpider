@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天蝎行动",
+  "url": "/subject/30402040/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2542453508.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314198/",
+      "name": "丁志城 Zhicheng Ding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275718/",
+      "name": "聂远 Yuan Nie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317440/",
+      "name": "杨旸 Yang Yang"
+    }
+  ]
+,
+  "datePublished": "2018-12-12",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H40M",
+  "description": "影片讲述青年医生刘云翔因为父亲的被杀从而卷入了一起日军盗抢国宝化石的阴谋，展示了我北平地下党为保护民族国宝而同日本侵略者斗智斗勇的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

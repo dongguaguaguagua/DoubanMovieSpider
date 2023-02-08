@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "欺诈游戏",
+  "url": "/subject/30213234/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2521541434.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349601/",
+      "name": "梅文泽 Wenze Mei"
+    }
+  ]
+,
+  "datePublished": "2018-05-04",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H22M",
+  "description": "同名同姓叫王云的十一个人被召集到一样同名同姓的中国首富王云的家中，跟大家玩一个游戏，共计十一轮的游戏规则，在游戏中获胜的人会得到1000万的奖励，在游戏中大家为了金钱开始露出了人性的贪婪，在一轮轮对决...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "二胎",
+  "url": "/subject/26795116/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316392/",
+      "name": "房子斌 Zibin Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397668/",
+      "name": "王胜凯 Shengkai Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "本剧讲述了T市一个八岁的小男孩左一阳面对刚刚出生的小妹妹，认为父母对自己的爱即将被小妹妹夺走，在上学途中任性地离家出走，历经磨难，最终成长为一个富有爱心、担当和责任感的男孩子的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

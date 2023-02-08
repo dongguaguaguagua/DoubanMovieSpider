@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Zielfahnder - Flucht in die Karpaten",
+  "url": "/subject/27622261/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2521006431.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050601/",
+      "name": "多米尼克·格拉夫 Dominik Graf"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278032/",
+      "name": "Rolf Basedow Rolf Basedow"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014868/",
+      "name": "罗纳尔德·策尔费尔德 Ronald Zehrfeld"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT1H53M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

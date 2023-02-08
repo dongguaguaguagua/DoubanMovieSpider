@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "敖鲁古雅的小侠客",
+  "url": "/subject/27043560/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2797503176.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316020/",
+      "name": "方军亮 Junliang Fang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343330/",
+      "name": "黄广生 Guangsheng Huang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434398/",
+      "name": "唐嘉隆 Tim"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5"],
+  "duration": "PT1H26M",
+  "description": "牧民小侠客与城市男孩合力保卫野生动物的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

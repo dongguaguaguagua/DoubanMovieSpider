@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "纵舞欢歌 Dantza",
+  "url": "/subject/30304270/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537977380.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283284/",
+      "name": "泰尔莫·艾斯纳 Telmo Esnal"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-09-24",
+  "genre": ["\u5267\u60c5", "\u6b4c\u821e"],
+  "duration": "PT1H38M",
+  "description": "一天辛苦的耕作临近尾声，此时，大雨毫无预兆地倾盆而下。雨后，新的生命将会从贫瘠的土壤中萌芽。过不了多久，新鲜的水果就会生长出来，逐渐成熟，最后变成一颗颗香甜多汁的苹果，制作出美味的苹果酒。这是一个关于...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "145",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "帕美嘉 เปรมิกาป่าราบ",
+  "url": "/subject/30222493/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2522192562.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443969/",
+      "name": "阿浓娜·尤莎楠妲 Anongnart Yusananda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455272/",
+      "name": "尊戈·基达坎·查塔卡威奈 Kidakarn Chatkaewmanee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1462761/",
+      "name": "普拉莫·帕坦 Pramote Pathan"
+    }
+  ]
+,
+  "datePublished": "2017-12-28",
+  "genre": ["\u559c\u5267", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H32M",
+  "description": "在曼谷偏远的山区森林裡，有许多名人被邀请参加派对，一台旧型的卡拉OK机被摆放在最显眼的角落。现场有人手痒插上插头准备开唱，却赫然出现一位穿著校服的年轻女鬼（吉娜戴素萨 饰），手持斧头狂杀现场来宾。侥倖...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "70",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

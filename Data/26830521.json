@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Killing Veerappan",
+  "url": "/subject/26830521/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2364545795.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000513/",
+      "name": "拉姆·戈帕尔·维马 Ram Gopal Varma"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415879/",
+      "name": "Mahendra Shrivas Mahendra Shrivas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433139/",
+      "name": "西瓦·拉吉库马尔 Shivarajkumar"
+    }
+  ]
+,
+  "datePublished": "2016-01-02",
+  "genre": ["\u4f20\u8bb0", "\u72af\u7f6a"],
+  "duration": "PT2H31M",
+  "description": "Describes the events leading to the capture and killing of notorious Indian bandit Veerappan.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

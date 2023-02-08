@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "有胆你就看 Watch If You Dare",
+  "url": "/subject/30353693/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537255641.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452082/",
+      "name": "吉尔·格瓦吉兹安 Jill Gevargizian"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1176839/",
+      "name": "艾瑞克·黑文斯 Eric Havens"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421875/",
+      "name": "Tom Gore Tom Gore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1410105/",
+      "name": "托尼·修斯 Tony Hughes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1191325/",
+      "name": "Nick Karner Nick Karner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036783/",
+      "name": "娜嘉拉·汤森德 Najarra Townsend"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1262341/",
+      "name": " Emlee Vassilos"
+    }
+  ]
+,
+  "datePublished": "2018-11-19",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H11M",
+  "description": "What many are saying is the most disturbing film of 2018, Watch if you Dare revolves around a series...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "252",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

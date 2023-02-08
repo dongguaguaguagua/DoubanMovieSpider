@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夏天的电影 Les films de l&#39;été",
+  "url": "/subject/30286076/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2541641776.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1469157/",
+      "name": "克劳德·施密茨 Claude Schmitz   "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422498/",
+      "name": "伊曼努尔·马雷 Emmanuel Marre"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-01-10",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

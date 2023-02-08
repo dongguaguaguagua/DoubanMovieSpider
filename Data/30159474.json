@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "加布丽埃勒的成人漫画 The Book of Gabrielle",
+  "url": "/subject/30159474/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2515168489.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307579/",
+      "name": "丽莎·戈尼克 Lisa Gornick"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307579/",
+      "name": "丽莎·戈尼克 Lisa Gornick"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000392/",
+      "name": "阿兰·柯德勒 Allan Corduner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307579/",
+      "name": "丽莎·戈尼克 Lisa Gornick"
+    }
+  ]
+,
+  "datePublished": "2017-06-29",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H20M",
+  "description": "Gabrielle is writing an illustrated guide book on sex called &#39;How To Do It.&#39; At a book signing she m...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "161",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

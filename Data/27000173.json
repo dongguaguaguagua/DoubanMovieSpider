@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "渊子崖保卫战",
+  "url": "/subject/27000173/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2514855567.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318784/",
+      "name": "谷锦云 Jinyun Gu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474452/",
+      "name": "石煜 Yu Shi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322694/",
+      "name": "温豪杰 Haojie Wen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318120/",
+      "name": "高天 Tian Gao"
+    }
+  ]
+,
+  "datePublished": "2017-03-28",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H32M",
+  "description": "电影《渊子崖保卫战》是一部由温豪杰编剧的电影作品，影片主要讲述了1941年，渊子崖村囤积八路军公粮的事实不胫而走。日本侵略者蜂拥而至，企图攻占渊子崖，夺取公粮。村长林凡义率领村民用土枪土炮浴血抗击，展...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

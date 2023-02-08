@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卢塞传奇",
+  "url": "/subject/26920297/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2399745068.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397930/",
+      "name": "杨润坤 Runkun Yang"
+    }
+  ]
+,
+  "datePublished": "2016-12-01",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H15M",
+  "description": "影片主要讲述了一个自卑懦弱、胆小怕事的普通大学生——卢塞的奇幻故事。大学里的卢塞是一个名副其实的loser，罗老师和学生会主席朱永波针对他、室友忽视他，女神林贝儿无视他，只有夏晓旭莫名其妙地喜欢着他。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

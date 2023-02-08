@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "两个我都爱 จำเนียรวิเวียรโตมร",
+  "url": "/subject/26948478/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2543777801.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330845/",
+      "name": "帕贡·查博里拉 Pakorn Chatborirak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452014/",
+      "name": "艾米尔·阿德里安·亚瑟普 Emilan Adrian Arthip"
+    }
+  ]
+,
+  "datePublished": "2016-12-28",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

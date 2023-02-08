@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大喜盈门",
+  "url": "/subject/30227731/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535072688.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422287/",
+      "name": "蒋广宾 Guangbin Jiang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422619/",
+      "name": "李焕娜 HuanNa Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422618/",
+      "name": "张鹭名 LuMing Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422617/",
+      "name": "郝晓亮 XiaoLiang Hao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422613/",
+      "name": "李平生 PingSheng Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422612/",
+      "name": "李亚楠 Yanan Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422623/",
+      "name": "胡恩峰 EnFeng Hu"
+    }
+  ]
+,
+  "datePublished": "2018-09-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "《大喜盈门》是党的十九大后第一部开拍的中国豫剧电影故事片，以喜剧的手法，通过农村青年男女曲折的结婚历程，反映了当前中国乡村天价彩礼造成结婚难的社会问题，响亮地提出了在新时代新乡村新青年谈婚论嫁中“过去...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

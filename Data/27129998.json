@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Um Suburbano Sortudo",
+  "url": "/subject/27129998/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2498250355.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380904/",
+      "name": "罗德里戈·桑塔纳 Rodrigo Sant&#39;anna"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380904/",
+      "name": "罗德里戈·桑塔纳 Rodrigo Sant&#39;anna"
+    }
+  ]
+,
+  "datePublished": "2016-02-11",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H40M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

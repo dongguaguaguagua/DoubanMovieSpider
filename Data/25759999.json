@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "行监坐守 Keep Watching",
+  "url": "/subject/25759999/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2366630665.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1026030/",
+      "name": "西恩·卡特 Sean Carter"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027273/",
+      "name": "贝拉·索恩 Bella Thorne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009324/",
+      "name": "娜塔丽·马丁内斯 Natalie Martinez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367210/",
+      "name": "克里斯托弗·詹姆斯·贝克 Christopher James Baker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027206/",
+      "name": "艾恩·格拉法德 Ioan Gruffudd"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1265151/",
+      "name": "钱德勒·里格斯 Chandler Riggs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014029/",
+      "name": "雷·沃纳尔 Leigh Whannell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1226070/",
+      "name": "马修·维利希 Matthew Willig"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373049/",
+      "name": "杰瑞德·亚伯拉汉姆森 Jared Abrahamson"
+    }
+  ]
+,
+  "datePublished": "2017-10-31",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H29M",
+  "description": "一家人被困在一栋房子里，里面到处都是摄像头，监视着他们的一举一动，一个神秘恶人大开杀戒，他们为了保命不得不开始抗争...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "702",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.4"
+  }
+}

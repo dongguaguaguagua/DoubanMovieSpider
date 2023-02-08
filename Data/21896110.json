@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "家 Home",
+  "url": "/subject/21896110/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2312238166.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1466576/",
+      "name": "蓝伯儒 Frank Lin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1466576/",
+      "name": "蓝伯儒 Frank Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218273/",
+      "name": "凯丽·科纳佩 Kerry Knuppe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236219/",
+      "name": "尼克·埃维斯曼 Nick Eversman"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H27M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

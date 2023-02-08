@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暴戾人 Rogue Male",
+  "url": "/subject/26848579/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336128/",
+      "name": "巴特·雷顿 Bart Layton"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1039245/",
+      "name": "杰弗里·豪斯霍尔德 Geoffrey Household"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310891/",
+      "name": "丹尼斯·凯利 Dennis Kelly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353469/",
+      "name": "迈克尔·莱斯利 Michael Lesslie"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009405/",
+      "name": "本尼迪克特·康伯巴奇 Benedict Cumberbatch"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "",
+  "description": "英国演员Benedict Cumberbatch 宣布，将主演并制片改编自英国作家基弗雷·浩斯霍德的作品《暴戾人》（Rogue Male）。电影将描述一位刺杀独裁者的刺客，被捕后成功逃脱，并在之后躲避...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

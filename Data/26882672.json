@@ -1,0 +1,31 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Machaan",
+  "url": "/subject/26882672/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "PT1H13M",
+  "description": "Few stories outside of village in a ordinary day connected to each other.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

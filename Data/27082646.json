@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "6:66 P.M.",
+  "url": "/subject/27082646/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2483483574.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352771/",
+      "name": "吉姆·克洛克 Jim Klock"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352771/",
+      "name": "吉姆·克洛克 Jim Klock"
+    }
+  ]
+,
+  "datePublished": "2017-10-11",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "",
+  "description": "A reality TV crew&#39;s staged investigation into the paranormal becomes terrifyingly real when the hous...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

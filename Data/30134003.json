@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伴娘遇见爱 My Favorite Wedding",
+  "url": "/subject/30134003/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512157668.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012605/",
+      "name": "梅尔·达米斯基 Mel Damski"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1111144/",
+      "name": "玛吉·劳森 Maggie Lawson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328128/",
+      "name": "保罗·格林尼 Paul Greene"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314779/",
+      "name": "克里斯汀·查特莱恩 Christine Chatelain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1064610/",
+      "name": "皮特·本森 Peter Benson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1237773/",
+      "name": "吉尔斯·潘顿 Giles Panton"
+    }
+  ]
+,
+  "datePublished": "2017-06-24",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H24M",
+  "description": "Potential Northwestern fellow Tess Harper lasers through her best friend&#39;s wedding planning like the...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

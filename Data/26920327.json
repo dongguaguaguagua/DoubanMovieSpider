@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大家一起来分手 Rupture pour tous",
+  "url": "/subject/26920327/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2399748860.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310220/",
+      "name": "弗朗索瓦·贝高多 François Bégaudeau"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329898/",
+      "name": "爱伊莎·玛依卡 Aïssa Maïga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028574/",
+      "name": "布里吉特·罗安 Brigitte Roüan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028806/",
+      "name": "萨姆·卡曼 Sam Karmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423141/",
+      "name": "Jérôme Niel Jérôme Niel"
+    }
+  ]
+,
+  "datePublished": "2016-11-23",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H31M",
+  "description": "Mathias Lonisse, créateur de la société Love is dead, est un artisan de la séparation amoureuse.
+Il ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

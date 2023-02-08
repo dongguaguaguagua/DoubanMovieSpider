@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Clusterf*ck",
+  "url": "/subject/30285451/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336565/",
+      "name": "克尔·休伊特 Kerr Hewitt"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344768/",
+      "name": "汤米-安珀·皮里 Tommie-Amber Pirie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336565/",
+      "name": "克尔·休伊特 Kerr Hewitt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337537/",
+      "name": "格伦达 ·麦金尼斯 Glenda MacInnis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1242665/",
+      "name": " Nicki Whitely"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315395/",
+      "name": "史蒂夫·隆德 Steve Lund"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396117/",
+      "name": "艾丹·什普利 Aidan Shipley"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Clusterf*ck is the sexy, funny, heartfelt and always entertaining story of a group of friends in the...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

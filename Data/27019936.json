@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "真爱一夜情 Love &amp; Hostages",
+  "url": "/subject/27019936/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2463768663.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305657/",
+      "name": "David Varga David Varga"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1220048/",
+      "name": " Javier Mayol"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376084/",
+      "name": "娜塔莉·斯塔沃拉 Natalie Stavola"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1123084/",
+      "name": "吉尔-米歇尔·梅里恩 Jill-Michele Melean"
+    }
+  ]
+,
+  "datePublished": "2016-02-20",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H33M",
+  "description": "米迦勒和爱娃本是两个在酒吧偶遇的陌生人，他们喝了非常多的酒，第二天早上，这两个人甚至不认识对方是谁，也不记得前一天晚上发生了什么事，他们的位置被警察封锁了，这两个陌生人也不得不被困在一起",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "213",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "第三国度",
+  "url": "/subject/27097810/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495293717.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434986/",
+      "name": "焦裕峰 Yufeng Jiao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430855/",
+      "name": "江屹尘 Yichen Jiang"
+    }
+  ]
+,
+  "datePublished": "2017-07-30",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT0H30M",
+  "description": "不愿面对父亲离世的林清羽，独自一人出走丽江，不料丢失钱包却机缘巧合的结识纳西族的阿仁，成为了当地的支教老师，还与阿仁产生了一段超脱于性别的感情。当二人敞开心扉、互换信物时，却被纳西族的族民发现，当不被...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "413",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

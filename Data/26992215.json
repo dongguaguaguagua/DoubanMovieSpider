@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "渐弱 Diminuendo",
+  "url": "/subject/26992215/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2443738739.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101968/",
+      "name": "理查德·哈奇 Richard Hatch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1202795/",
+      "name": "莱雅·卡里恩斯 Leah Cairns"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1089831/",
+      "name": "琪琪·艾德莉 Gigi Edgley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174393/",
+      "name": "克洛伊·戴克斯特拉 Chloe Dykstra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322587/",
+      "name": "詹姆斯·迪恩 James Deen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H54M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

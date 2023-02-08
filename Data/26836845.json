@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美丽的岛屿 島々清しゃ",
+  "url": "/subject/26836845/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2397619072.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297485/",
+      "name": "新藤风 Kaze Shindô"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287409/",
+      "name": "磯田健一郎 Kenichiro Isoda"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274350/",
+      "name": "安藤樱 Sakura Andô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359145/",
+      "name": "山田真步 Maho Yamada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011362/",
+      "name": "涩川清彦 Kiyohiko Shibukawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388972/",
+      "name": "伊东苍 Aoi Ito"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439603/",
+      "name": "斋藤惠 Megumi Saitô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484005/",
+      "name": "吉田妙子 Taeko Yoshida"
+    }
+  ]
+,
+  "datePublished": "2016-10-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "据悉，这是已故的新藤兼人导演的孙子，也是电影导演新藤风时隔11年再度拍摄新作品《岛々清社》。这是去年秋天毅然前往冲绳进行外景拍摄的意愿作品，以庆良间群岛·座间味村为舞台，音乐将人和人维系在一起一个夏天...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "154",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "侠捕之夺命红莲",
+  "url": "/subject/27594846/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2660162817.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397916/",
+      "name": "曹华 Hua Cao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356585/",
+      "name": "孙祖君 Zujun Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364925/",
+      "name": "陈钰琪 Yukee Chen"
+    }
+  ]
+,
+  "datePublished": "2017-11-27",
+  "genre": ["\u60ac\u7591", "\u6b66\u4fa0"],
+  "duration": "PT1H30M",
+  "description": "一朵血画红莲，灭尽了四家上下仅百余口！鞑靼大使在大明境内失踪，又怎么会和这朵红莲沾惹上莫名联系？看侠捕萧长风理清脉络，破案中案。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

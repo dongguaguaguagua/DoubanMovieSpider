@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "易燃的孩子 Swinging Safari",
+  "url": "/subject/26767858/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2504706675.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050225/",
+      "name": "斯蒂芬·埃利奥特 Stephan Elliott"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050225/",
+      "name": "斯蒂芬·埃利奥特 Stephan Elliott"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1035672/",
+      "name": "盖·皮尔斯 Guy Pearce"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017974/",
+      "name": "凯莉·米洛 Kylie Minogue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041109/",
+      "name": "拉达·米切尔 Radha Mitchell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022659/",
+      "name": "朱利安·麦克马洪 Julian McMahon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363993/",
+      "name": "阿什·凯迪 Asher Keddie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014529/",
+      "name": "杰瑞米·西姆斯 Jeremy Sims"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1152253/",
+      "name": "杰克·汤普森 Jack Thompson"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H37M",
+  "description": "影片故事设置在上世纪70年代的澳大利亚，讲述一个原本安静的小镇，因一头蓝鲸被冲到当地海滩上，突然成为了人们关注的焦点。当地人便以自己独特的方式庆祝。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "91",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

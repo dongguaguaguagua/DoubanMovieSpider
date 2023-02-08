@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "百万个幸福现在 A Million Happy Nows",
+  "url": "/subject/27063031/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2493312438.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276913/",
+      "name": "阿尔伯特·阿拉尔 Albert Alarr"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013700/",
+      "name": "罗伯特·甘特 Robert Gant"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1091334/",
+      "name": "丹·盖特尔 Dan Gauthier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313136/",
+      "name": "丹德里·泰勒 Dendrie Taylor"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u540c\u6027"],
+  "duration": "PT1H20M",
+  "description": "當紅演員蕾妮艾倫不僅在連續劇中擔綱女主角，精湛的演技更是讓她榮獲艾美獎的殊榮，但就正值演藝事業巔峰時期，她發現自己罹患了阿茲海默症，如此劇烈的打擊也讓蕾妮和女友伊娃決定換個環境，在擁有優美海景的郊區重...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "261",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

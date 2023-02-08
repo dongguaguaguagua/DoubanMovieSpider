@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "窥梦大师",
+  "url": "/subject/27073146/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2469428572.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475656/",
+      "name": "谢紫纶 "
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336222/",
+      "name": "魏鹏 Peng Wei"
+    }
+  ]
+,
+  "datePublished": "2017-06-17",
+  "genre": ["\u7231\u60c5", "\u60ac\u7591"],
+  "duration": "",
+  "description": "影片《窥梦大师》围绕一个名叫枕头日记工作室的地方展开，这是一个高科技情感侦查机构，通过当事人的枕头窥视其隐私，从而解决委托人的相关问题。袁也（魏鹏 饰）是这家工作室的工程师，负责梦境还原，一起工作的还...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "橙花 Azahar",
+  "url": "/subject/30407976/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543155430.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386724/",
+      "name": "胡安·拉蒙·鲁伊斯·索马维亚 Juan Ramón Ruiz de Somavía"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H23M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

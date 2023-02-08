@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亚瑟王：神剑崛起 King Arthur: Excalibur Rising",
+  "url": "/subject/27000024/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2448472146.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1254070/",
+      "name": "安东尼·史密斯 Antony Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423499/",
+      "name": "维克多·梅尔 Victor Mawer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386511/",
+      "name": "安妮斯·埃尔维 Annes Elwy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423503/",
+      "name": "纪尧姆·里瓦德 Guillaume Rivaud"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423504/",
+      "name": "萨莉·马丁利 Sally Mattingley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424786/",
+      "name": "达伦·斯温 Darren Swain"
+    }
+  ]
+,
+  "datePublished": "2017-03-01",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H39M",
+  "description": "距离那场结束传说的卡姆兰战役已经过去19年了，亚瑟王已成传说，而那把代表着无限荣光的王者之剑也已经沉入了湖底，归还给了湖中仙女。可是世界并没有和平，总有不安定因素藏在暗处准备着发动一场战争。亚瑟王忠诚...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "141",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.6"
+  }
+}

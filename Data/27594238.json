@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大圣伏妖",
+  "url": "/subject/27594238/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522330866.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393344/",
+      "name": "罗乐 Le Luo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393345/",
+      "name": "万田 Tian Wan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018257/",
+      "name": "樊少皇 Siu-Wong Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376538/",
+      "name": "何蓝逗 Lan He"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318168/",
+      "name": "罗鸣 Ming Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393346/",
+      "name": "贾云哲 Yunzhe Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393347/",
+      "name": "汪世伟 Shiwei Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318838/",
+      "name": "莫合塔尔 Muhtar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403386/",
+      "name": "毛凡 Michael Mao"
+    }
+  ]
+,
+  "datePublished": "2018-05-25",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b", "\u53e4\u88c5"],
+  "duration": "PT1H25M",
+  "description": "西天取经五百年后，如来圆寂，金翅大鹏祸乱三界。孙悟空为拯救三界，口含如来舍利降世人间。在召集师弟沙悟净、朱悟能的过程中，悟空终于领悟舍身取义的无量佛法，蜕变真身，消灭蛤蟆精，踏上打败金翅大鹏的西行路。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1262",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

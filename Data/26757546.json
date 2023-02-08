@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "环法 Tour de France",
+  "url": "/subject/26757546/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2529388343.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325126/",
+      "name": "哈西德·加以达尼 Rachid Djaidani"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325126/",
+      "name": "哈西德·加以达尼 Rachid Djaidani"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013845/",
+      "name": "热拉尔·德帕迪约 Gérard Depardieu"
+    }
+  ]
+,
+  "datePublished": "2016-05-15",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "Far’Hook is a 20-year-old rapper. Following a violent dispute with a rival, he’s forced to leave Par...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "162",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

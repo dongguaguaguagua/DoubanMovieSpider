@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "花开时节 Den blomstertid nu kommer",
+  "url": "/subject/27621673/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2544500068.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465999/",
+      "name": "维克多·丹尼尔 Victor Danell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267365/",
+      "name": "克里斯托弗·努登罗特 Christoffer Nordenrot"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267365/",
+      "name": "克里斯托弗·努登罗特 Christoffer Nordenrot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349700/",
+      "name": "马格努斯·松德贝里 Magnus Sundberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1194914/",
+      "name": "Karin Bertling Karin Bertling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353382/",
+      "name": "亚力克桑杰·麦沃洛夫 Alexej Manvelov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076488/",
+      "name": "Yngve Dahlberg Yngve Dahlberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434889/",
+      "name": "阿文·卡纳尼安 Arvin Kananian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116565/",
+      "name": "Liselott Lindeborg Liselott Lindeborg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1171490/",
+      "name": "Erik Bolin Erik Bolin"
+    }
+  ]
+,
+  "datePublished": "2018-06-20",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5", "\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT2H8M",
+  "description": "In Swedish film collective Crazy Pictures feature &#34;Den blomstertid nu kommer&#34; Sweden faces a mysteri...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "337",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

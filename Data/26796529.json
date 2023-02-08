@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幽灵 Wraith",
+  "url": "/subject/26796529/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2499004712.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320974/",
+      "name": "麦克·O·沙贝尔 Michael O. Sajbel"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320974/",
+      "name": "麦克·O·沙贝尔 Michael O. Sajbel"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314523/",
+      "name": "杰克逊·赫斯特 Jackson Hurst"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013942/",
+      "name": "爱莉·希尔斯 Ali Hillis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074504/",
+      "name": "Jensen Buchanan Jensen Buchanan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355126/",
+      "name": "丹·奥利弗 Dan Oliver"
+    }
+  ]
+,
+  "datePublished": "2017-04-05",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H39M",
+  "description": "After living in an old mansion for almost 10 years a family suddenly discovers a ghost-like presence...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

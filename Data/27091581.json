@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奄奄一息 Morir",
+  "url": "/subject/27091581/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2494693932.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334009/",
+      "name": "费尔南多·弗朗哥 Fernando Franco"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334009/",
+      "name": "费尔南多·弗朗哥 Fernando Franco"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1168105/",
+      "name": "玛丽安·阿尔瓦雷斯 Marian Álvarez"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1093488/",
+      "name": "安德烈斯·赫尔德鲁迪克斯 Andrés Gertrúdix"
+    }
+  ]
+,
+  "datePublished": "2017-10-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H44M",
+  "description": "The lives of Luis and Marta are abruptly paralysed. Lies, guilt and fear put the couple’s stability ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

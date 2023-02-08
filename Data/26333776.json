@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "告别款款 Away",
+  "url": "/subject/26333776/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2245488903.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276496/",
+      "name": "戴维·布莱尔 David Blair"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1062271/",
+      "name": "戴维·布莱尔 David Blair"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272813/",
+      "name": " Roger Hadfield"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274500/",
+      "name": "朱诺·坦普尔 Juno Temple"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031872/",
+      "name": "蒂莫西·斯波 Timothy Spall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329999/",
+      "name": "马特·瑞安 Matt Ryan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018158/",
+      "name": "苏珊·林奇 Susan Lynch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357690/",
+      "name": "海莉·斯奎尔斯 Hayley Squires"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1137094/",
+      "name": "托尼·皮茨 Tony Pitts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014192/",
+      "name": "特里·斯通 Terry Stone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134494/",
+      "name": "里斯·诺伊 Reece Noi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356962/",
+      "name": "乔安娜·罗斯 Joanna Roth"
+    }
+  ]
+,
+  "datePublished": "2016-06-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "故事发生在北英格兰的海滨小镇布莱克浦，故事集中在两个志趣相投的人身上，他们形成了一种不太可能的友谊。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

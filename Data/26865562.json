@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马尔法女孩2 Marfa Girl 2",
+  "url": "/subject/26865562/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2539096025.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014001/",
+      "name": "拉里·克拉克 Larry Clark"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014001/",
+      "name": "拉里·克拉克 Larry Clark"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337421/",
+      "name": "Jeremy St. James Jeremy St. James"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000557/",
+      "name": "卢卡斯·艾略特·艾博尔 Lucas Elliot Eberl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1246099/",
+      "name": "埃德加·莫雷斯 Edgar Morais"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H15M",
+  "description": "一位年轻的母亲住在德克萨斯州的马尔法，在遭受了一次残酷的性侵犯后，她努力抚养自己的孩子。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

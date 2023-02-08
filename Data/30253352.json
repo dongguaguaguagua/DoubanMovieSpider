@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "纸年 Paper Year",
+  "url": "/subject/30253352/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568801790.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423045/",
+      "name": "丽贝卡·阿黛尔曼 Rebecca Addelman"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048128/",
+      "name": "安迪·麦克道威尔 Andie MacDowell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004655/",
+      "name": "阿万·乔贾 Avan Jogia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236911/",
+      "name": "伊芙·休森 Eve Hewson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1123908/",
+      "name": "哈米什·林克莱特 Hamish Linklater"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396094/",
+      "name": "格雷丝·格洛威克 Grace Glowicki"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H29M",
+  "description": "Young newlyweds encounter a series of challenges during the first year of their marriage.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "107",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

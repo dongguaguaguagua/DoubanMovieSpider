@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "斩、 斬、",
+  "url": "/subject/30255082/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2537124203.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014223/",
+      "name": "冢本晋也 Shinya Tsukamoto"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014223/",
+      "name": "冢本晋也 Shinya Tsukamoto"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009895/",
+      "name": "池松壮亮 Sosuke Ikematsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018990/",
+      "name": "苍井优 Yu Aoi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014223/",
+      "name": "冢本晋也 Shinya Tsukamoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345585/",
+      "name": "中村达也 Tatsuya Nakamura"
+    }
+  ]
+,
+  "datePublished": "2018-09-07",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H20M",
+  "description": "江户末期，已有250年未曾发生过战争，贫穷的武士们，有人因此选择离开藩属，成为流浪的武士或是浪人。都筑杢之进（池松壮亮饰）也是其中一名流浪的武士，他来到江户近郊的一户农家，帮忙干活，换取粮食维生。为防...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1506",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

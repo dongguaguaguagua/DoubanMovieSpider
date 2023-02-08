@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "盗梦者",
+  "url": "/subject/26765332/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2328705458.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371074/",
+      "name": "王梦灵 Mengling Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324384/",
+      "name": "徐光宇 Guangyu Xu"
+    }
+  ]
+,
+  "datePublished": "2016-03-31",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H15M",
+  "description": "本片讲述的一个女孩清泉总是臆想着身边有人，通过盗梦酒吧寻找到了盗梦者帮她一探究竟。在寻找真相的过程里，小米和钱程发现原来清泉是双胞胎，因为一次意外清流在九岁的时候出了车祸。而母亲在这个时候确认为清泉没...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

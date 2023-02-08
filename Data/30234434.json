@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死亡通知",
+  "url": "/subject/30234434/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2585245910.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1471091/",
+      "name": "王红梅 Hongmei Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430885/",
+      "name": "祖金良 Jinliang Zu"
+    }
+  ]
+,
+  "datePublished": "2018-05-23",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT1H3M",
+  "description": "在一次犯罪的案发现场，一位英雄挺身而出，救下当事人，自己却在与歹徒的搏斗中受伤变成植物人，当事人母亲为了女儿名声和害怕歹徒报复选择了让女儿逃避，三年的时间女儿心里一直挣扎压抑，在一次与母亲争吵后，决定...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一日将尽 At the End of the Day",
+  "url": "/subject/30487603/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2550533821.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371891/",
+      "name": "汤姆·诺维茨基 Tom Nowicki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257507/",
+      "name": "凡妮莎·马蒂纳斯 Vanessa Martinas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431258/",
+      "name": "艾米丽·戴维斯 Emily Davis"
+    }
+  ]
+,
+  "datePublished": "2019-02-26",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H48M",
+  "description": "戴夫（Stephen Shane Martin 饰）在失去了一切之后回到了故乡，回到了自己的母校——一家校风非常保守的基督学院，成为了那里的一名老师。一天，校长找到了戴夫，他想要得到当地的一块地皮，可...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "130",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

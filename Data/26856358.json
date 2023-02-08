@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀马特大战基隆港",
+  "url": "/subject/26856358/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2374048442.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370371/",
+      "name": "林弢 Tao Lin"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413038/",
+      "name": "曹云青 Yunqing Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1414468/",
+      "name": "于洋 Yang Yu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H21M",
+  "description": "《杀马特大战基隆港》讲述了杀马特村妮儿二妞被豪门指认继承财产的曲折故事。
+杀马特屌丝铁蛋想协好兄弟一线天到基隆港寻回真爱，不料曾经的村姑女友不复存在，变成了富家千金，两人之间的距离逐步拉大。此时横空杀...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

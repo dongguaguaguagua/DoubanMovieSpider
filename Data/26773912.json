@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "知心法官",
+  "url": "/subject/26773912/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505738289.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356947/",
+      "name": "王羿人 Yiren Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337226/",
+      "name": "戴江 Jiang Dai"
+    }
+  ]
+,
+  "datePublished": "2016-04-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "最高人民法院和福建省有关部门以黄志丽同志为原型，联合拍摄了电影《知心法官》。影片以黄志丽同志办理的一起涉台案件为主线，艺术再现了黄志丽同志的感人事迹，生动展示了新时期人民法官司法为民、公正司法的良好形...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "119",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

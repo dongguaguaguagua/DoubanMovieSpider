@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "那朵花的名字叫白兰",
+  "url": "/subject/27662855/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510299597.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387065/",
+      "name": "陆琦华 Qihua Lu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337324/",
+      "name": "冯家妹 Jiamei Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341713/",
+      "name": "王雅迪 Yadi Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387062/",
+      "name": "周文韬 Wentao Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387063/",
+      "name": "曹婧 Jing Cao"
+    }
+  ]
+,
+  "datePublished": "2018-01-10",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u4f20\u8bb0", "\u5386\u53f2"],
+  "duration": "PT1H25M",
+  "description": "电影以川滇交界处的宜宾横江古镇为背景，由横江古镇上的酒吧老板讲述了三个年轻男女的情感纠葛故事：阳光、帅气、俊朗的摄影记者天翔，来到横江古镇采访，偶遇小镇上一名气质卓然的美丽女子白兰和她的混血女儿——“...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

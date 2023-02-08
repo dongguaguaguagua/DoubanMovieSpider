@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一、二、三，现在！ En-To-Tre-Nu!",
+  "url": "/subject/26779389/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2405565385.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1150419/",
+      "name": "芭芭拉·罗森博格 Barbara Topsøe-Rothenborg"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418984/",
+      "name": "尼可莱·格洛斯 Nikolaj Groth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411126/",
+      "name": "克拉拉·罗萨杰 Clara Rosager"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474640/",
+      "name": "卡斯帕 莱斯纳 Kasper Leisner"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H53M",
+  "description": "Jeppe和Cecilie在高中新学期开始的时候认识对方并且迅速的相爱了，但是生活却不像Jeppe想的那样顺利。Cecilie患有癌症，因此性格喜怒无常，不喜欢与人亲近，在Jeppe的善良和理解下，C...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "490",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

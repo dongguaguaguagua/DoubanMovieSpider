@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Feierabendbier",
+  "url": "/subject/30405033/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2542873893.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014289/",
+      "name": "茱莉亚·迭泽 Julia Dietze"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012620/",
+      "name": "克里斯蒂安·特拉米茨 Christian Tramitz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425167/",
+      "name": "约翰·于尔根斯 Johann Jürgens"
+    }
+  ]
+,
+  "datePublished": "2018-02-17",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H53M",
+  "description": "Magnus, a barkeeper, has come to terms with his past: he is separated from his ex and their son and ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

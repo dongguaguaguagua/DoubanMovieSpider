@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "星妹",
+  "url": "/subject/26697702/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2302208590.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353704/",
+      "name": "姜博洋 Alec Keung"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353704/",
+      "name": "姜博洋 Alec Keung"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454605/",
+      "name": "苏冬青 Dong Qing Su"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "小镇上的早餐店老板娘星妹，生活拮据。因经营不善，小店面临倒闭。年关将近，儿子东东即将带着上海女朋友宁宁回家过年。宁宁第一次来到落后小镇生活，星妹第一次接待大城市来的大小姐，东东也第一次周旋于深爱的母亲...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奇妙的互换人生 Помню – не помню!",
+  "url": "/subject/26782346/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494745947.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340635/",
+      "name": "波琳娜·马克西莫娃 Polina Maksimova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061045/",
+      "name": "柳德米拉·阿尔捷米娃 Lyudmila Artemeva"
+    }
+  ]
+,
+  "datePublished": "2016-03-31",
+  "genre": ["\u559c\u5267", "\u5947\u5e7b"],
+  "duration": "PT1H14M",
+  "description": "Contemporary Moscow. While riding her bicycle one day, Alyona, a shy librarian, accidentally collide...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "635",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

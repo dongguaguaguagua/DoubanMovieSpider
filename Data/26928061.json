@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "食尸鬼 The Ghoul",
+  "url": "/subject/26928061/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462199498.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353218/",
+      "name": "汤姆·米滕 Tom Meeten"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327892/",
+      "name": "爱丽丝·洛维 Alice Lowe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350496/",
+      "name": "鲁弗斯·琼斯 Rufus Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074672/",
+      "name": "妮雅姆·库萨克 Niamh Cusack"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380542/",
+      "name": "杰弗里·麦吉弗伦 Geoffrey McGivern"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1288269/",
+      "name": "保罗·凯耶 Paul Kaye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374267/",
+      "name": "丹·伦顿·斯金纳 Dan Renton Skinner"
+    }
+  ]
+,
+  "datePublished": "2016-10-14",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H21M",
+  "description": "A homicide detective goes undercover as a patient to investigate a psychotherapist he believes is li...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

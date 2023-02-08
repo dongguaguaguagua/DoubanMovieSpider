@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "白门五甲",
+  "url": "/subject/27056327/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2532820108.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376600/",
+      "name": "张著麟 Zhulin Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376831/",
+      "name": "袁布 Ryan Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366664/",
+      "name": "文东俊 Dongjun Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413094/",
+      "name": "夏阳 Yang Xia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418502/",
+      "name": "曾可妮 Jenny Zeng"
+    }
+  ]
+,
+  "datePublished": "2018-01-26",
+  "genre": ["\u52a8\u4f5c", "\u5947\u5e7b", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H20M",
+  "description": "神宝有二，阳旺天运，阴噬人心，神宝合一，天下归一。两块神宝合一，可以实现一个愿望，上次神宝合一，换来了西域古都车迟国三百年的国运。如今，阴属神宝散落人间即将再次显世，国土上下危机四伏。为了拯救世界，奇...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

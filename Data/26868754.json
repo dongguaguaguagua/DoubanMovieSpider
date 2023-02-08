@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Rising Tides",
+  "url": "/subject/26868754/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2378212322.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1256542/",
+      "name": " Jeff West"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-06-15",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "Two ex-lovers are at odds with one another during a weekend lake house party. As a killer in the woo...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

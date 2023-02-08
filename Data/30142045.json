@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "彩塑男孩 Retablo",
+  "url": "/subject/30142045/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2552970128.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389532/",
+      "name": "阿尔瓦罗·德尔加多·阿帕里西奥 Alvaro Delgado Aparicio"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389532/",
+      "name": "阿尔瓦罗·德尔加多·阿帕里西奥 Alvaro Delgado Aparicio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332549/",
+      "name": "赫克托·加尔维兹 Héctor Gálvez"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018483/",
+      "name": "玛佳丽·索利埃 Magaly Solier"
+    }
+  ]
+,
+  "datePublished": "2018-02-15",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H41M",
+  "description": "14岁的男孩塞贡多，长大后想要成为一个像他父亲一样的故事盒制造者，继承家族的遗产。在前往安第斯山脉社区庆祝活动的路上，塞贡多偶然发现了父亲的秘密。这使得他的整个世界一片混乱。被困在沙文主义的环境中，塞...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "634",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

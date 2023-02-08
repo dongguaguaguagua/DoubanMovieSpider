@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "电竞英雄 eHero",
+  "url": "/subject/30231884/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2523357046.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031818/",
+      "name": "西恩·奥斯汀 Sean Astin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376190/",
+      "name": "格雷格·霍瓦尼西安 Greg Hovanessian"
+    }
+  ]
+,
+  "datePublished": "2018-03-23",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT1H25M",
+  "description": "An up-and-coming video gamer faces his greatest challenge yet as he and his team must overcome a fie...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "72",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.8"
+  }
+}

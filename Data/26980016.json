@@ -1,0 +1,31 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小羊小羊",
+  "url": "/subject/26980016/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2432510307.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-02-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H18M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "226",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

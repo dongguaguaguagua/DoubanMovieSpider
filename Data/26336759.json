@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Dark Thirst",
+  "url": "/subject/26336759/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045153/",
+      "name": "查克·拉塞尔 Chuck Russell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276245/",
+      "name": "Scott Schneid Scott Schneid"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "",
+  "description": "A freshman is mistakenly admitted to the top fraternity at an Ivy League college, and begins to thin...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

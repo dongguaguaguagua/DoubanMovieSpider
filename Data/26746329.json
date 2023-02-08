@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "汉娜的睡犬 Hannas schlafende Hunde",
+  "url": "/subject/26746329/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2331197770.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042706/",
+      "name": "安德烈亚斯·格鲁伯 Andreas Gruber"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042706/",
+      "name": "安德烈亚斯·格鲁伯 Andreas Gruber"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364641/",
+      "name": "伊丽莎白·埃舍尔 Elisabeth Escher"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025399/",
+      "name": "汉内洛勒·埃尔斯纳 Hannelore Elsner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345130/",
+      "name": "弗朗西斯卡·薇兹 Franziska Weisz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1265790/",
+      "name": "尼科·利尔施 Nico Liersch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1163852/",
+      "name": "克里斯蒂安·伍尔夫 Christian Wolff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1142402/",
+      "name": "约翰内斯·西尔贝施奈德 Johannes Silberschneider"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1105283/",
+      "name": "埃尔弗里德·伊拉尔 Elfriede Irrall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333332/",
+      "name": "沃尔夫·巴霍夫纳 Wolf Bachofner"
+    }
+  ]
+,
+  "datePublished": "2016-06-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H0M",
+  "description": "身为一个拥有一半犹太血统的孩子，反倒在一个传统的天主教社区生活。虽然他们一家都定时去教堂，但是这个社区的原教旨主义势力兴盛。所以，他们生活得很不如意。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "270",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

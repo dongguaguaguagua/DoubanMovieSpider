@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "周末生日游 Tyrel",
+  "url": "/subject/27114208/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2534793712.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312083/",
+      "name": "塞巴斯蒂安·席尔瓦 Sebastián Silva"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312083/",
+      "name": "塞巴斯蒂安·席尔瓦 Sebastián Silva"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327710/",
+      "name": "克里斯托弗·阿波特 Christopher Abbott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011136/",
+      "name": "Roddy Bottum Roddy Bottum"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1077481/",
+      "name": "雷格·E·凯蒂 Reg E. Cathey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053576/",
+      "name": "迈克尔·塞拉 Michael Cera"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282659/",
+      "name": "安·唐德 Ann Dowd"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360475/",
+      "name": "菲利普·埃丁格 Philip Ettinger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1235113/",
+      "name": "卡赖伯·兰德里·琼斯 Caleb Landry Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351529/",
+      "name": "杰森·米切尔 Jason Mitchell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328948/",
+      "name": "迈克尔·泽根 Michael Zegen"
+    }
+  ]
+,
+  "datePublished": "2018-01-20",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H26M",
+  "description": "这部电影的故事背景让人不禁回忆起《逃出绝命镇》。一位黑人男性（杰森·米切尔饰）在周末的时候，因为觉得周围只有白人朋友所以觉得十分紧张。当然，这部作品与乔丹·皮尔去年那部符合大众口味的《逃出绝命镇》不同...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "134",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

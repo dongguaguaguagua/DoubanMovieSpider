@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Beasts of Burden",
+  "url": "/subject/6873871/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276787/",
+      "name": "申·阿克 Shane Acker"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327261/",
+      "name": "达伦·莱姆克 Darren Lemke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001961/",
+      "name": "Evan Dorkin Evan Dorkin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003484/",
+      "name": "丹尼尔·雷德克里夫 Daniel Radcliffe"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "",
+  "description": "when a series of supernatural events occur in the community of Burden Hill, a pack of dogs team up w...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

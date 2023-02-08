@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "中戏北电那些事",
+  "url": "/subject/26899296/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2391987531.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328049/",
+      "name": "张亚希 Yaxi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326728/",
+      "name": "李欣聪 Xincong Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314404/",
+      "name": "刘亚津 Yajin Liu"
+    }
+  ]
+,
+  "datePublished": "2016-10-29",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H20M",
+  "description": "一群追梦青年，怀着对电影的梦想走进了中戏北电。纯情的小雪与武一一军训时一见钟情，而被称为“二哥”的武一一，生活最为丰富多彩，不学无术、结交社会大碗儿、约炮网友，毕业后又集结哥们合伙开影视公司，最后不慎...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

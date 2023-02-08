@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑客风云",
+  "url": "/subject/27052647/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2460173223.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384023/",
+      "name": "陈厦 Sha Chen"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383367/",
+      "name": "张航 Hang Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383926/",
+      "name": "孙宁 Ning Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321635/",
+      "name": "乔若熙 Ruoxi Qiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1448414/",
+      "name": "宋琦 Harry Song"
+    }
+  ]
+,
+  "datePublished": "2017-05-23",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H4M",
+  "description": "变色龙军团是一个以天才黑客季云为核心的灰帽四人团体，每个成员都在不同方面有着出众才能。一次在完成了黑客界传奇人物K布置的任务后，兴奋的变色龙成员却被告知他们并没有通过测试。季云深感自尊被挑战，私自接了...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

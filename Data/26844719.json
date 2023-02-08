@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绝地逃生",
+  "url": "/subject/26844719/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2369752973.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366664/",
+      "name": "文东俊 Dongjun Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1427005/",
+      "name": "遇泓羊 Hongyang Yu"
+    }
+  ]
+,
+  "datePublished": "2016-07-26",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ac\u7591", "\u72af\u7f6a", "\u897f\u90e8"],
+  "duration": "PT2H2M",
+  "description": "素昧平生的十个人因为共同的目的地拼车前往中国西部的荒漠地带，途经新疆戈壁无人区时，因为一个诡异的“意外”导致汽车出现事故，一行人便原地安营扎寨等待第二天白天再行解决，然而第二天一早，司机赵师傅却离奇身...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

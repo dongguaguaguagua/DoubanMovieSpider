@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "或许是爱情故事 Talvez Uma História de Amor",
+  "url": "/subject/30170822/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528952840.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1248975/",
+      "name": " Ben Frahm"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1212955/",
+      "name": "马德伍斯·索兰诺 Mateus Solano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210335/",
+      "name": "比安卡·孔帕拉托 Bianca Comparato"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1120073/",
+      "name": "桃奇娅·梅莱赖斯 Totia Meireles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1148830/",
+      "name": "保罗·维列纳 Paulo Vilhena"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1266217/",
+      "name": "娜塔莉亚·迪尔 Nathalia Dill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247017/",
+      "name": "马库·鲁克 Marco Luque"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002678/",
+      "name": "辛西娅·尼克松 Cynthia Nixon"
+    }
+  ]
+,
+  "datePublished": "2018-07-14",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H41M",
+  "description": "Returning home from an ordinary day at the office, Virgílio finds a rather disturbing message on his...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

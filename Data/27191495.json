@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "织女新传",
+  "url": "/subject/27191495/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2504463645.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397799/",
+      "name": "刘亭驿 Tingyi Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369590/",
+      "name": "贾明瑛 Mingying Jia"
+    }
+  ]
+,
+  "datePublished": "2017-11-03",
+  "genre": ["\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H15M",
+  "description": "小紫是一名空姐，一次偶然之下，小紫回家撞见自己的男朋友出轨昔日的女同学，此时正巧家中出现两位小偷，几人争执中触动电源，造成时空穿梭。穿越后的几人成为“牛郎织女”传说中的人物，一场奇幻之旅就此开启。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

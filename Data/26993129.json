@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海达·高布乐 National Theatre Live: Hedda Gabler",
+  "url": "/subject/26993129/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2474474249.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352880/",
+      "name": "伊沃·凡·霍夫 Ivo van Hove"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032864/",
+      "name": "易卜生 Henrik Ibsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050170/",
+      "name": "派崔克·马柏 Patrick Marber"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013841/",
+      "name": "露丝·威尔森 Ruth Wilson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032169/",
+      "name": "拉菲·斯波 Rafe Spall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335502/",
+      "name": "凯尔·索列尔 Kyle Soller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345018/",
+      "name": "西妮德·马修斯 Sinead Matthews"
+    }
+  ]
+,
+  "datePublished": "2017-03-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "297",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.0"
+  }
+}

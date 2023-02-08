@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "科妮莉亚 Perdida",
+  "url": "/subject/30296889/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2530607521.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1072682/",
+      "name": "佩德罗·卡萨布兰科 Pedro Casablanc"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1250202/",
+      "name": "阿玛雅·萨拉曼卡 Amaia Salamanca"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045120/",
+      "name": "露易丝安娜·洛佩拉托 Luisana Lopilato"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1480456/",
+      "name": "本杰明·奥特洛  Benjamín Otero"
+    }
+  ]
+,
+  "datePublished": "2018-04-19",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H43M",
+  "description": "本片基于弗洛伦西亚埃切夫斯的小说《科妮莉亚》改编，讲述一位来自布宜诺斯艾利斯的名校老师和五名学生进行了一次学习旅行，其中一个叫科妮莉亚·维拉尔巴的学生神秘失踪，据说，她和同伴们相约一起去跳舞，结果在巴...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

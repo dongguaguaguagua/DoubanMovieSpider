@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "认真的重要性 The Importance of Being Earnest",
+  "url": "/subject/30348456/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2581611102.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477990/",
+      "name": " Pippa Nixon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481368/",
+      "name": "费辛蒂·巴洛贡 Fehinti Balogun"
+    }
+  ]
+,
+  "datePublished": "2018-10-09",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "“所有女人都会变成跟她们母亲一样，这就是她们的悲剧；男人则不然，这也是男人的悲剧。”
+《认真的重要性》（又译《不可儿戏》）被认为是最能够代表奥斯卡·王尔德喜剧创作的杰作，充满了王尔德式的妙语连珠；剧中...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "445",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.5"
+  }
+}

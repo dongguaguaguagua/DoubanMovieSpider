@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑暗中的恶魔 Devil in the Dark",
+  "url": "/subject/26991054/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2442099171.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1479237/",
+      "name": "蒂姆·布莱恩 Tim Brown"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-03-07",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H22M",
+  "description": "When estranged brothers Adam and Clint attempt to reconnect over a week-long hunting trip in remote ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "55",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.4"
+  }
+}

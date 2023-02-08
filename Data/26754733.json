@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "国王 Rey",
+  "url": "/subject/26754733/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2426987953.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392377/",
+      "name": "奈尔斯·阿塔拉 Niles Atallah"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392377/",
+      "name": "奈尔斯·阿塔拉 Niles Atallah"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-01-31",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "曾几何时，一个人只身前往世界尽头。在那里，在新近独立的南美一隅，他创立了自己的王国。这就是1860年，法国冒险家Orllie-Antoine de Tounens的故事，也许有几分疯狂。他用自己起草的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "150",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

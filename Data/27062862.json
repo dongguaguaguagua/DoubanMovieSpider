@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奶奶 อาม่า",
+  "url": "/subject/27062862/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2468892353.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1464416/",
+      "name": "吉拉维奇·蓬帕吉特 Jiravich Pongpaijit"
+    }
+  ]
+,
+  "datePublished": "2016-08-25",
+  "genre": ["\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H33M",
+  "description": "当这位有钱的奶奶去世了，子女后代们便回来聚在了一起。每个人都想做亿万富翁，每个人都拿多一些的份额。但是要想拿到遗产就必须遵守规则完成任务，于是，很多诡异的事件在前方等着他们……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "865",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

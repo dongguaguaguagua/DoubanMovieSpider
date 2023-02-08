@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "火山 Вулкан",
+  "url": "/subject/30331055/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534698838.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401166/",
+      "name": "罗曼·邦达尔丘克 Roman Bondarchuk"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401166/",
+      "name": "罗曼·邦达尔丘克 Roman Bondarchuk"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-07-01",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H44M",
+  "description": "乌克兰南部一隅，一辆越野车载着“欧洲安全与合作组织”人员来到人烟稀少的边境线。担任翻译的卢卡斯因故与车上人员失去联络，手机没有信号，身上的钱和护照都丢了，只好到附近小镇落脚。他遇上失败的发明家弗瓦，并...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "453",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

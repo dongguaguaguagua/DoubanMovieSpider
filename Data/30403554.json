@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "优雅晚宴 O Banquete",
+  "url": "/subject/30403554/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542635266.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1299142/",
+      "name": "丹妮拉·托马斯 Daniela Thomas"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1299142/",
+      "name": "丹妮拉·托马斯 Daniela Thomas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368865/",
+      "name": "Beto Amaral Beto Amaral"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403264/",
+      "name": "查伊·苏埃德 Chay Suede"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1130176/",
+      "name": "德莉卡·莫拉埃斯 Drica Moraes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052011/",
+      "name": "玛丽安娜·利马 Mariana Lima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1171115/",
+      "name": "Fabiana Guglielmetti Fabiana Guglielmetti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386705/",
+      "name": "Georgette Fadel Georgette Fadel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078726/",
+      "name": "卡库·希奥柯勒 Caco Ciocler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368932/",
+      "name": "罗德里戈·博尔赞 Rodrigo Bolzan"
+    }
+  ]
+,
+  "datePublished": "2018-09-06",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H43M",
+  "description": "An elegant dinner, which takes place in real time, brings together a group of intellectuals in the e...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

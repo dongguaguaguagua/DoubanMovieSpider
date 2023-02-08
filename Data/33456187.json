@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "O Sol na Cabeça",
+  "url": "/subject/33456187/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014606/",
+      "name": "卡里姆·埃诺兹 Karim Ainouz"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014606/",
+      "name": "卡里姆·埃诺兹 Karim Ainouz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329118/",
+      "name": "安德烈·诺瓦伊斯·奥利维拉 André Novais Oliveira"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-12-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "With the debut of Geovani Martins, Brazilian literature finds the voice of its new realism. In the t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

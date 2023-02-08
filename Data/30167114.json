@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "终极玩物",
+  "url": "/subject/30167114/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516245697.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324154/",
+      "name": "李龙君 Longjun Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423352/",
+      "name": "张百乔 Baiqiao Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-03-24",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b", "\u60ac\u7591"],
+  "duration": "",
+  "description": "在五个不同的时代，王几从事着调酒师、枪手、修表师、警察、人偶师五个不同的职业，发生了五段不同的故事。每种职业，他都会有一种超凡的能力。
+但不论在哪个故事里，他总会遇到一个叫夏梵的女人并爱上她，以及宿命...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

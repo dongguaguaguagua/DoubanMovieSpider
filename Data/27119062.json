@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "传染性 Il contagio",
+  "url": "/subject/27119062/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496980827.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332216/",
+      "name": "马蒂奥·博特鲁格诺 Matteo Botrugno"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358535/",
+      "name": "毛里齐奥·特塞 Maurizio Tesei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1469635/",
+      "name": "达尔马·曼吉亚·伍兹 Dharma Mangia Woods"
+    }
+  ]
+,
+  "datePublished": "2017-09-01",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H50M",
+  "description": "Marcello, Chiara, Mauro and Simona all live troubled lives in the same building on the outskirts of ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

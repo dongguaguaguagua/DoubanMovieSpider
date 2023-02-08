@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "灿烂光辉",
+  "url": "/subject/27173190/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512499539.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378527/",
+      "name": "傅泓霖 honglin FU"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378527/",
+      "name": "傅泓霖 honglin FU"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274586/",
+      "name": "马德华 Dehua Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384296/",
+      "name": "黄力宏 Jacky Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412857/",
+      "name": "肖嘉萱 Jiaxuan Xiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1471675/",
+      "name": "李悦嘉 Yuejia Lee"
+    }
+  ]
+,
+  "datePublished": "2018-01-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "80年代，老村长为了女儿上学读书，努力赚钱养家···",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

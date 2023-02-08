@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "即时死亡 Instant Death",
+  "url": "/subject/27021628/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2867406810.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037702/",
+      "name": "Ara Paiaya Ara Paiaya"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037702/",
+      "name": "Ara Paiaya Ara Paiaya"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055975/",
+      "name": "卢·弗里基诺 Lou Ferrigno"
+    }
+  ]
+,
+  "datePublished": "2017-05-02",
+  "genre": ["\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H24M",
+  "description": "A vicious gang war for drug dominance draws in a disturbed Special Forces veteran John Bradley. Tryi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "204",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

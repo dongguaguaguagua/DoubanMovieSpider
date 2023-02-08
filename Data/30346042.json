@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "包公传奇之端州案",
+  "url": "/subject/30346042/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2572972090.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391136/",
+      "name": "陈立军 Lijun Chen"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330645/",
+      "name": "张洪伟 Hongwei Zhang"
+    }
+  ]
+,
+  "datePublished": "2018-10-09",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H22M",
+  "description": "一场瘟疫席卷端州。楚孟简勤勉公职，在赈灾中对包公帮助极大。却毫无征兆地死在府中。这座深宅中每个人都对楚孟简有着复杂的情感。在看似的意外中，包公却发现了疑点，最终他用破碎的线索还原出一幅罪犯的真实样貌。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

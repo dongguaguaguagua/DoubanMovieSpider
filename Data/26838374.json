@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死亡推手 Pushing Dead",
+  "url": "/subject/26838374/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2367615767.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1073203/",
+      "name": "Tom E. Brown Tom E. Brown"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1073203/",
+      "name": "Tom E. Brown Tom E. Brown"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000113/",
+      "name": "詹姆斯·罗德 James Roday"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010614/",
+      "name": "罗宾·薇格特 Robin Weigert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010571/",
+      "name": "丹尼·格洛弗 Danny Glover"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393794/",
+      "name": "Tabitha Paigen Tabitha Paigen"
+    }
+  ]
+,
+  "datePublished": "2016-09-29",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H48M",
+  "description": "When a struggling writer, HIV positive for 20+ years, accidentally deposits a $100 birthday check, h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

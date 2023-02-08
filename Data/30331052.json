@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "陨星 Les météorites",
+  "url": "/subject/30331052/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2543071334.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401164/",
+      "name": "罗曼·拉古纳 Romain Laguna"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1471883/",
+      "name": "卢卡斯·德拉伦格尔 Lucas Delangle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401164/",
+      "name": "罗曼·拉古纳 Romain Laguna"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430531/",
+      "name": "Zéa Duprez Zéa Duprez"
+    }
+  ]
+,
+  "datePublished": "2018-09-23",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H25M",
+  "description": "借着陨石的影像资料暗示一个年轻女孩的情感走向，在富有节奏感的叙事中呈现出细腻的情感变化。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "106",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

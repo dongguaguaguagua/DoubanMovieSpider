@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱的猎犬 Hounds of Love",
+  "url": "/subject/26872505/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2454763695.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373883/",
+      "name": "本·扬 Ben Young"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373883/",
+      "name": "本·扬 Ben Young"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303817/",
+      "name": "艾玛·布斯 Emma Booth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1250490/",
+      "name": "阿什莉·卡明斯 Ashleigh Cummings"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386992/",
+      "name": "史蒂芬·库里 Stephen Curry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294759/",
+      "name": "苏茜·波特 Susie Porter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386990/",
+      "name": "达米安·德·蒙特马斯 Damian de Montemas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324315/",
+      "name": "哈里森·吉尔伯特森 Harrison Gilbertson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1109141/",
+      "name": "弗莱彻·汉弗莱斯 Fletcher Humphrys"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384330/",
+      "name": "利亚姆·格雷厄姆 Liam Graham"
+    }
+  ]
+,
+  "datePublished": "2016-09-01",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H48M",
+  "description": "取材自真实诱拐犯罪案件的《愉虐游戏》，该片描述17岁少女薇琪半夜翘家跑趴，巧遇和善夫妇搭讪，转念之间的信任与鬆懈，竟使她成了狩猎游戏中的无辜祭品。剧情残酷演绎密室禁脔的绝望，虐杀与玩弄的情节揪著观众恐...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "938",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

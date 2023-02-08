@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恶魔 悪魔",
+  "url": "/subject/27155461/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2511048353.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344302/",
+      "name": "藤井道人 Michihito Fujii"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025644/",
+      "name": "谷崎润一郎 Junichirô Tanizaki"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317519/",
+      "name": "大野丝 Ito Ôno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320003/",
+      "name": "前田航基 Koki Maeda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371997/",
+      "name": "吉村界人 Kaito Yoshimura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352184/",
+      "name": "远藤新菜 Nina Endô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317813/",
+      "name": "前田公辉 Gôki Maeda"
+    }
+  ]
+,
+  "datePublished": "2018-02-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "到東京念大學的佐伯，寄宿在安靜住宅區的林家；房東千枝太太的女兒照子，是個擁有不可思議魅力的高中美少女；愛慕著她的親戚－鈴木也同住一個屋簷下。有著天使般甜美外表的照子，時常若有似無地誘惑著佐伯，即便鈴木...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "111",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.1"
+  }
+}

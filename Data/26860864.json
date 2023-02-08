@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "十字路口 Crossroad",
+  "url": "/subject/26860864/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2375691569.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1115805/",
+      "name": "Leon Lopez Leon Lopez"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT0H11M",
+  "description": "Liam is distraught and confused after a tragic accident. One night, whilst unable to sleep, he embar...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "135",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

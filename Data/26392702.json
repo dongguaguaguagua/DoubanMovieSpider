@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "迪恩 Dean",
+  "url": "/subject/26392702/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2449733396.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018107/",
+      "name": "迪米特利·马丁 Demetri Martin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018107/",
+      "name": "迪米特利·马丁 Demetri Martin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018107/",
+      "name": "迪米特利·马丁 Demetri Martin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040531/",
+      "name": "凯文·克莱恩 Kevin Kline"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274992/",
+      "name": "吉莉安·雅各布斯 Gillian Jacobs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337078/",
+      "name": "罗里·斯卡沃 Rory Scovel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339640/",
+      "name": "金格·贡萨加 Ginger Gonzaga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1217248/",
+      "name": "瑞德·斯科特 Reid Scott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006988/",
+      "name": "玛丽·斯汀伯根 Mary Steenburgen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375442/",
+      "name": "凯特·贝兰特 Kate Berlant"
+    }
+  ]
+,
+  "datePublished": "2016-04-16",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H27M",
+  "description": "A comedy about loss, grief, and the redemptive power of love. Dean is a NY illustrator who falls har...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

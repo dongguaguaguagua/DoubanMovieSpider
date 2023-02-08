@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "皮小子斯皮鲁 Le petit Spirou",
+  "url": "/subject/26969241/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2497204810.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037998/",
+      "name": "尼古拉斯·巴里 Nicolas Bary"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037998/",
+      "name": "尼古拉斯·巴里 Nicolas Bary"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338355/",
+      "name": "弗朗索瓦·达密安 François Damiens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022991/",
+      "name": "皮埃尔·里夏尔 Pierre Richard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000827/",
+      "name": "娜塔莎·雷尼埃 Natacha Régnier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037786/",
+      "name": "菲烈·卡特林 Philippe Katerine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1056899/",
+      "name": "阿尔梅尔 Armelle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396496/",
+      "name": "萨夏·皮诺 Sacha Pinault"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H26M",
+  "description": "法国浪漫主义风格童影，小小年纪的斯皮鲁出生于酒店服务员世家，全家都是酒店电梯服务员。妈妈和爷爷希望他也能继承传统，成为一个电梯服务员，但是他却开始思考，每日按部就班的生活是他想要的吗。他开始计划一场追...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "200",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

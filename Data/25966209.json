@@ -1,0 +1,107 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "出山",
+  "url": "/subject/25966209/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2327644456.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320955/",
+      "name": "王坪 Ping Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320955/",
+      "name": "王坪 Ping Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330757/",
+      "name": "董哲 Zhe Dong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314435/",
+      "name": "卢奇 Qi Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318302/",
+      "name": "安荣生 Rongsheng An"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316266/",
+      "name": "郑卫莉 WeiLi Zheng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315187/",
+      "name": "宋晓英 Xiaoying Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399166/",
+      "name": "张书田 Shutian Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317672/",
+      "name": "赵福余 Fuyu Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399167/",
+      "name": "吴玉盛 Yusheng Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325747/",
+      "name": "李梅可 Meike Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1152771/",
+      "name": "唐国强 Guoqiang Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314473/",
+      "name": "刘劲 Jin Liu"
+    }
+  ]
+,
+  "datePublished": "2018-08-22",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT1H47M",
+  "description": "影片通过邓小平同志1973年复出和1930年担任瑞金县委书记两段历史，真实表现了作为伟大无产阶级革命家的思想、品格和博大胸怀。
+1931年邓小平临危受命，担任中共瑞金县委书记。他以大无畏的勇气当机立断...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

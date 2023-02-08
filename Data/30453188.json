@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冰雪公主驯龙记 Tabaluga",
+  "url": "/subject/30453188/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560196390.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453939/",
+      "name": "斯文·翁特尔瓦特 Sven Unterwaldt Jr."
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359033/",
+      "name": "托比·格恩科尔 Toby Genkel"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045324/",
+      "name": "米夏埃尔·赫尔比希 Michael Herbig"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037187/",
+      "name": "伊冯娜·卡特菲德 Yvonne Catterfeld"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028535/",
+      "name": "海茵茨 ·霍尼格 Heinz Hoenig"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051316/",
+      "name": "Peter Maffay Peter Maffay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005433/",
+      "name": "Rick Kavanian Rick Kavanian"
+    }
+  ]
+,
+  "datePublished": "2018-12-06",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H30M",
+  "description": "很久以前，有两个边境魔法王国，格陵兰岛的居民生活在永恒的夏天，冰岛的居民生活在永恒的冬天。在龙的保护下，这两个王国都过着平静而快乐的生活，直到有一天，一个名叫阿克托斯的邪恶巫师杀死了所有的龙，只有提利...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

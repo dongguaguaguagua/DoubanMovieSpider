@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "狭隘 Теснота",
+  "url": "/subject/27018318/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522564399.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375147/",
+      "name": "康捷米尔·巴拉戈夫 Kantemir Balagov"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375147/",
+      "name": "康捷米尔·巴拉戈夫 Kantemir Balagov"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399931/",
+      "name": "达娅·仲夫娜 Darya Zhovnar"
+    }
+  ]
+,
+  "datePublished": "2017-05-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H58M",
+  "description": "应是举家同欢的新婚之夜，新郎与新娘却彻夜不见踪影。未久，绑架恐吓如恶梦袭来，赎金之高令人绝望，在家族工坊勉力谋生的姊姊，完全无力负担。然而，为了挚爱胞弟与家族颜面，她必须在有限时间用尽一切手段，在传统...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "488",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

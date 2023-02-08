@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绝情海 Desperate Waters",
+  "url": "/subject/26965167/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2649904418.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004608/",
+      "name": "马修·劳伦斯 Matthew Lawrence"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332148/",
+      "name": "夏洛林·阿莫亚 Charlene Amoia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1178825/",
+      "name": "Sarah Scott Sarah Scott"
+    }
+  ]
+,
+  "datePublished": "2019-07-05",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "一个鳏夫雇佣一对年轻热情的夫妇帮助他开船从LA到夏威夷，路途中，夫妻小小的摩擦也开始影响到旅行的初衷",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

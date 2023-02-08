@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "铁血柔情 Rocky Handsome",
+  "url": "/subject/25818066/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2333417916.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323266/",
+      "name": "尼西卡特·卡马特 Nishikant Kamat"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319729/",
+      "name": "瑞提什·沙阿 Ritesh Shah"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036581/",
+      "name": "约翰·亚伯拉罕 John Abraham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428394/",
+      "name": "诺拉·法泰希 Nora Fatehi"
+    }
+  ]
+,
+  "datePublished": "2016-03-25",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "73",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

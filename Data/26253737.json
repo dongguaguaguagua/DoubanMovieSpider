@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "非常父子档",
+  "url": "/subject/26253737/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2391176999.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345724/",
+      "name": "曹溱模 Jin-mo Cho"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364133/",
+      "name": "朱古力 Guli Zhu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274292/",
+      "name": "李治廷 Aarif Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1107868/",
+      "name": "金荷娜 Ha-Neul Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313976/",
+      "name": "文梅森 Mason Mun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028689/",
+      "name": "刘松仁 Damian Lau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274711/",
+      "name": "吕中 Zhong Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274445/",
+      "name": "苑琼丹 King-Tan Yuen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327684/",
+      "name": "祝涛 Tao Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371771/",
+      "name": "刘若谷 Ruogu Liu"
+    }
+  ]
+,
+  "datePublished": "2016-11-04",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H40M",
+  "description": "顾泰丰（文梅森 饰）是拥有着高超智商的天才少年，他从小生长在单亲家庭之中，对自己的身世充满了疑惑和好奇。终于，某一日，顾泰丰黑进了医院的资料库之中，发现了隐藏在自己身世之中的秘密。原来，他的父亲是一位...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5475",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

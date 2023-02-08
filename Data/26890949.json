@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小戏骨：补锅",
+  "url": "/subject/26890949/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2393636283.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367099/",
+      "name": "高翔 Xiang Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366439/",
+      "name": "曹远志 Yuanzhi Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390517/",
+      "name": "黄闻彧 WenYu Huang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363198/",
+      "name": "陶冰蓝 Binglan Tao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363196/",
+      "name": "钟奕儿 Yier Zhong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363197/",
+      "name": "肖杨博涵 Bohan Xiaoyang"
+    }
+  ]
+,
+  "datePublished": "2016-03-09",
+  "genre": ["\u559c\u5267", "\u97f3\u4e50", "\u513f\u7ae5"],
+  "duration": "PT0H28M",
+  "description": "小戏骨《补锅》以李谷一主演的《补锅》改编，讲述生产队的养猪能手刘大娘，认为补锅是“屋檐脚下蹲，一脸墨黑尽灰尘”的职业。有一天，失手打破了煮潲的大铁锅，只好叫女儿去请补锅师傅。小聪来到兰英家，不急不忙讲...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "462",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.3"
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一梦",
+  "url": "/subject/30164764/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517020387.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383701/",
+      "name": "薛海涛 Haitao Xue"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383702/",
+      "name": "郭奕彤 Taryn Guo"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-09-12",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H30M",
+  "description": "影视公司新片《Aphrodite》筹拍，女一号已确定由当红明星雅馨出演。简艾是个过气的小明星，与雅馨同期出道，却始终是高不成低不就，甚至染上了吃东西解压的怀习惯，导致身材微微发胖，事业面临危机。幸好助...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

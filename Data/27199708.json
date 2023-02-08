@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "বাদশা",
+  "url": "/subject/27199708/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2505075034.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424793/",
+      "name": "巴巴·亚达夫 Baba Yadav"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422229/",
+      "name": "吉特 Jeet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424708/",
+      "name": "比肖纳特·波素 Biswanath Basu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423311/",
+      "name": "罗卓达普·道特 Rajatabha Dutta"
+    }
+  ]
+,
+  "datePublished": "2016-07-06",
+  "genre": ["\u52a8\u4f5c", "\u7231\u60c5"],
+  "duration": "PT2H37M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

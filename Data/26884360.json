@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伊莎贝尔 The Wanting",
+  "url": "/subject/26884360/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560072890.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289448/",
+      "name": "杨·劳拉纳斯 Yam Laranas"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276401/",
+      "name": "唐纳德·马丁 Donald Martin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276825/",
+      "name": "达约·阿德 Dayo Ade"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355009/",
+      "name": "沙妮丝·班顿 Shanice Banton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1078089/",
+      "name": "克里斯塔·布里吉斯 Krista Bridges"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1003488/",
+      "name": "亚当·布罗迪 Adam Brody"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016614/",
+      "name": "阿曼达·克鲁 Amanda Crew"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016725/",
+      "name": "希拉·麦卡锡 Sheila McCarthy"
+    }
+  ]
+,
+  "datePublished": "2018-10-12",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H21M",
+  "description": "该片由菲律宾著名惊悚片导演杨·劳拉纳斯执导，讲述了一对美国情侣搬入新居后遭遇的恐怖经历。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "181",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

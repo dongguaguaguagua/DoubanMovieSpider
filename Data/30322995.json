@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "间谍 Goodachari",
+  "url": "/subject/30322995/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2533824101.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441074/",
+      "name": "阿迪维·赛什 Adivi Sesh"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428395/",
+      "name": "维尼拉·基肖尔 Vennela Kishore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441074/",
+      "name": "阿迪维·赛什 Adivi Sesh"
+    }
+  ]
+,
+  "datePublished": "2018-08-03",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT2H27M",
+  "description": "年轻的印度国安局特工阿金·库玛，被栽赃谋杀了他的上司， 让他意识到，现在他的任务比预想的更黑暗。为了自证清白，他必须在印度情报局、印度外情局、印度中央调查局和几大恐怖分子集团之间周旋，而真相则牵扯到他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "260",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

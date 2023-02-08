@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "正好的我们",
+  "url": "/subject/26574964/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2541280456.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379978/",
+      "name": "赵震浩 Zhenhao Zhao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340244/",
+      "name": "万顷波 Qingbo Wan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336952/",
+      "name": "马歌 Ge Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350716/",
+      "name": "李岱昆 Daikun Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350717/",
+      "name": "陆妍淇 Yanqi Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336763/",
+      "name": "毛毅 Yi Mao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350719/",
+      "name": "周奕彤 Yitong Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322771/",
+      "name": "王超 Chao Wang"
+    }
+  ]
+,
+  "datePublished": "2018-12-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "影片讲述从小怀揣检察官梦想的张蓦然,在高中爱情萌芽期,喜欢邻班同学苏忆,随后,两人双双考入大学。张蓦然如愿以偿学习法律专业,苏忆则是学习金融专业。毕业后,张蓦然顺利进入检察院,完成儿时梦想,成为一名检...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

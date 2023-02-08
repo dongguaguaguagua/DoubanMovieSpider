@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Nearest Human Being",
+  "url": "/subject/26975617/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2633254873.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000319/",
+      "name": "查理·霍夫赫梅尔 Charlie Hofheimer"
+    }
+  ]
+,
+  "datePublished": "2017-06-03",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "Devin&#39;s struggles between an office job he hates and a pitiful career as an actor get worse when his...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

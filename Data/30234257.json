@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿斯特罗 Astro",
+  "url": "/subject/30234257/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2523360682.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044907/",
+      "name": "盖瑞·丹尼尔斯 Gary Daniels"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027873/",
+      "name": "迈克尔·帕尔 Michael Paré"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419505/",
+      "name": "阿什利·梅 Ashley Mei"
+    }
+  ]
+,
+  "datePublished": "2018-06-08",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u60ca\u609a"],
+  "duration": "PT1H45M",
+  "description": "这是一个关于亿万富翁的私人太空探索外星科技秘密计划的基地，该计划是从一个新发现的外星球上绑架了一位外星人返回地球，做人体科学研究，以便控制整个世界宇宙及人类。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

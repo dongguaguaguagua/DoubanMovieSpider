@@ -1,0 +1,78 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伊兹大闹洛杉矶 Izzy Gets the F*ck Across Town",
+  "url": "/subject/26702422/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2514329386.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326533/",
+      "name": "麦肯兹·戴维斯 Mackenzie Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025137/",
+      "name": "海利·乔·奥斯蒙 Haley Joel Osment"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342808/",
+      "name": "凯莉·库恩 Carrie Coon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031906/",
+      "name": "布兰登·T·杰克逊 Brandon T. Jackson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174693/",
+      "name": "罗布·许贝尔 Rob Huebel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315631/",
+      "name": "亚历克斯·罗素 Alex Russell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328518/",
+      "name": "多莉·韦尔斯 Dolly Wells"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333571/",
+      "name": "凯尔·金南 Kyle Kinane"
+    }
+  ]
+,
+  "datePublished": "2017-06-17",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5192\u9669"],
+  "duration": "PT1H26M",
+  "description": "Davis plays a woman at rock bottom who must find her way across Los Angeles in order to crash her ex...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "118",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

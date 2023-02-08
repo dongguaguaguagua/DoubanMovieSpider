@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "启示录叛乱 Apocalypse Rising",
+  "url": "/subject/30245786/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2524672771.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051599/",
+      "name": "理查德·劳里 Richard Lowry"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-06-12",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b", "\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "PT1H23M",
+  "description": "他们来自一个注定要拯救我们脱离同一命运的世界。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "164",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.6"
+  }
+}

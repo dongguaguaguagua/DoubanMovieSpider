@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Dirty Computer",
+  "url": "/subject/30207982/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2520700266.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363386/",
+      "name": "加奈儿·梦奈 Janelle Monáe"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363386/",
+      "name": "加奈儿·梦奈 Janelle Monáe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027395/",
+      "name": "泰莎·汤普森 Tessa Thompson"
+    }
+  ]
+,
+  "datePublished": "2018-04-27",
+  "genre": ["\u97f3\u4e50"],
+  "duration": "PT0H49M",
+  "description": "Janelle Monáe &#34;Dirty Computer&#34; 音乐电影",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "107",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

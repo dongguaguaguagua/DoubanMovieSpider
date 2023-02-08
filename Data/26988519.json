@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新娘训练营 Bridal Boot Camp",
+  "url": "/subject/26988519/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2439189108.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272220/",
+      "name": "杰克·赫尔格恩 Jake Helgren"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272220/",
+      "name": "杰克·赫尔格恩 Jake Helgren"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049578/",
+      "name": "史宾塞·洛克 Spencer Locke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1138022/",
+      "name": "杰克·桑维 Jake Sandvig"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340831/",
+      "name": "艾里耶·米兰达 Aeriél Miranda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1479963/",
+      "name": "萨蒂·布洛克 Sadie Brook"
+    }
+  ]
+,
+  "datePublished": "2017-04-13",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "When pretty dress-maker Andy joins a motley crew of brides-to-be for a grueling bridal boot camp, wh...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

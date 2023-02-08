@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死圈 The Dead Center",
+  "url": "/subject/30317636/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2567147364.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307228/",
+      "name": "什恩·卡鲁斯 Shane Carruth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1203180/",
+      "name": "普娜·贾甘纳坦 Poorna Jagannathan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074490/",
+      "name": "杰瑞米·查亚德 Jeremy Child"
+    }
+  ]
+,
+  "datePublished": "2018-09-21",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H33M",
+  "description": "A hospital psychiatrist&#39;s own sanity is pushed to the edge when a frightened amnesiac patient insist...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "457",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

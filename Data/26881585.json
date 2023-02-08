@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Nambiar",
+  "url": "/subject/26881585/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2409552991.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339197/",
+      "name": "桑达南 Santhanam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339194/",
+      "name": "桑奈纳 Sunaina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426763/",
+      "name": "阿里亚 Arya"
+    }
+  ]
+,
+  "datePublished": "2016-08-19",
+  "genre": ["\u559c\u5267", "\u79d1\u5e7b"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

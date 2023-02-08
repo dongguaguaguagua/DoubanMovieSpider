@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "极乐点",
+  "url": "/subject/30295040/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2617878299.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349396/",
+      "name": "王一骜 Yi-ao Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349396/",
+      "name": "王一骜 Yi-ao Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2020-11-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H30M",
+  "description": "隋晟、游礼、王西宁是从小一起长大的好朋友，他们和大多数同时代生活在城市里的中国人一样，是家中唯一的孩子。他们三人都想趁着还年轻，好好的为未来奋斗个出路，过上幸福的生活。可是表面看似美好的未来，实则暗流...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

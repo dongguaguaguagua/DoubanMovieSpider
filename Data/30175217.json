@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暖暖・暖男",
+  "url": "/subject/30175217/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2516851672.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274489/",
+      "name": "罗永昌 Wing-cheong Law"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359282/",
+      "name": "龙文康 Man Hong Loong"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050329/",
+      "name": "林家栋 Ka Tung Lam"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "《暖暖・暖男》
+林家棟監製，羅永昌執導《暖暖・暖男》",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

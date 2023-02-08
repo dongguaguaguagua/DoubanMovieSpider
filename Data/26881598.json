@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "草莓泡泡糖 Strawberry Bubblegums",
+  "url": "/subject/26881598/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2394213455.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050195/",
+      "name": "安德烈·赫尼克 André Hennicke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018487/",
+      "name": "贾思敏·塔巴塔拜 Jasmin Tabatabai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1128772/",
+      "name": "罗纳德·尼施克 Ronald Nitschke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431275/",
+      "name": "格洛丽娅·安德雷斯·德·奥利维拉 Gloria Endres de Oliveira"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326089/",
+      "name": "萨宾·塔布瑞亚 Sabin Tambrea"
+    }
+  ]
+,
+  "datePublished": "2016-09-14",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "17-year-old Lucy discovers that her mom was once a porn actress and she herself is the product of a ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

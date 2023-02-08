@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "New York Masali",
+  "url": "/subject/33416069/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553910337.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1212882/",
+      "name": "Tony Acosta Tony Acosta"
+    }
+  ]
+,
+  "datePublished": "2017-05-19",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H39M",
+  "description": "After being survived in a tragic car accident, ambitious and workaholic Deniz decides to make radica...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

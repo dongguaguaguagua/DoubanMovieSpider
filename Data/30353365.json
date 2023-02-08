@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "侠探锦毛鼠之逍遥劫",
+  "url": "/subject/30353365/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2699392744.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365462/",
+      "name": "周德新 Dexin Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322995/",
+      "name": "王九胜 Jiusheng Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313886/",
+      "name": "伊娜 Na Yi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322463/",
+      "name": "王志刚 Zhigang Wang"
+    }
+  ]
+,
+  "datePublished": "2019-01-22",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u5192\u9669", "\u6b66\u4fa0", "\u53e4\u88c5"],
+  "duration": "PT1H28M",
+  "description": "北京大名府突现命案，燕王儿子大婚，但新娘却在婚礼之夜诡异死亡，凶手先奸后杀，奇怪的是新娘死的时候面带笑容并不痛苦。侠义神探白玉堂和展昭怀疑为逍遥派所为，一场调查就此展开。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

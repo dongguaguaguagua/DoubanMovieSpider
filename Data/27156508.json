@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "别墅住客 Vilaieha",
+  "url": "/subject/27156508/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2501605181.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472765/",
+      "name": "莫尼尔·盖迪 Munir Gheidi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415482/",
+      "name": "阿萨兰·阿米日 Arsalan Amiri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1472765/",
+      "name": "莫尼尔·盖迪 Munir Gheidi"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-05-10",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H30M",
+  "description": "关于1986年伊朗军队高级将领在后方的家属的故事",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

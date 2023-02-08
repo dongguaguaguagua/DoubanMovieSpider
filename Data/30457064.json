@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Zapovednik",
+  "url": "/subject/30457064/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2566279956.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362767/",
+      "name": "安娜·马提森 Anna Matison"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362767/",
+      "name": "安娜·马提森 Anna Matison"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1063266/",
+      "name": "谢尔盖·别兹鲁科夫 Sergey Bezrukov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318611/",
+      "name": "安娜·米哈尔科娃 Anna Mikhalkova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319220/",
+      "name": "尤里·库琴科 Yuriy Kutsenko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1143204/",
+      "name": "亚历山大·塞梅切夫 Aleksander Semchev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051109/",
+      "name": "维克托·贝奇科夫 Viktor Bychkov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1059795/",
+      "name": "Leonid Agutin Leonid Agutin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354383/",
+      "name": "波丽娜·加加尼娜 Polina Gagarina"
+    }
+  ]
+,
+  "datePublished": "2018-12-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H50M",
+  "description": "Konstantin, a songwriter and master guitarist, runs away from numerous problems to the nature reserv...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

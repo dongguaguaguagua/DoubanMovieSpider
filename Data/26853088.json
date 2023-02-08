@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜魔人",
+  "url": "/subject/26853088/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2372792830.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360836/",
+      "name": "张坤一 K.Y Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360836/",
+      "name": "张坤一 K.Y Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329519/",
+      "name": "维妮 ViNi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360959/",
+      "name": "鹿凌桀 Lingjie Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292855/",
+      "name": "娜仁花 Renhua Na"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317188/",
+      "name": "杜玉明 Yuming Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324154/",
+      "name": "李龙君 Longjun Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360961/",
+      "name": "徐思语 Siyu Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340268/",
+      "name": "杨凯迪 Kaidi Yang"
+    }
+  ]
+,
+  "datePublished": "2016-09-09",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H29M",
+  "description": "表面看来，赵子雨（维妮 饰）是一个活泼开朗，乐观健谈的姑娘，实际上，她却隐藏了一个秘密，儿时的一个诡异梦境至今依然纠缠和困扰着她，令她屡次失去理智，痛苦不堪，而这个秘密只有她最好的朋友祁雪儿（杨凯迪 ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "719",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

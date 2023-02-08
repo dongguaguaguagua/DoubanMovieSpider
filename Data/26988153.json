@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "12 Gifts of Christmas",
+  "url": "/subject/26988153/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2438397728.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388085/",
+      "name": "亚伦·奥康奈尔 Aaron O&#39;Connell"
+    }
+  ]
+,
+  "datePublished": "2016-12-22",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H23M",
+  "description": "With two more weeks until Christmas, a busy business man, Marc Rehnquist, hires a struggling artist,...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

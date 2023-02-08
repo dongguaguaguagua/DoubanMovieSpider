@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "绝杀慕尼黑 Движение вверх",
+  "url": "/subject/27024959/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2556883031.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328274/",
+      "name": "安东·梅格尔季切夫 Anton Megerdichev"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395620/",
+      "name": "尼古拉·库利科夫 Nikolay Kulikov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321342/",
+      "name": "安德烈·库烈奇克 Andrei Kureichik"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036888/",
+      "name": "弗拉基米尔·马什科夫 Vladimir Mashkov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049596/",
+      "name": "约翰·萨维奇 John Savage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1060370/",
+      "name": "马拉特·巴沙罗夫 Marat Basharov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101813/",
+      "name": "谢尔盖·加尔马什 Sergey Garmash"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1389156/",
+      "name": "伊万·科列斯尼科夫 Ivan Kolesnikov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358162/",
+      "name": "亚历山德拉·雷文科 Aleksandra Revenko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384669/",
+      "name": "詹姆斯·托拉斯 James Tratas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393922/",
+      "name": "基里尔·扎耶采夫 Kirill Zaytsev"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1039021/",
+      "name": "安德烈·斯莫利亚科夫 Andrei Smolyakov"
+    }
+  ]
+,
+  "datePublished": "2017-12-28",
+  "genre": ["\u5267\u60c5", "\u8fd0\u52a8"],
+  "duration": "PT2H13M",
+  "description": "电影根据体育历史中著名的传奇真实事件改编，讲述了1972年慕尼黑奥运会篮球决赛中，前苏联篮球队打败了保持了36年全胜纪录的美国队的传奇故事。在决赛结束前三秒钟，美国队以一分优势领先。美国队已经开始提前...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "166733",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.1"
+  }
+}

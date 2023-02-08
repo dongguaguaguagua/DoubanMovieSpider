@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "创世纪-罪犯帝国 Rising Fear",
+  "url": "/subject/30162587/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2608429933.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110950/",
+      "name": "Daniel Kuttner Daniel Kuttner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049739/",
+      "name": "菲尔·刘易斯 Phill Lewis"
+    }
+  ]
+,
+  "datePublished": "2016-05-30",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H36M",
+  "description": "When terrorists take our nation hostage, a rogue marine sets out to stop them",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

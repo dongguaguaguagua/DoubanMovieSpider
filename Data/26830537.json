@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猎魔行动 Veerappan",
+  "url": "/subject/26830537/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2364546697.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000513/",
+      "name": "拉姆·戈帕尔·维马 Ram Gopal Varma"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356122/",
+      "name": "Usha Jadhav Usha Jadhav"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267282/",
+      "name": "莎任·可汗 Zarine Khan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000125/",
+      "name": "丽莎·蕾 Lisa Ray"
+    }
+  ]
+,
+  "datePublished": "2016-05-27",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT2H5M",
+  "description": "Koose Muniswamy Veerappan commonly known only as Veerappan was a notorious Indian brigand and dacoit...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

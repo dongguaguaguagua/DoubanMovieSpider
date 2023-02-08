@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小提琴家 The Violin Player",
+  "url": "/subject/26674955/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2461862775.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421863/",
+      "name": "瑞第克·查克拉博蒂 Ritwick Chakraborty"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H12M",
+  "description": "A day in the life of a failed Bollywood session violinist whose life revolves around remarkable noth...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

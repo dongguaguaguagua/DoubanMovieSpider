@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无聊电影 無聊電影",
+  "url": "/subject/27061597/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2461561073.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421253/",
+      "name": "旷思慧 Sihui Kuang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421253/",
+      "name": "旷思慧 Sihui Kuang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2019-10-20",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b"],
+  "duration": "PT0H25M",
+  "description": "影癡少女是家中獨生女，父母的婚姻名存實亡，家中三人缺乏互動。為了逃避平淡的家庭生活，她試圖用眼睛將人生改編成電影，將她看過的電影情節套用在她的真實生活中。劇組各部門的工作人員在家中穿梭，父母化身演員，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "盲侠",
+  "url": "/subject/30276456/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528248594.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391914/",
+      "name": "高成岗 Chenggang Gao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313972/",
+      "name": "李槐龙 Huailong Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315259/",
+      "name": "祝新运 Xinyun Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377805/",
+      "name": "高欣生 Xinsheng Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392550/",
+      "name": "王梁双全 Liangshuangquan Wang"
+    }
+  ]
+,
+  "datePublished": "2018-07-25",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H27M",
+  "description": "清末民初，充满报国志向的军官陈湃被人陷害成为瞎子，流落成麦客。在西北双牛堡，陈湃协助村民反抗马匪的压迫，并且重新燃起斗志，成长为一名盲人侠客",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "751",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

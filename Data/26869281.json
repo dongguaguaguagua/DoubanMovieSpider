@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天鹅公主：明日公主今日海盗 The Swan Princess: Princess Tomorrow, Pirate Today!",
+  "url": "/subject/26869281/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2378383981.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034461/",
+      "name": "Maurice Joyce Maurice Joyce"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029798/",
+      "name": "Brian Nissen Brian Nissen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1191469/",
+      "name": "劳拉·贝莉 Laura Bailey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031195/",
+      "name": "尤里·洛文塔尔 Yuri Lowenthal"
+    }
+  ]
+,
+  "datePublished": "2016-09-06",
+  "genre": ["\u559c\u5267", "\u52a8\u753b"],
+  "duration": "PT1H21M",
+  "description": "虽然贵为公主，但艾丽莎（劳拉·贝莉 Laura Bailey 配音）的个性实在是太过于活泼了，常常在宫里惹出各种各样的麻烦需要爸爸妈妈帮她善后。为了学习宫中的礼仪，艾丽莎被送到了女王处，严格又古板的女...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "87",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

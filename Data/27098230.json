@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "旅行婚礼 Destination Wedding",
+  "url": "/subject/27098230/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504625138.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286307/",
+      "name": "James Head James Head"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049505/",
+      "name": "阿丽夏·维加 Alexa Vega"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1234464/",
+      "name": "安德里亚·布鲁克斯 Andrea Brooks"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276113/",
+      "name": "安德鲁·邓巴 Andrew Dunbar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1030383/",
+      "name": "拉斐尔·西蒙 Rafael Simón"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147800/",
+      "name": "保拉·肖 Paula Shaw"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1243274/",
+      "name": "普雷斯顿·范德里斯 Preston Vanderslice"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453462/",
+      "name": "杰里米·吉尔伯特 Jeremy Guilbaut"
+    }
+  ]
+,
+  "datePublished": "2017-06-03",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H24M",
+  "description": "Ellie Hamilton has been painstakingly planning her sister&#39;s destination wedding for the longest time...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

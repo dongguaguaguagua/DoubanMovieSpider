@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "家庭 Ev",
+  "url": "/subject/27158085/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2506957671.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425252/",
+      "name": "Asghar Yousefinejad Asghar Yousefinejad"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-04-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H18M",
+  "description": "The story is about a will. A man has passed away and everybody is gathering around his body. His las...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

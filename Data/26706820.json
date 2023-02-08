@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大梦西游",
+  "url": "/subject/26706820/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2357880245.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314627/",
+      "name": "谢苗 Miu Tse"
+    }
+  ]
+,
+  "datePublished": "2016-05-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "唐小剑（张赫 饰）是网络游戏《大梦西游》的人物设计师，近日里，他的创作遭遇了瓶颈，不知该如何前进，这令唐小剑赶到十分苦恼，就连做梦也无法释怀。让唐小剑没有想到的是，某日，自己竟然在梦中穿越到了西游记的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1542",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

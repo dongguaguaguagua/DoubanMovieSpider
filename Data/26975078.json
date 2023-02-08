@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "倔强的牛顿 Newton",
+  "url": "/subject/26975078/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2506359552.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386932/",
+      "name": "阿米特·马斯卡尔 Amit Masurkar"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386932/",
+      "name": "阿米特·马斯卡尔 Amit Masurkar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386933/",
+      "name": "马扬克·特瓦利 Mayank Tewari"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337689/",
+      "name": "拉吉·库玛 Rajkummar Rao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355604/",
+      "name": "潘卡·特里帕蒂 Pankaj Tripathi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387293/",
+      "name": "安佳丽·帕蒂尔 Anjali Patil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313208/",
+      "name": "拉格胡维尔·亚达夫 Raghuvir Yadav"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313207/",
+      "name": "奥姆卡·达斯·马尼克普里 Omkar Das Manikpuri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292208/",
+      "name": "桑杰·米什拉 Sanjay Mishra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386933/",
+      "name": "马扬克·特瓦利 Mayank Tewari"
+    }
+  ]
+,
+  "datePublished": "2017-02-10",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H46M",
+  "description": "2018年印度的“申奥片”，印度自嘲式喜剧电影，影片由阿米特·玛祖卡尔执导，主演拉吉·库玛饰演一名被委派到冲突地区，完成选举任务的政府职员。在这样的雷区中进行“自由公平”的选举并不是儿戏，他决心定要尽...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "740",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "风吹过我还在",
+  "url": "/subject/27205190/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505730037.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383537/",
+      "name": "何仲海 Zhonghai He"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359626/",
+      "name": "许建 Jian Xu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H20M",
+  "description": "问题少年肖剑来自城郊，父母离婚，他跟着爷爷一起生活，喜欢惹事生非，无所事事，所有同学对他都有所忌惮，但有那么一个漂亮女孩，却从不怕他......",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

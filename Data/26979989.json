@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "僵尸西门庆",
+  "url": "/subject/26979989/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2432503344.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381252/",
+      "name": "李全 Quan Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381225/",
+      "name": "李平安 Ping&#39;an Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H23M",
+  "description": "电影《僵尸西门庆》由稻草人影业出品。剧情简介：宋朝，西门庆为了得到潘金莲，不惜毒死武大郎，也因此送上了性命，因为当时西门庆是在偷情的高潮中死去，所以这股特殊的怨气使他变成法力高强的不死僵尸。深埋地下，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

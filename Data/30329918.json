@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "西河恋歌",
+  "url": "/subject/30329918/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2572944293.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413368/",
+      "name": "杨涧华 Jianhua Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413369/",
+      "name": "庐野 Ye Lu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425034/",
+      "name": "郭岱鑫 Daixin Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400261/",
+      "name": "骆海鸿 Haihong Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425035/",
+      "name": "狄非儿 Fei&#39;er Di"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425036/",
+      "name": "弓孝兮 Xiaoxi Gong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484549/",
+      "name": "许鹏 Peng Xu"
+    }
+  ]
+,
+  "datePublished": "2019-12-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "女孩向美兰是“山窝窝飞出的金凤凰”，有着一份令人艳羡的爱情和前程。为毕业设计，她和富二代男友回到山乡，目睹美丽乡村的日渐凋敝，选择留下来将古民居改造成“乡村民宿”。创业路上，她遭遇封建迷信的干扰，传统...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

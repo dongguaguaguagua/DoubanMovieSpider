@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的少年时代",
+  "url": "/subject/30349708/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433294/",
+      "name": "夏仪斌 Yibin Xia"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404141/",
+      "name": "黄浩鸣 Haoming Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403484/",
+      "name": "王龙翔 Longxiang Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433277/",
+      "name": "袁国扬 Guoyang Yuan"
+    }
+  ]
+,
+  "datePublished": "2018-09-24",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "曹超自幼家境非常好，后来因为一场变故，变成了一个孤儿。无家可归的他只能露宿街头，后来被好心人收留，抚养长大。后来通过成长经历描写了曹超和孙钱、张灰、刘比等人，从青春少年到中年的恩怨摩擦",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

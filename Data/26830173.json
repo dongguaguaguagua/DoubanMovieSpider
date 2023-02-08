@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "僧侣与魔鬼 Монах и бес",
+  "url": "/subject/26830173/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2364414243.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282630/",
+      "name": "Nikolai Dostal Nikolai Dostal"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042579/",
+      "name": "尤里·阿拉博夫 Yuri Arabov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282630/",
+      "name": "Nikolai Dostal Nikolai Dostal"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338764/",
+      "name": "罗曼·迈迪安诺夫 Roman Madyanov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1216516/",
+      "name": "达里娅·叶卡马索娃 Darya Ekamasova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1177596/",
+      "name": "安娜·乌克洛娃 Anna Ukolova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338788/",
+      "name": "茵嘉·斯特热尔科娃-欧波尔迪娜 Inga Strelkova-Oboldina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339868/",
+      "name": "鲍里斯·卡莫尔津 Boris Kamorzin"
+    }
+  ]
+,
+  "datePublished": "2016-09-08",
+  "genre": ["\u559c\u5267", "\u60ac\u7591"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

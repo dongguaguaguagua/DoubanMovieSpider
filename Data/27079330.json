@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "南京南",
+  "url": "/subject/27079330/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2475334796.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376413/",
+      "name": "张文龙 Wenlong Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376413/",
+      "name": "张文龙 Wenlong Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-07-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H58M",
+  "description": "李浩接到了一通来自高中班主任的电话，沉迷网游的他终于决定痛改前非，但现实的发展早已远超他的理解和想象。女生刘雯和从北京来的异地恋男友度过了短暂的两天，在路上，他们聊了过去与未来……与此同时，在窘迫的拍...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "231",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

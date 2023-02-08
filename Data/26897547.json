@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "孤岛终结",
+  "url": "/subject/26897547/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2498276902.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383020/",
+      "name": "王人超 Steve Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383020/",
+      "name": "王人超 Steve Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-08-30",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H0M",
+  "description": "前往半人马座行星系统的“彼岸”工程是一次赌博般的探险，而这几乎已经失败的旅程最后却成为了人类文明最后的希望。但是“彼岸”工程的成功与否，却全部系于林夏独自一人的孤岛之旅。这座充满回忆的孤岛，尾随而来的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1303",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亲爱的儿子 ولدي",
+  "url": "/subject/27188196/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2541645585.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354870/",
+      "name": "穆罕默德·本·阿提亚 Mohamed Ben Attia"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354870/",
+      "name": "穆罕默德·本·阿提亚 Mohamed Ben Attia"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356382/",
+      "name": "Mohamed Dhrif Mohamed Dhrif"
+    }
+  ]
+,
+  "datePublished": "2018-05-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H44M",
+  "description": "父亲溺爱儿子赛米，望子成龙。儿子面对升学压力，父亲十分忧心却也只能想尽办法帮助，直到有天儿子无声告别，留下了要“只身前往叙利亚”参与圣战组织的信息，父亲踏上寻找儿子的路，才发现父子之间早已存在着难以调...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "348",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

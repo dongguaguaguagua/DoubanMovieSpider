@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "骇故事之凶宅",
+  "url": "/subject/26924737/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2401798691.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325324/",
+      "name": "周浩晖 Haohui Zhou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325324/",
+      "name": "周浩晖 Haohui Zhou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327119/",
+      "name": "夏望 Wang Xia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325324/",
+      "name": "周浩晖 Haohui Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445063/",
+      "name": "陈慧雯 Huiwen Chen"
+    }
+  ]
+,
+  "datePublished": "2016-12-01",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H27M",
+  "description": "为了寻找创作灵感，悬疑小说作家许婷（魏星 饰）搬进了网友陈凯（夏望 饰）家中的地下室，据说这间地下室里经常有灵异事件发生。陈凯对许婷一往情深，但他发现许婷喜欢的其实是网络上那个虚拟的人物——马脸男。陈...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

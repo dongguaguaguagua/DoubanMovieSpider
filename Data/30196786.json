@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "世界上最远的距离",
+  "url": "/subject/30196786/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2541305376.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341569/",
+      "name": "罗翔 Xiang Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413816/",
+      "name": "吕晋源 Jinyuan Lü"
+    }
+  ]
+,
+  "datePublished": "2018-12-21",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "电影讲述一个贫困但很机灵聪明的年轻人从大学步入社会的历程，在这段人生“断奶期”，他没有经济支撑，面对职场上的考验，他遭受着各种困苦和折磨，同时经历着事业，爱情，亲情的考验，他耍过不少小聪明，逐渐走向成...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

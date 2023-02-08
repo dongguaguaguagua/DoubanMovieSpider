@@ -1,0 +1,124 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "照相师",
+  "url": "/subject/30258232/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2541659816.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342506/",
+      "name": "张唯 Wei Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397506/",
+      "name": "杜志华 Pu Du"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406526/",
+      "name": "张敏 Min Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313180/",
+      "name": "谢钢 Gang Xie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313315/",
+      "name": "刘牧 Mu Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346557/",
+      "name": "康磊 Lei Kang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313796/",
+      "name": "涓子 Juan Zi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376598/",
+      "name": "秦楚明 Chuming Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316513/",
+      "name": "马东延 Dongyan Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405584/",
+      "name": "于卉怡 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405585/",
+      "name": "上泽 Ze Shang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348506/",
+      "name": "张优 You Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405586/",
+      "name": "方子怡 Ziyi Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1405675/",
+      "name": "刘玉龙 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385679/",
+      "name": " "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426996/",
+      "name": "宝马 Baoma"
+    }
+  ]
+,
+  "datePublished": "2018-12-12",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2"],
+  "duration": "PT1H52M",
+  "description": "中国改革开放的风雨过程令每一个家庭的经历都足以写一部长篇小说。在深圳有这样一个家庭，富有才气的年轻丈夫摄影师在商品大潮中热衷“人体艺术”，美丽而娴于世故的湖南妹妻子则无日无夜在金融圈沉迷拼搏，小儿子长...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1208",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "洗骨",
+  "url": "/subject/30238958/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2548222577.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020287/",
+      "name": "照屋年之 Gori"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020287/",
+      "name": "照屋年之 Gori"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033105/",
+      "name": "奥田瑛二 Eiji Okuda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002489/",
+      "name": "筒井道隆 Michitaka Tsutsui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331728/",
+      "name": "水崎绫女 Ayame Misaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322047/",
+      "name": "大岛蓉子 Yôko Ohshima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1026865/",
+      "name": "坂本明 Akira Sakamoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328157/",
+      "name": "筒井真理子 Mariko Tsutsui"
+    }
+  ]
+,
+  "datePublished": "2018-06-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H52M",
+  "description": "故事发生在位于冲绳群岛西侧的粟国岛，在这里，依然保留着被称之为“洗骨”的古老风俗。当地人去世之后，亲人们会将他们的尸体埋葬在岛屿的西边，等尸体完全化为白骨之后，再将其取出洗净，只有这样，死去之人才能够...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "649",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

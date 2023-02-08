@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "生化岛 Isle of the Dead",
+  "url": "/subject/26887896/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2387224775.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045710/",
+      "name": "尼克·里昂 Nick Lyon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1172668/",
+      "name": "雅各布·库尼 Jacob Cooney"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002723/",
+      "name": "约瑟夫·劳伦斯 Joseph Lawrence"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388680/",
+      "name": "阿卡尼莫·埃约 Akanimo Eyo"
+    }
+  ]
+,
+  "datePublished": "2016-08-18",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "十年前，政府在南太平洋的一座孤立热带小岛上建造了一座庞大的试验工厂，委派了一队科学家进行秘密实验。十年后的今天，一支海豹突击队进入岛上后消失，于是政府又派出一支攻击分队上岛调查情况，当他们抵达后，发现...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "261",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.2"
+  }
+}

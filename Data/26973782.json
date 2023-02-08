@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "气息 نفس",
+  "url": "/subject/26973782/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2428142611.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329482/",
+      "name": "纳基斯·阿贝耶 Narges Abyar"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329482/",
+      "name": "纳基斯·阿贝耶 Narges Abyar"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330249/",
+      "name": "格拉热·阿巴斯 Gelare Abasi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327177/",
+      "name": "迈赫兰·艾哈迈迪 Mehran Ahmadi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1059719/",
+      "name": "Jamshid Hashempur Jamshid Hashempur"
+    }
+  ]
+,
+  "datePublished": "2016-02-01",
+  "genre": ["\u5267\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H52M",
+  "description": "伊朗选送的征战2018年“奥斯卡最佳外语片”的影片。伊朗女导演纳基斯·阿贝耶执导，背景设置在70年代末伊斯兰革命与80年代初两伊战争前后，它是以小女孩视角展开的家庭情节剧，特色鲜明的角色撑起了整个故事...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "537",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.9"
+  }
+}

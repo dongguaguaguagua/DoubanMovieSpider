@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Vengeance Waits",
+  "url": "/subject/27025027/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274869/",
+      "name": "肯尼·道提 Kenny Doughty"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280215/",
+      "name": "卡罗琳·卡弗 Caroline Carver"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031846/",
+      "name": "理查德·柯伊尔 Richard Coyle"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

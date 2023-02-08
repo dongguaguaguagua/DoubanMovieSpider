@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Throbbin&#39; 84",
+  "url": "/subject/30408148/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2543168601.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306332/",
+      "name": "Timothy Spanos Timothy Spanos"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306332/",
+      "name": "Timothy Spanos Timothy Spanos"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1395360/",
+      "name": "罗斯琳·詹托 Roslyn Gentle"
+    }
+  ]
+,
+  "datePublished": "2017-09-17",
+  "genre": ["\u559c\u5267", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

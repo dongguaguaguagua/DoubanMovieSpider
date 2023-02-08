@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海鸥 The Seagull",
+  "url": "/subject/26389835/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2532664197.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1174449/",
+      "name": "迈克尔·迈耶 Michael Mayer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007190/",
+      "name": "安东·契诃夫 Anton Chekhov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401213/",
+      "name": "斯蒂芬·卡勒姆 Stephen Karam"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022566/",
+      "name": "伊丽莎白·莫斯 Elisabeth Moss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022004/",
+      "name": "西尔莎·罗南 Saoirse Ronan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017944/",
+      "name": "安妮特·贝宁 Annette Bening"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315557/",
+      "name": "寇瑞·斯托尔 Corey Stoll"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013729/",
+      "name": "布莱恩·丹内利 Brian Dennehy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1056148/",
+      "name": "梅尔·温宁汉姆 Mare Winningham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328948/",
+      "name": "迈克尔·泽根 Michael Zegen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1159716/",
+      "name": "乔恩·坦尼 Jon Tenney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345504/",
+      "name": "比利·豪尔 Billy Howle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346468/",
+      "name": "格伦·弗莱舍尔 Glenn Fleshler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210861/",
+      "name": "巴尔巴拉·蒂雷尔 Barbara Tirrell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371474/",
+      "name": "托马斯·哈特里克 Thomas Hettrick"
+    }
+  ]
+,
+  "datePublished": "2018-04-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "故事发生在沙俄统治时期的一座俄国庄园内，妮娜（西尔莎·罗南 Saoirse Ronan 饰）是居住在那里的一位少女，天真而又单纯的她对爱情有着非常浪漫美好的憧憬，对未来的生活也抱有着极大的希冀。康斯坦...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2698",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

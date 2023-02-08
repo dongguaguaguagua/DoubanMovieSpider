@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Pipeline",
+  "url": "/subject/27166258/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2501464328.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456527/",
+      "name": "Madeleine Murphy Madeleine Murphy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1456529/",
+      "name": "Elizabeth Cascarelli Elizabeth Cascarelli"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "A family residence is taken over by a blood thirsty pipe monster who awaits those who step inside. W...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

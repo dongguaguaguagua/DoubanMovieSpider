@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "36 Steps on a Curved Road",
+  "url": "/subject/26882549/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1230060/",
+      "name": " James Rich"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "A couple in love is a violent thing - I&#39;m going to shape you, and you&#39;re going to shape me. In 36 St...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

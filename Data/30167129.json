@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "荒城纪",
+  "url": "/subject/30167129/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2521436620.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316281/",
+      "name": "徐啸力 Xiaoli Xu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393237/",
+      "name": "闻燕 Yan Wen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394058/",
+      "name": "莫争 Zheng Mo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394059/",
+      "name": "徐加欣 Jiaxin Xu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391304/",
+      "name": "李畅 Chang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391305/",
+      "name": "郝星棋 Xingqi Hao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274429/",
+      "name": "斯琴高娃 Gaowa Siqin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318289/",
+      "name": "褚栓忠 Shuanzhong Chu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323094/",
+      "name": "王建国 Jianguo Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317117/",
+      "name": "阎青妤 Qingyu Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318707/",
+      "name": "高军 Jun Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322999/",
+      "name": "韩三明 Sanming Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368333/",
+      "name": "莫涂弘哲 Tuhongzhe Mo"
+    }
+  ]
+,
+  "datePublished": "2017-12-18",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H44M",
+  "description": "故事发生在二十世纪三十年代的民国，山西一个偏远的小山村。村里的保长为了趋炎附势，把自己的女儿嫁给了县长的儿子，并从女儿口中辗转得知了一条旱涝保收的消息：在村里建个“李忆莲祠堂”，就可以获得县里拨发的巨...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "11241",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

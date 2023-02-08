@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "霸凌 Bully",
+  "url": "/subject/27073310/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2593684054.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408682/",
+      "name": "李杰 Jay Lee"
+    }
+  ]
+,
+  "datePublished": "2016-10-31",
+  "genre": ["\u77ed\u7247", "\u540c\u6027"],
+  "duration": "PT0H6M",
+  "description": "Avery因为是同志而被欺负，于是期望在网上交的朋友身上得到慰藉，可真正相见时他却发现… 本是同路人，相煎何太急，你能做初一，我难为十五。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

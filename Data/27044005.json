@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "塞巴斯蒂安 Sebastian",
+  "url": "/subject/27044005/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2459254685.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433666/",
+      "name": "詹姆斯·法尼扎 James Fanizza"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433666/",
+      "name": "詹姆斯·法尼扎 James Fanizza"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1093731/",
+      "name": "亚历克斯·豪斯 Alex House"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433662/",
+      "name": "斯泰西·史密斯 Stacy Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433666/",
+      "name": "詹姆斯·法尼扎 James Fanizza"
+    }
+  ]
+,
+  "datePublished": "2017-05-26",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H20M",
+  "description": "Starring James Fanizza, Alex House and Katya from RuPaul&#39;s Drag Race (Brian McCook). Alex and Sebast...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冷区 Cold Zone",
+  "url": "/subject/27046602/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2459595370.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399641/",
+      "name": "道恩·楚拜 Dawn Chubai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403268/",
+      "name": "梅勒妮·迈克拉伦 Melanie McLaren"
+    }
+  ]
+,
+  "datePublished": "2017-05-17",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H25M",
+  "description": "A storm is coming. No one could predict it. No one can measure it.Now one family must survive it. Yo...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "58",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "致命怪谈",
+  "url": "/subject/26712732/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2319650682.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348966/",
+      "name": "依平 Yiping"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324420/",
+      "name": "过华 Hua Guo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324421/",
+      "name": "黄荣 Rong Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348966/",
+      "name": "依平 Yiping"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324425/",
+      "name": "刘若清 Ruoqing Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316046/",
+      "name": "周浩东 Haodong Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354289/",
+      "name": "苏婷 Ting Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350796/",
+      "name": "杨海超 Haichao Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324424/",
+      "name": "魏建云 Jianyun Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354290/",
+      "name": "赵婷婷 Tingting Zhao"
+    }
+  ]
+,
+  "datePublished": "2016-02-19",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H36M",
+  "description": "恐惧：繁华都市中，妙龄女孩天天（刘青 饰）因童年的一起事件而将其闭锁在家中。某晚，她被迫走出家门，却被神秘之人劫持。当她再度醒来，发现自己和另一个女孩被囚禁在一个封闭的场所。她们必须想方设法逃出这个神...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "555",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.6"
+  }
+}

@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "战俘的逃亡日记 Union Bound",
+  "url": "/subject/26739418/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502825757.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008136/",
+      "name": "哈维·劳里 Harvey Lowry"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044909/",
+      "name": "安德鲁·西雷 Andrew Seeley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022799/",
+      "name": "兰迪·韦恩 Randy Wayne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014216/",
+      "name": "西恩·斯通 Sean Stone"
+    }
+  ]
+,
+  "datePublished": "2016-02-12",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u5386\u53f2"],
+  "duration": "PT1H43M",
+  "description": "这是由1864年美国内战时反奴隶士兵约瑟夫·胡佛所保存的日记拍成的电影。约瑟夫胡佛为反奴隶联盟而战却不幸被捕并送到战俘营。约瑟夫在一场血腥战役中被捕，被抓到格鲁吉亚的安德森维尔战俘营。他们订定逃跑计划...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "79",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

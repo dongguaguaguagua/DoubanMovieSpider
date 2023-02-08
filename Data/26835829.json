@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜班 Late Shift",
+  "url": "/subject/26835829/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2385565236.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324569/",
+      "name": "迈克尔·罗伯特·约翰逊 Michael Robert Johnson"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1253645/",
+      "name": "安部春香 Haruka Abe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356512/",
+      "name": "莉莉·崔佛斯 Lily Travers"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388511/",
+      "name": "乔·索沃布茨 Joe Sowerbutts"
+    }
+  ]
+,
+  "datePublished": "2016-03-10",
+  "genre": ["\u60ac\u7591", "\u72af\u7f6a"],
+  "duration": "PT1H30M",
+  "description": "《夜班》是一款全动态影像的犯罪悬疑游戏。游戏讲述一个数学专业的大学生——马特，莫名其妙被卷入一场拍卖所的盗窃中，并试图证明自己的清白。游戏中玩家将会面临一系列的抉择，有些决定甚是微小，但却会导致截然不...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1708",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

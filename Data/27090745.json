@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天上人间",
+  "url": "/subject/27090745/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496411808.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365036/",
+      "name": "焦曼婷 Manting Chiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386637/",
+      "name": "白一翔 Yi-Hsiang Bai"
+    }
+  ]
+,
+  "datePublished": "2018-08-17",
+  "genre": ["\u7231\u60c5", "\u53e4\u88c5"],
+  "duration": "PT1H25M",
+  "description": "牛郎（白一翔饰）与织女（焦曼婷饰）的爱情遭遇玉帝（文谦饰）的阻挠，织女被抓回天庭，两人仙凡相隔。牛郎在凡间苦练法术，最终在喜鹊的帮助下成功上天与玉帝当面对质，历数玉帝的强势与专权。
+夏天昊（白一翔饰）...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

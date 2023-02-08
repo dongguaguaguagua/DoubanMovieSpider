@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "纹身师",
+  "url": "/subject/27114875/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2496405531.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364757/",
+      "name": "李柯 Ke Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379390/",
+      "name": "李闷 Men Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356410/",
+      "name": "石雨晴 Yuqing Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330795/",
+      "name": "古铭瀚 Minghan Gu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379389/",
+      "name": "谢璞婉 Puwan Xie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363815/",
+      "name": "江森 Sen Jiang"
+    }
+  ]
+,
+  "datePublished": "2017-09-15",
+  "genre": ["\u7231\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H31M",
+  "description": "叶臻（石雨晴 饰）是一位小有名气的女明星，即将和未婚夫秦明携手步入婚礼的殿堂。可是，就在这个节骨眼上，秦明竟然和叶臻的妹妹叶琳双双在他们的婚房里自杀身亡。现场没有留下任何踪迹，只有一枚血淋淋的二维码纹...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

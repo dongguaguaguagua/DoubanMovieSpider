@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "净土",
+  "url": "/subject/30313634/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534634848.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403266/",
+      "name": "孙振宇 Zhenyu Sun"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1403266/",
+      "name": "孙振宇 Zhenyu Sun"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2018-10-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "晋北农村的留守妇女，金凤，第三胎如愿怀上儿子。但由于无力支付巨额罚款，她被强制引产。从此她有些精神恍惚，经常看见儿子的阴灵在家中游荡。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "潘金莲就是我",
+  "url": "/subject/26826486/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2363254172.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364898/",
+      "name": "李亚 Ya Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364896/",
+      "name": "候梦琪 Mengqi Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364897/",
+      "name": "杜亮 Liang Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354193/",
+      "name": "王震森 Zhensen Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364895/",
+      "name": "刘振安 Zhen&#39;an Liu"
+    }
+  ]
+,
+  "datePublished": "2016-07-06",
+  "genre": [],
+  "duration": "PT1H6M",
+  "description": "电影《潘金莲就是我》是一部农村题材的爱情伦理剧，它描述了当代农村女性的坎坷命运。而她的所作所为与古代潘金莲有很多的相似之处。女主人公胡丽（候梦琪 饰）因为一直过着清贫的日子，无法摆脱外界的诱惑，而坠入...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "201",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.5"
+  }
+}

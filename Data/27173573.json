@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "La Veuve Noire",
+  "url": "/subject/27173573/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502282458.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481934/",
+      "name": " Yan Kaos"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT0H9M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

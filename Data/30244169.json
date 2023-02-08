@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "那晚他们来敲门 The Night They Knocked",
+  "url": "/subject/30244169/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2628626700.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482023/",
+      "name": "琳妮娅·格雷戈 Linnea Gregg"
+    }
+  ]
+,
+  "datePublished": "2020-11-06",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "在他们的最后一个周末在一起，一群朋友住在一间隐居的山房里，他们的乐趣突然被敲门声打断",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

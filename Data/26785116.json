@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Brakes",
+  "url": "/subject/26785116/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2503723504.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045126/",
+      "name": "朱利安·巴拉特 Julian Barratt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1281914/",
+      "name": "朱莉娅·戴维斯 Julia Davis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018078/",
+      "name": "诺尔·费丁 Noel Fielding"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Brakes is an improv-based dark comedy set in London.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

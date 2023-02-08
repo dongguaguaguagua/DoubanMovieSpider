@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "复仇朵拉 Dora",
+  "url": "/subject/27028945/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2456608045.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428260/",
+      "name": "哈里什·乌达曼 Harish Uthaman"
+    }
+  ]
+,
+  "datePublished": "2017-03-03",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "A vintage car has some haunting added features, which transform the life of a mild-mannered young wo...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

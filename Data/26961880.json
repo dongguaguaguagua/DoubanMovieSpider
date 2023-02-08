@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Le serpent aux mille coupures",
+  "url": "/subject/26961880/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2454191489.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1299807/",
+      "name": "埃里克·瓦利特 Eric Valette"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1299807/",
+      "name": "埃里克·瓦利特 Eric Valette"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022996/",
+      "name": "托莫·希思黎 Tomer Sisley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050264/",
+      "name": "帕斯卡尔·格雷戈里 Pascal Greggory"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045571/",
+      "name": "尹子维 Terence Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1173650/",
+      "name": "斯特凡·德巴 Stéphane Debac"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1200568/",
+      "name": "亚历山大·皮科特 Alexandre Picot"
+    }
+  ]
+,
+  "datePublished": "2017-04-05",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H44M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一路癫狂",
+  "url": "/subject/26973344/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542391844.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375887/",
+      "name": "亚伯拉罕·林 Abraham Lim"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375887/",
+      "name": "亚伯拉罕·林 Abraham Lim"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385295/",
+      "name": "周乾畅 Qianchang Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406673/",
+      "name": "赵振宇 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406676/",
+      "name": "向川 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406677/",
+      "name": "王晓凤 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406678/",
+      "name": "王皓 "
+    }
+  ]
+,
+  "datePublished": "2018-12-12",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u5192\u9669"],
+  "duration": "PT1H43M",
+  "description": "三个大学好朋友必须在毕业作品截止期前横跨大半个中国，去寻找他们失踪的同学王皓，并追回全部的毕业作品文件。不然他们将不能顺利毕业，也不能在来年继续前往韩国学习。在路上他们将考验自己的极限和处理问题的能力...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

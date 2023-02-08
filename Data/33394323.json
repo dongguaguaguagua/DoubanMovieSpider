@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阴差阳错 Mitron",
+  "url": "/subject/33394323/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2552521604.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332610/",
+      "name": "尼汀·卡卡尔 Nitin Kakkar"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343489/",
+      "name": "杰奇·巴格纳尼 Jacky Bhagnani"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312191/",
+      "name": "普拉提克·巴巴尔 Prateik Babbar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1418975/",
+      "name": "奇坦·代亚 Chetan Daiya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432714/",
+      "name": "普拉蒂克·甘地 Pratik Gandhi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406544/",
+      "name": "森尔·辛 Suneel Sinha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1264518/",
+      "name": "托雷尔·文森 Torell Vinson"
+    }
+  ]
+,
+  "datePublished": "2018-09-14",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H59M",
+  "description": "Jai &#34;Jackky Bhagnani&#34;, born and brought up with middle-class values, has a &#39;take it easy&#39; approach t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

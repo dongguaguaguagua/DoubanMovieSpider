@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无人",
+  "url": "/subject/27145032/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2499987975.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386346/",
+      "name": "张大卫 Dawei Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2017-03-23",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H17M",
+  "description": "没有人",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

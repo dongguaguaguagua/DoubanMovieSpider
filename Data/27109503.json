@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Azzurrina",
+  "url": "/subject/27109503/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2495693544.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372678/",
+      "name": "塔蒂亚娜·卢特 Tatiana Luter"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "Directed by Giacomo Franciosa, the movie traces the steps of Azzurrina, right where her legend was b...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

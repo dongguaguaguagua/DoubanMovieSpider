@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐惧 ഭയാനകം",
+  "url": "/subject/30408172/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2545114593.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413976/",
+      "name": "加雅拉杰 Jayaraj"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1413976/",
+      "name": "加雅拉杰 Jayaraj"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1460776/",
+      "name": " 雷恩杰·博尼可 Renji Panicker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1467310/",
+      "name": "阿莎·莎拉特 Asha Sharath  "
+    }
+  ]
+,
+  "datePublished": "2018-07-20",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT2H3M",
+  "description": "一名参加过一战的退伍军人被派往库塔那德担任邮差，负责给服役士兵的家属递送补助金及信件。随着第二次世界大战的爆发，他的身份逐渐发生了变化，从送钱之人变为了报丧之人。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

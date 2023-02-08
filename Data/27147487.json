@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Ann Mariya Kalippilanu",
+  "url": "/subject/27147487/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2499618793.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426793/",
+      "name": "阿朱·瓦尔吉斯 Aju Varghese"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT2H44M",
+  "description": "Ann Mariya, a jovial kid hires a goon, Gireesh due to an incident at school. Her kindness causes Gir...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一条叫招财的鱼",
+  "url": "/subject/30272786/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2539428036.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404800/",
+      "name": "刘迪洋 Diyang Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408088/",
+      "name": "张骁 Xiao Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1404800/",
+      "name": "刘迪洋 Diyang Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393807/",
+      "name": "杨乾 Qian Yang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290001/",
+      "name": "李易祥 Yixiang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355805/",
+      "name": "张歌 Ge Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037662/",
+      "name": "李子雄 Waise Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358951/",
+      "name": "叶逢春 Fengchun Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385831/",
+      "name": "孙昊 Hao Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377153/",
+      "name": "方清平 Qingping Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327313/",
+      "name": "杨舒枫 Shufeng Yang"
+    }
+  ]
+,
+  "datePublished": "2018-11-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H47M",
+  "description": "这个故事，发生在24小时之内。失业的火锅厂保卫科科长勇哥，为救欠赌债的小舅子，无奈之下拿了厂长的龙鱼准备变现救人。不料因鱼肚里的TF卡牵扯国营场地产交易的黑幕，勇哥等人卷入了一场越闹越大的“江湖”纷争...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "969",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

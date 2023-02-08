@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "上了 Mue Ke",
+  "url": "/subject/27090835/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2493315886.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342438/",
+      "name": "温柏高 Paco Wen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342438/",
+      "name": "温柏高 Paco Wen"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H5M",
+  "description": "去年年末自己拍着玩的一个短片。在导师给的时间限制下，当时只能拿手头的垃圾手机将就着拍，所以虚焦啊录音效果太low啊等等问题也难免属于先天不足、无法弥补了，这些我是自知的啦。取景地是我宿舍，两位演员也都...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "92",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

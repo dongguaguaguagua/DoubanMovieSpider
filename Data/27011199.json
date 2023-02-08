@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "方糖人生 Sugar!",
+  "url": "/subject/27011199/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2453923650.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1436548/",
+      "name": "Shari Berman Shari Berman"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371485/",
+      "name": "苏珊娜·H·斯马特 Suzanne H. Smart"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345943/",
+      "name": "戴文·德鲁伊 Devin Druid"
+    }
+  ]
+,
+  "datePublished": "2016-07-22",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H34M",
+  "description": "Leslie，一个年逾五十的家庭主妇，同时，她也是一个钢琴教师。这天她突然想要追逐梦想，厌倦了琐碎平凡的生活，她决心去当一名摇滚歌手。这一举动可吓坏了她的丈夫和即将上大学的女儿……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

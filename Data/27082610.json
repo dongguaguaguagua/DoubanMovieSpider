@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Exhume",
+  "url": "/subject/27082610/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2483466385.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343714/",
+      "name": "威廉·海兹 William Haze"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400793/",
+      "name": "萨拉·斯库尔科 Sarah Sculco"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H18M",
+  "description": "Based on true events, Patrick and his wife Karen Connor are hired by the state to exhume bodies rest...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

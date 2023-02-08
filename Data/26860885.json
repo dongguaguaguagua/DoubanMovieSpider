@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "桑拿惊魂 Sauna the Dead",
+  "url": "/subject/26860885/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2375700262.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353194/",
+      "name": "安东尼·奇泽姆 Anthony Chisholm"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1469477/",
+      "name": " Tom Frederic"
+    }
+  ]
+,
+  "datePublished": "2016-03-25",
+  "genre": ["\u6050\u6016", "\u540c\u6027", "\u5947\u5e7b"],
+  "duration": "PT0H21M",
+  "description": "A  night  in  a  gay  sauna  turns  into  a  fight  for  survival.  Two  men
+must  over-come  prejud...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "293",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.5"
+  }
+}

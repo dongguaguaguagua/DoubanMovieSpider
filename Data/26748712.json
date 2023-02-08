@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "阿莱利 Alelí",
+  "url": "/subject/26748712/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2575676074.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382678/",
+      "name": "克里斯蒂娜·莫兰 Cristina Morán"
+    }
+  ]
+,
+  "datePublished": "2019-11-23",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "The death of their father causes three dysfunctional siblings to fight over their beloved childhood ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

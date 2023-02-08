@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Christmas Getaway",
+  "url": "/subject/27615101/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531210640.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012605/",
+      "name": "梅尔·达米斯基 Mel Damski"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006967/",
+      "name": "布里吉特·瑞根 Bridget Regan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040631/",
+      "name": "特拉维斯·范·文克 Travis Van Winkle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147454/",
+      "name": "泰瑞尔·罗瑟里 Teryl Rothery"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394424/",
+      "name": "萨拉·史密斯 Sarah Smyth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313004/",
+      "name": "丹·佩恩 Dan Payne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1146730/",
+      "name": "阿尔文·桑德斯 Alvin Sanders"
+    }
+  ]
+,
+  "datePublished": "2017-12-23",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "A travel writer takes a Christmas vacation, but finds herself double-booked with a widower, his moth...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

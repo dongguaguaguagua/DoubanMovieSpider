@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "巴特克里克 Battlecreek",
+  "url": "/subject/6873867/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2423447776.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018013/",
+      "name": "艾莉森·伊斯特伍德 Alison Eastwood"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022798/",
+      "name": "比尔·斯卡斯加德 Bill Skarsgård"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332256/",
+      "name": "葆拉·马尔科姆森 Paula Malcomson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040621/",
+      "name": "德尔罗伊·林多 Delroy Lindo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313440/",
+      "name": "克莱尔·范·德·波姆 Claire van der Boom"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018058/",
+      "name": "托比·海明威 Toby Hemingway"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267932/",
+      "name": "伊莉丝·范科 Elise Fyke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210684/",
+      "name": "Douglas Cunningham Douglas Cunningham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437500/",
+      "name": "达娜·鲍威尔 Dana Powell"
+    }
+  ]
+,
+  "datePublished": "2017-02-01",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H37M",
+  "description": "在一个经济不景气的南方小镇上，一位有天赋的年轻画家，患有罕见的皮肤病，只能在黑暗里度过他的一生。一个饱受折磨的年轻女子被她自己的恶魔驱赶着进入了城市，他们的关系迫使双方最终与自己的过去和解，他们最终向...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "241",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}
