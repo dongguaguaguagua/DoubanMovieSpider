@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "通向柏林之路 Дорога на Берлин",
+  "url": "/subject/26419406/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2248536124.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361414/",
+      "name": "谢尔盖·波波夫 Sergei Popov"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005719/",
+      "name": "Emmanuil G. Kazakevich Emmanuil G. Kazakevich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420000/",
+      "name": "叶甫根尼`尼基舍夫 Evgeniy Nikishov"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366410/",
+      "name": "尤里·鲍里索夫 Yuriy Borisov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451841/",
+      "name": "安德烈·德瑞金 Andrey Deryugin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451840/",
+      "name": "马克西姆·登琴科 Maksim Demchenko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451839/",
+      "name": "阿米尔·阿卜迪卡洛夫 Amir Abdykalov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451834/",
+      "name": "亚历山大·诺维克 Aleksandr Novik"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1451842/",
+      "name": "玛丽亚·卡波娃 Mariya Karpova"
+    }
+  ]
+,
+  "datePublished": "2015-05-07",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H22M",
+  "description": "伟大卫国战争时期。刚从军校毕业的谢尔盖·奥加尔科夫来到前线，他的第一个任务是向炮兵师传达撤退指示。但由于缺乏经验，奥加尔科夫中途迷路，外加炮兵师已被包围，命令没有被传达，炮兵师被歼灭。奥加尔科夫被军事...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "372",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

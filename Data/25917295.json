@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "意外制造公司 De Surprise",
+  "url": "/subject/25917295/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2277152966.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014556/",
+      "name": "米克·范迪姆 Mike van Diem"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014556/",
+      "name": "米克·范迪姆 Mike van Diem"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011404/",
+      "name": "卡琳·凡·霍尔斯特·佩里卡尼 Karin van Holst Pellekaan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1219335/",
+      "name": "贝尔坎普 Belcampo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184242/",
+      "name": "杰罗恩·凡·康宁斯伯格 Jeroen van Koningsbrugge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028048/",
+      "name": "乔治娜·芜班 Georgina Verbaan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007216/",
+      "name": "简·德克莱尔 Jan Decleir"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1099473/",
+      "name": "亨利·古德曼 Henry Goodman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356267/",
+      "name": "安刻尔·巴尔 Ankur Bahl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335984/",
+      "name": "纳维德·乔杜里 Naveed Choudhry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356268/",
+      "name": "奥利弗·加茨 Oliver Gatz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356269/",
+      "name": "罗尼·尤提 Ronny Jhutti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037525/",
+      "name": "皮埃尔·波克玛 Pierre Bokma"
+    }
+  ]
+,
+  "datePublished": "2015-05-21",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H42M",
+  "description": "雅各布（杰罗恩·凡·康宁斯伯格 Jeroen van Koningsbrugge 饰）虽然是坐拥千万家产的富翁，却总是闷闷不乐，整天盘算着如何自杀。不过，雅各布并不是一个很擅长把自己弄死的人，他试过很...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "22788",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

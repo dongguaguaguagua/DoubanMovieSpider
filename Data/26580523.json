@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "皮卡德罗 Pikadero",
+  "url": "/subject/26580523/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2271655734.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426972/",
+      "name": "本·夏罗克 Ben Sharrock"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426972/",
+      "name": "本·夏罗克 Ben Sharrock"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1101560/",
+      "name": "巴巴拉·戈纳加 Bárbara Goenaga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1370182/",
+      "name": "Víctor Benjumea Víctor Benjumea"
+    }
+  ]
+,
+  "datePublished": "2015-09-18",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H38M",
+  "description": "囿于经济危机给西班牙带来的困境，一对身无分文的年轻情侣无法“离巢”。同时两个菜鸟还要学会如何在家庭束缚下，处理好彼此的感情这一恼人问题。他们对发生关系日益绝望的时候，开始着手寻找在年轻人中受欢迎的公共...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1054",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

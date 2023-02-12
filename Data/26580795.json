@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "葬礼 ತಿಥಿ",
+  "url": "/subject/26580795/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2357282348.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351240/",
+      "name": "拉雷姆·雷迪 Raam Reddy"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351240/",
+      "name": "拉雷姆·雷迪 Raam Reddy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358745/",
+      "name": "厄尔戈达 Eregowda"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358746/",
+      "name": "Thammegowda S. Thammegowda S."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358747/",
+      "name": "Channegowda Channegowda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358748/",
+      "name": "Abhishek H.N. Abhishek H.N."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358749/",
+      "name": "Pooja S.M. Pooja S.M."
+    }
+  ]
+,
+  "datePublished": "2015-08-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H3M",
+  "description": "在南印度的一个偏远村庄，101岁的Century Gowda去世了，他的三代子孙们有着不同的反应。儿子Gadappa是一位老头子，总是抽着便宜的烟，喝着白兰地，每天无所事事地穿梭在田野间；同时孙子Th...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "395",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

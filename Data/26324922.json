@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "麻衣的日常 まいちゃんの日常",
+  "url": "/subject/26324922/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2325331012.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354738/",
+      "name": "赤根京 Miyako Akane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364354/",
+      "name": "小司杏 An Koshi"
+    }
+  ]
+,
+  "datePublished": "2016-04-03",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H3M",
+  "description": "猎奇漫画家・氏贺Y太的代表作之一，在海外的狂热者之间也很有人气的《麻衣的日常》改编的真人版 在一个偏僻的地方，一个虐待狂的地方发布了一则广告，想要引诱年轻的少女来当女佣，但却控制她们遭受虐待、酷刑、谋...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "278",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

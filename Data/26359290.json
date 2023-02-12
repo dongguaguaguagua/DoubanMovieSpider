@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Devil Town",
+  "url": "/subject/26359290/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2562505164.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334717/",
+      "name": "琳赛·柏奇 Lindsay Burdge"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325488/",
+      "name": "布洛克·布罗姆 Brooke Bloom"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336463/",
+      "name": "亚历克斯·罗斯·派瑞 Alex Ross Perry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324426/",
+      "name": "詹妮弗·金 Jennifer Kim"
+    }
+  ]
+,
+  "datePublished": "2015-04-16",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT1H13M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

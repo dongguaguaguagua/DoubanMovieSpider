@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "正直地活下去 正しく生きる",
+  "url": "/subject/24754210/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2222835891.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347929/",
+      "name": "福冈芳穂 Yoshiho Fukuoka"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347929/",
+      "name": "福冈芳穂 Yoshiho Fukuoka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298845/",
+      "name": "高桥伴明 Banmei Takahashi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016878/",
+      "name": "岸部一德 Ittoku Kishibe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042056/",
+      "name": "柄本明 Akira Emoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006693/",
+      "name": "铃木卓尔 Takuji Suzuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340184/",
+      "name": "宇野祥平 Shôhei Uno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275824/",
+      "name": "大森立嗣 Tatsushi Ohmori"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019599/",
+      "name": "宫崎将 Masaru Miyazaki"
+    }
+  ]
+,
+  "datePublished": "2015-03-07",
+  "genre": [],
+  "duration": "PT1H48M",
+  "description": "東京造形艺术大学的学生与专业电影人组成的“北白川派“，继『自杀者光顾的面包店』后拍摄的又一部话题作品，由日本电影界的演技派演员岸部一徳主演。他在剧中扮演一位计划实施无差别恐怖袭击的大学教授，是一部让人...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "67",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

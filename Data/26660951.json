@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "师傅",
+  "url": "/subject/26660951/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2282074861.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355327/",
+      "name": "丁冠森 Guansen Ding"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H13M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

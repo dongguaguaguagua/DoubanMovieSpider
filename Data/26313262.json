@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "加油站夜惊魂 La noche del ratón",
+  "url": "/subject/26313262/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510930897.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1159383/",
+      "name": "Alfonso Torregrosa Alfonso Torregrosa"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "Sandra and Jorge&#39;s trip was expected to be pleasant but things often don&#39;t go as planned. Sometimes ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

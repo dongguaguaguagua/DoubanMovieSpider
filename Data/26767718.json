@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "男神抱抱",
+  "url": "/subject/26767718/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2333509077.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356615/",
+      "name": "李小军 Xiaojun Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424857/",
+      "name": "王哲 Zhe Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362736/",
+      "name": "侯天悦 Tianyue Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356617/",
+      "name": "荣梓希 Zixi Rong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356618/",
+      "name": "杨彤 Tong Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356619/",
+      "name": "史元庭 Yuanting Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356624/",
+      "name": "刘伟 Wei Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313982/",
+      "name": "何沄伟 Yunwei He"
+    }
+  ]
+,
+  "datePublished": "2016-05-06",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H34M",
+  "description": "混居一室的型男靓女，与突如其来的神秘“男神”，演绎出一系列啼笑皆非的养颜喜剧。相声演员刘伟、何云伟的情趣加盟，颠覆想象极度挑战视觉神经。这其中有女友、基友、朋友的复杂情感，也有男神女神肉体与灵魂的激情...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "214",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.6"
+  }
+}

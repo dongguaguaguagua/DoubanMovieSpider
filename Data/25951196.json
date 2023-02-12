@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我是吉姆 Just Jim",
+  "url": "/subject/25951196/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2244997083.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1214964/",
+      "name": "克雷格·罗伯兹 Craig Roberts"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1214964/",
+      "name": "克雷格·罗伯兹 Craig Roberts"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040998/",
+      "name": "埃米尔·赫斯基 Emile Hirsch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1214964/",
+      "name": "克雷格·罗伯兹 Craig Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032585/",
+      "name": "理查德·哈林顿 Richard Harrington"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326997/",
+      "name": "特里斯坦·格拉韦尔 Trystan Gravelle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339389/",
+      "name": "马克·路易斯·琼斯 Mark Lewis Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339474/",
+      "name": "赛·班尼特 Sai Bennett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1142718/",
+      "name": "尼娅·罗伯茨 Nia Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342974/",
+      "name": "马修·奥布瑞 Matthew Aubrey"
+    }
+  ]
+,
+  "datePublished": "2015-09-25",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u60ca\u609a"],
+  "duration": "PT1H24M",
+  "description": "一个威尔士的青少年想要变成城镇里的帅小伙，条件是他必须与他的新美国邻居做个交易。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "188",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

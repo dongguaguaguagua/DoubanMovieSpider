@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "倒数追击 Countdown",
+  "url": "/subject/26756314/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2327356312.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000252/",
+      "name": "约翰·斯托克韦尔 John Stockwell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342610/",
+      "name": "迈克尔·芬奇 Michael Finch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300710/",
+      "name": "理查德·温克 Richard Wenk"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041142/",
+      "name": "凯瑟琳·伊莎贝尔 Katharine Isabelle"
+    }
+  ]
+,
+  "datePublished": "2016-04-05",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H30M",
+  "description": "WWE超级巨星道夫·齐格勒、凯恩领衔动作大片，痛失爱子警员争分夺秒，要在炸弹爆炸前抓获嫌犯，拯救幼小人质",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "468",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

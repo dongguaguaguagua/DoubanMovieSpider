@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "出租车故事",
+  "url": "/subject/26776709/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2444062064.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380093/",
+      "name": "杨文颖 Doris Yeung"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380093/",
+      "name": "杨文颖 Doris Yeung"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380103/",
+      "name": "曹珊 Corallin Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365642/",
+      "name": "周祉君 Aaron Chow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330717/",
+      "name": "周惠坤 Thomas Chow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275994/",
+      "name": "冯宝宝 Bo-Bo Fung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331953/",
+      "name": "珊迪·帕雷德斯 Shanty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360032/",
+      "name": "余洺轩 Mingxuan Yu"
+    }
+  ]
+,
+  "datePublished": "2017-03-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "In an increasingly economically polarized and virtually connected 24 hour Asia, a poor Beijing taxi ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

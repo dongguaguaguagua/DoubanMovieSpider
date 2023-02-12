@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "感觉中枢 Sensoria",
+  "url": "/subject/26687462/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2313583422.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005733/",
+      "name": "Christian Hallman Christian Hallman"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375882/",
+      "name": "阿莉达·莫尔伯格 Alida Morberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1203345/",
+      "name": "拉斐尔·佩特松 Rafael Pettersson"
+    }
+  ]
+,
+  "datePublished": "2016-01-25",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H21M",
+  "description": "Caroline, a woman in her late thirties, has lost everything and is searching for a new beginning. Sh...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

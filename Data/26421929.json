@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "和你在一起",
+  "url": "/subject/26421929/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2249252121.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390859/",
+      "name": "李昀锐 Yunrui Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468474/",
+      "name": "贾玉雪 Yuxue Jia"
+    }
+  ]
+,
+  "datePublished": "2015-06-10",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "华中科技大学2015年毕业电影。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

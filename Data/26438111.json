@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "群斗 The Horde",
+  "url": "/subject/26438111/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2254046558.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164947/",
+      "name": "弗农·威尔斯 Vernon Wells"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1226070/",
+      "name": "马修·维利希 Matthew Willig"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049669/",
+      "name": "科斯塔斯·曼迪勒 Costas Mandylor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358652/",
+      "name": "约翰·奥莫亨德罗 John Omohundro"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u6050\u6016"],
+  "duration": "PT1H28M",
+  "description": "約翰原本要在周末向女友瑟琳娜求婚，但是瑟琳娜要帶一群學生進行校外攝影寫真之旅，約翰只好跟著他們一起來到美麗的寶藍湖。然而這裡的居民一點也不美麗，這裡多年前是一個挖礦的小鎮，隨著鈾汙染了水源，這裡的居民...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "91",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

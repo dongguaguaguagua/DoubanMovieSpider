@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "荷兰杀手 Dutch Kills",
+  "url": "/subject/26772676/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2454431795.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371750/",
+      "name": "塔玛·菲利安加 Tama Filianga"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432725/",
+      "name": "罗伯特·莱曼 Robert L. Mann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371750/",
+      "name": "塔玛·菲利安加 Tama Filianga"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "一个绝望的前科罪犯为了从一个危险的当地犯罪团伙手下解救她的妹妹，不得不重新组织起旧时的队伍。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

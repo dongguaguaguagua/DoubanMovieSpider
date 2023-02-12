@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "西城童话 西城童話",
+  "url": "/subject/26598081/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2455707721.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337816/",
+      "name": "叶天伦 Tien-Lun Yeh"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358332/",
+      "name": "叶丹青 Tan-Ching Yeh"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313616/",
+      "name": "郭书瑶 Shu-yau Kuo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016537/",
+      "name": "李李仁 Liren Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165442/",
+      "name": "杨贵媚 Kuei-Mei Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358327/",
+      "name": "李辰翔 Spark Lee"
+    }
+  ]
+,
+  "datePublished": "2017-01-06",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H55M",
+  "description": "[ 西門有三寶 : 電影 鈔票 瘋子滿街跑 ]
+西門町，台北眾人皆知的娛樂聖地，也是現今年輕流行文化的指標，不論早晚總是充斥著各種各樣的人。單親倔強的少女小虎和流浪瘋子西門慶的奇幻童話故事，即將在西門...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "359",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

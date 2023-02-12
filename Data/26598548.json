@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "生化危机战",
+  "url": "/subject/26598548/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2264360907.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373981/",
+      "name": "包美美 Meimei Bao"
+    }
+  ]
+,
+  "datePublished": "2015-08-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H13M",
+  "description": "抗日战争接近尾声，中国胜利在望，日本部分残余势力还在垂死挣扎，情报员小美接到任务后，将和Jack一起去摧毁日军研发的生物细菌核心团队。途中遇到身份可疑的艳妮和组织派来的莫人，四人汇合后小美感觉到有些不...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "508",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.4"
+  }
+}

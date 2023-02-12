@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死宅之地 Nerdland",
+  "url": "/subject/26757289/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2388259084.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042388/",
+      "name": "Chris Prynoski Chris Prynoski"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022840/",
+      "name": "安德鲁·凯文·沃克 Andrew Kevin Walker"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002667/",
+      "name": "保罗·路德 Paul Rudd"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007015/",
+      "name": "帕顿·奥斯瓦尔特 Patton Oswalt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031927/",
+      "name": "瑞琪·琳德赫姆 Riki Lindhome"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1242167/",
+      "name": "凯特·米库奇 Kate Micucci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027847/",
+      "name": "迈克·乔吉 Mike Judge"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H25M",
+  "description": "Nerdland is an R-rated cartoon comedy about celebrity, excess, and two showbiz nobodies, John (Paul ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "82",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

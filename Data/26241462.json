@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "联合政府 Coalition",
+  "url": "/subject/26241462/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2235390792.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348651/",
+      "name": "艾利克斯·霍姆斯 Alex Holmes"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053443/",
+      "name": "詹姆斯·格兰汉姆 James Graham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354156/",
+      "name": "詹姆斯·格拉汉姆 James Graham"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027973/",
+      "name": "马克·加蒂斯 Mark Gatiss"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108666/",
+      "name": "克里斯·拉金 Chris Larkin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1156767/",
+      "name": "唐纳德·桑普特 Donald Sumpter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335906/",
+      "name": "黛博拉·芬德莱 Deborah Findlay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1081048/",
+      "name": "塞巴斯蒂安·阿梅斯托 Sebastian Armesto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315345/",
+      "name": "博迪·卡维尔 Bertie Carvel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333551/",
+      "name": "李·尼古拉斯·哈里斯 Lee Nicholas Harris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346249/",
+      "name": "玛塔·巴里奥 Marta Barrio"
+    }
+  ]
+,
+  "datePublished": "2015-03-28",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0"],
+  "duration": "PT1H30M",
+  "description": "背景设定在2010年大选，本剧聚焦英国尼克·克莱格（Nick Clegg）从没落自由党的领导人成为“改变国家命运”的英国现任副首相，与大卫·卡梅伦（David Cameron）及其保守党组成英国战后以...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "186",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.4"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杀死奶奶 Kill Granny Kill",
+  "url": "/subject/26375919/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2242047290.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1476084/",
+      "name": "凯拉·帕金斯 Kayla Perkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482594/",
+      "name": "杰森·克罗伊 Jason Crowe"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H10M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

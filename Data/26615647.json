@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们可以睡得很香 Que nous nous assoupissions",
+  "url": "/subject/26615647/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2318613423.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184096/",
+      "name": "德尼·科泰 Denis Côté"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1184096/",
+      "name": "德尼·科泰 Denis Côté"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H15M",
+  "description": "Winter persists. Something happened. At the heart of the woods, on the slopes of mountains, in the s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

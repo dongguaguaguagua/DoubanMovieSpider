@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冬之歌 Chant d’hiver",
+  "url": "/subject/26304218/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2710066593.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005307/",
+      "name": "奥塔·埃索里亚尼 Otar Iosseliani"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005307/",
+      "name": "奥塔·埃索里亚尼 Otar Iosseliani"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016618/",
+      "name": "米歇尔·皮科利 Michel Piccoli"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037440/",
+      "name": "皮埃尔·埃泰 Pierre Étaix"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040679/",
+      "name": "马修·阿马立克 Mathieu Amalric"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H57M",
+  "description": "A deadpan, picaresque buddy comedy about two old friends through a series of urban adventures, loose...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "55",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

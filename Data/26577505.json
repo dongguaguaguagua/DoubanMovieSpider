@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "A House Is Not a Home",
+  "url": "/subject/26577505/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2258151693.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1470973/",
+      "name": "杰拉尔德·韦伯 Gerald Webb"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H27M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

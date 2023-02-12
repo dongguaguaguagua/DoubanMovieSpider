@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幸存者 Survivors",
+  "url": "/subject/26656889/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2280121505.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277204/",
+      "name": "David Anderson David Anderson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1211538/",
+      "name": "阿德里安·安尼斯 Adrian Annis"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "",
+  "description": "The outbreak of a deadly virus sends the UK into a state of emergency, into a war it appears destine...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

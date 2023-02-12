@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "血染梅里爱之月 Blood on Méliès&#39; Moon",
+  "url": "/subject/26802124/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2355622449.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050595/",
+      "name": "路易吉·科齐 Luigi Cozzi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049726/",
+      "name": "达里奥·阿基多 Dario Argento"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000584/",
+      "name": "兰帕德·帕瓦 Lamberto Bava"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT2H5M",
+  "description": "France, 1890. Inventor Louis Le Prince vanishes under mysterious circumstances right after he create...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

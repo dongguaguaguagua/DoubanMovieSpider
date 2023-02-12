@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "感化院 Freistatt",
+  "url": "/subject/26245360/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2250072222.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034484/",
+      "name": "马克·布鲁蒙德 Marc Brummund"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034484/",
+      "name": "马克·布鲁蒙德 Marc Brummund"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354645/",
+      "name": "妮可·阿姆博斯特 Nicole Armbruster"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354646/",
+      "name": "约纳斯·伯格 Jonas Berg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260132/",
+      "name": "路易斯·霍夫曼 Louis Hofmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037371/",
+      "name": "杰拉德·亚历山大·海德 Gerald Alexander Held"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354647/",
+      "name": "施特凡·格罗斯曼 Stephan Grossmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014166/",
+      "name": "马克思·雷迈特 Max Riemelt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025357/",
+      "name": "乌尔里希·图库尔 Ulrich Tukur"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1231872/",
+      "name": "安娜·布拉德-维尔纳 Anna Bullard-Werner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000864/",
+      "name": "阿克西尔·普拉尔 Axel Prahl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054675/",
+      "name": "乌韦·博姆 Uwe Bohm"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005857/",
+      "name": "马古斯·克罗杰尔 Markus Krojer"
+    }
+  ]
+,
+  "datePublished": "2015-06-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H44M",
+  "description": "故事发生在1968年的德国，少年沃尔夫冈（路易斯·霍夫曼 Louis Hofmann 饰）的母亲再嫁，他和继父之间的关系很是紧张，在一场冲突之后，继父将沃尔夫冈送入了感化院之中，沃尔夫冈就此开始了充满...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "15799",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.3"
+  }
+}

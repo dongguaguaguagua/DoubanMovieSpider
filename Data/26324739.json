@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Manny Lewis",
+  "url": "/subject/26324739/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2227197615.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292189/",
+      "name": "Anthony Mir Anthony Mir"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292189/",
+      "name": "Anthony Mir Anthony Mir"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351905/",
+      "name": "Carl Barron Carl Barron"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1164169/",
+      "name": "利安娜·瓦尔斯曼 Leeanna Walsman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276607/",
+      "name": "罗伊·比令 Roy Billing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351905/",
+      "name": "Carl Barron Carl Barron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1455242/",
+      "name": "鲍里斯·布尔基奇 Boris Brkic"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H29M",
+  "description": "The film follows the story of a famous fictional stand-up comedian Manny Lewis, who connects with mi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

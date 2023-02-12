@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "听心",
+  "url": "/subject/26373141/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2239758406.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349256/",
+      "name": "刘屹尘 Yichen Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349256/",
+      "name": "刘屹尘 Yichen Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349256/",
+      "name": "刘屹尘 Yichen Liu"
+    }
+  ]
+,
+  "datePublished": "2015-04-17",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT0H16M",
+  "description": "一个深沉忧郁的大学生林昔尘（谢飞饰）和偶然相识的况娜（田爽饰）在命运、性格和朋友的交织中产生了一段看似简单背后却隐藏着秘密与无奈的感情……一串佛珠，一个耳机，一颗能否静下的心和一个能否听懂的人……
+影...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

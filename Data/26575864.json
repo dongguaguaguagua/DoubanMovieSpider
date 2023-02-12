@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "安慰",
+  "url": "/subject/26575864/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2259199135.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333050/",
+      "name": "吴旭 Xu Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316460/",
+      "name": "王海地 Haidi Wang "
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H29M",
+  "description": "王德凯来北京投靠叔叔，成为某高档小区的一名保安。他偶然与小区内一对特别的＂情侣＂产生交集。在百无聊赖的值班夜里，王德凯目睹了这对＂情侣＂之间的悲欢离合，渐渐他发现这对＂情侣＂中的女人并不像看上去那样幸...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

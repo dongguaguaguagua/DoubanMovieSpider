@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我是大熊猫之熊猫大侠",
+  "url": "/subject/26578107/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2261032218.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319178/",
+      "name": "汤继业 Jiye Tang "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1416322/",
+      "name": "吴佳 Jia Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342906/",
+      "name": "孙晓松 Xiaosong Sun"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350809/",
+      "name": "张艾 Ai Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350808/",
+      "name": "杨侃 Kan Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350807/",
+      "name": "姜业婷 Yeting Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350806/",
+      "name": "龚菲 Fei Gong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350805/",
+      "name": "夏莹 Ying Xia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350804/",
+      "name": "杨倪 Ni Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350803/",
+      "name": "王寅 Yin Wang"
+    }
+  ]
+,
+  "datePublished": "2015-08-15",
+  "genre": ["\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H21M",
+  "description": "熊猫一族，已在地球上生活了800万年，被世人称为“活化石”。传说，熊猫的祖先——熊猫大侠一身本领，锄强扶弱，为熊猫一族赢得了崇高地位，带领族人隐居于世外竹林，更在去世前耗尽心血布下无人能破解的八卦熊猫...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "398",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.4"
+  }
+}

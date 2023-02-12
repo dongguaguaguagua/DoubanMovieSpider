@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "惊魂电影院",
+  "url": "/subject/26378144/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2250320381.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349604/",
+      "name": "王鸣 Ming Wang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349604/",
+      "name": "王鸣 Ming Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322138/",
+      "name": "林晓凡 Xiaofan Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344415/",
+      "name": "姚一奇 Yiqi Yao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336765/",
+      "name": "蒋中炜 Zhongwei Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349602/",
+      "name": "王晔 Ye Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329445/",
+      "name": "裘恩典 Grace Qiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349601/",
+      "name": "梅文泽 Wenze Mei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317869/",
+      "name": "赵圆圆 Yuanyuan Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349598/",
+      "name": "洪涂 Tu Hong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318918/",
+      "name": "于清斌 Qingbin Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313848/",
+      "name": "董慧 Hui Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374313/",
+      "name": "韩雪莲 Xuelian Han"
+    }
+  ]
+,
+  "datePublished": "2015-06-19",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H24M",
+  "description": "海蓝市槐阳路电影院，多年前曾闹出过观众被恐怖片《惊魂电影院》吓死的事件。某天，《惊魂电影院》安排在午夜场重映，花心男、吃货女、眼镜男、盲女、手机哥、失恋女、盗版商、大师（姚一奇 饰）和痞子男（林晓凡 ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1718",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.9"
+  }
+}

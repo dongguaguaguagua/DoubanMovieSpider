@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Agatha",
+  "url": "/subject/26313497/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506152787.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000553/",
+      "name": "杰斯·亚历山大 Jace Alexander"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036460/",
+      "name": "丹尼尔·海尼 Daniel Henney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013817/",
+      "name": "克兰西·布朗 Clancy Brown"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328449/",
+      "name": "博亚娜·诺瓦科维奇 Bojana Novaković"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329462/",
+      "name": "梅塔·戈丁 Meta Golding"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

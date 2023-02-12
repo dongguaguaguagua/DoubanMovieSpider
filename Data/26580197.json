@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "梦幻青春 Premam",
+  "url": "/subject/26580197/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2315981593.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425667/",
+      "name": "尼文·保利 Nivin Pauly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402572/",
+      "name": "赛·帕拉维 Sai Pallavi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1401733/",
+      "name": "阿努帕玛·帕拉米斯兰 Anupama Parameswaran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411683/",
+      "name": "迪内希·奈尔 Dinesh Nair"
+    }
+  ]
+,
+  "datePublished": "2015-05-22",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT2H36M",
+  "description": "Premam is all about romance(传奇) and fun, though there is more to it. The life of a person going thro...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

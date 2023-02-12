@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Dweller",
+  "url": "/subject/25789642/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2619703156.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050294/",
+      "name": "蒂波尔·塔卡克斯 Tibor Takács"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049505/",
+      "name": "阿丽夏·维加 Alexa Vega"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019036/",
+      "name": "伊桑·恩布里 Ethan Embry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049549/",
+      "name": "彼得·斯特曼 Peter Stormare"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022655/",
+      "name": "米卡·波瑞姆 Mika Boorem"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027246/",
+      "name": "克里斯蒂娜·米利安 Christina Milian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014175/",
+      "name": "特沃·欧布莱恩 Trever O&#39;Brien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009340/",
+      "name": "汉娜·豪尔 Hanna Hall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475434/",
+      "name": "亨德里克斯·扬西 Hendrix Yancey"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "Claire Kingsley&#39;s nightmares and visions lead her back to her hometown in Green Oaks, only to find t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

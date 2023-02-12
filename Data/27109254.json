@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "致命顺风车 Deadly Pickup",
+  "url": "/subject/27109254/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2495758873.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399938/",
+      "name": "迪恩·麦肯德里克 Dean McKendrick"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399938/",
+      "name": "迪恩·麦肯德里克 Dean McKendrick"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1408189/",
+      "name": "基拉·诺尔 Kira Noir"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267229/",
+      "name": "科迪.迪尔 Cody Deal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339267/",
+      "name": "乔恩·弗莱明 Jon Fleming"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189531/",
+      "name": "比利·斯诺 Billy Snow"
+    }
+  ]
+,
+  "datePublished": "2016-07-26",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H21M",
+  "description": "Breezy isn&#39;t your ordinary hitch-hiker: she&#39;s sexy, fun... and a cold-blooded killer. As deadly as a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "174",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.9"
+  }
+}

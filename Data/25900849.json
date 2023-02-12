@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夫妇日记 夫婦フーフー日記",
+  "url": "/subject/25900849/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2355308149.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320311/",
+      "name": "前田弘二 Kôji Maeda"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328969/",
+      "name": "林民夫 Tamio Hayashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320311/",
+      "name": "前田弘二 Kôji Maeda"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006339/",
+      "name": "佐佐木藏之介 Kuranosuke Sasaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1029119/",
+      "name": "永作博美 Hiromi Nagasaku"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1145827/",
+      "name": "佐藤仁美 Hitomi Satô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1052932/",
+      "name": "并木史郎 Shirô Namiki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340184/",
+      "name": "宇野祥平 Shôhei Uno"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007656/",
+      "name": "小市慢太郎 Mantarô Koichi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010294/",
+      "name": "杉本哲太 Tetta Sugimoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371997/",
+      "name": "吉村界人 Kaito Yoshimura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372454/",
+      "name": "大石吾朗 Goro Oishi"
+    }
+  ]
+,
+  "datePublished": "2015-05-30",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "一直梦想成为作家的小呗（佐佐木藏之介 饰）和吃货一枚的优子（永作博美 饰）以朋友的身份交往长达十七年，因被某个时间触动心弦，小呗鼓足勇气向对方告白，知根知底的两个人顺理成章走到一起。他们自称笨蛋夫妇，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "767",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

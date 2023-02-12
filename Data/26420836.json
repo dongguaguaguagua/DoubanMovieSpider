@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一个很默瑞的圣诞节 A Very Murray Christmas",
+  "url": "/subject/26420836/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2282432498.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054399/",
+      "name": "索菲亚·科波拉 Sofia Coppola"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054399/",
+      "name": "索菲亚·科波拉 Sofia Coppola"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328942/",
+      "name": "米奇·格雷泽 Mitch Glazer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054508/",
+      "name": "比尔·默瑞 Bill Murray"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054508/",
+      "name": "比尔·默瑞 Bill Murray"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054433/",
+      "name": "乔治·克鲁尼 George Clooney"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031815/",
+      "name": "拉什达·琼斯 Rashida Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041019/",
+      "name": "麦莉·赛勒斯 Miley Cyrus"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025183/",
+      "name": "玛娅·鲁道夫 Maya Rudolph"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018059/",
+      "name": "朱丽叶·怀特 Julie White"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053576/",
+      "name": "迈克尔·塞拉 Michael Cera"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124484/",
+      "name": "珍妮·刘易斯 Jenny Lewis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049515/",
+      "name": "艾米·波勒 Amy Poehler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004578/",
+      "name": "克里斯·洛克 Chris Rock"
+    }
+  ]
+,
+  "datePublished": "2015-12-04",
+  "genre": ["\u559c\u5267", "\u97f3\u4e50"],
+  "duration": "PT0H56M",
+  "description": "《爱情不用翻译》苏菲亚科波拉与比尔墨瑞再次携手合作！比尔将在片中饰演他自己，并找来他的明星好友来参加他的圣诞电视特别节目，不过根据气象报导一场大风雪将向纽约袭来，比尔非常担心他的节目会因此开天窗。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "776",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

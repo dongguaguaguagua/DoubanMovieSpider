@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱之谷 The Valley of Love",
+  "url": "/subject/26312158/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2265103976.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023549/",
+      "name": "纪尧姆·尼克卢 Guillaume Nicloux"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023549/",
+      "name": "纪尧姆·尼克卢 Guillaume Nicloux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223362/",
+      "name": "戴维·H·皮克林 David H. Pickering"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054515/",
+      "name": "伊莎贝尔·于佩尔 Isabelle Huppert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013845/",
+      "name": "热拉尔·德帕迪约 Gérard Depardieu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1213686/",
+      "name": "丹·华纳 Dan Warner"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1157398/",
+      "name": "阿利亚·提西里 Aurélia Thiérrée"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358810/",
+      "name": "迪昂·胡尔 Dionne Houle"
+    }
+  ]
+,
+  "datePublished": "2015-06-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "杰拉德（杰拉尔·德帕迪约 Gérard Depardieu 饰）和艾利（伊莎贝尔·于佩尔 Isabelle Huppert 饰）是一对结婚多年的夫妻，两人共同养育着儿子，一家人生活在宁静和稳定之中。然...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "841",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

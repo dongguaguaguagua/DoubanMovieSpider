@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "敲敲门 Knock Knock",
+  "url": "/subject/25860868/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2264507480.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002692/",
+      "name": "伊莱·罗斯 Eli Roth"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328864/",
+      "name": "吉列尔莫·阿莫依托 Guillermo Amoedo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304996/",
+      "name": "尼古拉斯·洛佩兹 Nicolás López"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045259/",
+      "name": "安娜·德·阿玛斯 Ana de Armas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341164/",
+      "name": "洛伦扎·伊佐 Lorenza Izzo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006147/",
+      "name": "亚伦·伯恩斯 Aaron Burns"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008070/",
+      "name": "基努·里维斯 Keanu Reeves"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1194947/",
+      "name": "伊格纳西·阿尔曼德 Ignacia Allamand"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019034/",
+      "name": "考林·加普 Colleen Camp"
+    }
+  ]
+,
+  "datePublished": "2015-01-23",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H39M",
+  "description": "小有名气的建筑师埃文·韦伯（基努·里维斯 Keanu Reeves 饰）事业有成，生活美满。他住在洛杉矶一套亲手设计的别墅中，妻子凯伦（伊格纳西·阿尔曼德 Ignacia Allamand 饰）美艳动...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "10714",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.1"
+  }
+}

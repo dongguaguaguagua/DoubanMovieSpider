@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "失控对决 Standoff",
+  "url": "/subject/26421464/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2885716973.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005641/",
+      "name": "亚当·阿莱卡 Adam Alleca"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005641/",
+      "name": "亚当·阿莱卡 Adam Alleca"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031816/",
+      "name": "托马斯·简 Thomas Jane"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022596/",
+      "name": "劳伦斯·菲什伯恩 Laurence Fishburne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342220/",
+      "name": "吉姆·沃森 Jim Watson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335201/",
+      "name": "劳拉·德卡特莱特 Laura de Carteret"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1257114/",
+      "name": "乔安娜·道格拉斯 Joanna Douglas"
+    }
+  ]
+,
+  "datePublished": "2016-02-26",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H20M",
+  "description": "Carter (Thomas Jane), a troubled veteran who gets a chance at redemption by protecting a 12 year-old...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "580",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Kadambari",
+  "url": "/subject/26869933/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2566397643.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036880/",
+      "name": "康柯纳·森·沙尔玛 Konkona Sen Sharma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319670/",
+      "name": "帕拉姆巴拉塔·查特吉 Parambrata Chatterjee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332648/",
+      "name": "桑乔伊·那格 Sanjoy Nag"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422184/",
+      "name": "戈西克·森 Koushik Sen"
+    }
+  ]
+,
+  "datePublished": "2015-05-08",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2"],
+  "duration": "PT1H27M",
+  "description": "A biopic on Kadambari Debi who was Rabindranath Tagore&#39;s sister-in-law - his elder brother Jyotirind...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "给爱丽丝 給愛麗絲",
+  "url": "/subject/26764919/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2328684361.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332347/",
+      "name": "阿尔伯特·文图拉 Albert Ventura"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332347/",
+      "name": "阿尔伯特·文图拉 Albert Ventura"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358342/",
+      "name": "张再兴 Tsai-Hsing Chang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u77ed\u7247", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "当阿兴在夜市遇见爱丽丝时，她看起来天真无邪，直到她让阿兴陷入一场神秘的游戏裡：随著《给爱丽丝》旋律响起，无止尽地追著她跑。他们穿越大街小巷，最后阿兴追著她来到这间公寓。阿兴不知道自己到底闯进了谁的房子...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "76",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

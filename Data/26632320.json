@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Rita Ora",
+  "url": "/subject/26632320/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2493640075.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342695/",
+      "name": "瑞塔·奥拉 Rita Ora"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u97f3\u4e50"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

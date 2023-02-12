@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "余烬 Embers",
+  "url": "/subject/26417030/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2275303000.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353313/",
+      "name": "克莱尔·凯雷 Claire Carré"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353313/",
+      "name": "克莱尔·凯雷 Claire Carré"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004626/",
+      "name": "杰森·雷特 Jason Ritter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1159505/",
+      "name": "塔克·斯莫尔伍德 Tucker Smallwood"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349161/",
+      "name": "卡尔·格洛斯曼 Karl Glusman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025191/",
+      "name": "多米尼克·斯万 Dominique Swain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396250/",
+      "name": "格蕾塔·费尔南德斯 Greta Fernández"
+    }
+  ]
+,
+  "datePublished": "2015-09-18",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H25M",
+  "description": "After a global neurological epidemic, those who remain search for meaning and connection in a world ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1070",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

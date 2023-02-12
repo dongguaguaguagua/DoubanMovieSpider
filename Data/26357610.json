@@ -1,0 +1,59 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "世界之底 Bottom of the World",
+  "url": "/subject/26357610/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2421662833.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038121/",
+      "name": "理查德·西尔斯 Richard Sears"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040982/",
+      "name": "吉娜·马隆 Jena Malone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017934/",
+      "name": "泰德·拉文 Ted Levine"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009415/",
+      "name": "道格拉斯·史密斯 Douglas Smith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244723/",
+      "name": "乔恩·麦克拉伦 Jon McLaren"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "PT1H25M",
+  "description": "On their way to a brand new life in Los Angeles, Alex and Scarlett stop over in a sleepy Southwester...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "52",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

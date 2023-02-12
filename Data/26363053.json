@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "沙之堡 Les Châteaux de sable",
+  "url": "/subject/26363053/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2312709454.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287539/",
+      "name": "奥利维尔·亚罕 Olivier Jahan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287539/",
+      "name": "奥利维尔·亚罕 Olivier Jahan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050029/",
+      "name": "埃玛·德·科内 Emma de Caunes"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000796/",
+      "name": "亚尼克·雷乃 Yannick Renier"
+    }
+  ]
+,
+  "datePublished": "2015-04-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "57",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}

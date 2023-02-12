@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "边境惊魂 Transpecos",
+  "url": "/subject/26755168/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2366634845.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399107/",
+      "name": "格雷格·柯韦达 Greg Kwedar"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399108/",
+      "name": "克林特·本特利 Clint Bentley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1399107/",
+      "name": "格雷格·柯韦达 Greg Kwedar"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036412/",
+      "name": "约翰尼·西蒙斯 Johnny Simmons"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1212713/",
+      "name": "加布里埃尔·鲁纳 Gabriel Luna"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019033/",
+      "name": "小克利夫顿·克林斯 Clifton Collins Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355122/",
+      "name": "大卫·阿克德 David Acord"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356338/",
+      "name": "威尔·布里顿 Will Brittain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1211463/",
+      "name": "亚历山大·奈特 Alex Knight"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337166/",
+      "name": "杰克·洛克特 Jake Lockett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1116887/",
+      "name": "阿尔玛·马丁内斯 Alma Martinez"
+    }
+  ]
+,
+  "datePublished": "2016-03-13",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H26M",
+  "description": "For three Border Patrol agents working a remote desert checkpoint, the contents of one car will reve...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "124",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.0"
+  }
+}

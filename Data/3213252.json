@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "矮人和巨人2 Gnomes &amp; Trolls 2",
+  "url": "/subject/3213252/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2240131132.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040477/",
+      "name": "Robert Rhodin Robert Rhodin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040477/",
+      "name": "Robert Rhodin Robert Rhodin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049599/",
+      "name": "伊丽莎白·戴利 Elizabeth Daily"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027840/",
+      "name": "罗杰·摩尔 Roger Moore"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049549/",
+      "name": "彼得·斯特曼 Peter Stormare"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1156601/",
+      "name": "詹姆斯·阿诺德·泰勒 James Arnold Taylor"
+    }
+  ]
+,
+  "datePublished": "2015-12-01",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H29M",
+  "description": "An evil force is about to destroy the peaceful Gnome community. Young gnome Junior is set to save th...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

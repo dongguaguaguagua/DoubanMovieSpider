@@ -11,7 +11,7 @@ from update import *
 
 
 if __name__ == "__main__":
-    i=3830
+    i=14437
     with open("dic1.json","r") as file:
         data=json.load(file)
     with open("dic2_full.json","r") as file:

@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我记得你 I Remember You",
+  "url": "/subject/26865176/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2377274455.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1240179/",
+      "name": "斯特凡妮·巴特勒 Stefanie Butler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1171077/",
+      "name": "乔·埃根德尔 Joe Egender"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1197284/",
+      "name": "柳真 Yoo-jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277946/",
+      "name": "乔安娜·巴隆 Joanne Baron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050985/",
+      "name": "Paul Gregory Paul Gregory"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1452470/",
+      "name": "乔丹·莫纳汉 Jordan Monaghan"
+    }
+  ]
+,
+  "datePublished": "2015-11-13",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H26M",
+  "description": "Two strangers feel a supernatural connection after being involved in the same accident.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "162",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "六扇门之双面人",
+  "url": "/subject/26438953/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2699395476.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316785/",
+      "name": "黄祖权 Cho Kuen Wong"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386238/",
+      "name": "袁源 Yuan Yuan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314642/",
+      "name": "吴毅将 Ben Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313772/",
+      "name": "徐亮 Liang Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343506/",
+      "name": "陶洋 Yang Tao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314012/",
+      "name": "骆达华 Tat-Wah Lok"
+    }
+  ]
+,
+  "datePublished": "2015-09-27",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H34M",
+  "description": "一宗多年前的杀人案浮出水面，牵出一个在逃的杀手，六扇门捕快张一和刘魁联手侦查，发现案中有种种蹊跷，就在案情逐渐大白时，刘魁和张一的身份也浮出水面，刘魁为了张一牺牲了自己，而张一则决定和过去诀别。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "126",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

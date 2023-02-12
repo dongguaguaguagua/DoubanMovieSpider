@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "这不是我的错，反正我也不在乎 It&#39;s Not My Fault and I Don&#39;t Care Anyway",
+  "url": "/subject/26784173/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2343953759.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032067/",
+      "name": "艾伦·锡克 Alan Thicke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357361/",
+      "name": "莉亚·杜兹 Leah Doz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357362/",
+      "name": "雷蒙·乔希 Reamonn Joshee"
+    }
+  ]
+,
+  "datePublished": "2017-01-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H36M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

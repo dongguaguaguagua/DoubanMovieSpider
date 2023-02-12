@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "婚礼进行曲 WEDDING PULLAV",
+  "url": "/subject/26866780/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2377662486.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294837/",
+      "name": "Binod Pradhan Binod Pradhan"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010834/",
+      "name": "Karan Singh Grover Karan Singh Grover"
+    }
+  ]
+,
+  "datePublished": "2015-10-16",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

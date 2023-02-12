@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Abandoned Dead",
+  "url": "/subject/26701236/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2321210729.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1070105/",
+      "name": "Mark W. Clark Mark W. Clark"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ca\u609a", "\u6050\u6016", "\u72af\u7f6a"],
+  "duration": "PT1H17M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "第69届托尼奖 The 69th Annual Tony Awards",
+  "url": "/subject/26577492/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2260323707.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300648/",
+      "name": "格伦·维斯 Glenn Weiss"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326126/",
+      "name": "亚当·古德曼 Adam Goldman"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022589/",
+      "name": "克里斯汀·肯诺恩斯 Kristin Chenoweth"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006980/",
+      "name": "艾伦·卡明 Alan Cumming"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364549/",
+      "name": "科里·科特 Corey Cott"
+    }
+  ]
+,
+  "datePublished": "2015-06-07",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "49",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

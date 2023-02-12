@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Presque comme les autres",
+  "url": "/subject/26761829/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001007/",
+      "name": "贝尔纳·康庞 Bernard Campan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294015/",
+      "name": "茱莉-玛丽·帕芒提耶 Julie-Marie Parmentier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050631/",
+      "name": "玛丽-安娜·夏泽尔 Marie-Anne Chazel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440705/",
+      "name": "Camille Voglaire Camille Voglaire"
+    }
+  ]
+,
+  "datePublished": "2016-03-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H23M",
+  "description": "Séverine et Christophe sont de jeunes parents amoureux. Très vite, ils doivent reconnaître que chez ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

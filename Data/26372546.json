@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "如此被爱 Much Loved",
+  "url": "/subject/26372546/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2267621632.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001203/",
+      "name": "那比尔·艾奥殊 Nabil Ayouch"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1001203/",
+      "name": "那比尔·艾奥殊 Nabil Ayouch"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354315/",
+      "name": "劳伯娜·阿比达尔 Loubna Abidar"
+    }
+  ]
+,
+  "datePublished": "2015-05-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "故事发生在当下的马拉喀什。诺哈、蓝达,、苏凯娜和荷丽玛靠卖淫为生。她们是妓女，是用来满足欲望的物体。但是她们充满活力、有默契、自以为豪并且无拘无束。她们在生活中反对社会的暴力，这个社会一边利用她们，而...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "94",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

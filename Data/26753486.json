@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "何去何从 Sur quel pied danser",
+  "url": "/subject/26753486/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2358665464.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236275/",
+      "name": " Paul Calori"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1239894/",
+      "name": " Kostia Testut"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1236275/",
+      "name": " Paul Calori"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1239894/",
+      "name": " Kostia Testut"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333644/",
+      "name": "波林·艾蒂安 Pauline Etienne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134118/",
+      "name": "弗朗索瓦·莫雷尔 François Morel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380493/",
+      "name": "奥利维埃·钱特里奥 Olivier Chantreau"
+    }
+  ]
+,
+  "datePublished": "2016-07-06",
+  "genre": ["\u559c\u5267", "\u6b4c\u821e"],
+  "duration": "PT1H25M",
+  "description": "Alors que Julie pense décrocher un CDI dans une fabrique d&#39;escarpins de luxe, un plan social vient c...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

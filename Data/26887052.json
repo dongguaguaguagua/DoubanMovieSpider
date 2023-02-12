@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "前世今生",
+  "url": "/subject/26887052/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2386918683.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365569/",
+      "name": "张智焜 Zhikun Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365569/",
+      "name": "张智焜 Zhikun Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351249/",
+      "name": "赵毅新 Yixin Zhao"
+    }
+  ]
+,
+  "datePublished": "2015-02-14",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT0H30M",
+  "description": "《前世今生》是一部由张智焜亲自编剧导演，唐影集团股份有限公司独家出品，由新生代演员赵毅新，杨吉伟等主演的佛教爱情文艺微电影，《前世今生》于2015年2月14日情人节登陆各大视频网站，这也是张智焜的第一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

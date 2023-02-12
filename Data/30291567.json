@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "杰拉德：永不独行",
+  "url": "/subject/30291567/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540727604.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018342/",
+      "name": "史蒂文·杰拉德 Steven Gerrard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1169890/",
+      "name": "斯文-约兰·埃里克松 Sven-Göran Eriksson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1211991/",
+      "name": "若泽·穆里尼奥 José Mourinho"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353914/",
+      "name": "刘嘉 Jia Liu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u4f20\u8bb0"],
+  "duration": "",
+  "description": "《天下足球》20161205 Steven Gerrard退役专题片",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "452",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "9.1"
+  }
+}

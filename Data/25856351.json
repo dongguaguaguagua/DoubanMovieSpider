@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "像法国电影那样 프랑스 영화처럼",
+  "url": "/subject/25856351/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2292983802.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325017/",
+      "name": "申渊植 Yeon-shick Shin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325017/",
+      "name": "申渊植 Yeon-shick Shin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275960/",
+      "name": "史蒂文·元 Steven Yeun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339948/",
+      "name": "金素妍 Soy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1454228/",
+      "name": "田祉润 Jenyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330799/",
+      "name": "金多顺 Da-som Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387087/",
+      "name": "郑浚远 Jung Jun-won"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382078/",
+      "name": "李新星 Sae-byeol Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381539/",
+      "name": "李瑜美 Yoo-mi Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380175/",
+      "name": "金正碧 Jung-pal Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312809/",
+      "name": "藤井美菜 Mina Fujii"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328804/",
+      "name": "申敏哲 Min-cheol Shin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1473824/",
+      "name": "金俊亨 Kim Joon-hyung"
+    }
+  ]
+,
+  "datePublished": "2015-05-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "The film introduces people who live like a French film. A mother who chose euthanasia leaving 4 daug...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "60",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

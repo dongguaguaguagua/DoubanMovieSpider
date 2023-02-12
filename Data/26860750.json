@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黑暗中的陌生人 The Dark Stranger",
+  "url": "/subject/26860750/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2375652045.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1269276/",
+      "name": "凯蒂·芬德莱 Katie Findlay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007032/",
+      "name": "史蒂芬·麦克哈蒂 Stephen McHattie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1067891/",
+      "name": "恩里克·克兰东尼 Enrico Colantoni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076238/",
+      "name": "詹妮弗·戴尔 Jennifer Dale"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1197745/",
+      "name": "马克·奥布莱恩 Mark O&#39;Brien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359045/",
+      "name": "亚历克斯·奥泽罗夫 Alex Ozerov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1073856/",
+      "name": "艾玛·坎贝尔 Emma Campbell"
+    }
+  ]
+,
+  "datePublished": "2015-11-28",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "Haunted by a terrifying spirit out of her graphic novel, a young artist struggles to overcome her ps...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "66",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

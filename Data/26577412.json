@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一个体面的男人 Je ne suis pas un salaud",
+  "url": "/subject/26577412/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2313898569.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042550/",
+      "name": "艾玛努艾尔·芬奇 Emmanuel Finkiel"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042550/",
+      "name": "艾玛努艾尔·芬奇 Emmanuel Finkiel"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000567/",
+      "name": "尼古拉斯·迪佛休尔 Nicolas Duvauchelle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009391/",
+      "name": "梅兰尼·蒂埃里 Mélanie Thierry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1260842/",
+      "name": "奥罗拉·布鲁坦 Aurore Broutin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468033/",
+      "name": "尼可拉斯·布里代 Nicolas Bridet"
+    }
+  ]
+,
+  "datePublished": "2016-02-24",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H51M",
+  "description": "Having just been injured in a mugging, Eddy earned the sympathy and attention of his estranged famil...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

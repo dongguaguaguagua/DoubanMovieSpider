@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "海龟 Kaasav",
+  "url": "/subject/27068096/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462531150.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329475/",
+      "name": "Mohan Agashe Mohan Agashe"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H45M",
+  "description": "A mother sea-turtle has to return to the waters leaving the eggs for nesting on the shore.... The ne...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

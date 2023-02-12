@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Performance",
+  "url": "/subject/26255343/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033071/",
+      "name": "斯蒂芬·沃利斯 Stephen Wallis"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033071/",
+      "name": "斯蒂芬·沃利斯 Stephen Wallis"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031810/",
+      "name": "西耶娜·盖尔利 Sienna Guillory"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025191/",
+      "name": "多米尼克·斯万 Dominique Swain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055165/",
+      "name": "格雷厄姆·格林 Graham Greene"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1141610/",
+      "name": "波莉·香农 Polly Shannon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1072670/",
+      "name": "尼古拉斯·坎贝尔 Nicholas Campbell"
+    }
+  ]
+,
+  "datePublished": "2015-12-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "The Performance is a wonderfully dramatic and heartbreaking film that follows a well known actor as ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

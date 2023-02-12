@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "碰撞 اشتباك",
+  "url": "/subject/26756851/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2377940281.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358116/",
+      "name": "穆罕默德·迪亚卜 Mohamed Diab"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358116/",
+      "name": "穆罕默德·迪亚卜 Mohamed Diab"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358117/",
+      "name": "哈立德·迪亚卜 Khaled Diab"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1288129/",
+      "name": "内莉·卡里姆 Nelly Karim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358115/",
+      "name": "哈尼·阿德尔 Hani Adel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382967/",
+      "name": "埃尔·瑟巴依·穆罕默德 El Sebaii Mohamed"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382968/",
+      "name": "艾哈迈德·阿卜杜勒哈米德·赫夫尼 Ahmed Abdelhamid Hefny"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382969/",
+      "name": "艾哈迈德·达什 Ahmed Dash"
+    }
+  ]
+,
+  "datePublished": "2016-05-12",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H37M",
+  "description": "开罗，2013年夏季，埃及革命爆发两年后。随着总统穆尔西被革职，一辆载满因政治分歧和宗教背景而被拘的示威者的警车从暴乱的抗议人群中呼啸而过。他们可否克服分歧来争取一线生机？",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1016",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

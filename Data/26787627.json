@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Chehere: A Modern Day Classic",
+  "url": "/subject/26787627/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2585973384.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028101/",
+      "name": "迪维亚·达塔 Divya Dutta"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022862/",
+      "name": "玛尼沙·柯伊拉拉 Manisha Koirala"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007129/",
+      "name": "杰奇·史洛夫 Jackie Shroff"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210433/",
+      "name": "Arya Babbar Arya Babbar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049526/",
+      "name": "古山·格罗维 Gulshan Grover"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045446/",
+      "name": "瑞莎塔·布哈特 Hrishitaa Bhatt"
+    }
+  ]
+,
+  "datePublished": "2015-08-28",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c", "\u7231\u60c5", "\u6b4c\u821e"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "鸡尾酒派对 Les Bêtises",
+  "url": "/subject/26414291/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2256951304.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318475/",
+      "name": "杰瑞米·埃尔卡伊姆 Jérémie Elkaïm"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340945/",
+      "name": "莎拉·纪欧多 Sara Giraudeau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1105505/",
+      "name": "乔纳森·朗贝尔 Jonathan Lambert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333674/",
+      "name": "比阿特丽丝·德·斯塔尔 Béatrice De Staël"
+    }
+  ]
+,
+  "datePublished": "2015-06-16",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H19M",
+  "description": "而立之年的François迷惑冒失，他知道自己是领养的孩子，一直在寻找亲生母亲，只是她不愿见他。他使小伎俩获得了地址前往。发现当日在举办生日会，他假扮服务生，搞出太多乌龙。母亲并没有第一时间认出他，他...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "724",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

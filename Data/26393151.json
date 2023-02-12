@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "坏女孩 the wrong girl",
+  "url": "/subject/26393151/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2302361374.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050861/",
+      "name": "杰森·伯格 Jason Bourque"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037549/",
+      "name": "彼得·沙利文 Peter Sullivan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027214/",
+      "name": "克丽斯滕·齐恩 Kirsten Zien"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336318/",
+      "name": "莎拉·格雷 Sarah Grey"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591", "\u60ca\u609a"],
+  "duration": "",
+  "description": "Sophia, a smart but quiet high schooler, strikes up a friendship with a new girl in class, but the g...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "393",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

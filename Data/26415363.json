@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "午夜巴士",
+  "url": "/subject/26415363/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2247280085.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349992/",
+      "name": "李科 Ke Li"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274775/",
+      "name": "王琳 Lin Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323154/",
+      "name": "王小虎 Xiaohu Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341272/",
+      "name": "徐天琪 Tianqi Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322071/",
+      "name": "鲍振江 Zhenjiang Bao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350023/",
+      "name": "王琳 Lin Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437818/",
+      "name": "毋黎丽 Lily"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349989/",
+      "name": "陶燕青 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349988/",
+      "name": "王小虎 Tiger Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "该片根据1995年震惊北京的375路公交车失踪事件改编，通过深夜公车的莫名失踪以及随即发现的三具无名尸体展开，故事环环相扣引人无限遐想。那一年，从圆明园出发的375路公交车离奇失踪，隔天在找到这辆公交...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

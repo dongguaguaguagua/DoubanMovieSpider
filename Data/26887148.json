@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "霎那红尘",
+  "url": "/subject/26887148/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2386937678.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359747/",
+      "name": "张为平 Weiping Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359747/",
+      "name": "张为平 Weiping Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H48M",
+  "description": "红尘只在一霎，萧索却是永恒",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玩的就是艳遇",
+  "url": "/subject/26363340/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2290891863.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315293/",
+      "name": "管晓杰 Xiaojie Guan"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315294/",
+      "name": "赵奕欢 Yihuan Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362214/",
+      "name": "刘显达 Xianda Liu"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H38M",
+  "description": "《玩的就是艳遇》由宋城演艺联合互联网电影集团（IFG）共同出品，中国互联网最卖座的黑马导演管晓杰执导拍摄，讲述失恋80次对爱情心灰意冷的“单身狗”王匆匆误中宋城集团丽江千古情的艳遇旅行大奖，领奖过程中...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "299",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

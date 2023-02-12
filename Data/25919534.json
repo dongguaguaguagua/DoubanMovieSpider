@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "트로트",
+  "url": "/subject/25919534/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1058705/",
+      "name": "安圣基 Sung-kee Ahn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314243/",
+      "name": "朱相昱 Sang-wook Joo"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "The story and life of the people of Hwanghak Market.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

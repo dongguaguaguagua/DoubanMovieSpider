@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "18爱不爱之怦然心动",
+  "url": "/subject/26392403/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2244542908.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349563/",
+      "name": "丹颖 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348562/",
+      "name": "侯晓林 Xiaolin Hou"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352699/",
+      "name": "吴剑飞 Jianfei Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430469/",
+      "name": "马莹莹 Yingying Ma"
+    }
+  ]
+,
+  "datePublished": "2015-05-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H0M",
+  "description": "《18爱不爱之怦然心动》讲述了三个不同经历的都市爱情故事，更是当下最为流行的“姐弟恋”。当姐姐们遇到“小鲜肉”，会出现怎样不同的处理方式和态度呢？大学校园里最纯真的爱情，阳光男孩爱上美女老师，经历突变...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "128",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.8"
+  }
+}

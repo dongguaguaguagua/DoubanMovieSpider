@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "最后一镜",
+  "url": "/subject/26656817/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2281382724.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349794/",
+      "name": "韩帅 Shuai Han"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349794/",
+      "name": "韩帅 Shuai Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1423396/",
+      "name": "雷声 Sheng Lei"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1443540/",
+      "name": "菅则琪 Zeqi Jian"
+    }
+  ]
+,
+  "datePublished": "2015-11-02",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u9ed1\u8272\u7535\u5f71"],
+  "duration": "PT0H20M",
+  "description": "影片《东尼与明明》只差最后一镜，却因女演员璐璐无法入戏、哭不出来而迟迟无法杀青。无奈之下，导演阿莱只好下令清场，独自留在摄影棚启发演员。
+阿莱试图挖掘璐璐的情感隐私为表演所用，谁知璐璐恼羞成怒，讽刺阿...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "275",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

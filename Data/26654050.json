@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "安吉和加布里埃 Ange et Gabrielle",
+  "url": "/subject/26654050/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2278569951.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339284/",
+      "name": "安娜·吉亚菲利 Anne Giafferi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339284/",
+      "name": "安娜·吉亚菲利 Anne Giafferi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045336/",
+      "name": "帕特里克·布鲁尔 Patrick Bruel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1074259/",
+      "name": "伊莎贝尔·卡雷 Isabelle Carré"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316091/",
+      "name": "阿丽斯·德·朗克桑 Alice de Lencquesaing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318339/",
+      "name": "托马·索利韦尔 Thomas Solivéres"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019457/",
+      "name": "劳伦特·斯托克 Laurent Stocker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419200/",
+      "name": "卡罗尔·法兰克 Carole Franck"
+    }
+  ]
+,
+  "datePublished": "2015-11-11",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H31M",
+  "description": "Gabrielle élève seule sa fille Claire. À 17 ans celle-ci est enceinte de Simon qui refuse de se voir...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "371",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我的前任要结婚",
+  "url": "/subject/26757088/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2326713199.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357385/",
+      "name": "袁再显 Sampson Yuen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441451/",
+      "name": "罗国良 Guoliang Luo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353614/",
+      "name": "陈希郡 Xijun Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1398251/",
+      "name": "梁鑫 Xin Liang"
+    }
+  ]
+,
+  "datePublished": "2016-03-28",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H2M",
+  "description": "婚礼前夕的林小龙突然被一场噩梦惊醒，梦到前女友胡蓓蓓来搅局。而胡蓓蓓果真接到了去林小龙家乡出差的任务。一直沉浸在分手阴影中的胡蓓蓓听到了前男友要结婚的消息，新娘竟是曾经的情敌。此时他们共同的好友孙大磊...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "黄金海岸 Guldkysten",
+  "url": "/subject/26417546/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2253236401.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282238/",
+      "name": "丹尼尔·丹席克 Daniel Dencik"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282238/",
+      "name": "丹尼尔·丹席克 Daniel Dencik"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335894/",
+      "name": "雅各布·奥福特布罗 Jakob Oftebro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1179491/",
+      "name": "安德斯·亨里奇森 Anders Heinrichsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371709/",
+      "name": "达妮卡· 库尔西奇 Danica Ćurčić"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1411119/",
+      "name": "路易斯·斯科夫 Luise Skov"
+    }
+  ]
+,
+  "datePublished": "2015-07-02",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5386\u53f2"],
+  "duration": "",
+  "description": "In 1836 the Danish romantic visionary Wulff travels to Africa to create plantations on the Gold Coas...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

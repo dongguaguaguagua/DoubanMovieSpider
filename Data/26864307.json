@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Il Bambino di Vetro: The Son",
+  "url": "/subject/26864307/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019552/",
+      "name": "保罗·布里古力亚 Paolo Briguglia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445824/",
+      "name": "Maziar Firouzi Maziar Firouzi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H12M",
+  "description": "Sicily, today. The relation between a father and a ten years old son is undermined by the secret lif...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

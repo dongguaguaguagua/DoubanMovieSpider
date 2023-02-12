@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "回归 Comeback",
+  "url": "/subject/26686521/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2303014554.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350137/",
+      "name": "莎拉-索菲·波斯妮娜 Sarah-Sofie Boussnina"
+    }
+  ]
+,
+  "datePublished": "2015-08-06",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H25M",
+  "description": "Thomas, former successful stand up comedian will do anything to get back on the top. Unfortunately a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "地下室 Der Bunker",
+  "url": "/subject/25857870/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2281736884.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1225833/",
+      "name": " Nikias Chryssos"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1225833/",
+      "name": " Nikias Chryssos"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323894/",
+      "name": "皮特·布科夫斯基 Pit Bukowski"
+    }
+  ]
+,
+  "datePublished": "2016-01-27",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u6050\u6016"],
+  "duration": "PT1H25M",
+  "description": "一个年轻的大学生寻找一个安逸的地方，让他能集中精神在一篇重要的论文上，却沦落到在一个阴暗的地下室成为家庭教师的下场。其工作是给一个看起来比实际年龄大得多的男孩克劳斯授予一些基本的课程。更奇怪的是，他的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "125",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

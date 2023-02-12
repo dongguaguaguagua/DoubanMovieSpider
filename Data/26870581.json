@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "塞外长风",
+  "url": "/subject/26870581/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2570518163.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318303/",
+      "name": "陈逸恒 Yiheng Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424281/",
+      "name": "白光福 Guangfu Bai"
+    }
+  ]
+,
+  "datePublished": "2015-06-26",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "本片根据武警内蒙古总队医院院长郭纯事迹改编。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

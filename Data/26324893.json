@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "明乌 明烏",
+  "url": "/subject/26324893/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2238299191.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325118/",
+      "name": "福田雄一 Yûichi Fukuda"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325118/",
+      "name": "福田雄一 Yûichi Fukuda"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274418/",
+      "name": "菅田将晖 Masaki Suda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014589/",
+      "name": "城田优 Yuu Shirota"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348382/",
+      "name": "吉冈里帆 Riho Yoshioka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322020/",
+      "name": "柿泽勇人 Hayato Kakizawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313710/",
+      "name": "松下优也 Yuya Matsushita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015047/",
+      "name": "新井浩文 Hirofumi Arai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275807/",
+      "name": "室毅 Tsuyoshi Muro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315821/",
+      "name": "佐藤二朗 Jirô Satô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275295/",
+      "name": "若叶龙也 Ryuya Wakaba"
+    }
+  ]
+,
+  "datePublished": "2015-05-16",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H46M",
+  "description": "在偏僻的品川地区，经营着一家没有什么人气的牛郎店“明乌”。这一天店长（室毅 饰）正为头牌跳槽而忧伤不已，万年垫底的直树（菅田将晖 饰）则狂叫着跑了进来。此前欠下一千万日元债务的直树，好不容易通过赌棒球...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1824",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

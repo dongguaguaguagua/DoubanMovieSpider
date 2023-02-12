@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "占卜实验2：死亡剧院 The Ouija Experiment 2: Theatre of Death",
+  "url": "/subject/26304352/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2269873710.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045884/",
+      "name": "伊沙瑞尔·路拿 Israel Luna"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045884/",
+      "name": "伊沙瑞尔·路拿 Israel Luna"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045884/",
+      "name": "伊沙瑞尔·路拿 Israel Luna"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1481276/",
+      "name": "Shanon Snedden Shanon Snedden"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "A group of unsuspecting theatre goers are trapped, after a ravenous spirit is resurrected and releas...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "125",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.4"
+  }
+}

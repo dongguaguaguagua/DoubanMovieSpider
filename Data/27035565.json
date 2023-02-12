@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "真理在天堂 La verità sta in cielo",
+  "url": "/subject/27035565/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2528669508.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032804/",
+      "name": "罗贝托·费恩察 Roberto Faenza"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354643/",
+      "name": "葛丽泰·斯卡拉诺 Greta Scarano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027509/",
+      "name": "玛雅·珊萨 Maya Sansa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308797/",
+      "name": "瓦伦蒂娜·洛多文尼 Valentina Lodovini"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040841/",
+      "name": "里卡多·斯卡马乔 Riccardo Scamarcio"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317514/",
+      "name": "劳拉·德·马奇 Laura De Marchi"
+    }
+  ]
+,
+  "datePublished": "2016-10-06",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT1H34M",
+  "description": "An english journalist come to Italy to investigate in the mysterious disappearance of a young vatica...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

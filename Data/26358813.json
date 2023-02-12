@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "呼啸高中 Wuthering High School",
+  "url": "/subject/26358813/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2256372177.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323972/",
+      "name": "安东尼·迪布拉西 Anthony DiBlasi"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329231/",
+      "name": "帕洛玛·克维亚特科夫斯基 Paloma Kwiatkowski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1016308/",
+      "name": "Andrew Jacobs Andrew Jacobs"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000050/",
+      "name": "詹姆斯·肯恩 James Caan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1087471/",
+      "name": "弗朗西斯卡·伊斯特伍德 Francesca Eastwood "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1058473/",
+      "name": "肖恩·弗林 Sean Flynn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022807/",
+      "name": "蕾切尔·福克斯 Rachel G. Fox"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1196748/",
+      "name": "Randy Shelly Randy Shelly"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407347/",
+      "name": "安德鲁·雅各布斯 Andrew Jacobs"
+    }
+  ]
+,
+  "datePublished": "2015-03-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H28M",
+  "description": "An updated 21st century version of the Emily Bronte novel set in modern day Malibu, California where...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

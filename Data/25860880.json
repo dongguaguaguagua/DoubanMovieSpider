@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "处女之誓 Vergine giurata",
+  "url": "/subject/25860880/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2299168627.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355038/",
+      "name": "劳拉·比斯普里 Laura Bispuri"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355038/",
+      "name": "劳拉·比斯普里 Laura Bispuri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372675/",
+      "name": "弗朗塞斯卡·马尼里 Francesca Manieri"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1259070/",
+      "name": "阿尔芭·罗尔瓦赫尔 Alba Rohrwacher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327342/",
+      "name": "拉斯·艾丁格 Lars Eidinger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361285/",
+      "name": "艾米丽·芙拉泰洛 Emily Ferratello"
+    }
+  ]
+,
+  "datePublished": "2015-02-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H24M",
+  "description": "故事发生在位于阿尔巴尼亚的古老山区中，在当地，依然流传着关于婚姻和男女关系的非常古老的规则。少女汉娜（阿尔芭·洛瓦赫 Alba Rohrwacher 饰）生于斯长于斯，看尽了当地妇女艰辛的生存状态，特...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1104",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

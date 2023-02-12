@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爸爸回来了 아빠가 돌아왔다",
+  "url": "/subject/26761270/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2340879405.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1378878/",
+      "name": "李率求 Seol-goo Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382189/",
+      "name": "朱怜豪 Young-ho Joo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425290/",
+      "name": "郑美南 Mi-nam Jeong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1447072/",
+      "name": "池南赫 Nam-hyuk Ji"
+    }
+  ]
+,
+  "datePublished": "2016-05-19",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H40M",
+  "description": "Dong-goo, a lowlife thug, has always been living a hopeless miserable life. One day, he accidentally...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

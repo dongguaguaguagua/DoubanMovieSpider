@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "风铃上的卡片",
+  "url": "/subject/26765192/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2328692972.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335111/",
+      "name": "胡阳 Yang Hu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335111/",
+      "name": "胡阳 Yang Hu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357277/",
+      "name": "李春丽 Chunli Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357278/",
+      "name": "付诗雨 Shiyu Fu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357279/",
+      "name": "高仁会 Renhui Gao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356189/",
+      "name": "汪盛 Prosperous"
+    }
+  ]
+,
+  "datePublished": "2016-05-01",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u513f\u7ae5"],
+  "duration": "PT1H29M",
+  "description": "描述在工薪阶层的家里，母亲由于工作的原因不能照顾好自己的女儿，只有通过一种特殊的方式来表达母亲对孩子歉意，然而作为孩子却不能理解，也不明白母亲，也因种种原因与巧合导致孩子对母亲的误解，最后通过老师的作...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱到自由 Статус: Свободен",
+  "url": "/subject/26763287/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2411153441.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038383/",
+      "name": "帕维尔·卢米诺夫 Pavel Ruminov"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038383/",
+      "name": "帕维尔·卢米诺夫 Pavel Ruminov"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223418/",
+      "name": "丽扎· 波亚尔斯卡娅 Elizaveta Boyarskaya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1213388/",
+      "name": "丹尼拉·科兹洛夫斯基 Danila Kozlovsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110629/",
+      "name": "Mikhail Krylov Mikhail Krylov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474505/",
+      "name": "玛丽亚·斯塔罗托日斯卡娅 Mariya Starotorzhskaya"
+    }
+  ]
+,
+  "datePublished": "2016-01-21",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "Contemporary Moscow. Nikita and Afina are the perfect couple: young, smart, attractive, and in love....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

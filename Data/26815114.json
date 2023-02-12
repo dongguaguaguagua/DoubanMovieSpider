@@ -1,0 +1,37 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "俱乐部的目的 동호회의 목적",
+  "url": "/subject/26815114/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2359742411.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364149/",
+      "name": "金度希 Kim Do-hee"
+    }
+  ]
+,
+  "datePublished": "2016-06-09",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "&#34;I want to be yours tonight...&#34;
+Three men from a social club get together for intimate reasons, then...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "265",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

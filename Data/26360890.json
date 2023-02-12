@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "愿被你爱 Ville-Marie",
+  "url": "/subject/26360890/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2359749560.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356750/",
+      "name": "盖·埃德温 Guy Édoin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356750/",
+      "name": "盖·埃德温 Guy Édoin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356751/",
+      "name": "简·西蒙·德斯罗彻斯 Jean-Simon DesRochers"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025156/",
+      "name": "莫妮卡·贝鲁奇 Monica Bellucci"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009663/",
+      "name": "帕斯卡·比西埃尔 Pascale Bussières"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351345/",
+      "name": "阿廖沙·施耐德 Aliocha Schneider"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347944/",
+      "name": "帕特里克·伊冯 Patrick Hivon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422538/",
+      "name": "莫·尤迪-拉穆尔 Moe Jeudy-Lamour"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1095320/",
+      "name": "Nathalie Gascon Nathalie Gascon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484913/",
+      "name": "玛丽·伊夫琳·莱萨尔 Marie-Evelyne Lessard"
+    }
+  ]
+,
+  "datePublished": "2015-09-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H41M",
+  "description": "当悲伤的秘密意外地被揭开，心魔急需解决，女演员和她关系疏远的同性恋儿子因此与两名医生相识，有了交集。
+",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "378",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

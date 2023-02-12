@@ -1,0 +1,50 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "魔拖拉袜 The Magic Stocking",
+  "url": "/subject/26691175/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2624578424.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045343/",
+      "name": "大卫·温宁 David Winning"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1006967/",
+      "name": "布里吉特·瑞根 Bridget Regan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004741/",
+      "name": "维克多·韦伯斯特 Victor Webster"
+    }
+  ]
+,
+  "datePublished": "2015-12-06",
+  "genre": ["\u7231\u60c5", "\u5bb6\u5ead", "\u513f\u7ae5"],
+  "duration": "PT1H24M",
+  "description": "寡居的妇女苦泪多，
+可爱的女儿为娘愁，
+过节带来神奇魔棍，
+从此幸福小日子过。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

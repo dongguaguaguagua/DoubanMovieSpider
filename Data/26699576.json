@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暴动 Riot",
+  "url": "/subject/26699576/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2304642606.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1371435/",
+      "name": "马修·瑞斯 Matthew Reese"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040508/",
+      "name": "杜夫·龙格尔 Dolph Lundgren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1222327/",
+      "name": "丹妮尔·查克兰 Danielle Chuchran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1449744/",
+      "name": "帕丽斯·沃纳 Paris Warner"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H27M",
+  "description": "Copper Jack Stone purposefully orchestrates a bank robbery in order to be thrown into prison with th...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "298",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.1"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "A Love You",
+  "url": "/subject/26359412/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2252786585.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009730/",
+      "name": "芳妮·瓦莱特 Fanny Valette"
+    }
+  ]
+,
+  "datePublished": "2015-06-17",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Suite à une soirée trop arrosée et une nuit inoubliable avec une inconnue, Manu se réveille seul ave...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

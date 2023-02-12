@@ -1,0 +1,106 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱恋 Love",
+  "url": "/subject/25933898/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2261493682.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014011/",
+      "name": "加斯帕·诺 Gaspar Noé"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014011/",
+      "name": "加斯帕·诺 Gaspar Noé"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349161/",
+      "name": "卡尔·格洛斯曼 Karl Glusman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321781/",
+      "name": "黛博拉·海薇 Déborah Révy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350247/",
+      "name": "奥米·穆尤克 Aomi Muyock"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350248/",
+      "name": "克拉拉·克里斯汀 Klara Kristin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282119/",
+      "name": "贝努瓦·戴比 Benoît Debie"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338353/",
+      "name": "文森特·马拉瓦尔 Vincent Maraval"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352894/",
+      "name": "胡安·萨维德拉 Juan Saavedra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352893/",
+      "name": "阿隆·佩奇斯 Aaron Pages"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352892/",
+      "name": "伊莎贝尔·尼库 Isabelle Nicou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352891/",
+      "name": "斯黛拉·罗夏 Stella Rocha"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014011/",
+      "name": "加斯帕·诺 Gaspar Noé"
+    }
+  ]
+,
+  "datePublished": "2015-05-20",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60c5\u8272"],
+  "duration": "PT2H15M",
+  "description": "曾携手莫妮卡·贝鲁奇和文森特·卡索以电影《不可撤销》轰动戛纳的导演加斯帕·诺携新作《爱恋3D》重返戛纳，影片聚焦一男两女的情欲爱情，新人男主卡尔·格洛斯曼单挑大梁，让影片备受关注。影片入围第68届戛纳...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "28335",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

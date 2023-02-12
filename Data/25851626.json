@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "法蒂玛 Fatima",
+  "url": "/subject/25851626/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2243065781.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283482/",
+      "name": "菲利普·福孔 Philippe Faucon"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283482/",
+      "name": "菲利普·福孔 Philippe Faucon"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354316/",
+      "name": "索里娅·泽鲁阿尔 Soria Zeroual"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354321/",
+      "name": "琪塔·昂赫 Zita Hanrot"
+    }
+  ]
+,
+  "datePublished": "2015-05-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H19M",
+  "description": "法蒂玛（索里娅·泽鲁阿尔 Soria Zeroual 饰）是一位勇敢的单身母亲，带着两个女儿苏阿德（Kenza Noah Aïche 饰）和娜斯蕾（琪塔·昂赫 Zita Hanrot 饰）生活在热闹繁...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "586",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

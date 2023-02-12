@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "别浦",
+  "url": "/subject/26474158/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2259242334.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350634/",
+      "name": "文晔 Amelie Wen"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350634/",
+      "name": "文晔 Amelie Wen"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2015-06-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT0H18M",
+  "description": "Lao Tian is an elderly migrant caretaker of an abandoned construction site. On his last day of work,...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

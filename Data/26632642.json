@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "德兰",
+  "url": "/subject/26632642/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2285771162.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274348/",
+      "name": "刘杰 Jie Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274348/",
+      "name": "刘杰 Jie Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322706/",
+      "name": "林泽秋 Ferris Lin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330472/",
+      "name": "董子健 Zijian Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327727/",
+      "name": "德姬 Deji"
+    }
+  ]
+,
+  "datePublished": "2015-11-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "一切都是德兰带领。小王接下信贷员的工作，第一次下乡对帐，数字还没吻合，眼中先有了藏族女孩德兰。女孩德兰太神祕。他跟随德兰进入雪山下的村庄，德兰是他认识新世界的窗口，也在他心头留下缺口。但德兰的生命还有...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1117",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

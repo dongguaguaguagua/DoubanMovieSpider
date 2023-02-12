@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Backgammon",
+  "url": "/subject/26715797/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2427775311.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316013/",
+      "name": "奥利维亚·克劳希奇娅 Olivia Crocicchia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340569/",
+      "name": "诺亚·西尔弗 Noah Silver"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1056755/",
+      "name": "布列塔尼·艾伦 Brittany Allen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000709/",
+      "name": "克里斯蒂安·亚历山大 Christian Alexander"
+    }
+  ]
+,
+  "datePublished": "2016-03-11",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H29M",
+  "description": "When Lucian and his girlfriend Elizabeth arrive at their friend Andrew&#39;s isolated mansion to spend t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,83 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玩命警车 Cop Car",
+  "url": "/subject/26310932/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2240245453.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350194/",
+      "name": "乔·沃茨 Jon Watts"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350194/",
+      "name": "乔·沃茨 Jon Watts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326790/",
+      "name": "克里斯托弗·福特  Christopher Ford"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009260/",
+      "name": "凯文·贝肯 Kevin Bacon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165173/",
+      "name": "谢伊·惠格姆 Shea Whigham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032022/",
+      "name": "卡穆琳·曼海姆 Camryn Manheim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356604/",
+      "name": "海斯·威尔弗德 Hays Wellford"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025201/",
+      "name": "凯拉·塞吉维克 Kyra Sedgwick"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386691/",
+      "name": "詹姆斯·弗里德森-杰克逊 James Freedson-Jackson"
+    }
+  ]
+,
+  "datePublished": "2015-08-07",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H28M",
+  "description": "两个10岁的孩子无意间在郊外发现一部看似被遗弃的警车；结果他们居然异想天开地把车给开去兜风，但除了令人无言、毛骨悚然、自杀式的驾驶技术外，他俩对自己惹上了什么麻烦也浑然不知。
+当警车的主人---小镇警...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1944",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

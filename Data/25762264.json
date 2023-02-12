@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "伊犁河谷",
+  "url": "/subject/25762264/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2491521008.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317974/",
+      "name": "金韬 Tao Jin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376542/",
+      "name": "刘凡 Fan Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381105/",
+      "name": "王海军 Haijun Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318018/",
+      "name": "宋佳伦 Jialun Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326938/",
+      "name": "傅天骄 Tianjiao Fu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325753/",
+      "name": "冯文娟 Wenjuan Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275728/",
+      "name": "李泓良 Hongliang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322406/",
+      "name": "李沁谣 Maggie Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345663/",
+      "name": "刘思博 Sibo Liu"
+    }
+  ]
+,
+  "datePublished": "2017-07-07",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H30M",
+  "description": "电影《伊犁河谷》讲述的是 在新疆兵团屯垦戍边历史背景下凄婉动 人的爱情故事。该片以大美新疆、伊犁 热土作为唯美画卷，艺术描摹了兵团第 一代屯垦戍边军人和“军垦母亲”的绮丽哀 怨的悲欢历程，其间播撒了浪...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "453",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.2"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Maheshinte Prathikaaram",
+  "url": "/subject/26763582/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2328246538.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1432859/",
+      "name": "法哈德·法西尔 Fahadh Faasil"
+    }
+  ]
+,
+  "datePublished": "2016-02-05",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u60ca\u609a"],
+  "duration": "",
+  "description": "Mahesh Bhavana from Idukki runs a photo studio and leads a happy contented life living along with hi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

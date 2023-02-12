@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "桌子 더 테이블",
+  "url": "/subject/26803993/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2495038494.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322566/",
+      "name": "金宗宽 Jong-kwan Kim"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322566/",
+      "name": "金宗宽 Jong-kwan Kim"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041084/",
+      "name": "林秀晶 Su-jeong Lim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276062/",
+      "name": "郑有美 Yu-mi Jung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327527/",
+      "name": "韩艺璃 Ye-ri Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318309/",
+      "name": "郑恩彩 Eun-Chae Jeong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313034/",
+      "name": "延宇振 Woo-jin Yeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274613/",
+      "name": "金惠玉 Hye-ok Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1387087/",
+      "name": "郑浚远 Jung Jun-won"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383315/",
+      "name": "全晟佑 Seong-woo Jeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426809/",
+      "name": "郑艺绿 Ye-nog Jeong"
+    }
+  ]
+,
+  "datePublished": "2016-10-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H12M",
+  "description": "在一间咖啡厅里即将发生四个不同的故事，展示每个人生不一样的生活状态，一张桌子边精彩的对话就像是在细细品尝咖啡一样，四对情侣在同一天不同时间坐在同一张桌子，他们各自的故事和眼前的心情都是不一样的，两人相...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5525",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

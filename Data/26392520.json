@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Txarriboda",
+  "url": "/subject/26392520/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2244577950.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307234/",
+      "name": "贾维尔·雷博洛 Javier Rebollo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1307234/",
+      "name": "贾维尔·雷博洛 Javier Rebollo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328551/",
+      "name": "拉蒙·阿吉尔 Ramón Agirre"
+    }
+  ]
+,
+  "datePublished": "2015-04-10",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

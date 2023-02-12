@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱 สี่เส้า Love is",
+  "url": "/subject/26328649/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2238595770.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345572/",
+      "name": "彭沙功·麦塔立卡侬 Pongsakorn Mettarikanon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356854/",
+      "name": "Fang Thananthorn Fang Thananthorn"
+    }
+  ]
+,
+  "datePublished": "2015-04-23",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "เต้ย พงศกร เมตตาริกานนท์, ฟาง ธนันต์ธรณ์ นีระสิงห์, เวฟ คูเปยจง, เวนดี้ หว่อง",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

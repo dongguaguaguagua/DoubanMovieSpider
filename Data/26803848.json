@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "首席的夜妻",
+  "url": "/subject/26803848/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2356042126.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367133/",
+      "name": "李彦漫 Yanman Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1431388/",
+      "name": "陆钧彦 Junyan Lu"
+    }
+  ]
+,
+  "datePublished": "2016-05-26",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H11M",
+  "description": "本市大财团继承人华拓间接害死了师傅安泰，出于内疚收养了安泰的独女安千宠。安千宠在华拓的庇护下渐渐长大，华拓却对其渐生情愫，华拓对其看管甚为严格，安千宠慢慢想逃出“金丝笼”，阳光少年楚辞的出现，令安千宠...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "115",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.1"
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "从此以后 Efterskalv",
+  "url": "/subject/26353885/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2322335790.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349643/",
+      "name": "马格努斯·范·霍恩 Magnus von Horn"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349643/",
+      "name": "马格努斯·范·霍恩 Magnus von Horn"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356488/",
+      "name": "乌尔里克·巩特尔 Ulrik Munther"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061877/",
+      "name": "马茨·布洛姆格伦 Mats Blomgren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356489/",
+      "name": "洛阿·耶克 Loa Ek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1105461/",
+      "name": "维斯瓦夫·科马萨 Wieslaw Komasa"
+    }
+  ]
+,
+  "datePublished": "2015-05-21",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "瑞典导演马格努斯·范·霍恩的作品《从此以后》中，约翰因杀害了他的女友而获刑，刑期结束后他回到了父亲身边生活，以为他所应受的惩罚已经结束，然而他很快发现，他真正需要承受的痛苦还远没有开始。既然无法将过去...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "83",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}

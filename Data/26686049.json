@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "等待 Waiting",
+  "url": "/subject/26686049/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2349278661.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010658/",
+      "name": "纳萨鲁丁·沙 Naseeruddin Shah"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014320/",
+      "name": "卡琪·柯切林 Kalki Koechlin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218718/",
+      "name": "阿见·马瑟 Arjun Mathur"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1288114/",
+      "name": "拉贾特·卡普尔 Rajat Kapoor"
+    }
+  ]
+,
+  "datePublished": "2015-12-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "等待是讲述了关于Shiv和塔拉之间的特殊关系的故事，阴差阳错间他们帮助对方在医院护理各自的配偶而突然昏迷。在医院的ICU，两个生命在平衡中悬着。这是一部关于悲伤的电影，但它也是关于用乐观面对它，学会用...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "103",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

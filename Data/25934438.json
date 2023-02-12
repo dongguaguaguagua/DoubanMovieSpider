@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幽闭空间 The Confines",
+  "url": "/subject/25934438/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2298318294.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1453858/",
+      "name": "埃唐·洛凯韦 Eytan Rockaway"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017936/",
+      "name": "杰森·帕特里克 Jason Patric"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045210/",
+      "name": "路易莎·克劳瑟 Louisa Krause"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1123828/",
+      "name": "马克·马戈利斯 Mark Margolis"
+    }
+  ]
+,
+  "datePublished": "2015-06-13",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H26M",
+  "description": "THE CONFINES is a claustrophobic thriller that follows a troubled young woman who, in a last-ditch e...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "315",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

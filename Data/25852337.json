@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女神跟我走",
+  "url": "/subject/25852337/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2238584138.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322320/",
+      "name": "刘新 Xin Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344327/",
+      "name": "尹洪东 Hongdong Yin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274650/",
+      "name": "林永健 Yongjian Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276079/",
+      "name": "韩雪 Cecilia Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335536/",
+      "name": "宋允皓 Yunhao Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274670/",
+      "name": "宋丹丹 Dandan Song"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313836/",
+      "name": "李菁菁 Jingjing Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318117/",
+      "name": "周德华 Dehua Zhou"
+    }
+  ]
+,
+  "datePublished": "2015-05-01",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H35M",
+  "description": "林大健（林永健 饰）一直将成为一名专业的演员当做自己的毕生理想，然而，在娱乐圈里打拼了大半辈子，他依然只是一个穿梭在各个剧组跑跑龙套的十八线小演员。吴可可（韩雪 饰）是一位品酒师，早年间出国读书深造，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1523",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.4"
+  }
+}

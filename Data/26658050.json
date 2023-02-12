@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "正果",
+  "url": "/subject/26658050/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2280785461.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352725/",
+      "name": "李东 Dong Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352727/",
+      "name": "闫春阳 Chunyang Yan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352726/",
+      "name": "王秋声 Qiusheng Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352728/",
+      "name": "牛萌 Meng Niu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352731/",
+      "name": "张优 You Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352730/",
+      "name": "李菁菁 Jingjing Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319306/",
+      "name": "曹帅 Shuai Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352729/",
+      "name": "徐池承 "
+    }
+  ]
+,
+  "datePublished": "2015-12-08",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H32M",
+  "description": "美丽的韩国留学生夏帆（徐池承 饰）在深夜离奇坠楼，死亡现场只留下四个神秘数字。与此同时，跟她关系最为密切的何元杰（张优 饰）却因车祸而意外失忆。劫后余生的他只能通过催眠来寻找自己的回忆，在潜意识中寻找...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "82",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.0"
+  }
+}

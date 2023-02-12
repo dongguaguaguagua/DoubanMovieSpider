@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "德州之心 Texas Heart",
+  "url": "/subject/27035459/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457753207.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1082914/",
+      "name": "马克·戴维 Mark David"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1082914/",
+      "name": "马克·戴维 Mark David"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027642/",
+      "name": "艾瑞克·费洛斯 Erik Fellows"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000695/",
+      "name": "丹妮拉·玻芭迪拉 Daniela Bobadilla"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373049/",
+      "name": "杰瑞德·亚伯拉汉姆森 Jared Abrahamson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412680/",
+      "name": "阿莱格拉·卢凯西 Allegra Lucchesi"
+    }
+  ]
+,
+  "datePublished": "2016-05-20",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "一个唯利是图的纽约律师逃到德州一个小镇躲避黑帮追杀，在这里，他找到了重新做一个好人的动力。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

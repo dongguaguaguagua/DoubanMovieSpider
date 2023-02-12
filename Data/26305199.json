@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "诺福克 Norfolk",
+  "url": "/subject/26305199/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462824870.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360874/",
+      "name": "巴里·基奥恩 Barry Keoghan"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a"],
+  "duration": "PT1H27M",
+  "description": "A father and son live isolated from the outside world. Following a conflict, a painful family story ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

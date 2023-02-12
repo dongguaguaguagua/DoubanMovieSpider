@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "驯鹿 L&#39;élan",
+  "url": "/subject/26775357/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2356624950.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358804/",
+      "name": "艾蒂安·拉布鲁 Etienne Labroue"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358804/",
+      "name": "艾蒂安·拉布鲁 Etienne Labroue"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358805/",
+      "name": "马克·巴科特 Marc Bruckert"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344737/",
+      "name": "奥拉利亚·佩蒂特 Aurélia Petit"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1134118/",
+      "name": "弗朗索瓦·莫雷尔 François Morel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358806/",
+      "name": "奥利维尔·博彻 Olivier Broche"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358807/",
+      "name": "西普里安·杜加斯 Cyprien Dugas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132831/",
+      "name": "伯纳德·蒙铁尔 Bernard Montiel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483748/",
+      "name": "德利娅·埃斯皮纳·迪夫 Délia Espinat-Dief"
+    }
+  ]
+,
+  "datePublished": "2016-12-28",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H23M",
+  "description": "This is the story of an extra-terrestrial : where is he from? from outer space? from the center the ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

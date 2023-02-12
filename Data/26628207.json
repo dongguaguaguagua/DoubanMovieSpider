@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "洛杉矶无人行走 Nobody Walks in L.A.",
+  "url": "/subject/26628207/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2269758492.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333947/",
+      "name": "亚当·沙皮罗 Adam Shapiro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310127/",
+      "name": "金肖 Kim Shaw"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326117/",
+      "name": "Matthew Nicklaw Matthew Nicklaw"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339936/",
+      "name": "彼得·布雷特曼耶 Peter Breitmayer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287077/",
+      "name": "Jon Huck Jon Huck"
+    }
+  ]
+,
+  "datePublished": "2016-04-23",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H33M",
+  "description": "Nobody Walks in LA is the story of two old friends who, faced with decisions that cannot wait, put t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "86",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "哈文赫特死亡公寓 Havenhurst",
+  "url": "/subject/26373561/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2374946036.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1152605/",
+      "name": "乔什·斯坦伯 Josh Stamberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361250/",
+      "name": "贝拉·斯豪斯 Belle Shouse"
+    }
+  ]
+,
+  "datePublished": "2017-02-10",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H20M",
+  "description": "一个女人，她的一个好朋友住进了哈文赫特公寓就再也没有消息，然后杰奎琳住进这栋公寓进行调查，却发现了这栋公寓的不为人知的历史.....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "381",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

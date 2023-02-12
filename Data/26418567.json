@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "香烟汤 Cigarette Soup",
+  "url": "/subject/26418567/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2248216704.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1181782/",
+      "name": "Damian Voerg Damian Voerg"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1181782/",
+      "name": "Damian Voerg Damian Voerg"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385009/",
+      "name": "萨曼莎·索尔 Samantha Soule"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349873/",
+      "name": "拉胡尔·拉伊 Rahul Rai"
+    }
+  ]
+,
+  "datePublished": "2017-04-10",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT1H48M",
+  "description": "2006 年，一个有抱负的年轻记者得到了一次机会，得以与一小队驻阿富汗美国士兵一起活动",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

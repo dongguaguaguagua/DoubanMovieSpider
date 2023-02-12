@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "日长似岁 A Month of Sundays",
+  "url": "/subject/26306959/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2268658733.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304932/",
+      "name": "马修·塞维尔 Matthew Saville"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1304932/",
+      "name": "马修·塞维尔 Matthew Saville"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007018/",
+      "name": "安东尼·拉帕格利亚 Anthony LaPaglia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278748/",
+      "name": "朱丽娅·布莱克 Julia Blake"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1072520/",
+      "name": "John Clarke John Clarke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280862/",
+      "name": "贾丝婷·克拉克 Justine Clarke"
+    }
+  ]
+,
+  "datePublished": "2015-09-13",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H49M",
+  "description": "悲催的房地产经纪人弗兰克，他的生意失利，又家人的关系处于空前的低谷，在这时，偶然遇见了莎拉——这个让他想起他母亲的女人，他们之前逐渐深厚的感情开始在感情上治愈他。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "314",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

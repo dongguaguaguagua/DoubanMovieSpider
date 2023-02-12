@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "那些我们所爱的人 Les êtres chers",
+  "url": "/subject/26580686/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2326864160.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333145/",
+      "name": "安妮·艾蒙德 Anne Émond"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333145/",
+      "name": "安妮·艾蒙德 Anne Émond"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019613/",
+      "name": "马克西姆·高德特 Maxim Gaudette"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358495/",
+      "name": "Valerie Cadieux Valerie Cadieux"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358494/",
+      "name": "迈克尔·高因 Mickael Gouin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358496/",
+      "name": "Karelle Tremblay Karelle Tremblay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1149616/",
+      "name": "Louise Turcot Louise Turcot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1484849/",
+      "name": "埃米勒·杜尚别 Émile Duchesne"
+    }
+  ]
+,
+  "datePublished": "2015-08-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "After the death of his father, an artisan does his best to raise and nurture his dynamic daughter.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

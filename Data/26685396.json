@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一别经年",
+  "url": "/subject/26685396/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2295067823.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326328/",
+      "name": "李鑫雨 Xinyu Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344642/",
+      "name": "李琛 Chen Li"
+    }
+  ]
+,
+  "datePublished": "2015-12-15",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "高中生欧阳阳刚刚被学校开除又和朋友卷入了校外斗殴事件，碰巧发现欲跳楼的孩子，在营救的过程中又遭到了警察的追捕。转入新学校看似风平浪静实则暗流涌动。临近毕业，会有怎样的道路等待他去选择……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "为了爱和荣誉 For Love &amp; Honor",
+  "url": "/subject/30134038/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2512158593.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437168/",
+      "name": "科尔顿·戈博 Colton Gobbo"
+    }
+  ]
+,
+  "datePublished": "2016-07-30",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H24M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

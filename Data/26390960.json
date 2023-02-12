@@ -1,0 +1,101 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "当机立断 Tout de suite maintenant",
+  "url": "/subject/26390960/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2556768538.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008148/",
+      "name": "帕斯卡尔·博尼策尔 Pascal Bonitzer"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008148/",
+      "name": "帕斯卡尔·博尼策尔 Pascal Bonitzer"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054515/",
+      "name": "伊莎贝尔·于佩尔 Isabelle Huppert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025263/",
+      "name": "朗贝尔·维尔森 Lambert Wilson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325955/",
+      "name": "文森特·拉科斯特 Vincent Lacoste"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018500/",
+      "name": "让-皮埃尔·巴克里 Jean-Pierre Bacri"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050264/",
+      "name": "帕斯卡尔·格雷戈里 Pascal Greggory"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000796/",
+      "name": "亚尼克·雷乃 Yannick Renier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323347/",
+      "name": "阿珈特·波尼茨 Agathe Bonitzer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1240241/",
+      "name": " John Flanders"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342305/",
+      "name": "朱莉娅·福雷 Julia Faure"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386676/",
+      "name": "维吉勒·韦尼耶 Virgil Vernier"
+    }
+  ]
+,
+  "datePublished": "2016-06-22",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H38M",
+  "description": "Nora Sator, jeune trentenaire dynamique, commence sa carrière dans la haute finance.
+Quand elle appr...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "86",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

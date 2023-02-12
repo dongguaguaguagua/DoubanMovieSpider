@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "沉睡的巨人 Sleeping Giant",
+  "url": "/subject/26371550/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2330101412.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349645/",
+      "name": "安德鲁·奇维迪诺 Andrew Cividino"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349645/",
+      "name": "安德鲁·奇维迪诺 Andrew Cividino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356620/",
+      "name": "布莱恩·沃特斯 Blain Watters"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337151/",
+      "name": "亚伦·叶格尔 Aaron Yeger"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356621/",
+      "name": "杰克逊·马丁 Jackson Martin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356622/",
+      "name": "尼克·塞里诺 Nick Serino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356623/",
+      "name": "埃丽卡·布罗兹基 Erika Brodzky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356625/",
+      "name": "凯特琳·麦克拉彻 Katelyn McKerracher"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361552/",
+      "name": "里斯·莫菲特 Reece Moffett"
+    }
+  ]
+,
+  "datePublished": "2015-05-14",
+  "genre": ["\u5267\u60c5", "\u5192\u9669"],
+  "duration": "PT1H29M",
+  "description": "少年亚当和他的父母一起在崎岖的苏必利尔湖度过暑假。他乏味的常规粉碎了当他和里利和伊北，自作聪明的表亲们通过他们有充裕的时间与放荡和鲁莽的悬崖跳。一个伤害的秘密的启示触发亚当设置不可逆的事件，测试友谊的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "677",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

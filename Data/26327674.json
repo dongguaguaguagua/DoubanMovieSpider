@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "霉运缠身 bad hair day",
+  "url": "/subject/26327674/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2231093315.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036678/",
+      "name": "劳拉·马兰洛 Laura Marano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1057197/",
+      "name": "雷·艾琳·贝克 Leigh Allyn Baker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048216/",
+      "name": "克里斯蒂安·坎贝尔 Christian Campbell"
+    }
+  ]
+,
+  "datePublished": "2015-02-13",
+  "genre": ["\u559c\u5267", "\u6b4c\u821e"],
+  "duration": "",
+  "description": "A buddy comedy about a high school tech-whiz whose prom day abruptly shifts into a wild ride across ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "486",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

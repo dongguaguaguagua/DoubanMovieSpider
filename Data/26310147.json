@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "บองสรันโอน",
+  "url": "/subject/26310147/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2228486534.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1193048/",
+      "name": "赫拉达奈·苏万纳霍姆 Theeradanai Suwannahom"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290614/",
+      "name": "雷·麦克唐纳 Ray MacDonald"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327032/",
+      "name": "坦瓦林·苏卡皮西特 Tanwarin Sukkhapisit"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326530/",
+      "name": "李敏恩 Mean Apittha Klaiudom"
+    }
+  ]
+,
+  "datePublished": "2015-02-19",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H45M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Kidnapped The Hannah Anderson Story",
+  "url": "/subject/26411930/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535904694.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041203/",
+      "name": "布莱恩·麦克纳玛拉 Brian McNamara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327400/",
+      "name": "贝利·安妮·博德斯 Bailey Anne Borders"
+    }
+  ]
+,
+  "datePublished": "2015-01-25",
+  "genre": ["\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "",
+  "description": "Follows the abduction of 16 year old girl in California in 2013.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

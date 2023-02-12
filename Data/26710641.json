@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "酷启示 Cool Apocalypse",
+  "url": "/subject/26710641/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2310860116.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021531/",
+      "name": "Michael Glover Smith Michael Glover Smith"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021531/",
+      "name": "Michael Glover Smith Michael Glover Smith"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2015-11-21",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H13M",
+  "description": "A summer day in Chicago: Paul and Julie are a couple just beginning. Julie finally takes the first s...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

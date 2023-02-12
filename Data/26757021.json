@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "宠灵实验室之狸奴艾莉",
+  "url": "/subject/26757021/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2326904501.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356035/",
+      "name": "郝昭赫 Zhaohe Hao"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383331/",
+      "name": "陈冠良 Guanliang Shen"
+    }
+  ]
+,
+  "datePublished": "2016-04-01",
+  "genre": ["\u7231\u60c5", "\u79d1\u5e7b"],
+  "duration": "PT1H12M",
+  "description": "浩瀚的宇宙中堪培拉斯行星在居民的愚行中毁灭，逃亡的居民飞船意外来到地球，并在漫长的时间中融入了人们生活之中，没有人发现身边潜藏着异族。一鸣，一位理工宅男在一次回家的路上意外收留一只脏兮兮的流浪猫，没想...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "80",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.2"
+  }
+}

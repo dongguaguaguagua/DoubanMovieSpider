@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "胡丽娅的决定 La decisión de Julia",
+  "url": "/subject/26325252/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2322289147.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1302361/",
+      "name": "诺伯托·洛佩斯·阿马多 Norberto López Amado"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296359/",
+      "name": "拉法·鲁索 Rafa Russo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048362/",
+      "name": "费尔南多·卡约 Fernando Cayo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1065860/",
+      "name": "Marta Belaustegui Marta Belaustegui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050737/",
+      "name": "乔斯因·本格特伊 Joxean Bengoetxea"
+    }
+  ]
+,
+  "datePublished": "2015-10-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

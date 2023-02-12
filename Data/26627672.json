@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "囧贼",
+  "url": "/subject/26627672/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2274675248.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352334/",
+      "name": "马源 Yuan Ma"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352333/",
+      "name": "符才智 Caizhi Fu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275977/",
+      "name": "王双宝 Shuangbao Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325536/",
+      "name": "赵楚纶 Chulun Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346055/",
+      "name": "王沛禄 Peilu Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352332/",
+      "name": "郝婷婷 Tingting Hao"
+    }
+  ]
+,
+  "datePublished": "2015-10-30",
+  "genre": ["\u559c\u5267", "\u72af\u7f6a"],
+  "duration": "PT1H23M",
+  "description": "讲述了两个笨贼宝哥和猴七意外的得到一对文物青花瓷盆，交易途中不曾想其中一个竟意外丢失。正当两个笨贼寻觅丢失瓷盆时，不巧与当地知名自行车赛车手丁勇和“包二奶”的眼镜奔驰男相撞，又打碎了另一只瓷盆。为此，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "412",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.7"
+  }
+}

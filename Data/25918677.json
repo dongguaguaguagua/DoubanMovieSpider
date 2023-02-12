@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "命运速递",
+  "url": "/subject/25918677/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2522418412.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327361/",
+      "name": "李非 Fei Li"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327361/",
+      "name": "李非 Fei Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326947/",
+      "name": "赵炳锐 Mingyue Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321008/",
+      "name": "吕晓霖 Xiaolin Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313809/",
+      "name": "余皑磊 Ailei Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323760/",
+      "name": "啜妮 Ni Chuai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348506/",
+      "name": "张优 You Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327361/",
+      "name": "李非 Fei Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037747/",
+      "name": "顾长卫 Changwei Gu"
+    }
+  ]
+,
+  "datePublished": "2015-07-30",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u72af\u7f6a"],
+  "duration": "PT1H30M",
+  "description": "影片讲述了一个投资煤窑失败的 屌丝，利用身为演员的女友色诱老 板，从而诈骗钱财用来还债的故事。 其中，美人计色诱诈骗、娱乐圈潜规 则横行等情节大胆、香艳，也让这个 以命运为主题的故事有了更多看点。 此...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6569",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

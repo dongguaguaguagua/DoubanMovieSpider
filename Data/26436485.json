@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "星巴·克 스타박&#39;스 다방",
+  "url": "/subject/26436485/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2513361839.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319128/",
+      "name": "李尚宇 Sang-woo Lee"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319128/",
+      "name": "李尚宇 Sang-woo Lee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314121/",
+      "name": "白成铉 Seong-hyeon Baek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314628/",
+      "name": "徐信爱 Shin-ae Seo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394011/",
+      "name": "李廷九 Jeong-goo Lee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385487/",
+      "name": "徐镐哲 Ho-chul Seo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382527/",
+      "name": "蔡东炫 Dong-hyun Chae"
+    }
+  ]
+,
+  "datePublished": "2016-04-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H47M",
+  "description": "李尚宇执导的韩国剧情片，白成铉、徐信爱主演。影片讲述法学院高材生放弃学业追逐开咖啡屋的梦想的故事....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "190",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

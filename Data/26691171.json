@@ -1,0 +1,62 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "假日公主童话 Once Upon a Holiday",
+  "url": "/subject/26691171/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2298226979.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1286307/",
+      "name": "James Head James Head"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027176/",
+      "name": "布莱恩娜·伊维根 Briana Evigan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1208260/",
+      "name": "保罗·坎贝尔 Paul Campbell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1169423/",
+      "name": "塔拉·威尔逊 Tara Wilson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412323/",
+      "name": "森塔·普拉萨德 Sunita Prasad"
+    }
+  ]
+,
+  "datePublished": "2015-11-25",
+  "genre": ["\u7231\u60c5", "\u5bb6\u5ead", "\u513f\u7ae5"],
+  "duration": "PT1H24M",
+  "description": "人老珠黄的公主耐不住寂寞的芳心，
+仿照《罗马假日》的故事，走到了街上，
+遇见了另一个好人……
+结局是不言自明的。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

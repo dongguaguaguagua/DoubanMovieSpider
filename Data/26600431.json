@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Algorithm: BLISS",
+  "url": "/subject/26600431/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2617039167.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018701/",
+      "name": "戴娜·希瑟尔 Dena Hysell"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049499/",
+      "name": "萨拉·罗默尔 Sarah Roemer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000025/",
+      "name": "肖恩·法瑞斯 Sean Faris"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400937/",
+      "name": "凯勒布·朗 Cayleb Long"
+    }
+  ]
+,
+  "datePublished": "2020-02-02",
+  "genre": ["\u79d1\u5e7b", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H39M",
+  "description": "Vic Beckett, a brilliant researcher, creates the ultimate App that taps into the pleasure center of ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

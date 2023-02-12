@@ -1,0 +1,77 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Kaaki Sattai",
+  "url": "/subject/26419757/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2248684497.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1202056/",
+      "name": "Pattukottai Prabhakar Pattukottai Prabhakar"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425600/",
+      "name": "斯瓦卡蒂恩 Sivakarthikeyan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295088/",
+      "name": "维贾伊·拉齐 Vijay Raaz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1407705/",
+      "name": "梅伊尔萨米 Mayilsamy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358628/",
+      "name": "Yog Japee Yog Japee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339200/",
+      "name": "维杜莱卡·拉曼 Vidyullekha Raman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377634/",
+      "name": "约吉·巴布 Yogi Babu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437725/",
+      "name": "马诺巴拉 Manobala"
+    }
+  ]
+,
+  "datePublished": "2015-02-27",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT2H37M",
+  "description": "A young cop needs to show his true potential to catch a gangster and to win his love.",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

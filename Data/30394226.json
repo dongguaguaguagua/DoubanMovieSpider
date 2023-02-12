@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "George Takei’s Allegiance",
+  "url": "/subject/30394226/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2682388039.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032098/",
+      "name": "丽娅·萨隆加 Lea Salonga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002752/",
+      "name": "武井乔治 George Takei"
+    }
+  ]
+,
+  "datePublished": "2016-12-13",
+  "genre": ["\u97f3\u4e50"],
+  "duration": "PT2H10M",
+  "description": "Allegiance illuminates one of American history&#39;s lesser known chapters as it tells the story of Sam ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

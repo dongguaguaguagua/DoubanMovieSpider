@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死亡游戏",
+  "url": "/subject/26756911/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2355446927.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339982/",
+      "name": "麦子 Mai Zi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359133/",
+      "name": "韩羡鱼 Xianyu Han"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315812/",
+      "name": "徐洁儿 Jill Hsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355808/",
+      "name": "陈欢 Huan Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326774/",
+      "name": "陈炳强 Bingqiang Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339125/",
+      "name": "吕平滢 Pingying Lü"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355772/",
+      "name": "郭子溪 Zixi Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335210/",
+      "name": "杨珑 Long Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339574/",
+      "name": "刘宇珽 Yuting Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1359134/",
+      "name": "蒋瑞琪 Ruiqi Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330257/",
+      "name": "李曼铱 Manyi Li"
+    }
+  ]
+,
+  "datePublished": "2016-06-03",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "影片讲述了一档旨在帮助沉迷鬼魇的女性走出困境的真人秀节目《凶灵实录》，在女主角初夏（徐洁儿 饰）的生日夜晚组织了一帮她的同学在北京深处的古宅里举行生日宴会，而宴会上,同学一个个离奇的死亡，也使得晚会弥...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "603",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.0"
+  }
+}

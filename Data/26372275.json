@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "娜希德 ناهید",
+  "url": "/subject/26372275/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2346551760.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349635/",
+      "name": "艾达·帕纳哈达 Ida Panahandeh"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349635/",
+      "name": "艾达·帕纳哈达 Ida Panahandeh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415482/",
+      "name": "阿萨兰·阿米日 Arsalan Amiri"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314287/",
+      "name": "萨瑞·巴亚特 Sareh Bayat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358414/",
+      "name": "纳维德·穆罕默德扎德 Navid Mohammadzadeh"
+    }
+  ]
+,
+  "datePublished": "2015-05-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H44M",
+  "description": "纳西德，一个年轻的离婚女人，跟她十岁的儿子住在一个伊朗里海的北方城市。虽然根据伊朗当地法律，孩子的归属权是属于父亲的，但她前夫将孩子给了她，前提是她不能再婚。可当一个深爱她并希望与她结婚的男人出现在纳...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "749",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "床下有人3",
+  "url": "/subject/26694681/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2323866935.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319241/",
+      "name": "尚永峰 Yongfeng Shang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347756/",
+      "name": "王海兰 Hailan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319241/",
+      "name": "尚永峰 Yongfeng Shang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340984/",
+      "name": "殷果儿 Guoer Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353663/",
+      "name": "姜文轩 Wenxuan Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353664/",
+      "name": "苗清 Qing Miao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353665/",
+      "name": "刘力源 Liyuan Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340991/",
+      "name": "宋伟 Wei Song"
+    }
+  ]
+,
+  "datePublished": "2016-03-11",
+  "genre": ["\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H30M",
+  "description": "吴志浩（姜文轩 饰）和艾佳佳（殷果儿 饰）新婚之际，艾佳佳的幼年好友王坤送来一张古老的婚床，作为新婚贺礼。自此之后，吴志浩与艾佳佳朝无宁日，暮无良夜。日为人间床，夜为阴界棺，一张古老的婚床之下，似乎附...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1373",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "2.8"
+  }
+}

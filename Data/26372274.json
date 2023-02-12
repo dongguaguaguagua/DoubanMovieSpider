@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "选中之人 Las elegidas",
+  "url": "/subject/26372274/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2243270237.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351038/",
+      "name": "戴维·巴勃罗斯 David Pablos"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351038/",
+      "name": "戴维·巴勃罗斯 David Pablos"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2015-05-18",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "“The Chosen Ones” turns on 15-year-old, Ulises, who is being groomed by his father to enamor young g...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "997",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

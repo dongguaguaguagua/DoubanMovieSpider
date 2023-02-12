@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "判我有罪",
+  "url": "/subject/25859593/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2345473794.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351581/",
+      "name": "孙亮 Liang Sun"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351581/",
+      "name": "孙亮 Liang Sun"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312794/",
+      "name": "李昕芸 Xinyun Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037098/",
+      "name": "吴镇宇 Francis Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023718/",
+      "name": "戴立忍 Leon Dai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314851/",
+      "name": "田小洁 Xiaojie Tian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312861/",
+      "name": "李至正 Chris Lee"
+    }
+  ]
+,
+  "datePublished": "2015-10-02",
+  "genre": ["\u5267\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H42M",
+  "description": "美艳忧郁的女医生冯雪辉（李昕芸 饰）对男性有种致命的吸引力，但她的丈夫方文楠（吴镇宇 饰）却以冷暴力相待，两人之间似有深深隐情，他们既是仇人又是同谋。
+突然医院发生了一起惨烈的坠楼命案，由此牵出一场围...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3339",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

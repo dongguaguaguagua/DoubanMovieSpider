@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "在西西里的一场死亡 A Death in Sicily",
+  "url": "/subject/25904968/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504066960.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279872/",
+      "name": "安东尼·卡尔达里拉 Anthony Caldarella"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279872/",
+      "name": "安东尼·卡尔达里拉 Anthony Caldarella"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040799/",
+      "name": "马克·莱昂纳蒂 Marco Leonardi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u60ac\u7591"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

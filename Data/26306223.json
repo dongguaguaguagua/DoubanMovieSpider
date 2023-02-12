@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奇异男孩 Bizarre",
+  "url": "/subject/26306223/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2226377997.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355018/",
+      "name": "艾蒂安·福尔 Étienne Faure"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355018/",
+      "name": "艾蒂安·福尔 Étienne Faure"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353496/",
+      "name": "皮埃尔·普里厄 Pierre Prieur"
+    }
+  ]
+,
+  "datePublished": "2015-02-07",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u540c\u6027"],
+  "duration": "PT1H39M",
+  "description": "法国男孩在布鲁克林过着半游荡的生活，直到进入一间上演怪奇秀的酒吧，结识两位女老闆，开始了同居生活。他周旋于男女之间，却逃避自己真实的情感；身处华丽猎奇的世界，却始终带着迷惘与不安，成为瑰丽舞台上永远的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "418",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

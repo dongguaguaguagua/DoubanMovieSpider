@@ -1,0 +1,124 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "摇滚水果",
+  "url": "/subject/25919327/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2284732362.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352022/",
+      "name": "魏健 Jian Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468535/",
+      "name": "侯嵩松 Songsong Hou"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352022/",
+      "name": "魏健 Jian Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352021/",
+      "name": "周俭 Jian Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468535/",
+      "name": "侯嵩松 Songsong Hou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375819/",
+      "name": "殷大卫 Dawei Yin"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323199/",
+      "name": "王李丹妮 Daniella Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327575/",
+      "name": "陈亦飞 David Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342838/",
+      "name": "常乐 Le Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352020/",
+      "name": "陈霖生 Linsheng Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333924/",
+      "name": "贾康熙 Kangxi Jia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352131/",
+      "name": "徐艺 Yi Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352133/",
+      "name": "康晞娅 Anastasia Sedikova"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352022/",
+      "name": "魏健 Jian Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352132/",
+      "name": "金宝 Bao Jing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352134/",
+      "name": "姜鑫 Xin Jiang"
+    }
+  ]
+,
+  "datePublished": "2015-11-27",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u97f3\u4e50"],
+  "duration": "PT1H39M",
+  "description": "在碧海蓝天、沙滩椰树下，讲述了由一群性感香艳极近于裸体的“比基尼”女郎组成的一支色彩缤纷的全女子摇滚乐队，从开始组建到最终获得成功的一段精彩人生历程。这个故事包括了成长的烦恼、爱情的甜蜜、事业的坎坷以...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "843",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.1"
+  }
+}

@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "翱翔之梦 Hawaizaada",
+  "url": "/subject/26309059/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2223336760.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314854/",
+      "name": "维布·普里 Vibhu Puri"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314854/",
+      "name": "维布·普里 Vibhu Puri"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054259/",
+      "name": "米特胡恩·查克拉博蒂 Mithun Chakraborty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327903/",
+      "name": "阿尤斯曼·库拉纳 Ayushmann Khurrana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421785/",
+      "name": "帕拉维·沙尔达 Pallavi Sharda"
+    }
+  ]
+,
+  "datePublished": "2015-01-30",
+  "genre": ["\u5267\u60c5", "\u4f20\u8bb0", "\u5947\u5e7b"],
+  "duration": "PT2H10M",
+  "description": "The film which is based on the life on an Indian scientist Shivkar Bapuji Talpade, who is credited t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

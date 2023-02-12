@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心房客 Asphalte",
+  "url": "/subject/26356789/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2312758560.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009827/",
+      "name": "萨米埃尔·本谢特里 Samuel Benchetrit"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009827/",
+      "name": "萨米埃尔·本谢特里 Samuel Benchetrit"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000090/",
+      "name": "迈克尔·皮特 Michael Pitt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054515/",
+      "name": "伊莎贝尔·于佩尔 Isabelle Huppert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041252/",
+      "name": "瓦莱丽亚·布鲁尼·泰德斯基 Valeria Bruni Tedeschi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303251/",
+      "name": "古斯塔弗·科文 Gustave Kervern"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345492/",
+      "name": "朱尔·本谢特里 Jules Benchetrit"
+    }
+  ]
+,
+  "datePublished": "2015-10-07",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H40M",
+  "description": "故事发生在一幢破旧的老式公寓之中，少年查理（朱尔·本切特 Jules Benchetrit 饰）的对门搬来了一位名叫珍妮（伊莎贝尔·于佩尔 Isabelle Huppert 饰）的新邻居，珍妮曾是一名...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "75920",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.5"
+  }
+}

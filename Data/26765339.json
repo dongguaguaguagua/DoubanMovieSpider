@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "欲望天堂",
+  "url": "/subject/26765339/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409883/",
+      "name": "杨昆荣 Kunrong Yang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "讲述两男三女的懵懂的感情、勇敢追求、挫败受伤、幻想与入魔等多种生活心态。电影整体以温情、浪漫为主，穿插的数分钟欲望在天堂被释放满足场景，通过大量特效实现，美轮美奂。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

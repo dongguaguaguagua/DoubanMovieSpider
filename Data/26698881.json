@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "京门青年",
+  "url": "/subject/26698881/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2303251475.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346438/",
+      "name": "李超 Chao Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390789/",
+      "name": "赵帅 Shuai Zhao"
+    }
+  ]
+,
+  "datePublished": "2015-09-16",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT0H39M",
+  "description": "向南工作室出品。生活在北京门头沟的三个结交兄弟，老大，成熟稳重，老二，性情浮躁。老三，好吃懒做。在生活中发生了一系列令人皆非的故事，由于生活的现状，老大外出奔波，艰苦奋斗，三年之后，返回故里，三兄弟重...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "守夜 Jamais de la vie",
+  "url": "/subject/26356889/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2237475646.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028621/",
+      "name": "皮埃尔·若利韦 Pierre Jolivet"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028621/",
+      "name": "皮埃尔·若利韦 Pierre Jolivet"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012611/",
+      "name": "奥利维埃·古尔梅 Olivier Gourmet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1278962/",
+      "name": "瓦莱丽·博莱同 Valérie Bonneton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036864/",
+      "name": "茱莉·费瑞尔 Julie Ferrier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348841/",
+      "name": "马克·泽戈 Marc Zinga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1098173/",
+      "name": "蒂埃里·汉西斯 Thierry Hancisse"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022522/",
+      "name": "Bénabar Bénabar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1441823/",
+      "name": "让-弗朗索瓦·凯雷 Jean-François Cayrey"
+    }
+  ]
+,
+  "datePublished": "2015-04-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "弗朗克，五十二岁，在市郊的一个商业中心中担任夜间巡逻保安。十年前，他曾是专业技术工人和工会代表，常常忙碌于工作而不得闲，总是充满了战斗精神。而现在，他却成为了自己生活中的一个逆来顺受的旁观者，他已经厌...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "198",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

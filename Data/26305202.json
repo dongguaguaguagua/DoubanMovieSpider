@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "世纪工程 La obra del siglo",
+  "url": "/subject/26305202/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2287606514.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1422074/",
+      "name": "Carlos Quintela Carlos Quintela"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2015-01-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "Drifting effortlessly between raw psychological realism and dreamy surrealism and loaded with unique...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}
