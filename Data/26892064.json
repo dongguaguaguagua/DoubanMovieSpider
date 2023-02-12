@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐怖邻居 Der Beobachter",
+  "url": "/subject/26892064/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2388830073.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384087/",
+      "name": "马克·福斯特 Mark Frost"
+    }
+  ]
+,
+  "datePublished": "2015-12-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "吉蓮飽受鄰居的跟蹤騷擾，當她的丈夫被殘殺，又發生一連串女子命案，她的恐怖鄰居涉嫌重大。吉蓮的情人是否有嫌疑？根據夏洛特林克暢銷小說改編。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "A Dozen Summers",
+  "url": "/subject/26868735/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2378212010.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1059090/",
+      "name": "科林·贝克 Colin Baker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014417/",
+      "name": "伊万·麦金托什 Ewen MacIntosh"
+    }
+  ]
+,
+  "datePublished": "2015-05-19",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5bb6\u5ead"],
+  "duration": "PT1H22M",
+  "description": "Maisie and Daisy McCormack are two ordinary 12-year-olds finding their way through life in the 21st ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

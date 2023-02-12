@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Set the Thames on Fire",
+  "url": "/subject/25930547/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2191961973.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019080/",
+      "name": "珊迪·弗罗斯特 Sadie Frost"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018078/",
+      "name": "诺尔·费丁 Noel Fielding"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1273294/",
+      "name": "莉莉·拉芙莱斯 Lily Loveless"
+    }
+  ]
+,
+  "datePublished": "2016-09-16",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "Set the Thames on Fire follows struggling piano player Art (Michael Winder) and compulsive liar Sal ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "青亲 青親",
+  "url": "/subject/26307784/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522903095.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394907/",
+      "name": "陈彦廷 Etsen Chen"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1394907/",
+      "name": "陈彦廷 Etsen Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354613/",
+      "name": "陈志明 Alan Chen"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT0H44M",
+  "description": "奶奶因中风后阿兹海默症的自费药成了陈浩志的经济负担，他开始从事同志按摩来维持家计，起初只把按摩当工作的他渐渐发现对男性的身体有一种本能上的慾望，他开始流连在这些关係裡。然而，这样自以为家庭、工作、自我...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1094",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

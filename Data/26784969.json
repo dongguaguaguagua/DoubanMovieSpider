@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "四手联弹 VDVOEM NA LDINE",
+  "url": "/subject/26784969/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2356621988.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1474916/",
+      "name": "叶夫根尼娅·卡维劳 Yevgeniya Kaverau"
+    }
+  ]
+,
+  "datePublished": "2016-06-11",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H24M",
+  "description": "Young pianist Roman Osin gets in a cancer clinic with a diagnosis of Ewing&#39;s Sarcoma, where he meets...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "宅女侦探桂香",
+  "url": "/subject/25778488/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2259115438.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280774/",
+      "name": "彭顺 Oxide Pang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350904/",
+      "name": "伍臻祥 Sean Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274301/",
+      "name": "王珞丹 Luodan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274366/",
+      "name": "周渝民 Vic Chou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1031194/",
+      "name": "任达华 Simon Yam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274229/",
+      "name": "鲍起静 Hee Ching Paw"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1043325/",
+      "name": "天心 Tien Hsin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166760/",
+      "name": "石修 Sau Sek"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1152997/",
+      "name": "邵美琪 Maggie Siu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366487/",
+      "name": "刘道玄 Tao-Hsuan Liu"
+    }
+  ]
+,
+  "datePublished": "2015-08-13",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u60ac\u7591"],
+  "duration": "PT1H38M",
+  "description": "桂香（王珞丹 饰）从小就显现出了远高于常人的智商，年仅十三岁就凭借着自己的逻辑推理帮助警方破获了重大案件，由此一发不可收拾，最终成为了声名远扬的天才名侦探。然而，看似无懈可击的桂香却有着一个致命的缺陷...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "24791",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

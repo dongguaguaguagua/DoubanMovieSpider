@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "情满人间",
+  "url": "/subject/26584194/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2260326380.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348410/",
+      "name": "曹桂千 Guiqian Cao"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348410/",
+      "name": "曹桂千 Guiqian Cao"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351003/",
+      "name": "范艳华 Yanhua Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324165/",
+      "name": "盖美 Mei Gai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327802/",
+      "name": "赵丹 Dan Zhao"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "电影以“咱老百姓的好医生”刘琼芳为原型，讲述她与癌症抗争了39个春秋的感人故事。她用医者的良知融化了病人心里的冰霜，用高超的医术让濒危的人绝处逢生的故事，在生命的最后时刻，她牵挂的仍然是病人。因此她被...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣诞旋律 A Christmas Melody",
+  "url": "/subject/26362296/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2299039853.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1021994/",
+      "name": "玛丽亚·凯莉 Mariah Carey"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319551/",
+      "name": "大卫·戴尔蒙德 David Diamond"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300633/",
+      "name": "大卫·魏斯曼 David Weissman"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027157/",
+      "name": "莱西·沙伯特 Lacey Chabert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1076329/",
+      "name": "凯文·张伯伦 Kevin Chamberlin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325403/",
+      "name": "布伦南·埃利奥特 Brennan Elliott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1189317/",
+      "name": "大卫·皮廷格 David Pittinger"
+    }
+  ]
+,
+  "datePublished": "2015-12-18",
+  "genre": ["\u559c\u5267", "\u97f3\u4e50"],
+  "duration": "",
+  "description": "日前，新线电影公司买下了天后玛丽亚·凯莉一项关于圣诞节的电影计划，玛丽亚将在影片中饰演主要角色。这也是她自1994年推出现象级的圣诞专辑后，第一次将这个主题搬上大银幕。
+据悉，玛丽亚此前和RatPac...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "79",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

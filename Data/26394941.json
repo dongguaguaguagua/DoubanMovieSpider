@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "LOVESUCKS เลิฟซัค",
+  "url": "/subject/26394941/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2254919020.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342679/",
+      "name": "玛娜莎楠·潘叻翁固 Manatsanun Panlertwongskul"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147369/",
+      "name": "塔雅·罗杰斯 Taya Rogers"
+    }
+  ]
+,
+  "datePublished": "2015-06-25",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

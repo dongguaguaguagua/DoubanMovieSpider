@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "宝藏 Comoara",
+  "url": "/subject/25918595/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2242949946.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312575/",
+      "name": "柯内流·波蓝波宇 Corneliu Porumboiu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312575/",
+      "name": "柯内流·波蓝波宇 Corneliu Porumboiu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1062181/",
+      "name": "拉杜·班泽鲁 Radu Banzaru"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353589/",
+      "name": "托玛·库津 Toma Cuzin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356232/",
+      "name": "阿德里安·颇卡拉斯库 Adrian Purcarescu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356233/",
+      "name": "柯尔尼留·卡兹麦 Corneliu Cozmei"
+    }
+  ]
+,
+  "datePublished": "2015-05-21",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H29M",
+  "description": "哥慈向儿子讲罗宾汉古仔讲上脑，当邻居说废祖屋有曾祖埋下的宝藏，他看到了曙光。穷邻居望有最后一线生机，哥慈望证明存在有价值。聘来个抵得谂的金属探测员，一行三人周末去寻宝。掘宝近实时处理，悬念和笑话推至巅...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "560",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "โปสการ์ดที่ไม่มี....ที่มา",
+  "url": "/subject/26362204/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2237295373.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345110/",
+      "name": "吉拉瓦·瓦吉纳萨兰帕 Jirawat Wachirasarunpat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1485405/",
+      "name": "萨拉武特·马尔通 Sarawut Mardthong"
+    }
+  ]
+,
+  "datePublished": "2015-05-07",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

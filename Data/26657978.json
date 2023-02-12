@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "纸背秘恋 Paperback",
+  "url": "/subject/26657978/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2622593690.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014978/",
+      "name": "Adam Bowers Adam Bowers"
+    }
+  ]
+,
+  "datePublished": "2015-10-30",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H19M",
+  "description": "一个从没离开过他的大学所在城市的披萨厨师终于遇到了他梦寐以求的女孩，但是他们想要在一起，要闯过一个巨大的关卡。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

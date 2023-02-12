@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死亡之梯 Death Walks",
+  "url": "/subject/25805481/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2165141726.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1222870/",
+      "name": "Spencer Hawken Spencer Hawken"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1222870/",
+      "name": "Spencer Hawken Spencer Hawken"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337292/",
+      "name": "弗兰切斯卡·恰尔迪 Francesca Ciardi"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H17M",
+  "description": "邪恶扶梯杀手慢慢开始杀人！",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

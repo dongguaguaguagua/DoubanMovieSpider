@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "LiveJustine",
+  "url": "/subject/26685108/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2295022372.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272247/",
+      "name": " Samuel Victor"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1235122/",
+      "name": "马克·马加森 Mark Margason"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272247/",
+      "name": " Samuel Victor"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036895/",
+      "name": "露西·萍德 Lucy Pinder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1209868/",
+      "name": "凯特·谢里丹 Katie Sheridan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1272247/",
+      "name": " Samuel Victor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1235122/",
+      "name": "马克·马加森 Mark Margason"
+    }
+  ]
+,
+  "datePublished": "2015-08-01",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H20M",
+  "description": "A high powered businessman is blackmailed by a woman he meets via web-cam, who hacks his laptop and ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

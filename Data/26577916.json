@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "哈里·普赖斯：幽灵猎人 Harry Price: Ghost Hunter",
+  "url": "/subject/26577916/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2321254980.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290328/",
+      "name": "杰克·洛锡安 Jack Lothian"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032169/",
+      "name": "拉菲·斯波 Rafe Spall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336240/",
+      "name": "卡拉·西奥博尔德 Cara Theobold"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1167799/",
+      "name": "汤姆·沃德 Tom Ward"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364387/",
+      "name": "刘易斯·里维斯 Lewis Reeves"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316137/",
+      "name": "佐伊·博伊尔 Zoe Boyle"
+    }
+  ]
+,
+  "datePublished": "2015-12-27",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "An expert at sleight of hand and with a keen eye for identifying charlatans and tricksters, our stor...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

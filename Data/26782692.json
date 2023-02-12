@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大头儿子和小头爸爸之草原奇遇",
+  "url": "/subject/26782692/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2357482944.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318435/",
+      "name": "董浩 Hao Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318433/",
+      "name": "刘纯燕 Chunyan Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274251/",
+      "name": "鞠萍 Ping Ju"
+    }
+  ]
+,
+  "datePublished": "2015-02-18",
+  "genre": ["\u52a8\u753b", "\u513f\u7ae5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "314",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.4"
+  }
+}

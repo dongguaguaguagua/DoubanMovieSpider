@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "留爱",
+  "url": "/subject/26615491/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2527427583.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1424532/",
+      "name": "李兴萌 Xingmeng Li"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384556/",
+      "name": "蒋欣悦 Xinyue"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H18M",
+  "description": "《留爱》是一部围绕农村家庭展开的亲情电影，真实反映了当代农村因父母外出打工，导致孩子渴望爱、寻求爱，进而矛盾交织的生活状态，是当代社会农村家庭情感的真实写照。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

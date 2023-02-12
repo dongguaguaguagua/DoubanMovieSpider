@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天使不孤独",
+  "url": "/subject/26312963/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554878148.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379653/",
+      "name": "胡馨元 Xinyuan Hu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415648/",
+      "name": "王俏 Qiao Wang"
+    }
+  ]
+,
+  "datePublished": "2015-01-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "该片讲述了一个单身母亲倾尽所有、守护孤独症女儿的感人故事。吴文雅离婚后与女儿相依为命，她7岁的女儿蓓蓓从小患有孤独症，完全活在自己封闭的世界里，无法独立生活。对于吴文雅来说，女儿即是她的全部。但女儿每...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

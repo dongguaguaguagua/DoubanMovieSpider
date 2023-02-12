@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "花街柳巷",
+  "url": "/subject/25853739/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2310636780.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274241/",
+      "name": "吴家丽 Carrie Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355762/",
+      "name": "翁秀兰 Shirley Yung Sau-Lan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274241/",
+      "name": "吴家丽 Carrie Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355762/",
+      "name": "翁秀兰 Shirley Yung Sau-Lan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327610/",
+      "name": "彭柏成 Thomas Pang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355764/",
+      "name": "陈卓贤 Cheuk-Yin Chan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274241/",
+      "name": "吴家丽 Carrie Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316889/",
+      "name": "洪天照 Sammy Hung Tin Chiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348903/",
+      "name": "许雅婷 Kabby Hui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356845/",
+      "name": "符晓薇 Leanne Fu"
+    }
+  ]
+,
+  "datePublished": "2015-04-16",
+  "genre": ["\u60ca\u609a", "\u60c5\u8272"],
+  "duration": "PT1H25M",
+  "description": "故事发生在所有男人都对其想入非非的红灯区唐楼之中。丽姐（吴家丽 饰）是大厦的管理人，管理着在大厦里居住的租客们，并且向她们收取租金。某日，丽姐得知大厦即将面临被拆迁的命运，这也就意味着，居住在此的众多...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2073",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

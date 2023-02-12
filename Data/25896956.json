@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Diamond in the Dust",
+  "url": "/subject/25896956/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2185372832.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036407/",
+      "name": "艾伦·伯斯汀 Ellen Burstyn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044870/",
+      "name": "约翰·考伯特 John Corbett"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "",
+  "description": "This story is a family drama about JJ, a lonely, yet talented, adolescent who is grief stricken by t...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

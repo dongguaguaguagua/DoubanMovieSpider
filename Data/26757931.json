@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "僵尸归来2：消失的御林军",
+  "url": "/subject/26757931/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2326930718.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376015/",
+      "name": "秦教授 Professor Qin"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376015/",
+      "name": "秦教授 Professor Qin"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-03-29",
+  "genre": ["\u60ca\u609a", "\u5192\u9669"],
+  "duration": "PT1H0M",
+  "description": "笔名为玉儿的网络作家，通过半本古书《太和文集》创作了一部小说《消失的宝藏》一举成名。某天玉儿收到了一封邮件，邮件里指出《太和文集》里所记载的宝藏是真实存在。玉儿请来了因调戏女学员而被开除的健身教练冬生...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "113",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

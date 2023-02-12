@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猛男多莉 Hunky Dory",
+  "url": "/subject/26773832/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2335534299.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368065/",
+      "name": "托马斯·派斯 Tomas Pais"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u540c\u6027", "\u5bb6\u5ead"],
+  "duration": "PT1H38M",
+  "description": "After his psychotic ex disappears, Sidney, a bisexual dive bar drag queen, is forced to look after h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

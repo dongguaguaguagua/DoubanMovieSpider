@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "暗夜放纵 Mørke Rum",
+  "url": "/subject/26600493/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498327499.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355021/",
+      "name": "迈斯·尤鲁迈 Mads Hjulmand"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1380906/",
+      "name": "尼古拉斯·沃勒森 Nicolas Wollesen"
+    }
+  ]
+,
+  "datePublished": "2015-09-01",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT0H26M",
+  "description": "一个叫Sebastian的少年知道了自己的性向并在网上寻找爱与激情。在网上，他遇见了年长的Jacob，Jacob带他去了一家性吧，想在那和他发生关系。纯洁的Sebastian不愿将初夜交给有性无爱之人...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "537",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.3"
+  }
+}

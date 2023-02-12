@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "先锋英雄 Пионеры-герои",
+  "url": "/subject/26306655/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2236235882.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400481/",
+      "name": "纳塔莉娅·库德拉什瓦 Natalya Kudryashowa"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400481/",
+      "name": "纳塔莉娅·库德拉什瓦 Natalya Kudryashowa"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400481/",
+      "name": "纳塔莉娅·库德拉什瓦 Natalya Kudryashowa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1129793/",
+      "name": "达里娅·莫罗兹 Darya Moroz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1382233/",
+      "name": "斯韦特兰娜·斯米尔诺娃-马尔钦克维奇 Svetlana Smirnova-Martsinkevich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061330/",
+      "name": "阿纳托利·比利 Anatoliy Belyy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1110629/",
+      "name": "Mikhail Krylov Mikhail Krylov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475168/",
+      "name": "塔玛拉·米罗诺娃 Tamara Mironova"
+    }
+  ]
+,
+  "datePublished": "2015-02-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H56M",
+  "description": "Veliky Novgorod, 1987. Olga makes a stand against her teacher’s authoritarian teaching methods, Andr...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

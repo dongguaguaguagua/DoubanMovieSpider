@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "进化岛 Évolution",
+  "url": "/subject/26312147/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2337191325.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045485/",
+      "name": "露西尔·哈兹哈利洛维奇 Lucile Hadzihalilovic"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045485/",
+      "name": "露西尔·哈兹哈利洛维奇 Lucile Hadzihalilovic"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354080/",
+      "name": "阿兰蒂·卡瓦特 Alanté Kavaïté"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328935/",
+      "name": "罗珊妮·杜兰 Roxane Duran"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1294015/",
+      "name": "茱莉-玛丽·帕芒提耶 Julie-Marie Parmentier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357943/",
+      "name": "尼西姆·雷纳德 Nissim Renard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1400972/",
+      "name": "马克斯·布雷班特 Max Brebant"
+    }
+  ]
+,
+  "datePublished": "2015-09-14",
+  "genre": ["\u5267\u60c5", "\u79d1\u5e7b", "\u6050\u6016"],
+  "duration": "PT1H21M",
+  "description": "故事乖张离奇，讲述在一个只有男孩和妇女的小岛上，男孩正在接受一种奇怪治疗，小男孩尼古拉斯的潜水打破了原有的平衡。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2872",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.8"
+  }
+}

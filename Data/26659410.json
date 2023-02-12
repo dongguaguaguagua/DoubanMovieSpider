@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死囚大逃杀2 The Condemned 2",
+  "url": "/subject/26659410/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2281894194.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276459/",
+      "name": "罗伊·雷内 Roel Reiné"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1291556/",
+      "name": "阿兰·B·麦克埃尔罗伊 Alan B. McElroy"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000255/",
+      "name": "兰迪·奥顿 Randy Orton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002670/",
+      "name": "埃里克·罗伯茨 Eric Roberts"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1036366/",
+      "name": "韦斯·斯塔迪 Wes Studi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1471587/",
+      "name": "埃索迪·盖格 Esodie Geiger"
+    }
+  ]
+,
+  "datePublished": "2015-11-06",
+  "genre": ["\u52a8\u4f5c", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H30M",
+  "description": "赏金猎人威尔带领团队捉拿赛勒斯，因赛勒斯反抗导致威尔过失杀人被判刑缓期2年。释放后威尔本想过些平静的生活，谁知却被前队友追杀……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "815",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.3"
+  }
+}

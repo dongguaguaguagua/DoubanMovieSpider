@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Shadow Behind You",
+  "url": "/subject/26889760/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309182/",
+      "name": "San Banarje San Banarje"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309182/",
+      "name": "San Banarje San Banarje"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309970/",
+      "name": "Trisha Ray Trisha Ray"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1218686/",
+      "name": " Sam Hoger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309182/",
+      "name": "San Banarje San Banarje"
+    }
+  ]
+,
+  "datePublished": "2015-10-14",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT1H39M",
+  "description": "When the hurricane shuts down the ferry, a film team gets stuck in an isolated island hospital, know...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "光年 Light Years",
+  "url": "/subject/26353869/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2358324833.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358832/",
+      "name": "爱瑟·坎贝尔 Esther Campbell"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358832/",
+      "name": "爱瑟·坎贝尔 Esther Campbell"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2015-09-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "蘿絲的家庭面臨危機，媽媽住進了療養院，爸爸傷心欲絕，她的兄弟姐妹各有各的心事。她深信一個家庭成員就像各自在軌道上運行的行星，彼此分離卻又相連，她決定去療養院探望母親。本片描述蘿絲一天之中的經歷。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

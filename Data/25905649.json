@@ -1,0 +1,148 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我看到了光 I Saw the Light",
+  "url": "/subject/25905649/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2292940543.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348871/",
+      "name": "马克·亚伯拉罕 Marc Abraham"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348871/",
+      "name": "马克·亚伯拉罕 Marc Abraham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356445/",
+      "name": "科林·埃斯科特 Colin Escott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356446/",
+      "name": "乔治·梅里特 George Merritt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356447/",
+      "name": "威廉·麦克尤恩 William MacEwen"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004596/",
+      "name": "汤姆·希德勒斯顿 Tom Hiddleston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1129847/",
+      "name": "伊丽莎白·奥尔森 Elizabeth Olsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040616/",
+      "name": "切莉·琼斯 Cherry Jones"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027158/",
+      "name": "布莱德利·惠特福德 Bradley Whitford"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319257/",
+      "name": "麦蒂·哈森 Maddie Hasson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336325/",
+      "name": "瑞安·施密特 Wrenn Schmidt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044908/",
+      "name": "大卫·克朗姆霍茨 David Krumholtz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018122/",
+      "name": "乔什·帕斯 Josh Pais"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025390/",
+      "name": "詹姆斯·杜蒙特 James DuMont"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338883/",
+      "name": "乔·克里斯特 Joe Chrest"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340010/",
+      "name": "韦恩·佩雷 Wayne Pére"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360795/",
+      "name": "艾米丽·玛丽·帕尔默 Emily Marie Palmer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383995/",
+      "name": "贾可琳·贝瑟尼 Jaclyn Bethany"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1369577/",
+      "name": "杰拉尔丁·辛格 Geraldine Singer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1406429/",
+      "name": "冯·刘易斯 Von Lewis"
+    }
+  ]
+,
+  "datePublished": "2015-09-11",
+  "genre": ["\u5267\u60c5", "\u97f3\u4e50", "\u4f20\u8bb0"],
+  "duration": "PT2H3M",
+  "description": "电影改编自Colin Escott所著的汉克·威廉姆斯的自传，故事将围绕着乡村音乐巨星威廉姆斯的声名鹊起之过程以及29岁的猝死。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3458",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.6"
+  }
+}

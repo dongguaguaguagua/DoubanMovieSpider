@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女学生和亨利先生 L&#39;étudiante et Monsieur Henri",
+  "url": "/subject/26632896/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2271624401.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019247/",
+      "name": "克洛德·布拉瑟 Claude Brasseur"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327248/",
+      "name": "吉约姆·德·东克戴克 Guillaume de Tonquedec"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358770/",
+      "name": "诺埃米·施米特 Noémie Schmidt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000643/",
+      "name": "弗雷德里克·贝尔 Frédérique Bel"
+    }
+  ]
+,
+  "datePublished": "2015-10-07",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H38M",
+  "description": "A cause de sa santé vacillante, Monsieur Henri ne peut plus vivre seul dans son appartement parisien...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "472",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

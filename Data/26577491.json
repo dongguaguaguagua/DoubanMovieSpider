@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恐惧 La peur",
+  "url": "/subject/26577491/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2312732286.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033208/",
+      "name": "达米彦·奥图 Damien Odoul"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033208/",
+      "name": "达米彦·奥图 Damien Odoul"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2015-08-12",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "Gabriel作为新兵于1914年奔赴前线参战。生活在地狱般的战壕里，目睹恐惧吞噬战士。为了不参战有人自爆断手。经历了浴血奋战，存活下来的他对人性有了新的认识。
+Gabriel, jeune cons...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

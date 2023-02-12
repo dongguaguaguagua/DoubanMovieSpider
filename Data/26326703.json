@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "玛格丽特 Marguerite",
+  "url": "/subject/26326703/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2443867537.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032897/",
+      "name": "泽维尔·吉亚诺利 Xavier Giannoli"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032897/",
+      "name": "泽维尔·吉亚诺利 Xavier Giannoli"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048324/",
+      "name": "凯瑟琳·弗洛 Catherine Frot"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009784/",
+      "name": "克丽丝塔·特瑞特 Christa Theret"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1120370/",
+      "name": "安德烈·马尔孔 André Marcon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354317/",
+      "name": "米歇尔·富 Michel Fau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482132/",
+      "name": "丹尼斯·姆蓬加 Denis Mpunga"
+    }
+  ]
+,
+  "datePublished": "2015-09-04",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H7M",
+  "description": "故事发生在1921年，玛格丽特（凯瑟琳·弗洛 饰）是一位热爱音乐却唱歌走音的女人，她拥有着这一座邻近巴黎的大城堡，也有着一小群观众在城堡里听她歌唱，可这些伪善的观众却在玛格丽特背后偷偷嘲笑她。一位年轻...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2851",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

@@ -1,0 +1,38 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "美味速递 맛있는 택배",
+  "url": "/subject/26359268/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2870193435.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363457/",
+      "name": "孙珈蓝 Son Ga-ram"
+    }
+  ]
+,
+  "datePublished": "2015-04-02",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60c5\u8272"],
+  "duration": "PT1H24M",
+  "description": "물건 배달해 주다가 몸까지 줘버린 택배 청년!
+섹(!)기발랄 택배 라이프 속에서 진짜 사랑을 찾을 수 있을까?
+아버지의 사업 부도로 여친에게도 차이고 학교도 휴학하게 된 ‘절대 훈...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "813",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.1"
+  }
+}

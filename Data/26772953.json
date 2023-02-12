@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "作案者：今日非永远 Die Täter - Heute ist nicht alle Tage",
+  "url": "/subject/26772953/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2334177729.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310524/",
+      "name": "克里斯蒂安·施沃霍夫 Christian Schwochow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014693/",
+      "name": "泽利·阿拉达戈 Züli Aladag"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338718/",
+      "name": "弗洛里安·科森 Florian Cossen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010902/",
+      "name": "斯戴芬·奥斯特 Stefan Aust"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1300703/",
+      "name": "托马斯·温德里克 Thomas Wendrich"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376138/",
+      "name": "阿尔布雷希特·舒赫 Albrecht Schuch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1147610/",
+      "name": "塞巴斯蒂安·乌泽多夫斯基 Sebastian Urzendowsky"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023191/",
+      "name": "安娜·玛丽亚·穆埃 Anna Maria Mühe"
+    }
+  ]
+,
+  "datePublished": "2016-03-30",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "两德统一后，居住在耶拿-温策拉（原东德地区）的女孩贝阿特•策佩认识了乌维•穆德罗斯并与其相恋。后者对右翼势力极其迷恋，两人光顾右翼摇滚音乐会，对外国人和“寄生虫”采取行动。乌维服兵役期间，刚刚出狱的伯...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "104",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

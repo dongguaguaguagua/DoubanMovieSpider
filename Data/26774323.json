@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Hara Kiri",
+  "url": "/subject/26774323/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2546188251.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1234656/",
+      "name": "艾奇·阿尔贝托 Aitch Alberto"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1234656/",
+      "name": "艾奇·阿尔贝托 Aitch Alberto"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374592/",
+      "name": "鲁斯·康内尔 Ruth Connell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1461029/",
+      "name": "莫让·阿里亚 Mojean Aria"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409093/",
+      "name": "杰西·皮门泰尔 Jesse Pimentel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347670/",
+      "name": "Jamie Nocher Jamie Nocher"
+    }
+  ]
+,
+  "datePublished": "2016-11-11",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u5192\u9669"],
+  "duration": "PT1H21M",
+  "description": "A punk infused love story of two street skaters, August and Beto, and their last day on earth: they&#39;...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

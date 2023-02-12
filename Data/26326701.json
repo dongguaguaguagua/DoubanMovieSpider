@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱情不饶人 L&#39;Amour ne pardonne pas",
+  "url": "/subject/26326701/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2320421141.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028424/",
+      "name": "阿丽亚娜·阿斯卡里德 Ariane Ascaride"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322594/",
+      "name": "赫尔米·德里迪 Helmi Dridi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037204/",
+      "name": "弗兰切斯卡·茵奥迪 Francesca Inaudi"
+    }
+  ]
+,
+  "datePublished": "2015-03-15",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H22M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

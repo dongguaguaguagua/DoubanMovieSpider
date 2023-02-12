@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Merci les jeunes",
+  "url": "/subject/26654069/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2278586116.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1477072/",
+      "name": "西奥·科斯塔-马利尼 Théo Costa-Marini"
+    }
+  ]
+,
+  "datePublished": "2015-11-04",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "A Quartier TV, Mathieu fait du cinéma avec les jeunes de la cité des Mines. Parmi eux, Leïla espère ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

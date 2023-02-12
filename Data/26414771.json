@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "อมีน",
+  "url": "/subject/26414771/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2247144666.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1290614/",
+      "name": "雷·麦克唐纳 Ray MacDonald"
+    }
+  ]
+,
+  "datePublished": "2015-03-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

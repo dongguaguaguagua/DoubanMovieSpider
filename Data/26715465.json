@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "网络惊魂",
+  "url": "/subject/26715465/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2313513252.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351759/",
+      "name": "杨鉴 Jian Yang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1465230/",
+      "name": "刘康 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352885/",
+      "name": "柴浩伟 Haowei Chai"
+    }
+  ]
+,
+  "datePublished": "2016-01-30",
+  "genre": ["\u60ac\u7591", "\u6050\u6016"],
+  "duration": "PT1H0M",
+  "description": "一个多月前，B大校花，“Bad Girls”热舞团领舞，李可萌跳楼自杀身亡。起因是她和一名神秘男子在试衣间的激情视频被传到网上。
+中元节（鬼节）当晚，也是李可萌的七七“还魂日”。朱小彤（李可萌的生前好...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

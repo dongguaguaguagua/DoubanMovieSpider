@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "十字架",
+  "url": "/subject/26336505/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2261810791.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054020/",
+      "name": "五十岚匠 Sho Igarashi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034890/",
+      "name": "重松清 Kiyoshi Shigematsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054020/",
+      "name": "五十岚匠 Sho Igarashi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010090/",
+      "name": "永濑正敏 Masatoshi Nagase"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033257/",
+      "name": "小出惠介 Keisuke Koide"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033967/",
+      "name": "富田靖子 Yasuko Tomita"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315257/",
+      "name": "木村文乃 Fumino Kimura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337824/",
+      "name": "阶户瑠李 Ruri Shinato"
+    }
+  ]
+,
+  "datePublished": "2016-02-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H2M",
+  "description": "其貌不扬的中学生藤井俊介（小柴亮太 饰），在青春烂漫时节结束了自己的生命。生前他曾遭到同班同学的欺凌，不堪忍受的少年留下了“我成为了大家的祭品”这样的遗言在自家院子里上吊身亡。俊介之死在社会上引起轩然...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "184",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

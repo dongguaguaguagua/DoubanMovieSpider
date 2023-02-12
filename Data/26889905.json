@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小戏骨：焦裕禄",
+  "url": "/subject/26889905/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2395007883.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1366408/",
+      "name": "莫志颖 Zhiying Mo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345967/",
+      "name": "邱刚 Gang Qiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390517/",
+      "name": "黄闻彧 WenYu Huang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363197/",
+      "name": "肖杨博涵 Bohan Xiaoyang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363237/",
+      "name": "秦舒言 Shuyan Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1363196/",
+      "name": "钟奕儿 Yier Zhong"
+    }
+  ]
+,
+  "datePublished": "2015-12-19",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5", "\u4f20\u8bb0"],
+  "duration": "",
+  "description": "为提高《小戏骨》的演出质量，节目组始终怀着向老艺术家致敬的心态认真学习，努力让小演员在形似的同时做到神似。开拍前，他们会跟小演员反复讲剧情背景，讲现实意义。拍《小戏骨：焦裕禄》这出戏时，一些小孩子会觉...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "233",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}

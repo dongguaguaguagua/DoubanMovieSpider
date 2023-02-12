@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "测试组 Test Group",
+  "url": "/subject/26713121/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2312264340.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415077/",
+      "name": "克里斯塔·贝斯·坎贝尔 Christa Beth Campbell"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u6050\u6016"],
+  "duration": "PT2H43M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

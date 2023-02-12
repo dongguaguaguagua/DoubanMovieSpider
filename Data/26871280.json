@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "勇者无畏 Starfighter - Sie wollten den Himmel erobern",
+  "url": "/subject/26871280/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2378988360.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327345/",
+      "name": "皮科·冯·格罗特 Picco von Groote"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223320/",
+      "name": "弗雷德里克·劳 Frederick Lau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282135/",
+      "name": "爱丽丝·德维尔 Alice Dwyer"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041750/",
+      "name": "宝拉·卡伦贝格 Paula Kalenberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1368082/",
+      "name": "斯蒂芬·温多夫 Steve Windolf"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375670/",
+      "name": "克里斯托夫·施奇杰 Christoph Schechinger"
+    }
+  ]
+,
+  "datePublished": "2015-11-12",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT2H5M",
+  "description": "Young pilots of the German Air Force only want to fly the new Starfighter. But after a short time, m...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "157",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

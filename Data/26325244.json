@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "东京成名记 Big in Japan",
+  "url": "/subject/26325244/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2227370274.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287646/",
+      "name": "约翰·杰夫考特 John Jeffcoat"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287646/",
+      "name": "约翰·杰夫考特 John Jeffcoat"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1282737/",
+      "name": "大卫·德鲁 David Drury"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1287646/",
+      "name": "约翰·杰夫考特 John Jeffcoat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045143/",
+      "name": "艾力克斯·文森特 Alex Vincent"
+    }
+  ]
+,
+  "datePublished": "2015-02-20",
+  "genre": ["\u559c\u5267", "\u97f3\u4e50"],
+  "duration": "PT1H40M",
+  "description": "三个澳洲电影人北上东京的素人造星运动，沿途遇到很多在日本闯荡的老外“京漂”。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "完美婚礼 Perfect Match",
+  "url": "/subject/26891362/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2388646492.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013839/",
+      "name": "丹妮卡·麦凯拉 Danica McKellar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328128/",
+      "name": "保罗·格林尼 Paul Greene"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381372/",
+      "name": "格雷厄姆·维奇尔 Graham Verchere"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "",
+  "description": "When an engaged couple can&#39;t agree on anything, the mother of the groom (Linda Gray) hires a wedding...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

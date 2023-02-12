@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "临时约定",
+  "url": "/subject/26766171/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2329085856.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353048/",
+      "name": "喜莲娜 Selena"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274566/",
+      "name": "石小满 Xiaoman Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317039/",
+      "name": "董立范 Lifan Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324083/",
+      "name": "韩英群 Yingqun Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362293/",
+      "name": "刘闯 Chuang Liu"
+    }
+  ]
+,
+  "datePublished": "2016-04-15",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H36M",
+  "description": "影片讲述了一位身在中国的外国女孩喀秋莎和一个中国农村男孩邱枫间诙谐幽默的爱情故事。影片中另一位女孩冷冰冰为了博得邱枫的欢心，伙同他的两个助手扮演着爱情故事里面的反面角色，通过一系列的搞怪行为给凯琳和邱...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

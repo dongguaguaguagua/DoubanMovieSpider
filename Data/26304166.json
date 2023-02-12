@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "心路历程 ロマンス",
+  "url": "/subject/26304166/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2246279747.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319228/",
+      "name": "棚田由纪 Yuki Tanada"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319228/",
+      "name": "棚田由纪 Yuki Tanada"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275872/",
+      "name": "大岛优子 Yuko Oshima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011644/",
+      "name": "大仓孝二 Koji Ookura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314832/",
+      "name": "洼田正孝 Masataka Kubota"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355561/",
+      "name": "野嵜好美 Nozaki Yoshimi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355562/",
+      "name": "西牟田恵 Megumi Nishimuta"
+    }
+  ]
+,
+  "datePublished": "2015-06-20",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H37M",
+  "description": "现年26岁的北条钵子（大岛优子 饰）是往返于新宿与箱根之间的浪漫特快贩售乘务员，她工作认真，值得信赖。与此相对，现实生活中则对衣来伸手、饭来张口的男朋友（洼田正孝 饰）没有半点办法。这一天，钵子收到母...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1406",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

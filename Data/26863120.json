@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Primordial",
+  "url": "/subject/26863120/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2376362198.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051962/",
+      "name": "Henrique Couto Henrique Couto"
+    }
+  ]
+,
+  "datePublished": "2015-11-20",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a"],
+  "duration": "PT2H2M",
+  "description": "Valerie Graves, a misanthropic, disillusioned woman in her mid-twenties, is haunted by sadistic urge...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

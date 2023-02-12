@@ -1,0 +1,96 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "出租车 Taxi",
+  "url": "/subject/25894049/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2263396720.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019009/",
+      "name": "彼特·丁拉基 Peter Dinklage"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041526/",
+      "name": "斯坦奇·艾塞克 Stipe Erceg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023974/",
+      "name": "罗莎莉·托马斯 Rosalie Thomass"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1023058/",
+      "name": "罗伯特·施塔德洛伯 Robert Stadlober"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000648/",
+      "name": "阿敏·罗德 Armin Rohde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000912/",
+      "name": "托拜西·宣克 Tobias Schenke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1122899/",
+      "name": "莱斯利·马尔顿 Leslie Malton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055600/",
+      "name": "小安托万·莫诺特 Antoine Monot Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1095627/",
+      "name": "埃基·盖普 Eisi Gulp"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324369/",
+      "name": "梅希特希尔德·格罗斯曼 Mechthild Grossmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1266377/",
+      "name": " Özgür Karadeniz"
+    }
+  ]
+,
+  "datePublished": "2015-08-20",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H34M",
+  "description": "Hamburg, mid 80s, ALEX is a cabby. The sound is hard, pubs are dark and loud, people constantly argu...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

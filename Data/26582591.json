@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "新学生 Le nouveau",
+  "url": "/subject/26582591/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2289870688.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352150/",
+      "name": "Rudi Rosenberg Rudi Rosenberg"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1483397/",
+      "name": "格雷古瓦·博内 Grégoire Bonnet"
+    }
+  ]
+,
+  "datePublished": "2015-10-21",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H21M",
+  "description": "Benoit, the new kid at school, is bullied by a gang of arrogant boys. Determined not to be pushed ar...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "122",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

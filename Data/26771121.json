@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "よしもと新喜劇映画 商店街戦争 SUCHICO",
+  "url": "/subject/26771121/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2496506484.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331317/",
+      "name": "立花阳香 Haruka Tachibana"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357852/",
+      "name": "高野祐衣 Yui Takano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350187/",
+      "name": "松本穗香 Honoka Matsumoto"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u72af\u7f6a"],
+  "duration": "PT1H48M",
+  "description": "吉本新喜劇の座長でもある芸人すち子。真面目で熱血漢の刑事・春日。職業も性格もまるで違う二人が偶然からコンビを組み、ある商店街で起きた連続行方不明事件を追うことに。「男同士の絆」を軸に、ハードなアクショ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

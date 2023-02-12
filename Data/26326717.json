@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "懵懂青春 14+",
+  "url": "/subject/26326717/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2235106315.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433124/",
+      "name": "安德烈·扎伊采夫 Andrei Zaitsev"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433124/",
+      "name": "安德烈·扎伊采夫 Andrei Zaitsev"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381354/",
+      "name": "阿列克谢·菲利蒙诺夫 Aleksey Filimonov"
+    }
+  ]
+,
+  "datePublished": "2015-06-13",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "Alex becomes infatuated with Vika without her knowing. What happens when he plucks up the courage to...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "109",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.0"
+  }
+}

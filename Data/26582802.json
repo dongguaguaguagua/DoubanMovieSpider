@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小提琴老师 Tudo Que Aprendemos Juntos",
+  "url": "/subject/26582802/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2335710368.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051148/",
+      "name": "塞尔吉奥·马沙多 Sérgio Machado"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013206/",
+      "name": "玛丽亚·阿德莱德·阿马拉尔 Maria Adelaide Amaral"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042178/",
+      "name": "马赛罗·戈麦斯 Marcelo Gomes"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275065/",
+      "name": "桑德拉·科维洛尼 Sandra Corveloni"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1177394/",
+      "name": "费尔南达·德·弗雷塔斯 Fernanda de Freitas"
+    }
+  ]
+,
+  "datePublished": "2015-08-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H40M",
+  "description": "因为在圣保罗州交响乐团的指挥选拔中落败，一位有天赋的小提琴老师来到埃及的黑里欧波里斯，在当地一所公立学校上课。尽管困难重重，音乐本身的力量和师生间的友谊为他们打开了一个新的世界。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

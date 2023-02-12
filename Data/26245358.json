@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "遗忘 Amnesia",
+  "url": "/subject/26245358/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555554777.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050086/",
+      "name": "巴贝特·施罗德 Barbet Schroeder"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050086/",
+      "name": "巴贝特·施罗德 Barbet Schroeder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298329/",
+      "name": "Peter F. Steinbach Peter F. Steinbach"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014166/",
+      "name": "马克思·雷迈特 Max Riemelt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004984/",
+      "name": "玛尔特·克勒尔 Marthe Keller"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1143303/",
+      "name": "费米·雷克萨奇 Fermí Reixach"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000247/",
+      "name": "布鲁诺·冈茨 Bruno Ganz"
+    }
+  ]
+,
+  "datePublished": "2015-05-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H36M",
+  "description": "故事发生在90年代的西班牙，年轻的作曲家乔（马克思·雷迈特 Max Riemelt 饰）从故乡柏林独自一人前往伊维萨岛，在这里的一家非常有名的夜店中，乔找到了一份DJ的工作，他希望这份工作能够成为他进...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "184",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.5"
+  }
+}

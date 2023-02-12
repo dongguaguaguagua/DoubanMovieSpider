@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "恋上朋友的爸爸 友だちのパパが好き",
+  "url": "/subject/26631974/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2271554613.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1480493/",
+      "name": "山内健司 Kenji Yamauchi "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1480493/",
+      "name": "山内健司 Kenji Yamauchi "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008302/",
+      "name": "吹越满 Mitsuru Fukikoshi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338013/",
+      "name": "岸井雪乃 Yukino Kishii"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358621/",
+      "name": "安藤轮子 Wako Andô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317229/",
+      "name": "石桥桂 Kei Ishibashi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325922/",
+      "name": "平岩纸 Kami Hiraiwa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351219/",
+      "name": "宫崎吐梦 Tomu Miyazaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1412652/",
+      "name": "小柳舞香 Maika Koyanagi"
+    }
+  ]
+,
+  "datePublished": "2015-12-19",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H45M",
+  "description": "影片《恋上朋友的爸爸》是一部讲述喜欢上了死党的爸爸，复杂而又纯粹的爱情故事，以独特的触觉进行描写，为日本恋爱电影展现出了新的风貌。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "168",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.1"
+  }
+}

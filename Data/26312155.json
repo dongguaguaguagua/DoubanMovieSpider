@@ -1,0 +1,60 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "泰姬陵 Taj Mahal",
+  "url": "/subject/26312155/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2384044013.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1296413/",
+      "name": "尼古拉·萨阿达 Nicolas Saada"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334729/",
+      "name": "斯塔西·马汀 Stacy Martin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088133/",
+      "name": "路易多·德·朗克桑 Louis-Do de Lencquesaing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000253/",
+      "name": "吉娜·麦基 Gina McKee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1259070/",
+      "name": "阿尔芭·罗尔瓦赫尔 Alba Rohrwacher"
+    }
+  ]
+,
+  "datePublished": "2015-12-02",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "取材自2008年震驚全球的孟買連環恐怖襲擊事件；威尼斯影展參展作品。
+2008年11月26日，印度孟買的泰姬陵酒店內，法籍少女露爾絲的父母外出晚膳，獨留18歲的她在酒店房內。突然，走廊傳來怪聲，她驚覺...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,113 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "三城记",
+  "url": "/subject/24751764/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2263557391.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042534/",
+      "name": "张婉婷 Mabel Cheung"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042534/",
+      "name": "张婉婷 Mabel Cheung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274690/",
+      "name": "罗启锐 Alex Law"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007251/",
+      "name": "刘青云 Sean Lau"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025141/",
+      "name": "汤唯 Wei Tang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274437/",
+      "name": "秦海璐 Hailu Qin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274628/",
+      "name": "井柏然 Boran Jing"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275273/",
+      "name": "黄觉 Jue Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280673/",
+      "name": "金燕玲 Elaine Jin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323026/",
+      "name": "李建义 Jianyi Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313991/",
+      "name": "焦刚 Gang Jiao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007245/",
+      "name": "陈欣健 Philip Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397537/",
+      "name": "李洋 Yang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349694/",
+      "name": "米罗斯拉夫·卡雷尔 Miroslav Karel"
+    }
+  ]
+,
+  "datePublished": "2015-08-27",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT2H10M",
+  "description": "在那个动荡的四、五十年代，爱情绝对得来不易——一件订情信物、一首情歌、一个约定都足以令恋人魂牵梦萦。
+身份复杂的警察房道龙（刘青云 饰）遇上具有传奇色彩的女子陈月荣（汤唯 饰），他们的爱情故事横越了三...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "22530",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.2"
+  }
+}

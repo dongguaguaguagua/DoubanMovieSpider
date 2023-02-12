@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不可儿戏 The Importance of Being Earnest",
+  "url": "/subject/26764902/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2328684277.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1011017/",
+      "name": "阿德里安·诺布尔 Adrian Noble"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027987/",
+      "name": "奥斯卡·王尔德 Oscar Wilde"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1048162/",
+      "name": "大卫·苏切 David Suchet"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337106/",
+      "name": "迈克尔·本茨 Michael Benz"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1090141/",
+      "name": "米歇尔·多特里斯 Michele Dotrice"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1131900/",
+      "name": "理查德·奥卡拉汉 Richard O&#39;Callaghan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428596/",
+      "name": "Imogen Doel Imogen Doel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396465/",
+      "name": "艾米莉·巴伯 Emily Barber"
+    }
+  ]
+,
+  "datePublished": "2015-10-08",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H50M",
+  "description": "In 1890&#39;s England, two friends use the pseudonym, Earnest, for their on-the-down-low activities, add...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1080",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "9.3"
+  }
+}

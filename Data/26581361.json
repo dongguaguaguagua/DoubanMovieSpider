@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "风暴 Tempête",
+  "url": "/subject/26581361/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2321171468.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309030/",
+      "name": "塞缪尔·科拉尔戴 Samuel Collardey"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1309030/",
+      "name": "塞缪尔·科拉尔戴 Samuel Collardey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017537/",
+      "name": "凯瑟琳·派勒 Catherine Paille"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2015-09-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H29M",
+  "description": "Dom, 36 years old, is a sailor on board of the fishing boat Petit Gael II from the port of Les Sable...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

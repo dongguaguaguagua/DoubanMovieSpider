@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "来信 Umrika",
+  "url": "/subject/25902653/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2251366011.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322230/",
+      "name": "苏拉·沙玛 Suraj Sharma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1204197/",
+      "name": "托尼·雷沃罗利 Tony Revolori"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312191/",
+      "name": "普拉提克·巴巴尔 Prateik Babbar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322231/",
+      "name": "阿迪勒·侯赛因 Adil Hussain"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338803/",
+      "name": "拉什·塔朗 Rajesh Tailang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428387/",
+      "name": "索罗森妮·莫伊特罗 Sauraseni Maitra"
+    }
+  ]
+,
+  "datePublished": "2015-01-24",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H38M",
+  "description": "一个印度的小村庄近来因为一位去美国旅游的村民而变得生气勃勃。他通过寄信回家仔细讲述了他的旅程见闻，这引起了社会广泛的讨论同时也带来了希望。但某一天他的来信突然停止了，他的弟弟决定出Rama发去美国寻找...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "108",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

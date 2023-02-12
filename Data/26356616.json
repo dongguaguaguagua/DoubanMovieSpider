@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "L&#39;Autre côté de novembre",
+  "url": "/subject/26356616/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050122/",
+      "name": "阿欣妮·哈尼安 Arsinée Khanjian"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009663/",
+      "name": "帕斯卡·比西埃尔 Pascale Bussières"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000771/",
+      "name": "大卫·拉艾 David La Haye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1103196/",
+      "name": "马克·拉布雷什 Marc Labrèche"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310215/",
+      "name": "Nada Abou Farhat Nada Abou Farhat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132101/",
+      "name": "Donald Pilon Donald Pilon"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "At one point in our lives, a choice appears as a key that opens a door while closing all the others....",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

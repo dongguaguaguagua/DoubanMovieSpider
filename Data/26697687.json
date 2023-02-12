@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "奇葩特工之国产008",
+  "url": "/subject/26697687/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2302206790.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355847/",
+      "name": "吴俊贤 Junxian Wu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355847/",
+      "name": "吴俊贤 Junxian Wu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419854/",
+      "name": "张世玉 Shiyu Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344126/",
+      "name": "曲昱曈 Yutong Qu"
+    }
+  ]
+,
+  "datePublished": "2015-12-30",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u52a8\u4f5c"],
+  "duration": "PT1H7M",
+  "description": "《赌神归来》导演又一力作，008再掀特工热潮，奇葩特工爆笑来袭，“星爷”经典作品再续前缘。 曾经能横扫一片敌手的金牌特工，却落寞于市井之间，蛰伏八年终接到任务。一连串奇葩事故频出：情变、敌变、境变，特...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

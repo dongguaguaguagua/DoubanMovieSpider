@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "大山的女儿",
+  "url": "/subject/26368372/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2321593080.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1385080/",
+      "name": "庄红胜 Hongsheng Zhuang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372049/",
+      "name": "陈青 Qing Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1320521/",
+      "name": "马晓辉 Xiaohui Ma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312837/",
+      "name": "孙清 Qing Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1409909/",
+      "name": "董娴 Xian Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331832/",
+      "name": "宋茹惠 Ruhui Song"
+    }
+  ]
+,
+  "datePublished": "2016-01-21",
+  "genre": ["\u5267\u60c5", "\u5386\u53f2", "\u6218\u4e89"],
+  "duration": "PT1H43M",
+  "description": "1945年抗日战争胜利前夕，在中国沿海一处大山里，中国妇女山菊在战火中救起一名日本女婴，她含辛茹苦，独自将女儿(日本遗孤)抚养成人，培养成著名的二胡演奏家，改革开放后，她以中国人民的善良，秉承中国女性...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "121",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.7"
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "租爸妈过年",
+  "url": "/subject/26882407/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2384444851.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355324/",
+      "name": "郭姝彤 Shutong Guo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361162/",
+      "name": "夏和平 Heping Xia"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335345/",
+      "name": "李天洋 Tianyang Li"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H29M",
+  "description": "春节，报纸出租启示：两位老人将自己出租。李家兄妹自小无父母，见启示后决定租下老人过个团圆年。老人女儿本来出国旅游，改变主意回家过年。却发现父母不见了，看到报纸开始了寻亲之旅……",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

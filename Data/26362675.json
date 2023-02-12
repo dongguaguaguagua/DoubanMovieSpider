@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "The Stinky and Dirty Show",
+  "url": "/subject/26362675/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2436800834.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358398/",
+      "name": "伊坦·瓦克 Ethan Wacker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364414/",
+      "name": "达林·德·保罗 Darin De Paul"
+    }
+  ]
+,
+  "datePublished": "2015-01-15",
+  "genre": ["\u52a8\u753b", "\u5bb6\u5ead"],
+  "duration": "",
+  "description": "The adventures of best friends and unlikely heroes, Stinky the garbage truck and Dirty the backhoe l...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

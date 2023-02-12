@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "拯救希拉",
+  "url": "/subject/25904346/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2197421402.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367382/",
+      "name": "崔颢城 Hank"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H7M",
+  "description": "电影《拯救希拉》讲述了夜店女 孩姚倩倩为了考验青梅竹马的男友对 自己的爱情的忠贞，自导自演了一场 闹剧绑票案，从而引发了男友陈东一 场大规模的拯救行动。在朋友在帮助 下，陈东不仅救下了自己的女友，并 ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "102",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.5"
+  }
+}

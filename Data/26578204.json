@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "忍者怪物 NINJA THE MONSTER",
+  "url": "/subject/26578204/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2258334849.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1386444/",
+      "name": "落合贤 Ken Ochiai"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1244920/",
+      "name": "藤冈靛 Tatsuo Dean Fujioka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321714/",
+      "name": "森川葵 Aoi morikawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1002255/",
+      "name": "和田聪宏 Toshihiro Wada"
+    }
+  ]
+,
+  "datePublished": "2016-02-20",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ca\u609a", "\u5947\u5e7b", "\u5192\u9669"],
+  "duration": "PT1H24M",
+  "description": "日本战国时代随着德川家一统天下而落下帷幕。在战国乱世发挥了巨大作用的忍者集团，由于其潜在的威胁而遭到幕府的封杀。当是时，长野藩大旱连年，饿殍遍野，处于贫困破败的时刻。在之前的联络杳无音讯的情况下，长野...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "242",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

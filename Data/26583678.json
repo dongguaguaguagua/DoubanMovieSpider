@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女孩之夜 Girls Night",
+  "url": "/subject/26583678/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2260167778.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032096/",
+      "name": "斯托米·丹尼尔斯 Stormy Daniels"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032096/",
+      "name": "斯托米·丹尼尔斯 Stormy Daniels"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032096/",
+      "name": "斯托米·丹尼尔斯 Stormy Daniels"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342420/",
+      "name": "艾莉森.泰勒 Alison Tyler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1246531/",
+      "name": "莱克茜·贝莉 Lexi Belle"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328224/",
+      "name": "香奈儿·普雷斯顿 Chanel Preston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1253418/",
+      "name": "达娜·德阿蒙德 Dana DeArmond"
+    }
+  ]
+,
+  "datePublished": "2015-03-18",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ac\u7591", "\u5192\u9669"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "龙吟",
+  "url": "/subject/25904348/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2303365960.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1475672/",
+      "name": "王文盛 Shengli  Wang"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1420478/",
+      "name": "杜功海 Gonghai Du"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H33M",
+  "description": "黄梅戏在以安徽桐城为中心的广大地区历经百年发扬光大，在19世纪上半叶，名闻天下成为中国五大剧种之一。百年之中，无数痴爱黄梅戏的奉献了自己的青春、才华甚至生命。本剧讲述的是在三十年代，安徽桐城一名叫陈宝...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

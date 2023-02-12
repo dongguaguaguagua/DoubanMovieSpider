@@ -1,0 +1,130 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雄狮 Lion",
+  "url": "/subject/26220650/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2333848819.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356931/",
+      "name": "加斯·戴维斯 Garth Davis"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367806/",
+      "name": "萨罗·布赖尔利 Saroo Brierley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1308544/",
+      "name": "卢克·戴维斯 Luke Davies"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025134/",
+      "name": "戴夫·帕特尔 Dev Patel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274969/",
+      "name": "鲁妮·玛拉 Rooney Mara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049573/",
+      "name": "大卫·文翰 David Wenham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054442/",
+      "name": "妮可·基德曼 Nicole Kidman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365303/",
+      "name": "桑尼·帕沃 Sunny Pawar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313213/",
+      "name": "纳瓦祖丁·席迪圭 Nawazuddin Siddiqui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1305739/",
+      "name": "塔妮莎·查特吉 Tannishtha Chatterjee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350826/",
+      "name": "迪普提·纳瓦尔 Deepti Naval"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1262539/",
+      "name": "马尼克·古纳拉塔尼 Menik Gooneratne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355648/",
+      "name": "本杰明·里格比 Benjamin Rigby"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367806/",
+      "name": "萨罗·布赖尔利 Saroo Brierley"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1393770/",
+      "name": "贝琳达·米塞夫斯基 Belinda Misevski"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421785/",
+      "name": "帕拉维·沙尔达 Pallavi Sharda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329814/",
+      "name": "埃蒙·法伦 Eamon Farren"
+    }
+  ]
+,
+  "datePublished": "2016-09-10",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H58M",
+  "description": "萨罗（戴夫·帕特尔 Dev Patel 饰）和妹妹、哥哥以及母亲过着相依为命的生活，虽然贫穷艰辛，但一家人在一起相互扶持，日子过得依然温暖而又充满了欢乐。一次偶然中，萨罗同哥哥在火车站走散了，误打误撞...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "65259",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

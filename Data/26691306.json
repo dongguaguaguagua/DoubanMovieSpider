@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "没有宇宙的上帝 Gudsforladt",
+  "url": "/subject/26691306/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2438150136.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1059046/",
+      "name": "彼得·奥德 Peter Aude"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1425272/",
+      "name": "约翰尼斯·尼玛克 Johannes Nymark"
+    }
+  ]
+,
+  "datePublished": "2015-05-28",
+  "genre": ["\u5267\u60c5", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H34M",
+  "description": "Two siblings are trying to cope with their brutal past, as their inner beast are leading them on a p...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

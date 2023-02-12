@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "天外飞叶 Star Leaf",
+  "url": "/subject/26421294/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2272178454.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1221405/",
+      "name": " Richard Cranor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313618/",
+      "name": "拉塞尔·霍奇金森 Russell Hodgkinson"
+    }
+  ]
+,
+  "datePublished": "2015-06-06",
+  "genre": ["\u6050\u6016"],
+  "duration": "PT1H17M",
+  "description": "Hikers find a secret grove of extra-terrestrial marijuana and must fight for their lives when they a...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "39",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

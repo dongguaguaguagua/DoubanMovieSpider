@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "卡普尔家的儿子们 Kapoor and Sons",
+  "url": "/subject/26753451/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2325944476.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355827/",
+      "name": "沙昆·巴特拉 Shakun Batra"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355827/",
+      "name": "沙昆·巴特拉 Shakun Batra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355828/",
+      "name": "阿沙·德维特 Ayesha DeVitre"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325015/",
+      "name": "施坦·马洛萨 Sidharth Malhotra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1324899/",
+      "name": "阿莉雅·布哈特 Alia Bhatt"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347820/",
+      "name": "法瓦德·可汗 Fawad Khan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050067/",
+      "name": "里希·卡普尔 Rishi Kapoor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1288114/",
+      "name": "拉贾特·卡普尔 Rajat Kapoor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1132699/",
+      "name": "拉特纳·帕塔克 Ratna Pathak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355830/",
+      "name": "苏坎·戈尔 Sukant Goel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025276/",
+      "name": "桑杰·达特 Sanjay Dutt"
+    }
+  ]
+,
+  "datePublished": "2016-03-18",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT2H12M",
+  "description": "卡普尔家族的爷爷一直希望能有一张全家福，这个愿望看似简单，却难以实现，在卡普尔爷爷即将迎来的90岁大寿，两个从国外归来的孙子拉胡尔和阿琼希望趁此机会圆了爷爷的愿望，一个年轻美丽的女孩蒂娅不经意的闯入了...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3600",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.8"
+  }
+}

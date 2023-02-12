@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "亲爱的汉斯，亲爱的彼得 Милый Ханс, дорогой Петр",
+  "url": "/subject/26326767/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2380596608.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047476/",
+      "name": "亚历山大·明达泽 Aleksandr Mindadze"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047476/",
+      "name": "亚历山大·明达泽 Aleksandr Mindadze"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310982/",
+      "name": "雅各布·迪尔 Jakob Diehl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1091444/",
+      "name": "马克·霍泽曼 Marc Hosemann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338786/",
+      "name": "罗扎·哈伊鲁林娜 Roza Khayrullina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000663/",
+      "name": "比吉特·米尼希迈尔 Birgit Minichmayr"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u6218\u4e89"],
+  "duration": "PT1H50M",
+  "description": "It is a story of love and friendship, proclaiming the triumph of the universal human values. Unaware...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

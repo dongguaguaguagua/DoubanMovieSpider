@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "城堡 K",
+  "url": "/subject/26304581/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2222856584.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437544/",
+      "name": "阿米尔 Emyr ap Richard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437775/",
+      "name": "额德尼宝力格 Erdenibulag Darhad"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012608/",
+      "name": "弗兰茨·卡夫卡 Franz Kafka"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317116/",
+      "name": "巴音 Bayaneruul"
+    }
+  ]
+,
+  "datePublished": "2015-02-07",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H25M",
+  "description": "K来到偏远小村子，给城堡官样文化无休止留难，这你听过了，但能想像场景是蒙古大漠麽？卡夫卡的《城堡》由贾樟柯监製果然不一样。K穿越的蒙古草原没有在望的城堡，他抵达时是阳光普照的午后，村子一下子甦醒过来。...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "49",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}

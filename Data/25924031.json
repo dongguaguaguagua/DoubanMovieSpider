@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "音乐少女 音楽少女",
+  "url": "/subject/25924031/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2236279502.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346167/",
+      "name": "沼仓爱美 Manami Numakura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315671/",
+      "name": "濑户麻沙美 Asami Seto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020667/",
+      "name": "早见沙织 Saori Hayami"
+    }
+  ]
+,
+  "datePublished": "2015-04-17",
+  "genre": ["\u52a8\u753b", "\u97f3\u4e50"],
+  "duration": "PT0H25M",
+  "description": "PINE RECORDS是一个非常努力在营业的偶像团体，可即便如此，他们的财政依然坚持不懈的保持着赤字状态，这令制作人感到非常的头疼，他认为，想要反败为胜的关键点在于吸收新鲜的血液，在这个节骨眼上，名...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "223",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

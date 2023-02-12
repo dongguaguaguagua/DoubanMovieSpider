@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "夜中人",
+  "url": "/subject/26710421/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2590705552.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433623/",
+      "name": "鲁念安 Nian&#39;an Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341124/",
+      "name": "潘志远 Chih-yuan Pan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433623/",
+      "name": "鲁念安 Nian&#39;an Lu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5", "\u60ac\u7591", "\u540c\u6027"],
+  "duration": "",
+  "description": "梗概：雨夜，一个神秘的女作家自杀，留下一本创作一半的小说与一堆不解的谜题。房主的儿子苏尘收拾作家死前的住所，发现那本写了一半的小说。随着阅读的进行，他对这本小说着了迷，他发现，如果完成，这会是一本伟大...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

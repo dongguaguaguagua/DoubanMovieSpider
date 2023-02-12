@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "脚尖上的信天游",
+  "url": "/subject/26772683/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2333903763.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1396608/",
+      "name": "余治华 Zhihua Yu"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-03-28",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "讲述的是70年代知青张建下乡到陕北志丹县，一直以来都有足球梦想的张建（足球在那个年代属于资本主义运动）冲破重重压力，在志丹组建了一支草根足球队的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "116",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.6"
+  }
+}

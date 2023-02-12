@@ -1,0 +1,71 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "一场春梦 어떤이의 꿈",
+  "url": "/subject/25947294/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2280052391.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319174/",
+      "name": "曹圣奎 David Cho"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1319174/",
+      "name": "曹圣奎 David Cho"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1043642/",
+      "name": "金烔完 Dong-wan Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312809/",
+      "name": "藤井美菜 Mina Fujii"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381317/",
+      "name": "陈雅凛 Jin A-reum"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381910/",
+      "name": "李凤莲 Lee Bong-ryeon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1383518/",
+      "name": "李圭会 Lee Kyoo-hoi"
+    }
+  ]
+,
+  "datePublished": "2015-11-26",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H13M",
+  "description": "今年夏天的摇滚音乐节上开机拍摄。
+金烔完主演的《一场春梦》是由《圣巴巴拉》导演赵成圭执导，该片是仁川摇滚音乐节为纪念明年创立十周年所拍摄，目前还没定要拍成伪纪录片还是故事片。金烔完饰演的主人公心怀唱歌...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

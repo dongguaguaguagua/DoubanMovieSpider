@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "思念爱 사랑후애",
+  "url": "/subject/26253882/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2313541512.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306025/",
+      "name": "欧宜善 Il-seon Eo"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1306025/",
+      "name": "欧宜善 Il-seon Eo"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274868/",
+      "name": "朴施厚 Park Si-hoo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028294/",
+      "name": "尹恩惠 Eun-hye Yun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313383/",
+      "name": "曹炳琨 Bingkun Cao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314078/",
+      "name": "王力可 Like Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316046/",
+      "name": "周浩东 Haodong Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341072/",
+      "name": "金志珉 Ji-min Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1445319/",
+      "name": "柳俊 Jun Yoo"
+    }
+  ]
+,
+  "datePublished": "2016-03-10",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H47M",
+  "description": "朴施厚、尹恩惠主演的电影《思念爱》预计下半年 中日韩同时上映。电影《思念爱》（原名：《爱后爱》）讲述一个男人在女友陪伴在身边时没有意识到她对自己有多重要，直到她离开后才明白自己原来深爱着她的爱情故事，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

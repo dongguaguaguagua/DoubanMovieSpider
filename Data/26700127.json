@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "路口",
+  "url": "/subject/26700127/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2617976477.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353788/",
+      "name": "张忠新 Zhongxin Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353789/",
+      "name": "黄克 Ke Huang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313649/",
+      "name": "周恒远 Hengyuan Zhou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353782/",
+      "name": "王子琦 Ziqi Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353783/",
+      "name": "德欣欣 Xinxin De"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353784/",
+      "name": "朱卫东 Weidong Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353785/",
+      "name": "吴婕 Jie Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353786/",
+      "name": "王倩妮 Qianni Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353787/",
+      "name": "王群石 Qunshi Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H34M",
+  "description": "苏浩（周恒远 饰）是一名刚毕业的大学生，他怀揣着梦想，投入当代创业大军之中，创立一家广告公司，却一直找不到合适的盈利模式，倍感前路迷茫。春雪（王子琦 饰）是一个热爱教育事业，关爱留守儿童的女孩，邂逅苏...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

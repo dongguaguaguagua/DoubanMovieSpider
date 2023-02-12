@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "早安龙门崮",
+  "url": "/subject/26264366/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2630911681.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321907/",
+      "name": "郑来志 Laizhi Zheng"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1181025/",
+      "name": "田华 Hua Tian"
+    }
+  ]
+,
+  "datePublished": "2015-05-05",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

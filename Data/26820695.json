@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "幽灵火花 Theri",
+  "url": "/subject/26820695/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2360675263.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315650/",
+      "name": "维杰 Vijay"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1267011/",
+      "name": "萨曼莎·鲁斯·帕布 Samantha Ruth Prabhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327809/",
+      "name": "艾米·杰克逊 Amy Jackson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339194/",
+      "name": "桑奈纳 Sunaina"
+    }
+  ]
+,
+  "datePublished": "2016-04-14",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u60ca\u609a"],
+  "duration": "PT2H37M",
+  "description": "When an honest cop, Vijay Kumar&#39;s family is ruthlessly slaughtered by a politician and his aides, he...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "104",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

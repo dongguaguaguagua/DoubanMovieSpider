@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "风之记忆 Rüzgârin Hatiralari",
+  "url": "/subject/26686051/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2352752215.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322586/",
+      "name": "奥赞·阿培尔 Özcan Alper"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322586/",
+      "name": "奥赞·阿培尔 Özcan Alper"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1299722/",
+      "name": "穆斯塔法.乌古鲁 Mustafa Ugurlu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009558/",
+      "name": "图芭·布尤库斯滕 Tuba Büyüküstün"
+    }
+  ]
+,
+  "datePublished": "2015-12-04",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H2M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

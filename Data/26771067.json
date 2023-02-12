@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "听风者之歌 ربيع",
+  "url": "/subject/26771067/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2417981251.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334322/",
+      "name": "瓦切·布鲁古钧 Vatche Boulghourjian"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334322/",
+      "name": "瓦切·布鲁古钧 Vatche Boulghourjian"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391747/",
+      "name": "朱莉娅·卡萨 Julia Kassar"
+    }
+  ]
+,
+  "datePublished": "2016-05-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "黎巴嫩小村庄里的少年拉比，虽然双眼全盲却深具音乐天赋，因出国演 出需申请新护照，意外发现自己的身份证明是伪造！惊觉自己活在谎言 之中的惊恐与愤怒席卷而来，无论少年如何追问，却无人能说明真相。 在中东民...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "400",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

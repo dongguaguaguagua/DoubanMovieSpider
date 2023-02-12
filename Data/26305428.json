@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "无罪可赦 Arrêtez-moi là",
+  "url": "/subject/26305428/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2310527505.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356724/",
+      "name": "吉尔斯·班尼尔 Gilles Bannier"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356724/",
+      "name": "吉尔斯·班尼尔 Gilles Bannier"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356725/",
+      "name": "纳塔莉·赫茨伯格 Nathalie Hertzberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356726/",
+      "name": "伊恩·利维森 Iain Levison"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342703/",
+      "name": "勒达·卡代布 Reda Kateb"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1005358/",
+      "name": "蕾雅·德吕盖 Léa Drucker"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336358/",
+      "name": "吉勒·科昂 Gilles Cohen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355190/",
+      "name": "埃里卡圣 Erika Sainte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350641/",
+      "name": "茱莉亚·皮亚彤 Julia Piaton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345488/",
+      "name": "斯蒂芬妮·穆拉特 Stéphanie Murat"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1042331/",
+      "name": "桑德利娜·布兰琪 Sandrine Blancke"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1482130/",
+      "name": "弗朗索瓦·卡隆 François Caron"
+    }
+  ]
+,
+  "datePublished": "2016-01-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H34M",
+  "description": "Chauffeur de taxi à Nice, Samson Cazalet, la trentaine, charge une cliente ravissante à l’aéroport. ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "104",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.4"
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "皇拳",
+  "url": "/subject/26765021/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2332441316.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374565/",
+      "name": "代艺霖 Yilin Dai"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352990/",
+      "name": "王博 Bo Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1402879/",
+      "name": "王盛 Sheng Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u52a8\u4f5c", "\u79d1\u5e7b"],
+  "duration": "PT1H18M",
+  "description": "2017年操控机器人对战格斗已经成为了风靡世界的体育竞技项目，陈宗泽从小爱玩拳皇格斗游戏，长大后却一事无成，生日当天偶然得到一个被人抛弃的女机器人零五，巧遇机械世家的经纪师孙小美，两人一拍即合，找齐认...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "开心鬼救鬼",
+  "url": "/subject/26693915/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2378496512.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361993/",
+      "name": "段润 Run Duan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361993/",
+      "name": "段润 Run Duan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388614/",
+      "name": "陈茂林 "
+    }
+  ]
+,
+  "datePublished": "2015-12-22",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H0M",
+  "description": "李鬼生于鬼节，有一双阴阳眼，李逵混迹于黑帮，是李鬼的哥哥。李逵在一次接货过程中惨遭杀害，李鬼决定为哥哥复仇，但苦于毫无线索，只能默默在哥哥坟前抱怨社会的不公。恍惚之间，李逵因为心中充满对阳世的眷恋，不...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

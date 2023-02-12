@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Saint Mary&#39;s Secret",
+  "url": "/subject/25866869/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2179111625.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1156115/",
+      "name": "皮特·詹姆斯·史密斯 Peter James Smith"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1049554/",
+      "name": "安古斯·麦克菲登 Angus Macfadyen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1125121/",
+      "name": "哈里·列尼斯 Harry Lennix"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027445/",
+      "name": "凯文·斯科特·理查德森 Kevin Scott Richardson"
+    }
+  ]
+,
+  "datePublished": "2015-10-13",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "",
+  "description": "Saint Mary&#39;s Secret is a psychological thriller / horror film drawing similarities to and inspiratio...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

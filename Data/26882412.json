@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "刽子手 National Theatre Live: Hangmen",
+  "url": "/subject/26882412/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2384446691.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000304/",
+      "name": "马丁·麦克唐纳 Martin McDonagh"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1019074/",
+      "name": "大卫·莫瑞瑟 David Morrissey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000299/",
+      "name": "安迪·尼曼 Andy Nyman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1206041/",
+      "name": "强尼·弗林 Johnny Flynn"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H0M",
+  "description": "In his small pub in the northern English town of Oldham, Harry (David Morrissey – The Walking Dead, ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "295",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.0"
+  }
+}

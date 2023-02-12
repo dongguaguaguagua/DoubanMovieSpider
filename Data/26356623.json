@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Cerise",
+  "url": "/subject/26356623/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2235629622.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283223/",
+      "name": "热罗姆·恩里科 Jérôme Enrico"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1283223/",
+      "name": "热罗姆·恩里科 Jérôme Enrico"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009769/",
+      "name": "乔纳森·扎凯 Jonathan Zaccaï"
+    }
+  ]
+,
+  "datePublished": "2015-04-01",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "Cerise a 14 ans, mais elle en paraît 20. Cerise a grandi à côté du périphérique, mais la voilà exilé...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

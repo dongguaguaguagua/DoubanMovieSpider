@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "熊出没的夏天",
+  "url": "/subject/26715386/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2571122985.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381865/",
+      "name": "郑喜宁 Xining Zheng"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275575/",
+      "name": "宋方金 Fangjin Song"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340470/",
+      "name": "赵国富 Guofu Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1327585/",
+      "name": "诺民 Min Nuo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1376911/",
+      "name": "王瑞昌 Ruichang Wang"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u513f\u7ae5"],
+  "duration": "PT1H17M",
+  "description": "城市少年阿古拉在当地少女塔娜和老猎人恩和爷爷的帮助下融入自然并为拯救黑熊母子而与盗猎分子虎哥斗智斗勇，最后将盗猎分子全部抓获的冒险传奇故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

@@ -1,0 +1,72 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "派对传统 Legacy",
+  "url": "/subject/26377270/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2260565674.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1235418/",
+      "name": "弗朗茨·德拉姆 Franz Drameh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332053/",
+      "name": "史蒂芬·克里 Steven Cree"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1247646/",
+      "name": "亚历克斯·拉尼佩昆 Alex Lanipekun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351344/",
+      "name": "艾米·泰格 Amy Tyger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367743/",
+      "name": "所罗门·塔伊沃·贾斯提费尔德 Solomon Taiwo Justified"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1415104/",
+      "name": "蒙塔娜·曼宁 Montana Manning"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1428742/",
+      "name": "坦娅·穆迪 Tanya Moodie"
+    }
+  ]
+,
+  "datePublished": "2015-06-19",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H31M",
+  "description": "What do you do when the party of the year kicks you to the curb? Simple... create your own! When Sea...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

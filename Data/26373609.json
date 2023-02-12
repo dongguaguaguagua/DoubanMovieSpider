@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "特别的米林达 De l&#39;ombre il y a",
+  "url": "/subject/26373609/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2245967158.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421414/",
+      "name": "Nathan Nicholovitch Nathan Nicholovitch"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2015-05-16",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H45M",
+  "description": "In Cambodia still haunted by the crimes of the Khmer Rouges, a 45 years old French crossdresser, Mir...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

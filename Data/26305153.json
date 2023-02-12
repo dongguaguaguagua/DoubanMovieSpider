@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "自杀郡 Bridgend",
+  "url": "/subject/26305153/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2302657792.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009352/",
+      "name": "汉娜·穆雷 Hannah Murray"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1357187/",
+      "name": "乔什·奥康纳 Josh O&#39;Connor"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336933/",
+      "name": "埃莉·诺克劳利 Elinor Crawley"
+    }
+  ]
+,
+  "datePublished": "2015-06-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H44M",
+  "description": "為深入調查威爾斯「Bridgend」小鎮的青少年連環自殺事件，一名警探與他的女兒Sara搬來這座被陰晦氣息籠罩的鄉鎮。個性單純又好奇的Sara決定親身走進當地年輕人的小團體，參與他們為自絕朋友舉辦的黑...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "103",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.8"
+  }
+}

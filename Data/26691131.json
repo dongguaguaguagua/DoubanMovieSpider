@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Quase Memória",
+  "url": "/subject/26691131/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2298223718.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025535/",
+      "name": "鲁伊·古雷拉 Ruy Guerra"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025535/",
+      "name": "鲁伊·古雷拉 Ruy Guerra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1034578/",
+      "name": "Carlos Heitor Cony Carlos Heitor Cony"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1142622/",
+      "name": "托尼·拉莫斯 Tony Ramos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045389/",
+      "name": "玛里亚娜·希梅内斯 Mariana Ximenes"
+    }
+  ]
+,
+  "datePublished": "2016-04-14",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H35M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

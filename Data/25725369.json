@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "陷入麻烦的女孩 The Girl Is in Trouble",
+  "url": "/subject/25725369/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2265783687.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1203909/",
+      "name": "朱利叶斯·约拿 Julius Onah"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1203909/",
+      "name": "朱利叶斯·约拿 Julius Onah"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1060041/",
+      "name": "艾丽卡·巴赫蕾达-库鲁斯 Alicja Bachleda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351691/",
+      "name": "沃斯·史蒂文斯 Wass Stevens"
+    }
+  ]
+,
+  "datePublished": "2015-04-03",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H30M",
+  "description": "A Lower East Side bartender becomes entangled in a murder mystery involving a desperate woman, a mis...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "82",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

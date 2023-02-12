@@ -1,0 +1,84 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "死生契阔 Masaan",
+  "url": "/subject/26372271/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2244078706.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345246/",
+      "name": "尼拉杰·加万 Neeraj Ghaywan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345246/",
+      "name": "尼拉杰·加万 Neeraj Ghaywan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356745/",
+      "name": "瓦伦·格罗弗 Varun Grover"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1321334/",
+      "name": "瑞恰·查达 Richa Chadda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1292208/",
+      "name": "桑杰·米什拉 Sanjay Mishra"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356746/",
+      "name": "维杰·卡沙尔 Vicky Kaushal"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355604/",
+      "name": "潘卡·特里帕蒂 Pankaj Tripathi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1440567/",
+      "name": "施维塔·特里帕蒂 Shweta Tripathi as"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1442848/",
+      "name": "什里达·杜比 Shreedhar Dubey"
+    }
+  ]
+,
+  "datePublished": "2015-05-19",
+  "genre": ["\u5267\u60c5", "\u7231\u60c5"],
+  "duration": "PT1H49M",
+  "description": "电影有两条主线并行推进。
+第一条主线讲述的是德维（瑞恰·查达饰）的故事，她与一个小伙子开房遭遇警察“扫黄”，小伙子自杀身亡，父亲帕塔克（桑杰·米什拉饰）成了腐败警官的勒索对象，德维不得不背井离乡。
+第...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3725",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

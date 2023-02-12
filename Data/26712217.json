@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "丫山清风",
+  "url": "/subject/26712217/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885023120.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1326913/",
+      "name": "赵岩松 Yansong Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334707/",
+      "name": "张绍刚 Shaogang Zhang"
+    }
+  ]
+,
+  "datePublished": "2015-10-17",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "影片《丫山清风》以一起损害群众利益的毁林事件为故事背景，揭示了当前存在于乡镇中少数干部中的渎职腐败现象，展示了以县委书记项远、检察长周磊、反贪局长钟灵、大学生村官朱旺福等人为代表的时代先锋形象，通过讲...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

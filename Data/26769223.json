@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们的父亲 The Bouncer",
+  "url": "/subject/26769223/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2546516337.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325130/",
+      "name": "梅尼·耶什 Meni Yaish"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325130/",
+      "name": "梅尼·耶什 Meni Yaish"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1180936/",
+      "name": "赫茨尔·托比 Herzl Tobey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280348/",
+      "name": "亚伯拉罕·切莱克塔尔 Abraham Celektar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1285760/",
+      "name": "Yael Hadar Yael Hadar"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H57M",
+  "description": "This is a story of fatherhood. Ovadia is the strongest and most violent doorman of Tel Aviv night cl...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

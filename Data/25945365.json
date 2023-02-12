@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "女汉子",
+  "url": "/subject/25945365/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334555/",
+      "name": "张军 Jun Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "三个性格迥异的闺蜜，一个外表文静其实内心女汉子，一个看上去女汉子却很小女人，一个最正常却遇见了最麻烦的感情问题。在经历了种种离奇遭遇之后，她们发现了女汉子真正的精神，更好的去面对爱情和人生。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

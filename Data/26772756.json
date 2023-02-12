@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Fui banquero",
+  "url": "/subject/26772756/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2333935153.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334447/",
+      "name": "Patrick Grandperret Patrick Grandperret"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032868/",
+      "name": "罗班松·斯泰弗南 Robinson Stévenin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328837/",
+      "name": "安托万·夏佩 Antoine Chappey"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022991/",
+      "name": "皮埃尔·里夏尔 Pierre Richard"
+    }
+  ]
+,
+  "datePublished": "2016-04-13",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

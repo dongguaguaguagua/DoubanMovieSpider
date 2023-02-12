@@ -1,0 +1,94 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "脱皮爸爸",
+  "url": "/subject/26661194/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2516154772.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298762/",
+      "name": "司徒慧焯 Roy Szeto"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390027/",
+      "name": "佃典彦 Tsuruida Noriko"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1280434/",
+      "name": "陈文强 Man Keung Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1298762/",
+      "name": "司徒慧焯 Roy Szeto"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037098/",
+      "name": "吴镇宇 Francis Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027577/",
+      "name": "古天乐 Louis Koo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339442/",
+      "name": "春夏 Jessie Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339078/",
+      "name": "蔡洁 Jacky Cai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275866/",
+      "name": "田蕊妮 Kristal Tin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340844/",
+      "name": "费曼 Feynman Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1375783/",
+      "name": "谢芷伦 Jan Tse"
+    }
+  ]
+,
+  "datePublished": "2016-10-26",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u5947\u5e7b"],
+  "duration": "PT1H45M",
+  "description": "中年失意的儿子田力行（古天乐饰）在生活上遇到了重重危机：母亲病逝、工作不顺、妻子要求离婚。正处在这苦不堪言的困境中时，田力行79岁的痴呆父亲田一雄（吴镇宇饰）却突如一只再生的蝉，接二连三地脱皮并且不断...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6311",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.4"
+  }
+}

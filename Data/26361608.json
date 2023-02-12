@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "小哥哥 작은 형",
+  "url": "/subject/26361608/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2396538724.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346078/",
+      "name": "沈光镇 Kwang-jin Shim"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1468489/",
+      "name": "李昌元 Chang-Won Lee"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1379146/",
+      "name": "闵智雅 Ji-ah Min"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381296/",
+      "name": "陈庸旭 Jin Yong-wook"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1373552/",
+      "name": "闵庆珍 Kyoung-jin Min"
+    }
+  ]
+,
+  "datePublished": "2015-05-01",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H50M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

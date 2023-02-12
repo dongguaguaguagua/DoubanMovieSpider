@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "咱的女人 Nos femmes",
+  "url": "/subject/26358775/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2238706260.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055175/",
+      "name": "理查德·贝里 Richard Berry"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1277522/",
+      "name": "Eric Assous Eric Assous"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1007064/",
+      "name": "丹尼尔·奥特伊 Daniel Auteuil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040471/",
+      "name": "蒂埃里·莱尔米特 Thierry Lhermitte"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1055175/",
+      "name": "理查德·贝里 Richard Berry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1269068/",
+      "name": " Pauline Lefèvre"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1061919/",
+      "name": "Joséphine Berry Joséphine Berry"
+    }
+  ]
+,
+  "datePublished": "2015-04-29",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H35M",
+  "description": "麦克斯（理查·贝里 Richard Berry 饰）、保罗（丹尼尔·奥图 Daniel Auteuil 饰）和西蒙（蒂埃里·莱尔米特 Thierry Lhermitte 饰）是三位相处多年的老友，彼此...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "179",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.3"
+  }
+}

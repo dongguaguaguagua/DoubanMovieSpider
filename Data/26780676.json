@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冷酷人生 Soyuq: Coldness",
+  "url": "/subject/26780676/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2344076837.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358741/",
+      "name": "巴拉姆·艾克 Bahram Ark"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358742/",
+      "name": "巴曼·艾克 Bahman Ark"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358741/",
+      "name": "巴拉姆·艾克 Bahram Ark"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358742/",
+      "name": "巴曼·艾克 Bahman Ark"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358663/",
+      "name": "桑德拉·达尼斯凡·希瑞斯 Sadra Daneshvar"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358661/",
+      "name": "娜斯琳·莫拉蒂 Nasrin Moradi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358743/",
+      "name": "纳赛尔·哈什米 Nasser Hashemi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1358744/",
+      "name": "阿克巴尔·沙里亚特 Akbar Shariat"
+    }
+  ]
+,
+  "datePublished": "2016-06-13",
+  "genre": ["\u5267\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H28M",
+  "description": "&#34;soyuq&#34; is about a family who have to change their home due to economic problems and 8 years old cha...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

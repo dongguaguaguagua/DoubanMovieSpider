@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Marubhoomiyile Aana",
+  "url": "/subject/30290083/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2577756187.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1276975/",
+      "name": "拉鲁·阿列克斯 Lalu Alex"
+    }
+  ]
+,
+  "datePublished": "2016-08-12",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT2H2M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

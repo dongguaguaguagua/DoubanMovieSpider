@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "那不是我们 That&#39;s Not Us",
+  "url": "/subject/26417945/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2247973267.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391686/",
+      "name": "威廉·苏利文 William Sullivan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391686/",
+      "name": "威廉·苏利文 William Sullivan"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391683/",
+      "name": "莎拉·沃尔顿 Sarah Wharton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1391684/",
+      "name": "妮可·珀塞尔 Nicole Pursell"
+    }
+  ]
+,
+  "datePublished": "2015-07-02",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H37M",
+  "description": "That&#39;s Not Us is an intimate portrait of three twenty-something couples as they travel to a beach ho...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "139",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.7"
+  }
+}

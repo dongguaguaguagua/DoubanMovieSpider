@@ -1,0 +1,43 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你好樱桃 극장판 안녕 자두야",
+  "url": "/subject/26761251/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2327608514.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446371/",
+      "name": "金贤智 Hyeon-ji Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1446752/",
+      "name": "金宝英 Bo-young Kim"
+    }
+  ]
+,
+  "datePublished": "2016-05-04",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT1H14M",
+  "description": "Korea&#39;s national friend, the bubbly Choi Jadu!
+The main character of the classics &#34;Jadurella&#34; and &#34;J...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

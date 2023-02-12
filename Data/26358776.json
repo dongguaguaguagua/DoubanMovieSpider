@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "罗宾汉的真实故事 Robin des Bois, la véritable histoire",
+  "url": "/subject/26358776/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2239930237.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336535/",
+      "name": "安东尼·马尔西阿诺 Anthony Marciano"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336535/",
+      "name": "安东尼·马尔西阿诺 Anthony Marciano"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328341/",
+      "name": "马克斯·布博里尔 Max Boublil"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328341/",
+      "name": "马克斯·布博里尔 Max Boublil"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1248997/",
+      "name": "阿里·阿比唐 Ary Abittan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017841/",
+      "name": "热拉尔丁·纳卡什 Géraldine Nakache"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1084456/",
+      "name": "热拉尔·达尔蒙 Gérard Darmon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1012645/",
+      "name": "帕特里克·坦西 Patrick Timsit"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338536/",
+      "name": "马利克·班泽拉 Malik Bentalha"
+    }
+  ]
+,
+  "datePublished": "2015-04-15",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H27M",
+  "description": "Robin和他搭档非善类 就只偷老 弱 妇女 偷其他人对他们来说风险太大 他们也有梦想 就是买下镇上最受欢迎的妓院 为了筹钱 他就联合别人抢了小镇的税收 却遇到了森林里的义贼他们是劫富济贫的 一起骗 ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "77",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.0"
+  }
+}

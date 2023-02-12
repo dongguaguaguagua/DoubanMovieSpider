@@ -1,0 +1,41 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "冬至",
+  "url": "/subject/26378260/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2241068739.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437108/",
+      "name": "万小布 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437108/",
+      "name": "万小布 "
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT0H4M",
+  "description": "两个对感情彼此绝望的人一起去河边找他们丢失的项链。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

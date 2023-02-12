@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "马可波罗之百眼 Marco Polo: One Hundred Eyes",
+  "url": "/subject/26697796/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2616302157.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1045747/",
+      "name": "埃里克·萨哈罗夫 Alik Sakharov"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1284356/",
+      "name": "约翰·福斯克 John Fusco"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1346199/",
+      "name": "汤姆·吴 Tom Wu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339633/",
+      "name": "洛伦佐·里凯尔米 Lorenzo Richelmy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314456/",
+      "name": "金秀贤 Soo-hyun Kim"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022664/",
+      "name": "杨紫琼 Michelle Yeoh"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317223/",
+      "name": "郑启蕙 Olivia Cheng"
+    }
+  ]
+,
+  "datePublished": "2015-12-26",
+  "genre": ["\u52a8\u4f5c"],
+  "duration": "PT0H28M",
+  "description": "Before he lost his sight. Before he pledged his service to Kublai Khan. Hundred Eyes saw what made h...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "107",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "偷车贼 Boost",
+  "url": "/subject/27063230/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2461700709.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1367557/",
+      "name": "西奥多·佩尔兰 Théodore Pellerin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1426145/",
+      "name": "特论特·加内特 Trent Garrett"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419990/",
+      "name": "法妮·玛莱特 Fanny Mallette"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c"],
+  "duration": "PT1H35M",
+  "description": "哈基姆的父母是东非移民，全家居住在蒙特利尔的帕克区。他和他最好的朋友安东尼一起在他叔叔的身边为当地的犯罪集团工作以挣取额外收入。安东尼最终成功劝服了哈基姆，他们为了获得横财开始偷车单干。但他们的这一选...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

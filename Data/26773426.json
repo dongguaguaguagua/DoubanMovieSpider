@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Der Hodscha und die Piepenkötter",
+  "url": "/subject/26773426/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1010952/",
+      "name": "巴凯特·阿拉库斯 Buket Alakus"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335438/",
+      "name": "Gernot Gricksch Gernot Gricksch"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1028772/",
+      "name": "法比安·布施 Fabian Busch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1151336/",
+      "name": "安娜·思迪布里克 Anna Stieblich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1118899/",
+      "name": "Hasan Ali Mete Hasan Ali Mete"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1143361/",
+      "name": "Sybille J. Schedwill Sybille J. Schedwill"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1156271/",
+      "name": "Hilmi Sözer Hilmi Sözer"
+    }
+  ]
+,
+  "datePublished": "2016-02-17",
+  "genre": ["\u559c\u5267"],
+  "duration": "PT1H30M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

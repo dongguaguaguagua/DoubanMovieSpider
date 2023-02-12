@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "白河夜船",
+  "url": "/subject/26265099/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2231849112.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347611/",
+      "name": "若木信吾 Shingo Wakagi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1347611/",
+      "name": "若木信吾 Shingo Wakagi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1434952/",
+      "name": "鈴木櫂 Kai Suzumoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1024256/",
+      "name": "吉本芭娜娜 Banana Yoshimoto"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274350/",
+      "name": "安藤樱 Sakura Andô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1050495/",
+      "name": "井浦新 ARATA"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1020236/",
+      "name": "谷村美月 Mitsuki Tanimura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1333576/",
+      "name": "竹厚绫 Aya Takekou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352693/",
+      "name": "高桥义明 Yoshiaki Takahashi"
+    }
+  ]
+,
+  "datePublished": "2015-04-25",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H31M",
+  "description": "喧嚣匆忙的都市一隅，平凡女子寺子（安藤樱 饰）终日昏睡。她从很久前就和在职场相识的岩永（井浦新 饰）交往。岩永是一名有妇之夫，他的妻子成为植物人常年卧床，女方亲属的温和让他无法抽身离去，而对爱和自由的...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4636",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.1"
+  }
+}

@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "逐爱 Tie the Knot",
+  "url": "/subject/27615386/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508799998.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040532/",
+      "name": "塔拉·雷德 Tara Reid"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1199064/",
+      "name": "帕维什·齐纳 Parvesh Cheena"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274689/",
+      "name": "奥米·瓦依达 Omi Vaidya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1295316/",
+      "name": "卡维·拉兹 Kavi Raz"
+    }
+  ]
+,
+  "datePublished": "2017-02-21",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5", "\u6b4c\u821e", "\u5bb6\u5ead"],
+  "duration": "PT1H30M",
+  "description": "一个印度女孩因为不愿意接受父母安排的婚事而来到美国。在这里她结识了一个美国女孩，两人很快成为好朋友。在好朋友的介绍下她逐渐开始接触美国的男生，但是文化背景的巨大差异让她苦恼不已，但是好事多磨，最后女主...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "89",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.2"
+  }
+}

@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "你是我真正的朋友 Nannbenda",
+  "url": "/subject/26361161/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2585276511.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339191/",
+      "name": "乌代雅尼蒂·斯大林 Udhayanidhi Stalin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1195838/",
+      "name": "纳彦塔拉 Nayanthara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1297479/",
+      "name": "萨亚士·希德 Sayaji Shinde"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339197/",
+      "name": "桑达南 Santhanam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1437725/",
+      "name": "马诺巴拉 Manobala"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1450168/",
+      "name": "普嘉·拉玛钱德兰 Pooja Ramachandran"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT2H28M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

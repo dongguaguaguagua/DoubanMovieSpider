@@ -1,0 +1,70 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "雨夜惊魂",
+  "url": "/subject/26597955/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2280898029.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351995/",
+      "name": "刘天荣 Tianrong Liu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351995/",
+      "name": "刘天荣 Tianrong Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1314763/",
+      "name": "蓝心妍 CrazybarbyLeni Lan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323199/",
+      "name": "王李丹妮 Daniella Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330786/",
+      "name": "董玉峰 Yufeng Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312698/",
+      "name": "邓紫衣 Ziyi Deng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1439544/",
+      "name": "胡曦文 Xiwen Hu"
+    }
+  ]
+,
+  "datePublished": "2015-11-05",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H20M",
+  "description": "故事讲述一个有“阴阳眼”的女孩扣子，在为男友庆生当夜，为了摆脱纠缠她的小女鬼而误伤了自己的男友，失去理智的她开车逃离男友家，却被突如其来的暴风雨困到一个雨水淹没的桥洞里。积水不断上涨，渗入车内，车门锁...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "800",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.1"
+  }
+}

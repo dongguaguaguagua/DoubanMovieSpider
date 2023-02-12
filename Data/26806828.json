@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不良女主播",
+  "url": "/subject/26806828/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2356801397.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356455/",
+      "name": "覃翘 Qiao Tan"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355302/",
+      "name": "叶良辰 Liangchen Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313582/",
+      "name": "叮当 Ding Dang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360084/",
+      "name": "郑馨在 Xinzai Zheng"
+    }
+  ]
+,
+  "datePublished": "2016-06-07",
+  "genre": ["\u5267\u60c5", "\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H5M",
+  "description": "一次意外的网络邂逅，让叶良辰遇见了女主播Mini。本来对各种宅男活动不屑一顾的叶良辰对Mini一见钟情。叶良辰本人没什么本事，总是做着不合时宜的白日梦，幻想自己是个盖世侠客，却在现实里屡屡碰壁。
+Mi...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "89",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.5"
+  }
+}

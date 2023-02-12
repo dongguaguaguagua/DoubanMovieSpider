@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "道士出山",
+  "url": "/subject/26362770/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2237387279.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351030/",
+      "name": "张涛 Tao Zhang"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351030/",
+      "name": "张涛 Tao Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349114/",
+      "name": "彭禺厶 Yusi Peng"
+    }
+  ]
+,
+  "datePublished": "2015-04-03",
+  "genre": ["\u5267\u60c5", "\u6050\u6016"],
+  "duration": "PT1H11M",
+  "description": "自幼跟随爷爷学习茅山道术的阴十三和史胖子是一对好朋友，他们俩混迹于茅山术吧，十三经常发一些他降妖除魔的事情，只不过很少有人相信罢了。某天他们应邀来到某女子家，对方家里挂紧窗帘，因为一拉开窗帘她就感到有...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3032",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.0"
+  }
+}

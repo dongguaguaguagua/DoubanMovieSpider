@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "西瓜头 โจ หัวแตงโม",
+  "url": "/subject/26361549/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2264248275.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1303706/",
+      "name": "基蒂科恩·利亚西里昆 Kittikorn Liasirikun"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275871/",
+      "name": "吉拉育·拉翁马尼 Jirayu La-ongmanee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1323951/",
+      "name": "阿芮根妲·马哈乐沙空 Ariigantha Mahapreukpong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1334744/",
+      "name": "加亚纳马·诺帕柴 Jayanama Nopachai"
+    }
+  ]
+,
+  "datePublished": "2015-08-06",
+  "genre": ["\u5267\u60c5"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

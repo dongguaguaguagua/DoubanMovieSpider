@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "乡村不寂寞",
+  "url": "/subject/25890947/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2244693828.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322480/",
+      "name": "王择谚 Zeyan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345666/",
+      "name": "胡韵 Yun Hu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322480/",
+      "name": "王择谚 Zeyan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345666/",
+      "name": "胡韵 Yun Hu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315289/",
+      "name": "王璐瑶 Luyao Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275600/",
+      "name": "那威 Wei Na"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317039/",
+      "name": "董立范 Lifan Dong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339093/",
+      "name": "王煜 Yu Wang"
+    }
+  ]
+,
+  "datePublished": "2015-02-15",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H32M",
+  "description": "影片以现代新农村为背景，展现 了当代大学生村官，用自己的聪明才 学，带领烽火村全体村民通过网络科 技招商引资走上致富路的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

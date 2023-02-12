@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "爱蜇人 Wasp",
+  "url": "/subject/26355433/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2254524735.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348988/",
+      "name": "西蒙·海考克 Simon Haycock"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u540c\u6027"],
+  "duration": "PT1H12M",
+  "description": "Olivier and James&#39; romantic break in the South of France is interrupted by the sudden arrival of Car...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

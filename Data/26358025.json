@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "猪猪侠之终极决战",
+  "url": "/subject/26358025/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2253812283.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340248/",
+      "name": "陆锦明 Jinming Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350252/",
+      "name": "陆锦辉 Jinhui Lu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1337455/",
+      "name": "古志斌 Zhibin Gu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340247/",
+      "name": "王晓莉 Xiaoli Wang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322065/",
+      "name": "陆双 Shuang Lu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340198/",
+      "name": "陈志荣 Zhirong Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316493/",
+      "name": "祖晴 Qing Zu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1340199/",
+      "name": "徐经纬 Jingwei Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1322063/",
+      "name": "陈轶 Yi Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350261/",
+      "name": "王萍 Ping Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1392496/",
+      "name": "孙博 Bo Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1350262/",
+      "name": " "
+    }
+  ]
+,
+  "datePublished": "2015-07-10",
+  "genre": ["\u559c\u5267", "\u52a8\u753b", "\u5192\u9669"],
+  "duration": "PT1H30M",
+  "description": "在与黑暗世界怪兽的战斗结束后，童话世界恢复了往日的和平。在此之后，一款变身战队训练系统开发成功，并正式面世。超人强、猪猪侠、菲菲、波比、小呆呆等五名战队伙伴为这款系统做代言，玩家可以由此进入虚拟的童话...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2563",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

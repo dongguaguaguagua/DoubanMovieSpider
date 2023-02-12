@@ -1,0 +1,118 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "不成问题的问题",
+  "url": "/subject/26657126/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504993947.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275132/",
+      "name": "梅峰 Feng Mei"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275132/",
+      "name": "梅峰 Feng Mei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362879/",
+      "name": "黄石 Shi Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1109851/",
+      "name": "老舍 Lao-She"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1051526/",
+      "name": "范伟 Wei Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1275049/",
+      "name": "殷桃 Tao Yin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325810/",
+      "name": "张超 Juck Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313734/",
+      "name": "史依弘 Yihong Shi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362843/",
+      "name": "王一鸣 Yiming Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317746/",
+      "name": "王梓桐 Zitong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1336765/",
+      "name": "蒋中炜 Zhongwei Jiang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365434/",
+      "name": "冯满天 Mantian Feng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1364263/",
+      "name": "梁霆炜 Tingwei Liang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1365435/",
+      "name": "王侃伟 Kanwei Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342745/",
+      "name": "俞颖 Ying Yu"
+    }
+  ]
+,
+  "datePublished": "2016-10-29",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H13M",
+  "description": "1940年代的大后方重庆，一间物产丰富却总是赔钱的树华农场，一场明争暗斗在新旧两个农场主任之间上演。这部根据老舍小说改编的影片似乎叙述了一个永不过时的人间寓言。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "102494",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.1"
+  }
+}

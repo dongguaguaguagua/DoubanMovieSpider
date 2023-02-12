@@ -1,0 +1,76 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "核力突破 Level Up",
+  "url": "/subject/26762946/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2369480165.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1224204/",
+      "name": "亚当·兰道 Adam Randall"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1224204/",
+      "name": "亚当·兰道 Adam Randall"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1008901/",
+      "name": "盖瑞·扬 Gary Young"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032672/",
+      "name": "乔舒华·鲍曼 Joshua Bowman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1339918/",
+      "name": "尼尔·马斯克尔 Neil Maskell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1100629/",
+      "name": "威廉·休斯顿 William Houston"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342964/",
+      "name": "莉拉·米马克 Leila Mimmack"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315193/",
+      "name": "奥利弗·杰森-科恩 Oliver Jackson-Cohen"
+    }
+  ]
+,
+  "datePublished": "2016-08-26",
+  "genre": ["\u60ca\u609a"],
+  "duration": "",
+  "description": "A fast-paced, high concept thriller following a 20 something layabout, who over the course of a day,...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "263",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.5"
+  }
+}

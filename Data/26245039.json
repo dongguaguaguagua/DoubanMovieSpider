@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "已是香港明日 Already Tomorrow in Hong Kong",
+  "url": "/subject/26245039/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2249525185.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352775/",
+      "name": "丁怡瑱 Emily Ting"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352775/",
+      "name": "丁怡瑱 Emily Ting"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1000068/",
+      "name": "郑智麟 Jamie Chung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1017945/",
+      "name": "布莱恩·格林伯格 Bryan Greenberg"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037408/",
+      "name": "吴耀汉 Richard Ng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349053/",
+      "name": "李美思 Ines Laimins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1289819/",
+      "name": "梁普智 Po-Chih Leong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1166195/",
+      "name": "哈利·杜·杨 Harry Du Young"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352775/",
+      "name": "丁怡瑱 Emily Ting"
+    }
+  ]
+,
+  "datePublished": "2015-06-12",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT1H18M",
+  "description": "卢比（杰米·钟 Jamie Chung 饰）是一名在香港工作的玩具设计师，某日，她邂逅了名为乔什（布莱恩·格林伯格 Bryan Greenberg 饰）的男子。乔什是一名金融工作者，却怀揣着写作梦想，...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "10489",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.2"
+  }
+}

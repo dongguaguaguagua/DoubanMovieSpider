@@ -1,0 +1,88 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "野马 Mustang",
+  "url": "/subject/26372545/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2243553554.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349641/",
+      "name": "蒂尼斯·艾葛温 Deniz Gamze Ergüven"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1349641/",
+      "name": "蒂尼斯·艾葛温 Deniz Gamze Ergüven"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1015325/",
+      "name": "艾丽斯·威诺古尔 Alice Winocour"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353197/",
+      "name": "古内丝·森索伊 Günes Sensoy"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353198/",
+      "name": "多嘉·泽伊内普·多古斯鲁 Doga Zeynep Doguslu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353267/",
+      "name": "涂格巴·桑古罗格鲁 Tugba Sunguroglu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1328986/",
+      "name": "艾丽特·伊斯坎 Elit Iscan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354389/",
+      "name": "伊利亚达·阿克迪肯 Ilayda Akdogan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1345527/",
+      "name": "艾贝尔克·佩克詹 Ayberk Pekcan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1344855/",
+      "name": "布拉克·伊依特 Burak Yigit"
+    }
+  ]
+,
+  "datePublished": "2015-05-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H37M",
+  "description": "初夏，在土耳其北部的一个村庄里，拉蕾和她的四个姐妹走在放学回家的路上，和男孩子们天真烂漫地打闹。然而这种行为却被当成了一桩不检点的丑闻，引发可怕的后果。家庭生活变成监狱，从此告别学校，而是为结婚做准备...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "29694",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.0"
+  }
+}

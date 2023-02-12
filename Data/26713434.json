@@ -1,0 +1,52 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "为什么是我的儿子？ Pourquoi mon fils ?",
+  "url": "/subject/26713434/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2312403259.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381961/",
+      "name": "卢卡斯·莫拉莱斯 Lucas Morales"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381961/",
+      "name": "卢卡斯·莫拉莱斯 Lucas Morales"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381961/",
+      "name": "卢卡斯·莫拉莱斯 Lucas Morales"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1381962/",
+      "name": "约瑟夫·穆列库兹 Josef Mlekuz"
+    }
+  ]
+,
+  "datePublished": "2015-06-12",
+  "genre": ["\u5267\u60c5", "\u540c\u6027", "\u5bb6\u5ead"],
+  "duration": "PT0H21M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "95",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.3"
+  }
+}

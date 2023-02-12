@@ -1,0 +1,54 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "深洞 Deep Dark",
+  "url": "/subject/26654400/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2278696958.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1372756/",
+      "name": "肖恩·麦克格拉斯 Sean McGrath"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1124845/",
+      "name": "玛丽·麦克唐纳-刘易斯 Mary McDonald-Lewis"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1135757/",
+      "name": "John Nielsen John Nielsen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1047408/",
+      "name": "Sean McGrath Sean McGrath"
+    }
+  ]
+,
+  "datePublished": "2015-05-23",
+  "genre": ["\u6050\u6016", "\u5947\u5e7b"],
+  "duration": "PT1H19M",
+  "description": "一事无成整日捣鼓艺术品的赫曼在叔叔的介绍下，住进了一间神秘的单间公寓，那里他遇到了一位改变他命运的“缪斯”。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "197",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

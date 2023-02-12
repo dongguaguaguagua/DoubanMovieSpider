@@ -1,0 +1,46 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "出租车 تاکسی",
+  "url": "/subject/26304167/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2236812017.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009626/",
+      "name": "贾法·帕纳西 Jafar Panahi"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009626/",
+      "name": "贾法·帕纳西 Jafar Panahi"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009626/",
+      "name": "贾法·帕纳西 Jafar Panahi"
+    }
+  ]
+,
+  "datePublished": "2015-02-06",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "PT1H22M",
+  "description": "一辆黄色出租车行驶在德黑兰熙熙攘攘的街道上。各种各样的乘客坐上车，每人都直率坦白地回答了司机的各种问题。而这个司机不是别人就是导演贾法•帕纳西本人。在这个移动摄影棚中，导演将摄像机放在仪表板上，通过这...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "20188",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.1"
+  }
+}

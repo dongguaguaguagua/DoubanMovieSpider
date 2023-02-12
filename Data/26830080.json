@@ -1,0 +1,112 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "极限公益联欢会",
+  "url": "/subject/26830080/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2369019019.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351918/",
+      "name": "任静 Jing Ren"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351917/",
+      "name": "严敏 Min Yan"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351918/",
+      "name": "任静 Jing Ren"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338949/",
+      "name": "张艺兴 Yixing Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274317/",
+      "name": "罗志祥 Show Lo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274242/",
+      "name": "黄渤 Bo Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037715/",
+      "name": "黄磊 Lei Huang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1053581/",
+      "name": "孙红雷 Honglei Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1317139/",
+      "name": "王迅 Xun Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316037/",
+      "name": "庾澄庆 Harlem Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316511/",
+      "name": "蔡依林 Jolin Tsai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1313342/",
+      "name": "林俊杰 JJ Lin"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352659/",
+      "name": "杨魏玲花 Linghua Yangwei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352658/",
+      "name": "曾毅 Jamson Zeng"
+    }
+  ]
+,
+  "datePublished": "2016-07-10",
+  "genre": ["\u97f3\u4e50", "\u6b4c\u821e", "\u771f\u4eba\u79c0"],
+  "duration": "PT1H28M",
+  "description": "“极限男人帮”携手华语乐坛超级搭档，劲歌热舞，卖力挥洒热血，完成公益梦想！",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5841",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "9.2"
+  }
+}

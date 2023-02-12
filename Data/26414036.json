@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "外出 외출",
+  "url": "/subject/26414036/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2465958462.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374973/",
+      "name": "郑书允 Jeong Seo-yoon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1397109/",
+      "name": "全贤秀 Hyeon-soo Jeon"
+    }
+  ]
+,
+  "datePublished": "2015-06-11",
+  "genre": ["\u7231\u60c5"],
+  "duration": "PT1H20M",
+  "description": "젊고 아름다운 여자 신혜. 그녀는 남편과 집안 일 밖에 모르는 현모양처다. 하지만 요즘 그녀에겐 걱정이 하나 생겼다. 남편과의 관계가 점점 더 소원해져만 가고 있기 때문. 자신을 ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "729",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.6"
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "扬州，我爱你",
+  "url": "/subject/25931439/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2199302619.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1343126/",
+      "name": "陆芦苇 Luwei Lu"
+    }
+  ]
+,
+  "actor": 
+  [
+  ]
+,
+  "datePublished": "2016-09-25",
+  "genre": ["\u7231\u60c5"],
+  "duration": "",
+  "description": "一部名为《扬州， 我爱你》的电影通过国家新闻出版广 电总局电影局备案，8位亚洲知名艺术 片导演将拍摄8个不同的故事，并串联 起来，用自己的镜头为扬州写下专 属“情书”。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

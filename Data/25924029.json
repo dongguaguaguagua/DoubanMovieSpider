@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "秋之鼓点 アキの奏で",
+  "url": "/subject/25924029/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2236184680.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360477/",
+      "name": "铃木洋平 Suzuki Youhei"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1241851/",
+      "name": "佐藤利奈 Rina Satou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1179019/",
+      "name": "滨田贤二 Kenji Hamada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1348459/",
+      "name": "古川慎 Makoto Furukawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1018687/",
+      "name": "钉宫理惠 Rie Kugimiya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1033366/",
+      "name": "中原麻衣 Mai Nakahara"
+    }
+  ]
+,
+  "datePublished": "2015-04-17",
+  "genre": ["\u52a8\u753b"],
+  "duration": "PT0H25M",
+  "description": "「アニメミライ2015」上映作品。文化庁の若手アニメーター等人材育成事業＝通称「アニメミライ」の2014年度に製作された短編4作品のうちの1本。上京して10年になるアキは、幼い頃からの夢である太鼓奏者...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "369",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

@@ -1,0 +1,100 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "共犯者",
+  "url": "/subject/26602196/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2267129819.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1318888/",
+      "name": "水谷俊之 Toshiyuki Mizutani"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038755/",
+      "name": "松本清张 Seicho Matsumoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1315425/",
+      "name": "浅野妙子 Taeko Asano"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1038207/",
+      "name": "观月亚理莎 Arisa Mizuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1274336/",
+      "name": "仲里依纱 Riisa Naka "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1161267/",
+      "name": "山本耕史 Kôji Yamamoto"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1223702/",
+      "name": "江原由希子 YOU"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1039020/",
+      "name": "大地康雄 Yasuo Daichi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041631/",
+      "name": "寺岛进 Susumu Terajima"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1433218/",
+      "name": "西村元贵 NISHIMURA MOTOKI"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353847/",
+      "name": "伊藤志保乃 Shihono Ito"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1352222/",
+      "name": "片山萌美 Moemi Katayama"
+    }
+  ]
+,
+  "datePublished": "2015-09-30",
+  "genre": ["\u60ac\u7591"],
+  "duration": "PT2H0M",
+  "description": "著名化妆品公司的社长美轮（观月亚里莎 饰）有着不为人知的过去。曾经，她在一家整形医院里担任清洁工的职务，并且对自己并不美丽的外表感到深深的自卑。一天，整容医生义彦（寺岛进 饰）找到了美轮，提出让美轮成...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "280",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}

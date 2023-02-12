@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "偷车贼 Boost",
+  "url": "/subject/25942352/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2193520162.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1044721/",
+      "name": "丹尼·特雷霍 Danny Trejo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1126361/",
+      "name": "罗伯·奈格尔 Rob Nagle"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u72af\u7f6a"],
+  "duration": "PT1H34M",
+  "description": "When Jimmy finds a human kidney in the trunk of his latest boost, he is thrust into a violent underw...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

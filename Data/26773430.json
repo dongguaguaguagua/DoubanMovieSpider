@@ -1,0 +1,89 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Hotel Heidelberg - Kramer gegen Kramer",
+  "url": "/subject/26773430/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1331556/",
+      "name": "Martin Rauhaus Martin Rauhaus"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354647/",
+      "name": "施特凡·格罗斯曼 Stephan Grossmann"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1096151/",
+      "name": "克里斯托夫·玛丽亚·赫布斯特 Christoph Maria Herbst"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1353120/",
+      "name": "达格马·沙切斯 Dagmar Sachse"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1186603/",
+      "name": "乌尔里克·C·扎勒 Ulrike C. Tscharre"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165991/",
+      "name": "吕迪格·福格勒 Rüdiger Vogler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1082903/",
+      "name": "Hanno Friedrich Hanno Friedrich"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1092541/",
+      "name": "汉娜洛蕾·赫格 Hannelore Hoger"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1342637/",
+      "name": "Nele Kiper Nele Kiper"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1162198/",
+      "name": "布拉姆·范·德·弗卢格特 Bram van der Vlugt"
+    }
+  ]
+,
+  "datePublished": "2016-02-26",
+  "genre": ["\u5267\u60c5", "\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

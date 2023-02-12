@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "全心全意 All of My Heart",
+  "url": "/subject/26330331/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2531199409.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1040609/",
+      "name": "皮特·德路易斯 Peter DeLuise"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027157/",
+      "name": "莱西·沙伯特 Lacey Chabert"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1325403/",
+      "name": "布伦南·埃利奥特 Brennan Elliott"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1054334/",
+      "name": "爱德华·阿斯纳 Edward Asner"
+    }
+  ]
+,
+  "datePublished": "2015-02-14",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u5bb6\u5ead"],
+  "duration": "PT1H21M",
+  "description": "A young caterer&#39;s life suddenly changes course when she inherits a country home and learns she must ...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

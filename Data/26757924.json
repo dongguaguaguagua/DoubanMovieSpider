@@ -1,0 +1,47 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "Vieni a vivere a Napoli!",
+  "url": "/subject/26757924/",
+  "image": "https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1356007/",
+      "name": "艾多阿尔多·德·安杰利斯 Edoardo De Angelis"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1037398/",
+      "name": "米丽娅姆·卡塔妮娅 Myriam Catania"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1086013/",
+      "name": "乔瓦尼·埃斯波西托 Giovanni Esposito"
+    }
+  ]
+,
+  "datePublished": "",
+  "genre": ["\u559c\u5267"],
+  "duration": "",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

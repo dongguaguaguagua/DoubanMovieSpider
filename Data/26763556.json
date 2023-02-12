@@ -1,0 +1,64 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "屋中美人 I Am the Pretty Thing That Lives in the House",
+  "url": "/subject/26763556/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2395807441.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004944/",
+      "name": "奥兹·珀金斯 Oz Perkins"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1004944/",
+      "name": "奥兹·珀金斯 Oz Perkins"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1013841/",
+      "name": "露丝·威尔森 Ruth Wilson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1022775/",
+      "name": "鲍勃·巴拉班 Bob Balaban"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1009417/",
+      "name": "黛布拉·哈里 Deborah Harry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1310841/",
+      "name": "露西·宝通 Lucy Boynton"
+    }
+  ]
+,
+  "datePublished": "2016-10-28",
+  "genre": ["\u60ca\u609a"],
+  "duration": "PT1H27M",
+  "description": "护士莉莉受雇照顾已卧床不起的年迈作家布拉姆夫人，但在照顾期间发生一系列奇怪的事情，莉莉觉察屋里有鬼。随后她阅读了这位作家写的鬼怪小说，并得知故事是以真实内容而改编的：屋子原本的新娘被丈夫所杀害后藏匿在...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "378",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "4.7"
+  }
+}

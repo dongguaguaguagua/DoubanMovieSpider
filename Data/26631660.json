@@ -1,0 +1,82 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "我们仨 Nous trois ou rien",
+  "url": "/subject/26631660/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2327041618.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362765/",
+      "name": "凯洪 Kheiron"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362765/",
+      "name": "凯洪 Kheiron"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1362765/",
+      "name": "凯洪 Kheiron"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1316458/",
+      "name": "莱拉·贝蒂 Leïla Bekhti"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1084456/",
+      "name": "热拉尔·达尔蒙 Gérard Darmon"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1041551/",
+      "name": "扎布·布雷特曼 Zabou Breitman"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329191/",
+      "name": "凯恩·科贾迪 Kyan Khojandi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1332591/",
+      "name": "乔纳森·科恩 Jonathan Cohen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1419200/",
+      "name": "卡罗尔·法兰克 Carole Franck"
+    }
+  ]
+,
+  "datePublished": "2015-11-04",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H42M",
+  "description": "D’un petit village du sud de l’Iran aux cités parisiennes, Kheiron nous raconte le destin hors du co...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "121",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.7"
+  }
+}

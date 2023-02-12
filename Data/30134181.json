@@ -1,0 +1,42 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "圣诞浓情 My Christmas Love",
+  "url": "/subject/30134181/",
+  "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2512172872.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1388085/",
+      "name": "亚伦·奥康奈尔 Aaron O&#39;Connell"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1032177/",
+      "name": "鲍比·坎波 Bobby Campo"
+    }
+  ]
+,
+  "datePublished": "2016-12-17",
+  "genre": ["\u559c\u5267", "\u7231\u60c5"],
+  "duration": "PT2H0M",
+  "description": "",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

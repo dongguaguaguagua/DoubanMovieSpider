@@ -1,0 +1,53 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "危险人格",
+  "url": "/subject/26761924/",
+  "image": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2327727604.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429285/",
+      "name": "卢加拿 "
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1429285/",
+      "name": "卢加拿 "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1355302/",
+      "name": "叶良辰 Liangchen Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1384354/",
+      "name": "阮晓伟 Xiaowei Ruan"
+    }
+  ]
+,
+  "datePublished": "2016-04-02",
+  "genre": ["\u60ac\u7591", "\u60ca\u609a", "\u6050\u6016"],
+  "duration": "PT1H6M",
+  "description": "《危险人格》是广州好看吧影业有限公司出品的悬疑惊悚网络大电影。由卢加拿执导，任梓溪、阮晓伟、叶良辰、杜亚飞、柳智玉、陶玲玲主演。
+影片讲述了一家影视公司因内部矛盾而导致一出现场版杀人游戏的故事。",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

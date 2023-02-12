@@ -1,0 +1,65 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "返乡的旅程 Piku",
+  "url": "/subject/26324641/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2443231908.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1312599/",
+      "name": "舒吉特·瑟加 Shoojit Sircar"
+    }
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1014002/",
+      "name": "迪皮卡·帕度柯妮 Deepika Padukone"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1027845/",
+      "name": "阿米达普·巴强 Amitabh Bachchan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108861/",
+      "name": "伊尔凡·可汗 Irrfan Khan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1354712/",
+      "name": "穆苏米·查特吉 Moushumi Chatterjee"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1421376/",
+      "name": "基舒·森古普多 Jishu Sengupta"
+    }
+  ]
+,
+  "datePublished": "2015-05-08",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT2H3M",
+  "description": "皮库（迪皮卡·帕度柯妮 Deepika Padukone 饰）是一名女建筑师，在职场中非常精明强干的她生活里也是独立自主的新兴女性。母亲过世后，皮库不忍心看到父亲落单，于是照顾和陪伴父亲的责任就全部落...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "311",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.8"
+  }
+}

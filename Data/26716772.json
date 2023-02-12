@@ -1,0 +1,66 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "变形记 Metamorfozis",
+  "url": "/subject/26716772/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2595575849.jpg",
+  "director": 
+  [
+  ]
+,
+  "author": 
+  [
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1351043/",
+      "name": "伊戈尔·卡列斯科夫 Egor Koreshkov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1058795/",
+      "name": "尤利娅·奥格 Yuliya Aug"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1330537/",
+      "name": "叶甫盖尼·特卡丘克 Evgeniy Tkachuk"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1329317/",
+      "name": "德尼斯·什韦多夫 Denis Shvedov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1335233/",
+      "name": "Daniil Vorobyov Daniil Vorobyov"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1338776/",
+      "name": "Andrey Dergachev Andrey Dergachev"
+    }
+  ]
+,
+  "datePublished": "2015-11-19",
+  "genre": ["\u5267\u60c5"],
+  "duration": "PT1H43M",
+  "description": "Alexey Senin, a brilliant and world-famous young pianist, lives in a quiet isolated reality, created...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "0",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": ""
+  }
+}

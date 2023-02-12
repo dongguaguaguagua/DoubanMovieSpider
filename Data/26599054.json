@@ -1,0 +1,58 @@
+
+{
+  "@context": "http://schema.org",
+  "name": "维瓦 Viva",
+  "url": "/subject/26599054/",
+  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2297017548.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1279236/",
+      "name": "帕蒂·布莱斯纳奇 Paddy Breathnach"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1293411/",
+      "name": "马克·奥哈洛伦 Mark O&#39;Halloran"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1360146/",
+      "name": "赫克托·美蒂娜 Héctor Medina"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1025451/",
+      "name": "豪尔赫·佩鲁戈里亚 Jorge Perugorría"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "/celebrity/1341419/",
+      "name": "路易斯·阿尔维托·加西亚 Luis Alberto García"
+    }
+  ]
+,
+  "datePublished": "2015-09-04",
+  "genre": ["\u5267\u60c5", "\u540c\u6027"],
+  "duration": "PT1H40M",
+  "description": "無父無母,沉默寡言的少年荷蘇在荒涼小鎮過著邊緣人的生活,靠著為街坊婆婆媽媽理髮的微薄收入度日。一次偶然的機會他站上扮裝皇后的舞台,身著華服粉墨登場的孤獨少年找到了前所未有的力量,自幼缺席的父親卻在此時...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "597",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.5"
+  }
+}
